@@ -45,6 +45,11 @@ U-00117:
 `validate` fails on unresolved transcript review flags, broken script markers, or incomplete
 quotation and claim records.
 
+The reusable text-only correction-agent instructions are in
+[`prompts/transcript-correction.md`](prompts/transcript-correction.md). Substitute the transcript
+and working correction paths for each episode; keep `reviewed: false` until a human checks the
+pass against audio.
+
 ## Provider-neutral diarization format
 
 ```json
