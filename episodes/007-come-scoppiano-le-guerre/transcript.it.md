@@ -30,9 +30,9 @@ c'erano notizie dall'Iraq,
 
 diciamo che Papa Francesco non aveva ancora detto la 3º guerra mondiale è già scoppiata
 
-## U-00008 · cleaned 00:25 · original 01:10 [REVIEW:low-confidence]
+## U-00008 · cleaned 00:25 · original 01:10
 
-e invece adesso poco tempo fa l' detto.
+e invece adesso poco tempo fa l'ha detto.
 
 ## U-00009 · cleaned 00:28 · original 01:13 [REVIEW:low-confidence]
 
@@ -96,7 +96,7 @@ Come scoppia la 1º guerra mondiale? Beh, in fondo lo sappiamo tutti,
 
 ## U-00024 · cleaned 01:15 · original 02:05
 
-comincia con un attentato, l'attentato di Saraievo.
+comincia con un attentato, l'attentato di Sarajevo.
 
 ## U-00025 · cleaned 01:18 · original 02:08 [REVIEW:date]
 
@@ -178,9 +178,9 @@ che so, abbattere 2 grattacieli con 3000 persone dentro.
 
 E invece una 1º cosa che dobbiamo avere ben chiara per capire com'era fatta la gente del 1914
 
-## U-00045 · cleaned 02:15 · original 03:05 [REVIEW:low-confidence]
+## U-00045 · cleaned 02:15 · original 03:05
 
-è che per loro, almeno per I politici di allora,
+è che per loro, almeno per i politici di allora,
 
 ## U-00046 · cleaned 02:19 · original 03:09
 
@@ -346,9 +346,9 @@ fedelmente
 
 per l'impero, anche in Italia questi reggimenti musulmani col Fez.
 
-## U-00087 · cleaned 04:42 · original 05:39 [REVIEW:named-entity]
+## U-00087 · cleaned 04:42 · original 05:39
 
-E invece in Serbia in Serbia in Bosdia
+E invece in Serbia in Serbia in Bosnia
 
 ## U-00088 · cleaned 04:45 · original 05:42
 
@@ -404,7 +404,7 @@ organizzato
 
 ## U-00101 · cleaned 05:22 · original 06:19
 
-in serbia
+in Serbia
 
 ## U-00102 · cleaned 05:24 · original 06:21 [REVIEW:low-confidence]
 
@@ -416,7 +416,7 @@ che questo attentato in cui è stato ammazzato l'arciduca e sua moglie
 
 ## U-00104 · cleaned 05:30 · original 06:26
 
-in serbia con complicità
+in Serbia con complicità
 
 ## U-00105 · cleaned 05:32 · original 06:28
 
@@ -482,17 +482,17 @@ Le folle sono in piazza
 
 a gridare
 
-## U-00121 · cleaned 06:20 · original 07:17 [REVIEW:low-confidence]
+## U-00121 · cleaned 06:20 · original 07:17
 
-la serbia deve morire.
+la Serbia deve morire.
 
 ## U-00122 · cleaned 06:24 · original 07:20
 
 In tedesco fa anche assonanza
 
-## U-00123 · cleaned 06:26 · original 07:22 [REVIEW:low-confidence]
+## U-00123 · cleaned 06:26 · original 07:22
 
-serbien musterben.
+Serbien muss sterben.
 
 ## U-00124 · cleaned 06:29 · original 07:26 [REVIEW:low-confidence]
 
@@ -504,7 +504,7 @@ la Serbia
 
 ## U-00126 · cleaned 06:33 · original 07:30
 
-un grande amico,
+ha un grande amico,
 
 ## U-00127 · cleaned 06:35 · original 07:31
 
@@ -528,7 +528,7 @@ La Russia è una potenza slava, ortodossa,
 
 ## U-00132 · cleaned 06:52 · original 07:48
 
-I serbi sono slavi, ortodossi.
+i serbi sono slavi, ortodossi.
 
 ## U-00133 · cleaned 06:55 · original 07:51 [REVIEW:low-confidence] [REVIEW:named-entity]
 
@@ -590,9 +590,9 @@ poi per cortesia ci si mette anche l'Italia di solito,
 
 ultima delle grandi potenze con un po' di sforzo
 
-## U-00148 · cleaned 07:55 · original 08:55 [REVIEW:low-confidence]
+## U-00148 · cleaned 07:55 · original 08:55
 
-e poi ci son le piccole potenze ma anche loro bellicose nazionaliste agguerrite, la serbia, la romagna, il belgio, ecco
+e poi ci son le piccole potenze ma anche loro bellicose nazionaliste agguerrite, la Serbia, la Romania, il Belgio, ecco
 
 ## U-00149 · cleaned 08:02 · original 09:03 [REVIEW:low-confidence]
 
@@ -634,9 +634,9 @@ Quindi ciascuno per la propria sicurezza
 
 cerca di avere delle alleanze.
 
-## U-00159 · cleaned 08:37 · original 09:37 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00159 · cleaned 08:37 · original 09:37
 
-La serbia è alleata della Russia. Gli austriaci pensano che insomma il mondo capirà la serbia è chiaramente uno stato canaglia che organizzato il terrorismo va punita per la sicurezza di tutti
+La Serbia è alleata della Russia. Gli austriaci pensano che insomma il mondo capirà la Serbia è chiaramente uno stato canaglia che ha organizzato il terrorismo va punita per la sicurezza di tutti
 
 ## U-00160 · cleaned 08:50 · original 09:52 [REVIEW:low-confidence]
 
@@ -650,9 +650,9 @@ I russi
 
 potrebbero intervenire
 
-## U-00163 · cleaned 08:58 · original 10:00 [REVIEW:low-confidence]
+## U-00163 · cleaned 08:58 · original 10:00
 
-ma anche l'Austria è un amico potente
+ma anche l'Austria ha un amico potente
 
 ## U-00164 · cleaned 09:01 · original 10:05 [REVIEW:low-confidence]
 
@@ -660,19 +660,19 @@ più potente di lei perché l'Austria è un grande impero in declino tutto somma
 
 ## U-00165 · cleaned 09:08 · original 10:13
 
-e invece l'Austria è un amico potentissimo
+e invece l'Austria ha un amico potentissimo
 
 ## U-00166 · cleaned 09:11 · original 10:16
 
-che sta diventando la più grande potenza mondiale la germania
+che sta diventando la più grande potenza mondiale la Germania
 
 ## U-00167 · cleaned 09:16 · original 10:20 [REVIEW:low-confidence] [REVIEW:named-entity]
 
 La Germania del Kaiser Guglielmo, lo ricordate Guglielmo coi baffoni a manubrio, l'elmo chiodato?
 
-## U-00168 · cleaned 09:22 · original 10:26 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00168 · cleaned 09:22 · original 10:26
 
-Ma al di là del Kaiser che una figura un po' comica,
+Ma al di là del Kaiser che è una figura un po' comica,
 
 ## U-00169 · cleaned 09:25 · original 10:29
 
@@ -682,9 +682,9 @@ la Germania è una grandissima potenza, il più forte esercito del mondo
 
 e sta costruendo la più forte industria del mondo, anzi è già diventata
 
-## U-00171 · cleaned 09:34 · original 10:39 [REVIEW:named-entity]
+## U-00171 · cleaned 09:34 · original 10:39
 
-la Germania la più grande potenza industriale, già sorpassato l'Inghilterra.
+la Germania la più grande potenza industriale, ha già sorpassato l'Inghilterra.
 
 ## U-00172 · cleaned 09:39 · original 10:44 [REVIEW:named-entity]
 
@@ -732,7 +732,7 @@ L'Austria
 
 ## U-00183 · cleaned 10:19 · original 11:26
 
-abbastanza buon senso da sapere che 1º di fare qualcosa contro la Serbia bisogna chiedere cosa pensano I tedeschi.
+ha abbastanza buon senso da sapere che prima di fare qualcosa contro la Serbia bisogna chiedere cosa pensano i tedeschi.
 
 ## U-00184 · cleaned 10:27 · original 11:34
 
@@ -742,9 +742,9 @@ Il 3 luglio
 
 ci sono I funerali di Francesco Ferdinando.
 
-## U-00186 · cleaned 10:32 · original 11:39 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00186 · cleaned 10:32 · original 11:39
 
-Il giorno dopo il 4 luglio l'imperatore il vecchio imperatore Francesco giuseppe
+Il giorno dopo il 4 luglio l'imperatore il vecchio imperatore Francesco Giuseppe
 
 ## U-00187 · cleaned 10:38 · original 11:45 [REVIEW:low-confidence]
 
@@ -788,15 +788,15 @@ anche se la Russia la protegge,
 
 ## U-00197 · cleaned 11:07 · original 12:14
 
-non 6 d'accordo?
+non sei d'accordo?
 
 ## U-00198 · cleaned 11:08 · original 12:15 [REVIEW:low-confidence]
 
 Ecco è una lettera che a me fa pensare
 
-## U-00199 · cleaned 11:10 · original 12:19 [REVIEW:low-confidence]
+## U-00199 · cleaned 11:10 · original 12:19
 
-alle motivazioni con cui gli occidentali sono andati in iraq o in afganistan dopo l'undici settembre.
+alle motivazioni con cui gli occidentali sono andati in Iraq o in Afghanistan dopo l'undici settembre.
 
 ## U-00200 · cleaned 11:16 · original 12:25 [REVIEW:low-confidence]
 
@@ -806,9 +806,9 @@ Cioè bisogna fare qualcosa,
 
 non è che c'è un ragionamento lucido sulle conseguenze,
 
-## U-00202 · cleaned 11:23 · original 12:31 [REVIEW:low-confidence]
+## U-00202 · cleaned 11:23 · original 12:31
 
-quella che oggi si chiama una exit strada, no. Non 6 d'accordo che bisogna far qualcosa.
+quella che oggi si chiama una exit strategy, no. Non sei d'accordo che bisogna far qualcosa.
 
 ## U-00203 · cleaned 11:29 · original 12:38 [REVIEW:low-confidence] [REVIEW:named-entity]
 
@@ -822,9 +822,9 @@ Quando gli è arrivata la notizia
 
 dell'attentato
 
-## U-00206 · cleaned 11:37 · original 12:46 [REVIEW:low-confidence]
+## U-00206 · cleaned 11:37 · original 12:46
 
-di Saraievo,
+di Sarajevo,
 
 ## U-00207 · cleaned 11:39 · original 12:48
 
@@ -832,7 +832,7 @@ il kaiser Guglielmo
 
 ## U-00208 · cleaned 11:41 · original 12:49
 
-sul telegramma annotato
+sul telegramma ha annotato
 
 ## U-00209 · cleaned 11:44 · original 12:53
 
@@ -858,9 +858,9 @@ se la Russia dovesse intromettersi
 
 la Germania sta con voi.
 
-## U-00215 · cleaned 12:04 · original 13:14 [REVIEW:low-confidence]
+## U-00215 · cleaned 12:04 · original 13:14
 
-Ma il kaiser aggiunge anche però state davvero tranquilli, I russi non avranno il coraggio di intromettersi.
+Ma il Kaiser aggiunge anche però state davvero tranquilli, i russi non avranno il coraggio di intromettersi.
 
 ## U-00216 · cleaned 12:10 · original 13:21 [REVIEW:low-confidence] [REVIEW:named-entity]
 
@@ -898,29 +898,29 @@ Mi fermo ancora un momento su questa assicurazione che il kaiser Guglielmo manda
 
 È una rassicurazione che gli storici hanno poi chiamato l'assegno in bianco. Come è stato dato questo assegno in bianco? La Germania è già un paese parlamentare,
 
-## U-00225 · cleaned 12:56 · original 14:13 [REVIEW:low-confidence]
+## U-00225 · cleaned 12:56 · original 14:13
 
-ci sono I partiti, il parlamento, le libere elezioni.
+ci sono i partiti, il parlamento, le libere elezioni.
 
-## U-00226 · cleaned 12:59 · original 14:16 [REVIEW:low-confidence]
+## U-00226 · cleaned 12:59 · original 14:16
 
-Il kaiser non sentito nessuno.
+Il Kaiser non ha sentito nessuno.
 
 ## U-00227 · cleaned 13:02 · original 14:19
 
-Scritto lui 1º ancora di consultare chiunque
+Ha scritto lui prima ancora di consultare chiunque
 
 ## U-00228 · cleaned 13:05 · original 14:22 [REVIEW:low-confidence]
 
 al suo collega l'imperatore d'Austria dicendo vai tranquillo.
 
-## U-00229 · cleaned 13:10 · original 14:27 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00229 · cleaned 13:10 · original 14:27
 
-Poi il kaiser sentito qualcuno chi? Il parlamento ma neanche per idea.
+Poi il Kaiser ha sentito qualcuno chi? Il parlamento ma neanche per idea.
 
-## U-00230 · cleaned 13:14 · original 14:31 [REVIEW:low-confidence]
+## U-00230 · cleaned 13:14 · original 14:31
 
-Sentito il cancelliere il 1º ministro cioè,
+Ha sentito il cancelliere il primo ministro cioè,
 
 ## U-00231 · cleaned 13:18 · original 14:35 [REVIEW:low-confidence]
 
@@ -928,11 +928,11 @@ sentito il comandante dell'esercito il generale von Moltke e
 
 ## U-00232 · cleaned 13:22 · original 14:39
 
-il generale von Moltke gli detto se scoppia una guerra noi siamo pronti
+il generale von Moltke gli ha detto se scoppia una guerra noi siamo pronti
 
-## U-00233 · cleaned 13:26 · original 14:43 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00233 · cleaned 13:26 · original 14:43
 
-e poi questo è interessante chi sentito ancora il Kaiser Guglielmo?
+e poi questo è interessante chi ha sentito ancora il Kaiser Guglielmo?
 
 ## U-00234 · cleaned 13:30 · original 14:47 [REVIEW:low-confidence] [REVIEW:named-entity]
 
@@ -942,13 +942,13 @@ Sentito Alfred Krupp,
 
 il grande industriale delle armi.
 
-## U-00236 · cleaned 13:35 · original 14:52 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00236 · cleaned 13:35 · original 14:52
 
-La Krupp è la grande la più grande fabbrica di armi del mondo. Il Krupp sentito il bisogno di consultare Alfred Krupp. Se mai dovesse scoppiare una guerra le industrie Kroup sono pronte?
+La Krupp è la grande la più grande fabbrica di armi del mondo. Il Kaiser ha sentito il bisogno di consultare Alfred Krupp. Se mai dovesse scoppiare una guerra le industrie Krupp sono pronte?
 
-## U-00237 · cleaned 13:48 · original 15:05 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00237 · cleaned 13:48 · original 15:05
 
-E Alfred Kroup l' rassicurato le industrie Kroup sono pronte. Però sono sicuri che la guerra non scoppierà tant'è vero che il kaiser dopo aver mandato l'assegno in bianco a Vienna
+E Alfred Krupp l'ha rassicurato le industrie Krupp sono pronte. Però sono sicuri che la guerra non scoppierà tant'è vero che il Kaiser dopo aver mandato l'assegno in bianco a Vienna
 
 ## U-00238 · cleaned 13:59 · original 15:17 [REVIEW:low-confidence]
 
@@ -992,7 +992,7 @@ La Russia è il grande amico della serbia,
 
 ## U-00248 · cleaned 14:36 · original 15:59
 
-ma la Russia un'alleanza
+ma la Russia ha un'alleanza
 
 ## U-00249 · cleaned 14:38 · original 16:01 [REVIEW:low-confidence]
 
@@ -1008,7 +1008,7 @@ la Francia, la repubblica,
 
 ## U-00252 · cleaned 14:47 · original 16:11
 
-laica, anti clericale,
+laica, anticlericale,
 
 ## U-00253 · cleaned 14:49 · original 16:13
 
@@ -1050,9 +1050,9 @@ Oggi a noi sembra che la Germania sia una grande potenza.
 
 La Germania di allora era molto più grande.
 
-## U-00263 · cleaned 15:19 · original 16:43 [REVIEW:named-entity]
+## U-00263 · cleaned 15:19 · original 16:43
 
-Non esisteva la Polonia, non esisteva la cecoslovacchia,
+Non esisteva la Polonia, non esisteva la Cecoslovacchia,
 
 ## U-00264 · cleaned 15:22 · original 16:46 [REVIEW:named-entity]
 
@@ -1072,7 +1072,7 @@ a essere alleati.
 
 ## U-00268 · cleaned 15:40 · original 17:04
 
-E I tedeschi
+E i tedeschi
 
 ## U-00269 · cleaned 15:42 · original 17:06 [REVIEW:low-confidence] [REVIEW:named-entity]
 
@@ -1108,15 +1108,15 @@ tracciare un quadro più ampio farvi entrare nella testa di quella gente che gov
 
 ## U-00277 · cleaned 16:24 · original 17:55
 
-sta vivendo una fase di grande prosperità, di grande espansione economica.
+del 1914 sta vivendo una fase di grande prosperità, di grande espansione economica.
 
-## U-00278 · cleaned 16:30 · original 18:00 [REVIEW:named-entity]
+## U-00278 · cleaned 16:30 · original 18:00
 
-Dopo I decenni di crisi economica della fine dell'Ottocento,
+Dopo i decenni di crisi economica della fine dell'Ottocento,
 
 ## U-00279 · cleaned 16:34 · original 18:04
 
-l'economia ricominciato a tirare,
+l'economia ha ricominciato a tirare,
 
 ## U-00280 · cleaned 16:36 · original 18:07
 
@@ -1130,9 +1130,9 @@ C'è perfino una specie di globalizzazione
 
 ante litteram,
 
-## U-00283 · cleaned 16:42 · original 18:13 [REVIEW:low-confidence]
+## U-00283 · cleaned 16:42 · original 18:13
 
-vabbè oggi è molto facile trovare le globalizzazioni nel passato, io ne ho viste di tutti I tipi, anche l'impero romano era una globalizza ma comunque questa del 14 I tratti di una globalizzazione,
+vabbè oggi è molto facile trovare le globalizzazioni nel passato, io ne ho viste di tutti i tipi, anche l'impero romano era una globalizzazione ma comunque questa del 14 ha i tratti di una globalizzazione,
 
 ## U-00284 · cleaned 16:53 · original 18:23
 
@@ -1176,7 +1176,7 @@ Eppure al tempo stesso
 
 ## U-00294 · cleaned 17:24 · original 18:55
 
-tutti questi paesi anche l'italia
+tutti questi paesi anche l'Italia
 
 ## U-00295 · cleaned 17:27 · original 18:58
 
@@ -1302,13 +1302,13 @@ della prossima guerra.
 
 È uno scenario prevedibile, fa parte dell'orizzonte. Nel 1911
 
-## U-00326 · cleaned 19:04 · original 20:43 [REVIEW:low-confidence]
+## U-00326 · cleaned 19:04 · original 20:43
 
-è uscito in germania un libro di un generale tedesco il generale von Bernardi
+è uscito in Germania un libro di un generale tedesco il generale von Bernhardi
 
-## U-00327 · cleaned 19:10 · original 20:49 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00327 · cleaned 19:10 · original 20:49
 
-che si intitola La germania è la prossima guerra. Mancan 3 anni alla 1º guerra mondiale.
+che si intitola La Germania e la prossima guerra. Mancan 3 anni alla prima guerra mondiale.
 
 ## U-00328 · cleaned 19:16 · original 20:56 [REVIEW:low-confidence]
 
@@ -1326,9 +1326,9 @@ il dovere di fare la guerra. Minare il mondo,
 
 perire.
 
-## U-00332 · cleaned 19:28 · original 21:10 [REVIEW:low-confidence]
+## U-00332 · cleaned 19:28 · original 21:10
 
-Ho fatto un esempio tedesco perché I generali tedeschi son particolarmente propensi a esplicitare
+Ho fatto un esempio tedesco perché i generali tedeschi son particolarmente propensi a esplicitare
 
 ## U-00333 · cleaned 19:34 · original 21:16
 
@@ -1358,21 +1358,21 @@ che abbiamo
 
 fare una guerra fra le grandi potenze sarebbe una catastrofe.
 
-## U-00340 · cleaned 19:55 · original 21:39 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00340 · cleaned 19:55 · original 21:39
 
-Vi cito ancora un libro uscito in quegli anni, Sono I libri che leggevano I primi ministri e I comandanti degli eserciti, ce li avevano sul comodino.
+Vi cito ancora un libro uscito in quegli anni, sono i libri che leggevano i primi ministri e i comandanti degli eserciti, ce li avevano sul comodino.
 
 ## U-00341 · cleaned 20:04 · original 21:48 [REVIEW:date]
 
 Nel 1910
 
-## U-00342 · cleaned 20:05 · original 21:49 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00342 · cleaned 20:05 · original 21:49
 
-esce un libro di un pubblicista inglese, Norman Angel, che si intitola La grande illusione.
+esce un libro di un pubblicista inglese, Norman Angell, che si intitola La grande illusione.
 
-## U-00343 · cleaned 20:12 · original 21:56 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00343 · cleaned 20:12 · original 21:56
 
-Ricordate il film La grande illusione? Beh poi copiato il titolo da questo libro che al suo tempo era molto famoso.
+Ricordate il film La grande illusione? Beh, ha poi copiato il titolo da questo libro che al suo tempo era molto famoso.
 
 ## U-00344 · cleaned 20:18 · original 22:02 [REVIEW:low-confidence] [REVIEW:named-entity]
 
@@ -1446,13 +1446,13 @@ che a un certo punto è successa questa cosa. Vi racconto questo particolare.
 
 A Londra a un certo punto il ministro degli esteri inglese,
 
-## U-00362 · cleaned 21:20 · original 23:09 [REVIEW:low-confidence]
+## U-00362 · cleaned 21:20 · original 23:09
 
-sorrydward gray
+Sir Edward Grey
 
 ## U-00363 · cleaned 21:22 · original 23:12
 
-parlando con l'ambasciatore tedesco, il principe Lichnowski.
+parlando con l'ambasciatore tedesco, il principe Lichnowsky.
 
 ## U-00364 · cleaned 21:26 · original 23:16 [REVIEW:low-confidence]
 
@@ -1494,17 +1494,17 @@ La francia sarebbe inevitabilmente coinvolta
 
 e nessuno sa dove si potrebbe arrivare
 
-## U-00374 · cleaned 21:56 · original 23:46 [REVIEW:low-confidence]
+## U-00374 · cleaned 21:56 · original 23:46
 
-e la descrizione di quello che vi sto raccontando stasera la crisi di Saraievo la crisi dell'estate del 14 solo che questa conversazione
+è la descrizione di quello che vi sto raccontando stasera la crisi di Sarajevo la crisi dell'estate del 14 solo che questa conversazione
 
 ## U-00375 · cleaned 22:04 · original 23:54
 
 è avvenuta 2 anni 1º
 
-## U-00376 · cleaned 22:06 · original 23:56 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00376 · cleaned 22:06 · original 23:56
 
-Nel dicembre del 12 Grey detto queste cose all'ambasciatore tedesco.
+Nel dicembre del 12 Grey ha detto queste cose all'ambasciatore tedesco.
 
 ## U-00377 · cleaned 22:12 · original 24:01
 
@@ -1706,9 +1706,9 @@ nel novembre del 1913
 
 mancano 8 mesi all'attentato di Saraievo
 
-## U-00427 · cleaned 25:25 · original 27:28 [REVIEW:low-confidence]
+## U-00427 · cleaned 25:25 · original 27:28
 
-il re del Belgio è in visita di stato a berlino
+il re del Belgio è in visita di stato a Berlino
 
 ## U-00428 · cleaned 25:29 · original 27:32
 
@@ -1728,11 +1728,11 @@ un generale
 
 ## U-00432 · cleaned 25:36 · original 27:39
 
-al re del belgio e gli dice
+al re del Belgio e gli dice
 
 ## U-00433 · cleaned 25:40 · original 27:42
 
-quello è l'uomo che comanderà la marcia su parigi
+quello è l'uomo che comanderà la marcia su Parigi
 
 ## U-00434 · cleaned 25:44 · original 27:46
 
@@ -1742,9 +1742,9 @@ I piani son talmente
 
 completi che è già tutto deciso perfino chi comanderà ogni singola armata e così via è tutto pronto se dovesse
 
-## U-00436 · cleaned 25:53 · original 27:55 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00436 · cleaned 25:53 · original 27:55
 
-venire la guerra finalmente ultima cosa 1º di tornare a Vienna dove stanno discutendo su esattamente cosa chiedere ai servi e come fare per dargli una bella lezione. Ultima cosa,
+venire la guerra finalmente ultima cosa prima di tornare a Vienna dove stanno discutendo su esattamente cosa chiedere ai serbi e come fare per dargli una bella lezione. Ultima cosa,
 
 ## U-00437 · cleaned 26:04 · original 28:10
 
@@ -1824,11 +1824,11 @@ stanno negoziando un accordo navale
 
 ## U-00456 · cleaned 27:21 · original 29:29
 
-l'inghilterra finora non l'ho quasi menzionata non alleanze l'inghilterra ci tornerò subito
+l'Inghilterra finora non l'ho quasi menzionata non ha alleanze l'Inghilterra ci tornerò subito
 
 ## U-00457 · cleaned 27:27 · original 29:35
 
-ma adesso sta cominciando dei colloqui con la russia
+ma adesso sta cominciando dei colloqui con la Russia
 
 ## U-00458 · cleaned 27:31 · original 29:39 [REVIEW:named-entity]
 
@@ -1854,9 +1854,9 @@ Questi colloqui tra russi e inglesi cominciano ad aprile a maggio
 
 del 14
 
-## U-00464 · cleaned 27:56 · original 30:03 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00464 · cleaned 27:56 · original 30:03
 
-il comandante dell'esercito tedesco Von Moltke dichiara
+il comandante dell'esercito tedesco von Moltke dichiara
 
 ## U-00465 · cleaned 28:01 · original 30:08 [REVIEW:low-confidence]
 
@@ -1866,9 +1866,9 @@ in privato e non in pubblico
 
 da questo momento
 
-## U-00467 · cleaned 28:06 · original 30:13 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00467 · cleaned 28:06 · original 30:13
 
-ogni giorno di ritardo potrà solo diminuire le nostre probabilità di successo. Qualche settimana ancora il 1º giugno del 14 von Moltke dichiara ora siamo pronti
+ogni giorno di ritardo potrà solo diminuire le nostre probabilità di successo. Qualche settimana ancora il primo giugno del 14 von Moltke dichiara ora siamo pronti
 
 ## U-00468 · cleaned 28:18 · original 30:27
 
@@ -1878,9 +1878,9 @@ e più presto è
 
 meglio è. Mancano 4 settimane all'attentato di Sarajevo.
 
-## U-00470 · cleaned 28:25 · original 30:35 [REVIEW:low-confidence]
+## U-00470 · cleaned 28:25 · original 30:35
 
-L' organizzato von molt che l'attentato di Sarajevo
+L'ha organizzato von Moltke l'attentato di Sarajevo
 
 ## U-00471 · cleaned 28:27 · original 30:38
 
@@ -1890,9 +1890,9 @@ no evidentemente
 
 è il catalizzatore
 
-## U-00473 · cleaned 28:31 · original 30:44 [REVIEW:low-confidence]
+## U-00473 · cleaned 28:31 · original 30:44
 
-che fa venir fuori tutte queste cose che sono state lì a bollire per anni torniamo a vienna dove stanno preparando l'ultimatum da mandare alla serbia manderanno un ultimatum durissimo perché gli austriaci non vogliono che I serbi lo accettino
+che fa venir fuori tutte queste cose che sono state lì a bollire per anni torniamo a Vienna dove stanno preparando l'ultimatum da mandare alla Serbia manderanno un ultimatum durissimo perché gli austriaci non vogliono che i serbi lo accettino
 
 ## U-00474 · cleaned 28:45 · original 31:00
 
@@ -1912,7 +1912,7 @@ mettete il mondo davanti al fatto compiuto
 
 ## U-00478 · cleaned 29:00 · original 31:18
 
-1º fate meglio è I russi non oseranno intervenire
+prima fate meglio è i russi non oseranno intervenire
 
 ## U-00479 · cleaned 29:05 · original 31:22
 
@@ -1980,7 +1980,7 @@ gli austriaci dicono alla serbia
 
 ## U-00495 · cleaned 30:00 · original 32:18
 
-il governo serbo non fatto niente per impedire il proliferare del terrorismo
+il governo serbo non ha fatto niente per impedire il proliferare del terrorismo
 
 ## U-00496 · cleaned 30:06 · original 32:23 [REVIEW:low-confidence]
 
@@ -2090,9 +2090,9 @@ gli dice ma non ho mai visto uno stato che manda a un altro stato un documento c
 
 d'epoca non per dare il senso dell'epoca
 
-## U-00523 · cleaned 31:51 · original 34:14 [REVIEW:low-confidence]
+## U-00523 · cleaned 31:51 · original 34:14
 
-il principe lichnowski ambasciatore tedesco dice
+il principe Lichnowsky ambasciatore tedesco dice
 
 ## U-00524 · cleaned 31:54 · original 34:18
 
@@ -2102,9 +2102,9 @@ ma
 
 certo che il linguaggio dell'ultimatum è un po' duro, ma voi capite è rivolto a un popolo balcanico mica a un popolo civile.
 
-## U-00526 · cleaned 32:02 · original 34:25 [REVIEW:low-confidence]
+## U-00526 · cleaned 32:02 · original 34:25
 
-I popoli balcanici non possono essere considerati con gli stessi criteri dei popoli civili culturfelker
+I popoli balcanici non possono essere considerati con gli stessi criteri dei popoli civili, Kulturvölker
 
 ## U-00527 · cleaned 32:09 · original 34:33
 
@@ -2114,9 +2114,9 @@ europei.
 
 Ora
 
-## U-00529 · cleaned 32:12 · original 34:37 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00529 · cleaned 32:12 · original 34:37
 
-siamo a Londra dunque in questo scambio di battute fra Gray e Lichnowski.
+siamo a Londra dunque in questo scambio di battute fra Grey e Lichnowsky.
 
 ## U-00530 · cleaned 32:16 · original 34:41 [REVIEW:named-entity]
 
@@ -2132,7 +2132,7 @@ L'opinione pubblica inglese se ne infischia nel modo più assoluto della serbia
 
 ## U-00533 · cleaned 32:28 · original 34:53
 
-l'inghilterra non alleanze con nessuno
+l'Inghilterra non ha alleanze con nessuno
 
 ## U-00534 · cleaned 32:30 · original 34:58
 
@@ -2204,7 +2204,7 @@ il governo inglese
 
 ## U-00551 · cleaned 33:42 · original 36:13
 
-non mai discusso
+non ha mai discusso
 
 ## U-00552 · cleaned 33:44 · original 36:15
 
@@ -2230,9 +2230,9 @@ che ragiona diversamente.
 
 C'è qualche funzionario del ministero degli esteri noi lo sappiamo per gli appunti che si scambiano in quei giorni.
 
-## U-00558 · cleaned 34:08 · original 36:41 [REVIEW:low-confidence]
+## U-00558 · cleaned 34:08 · original 36:41
 
-C'è qualche funzionario del ministero degli esteri che invece paura di quello che sta succedendo?
+C'è qualche funzionario del ministero degli esteri che invece ha paura di quello che sta succedendo?
 
 ## U-00559 · cleaned 34:14 · original 36:47 [REVIEW:low-confidence]
 
@@ -2310,9 +2310,9 @@ C'è un aneddoto rivelatore 1910.
 
 Un generale inglese molto amico dei francesi Wilson
 
-## U-00578 · cleaned 35:29 · original 38:04 [REVIEW:low-confidence]
+## U-00578 · cleaned 35:29 · original 38:04
 
-sta parlando con un generale francese Fosce e
+sta parlando con un generale francese Foch e
 
 ## U-00579 · cleaned 35:32 · original 38:07 [REVIEW:low-confidence]
 
@@ -2330,9 +2330,9 @@ lo sa dice wilson ma quale sarebbe il numero minimo di soldati inglesi
 
 che potrebbero davvero essere d'aiuto alla francia
 
-## U-00583 · cleaned 35:49 · original 38:24 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00583 · cleaned 35:49 · original 38:24
 
-Siamo 4 anni 1º nel 10. Quale sarebbe il numero minimo di soldati inglesi che potrebbe essere d'aiuto alla francia? E Fosh risponde,
+Siamo 4 anni prima nel 10. Quale sarebbe il numero minimo di soldati inglesi che potrebbe essere d'aiuto alla Francia? E Foch risponde,
 
 ## U-00584 · cleaned 35:57 · original 38:32
 
@@ -2410,9 +2410,9 @@ le squadre tornano ciascuna al suo porto I marinai vanno in licenza
 
 il 1º lord dell'ammiragliato di sua iniziativa ordina la flotta domani non si scioglie
 
-## U-00603 · cleaned 37:44 · original 40:36 [REVIEW:low-confidence]
+## U-00603 · cleaned 37:44 · original 40:36
 
-rimane tutta unita e si trasferisce nel porto da guerra scappa flow nelle orcadi al sicuro
+rimane tutta unita e si trasferisce nel porto da guerra Scapa Flow nelle Orcadi al sicuro
 
 ## U-00604 · cleaned 37:51 · original 40:43 [REVIEW:low-confidence] [REVIEW:date]
 
@@ -2520,7 +2520,7 @@ triplicato
 
 ## U-00630 · cleaned 39:24 · original 42:24
 
-chiamando tutti quelli che sono a casa. Questo è la mobilitazione.
+chiamando tutti quelli che sono a casa. Questa è la mobilitazione.
 
 ## U-00631 · cleaned 39:29 · original 42:28
 
@@ -2540,7 +2540,7 @@ organizzare I reparti e metterli sui treni che li porteranno alla frontiera.
 
 ## U-00635 · cleaned 39:44 · original 42:43
 
-Il tutto 2º dei piani anche quelli minuziosamente
+Il tutto secondo dei piani anche quelli minuziosamente
 
 ## U-00636 · cleaned 39:48 · original 42:47
 
@@ -2548,7 +2548,7 @@ calcolati. La mobilitazione tedesca
 
 ## U-00637 · cleaned 39:51 · original 42:50
 
-calcolata al minuto 2º
+calcolata al minuto secondo
 
 ## U-00638 · cleaned 39:54 · original 42:53
 
@@ -2640,7 +2640,7 @@ Invece c'è un paese in Europa, adesso vediamo se indovinate qual è,
 
 ## U-00660 · cleaned 41:06 · original 44:05
 
-che è sicuro di mobilitare in freddissima.
+che è sicuro di mobilitare in frettissima.
 
 ## U-00661 · cleaned 41:10 · original 44:09
 
@@ -2666,9 +2666,9 @@ Allora lo stesso 26 luglio in cui l'Austria respinge
 
 la risposta serba pur molto moderata all'ultimatum
 
-## U-00667 · cleaned 41:34 · original 44:35 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00667 · cleaned 41:34 · original 44:35
 
-il cancelliere tedesco Bethman Holweg
+il cancelliere tedesco Bethmann Hollweg
 
 ## U-00668 · cleaned 41:37 · original 44:39
 
@@ -2744,7 +2744,7 @@ la gioia del kaiser quando scopre questa cosa è il 1º sintomo che I tedeschi
 
 ## U-00686 · cleaned 42:36 · original 45:41
 
-anche se il generale von molt che 2 mesi 1º detto adesso siamo pronti però un conto è dirlo in teoria
+anche se il generale von Moltke 2 mesi prima ha detto adesso siamo pronti però un conto è dirlo in teoria
 
 ## U-00687 · cleaned 42:42 · original 45:47 [REVIEW:low-confidence]
 
@@ -2774,13 +2774,13 @@ andiamo a punire questi terroristi che minacciano il mondo
 
 c'è un tale ve ne do un esempio
 
-## U-00694 · cleaned 43:16 · original 46:23 [REVIEW:low-confidence]
+## U-00694 · cleaned 43:16 · original 46:23
 
-siegmund Freud
+Sigmund Freud
 
-## U-00695 · cleaned 43:18 · original 46:25 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00695 · cleaned 43:18 · original 46:25
 
-Freud che è austriaco vive a vienna 58 anni già un uomo maturo vissuto tutta la sua vita nell'impero austriaco Freud quando l'Austria dichiara guerra alla serbia
+Freud che è austriaco vive a Vienna ha 58 anni già un uomo maturo vissuto tutta la sua vita nell'impero austriaco Freud quando l'Austria dichiara guerra alla Serbia
 
 ## U-00696 · cleaned 43:28 · original 46:35
 
@@ -2794,9 +2794,9 @@ dice
 
 scrive non so più ma comunque è accertata la cosa Per la 1º volta da trent'anni mi sento veramente austriaco.
 
-## U-00699 · cleaned 43:36 · original 46:43 [REVIEW:low-confidence]
+## U-00699 · cleaned 43:36 · original 46:43
 
-Per la 1º volta penso che questo impero forse un futuro e poi questo veramente è un virgolettato,
+Per la prima volta penso che questo impero forse ha un futuro e poi questo veramente è un virgolettato,
 
 ## U-00700 · cleaned 43:42 · original 46:49 [REVIEW:low-confidence]
 
@@ -2822,9 +2822,9 @@ cioè esattamente
 
 la cosa che I tedeschi gli avevano detto non fatelo perché se no è la guerra.
 
-## U-00706 · cleaned 44:01 · original 47:11 [REVIEW:named-entity]
+## U-00706 · cleaned 44:01 · original 47:11
 
-La Russia mobilita perché paura e neanche I russi vorrebbero fare la guerra
+La Russia mobilita perché ha paura e neanche i russi vorrebbero fare la guerra
 
 ## U-00707 · cleaned 44:06 · original 47:16 [REVIEW:low-confidence]
 
@@ -2866,21 +2866,21 @@ dove imperatori e re hanno ancora potere.
 
 Il 29 luglio comincia la storia
 
-## U-00717 · cleaned 44:34 · original 47:44 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00717 · cleaned 44:34 · original 47:44
 
-dei telegrammi di Nicchi a Willie e di Willie a Nicchi.
+dei telegrammi di Nicky a Willy e di Willy a Nicky.
 
-## U-00718 · cleaned 44:39 · original 47:50 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00718 · cleaned 44:39 · original 47:50
 
-Comincia con un telegramma dello zar di russi a Nicola,
+Comincia con un telegramma dello zar di Russia Nicola,
 
 ## U-00719 · cleaned 44:43 · original 47:53 [REVIEW:low-confidence]
 
 che quel 29 luglio manda un telegramma al al kaiser Guglielmo contro cui sta per mobilitare l'esercito.
 
-## U-00720 · cleaned 44:49 · original 47:59 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00720 · cleaned 44:49 · original 47:59
 
-Lo zar Nicola manda un telegramma al-Kaiser in inglese, questo è anche molto significativo, dà l'idea di che cos'è ormai l'Inghilterra.
+Lo zar Nicola manda un telegramma al Kaiser in inglese, questo è anche molto significativo, dà l'idea di che cos'è ormai l'Inghilterra.
 
 ## U-00721 · cleaned 44:56 · original 48:07 [REVIEW:low-confidence]
 
@@ -2908,7 +2908,7 @@ Dunque lo zar di Russia il 29 luglio manda un telegramma al
 
 ## U-00727 · cleaned 45:33 · original 48:43
 
-Sono contento che 6 tornato dalla crociera.
+Sono contento che sei tornato dalla crociera.
 
 ## U-00728 · cleaned 45:37 · original 48:47
 
@@ -2922,9 +2922,9 @@ e ho bisogno del tuo aiuto.
 
 Una guerra ignobile è stata dichiarata contro un paese debole.
 
-## U-00731 · cleaned 45:47 · original 48:57 [REVIEW:low-confidence]
+## U-00731 · cleaned 45:47 · original 48:57
 
-Lo zaro ovviamente si schiera con la serbia
+Lo zar ovviamente si schiera con la Serbia
 
 ## U-00732 · cleaned 45:50 · original 49:00
 
@@ -2942,21 +2942,21 @@ cioè gli austriaci
 
 Firmato
 
-## U-00736 · cleaned 46:00 · original 49:11 [REVIEW:low-confidence]
+## U-00736 · cleaned 46:00 · original 49:11
 
-Niki.
+Nicky.
 
 ## U-00737 · cleaned 46:01 · original 49:13 [REVIEW:low-confidence]
 
 Il kaiser risponde
 
-## U-00738 · cleaned 46:03 · original 49:15 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00738 · cleaned 46:03 · original 49:15
 
-risponde lo stesso giorno in inglese dicendo ma guarda la cosa dall'altro punto di vista la serbia è stato terrorista l'Austria è stata diritto e così via dai su dovete capire voi russi fate voi un passo indietro firmato Willie.
+risponde lo stesso giorno in inglese dicendo ma guarda la cosa dall'altro punto di vista la Serbia è uno stato terrorista l'Austria ha il diritto e così via dai su dovete capire voi russi fate voi un passo indietro firmato Willy.
 
-## U-00739 · cleaned 46:16 · original 49:28 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00739 · cleaned 46:16 · original 49:28
 
-Si scrivono per 4 giorni una dozzina di telegrammi Niki a Willie e Willie a Niki fino al 1º agosto quando Willie dichiara guerra a Niki. Comunque non precorriamo I tempi abbiamo ancora appunto 4 giorni da sistemare.
+Si scrivono per 4 giorni una dozzina di telegrammi Nicky a Willy e Willy a Nicky fino al primo agosto quando Willy dichiara guerra a Nicky. Comunque non precorriamo i tempi abbiamo ancora appunto 4 giorni da sistemare.
 
 ## U-00740 · cleaned 46:27 · original 49:44 [REVIEW:low-confidence]
 
@@ -2982,9 +2982,9 @@ La Russia si è schierata a fianco di un paese criminale,
 
 di un covo di terroristi.
 
-## U-00746 · cleaned 46:43 · original 50:00 [REVIEW:low-confidence]
+## U-00746 · cleaned 46:43 · original 50:00
 
-Così incomincerà lo sbronamento
+Così incomincerà lo sbranamento
 
 ## U-00747 · cleaned 46:46 · original 50:03
 
@@ -3024,7 +3024,7 @@ di questa classe dirigente
 
 ## U-00756 · cleaned 47:09 · original 50:29
 
-che in realtà chiarissimo che questa guerra sarà una catastrofe
+a cui è chiarissimo che questa guerra sarà una catastrofe
 
 ## U-00757 · cleaned 47:14 · original 50:33 [REVIEW:low-confidence]
 
@@ -3058,9 +3058,9 @@ I politici dicono invece un momento
 
 perché dal punto di vista dei politici è fondamentale
 
-## U-00765 · cleaned 47:43 · original 51:04 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00765 · cleaned 47:43 · original 51:04
 
-far vedere che non è la Germania che la colpa della guerra è tutta colpa dei russi e dei francesi la Germania no.
+far vedere che non è la Germania che ha la colpa della guerra è tutta colpa dei russi e dei francesi la Germania no.
 
 ## U-00766 · cleaned 47:51 · original 51:12 [REVIEW:low-confidence]
 
@@ -3154,9 +3154,9 @@ e questa è una cosa che agli inglesi importa molto
 
 perché nella loro visione dell'Europa il Belgio coi suoi porti affacciati sulla manica,
 
-## U-00789 · cleaned 49:21 · original 52:45 [REVIEW:low-confidence]
+## U-00789 · cleaned 49:21 · original 52:45
 
-avversa,
+Anversa,
 
 ## U-00790 · cleaned 49:22 · original 52:47
 
@@ -3186,9 +3186,9 @@ Per via dei piani.
 
 Perché lo stato maggiore tedesco
 
-## U-00797 · cleaned 49:45 · original 53:10 [REVIEW:named-entity]
+## U-00797 · cleaned 49:45 · original 53:10
 
-un piano perfetto per fare la guerra contro la Francia e la Russia e vincerla in poche settimane.
+ha un piano perfetto per fare la guerra contro la Francia e la Russia e vincerla in poche settimane.
 
 ## U-00798 · cleaned 49:52 · original 53:16
 
@@ -3226,9 +3226,9 @@ per invadere la francia e aggirare l'esercito francese, scusate se entro in ques
 
 I militari tedeschi han deciso che bisogna passare dal Belgio.
 
-## U-00807 · cleaned 50:17 · original 53:41 [REVIEW:low-confidence]
+## U-00807 · cleaned 50:17 · original 53:41
 
-È il famoso piano schliffen che qualcuno si ricorderà,
+È il famoso piano Schlieffen che qualcuno si ricorderà,
 
 ## U-00808 · cleaned 50:20 · original 53:45
 
@@ -3242,9 +3242,9 @@ per anni e anni I militari tedeschi dicono se volete che vi vinciamo la guerra i
 
 il kaiser
 
-## U-00811 · cleaned 50:34 · original 54:01 [REVIEW:low-confidence]
+## U-00811 · cleaned 50:34 · original 54:01
 
-e il cancelliere tedesco betman holveg si rendono conto che se la scommessa è che l'inghilterra resti fuori dalla guerra
+e il cancelliere tedesco Bethmann Hollweg si rendono conto che se la scommessa è che l'Inghilterra resti fuori dalla guerra
 
 ## U-00812 · cleaned 50:41 · original 54:08 [REVIEW:low-confidence]
 
@@ -3270,9 +3270,9 @@ Scrivono a Londra al governo inglese
 
 garantendo.
 
-## U-00818 · cleaned 51:07 · original 54:34 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00818 · cleaned 51:07 · original 54:34
 
-1º che in questa guerra se c'è la guerra contro la Francia gli inglesi possono star tranquilli, la Germania non nessuna aspirazione territoriale.
+primo che in questa guerra se c'è la guerra contro la Francia gli inglesi possono star tranquilli, la Germania non ha nessuna aspirazione territoriale.
 
 ## U-00819 · cleaned 51:14 · original 54:41 [REVIEW:named-entity]
 
@@ -3332,7 +3332,7 @@ meritano un solo commento,
 
 ## U-00833 · cleaned 52:10 · original 55:40
 
-gettano una pessima luce sullo statista che le formulate.
+gettano una pessima luce sullo statista che le ha formulate.
 
 ## U-00834 · cleaned 52:14 · original 55:44 [REVIEW:low-confidence] [REVIEW:named-entity]
 
@@ -3342,17 +3342,17 @@ Oltretutto gli inglesi dicono, ma come questi ci stanno dicendo che invaderanno 
 
 così per iscritto ce l'hanno messo.
 
-## U-00836 · cleaned 52:22 · original 55:52 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00836 · cleaned 52:22 · original 55:52
 
-Grey chiama l'ambasciatore tedesco, il principe Liknowski,
+Grey chiama l'ambasciatore tedesco, il principe Lichnowsky,
 
 ## U-00837 · cleaned 52:26 · original 55:55 [REVIEW:low-confidence]
 
 e gli dice ma guardate che se la guerra scoppia noi non possiamo restare fuori e a questo punto noi entriamo in guerra anche noi a fianco dei nostri amici.
 
-## U-00838 · cleaned 52:34 · original 56:03 [REVIEW:low-confidence]
+## U-00838 · cleaned 52:34 · original 56:03
 
-Gray dice anche una cosa che in quei giorni stanno ripetendo tutti quasi ossessiva.
+Grey dice anche una cosa che in quei giorni stanno ripetendo tutti quasi ossessivamente.
 
 ## U-00839 · cleaned 52:39 · original 56:09 [REVIEW:low-confidence]
 
@@ -3414,9 +3414,9 @@ e 4 per I tedeschi la responsabilità
 
 quel giorno 29 luglio l'ambasciatore tedesco a a bruxelles
 
-## U-00854 · cleaned 53:28 · original 56:59 [REVIEW:low-confidence]
+## U-00854 · cleaned 53:28 · original 56:59
 
-vonbello usalesche
+von Below-Saleske
 
 ## U-00855 · cleaned 53:29 · original 57:01
 
@@ -3426,9 +3426,9 @@ riceve un plico sigillato da berlino
 
 con l'ordine di non aprirlo fino a quando non arriveranno nuove comunicazioni telegrafiche
 
-## U-00857 · cleaned 53:37 · original 57:11 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00857 · cleaned 53:37 · original 57:11
 
-Altro dettaglio inutile, ormai ci siamo, ve lo infigo lo stesso. Fombelo Usalesche è un diplomatico di carriera che l'abitudine di dire scherzando che lui porta sfortuna.
+Altro dettaglio inutile, ormai ci siamo, ve lo infliggo lo stesso. Von Below-Saleske è un diplomatico di carriera che ha l'abitudine di dire scherzando che lui porta sfortuna.
 
 ## U-00858 · cleaned 53:46 · original 57:20 [REVIEW:named-entity]
 
@@ -3442,9 +3442,9 @@ Era in Turchia, è scoppiata la rivoluzione dei giovani turchi. Però poi dice a
 
 Nella notte fra il 29 e il 30 luglio a Berlino non vanno a dormire perché le notizie da Londra li hanno gettati nel panico. Sta venendo fuori che l'Inghilterra entrerà in guerra.
 
-## U-00861 · cleaned 54:10 · original 57:56 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00861 · cleaned 54:10 · original 57:56
 
-Il 30 luglio alle 3 del mattino Betman Holveg cancelliere tedesco chiama Vienna e dice ma non avete capito niente volete davvero far la guerra alla Serbia? Andateci piano
+Il 30 luglio alle 3 del mattino Bethmann Hollweg cancelliere tedesco chiama Vienna e dice ma non avete capito niente volete davvero far la guerra alla Serbia? Andateci piano
 
 ## U-00862 · cleaned 54:21 · original 58:07
 
@@ -3490,21 +3490,21 @@ Quel pomeriggio esce un giornale del pomeriggio, all'epoca c'erano I giornali de
 
 Non è vero. Il giornale viene sequestrato,
 
-## U-00873 · cleaned 55:19 · original 59:09 [REVIEW:low-confidence]
+## U-00873 · cleaned 55:19 · original 59:09
 
-poi si scopre che è lo stato maggiore che fatto filtrare la falsa notizia per mettere il governo davanti al fatto compiuto.
+poi si scopre che è lo stato maggiore che ha fatto filtrare la falsa notizia per mettere il governo davanti al fatto compiuto.
 
 ## U-00874 · cleaned 55:26 · original 59:17 [REVIEW:low-confidence] [REVIEW:named-entity]
 
 Il generale von Moltke telefona al suo collega austriaco, il comandante austriaco Conrad,
 
-## U-00875 · cleaned 55:32 · original 59:23 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00875 · cleaned 55:32 · original 59:23
 
-l'Austria non ancora mobilitato fra l'altro perché l'Austria fa le cose con tale lentezza che non ancora mobilitato.
+l'Austria non ha ancora mobilitato fra l'altro perché l'Austria fa le cose con tale lentezza che non ha ancora mobilitato.
 
-## U-00876 · cleaned 55:39 · original 59:29 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00876 · cleaned 55:39 · original 59:29
 
-Ecco e Molt che dice a Conrad, mobilitate subito perché se mobilitate voi dovremmo mobilitare anche noi.
+Ecco e Moltke dice a Conrad, mobilitate subito perché se mobilitate voi dovremmo mobilitare anche noi.
 
 ## U-00877 · cleaned 55:46 · original 59:36 [REVIEW:named-entity]
 
@@ -3522,9 +3522,9 @@ delle comunicazioni di quegli ultimissimi giorni.
 
 La sensazione che tutti hanno che sta succedendo una cosa che nessuno voleva e che non si riesce più a impedire
 
-## U-00881 · cleaned 56:07 · original 59:57 [REVIEW:low-confidence]
+## U-00881 · cleaned 56:07 · original 59:57
 
-al consiglio dei ministri il cancelliere tedesco betman holveg dice
+al consiglio dei ministri il cancelliere tedesco Bethmann Hollweg dice
 
 ## U-00882 · cleaned 56:12 · original 60:02
 
@@ -3544,7 +3544,7 @@ erano per se stessi pacifici
 
 ## U-00886 · cleaned 56:21 · original 60:11
 
-ma il sasso cominciato
+ma il sasso ha cominciato
 
 ## U-00887 · cleaned 56:23 · original 60:13
 
@@ -3634,9 +3634,9 @@ Cambon,
 
 che aspetta,
 
-## U-00909 · cleaned 57:45 · original 61:41 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00909 · cleaned 57:45 · original 61:41
 
-che in tutti quei giorni non fatto altro. Voi capite il mestiere dell'ambasciatore francese a Londra in quei giorni? Garantirci che visto che la guerra sta per scoppiare gli inglesi entrano in guerra con noi, siamo così amici.
+che in tutti quei giorni non ha fatto altro. Voi capite il mestiere dell'ambasciatore francese a Londra in quei giorni? Garantirsi che visto che la guerra sta per scoppiare gli inglesi entrano in guerra con noi, siamo così amici.
 
 ## U-00910 · cleaned 57:55 · original 61:51 [REVIEW:low-confidence] [REVIEW:named-entity]
 
@@ -3682,13 +3682,13 @@ Abbiamo mandato l'ultimatum,
 
 abbiamo detto ai russi entro mezzanotte sospendete,
 
-## U-00921 · cleaned 58:32 · original 62:30 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00921 · cleaned 58:32 · original 62:30
 
-I russi non hanno sospeso perciò dobbiamo dichiarare guerra. La sera 1º si son trovati a casa di Betman Holveg I ministri per stilare la dichiarazione di guerra alla Russia.
+i russi non hanno sospeso perciò dobbiamo dichiarare guerra. La sera prima si son trovati a casa di Bethmann Hollweg i ministri per stilare la dichiarazione di guerra alla Russia.
 
-## U-00922 · cleaned 58:43 · original 62:41 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00922 · cleaned 58:43 · original 62:41
 
-Il ministro della marina Tyrpiz detto ma perché dobbiamo dichiarare guerra?
+Il ministro della marina Tirpitz ha detto ma perché dobbiamo dichiarare guerra?
 
 ## U-00923 · cleaned 58:48 · original 62:46 [REVIEW:low-confidence]
 
@@ -3718,17 +3718,17 @@ la Germania dichiara guerra alla Russia e ordina la mobilitazione generale. Per 
 
 Ma c'è ancora spazio per una commedia, un equivoco grottesco.
 
-## U-00930 · cleaned 59:21 · original 63:18 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00930 · cleaned 59:21 · original 63:18
 
-Alle 5 del pomeriggio arriva a Berlino un telegramma dall'ambasciatore a Londra il principe Liknowski.
+Alle 5 del pomeriggio arriva a Berlino un telegramma dall'ambasciatore a Londra il principe Lichnowsky.
 
 ## U-00931 · cleaned 59:26 · original 63:24
 
-Liknowski dice
+Lichnowsky dice
 
-## U-00932 · cleaned 59:28 · original 63:25 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00932 · cleaned 59:28 · original 63:25
 
-devo vedere Gray il ministro degli esteri inglese fra poco. Mi convocato stamattina.
+devo vedere Grey il ministro degli esteri inglese fra poco. Mi ha convocato stamattina.
 
 ## U-00933 · cleaned 59:33 · original 63:31 [REVIEW:named-entity]
 
@@ -3750,9 +3750,9 @@ anche l'Inghilterra e la francia si impegnano a restare neutrali.
 
 Il telegramma arriva a berlino e suscita un pandemonio.
 
-## U-00938 · cleaned 59:49 · original 63:47 [REVIEW:low-confidence]
+## U-00938 · cleaned 59:49 · original 63:47
 
-Il kaiser e batman holleg cancelliere dicono fantastico
+Il Kaiser e Bethmann Hollweg cancelliere dicono fantastico
 
 ## U-00939 · cleaned 59:54 · original 63:52 [REVIEW:low-confidence] [REVIEW:named-entity]
 
@@ -3770,17 +3770,17 @@ basta solo cambiare gli ordini di mobilitazione
 
 tutto contro la Russia.
 
-## U-00943 · cleaned 60:07 · original 64:04 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00943 · cleaned 60:07 · original 64:04
 
-Chiamano il generale von Molke
+Chiamano il generale von Moltke
 
 ## U-00944 · cleaned 60:09 · original 64:07 [REVIEW:low-confidence] [REVIEW:named-entity]
 
 che è al comando dell'esercito che organizza la grande mobilitazione. 11000 treni si son già messi in movimento. In quel preciso momento in tutte le stazioni e in tutte le caserme della Germania arriva il telegramma con gli ordini segreti. Si è messo in movimento tutto, richiamano Von Moltke al palazzo imperiale. Von Moltke
 
-## U-00945 · cleaned 60:26 · original 64:24 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00945 · cleaned 60:26 · original 64:24
 
-vi devo dire questo di Von Moltke, lui non è un grande generale, lo faranno fuori prestito dal comando, è lì soprattutto perché è il nipote di un grand'uomo.
+vi devo dire questo di von Moltke, lui non è un grande generale, lo faranno fuori presto dal comando, è lì soprattutto perché è il nipote di un grand'uomo.
 
 ## U-00946 · cleaned 60:34 · original 64:32 [REVIEW:low-confidence] [REVIEW:named-entity]
 
@@ -3802,9 +3802,9 @@ cambia gli ordini di mobilitazione
 
 tutto contro la Russia
 
-## U-00951 · cleaned 60:59 · original 64:57 [REVIEW:low-confidence]
+## U-00951 · cleaned 60:59 · original 64:57
 
-a von Molca viene un accidente
+a von Moltke viene un accidente
 
 ## U-00952 · cleaned 61:02 · original 64:59
 
@@ -3822,17 +3822,17 @@ e dichiara che non si può fare.
 
 milioni di persone, tutto calcolato al 2º.
 
-## U-00956 · cleaned 61:13 · original 65:11 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00956 · cleaned 61:13 · original 65:11
 
-Non si può fare insistono Molke che ripeto è sull'oro del collasso quella sera tornerà a casa avrà un infarto,
+Non si può fare insistono Moltke che ripeto è sull'orlo del collasso quella sera tornerà a casa avrà un infarto,
 
-## U-00957 · cleaned 61:20 · original 65:18 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00957 · cleaned 61:20 · original 65:18
 
-ma tiene duro e dice non si può fare. Il kaiser gli dice suo zio mi avrebbe dato un'altra risposta. Molke è un uomo finito
+ma tiene duro e dice non si può fare. Il Kaiser gli dice suo zio mi avrebbe dato un'altra risposta. Moltke è un uomo finito
 
-## U-00958 · cleaned 61:29 · original 65:28 [REVIEW:named-entity]
+## U-00958 · cleaned 61:29 · original 65:28
 
-Intanto però la mobilitazione non si può cambiare e quindi continua tutto 2º I piani. Quella sera I tedeschi invadono il Lussemburgo.
+Intanto però la mobilitazione non si può cambiare e quindi continua tutto secondo i piani. Quella sera i tedeschi invadono il Lussemburgo.
 
 ## U-00959 · cleaned 61:36 · original 65:35
 
@@ -3846,9 +3846,9 @@ Però 1º di invadere il Belgio bisogna rispettare le forme, dargli l'ultimatum.
 
 Il 2 agosto
 
-## U-00962 · cleaned 61:44 · original 65:43 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00962 · cleaned 61:44 · original 65:43
 
-a Fombelo Usalesca a Brussel arriva il telegramma
+a von Below-Saleske a Bruxelles arriva il telegramma
 
 ## U-00963 · cleaned 61:47 · original 65:46
 
@@ -3862,9 +3862,9 @@ porta l'ultimatum al Belgio
 
 facendo finta che sia appena arrivato
 
-## U-00966 · cleaned 61:54 · original 65:53 [REVIEW:low-confidence]
+## U-00966 · cleaned 61:54 · original 65:53
 
-ce l' lì da vari giorni ma l'ultimatum
+ce l'ha lì da vari giorni ma l'ultimatum
 
 ## U-00967 · cleaned 61:57 · original 65:56 [REVIEW:low-confidence]
 
@@ -3910,13 +3910,13 @@ se il belgio rimane neutrale e si comporta bene I tedeschi alla fine della guerr
 
 I belgi decidono di resistere.
 
-## U-00978 · cleaned 62:47 · original 66:46 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00978 · cleaned 62:47 · original 66:46
 
-Quella sera a Berlino a casa di Betman Holveg si prepara alla dichiarazione di guerra alla Francia.
+Quella sera a Berlino a casa di Bethmann Hollweg si prepara la dichiarazione di guerra alla Francia.
 
-## U-00979 · cleaned 62:53 · original 66:52 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00979 · cleaned 62:53 · original 66:52
 
-L'ammiraglio Fontyrips dice, ma perché dobbiamo dichiarare guerra anche alla Francia? Aspettiamo che ce la dichiarino loro. Gli spiegano che 2º le regole bisogna fare così.
+L'ammiraglio von Tirpitz dice, ma perché dobbiamo dichiarare guerra anche alla Francia? Aspettiamo che ce la dichiarino loro. Gli spiegano che secondo le regole bisogna fare così.
 
 ## U-00980 · cleaned 63:01 · original 67:01 [REVIEW:named-entity]
 
@@ -3934,21 +3934,21 @@ hanno sorvolato la Germania, hanno gettato bombe, hanno ammazzato civili,
 
 perciò la Francia si è messa in guerra da sola e così via evidentemente anche quando si fa la politica di potenza c'è questo bisogno di aggrapparsi a qualcosa per l'opinione pubblica forse
 
-## U-00984 · cleaned 63:22 · original 67:21 [REVIEW:low-confidence]
+## U-00984 · cleaned 63:22 · original 67:21
 
-a me torna in mente colin powell all'ONU con la provetta delle armi batteriologiche
+a me torna in mente Colin Powell all'ONU con la provetta delle armi batteriologiche
 
-## U-00985 · cleaned 63:26 · original 67:25 [REVIEW:low-confidence]
+## U-00985 · cleaned 63:26 · original 67:25
 
-di saddamu 6 ma insomma comunque
+di Saddam Hussein ma insomma comunque
 
 ## U-00986 · cleaned 63:29 · original 67:29
 
 Quella sera 2 agosto
 
-## U-00987 · cleaned 63:32 · original 67:31 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00987 · cleaned 63:32 · original 67:31
 
-a Londra Gray viene a sapere dell'ultimatum
+a Londra Grey viene a sapere dell'ultimatum
 
 ## U-00988 · cleaned 63:35 · original 67:34
 
@@ -3966,17 +3966,17 @@ annota sul suo diario.
 
 Che strano, fino a qualche giorno fa si parlava tanto della Serbia.
 
-## U-00992 · cleaned 63:49 · original 67:49 [REVIEW:low-confidence]
+## U-00992 · cleaned 63:49 · original 67:49
 
-Adesso non ne parla più nessuna, è come se se la fossero tutte dimenticata.
+Adesso non ne parla più nessuno, è come se se la fossero tutte dimenticata.
 
 ## U-00993 · cleaned 63:54 · original 67:53 [REVIEW:low-confidence]
 
 3 agosto, siamo davvero alla fine.
 
-## U-00994 · cleaned 63:57 · original 67:56 [REVIEW:named-entity]
+## U-00994 · cleaned 63:57 · original 67:56
 
-La Germania dichiara guerra alla Francia. Lei
+La Germania dichiara guerra alla Francia. Grey
 
 ## U-00995 · cleaned 64:00 · original 68:01 [REVIEW:low-confidence] [REVIEW:named-entity]
 
@@ -3990,17 +3990,17 @@ Gray strappa alla Camera dei Comuni l'autorizzazione a mandare ai tedeschi un ul
 
 4 agosto, I tedeschi invadono il Belgio.
 
-## U-00998 · cleaned 64:19 · original 68:20 [REVIEW:low-confidence] [REVIEW:named-entity]
+## U-00998 · cleaned 64:19 · original 68:20
 
-L'ambasciatore inglese arriva con l'ultimatum dal cancelliere Betman Holveg senza sapere che quel mattino I tedeschi hanno già cominciato l'invasione del Belgio.
+L'ambasciatore inglese arriva con l'ultimatum dal cancelliere Bethmann Hollweg senza sapere che quel mattino i tedeschi hanno già cominciato l'invasione del Belgio.
 
 ## U-00999 · cleaned 64:27 · original 68:28 [REVIEW:low-confidence]
 
 E l'intera vicenda si conclude, anche questa il mio racconto si conclude con 2 frasi celebri, una celeberrima,
 
-## U-01000 · cleaned 64:35 · original 68:36 [REVIEW:low-confidence]
+## U-01000 · cleaned 64:35 · original 68:36
 
-una 1 po' meno. La frase celeberrima è quella del cancelliere tedesco batman holveg che quando arriva l'ambasciatore inglese con l'ultimatum
+una un po' meno. La frase celeberrima è quella del cancelliere tedesco Bethmann Hollweg che quando arriva l'ambasciatore inglese con l'ultimatum
 
 ## U-01001 · cleaned 64:42 · original 68:43
 
@@ -4030,9 +4030,9 @@ e tutto per un pezzo di carta
 
 che è una frase che appunto è passata alla storia come emblema diciamo di questa politica
 
-## U-01008 · cleaned 65:07 · original 69:10 [REVIEW:low-confidence]
+## U-01008 · cleaned 65:07 · original 69:10
 
-pensa di poter firmare I trattati e poi insomma se uno vuole poi fa finta che non ci siano ecco I trattati.
+che pensa di poter firmare i trattati e poi insomma se uno vuole poi fa finta che non ci siano ecco i trattati.
 
 ## U-01009 · cleaned 65:13 · original 69:16 [REVIEW:low-confidence]
 
@@ -4054,9 +4054,9 @@ e son tutti nipotini della regina vittoria vi ricordate?
 
 Il kaiser dichiara
 
-## U-01014 · cleaned 65:38 · original 69:40 [REVIEW:low-confidence]
+## U-01014 · cleaned 65:38 · original 69:40
 
-chi l'avrebbe detto che giorgi e nickey mi stavano per tradire
+chi l'avrebbe detto che Georgie e Nicky mi stavano per tradire
 
 ## U-01015 · cleaned 65:42 · original 69:45 [REVIEW:low-confidence]
 
