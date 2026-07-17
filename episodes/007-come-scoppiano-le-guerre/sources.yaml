@@ -207,3 +207,81 @@
   url: "https://archive.org/details/declarationsofwa00unit"
   accessed: "2026-07-17"
   notes: "Official compilation reproducing ultimata and declarations, with source-document references."
+- id: SRC-401
+  author: Karl Max, Prince Lichnowsky
+  title: "Meine Londoner Mission 1912–1914"
+  date: 1918
+  language: German
+  stable_identifier: "World War I Document Archive transcription"
+  url: "https://www.gwpda.org/1914m/lichnowy.html"
+  accessed: "2026-07-17"
+  notes: "Retrospective memoir; used for Lichnowsky's German report of Grey's 4 December 1912 warning, not as a verbatim English transcript."
+- id: SRC-402
+  author: Charles E. Callwell
+  title: "Field-Marshal Sir Henry Wilson: His Life and Diaries"
+  edition: "volume I"
+  publisher: Cassell
+  date: 1927
+  language: English
+  stable_identifier: null
+  url: "https://archive.org/details/in.ernet.dli.2015.209745"
+  accessed: "2026-07-17"
+  notes: "Posthumously edited biography/diaries; the Foch anecdote requires collation with the underlying January 1910 diary entry."
+- id: SRC-403
+  author: Anita Winkler
+  title: "Meine ganze Libido gilt Österreich-Ungarn"
+  publisher: "Schloß Schönbrunn Kultur- und Betriebsges.m.b.H."
+  date: null
+  language: German
+  stable_identifier: null
+  url: "https://www.habsburger.net/de/kapitel/meine-ganze-libido-gilt-oesterreich-ungarn"
+  accessed: "2026-07-17"
+  notes: "Institutional historical essay; cites Peter Gay, Freud für Historiker (1994), pp. 130–131, but does not identify Freud's original letter."
+- id: SRC-404
+  author: Encyclopaedia Britannica
+  title: "Francis Joseph"
+  date: null
+  language: English
+  stable_identifier: null
+  url: "https://www.britannica.com/biography/Francis-Joseph"
+  accessed: "2026-07-17"
+  notes: "Authoritative reference chronology for birth, accession, and death."
+- id: SRC-405
+  author: Great Britain, Parliament, House of Commons
+  title: "Steel and Pig-Iron Output (1910–1913)"
+  date: "1914-06-26"
+  language: English
+  stable_identifier: "HC Deb 26 June 1914"
+  url: "https://hansard.parliament.uk/Commons/1914-06-26/debates/6e69b029-023b-409a-bf77-47b1ffb929cd/SteelAndPig-IronOutput%281910%E2%80%931913%29"
+  accessed: "2026-07-17"
+  notes: "Contemporary official comparative output table."
+- id: SRC-406
+  author: International Monetary Fund
+  title: "Money Matters: Conflict and Cooperation (1871–1944)"
+  date: null
+  language: English
+  stable_identifier: null
+  url: "https://www.imf.org/external/np/exr/center/mm/eng/mm_cc_01.htm/mm_dt_01.htm"
+  accessed: "2026-07-17"
+  notes: "Institutional overview of the classical international gold standard."
+- id: SRC-407
+  author: Martin Lloyd
+  title: "The Passport: The History of Man's Most Travelled Document"
+  publisher: Sutton
+  date: 2003
+  language: English
+  stable_identifier: "ISBN 9780750929646"
+  url: "https://search.worldcat.org/title/51068203"
+  accessed: "2026-07-17"
+  notes: "Historical survey used for the qualified account of relaxed, not universal, pre-1914 European passport controls."
+- id: SRC-408
+  author: Winston S. Churchill
+  title: "The World Crisis, 1911–1918"
+  edition: "volume I"
+  publisher: Charles Scribner's Sons
+  date: 1923
+  language: English
+  stable_identifier: "Project Gutenberg ebook 59794"
+  url: "https://www.gutenberg.org/cache/epub/59794/pg59794-images.html"
+  accessed: "2026-07-17"
+  notes: "Retrospective participant account; checked against Admiralty chronology when assessing personal credit for fleet orders."

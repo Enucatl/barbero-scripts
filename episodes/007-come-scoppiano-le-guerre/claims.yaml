@@ -5,9 +5,9 @@
   supporting_sources: []
   conflicting_sources: []
   status: deferred
-  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
-  script_treatment: omit
-  research_note: "Define the comparison being made and assess whether it remains useful without overstating similarities or differences."
+  deferred_reason: "The transcript's comparison is not operationally defined: searches on alliance structure, globalization, international institutions, and 2014 security conditions cannot prove the unbounded phrase 'substantially different' as a single historical claim."
+  script_treatment: research-before-use
+  research_note: "This is interpretive framing, not a falsifiable unitary claim; split it into specified dimensions before sourcing."
 - id: C-002
   claim: "The First World War's immediate crisis began with the Sarajevo assassination, carried out by Serbian terrorists with links in Serbia."
   transcript: [U-00023–U-00033, U-00069–U-00073]
@@ -21,12 +21,14 @@
   claim: "Francis Joseph was 84, had reigned for 66 years, and died in December 1916."
   transcript: [U-00053–U-00065]
   centrality: sampled-incidental
-  supporting_sources: []
+  supporting_sources:
+    - source_id: SRC-404
+      locator: "Franz Joseph I, biographical summary: born 18 August 1830; emperor 2 December 1848–21 November 1916"
+      note: "He was 83 at Sarajevo and turned 84 in August 1914; he had reigned about 65 years 7 months at Sarajevo, reaching 66 years in December 1914; he died 21 November, not December, 1916."
   conflicting_sources: []
-  status: deferred
-  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
-  script_treatment: omit
-  research_note: "Verify age, regnal duration, and death date and assess the lecture's dynastic inference."
+  status: resolved
+  script_treatment: correct
+  research_note: "Barbero's age and rounded reign length fit later summer 1914, but the death month is wrong."
 - id: C-004
   claim: "Bosnia's major communities differed in their attitudes toward Habsburg rule."
   transcript: [U-00075–U-00096]
@@ -34,8 +36,8 @@
   supporting_sources: []
   conflicting_sources: []
   status: deferred
-  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
-  script_treatment: qualify
+  deferred_reason: "Specialist work on Habsburg Bosnia confirms divergent institutional and nationalist politics, but the broad community-by-community attitudes in the lecture cannot be documented without flattening substantial variation within Serb, Croat, and Muslim populations."
+  script_treatment: research-before-use
   research_note: "Find evidence on Croatian, Bosnian Muslim, and Bosnian Serb attitudes without flattening internal diversity."
 - id: C-005
   claim: "Investigations established support or complicity in Serbia for the Sarajevo assassination."
@@ -68,12 +70,15 @@
   claim: "Germany had the world's strongest army and had surpassed Britain as an industrial power by 1914."
   transcript: [U-00163–U-00171]
   centrality: supporting
-  supporting_sources: []
+  supporting_sources:
+    - source_id: SRC-405
+      locator: "House of Commons answer, 26 June 1914, table 'Output of steel', 1913 row"
+      note: "Germany and Luxembourg produced 18.645 million tons of steel in 1913 against 7.780 million in the United Kingdom."
   conflicting_sources: []
   status: deferred
-  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
-  script_treatment: qualify
-  research_note: "Identify appropriate military and industrial measures and qualifications for the comparison."
+  deferred_reason: "Official steel data establish German predominance on that measure, but searches found no single authoritative metric that establishes both 'world's strongest army' and having surpassed Britain as an industrial power without defining army strength and industrial output."
+  script_treatment: research-before-use
+  research_note: "Split the compound claim: Germany led Britain in steel and some manufacturing measures; Britain retained financial, trade, naval, and imperial advantages."
 - id: C-009
   claim: "The Triple Alliance included Italy, but Italy initially stayed out of the 1914 war."
   transcript: [U-00172–U-00180]
@@ -100,7 +105,7 @@
   conflicting_sources: []
   status: deferred
   deferred_reason: "The blank-cheque consultation is documented, but the asserted sequence involving parliament, Moltke, and Krupp is not fully supported by the located primary record."
-  script_treatment: qualify
+  script_treatment: research-before-use
   research_note: "Reconstruct the consultation sequence and verify Krupp's involvement."
 - id: C-012
   claim: "France and Russia had a common strategic interest in alliance because Germany bordered both."
@@ -115,12 +120,20 @@
   claim: "Prewar Europe displayed substantial economic interdependence and largely passport-free travel."
   transcript: [U-00275–U-00292]
   centrality: supporting
-  supporting_sources: [SRC-003]
+  supporting_sources:
+    - source_id: SRC-003
+      locator: "Part I, chapters II–V"
+      note: "Contemporary argument built around financial and commercial interdependence."
+    - source_id: SRC-406
+      locator: "Money Matters, 'Conflict and Cooperation (1871–1944)', section on the classical gold standard"
+      note: "The IMF describes the gold-standard system, fixed exchange rates, London-centered finance, and exceptional international integration before 1914."
+    - source_id: SRC-407
+      locator: "Passport, historical overview, section on the pre-1914 European regime"
+      note: "The overview documents widespread relaxation of passport controls in Europe before the war, while not implying universal legal freedom of movement."
   conflicting_sources: []
-  status: deferred
-  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
+  status: resolved
   script_treatment: qualify
-  research_note: "Verify the monetary, financial, trade, and travel examples and identify important exceptions."
+  research_note: "Resolve only in qualified form: high integration and widespread relaxation of passport controls, with important geographic, legal, class, and migration-policy exceptions."
 - id: C-014
   claim: "A simplified social-Darwinist view of competition shaped European elite thinking about states and survival."
   transcript: [U-00299–U-00319]
@@ -137,19 +150,21 @@
   supporting_sources: [SRC-003]
   conflicting_sources: []
   status: deferred
-  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
-  script_treatment: omit
-  research_note: "Establish the book's publication history, reception, and documented readership among decision-makers."
+  deferred_reason: "Publication history and broad prewar popularity are verified, but searches of reception scholarship and catalogue records did not establish named political and military decision-makers who read the book before 1914."
+  script_treatment: research-before-use
+  research_note: "The book was a bestseller and influential in public debate; the narrower elite-readership assertion still needs named documentary evidence."
 - id: C-016
   claim: "Grey described a Sarajevo-like escalation sequence to Lichnowsky in December 1912."
   transcript: [U-00361–U-00376]
   centrality: supporting
-  supporting_sources: []
+  supporting_sources:
+    - source_id: SRC-401
+      locator: "Meine Londoner Mission, chapter 'Vorgeschichte des Krieges', account dated 4 December 1912"
+      note: "Lichnowsky records Grey outlining Austria against Serbia, Russian movement into Galicia, German assistance, inevitable French participation, and foreseeable further consequences."
   conflicting_sources: []
-  status: deferred
-  deferred_reason: "Later scholarship reports a comparable 1912 warning, but the exact diplomatic document and wording must be identified before treating the forecast as established."
-  script_treatment: research-before-use
-  research_note: "Verify the date, record, participants, and accuracy of the claimed forecast."
+  status: resolved
+  script_treatment: qualify
+  research_note: "The forecast is established through Lichnowsky's retrospective German account; it is not a verbatim Grey transcript and Barbero compresses it."
 - id: C-017
   claim: "Reciprocal security measures drove the prewar arms race through a security dilemma."
   transcript: [U-00377–U-00408]
@@ -183,11 +198,14 @@
   status: resolved
   script_treatment: "Preserve, quoting the demands; say designed to be unacceptable rather than literally impossible."
 - id: C-021
+  claim: "The British cabinet did not discuss foreign policy between the Sarajevo assassination and 24 July 1914."
+  transcript: [U-00530–U-00538]
+  centrality: supporting
   supporting_sources: [{source_id: SRC-M110, locator: "Cabinet and its committees research guide, section on records before 1916", note: "No formal Cabinet minutes were kept before December 1916."}]
   conflicting_sources: []
   status: deferred
-  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
-  script_treatment: omit
+  deferred_reason: "The National Archives confirms that formal cabinet minutes do not exist before December 1916; searches of Asquith correspondence and retrospective ministerial accounts cannot prove the categorical negative that foreign policy was never discussed during this interval."
+  script_treatment: research-before-use
 - id: C-022
   supporting_sources: [{source_id: SRC-M108, locator: "1914, chapter 1, pp. 8-9", note: "French states that the general staffs had long conferred and had a mutual understanding, while arrangements remained imperfect."}]
   conflicting_sources: []
@@ -199,17 +217,29 @@
   status: resolved
   script_treatment: "Say Serbia accepted most demands but qualified key sovereignty-invasive clauses; avoid the misleading shorthand accepted all but one."
 - id: C-024
-  supporting_sources: []
+  claim: "Churchill, on his own initiative, kept the fleet concentrated and moved it to Scapa Flow during the July crisis."
+  transcript: [U-00599–U-00614]
+  centrality: supporting
+  supporting_sources:
+    - source_id: SRC-408
+      locator: "The World Crisis, vol. I, chapter 6, sections 'Sunday, July 26—The Fleet held together' and 'Passage of the Straits of Dover by the Fleet, July 30'"
+      note: "Churchill's memoir documents the decision to hold the fleet together and its movement to war stations."
   conflicting_sources: []
   status: deferred
-  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
-  script_treatment: qualify
+  deferred_reason: "Churchill's memoir confirms his role in holding the fleet together, but Admiralty chronology attributes the 26 July operational order to First Sea Lord Prince Louis of Battenberg and the fleet moved through the Straits on 30 July; the compound claim of sole initiative and immediate Scapa Flow movement overstates the record."
+  script_treatment: research-before-use
 - id: C-025
-  supporting_sources: []
+  claim: "German mobilization was minutely timetabled and involved 11,000 trains."
+  transcript: [U-00631–U-00641, U-00939–U-00958]
+  centrality: supporting
+  supporting_sources:
+    - source_id: SRC-303
+      locator: "Ereignisse und Gestalten, chapter 10, pp. 163–165"
+      note: "Wilhelm's memoir records Moltke's insistence that the deployment timetable could not simply be redirected."
   conflicting_sources: []
   status: deferred
-  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
-  script_treatment: qualify
+  deferred_reason: "Military-planning scholarship and Moltke/Wilhelm memoir evidence support a highly detailed rail timetable, but searches did not locate a primary German mobilization table or authoritative archival calculation for the exact 11,000-train figure."
+  script_treatment: research-before-use
 - id: C-026
   supporting_sources: [{source_id: SRC-M102, locator: "German White Book, exhibits 10 and 24-25", note: "German documents explicitly equated its own mobilization with war and warned Russia accordingly."}, {source_id: SRC-M111, locator: "Documents from 1914, pp. 110-154, mobilization documents", note: "Russian mobilization and German operational assumptions were not identical acts."}]
   conflicting_sources: []
@@ -264,7 +294,7 @@
   supporting_sources: []
   conflicting_sources: []
   status: deferred
-  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
+  deferred_reason: "Contemporary press reports and specialist press history verify the Berliner Lokal-Anzeiger false mobilization extra and official denial, but the origin remains disputed; no primary evidence was found that the General Staff planted it. Moltke's pressure on Conrad is a separate proposition and does not prove the leak allegation."
   script_treatment: research-before-use
   research_note: "No authoritative primary or critical-edition locator was verified in this pass. This compound claim must be split before use."
 - id: C-033
@@ -274,7 +304,7 @@
   supporting_sources: []
   conflicting_sources: []
   status: deferred
-  deferred_reason: "The cabinet division is historically plausible, but cabinet minutes or a reliable diary locator for Grey's implied resignation were not secured."
+  deferred_reason: "Asquith's 1 August letter and Morley's resignation memorandum confirm a deeply divided cabinet and resignation pressure, but no formal cabinet minutes exist and the searched sources do not establish Barbero's precise headcount or a direct Grey resignation threat in the stated words."
   script_treatment: research-before-use
   research_note: "Hansard documents the public position on 3 August, not the internal 1 August vote; cabinet minutes/Asquith or Morley diaries still required."
 - id: C-034

@@ -24,7 +24,7 @@
   confidence: null
   status: deferred
   deferred_reason: "The target lacks a verified original-language text in a primary or critical edition with an exact stable locator."
-  script_treatment: paraphrase
+  script_treatment: research-before-use
   research_note: "Verify the slogan 'Serbien muss sterben', its documented wording, circulation, and context after the assassination."
 - id: Q-003
   barbero_utterances: [U-00150–U-00154]
@@ -99,17 +99,15 @@
   barbero_utterances: [U-00361–U-00376]
   barbero_timestamp: "23:06"
   attribution: "Sir Edward Grey, conversation with Prince Lichnowsky"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: deferred
-  deferred_reason: "The 1912 forecast is supported in later diplomatic-history discussion, but the exact Grey-Lichnowsky document and original wording remain unidentified."
-  script_treatment: research-before-use
-  research_note: "Identify the record of the December 1912 conversation and verify the escalation scenario's exact wording."
+  source_id: SRC-401
+  original_language: de
+  original_text: "Entstände aber ein europäischer Krieg dadurch, daß Österreich gegen Serbien vorginge, und Rußland, durch die öffentliche Meinung gezwungen, und um nicht abermals eine Demütigung wie 1909 zu erleben, in Galizien einmarschiere, was uns zur Hilfsleistung veranlassen würde, so sei die Beteiligung Frankreichs unausbleiblich und die weiteren Folgen absehbar."
+  translation: "But if a European war arose because Austria moved against Serbia, and Russia—compelled by public opinion and wishing not to suffer another humiliation like that of 1909—marched into Galicia, which would oblige us to give assistance, France's participation would be unavoidable and the further consequences foreseeable."
+  locator: "Meine Londoner Mission, chapter 'Vorgeschichte des Krieges', account of Grey's warning of 4 December 1912"
+  translation_notes: "Direct translation of Lichnowsky's German retrospective account of Grey's remarks; it is not a verbatim English transcript. Barbero closely compresses this reported scenario."
+  confidence: medium
+  status: resolved
+  research_note: "The date, participants, and escalation sequence are established in Lichnowsky's published account; quote only as Lichnowsky's report of Grey, not as Grey's exact words."
 - id: Q-009
   barbero_utterances: [U-00424–U-00435]
   barbero_timestamp: "27:15"
@@ -123,7 +121,7 @@
   confidence: null
   status: deferred
   deferred_reason: "The target lacks a verified original-language text in a primary or critical edition with an exact stable locator."
-  script_treatment: label-anecdotal
+  script_treatment: research-before-use
   research_note: "Find the source for Wilhelm's alleged 1913 identification of the future commander of the march on Paris."
 - id: Q-010
   barbero_utterances: [U-00453–U-00469]
@@ -138,18 +136,18 @@
   confidence: null
   status: deferred
   deferred_reason: "Authoritative scholarship supports Moltke's preventive-war outlook, but the exact archival source for both dated formulations is not accessible in this pass."
-  script_treatment: paraphrase
+  script_treatment: research-before-use
   research_note: "Locate and date Moltke's private remarks that delay reduced German prospects and that the sooner war came, the better."
 - {id: Q-011, source_id: SRC-M104, original_language: French, original_text: "Vous mettez le feu a l'Europe. Vous prenez sur vous une grave responsabilite.", translation: "You are setting fire to Europe. You are taking a grave responsibility upon yourself.", locator: "Szapary report, 24 July 1914; Austro-Hungarian Red Book, doc. 15", status: resolved, confidence: medium}
-- {id: Q-012, source_id: SRC-M101, original_language: German, original_text: null, translation: null, locator: "British Documents vol. XI, Grey-Lichnowsky reports, 24 July 1914; exact phrase not located", status: deferred, confidence: low, deferred_reason: "The exact German phrase and documentary locator were not established.", script_treatment: label-anecdotal}
-- {id: Q-013, source_id: SRC-M109, original_language: English, original_text: "We care as little for Belgrade as Belgrade does for Manchester.", translation: "We care as little for Belgrade as Belgrade does for Manchester.", locator: "Manchester Guardian, leading article, 30 July 1914; page unverified", status: deferred, confidence: medium, research_note: "Barbero places the line too early.", deferred_reason: "The page locator is unverified and the publication date conflicts with the lecture chronology.", script_treatment: omit}
-- {id: Q-014, source_id: null, original_language: null, original_text: null, translation: null, locator: null, status: deferred, confidence: low, research_note: "Foch-Wilson anecdote: no contemporaneous diary or French original located; omit or label anecdotal.", deferred_reason: "No contemporaneous source or original wording was located.", script_treatment: label-anecdotal}
-- {id: Q-015, source_id: SRC-M107, original_language: French, original_text: null, translation: "If, despite our sincere desire, we do not succeed, Your Royal Highness may rest assured that in no case will Russia remain indifferent to the fate of Serbia.", locator: "FRUS 1914 Supplement, Russian Orange Book no. 40, telegram of 27 July 1914", status: deferred, confidence: high, research_note: "Barbero's count on us is a compression; French original needed before direct quotation.", deferred_reason: "The French original was not secured, although the translated documentary substance is supported.", script_treatment: paraphrase}
+- {id: Q-012, source_id: SRC-M101, original_language: German, original_text: null, translation: null, locator: "British Documents vol. XI, documents 99–101, 24 July 1914; exact phrase not located", status: deferred, confidence: low, deferred_reason: "British and German diplomatic records for 24 July were searched, together with Lichnowsky's memoir, but the alleged Kulturvölker wording was not found in a citable original German document.", script_treatment: research-before-use}
+- {id: Q-013, source_id: SRC-M109, original_language: English, original_text: "We care as little for Belgrade as Belgrade does for Manchester.", translation: "We care as little for Belgrade as Belgrade does for Manchester.", locator: "Manchester Guardian, leading article, 30 July 1914; page unverified", status: deferred, confidence: medium, research_note: "Catalogues and secondary citations identify a 30 July leader, later than Barbero's placement, but no issue image/page was obtained.", deferred_reason: "The Guardian issue and secondary citation trail were searched; the exact page image remains unavailable and the reported 30 July publication date conflicts with the lecture chronology.", script_treatment: research-before-use}
+- {id: Q-014, source_id: SRC-402, original_language: null, original_text: null, translation: null, locator: "The Life and Diaries of Field-Marshal Sir Henry Wilson, vol. I, chapter 4 ('A Single British Soldier'); underlying January 1910 diary entry not verified", status: deferred, confidence: low, research_note: "The anecdote is traceable to the posthumously edited Wilson biography, but no contemporaneous French record or checked diary text was obtained.", deferred_reason: "Wilson's published biography and diary references were searched, but the exact diary page and any French original remain unverified; the familiar wording cannot yet be treated as verbatim Foch.", script_treatment: research-before-use}
+- {id: Q-015, source_id: SRC-M107, original_language: French, original_text: null, translation: "If, despite our sincere desire, we do not succeed, Your Royal Highness may rest assured that in no case will Russia remain indifferent to the fate of Serbia.", locator: "FRUS 1914 Supplement, Russian Orange Book no. 40, telegram of 27 July 1914", status: deferred, confidence: high, research_note: "The English official-document version confirms the substance, but the French Orange Book text was not secured.", deferred_reason: "FRUS and online Orange Book collections were searched; only the official English rendering was verified, not the French text needed for a direct quotation.", script_treatment: research-before-use}
 - {id: Q-016, source_id: SRC-M102, original_language: German, original_text: "Vorbereitende militaerische Massnahmen Russlands wuerden uns zu Gegenmassnahmen zwingen. Mobilmachung aber bedeutet Krieg.", translation: "Preparatory military measures by Russia would compel us to take countermeasures. Mobilization, however, means war.", locator: "German White Book, exhibit 10, Chancellor to German ambassador at St Petersburg, 26 July 1914", status: resolved, confidence: high}
-- {id: Q-017, source_id: null, original_language: German, original_text: "Meine ganze Libido gilt Oesterreich-Ungarn.", translation: "My entire libido belongs to Austria-Hungary.", locator: "Exact letter/date and critical-edition number not securely identified", status: deferred, confidence: medium, deferred_reason: "The exact letter, date, and critical-edition locator remain unidentified.", script_treatment: paraphrase}
+- {id: Q-017, source_id: SRC-403, original_language: German, original_text: "Meine ganze Libido gilt Österreich-Ungarn.", translation: "My entire libido belongs to Austria-Hungary.", locator: "institutional essay quoting Freud; cites Peter Gay, Freud für Historiker (1994), pp. 130–131; original letter not identified", status: deferred, confidence: medium, deferred_reason: "The Austrian institutional source and its Peter Gay citation were checked, but neither identifies the letter recipient/date or a critical-edition letter number; provenance is still incomplete.", script_treatment: research-before-use}
 - {id: Q-018, source_id: SRC-M105, original_language: English, original_text: "An ignoble war has been declared to a weak country. I beg you in the name of our old friendship to do what you can to stop your allies from going too far.", translation: "An ignoble war has been declared to a weak country. I beg you in the name of our old friendship to do what you can to stop your allies from going too far.", locator: "Willy-Nicky telegrams, Nicholas II to Wilhelm II, Peterhof Palace, 29 July 1914, 1:00 a.m.", status: resolved, confidence: high}
 - {id: Q-019, source_id: SRC-M106, original_language: German, original_text: "Dann kann die gegenseitige Zerfleischung der Kulturstaaten Europas beginnen.", translation: "Then the mutual destruction of the civilized states of Europe can begin.", locator: "Moltke memorandum, 29 July 1914; Schuecking and Montgelas, vol. 5, p. 349; Geiss, vol. 2, pp. 261-263", status: resolved, confidence: high}
-- {id: Q-020, source_id: SRC-M101, original_language: English, original_text: null, translation: null, locator: "British Documents vol. XI, German proposal of 29 July 1914; exact minute and official not located", status: deferred, confidence: low, deferred_reason: "The exact British minute and official responsible for the remark were not located.", script_treatment: omit}
+- {id: Q-020, source_id: SRC-M101, original_language: English, original_text: null, translation: null, locator: "British Documents vol. XI, German proposal of 29 July 1914; exact minute and official not located", status: deferred, confidence: low, deferred_reason: "The 29 July German proposal, Foreign Office correspondence, and published British documents were searched, but neither the alleged disparaging minute nor its author was identified.", script_treatment: research-before-use}
 - id: Q-021
   barbero_utterances: [U-00836–U-00843]
   barbero_timestamp: "55:52"
@@ -176,7 +174,7 @@
   confidence: low
   status: deferred
   deferred_reason: "The target lacks a verified original-language text in a primary or critical edition with an exact stable locator."
-  script_treatment: paraphrase
+  script_treatment: research-before-use
   research_note: "The substance is widely reproduced, but no digitized facsimile or critical transcription of Wilhelm's marginalia with an exact archival/document locator was verified in this pass. Do not quote verbatim."
 - id: Q-023
   barbero_utterances: [U-00880–U-00889]
@@ -191,7 +189,7 @@
   confidence: medium
   status: deferred
   deferred_reason: "The target lacks a verified original-language text in a primary or critical edition with an exact stable locator."
-  script_treatment: paraphrase
+  script_treatment: research-before-use
   research_note: "Secondary scholarship identifies the meeting as the Prussian Ministry of State on 30 July, not simply a German cabinet meeting. Exact German protocol wording remains to be checked in the published Staatsministerium minutes. Paraphrase only."
 - id: Q-024
   barbero_utterances: [U-00906–U-00915]
@@ -206,7 +204,7 @@
   confidence: low
   status: deferred
   deferred_reason: "The target lacks a verified original-language text in a primary or critical edition with an exact stable locator."
-  script_treatment: label-anecdotal
+  script_treatment: research-before-use
   research_note: "Could not establish the eyewitness/friend or a primary French wording for 'they are abandoning us.' Retain the scene only as reported recollection, without quotation marks."
 - id: Q-025
   barbero_utterances: [U-00921–U-00926]
@@ -221,7 +219,7 @@
   confidence: low
   status: deferred
   deferred_reason: "The target lacks a verified original-language text in a primary or critical edition with an exact stable locator."
-  script_treatment: label-anecdotal
+  script_treatment: research-before-use
   research_note: "Likely dependent on Tirpitz's memoir account of the 31 July meeting at the Chancellor's residence; exact German passage and page were not verified. Paraphrase with attribution to Tirpitz's later recollection."
 - id: Q-026
   barbero_utterances: [U-00943–U-00958]
@@ -288,5 +286,5 @@
   confidence: low
   status: deferred
   deferred_reason: "The target lacks a verified original-language text in a primary or critical edition with an exact stable locator."
-  script_treatment: label-anecdotal
+  script_treatment: research-before-use
   research_note: "No contemporaneous diary, letter, or critical-edition locator was established for the Georgie/Nicky/Queen Victoria line. Omit or clearly label as an unverified anecdote."
