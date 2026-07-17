@@ -24,3 +24,12 @@ def test_validation_resolves_markers_and_complete_quote(tmp_path: Path) -> None:
 """)
     (tmp_path / "claims.yaml").write_text("- id: C-001\n  status: deferred\n")
     assert validate_episode(tmp_path) == []
+
+
+def test_validation_allows_explicitly_deferred_quote(tmp_path: Path) -> None:
+    (tmp_path / "transcript.it.md").write_text("reviewed")
+    (tmp_path / "script.en.md").write_text("Text [Q-001]")
+    (tmp_path / "sources.yaml").write_text("[]\n")
+    (tmp_path / "quotes.yaml").write_text("- id: Q-001\n  status: deferred\n")
+    (tmp_path / "claims.yaml").write_text("[]\n")
+    assert validate_episode(tmp_path) == []

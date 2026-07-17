@@ -1,1 +1,200 @@
-[]
+- id: SRC-001
+  author: "Francis"
+  title: "Homily at the Military Memorial of Redipuglia"
+  date: "2014-09-13"
+  original_language: it
+  identifier: null
+  url: "https://www.vatican.va/content/francesco/it/homilies/2014/documents/papa-francesco_20140913_omelia-sacrario-militare-redipuglia.html"
+  access_date: "2026-07-17"
+  locator: "paragraph beginning 'Anche oggi, dopo il secondo fallimento di un’altra guerra mondiale'"
+- id: SRC-002
+  author: "Friedrich von Bernhardi"
+  title: "Germany and the Next War"
+  date: "1914"
+  original_language: en
+  identifier: "Project Gutenberg ebook 11352"
+  url: "https://www.gutenberg.org/cache/epub/11352/pg11352-images.html"
+  access_date: "2026-07-17"
+  locator: "Contents; chapters I, II, and V"
+- id: SRC-003
+  author: "Norman Angell"
+  title: "The Great Illusion: A Study of the Relation of Military Power to National Advantage"
+  date: "1911"
+  original_language: en
+  identifier: "Project Gutenberg ebook 38535"
+  url: "https://www.gutenberg.org/files/38535/38535-h/38535-h.htm"
+  access_date: "2026-07-17"
+  locator: "Part I, chapters II-V; especially pp. 28-67 in the digitized edition"
+- id: SRC-004
+  author: "Ladislaus Count von Szögyény-Marich"
+  title: "The Blank Check: Report to Leopold Count von Berchtold"
+  date: "1914-07-05"
+  original_language: de
+  identifier: "GHDI document 800"
+  url: "https://germanhistorydocs.ghi-dc.org/sub_document.cfm?document_id=800"
+  access_date: "2026-07-17"
+  locator: "entire diplomatic report; source note cites Österreich-Ungarns Aussenpolitik, vol. 8"
+- id: SRC-005
+  author: "John Paul Newman"
+  title: "Black Hand"
+  date: "2016-09-15"
+  original_language: en
+  identifier: "1914-1918-Online article 958374"
+  url: "https://encyclopedia.1914-1918-online.net/article/black-hand/"
+  access_date: "2026-07-17"
+  locator: "section 3, Sarajevo"
+- id: SRC-006
+  author: "Günther Kronenbitter"
+  title: "Alliance System 1914"
+  date: "2019-08-15"
+  original_language: en
+  identifier: "1914-1918-Online article 955084"
+  url: "https://encyclopedia.1914-1918-online.net/article/alliance-system-1914/"
+  access_date: "2026-07-17"
+  locator: "sections on the Triple Alliance, Franco-Russian Alliance, and armaments races"
+- id: SRC-007
+  author: "Kathi Badertscher"
+  title: "Social Darwinism"
+  date: "2020-11-17"
+  original_language: en
+  identifier: "DOI 10.15463/ie1418.11484"
+  url: "https://encyclopedia.1914-1918-online.net/article/social-darwinism/"
+  access_date: "2026-07-17"
+  locator: "sections defining the movement and discussing its alleged contribution to war"
+- id: SRC-008
+  author: "Helmuth von Moltke the Younger"
+  title: "The Army Intervenes in the Crisis: Memorandum to Theobald von Bethmann Hollweg"
+  date: "1914-07-29"
+  original_language: de
+  identifier: "GHDI document 802"
+  url: "https://ghdi.ghi-dc.org/sub_document.cfm?document_id=802&language=german"
+  access_date: "2026-07-17"
+  locator: "pp. 1-2, memorandum 'Zur Beurteilung der politischen Lage'"
+- id: SRC-009
+  author: "United States Department of State"
+  title: "Papers Relating to the Foreign Relations of the United States, 1914, Supplement: The World War"
+  date: "1928"
+  original_language: en
+  identifier: "FRUS 1914 Supplement, document 29"
+  url: "https://history.state.gov/historicaldocuments/frus1914Supp/d29"
+  access_date: "2026-07-17"
+  locator: "document 29, Austro-Hungarian Embassy communication no. 171/res., 24 July 1914"
+- id: SRC-010
+  author: "Antonio Salandra"
+  title: "Speech on Italian foreign policy"
+  date: "1914-10-18"
+  original_language: it
+  identifier: null
+  url: "https://it.wikisource.org/wiki/Chi_l%27ha_detto%3F/Parte_seconda/80b"
+  access_date: "2026-07-17"
+  locator: "paragraph beginning 'Il 18 ottobre 1914'; transcription of the concluding sentence"
+- {id: SRC-M101, author: "British Foreign Office", title: "British Documents on the Origins of the War, 1898-1914, vol. XI: The Outbreak of War", editor: "G. P. Gooch and Harold Temperley", publisher: HMSO, date: 1926, language: English, stable_id: "Internet Archive: britishdocuments11grea", url: "https://archive.org/details/britishdocuments11grea", accessed: "2026-07-17"}
+- {id: SRC-M102, author: "German Foreign Office", title: "The German White Book", publisher: "Liebheit & Thiesen", date: 1914, language: "German and English", stable_id: null, url: "https://wikispooks.com/w/images/0/09/German_White_Book_-_Russia.pdf", accessed: "2026-07-17"}
+- {id: SRC-M103, author: "Walther Schuecking and Max Montgelas, eds.", title: "Die Deutschen Dokumente zum Kriegsausbruch, vol. 5", publisher: "Deutsche Verlagsgesellschaft fuer Politik und Geschichte", date: 1922, language: German, stable_id: null, url: "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi:document-802", accessed: "2026-07-17"}
+- {id: SRC-M104, author: "Austro-Hungarian Foreign Ministry", title: "Austro-Hungarian Red Book: Diplomatic Documents Leading to the Outbreak of the European War", publisher: "Imperial and Royal Court and State Printing Office", date: 1915, language: "French and German", stable_id: null, url: "https://www.gwpda.org/1914.html", accessed: "2026-07-17"}
+- {id: SRC-M105, author: "Nicholas II and Wilhelm II", title: "The Willy-Nicky Telegrams", publisher: "World War I Document Archive", date: 1914, language: English, stable_id: null, url: "https://www.gwpda.org/1914/willynilly.html", accessed: "2026-07-17"}
+- {id: SRC-M106, author: "Helmuth von Moltke the Younger", title: "An Appraisal of the Political Situation, 29 July 1914", publisher: "German History in Documents and Images", date: 1914, language: German, stable_id: "GHDI document 802", url: "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi:document-802", accessed: "2026-07-17"}
+- {id: SRC-M107, author: "United States Department of State", title: "Papers Relating to the Foreign Relations of the United States, 1914, Supplement: The World War", publisher: "Government Printing Office", date: 1928, language: English, stable_id: "FRUS 1914 Supplement", url: "https://history.state.gov/historicaldocuments/frus1914Supp", accessed: "2026-07-17"}
+- {id: SRC-M108, author: "John French", title: "1914", publisher: Constable, date: 1919, language: English, stable_id: "Project Gutenberg 24538", url: "https://www.gutenberg.org/files/24538/24538-h/24538-h.htm", accessed: "2026-07-17"}
+- {id: SRC-M109, author: "The Manchester Guardian", title: "Leading article, 30 July 1914", publisher: "The Manchester Guardian", date: "1914-07-30", language: English, stable_id: null, url: null, accessed: null, notes: "Issue identified; exact page image still required."}
+- {id: SRC-M110, author: "The National Archives (UK)", title: "Cabinet and its committees: research guide", publisher: "The National Archives", date: null, language: English, stable_id: "TNA research guide", url: "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/cabinet-and-committees/", accessed: "2026-07-17"}
+- {id: SRC-M111, author: "Annika Mombauer, ed.", title: "The Origins of the First World War: Diplomatic and Military Documents", publisher: "Manchester University Press", date: 2026, language: English, stable_id: "DOI 10.7765/9781526185945.00014", url: "https://doi.org/10.7765/9781526185945.00014", accessed: "2026-07-17"}
+- id: SRC-301
+  author: Great Britain, Foreign Office
+  title: "Correspondence Respecting the European Crisis"
+  edition: "Miscellaneous No. 6 (1914), Cd. 7467"
+  publisher: His Majesty's Stationery Office
+  date: 1914
+  language: English
+  stable_identifier: "UK Parliamentary Paper Cd. 7467"
+  url: "https://www.gwpda.org/gooch/firstpps.htm"
+  accessed: "2026-07-17"
+  notes: "Official British diplomatic papers; individual records cited by document number."
+- id: SRC-302
+  author: Belgium, Ministère des Affaires étrangères
+  title: "Correspondance diplomatique relative à la guerre de 1914"
+  edition: "Livre gris belge"
+  publisher: Berger-Levrault
+  date: 1914
+  language: French
+  stable_identifier: "Belgian Grey Book I"
+  url: "https://www.gwpda.org/papers/belgrey.html"
+  accessed: "2026-07-17"
+  notes: "Official Belgian diplomatic collection; German note is document 20."
+- id: SRC-303
+  author: Wilhelm II
+  title: "Ereignisse und Gestalten aus den Jahren 1878–1918"
+  edition: "first edition"
+  publisher: K. F. Koehler
+  date: 1922
+  language: German
+  stable_identifier: "Internet Archive ereignisseundge00will"
+  url: "https://archive.org/details/ereignisseundge00will"
+  accessed: "2026-07-17"
+  notes: "Postwar memoir, used cautiously for the 1 August exchange with Moltke."
+- id: SRC-304
+  author: Hugh Gibson
+  title: "A Journal from Our Legation in Belgium"
+  edition: "first edition"
+  publisher: Doubleday, Page & Company
+  date: 1917
+  language: English
+  stable_identifier: "Internet Archive diplomaticdiaryb00gibsiala"
+  url: "https://archive.org/details/diplomaticdiaryb00gibsiala"
+  accessed: "2026-07-17"
+  notes: "Contemporary diary subsequently published; dated entries supply exact locators."
+- id: SRC-305
+  author: W. E. Goschen
+  title: "Despatch Respecting the Rupture of Diplomatic Relations with the German Government"
+  edition: "Miscellaneous No. 8 (1914), Cd. 7445"
+  publisher: His Majesty's Stationery Office
+  date: 1914
+  language: English
+  stable_identifier: "UK Parliamentary Paper Cd. 7445"
+  url: "https://archive.org/details/truestoryofscrap00gosc"
+  accessed: "2026-07-17"
+  notes: "Goschen's 8 August report of his 4 August interview with Bethmann Hollweg."
+- id: SRC-306
+  author: Great Britain, Parliament, House of Commons
+  title: "Statement by Sir Edward Grey"
+  edition: "Hansard, fifth series"
+  publisher: His Majesty's Stationery Office
+  date: 1914-08-03
+  language: English
+  stable_identifier: "HC Deb 3 August 1914 vol. 65 cols. 1809–1832"
+  url: "https://api.parliament.uk/historic-hansard/commons/1914/aug/03/statement-by-sir-edward-grey."
+  accessed: "2026-07-17"
+  notes: "Official parliamentary report of Grey's principal intervention speech."
+- id: SRC-307
+  author: Great Britain, Parliament, House of Commons
+  title: "Germany and Belgium"
+  edition: "Hansard, fifth series"
+  publisher: His Majesty's Stationery Office
+  date: 1914-08-03
+  language: English
+  stable_identifier: "HC Deb 3 August 1914 vol. 65 cols. 1833–1848"
+  url: "https://api.parliament.uk/historic-hansard/commons/1914/aug/03/germany-and-belgium"
+  accessed: "2026-07-17"
+  notes: "Official report of the evening sitting, including the Belgian note and reply."
+- id: SRC-308
+  author: France, Ministère des Affaires étrangères
+  title: "Documents diplomatiques: la guerre européenne"
+  edition: "Livre jaune français"
+  publisher: Imprimerie nationale
+  date: 1914
+  language: French
+  stable_identifier: "French Yellow Book, document 147"
+  url: "https://archive.org/details/frenchyellowboo00fran"
+  accessed: "2026-07-17"
+  notes: "Official French publication containing Schoen's declaration of war, delivered 3 August at 6:45 p.m."
+- id: SRC-309
+  author: United States, Department of State
+  title: "Declarations of War"
+  edition: "Confidential Document No. 111"
+  publisher: Government Printing Office
+  date: 1919
+  language: English
+  stable_identifier: "Internet Archive declarationsofwa00unit"
+  url: "https://archive.org/details/declarationsofwa00unit"
+  accessed: "2026-07-17"
+  notes: "Official compilation reproducing ultimata and declarations, with source-document references."

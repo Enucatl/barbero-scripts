@@ -73,7 +73,9 @@ def validate_episode(directory: Path) -> list[str]:
             errors.append(f"script marker {identifier} has no ledger entry")
     for identifier, item in ledgers["Q"].items():
         required = ("source_id", "original_text", "translation", "locator", "status")
-        if any(not item.get(field) for field in required):
+        if item.get("status") not in {"resolved", "deferred"}:
+            errors.append(f"quotation {identifier} is neither resolved nor deferred")
+        elif item.get("status") == "resolved" and any(not item.get(field) for field in required):
             errors.append(f"quotation {identifier} is incomplete")
     for identifier, item in ledgers["C"].items():
         if item.get("status") not in {"resolved", "deferred"}:

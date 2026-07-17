@@ -54,6 +54,9 @@ Structural outlining and research-target extraction use
 [`prompts/episode-outline.md`](prompts/episode-outline.md) and
 [`prompts/research-target-extraction.md`](prompts/research-target-extraction.md). These passes map
 the lecture and seed pending ledgers before any external source research begins.
+Research batches use [`prompts/historical-research.md`](prompts/historical-research.md), which
+requires original-language quotation checks, exact locators, conflicting evidence, and explicit
+deferral rather than unsupported resolution.
 
 ## Provider-neutral diarization format
 
