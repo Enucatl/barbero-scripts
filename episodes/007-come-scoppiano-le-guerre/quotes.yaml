@@ -41,18 +41,46 @@
 - id: Q-004
   barbero_utterances: [U-00189–U-00197]
   barbero_timestamp: "11:50"
-  attribution: "Emperor Francis Joseph, letter to Kaiser Wilhelm II"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: deferred
-  deferred_reason: "The 4 July letter is identified, but an accessible critical edition with the complete German text and stable exact locator has not yet been secured."
-  script_treatment: research-before-use
-  research_note: "Identify the 4 July 1914 communication and distinguish Barbero's paraphrase from its exact German wording."
+  attribution: "Emperor Franz Joseph I, Handschreiben to Kaiser Wilhelm II, signed 2 July and delivered 5 July 1914"
+  source_id: SRC-415
+  corroborating_sources: [SRC-416]
+  original_language: German
+  original_text: >-
+    Das gegen meinen Neffen verübte Attentat ist die direkte Folge der von den russischen und
+    serbischen Panslawisten betriebenen Agitation, deren einziges Ziel die Schwächung des
+    Dreibundes und die Zertrümmerung meines Reiches ist. Dieses wird aber nur dann möglich sein,
+    wenn Serbien, welches gegenwärtig den Angelpunkt der panslawistischen Politik bildet, als
+    politischer Machtfaktor am Balkan ausgeschaltet wird. Auch Du wirst nach dem jüngsten
+    furchtbaren Geschehnisse in Bosnien die Überzeugung haben, daß an eine Versöhnung des
+    Gegensatzes, welcher Serbien von uns trennt, nicht mehr zu denken ist, und daß die erhaltende
+    Friedenspolitik aller europäischen Monarchen bedroht sein wird, solange dieser Herd von
+    verbrecherischer Agitation in Belgrad ungestraft fortlebt.
+  translation: >-
+    The attack directed against my nephew is the direct consequence of the agitation carried on
+    by the Russian and Serbian Pan-Slavists, whose sole aim is to weaken the Triple Alliance and
+    destroy my empire. This, however, will be possible only when Serbia, which currently forms the
+    pivot of Pan-Slav policy, is eliminated as a political power in the Balkans. You too, after the
+    recent terrible events in Bosnia, will be convinced that reconciliation of the conflict that
+    separates us from Serbia can no longer be contemplated, and that the peace-preserving policy
+    of all the European monarchs will remain threatened as long as this hotbed of criminal
+    agitation in Belgrade continues unpunished.
+  locator: "ÖUA, Band VIII, document 9984, pp. 250–252; corroborated by DDK, Band I, document 13"
+  translation_notes: >-
+    Direct translation from the supplied German transcription. Barbero gives a deliberately
+    colloquial compression: he turns the presumptive “Auch Du wirst ... die Überzeugung haben”
+    into a question, changes the unpunished hotbed in Belgrade into Serbia needing punishment,
+    and moves Russian protection into the appeal from the earlier reference to Russian and Serbian
+    Pan-Slavists.
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: >-
+    Evidence tier 1–2: the original Berlin autograph was reportedly destroyed in 1918, but the
+    text survives through the Vienna draft/file copy published in ÖUA and the German Foreign
+    Office transcription published in DDK. The imperial Handschreiben is distinct from the older
+    Matscheko memorandum delivered with it. Present Barbero's wording as a paraphrase, not a direct
+    quotation, and date the letter to 2 July with delivery on 5 July rather than calling it a
+    4 July letter.
 - id: Q-005
   barbero_utterances: [U-00203–U-00214]
   barbero_timestamp: "12:38"

@@ -342,3 +342,26 @@
   url: "https://search.worldcat.org/title/794136319"
   accessed: "2026-07-17"
   notes: "Leading scholarly synthesis used for a stable English rendering and attribution of Wilhelm II's marginal annotation; underlying original was German."
+- id: SRC-415
+  author: "Ludwig Bittner et al., eds."
+  title: "Österreich-Ungarns Aussenpolitik von der Bosnischen Krise 1908 bis zum Kriegsausbruch 1914"
+  edition: "Band VIII"
+  publisher: "Österreichischer Bundesverlag"
+  date: 1930
+  language: German
+  stable_identifier: "ÖUA VIII, document 9984"
+  url: null
+  accessed: null
+  locator: "document 9984, pp. 250–252"
+  notes: "Publishes the 2 July 1914 imperial Handschreiben from the surviving Vienna file copy and draft; the accompanying Matscheko memorandum is a distinct annex. Bibliographic and textual details supplied during editorial source review."
+- id: SRC-416
+  author: "Karl Kautsky, Max Montgelas, and Walther Schücking, eds."
+  title: "Die Deutschen Dokumente zum Kriegsausbruch 1914"
+  edition: "Band I"
+  date: 1919
+  language: German
+  stable_identifier: "DDK I, document 13"
+  url: null
+  accessed: null
+  locator: "document 13"
+  notes: "German publication of the Foreign Office transcription made after delivery in Potsdam; corroborates the Vienna textual tradition. Bibliographic and textual details supplied during editorial source review."
