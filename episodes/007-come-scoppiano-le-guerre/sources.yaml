@@ -421,3 +421,26 @@
   accessed: "2026-07-17"
   locator: "introduction, citation to Goschen to Grey, 29 July 1914, BD XI, no. 293"
   notes: "Independent scholarly-edition corroboration of the identity of Goschen's telegram."
+- id: SRC-422
+  author: "Auswärtiges Amt, ed.; Karl Kautsky, compiler; Max Montgelas and Walther Schücking, eds."
+  title: "Die Deutschen Dokumente zum Kriegsausbruch 1914"
+  edition: "2nd ed., vol. II"
+  publisher: "Deutsche Verlagsgesellschaft für Politik und Geschichte"
+  date: 1921
+  language: German
+  stable_identifier: "DD II, document 368; Lichnowsky telegram no. 178"
+  url: "https://archive.org/download/diedeutschendoku02germ/diedeutschendoku02germ.pdf"
+  accessed: "2026-07-17"
+  locator: "document 368, pp. 86–89"
+  notes: "Prints Lichnowsky's 29 July telegram from the Foreign Office decipherment together with Wilhelm II's marginal and concluding annotations, dated by Wilhelm 30 July 1914 at 1 p.m. Document 368 precedes and is distinct from Bethmann Hollweg's later neutrality proposal in document 373."
+- id: SRC-423
+  author: "Karl Kautsky"
+  title: "England"
+  container_title: "Wie der Weltkrieg entstand"
+  date: 1919
+  language: German
+  stable_identifier: null
+  url: "https://www.marxists.org/deutsch/archiv/kautsky/1919/krieg/14-england.html"
+  accessed: "2026-07-17"
+  locator: "chapter 14, 'England'"
+  notes: "Contemporary published discussion reproducing and contextualizing Wilhelm's reaction to Grey's warning."

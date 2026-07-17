@@ -255,17 +255,38 @@
   barbero_utterances: [U-00844–U-00852]
   barbero_timestamp: "56:30"
   attribution: "Kaiser Wilhelm II, marginal annotations"
-  source_id: null
+  source_id: SRC-422
+  corroborating_sources: [SRC-423]
   original_language: German
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: low
-  status: deferred
-  deferred_reason: "The target lacks a verified original-language text in a primary or critical edition with an exact stable locator."
-  script_treatment: research-before-use
-  research_note: "The substance is widely reproduced, but no digitized facsimile or critical transcription of Wilhelm's marginalia with an exact archival/document locator was verified in this pass. Do not quote verbatim."
+  original_text: >-
+    aha! Der gemeine Täuscher!! Gemeiner Hundsfott! Mit solchen Hallunken mache ich nie ein
+    Flottenabkommen! Das gemeine Krämergesindel hat uns mit Diners und Reden zu täuschen versucht.
+    Aber er hütet sich das Wort auszusprechen, sondern droht uns statt dessen! Gemeiner Hundsfott!
+    England allein trägt die Verantwortung für Krieg und Frieden nicht wir mehr! Das muß auch
+    öffentlich klargestellt werden.
+  translation: >-
+    Aha! The vile deceiver! Vile blackguard! I will never make a naval agreement with such
+    scoundrels! The vile shopkeeper rabble tried to deceive us with dinners and speeches. But he
+    avoids saying the word and threatens us instead! Vile blackguard! England alone bears
+    responsibility for war and peace, no longer we! That must also be made clear publicly.
+  locator: "Die Deutschen Dokumente zum Kriegsausbruch 1914, 2nd ed., vol. II, document 368, pp. 86–89; Lichnowsky telegram no. 178, London, 29 July 1914; annotations dated 30 July 1914, 1 p.m."
+  translation_notes: >-
+    Direct translation of distinct marginal and concluding annotations printed with Lichnowsky's
+    telegram. They do not form one continuous passage in the source. Barbero combines “der gemeine
+    Täuscher” and “Gemeiner Hundsfott” into his description of Grey, summarizes “Hallunken” and
+    “Krämergesindel” as English villains, and changes “responsibility for war and peace” into
+    responsibility for a world war.
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: >-
+    Evidence tier 1. Lichnowsky reported Grey's warning earlier on 29 July that Britain might not
+    remain aloof if Germany and France entered the conflict. Wilhelm read the deciphered telegram
+    on 30 July and treated Grey's warning as a threat intended to detach Germany from Austria.
+    Document 368 is not Britain's reply to Bethmann Hollweg's later neutrality proposal, which is
+    printed separately as document 373. Cite the secure published identifier rather than supplying
+    an unchecked modern Politisches Archiv shelfmark, and present Barbero's wording as a dramatic
+    composite paraphrase rather than a direct quotation.
 - id: Q-023
   barbero_utterances: [U-00880–U-00889]
   barbero_timestamp: "59:50"
