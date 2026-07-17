@@ -490,3 +490,36 @@
   accessed: "2026-07-17"
   locator: "pp. 405–424, especially p. 421 n. 67"
   notes: "Modern scholarly discussion quoting Nicolson and identifying the British-edition page for the Cambon scene."
+- id: SRC-428
+  author: "Alfred von Tirpitz"
+  title: "Erinnerungen"
+  publisher: "Verlag von K. F. Koehler"
+  date: 1919
+  language: German
+  stable_identifier: "Internet Archive erinnerunge00tirp"
+  url: "https://archive.org/details/erinnerunge00tirp"
+  accessed: "2026-07-17"
+  locator: "pp. 240–241; related France discussion later in the same chapter"
+  notes: "Retrospective and justificatory memoir whose preface is dated April 1919. Supplies Tirpitz's account of the 1 August Federal Council exchange and his later interpretation of Foreign Office legalism."
+- id: SRC-429
+  author: "Alfred von Tirpitz"
+  title: "My Memoirs"
+  edition: "Vol. I, authorized translation"
+  publisher: "Dodd, Mead and Company"
+  date: 1919
+  language: English
+  stable_identifier: "Internet Archive cu31924026407969"
+  url: "https://archive.org/details/cu31924026407969"
+  accessed: "2026-07-17"
+  locator: "pp. 363–365; residence meeting concerning France at pp. 366–367"
+  notes: "Authorized contemporary translation of Tirpitz's memoir; corroborates the German passage and distinguishes the Russian declaration exchange from the later meeting about France."
+- id: SRC-430
+  author: "Michael Epkenhans"
+  title: "Tirpitz, Alfred von"
+  container_title: "1914–1918-Online"
+  language: English
+  stable_identifier: "1914–1918-Online article"
+  url: "https://encyclopedia.1914-1918-online.net/article/tirpitz-alfred-von/?format=pdf"
+  accessed: "2026-07-17"
+  locator: "section discussing Tirpitz's postwar memoir and political self-justification"
+  notes: "Modern scholarly profile characterizing the 1919 memoir as justificatory and strongly critical of Germany's former leadership."

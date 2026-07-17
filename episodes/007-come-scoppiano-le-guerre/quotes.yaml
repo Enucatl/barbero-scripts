@@ -350,17 +350,37 @@
   barbero_utterances: [U-00921–U-00926]
   barbero_timestamp: "62:30"
   attribution: "Alfred von Tirpitz"
-  source_id: null
+  source_id: SRC-428
+  corroborating_sources: [SRC-429, SRC-430]
   original_language: German
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: low
-  status: deferred
-  deferred_reason: "The target lacks a verified original-language text in a primary or critical edition with an exact stable locator."
-  script_treatment: research-before-use
-  research_note: "Likely dependent on Tirpitz's memoir account of the 31 July meeting at the Chancellor's residence; exact German passage and page were not verified. Paraphrase with attribution to Tirpitz's later recollection."
+  original_text: >-
+    Am 1. August erfuhr ich in der Bundesratssitzung, daß wir dem Ultimatum eine Kriegserklärung
+    an Rußland nachgeschickt hätten. […] wegen der Juristen des Auswärtigen Amtes das Odium des
+    Angreifers übernehmen sollten […] Vermutlich taten wir es aus formaljuristischer
+    Gewissenhaftigkeit.
+  translation: >-
+    On 1 August I learned in the Federal Council session that we had followed the ultimatum with a
+    declaration of war on Russia. […] We were to assume the odium of the attacking party because
+    of the jurists of the Foreign Office. […] Presumably we did it out of formal legal
+    conscientiousness.
+  locator: "Tirpitz, Erinnerungen, pp. 240–241; authorized English translation, My Memoirs, vol. I, pp. 363–365, especially p. 364"
+  translation_notes: >-
+    Direct translation of selected German memoir passages, with omissions explicitly marked.
+    Barbero converts Tirpitz's retrospective policy criticism into dialogue. Tirpitz says that as
+    the Federal Council session broke up he asked Bethmann why mobilization required a declaration;
+    Bethmann cited an alleged army need to cross the frontier immediately, which Moltke later
+    denied. “Formal legal conscientiousness” was Tirpitz's own conjecture, not an answer spoken by
+    Foreign Office officials.
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: >-
+    Evidence tier 2–3: authentic but retrospective and self-justifying memoir evidence. The relevant
+    Russian-declaration exchange occurred on 1 August 1914 at a Federal Council session, after the
+    declaration had been sent—not on 31 July at Bethmann's residence while drafting it. The meeting
+    at the Chancellor's residence took place during the night of 1–2 August and concerned declaring
+    war on France. Preserve Tirpitz's objection to Germany assuming the appearance of aggression,
+    but correct the date, location, sequence, and reported reason.
 - id: Q-026
   barbero_utterances: [U-00943–U-00958]
   barbero_timestamp: "64:04"
