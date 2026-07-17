@@ -406,11 +406,11 @@
   publisher: "HMSO"
   date: 1926
   language: English
-  stable_identifier: "BD XI, document 293; TNA FO 371/2159, paper 34734"
+  stable_identifier: "BD XI, documents 293, 424, and 426; TNA FO 371/2159, paper 34734"
   url: "https://archive.org/details/in.ernet.dli.2015.172863"
   accessed: "2026-07-17"
-  locator: "document 293, pp. 185–186, quotation at p. 186"
-  notes: "Prints Goschen's secret and urgent telegram no. 102 reporting Bethmann Hollweg's neutrality proposal together with Eyre Crowe's signed 30 July minute. The working archive reference is TNA FO 371/2159/34734. Do not substitute FO 371/2137/39072, which concerns Ottoman matters."
+  locator: "document 293, pp. 185–186; documents 424 and 426, including p. 253"
+  notes: "Document 293 prints Goschen's telegram and Eyre Crowe's minute. Documents 424 and 426 establish Nicolson's 1 August meeting with Cambon and Grey's preceding answer, but do not contain Cambon's exclamation. The working Crowe archive reference is TNA FO 371/2159/34734."
 - id: SRC-421
   author: "Edward Goschen"
   title: "The Diary of Edward Goschen, 1900–1914: Introduction"
@@ -467,3 +467,26 @@
   accessed: "2026-07-17"
   locator: "p. 166 and n. 97"
   notes: "Modern scholarly discussion quoting the decisive words and citing the Prussian State Ministry protocol."
+- id: SRC-426
+  author: "Harold Nicolson"
+  title: "Portrait of a Diplomatist"
+  publisher: "Houghton Mifflin"
+  date: 1930
+  language: English
+  stable_identifier: "Internet Archive portraitofdiplom0000nico"
+  url: "https://archive.org/details/portraitofdiplom0000nico"
+  accessed: "2026-07-17"
+  locator: "p. 304; British edition, Sir Arthur Nicolson, Bart., p. 419"
+  notes: "Harold Nicolson's biography of his father supplies Arthur Nicolson's eyewitness account and Cambon's French direct speech. The scene was published sixteen years later without an item-specific footnote; normalize the OCR's 'lacher' to 'lâcher'."
+- id: SRC-427
+  author: "Stephen J. Valone"
+  title: "There Must Be Some Misunderstanding: Sir Edward Grey's Diplomacy of August 1, 1914"
+  container_title: "Journal of British Studies"
+  edition: "27, no. 4"
+  date: 1988
+  language: English
+  stable_identifier: "JSTOR 175713"
+  url: "https://www.jstor.org/stable/175713"
+  accessed: "2026-07-17"
+  locator: "pp. 405–424, especially p. 421 n. 67"
+  notes: "Modern scholarly discussion quoting Nicolson and identifying the British-edition page for the Cambon scene."

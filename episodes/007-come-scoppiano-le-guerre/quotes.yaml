@@ -326,17 +326,26 @@
   barbero_utterances: [U-00906–U-00915]
   barbero_timestamp: "61:36"
   attribution: "Paul Cambon"
-  source_id: null
+  source_id: SRC-426
+  corroborating_sources: [SRC-420, SRC-427]
   original_language: French
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: low
-  status: deferred
-  deferred_reason: "The target lacks a verified original-language text in a primary or critical edition with an exact stable locator."
-  script_treatment: research-before-use
-  research_note: "Could not establish the eyewitness/friend or a primary French wording for 'they are abandoning us.' Retain the scene only as reported recollection, without quotation marks."
+  original_text: "Ils vont nous lâcher, ils vont nous lâcher."
+  translation: "They're going to abandon us; they're going to let us down."
+  locator: "Harold Nicolson, Portrait of a Diplomatist, p. 304; British edition, Sir Arthur Nicolson, Bart., p. 419"
+  translation_notes: >-
+    Direct translation of the French as printed by Harold Nicolson; “vont” is prospective and
+    “lâcher” idiomatically means to let someone down. The source's OCR omits the circumflex. Barbero's
+    “Ci mollano” captures the idiom but shifts the tense. His tears and collapse are dramatizations:
+    Nicolson says Cambon was white and speechless and that Arthur Nicolson guided him to a chair.
+  confidence: medium
+  status: resolved
+  script_treatment: qualify
+  research_note: >-
+    Evidence tier 2–3: the named eyewitness was Sir Arthur Nicolson, but the wording survives in
+    his son Harold's 1930 biography, sixteen years after the event, without a specific source note.
+    Nicolson's contemporary memorandum and Cambon's telegram independently confirm the 1 August
+    meeting and its subject but not the exclamation. Present the phrase as Arthur Nicolson's later
+    reported recollection, not as text from an official minute or Cambon telegram.
 - id: Q-025
   barbero_utterances: [U-00921–U-00926]
   barbero_timestamp: "62:30"
