@@ -64,6 +64,10 @@ search, follow citations into digitized books and OCR, distinguish contemporary 
 recollections, and accept practical evidence tiers rather than requiring an inaccessible critical
 edition. Quotations are never assigned to broad research batches.
 
+The researched lecture is adapted with [`prompts/english-adaptation.md`](prompts/english-adaptation.md).
+It follows Barbero closely and has no fixed word-count or duration target; source fidelity and
+natural spoken English take precedence over compression.
+
 ## Provider-neutral diarization format
 
 ```json
