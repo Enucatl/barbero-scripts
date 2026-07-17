@@ -428,11 +428,11 @@
   publisher: "Deutsche Verlagsgesellschaft für Politik und Geschichte"
   date: 1921
   language: German
-  stable_identifier: "DD II, document 368; Lichnowsky telegram no. 178"
+  stable_identifier: "DD II, documents 368 and 456"
   url: "https://archive.org/download/diedeutschendoku02germ/diedeutschendoku02germ.pdf"
   accessed: "2026-07-17"
-  locator: "document 368, pp. 86–89"
-  notes: "Prints Lichnowsky's 29 July telegram from the Foreign Office decipherment together with Wilhelm II's marginal and concluding annotations, dated by Wilhelm 30 July 1914 at 1 p.m. Document 368 precedes and is distinct from Bethmann Hollweg's later neutrality proposal in document 373."
+  locator: "document 368, pp. 86–89; document 456, pp. 175–180, quotation at p. 178"
+  notes: "Document 368 prints Lichnowsky's 29 July telegram with Wilhelm II's annotations. Document 456 prints the official protocol of the Royal Prussian State Ministry meeting of 30 July from a copy supplied by that ministry."
 - id: SRC-423
   author: "Karl Kautsky"
   title: "England"
@@ -444,3 +444,26 @@
   accessed: "2026-07-17"
   locator: "chapter 14, 'England'"
   notes: "Contemporary published discussion reproducing and contextualizing Wilhelm's reaction to Grey's warning."
+- id: SRC-424
+  author: "Reinhold Zilch, ed."
+  title: "Die Protokolle des Preußischen Staatsministeriums 1817–1934/38"
+  edition: "Acta Borussica, new series, vol. 10: 14. Juli 1909 bis 11. November 1918"
+  date: 1999
+  language: German
+  stable_identifier: "Regest 113/1914"
+  url: "https://edoc.bbaw.de/files/405/258KAutjceXA.pdf"
+  accessed: "2026-07-17"
+  locator: "regest 113/1914, p. 114"
+  notes: "Supplies archival provenance for the 30 July protocol: GStAPK I. HA, Rep. 90a, B III 2b Nr. 6, vol. 163, fols. 124–127v, enclosure fols. 128–129v, microfiche 971; parallel copies in Rep. 90 Nr. 2428 and Rep. 92 Nachlass Heinrichs Nr. 1."
+- id: SRC-425
+  author: "Michael Epkenhans"
+  title: "Der Erste Weltkrieg – Jahrestagsgedenken, neue Forschungen und Debatten"
+  container_title: "Vierteljahrshefte für Zeitgeschichte"
+  edition: "63 (2015)"
+  date: 2015
+  language: German
+  stable_identifier: null
+  url: "https://www.ifz-muenchen.de/heftarchiv/2015_2.pdf"
+  accessed: "2026-07-17"
+  locator: "p. 166 and n. 97"
+  notes: "Modern scholarly discussion quoting the decisive words and citing the Prussian State Ministry protocol."

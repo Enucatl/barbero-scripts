@@ -291,17 +291,37 @@
   barbero_utterances: [U-00880–U-00889]
   barbero_timestamp: "59:50"
   attribution: "Theobald von Bethmann Hollweg, Prussian Ministry of State"
-  source_id: null
+  source_id: SRC-422
+  corroborating_sources: [SRC-424, SRC-425]
   original_language: German
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: medium
-  status: deferred
-  deferred_reason: "The target lacks a verified original-language text in a primary or critical edition with an exact stable locator."
-  script_treatment: research-before-use
-  research_note: "Secondary scholarship identifies the meeting as the Prussian Ministry of State on 30 July, not simply a German cabinet meeting. Exact German protocol wording remains to be checked in the published Staatsministerium minutes. Paraphrase only."
+  original_text: >-
+    Der Herr Ministerpräsident betonte zum Schluß, daß alle Regierungen — einschließlich Rußlands —
+    und die große Mehrheit der Völker an sich friedfertig seien, aber es sei die Direktion verloren
+    und der Stein ins Rollen geraten. Als Politiker gäbe er jedoch, solange seine Demarche in Wien
+    noch nicht abgeschlagen sei, die Hoffnungen und Bemühungen auf Erhaltung des Friedens noch
+    nicht auf.
+  translation: >-
+    In conclusion, the Minister-President emphasized that all governments—including Russia's—and
+    the great majority of the peoples were peaceably disposed in themselves, but that direction
+    had been lost and the stone had started rolling. As a politician, however, so long as his
+    démarche in Vienna had not yet been rejected, he had not abandoned his hopes and efforts to
+    preserve peace.
+  locator: "Die Deutschen Dokumente zum Kriegsausbruch 1914, vol. II, document 456, pp. 175–180, quotation at p. 178; protocol of the Royal Prussian State Ministry, Berlin, 30 July 1914"
+  translation_notes: >-
+    Direct translation of the official protocol's indirect-speech report, not a stenographic direct
+    quotation. “Friedfertig” means peaceably disposed; “die Direktion verloren” means that
+    direction or control had been lost. Barbero preserves the rolling-stone image but omits the
+    lost-direction clause and Bethmann's immediately stated continuing effort to preserve peace.
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: >-
+    Evidence tier 1 with archival and scholarly corroboration. The speaker is Theobald von Bethmann
+    Hollweg in his Prussian capacity as Minister-President and president of the State Ministry,
+    although he was simultaneously Imperial Chancellor. The setting was the Royal Prussian State
+    Ministry, not an imperial cabinet or Kronrat. Attribute the formulation as Bethmann's words
+    reported by the official protocol rather than placing an unqualified direct quotation in his
+    mouth.
 - id: Q-024
   barbero_utterances: [U-00906–U-00915]
   barbero_timestamp: "61:36"
