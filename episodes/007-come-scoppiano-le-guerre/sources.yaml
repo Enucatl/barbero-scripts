@@ -365,3 +365,26 @@
   accessed: null
   locator: "document 13"
   notes: "German publication of the Foreign Office transcription made after delivery in Potsdam; corroborates the Vienna textual tradition. Bibliographic and textual details supplied during editorial source review."
+- id: SRC-417
+  author: "Belgian Ministry of Foreign Affairs, ed."
+  title: "Documents diplomatiques belges, 1905–1914"
+  edition: "Vol. IV"
+  date: 1913
+  language: French
+  stable_identifier: "DDB IV, document 202"
+  url: null
+  accessed: null
+  locator: "document 202, Baron Eugène Beyens to Jules Davignon, 8 November 1913"
+  notes: "Contemporaneous diplomatic report following Albert I's 5–6 November visit to Berlin; supports the encounter, German warnings of war with France, and the presentation of von Kluck. Bibliographic and textual details supplied during editorial source review."
+- id: SRC-418
+  author: "Eugène Beyens"
+  title: "Deux années à Berlin, 1912–1914"
+  edition: "Vol. II"
+  publisher: "Plon-Nourrit"
+  date: 1919
+  language: French
+  stable_identifier: null
+  url: null
+  accessed: null
+  locator: "pp. 38–43"
+  notes: "Postwar memoir account of the November 1913 dinner; supplies the explicit 'marcher sur Paris' recollection. Use with its retrospective character disclosed. Bibliographic and textual details supplied during editorial source review."

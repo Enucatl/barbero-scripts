@@ -137,18 +137,30 @@
 - id: Q-009
   barbero_utterances: [U-00424–U-00435]
   barbero_timestamp: "27:15"
-  attribution: "Kaiser Wilhelm II, remark to King Albert I of Belgium"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: deferred
-  deferred_reason: "The target lacks a verified original-language text in a primary or critical edition with an exact stable locator."
-  script_treatment: research-before-use
-  research_note: "Find the source for Wilhelm's alleged 1913 identification of the future commander of the march on Paris."
+  attribution: "Kaiser Wilhelm II to King Albert I of Belgium, as recalled by Baron Eugène Beyens"
+  source_id: SRC-418
+  corroborating_sources: [SRC-417]
+  original_language: French
+  original_text: >-
+    L’Empereur lui présenta le général von Kluck en lui disant, avec une nuance d’intention bien
+    marquée : « C’est le général qui sera chargé de marcher sur Paris. »
+  translation: >-
+    The Emperor introduced General von Kluck to him, saying with a distinctly deliberate emphasis:
+    “This is the general who will be charged with marching on Paris.”
+  locator: "Beyens, Deux années à Berlin, vol. II, pp. 38–43; contemporaneous context corroborated by DDB IV, document 202, 8 November 1913"
+  translation_notes: >-
+    Direct translation of Beyens's French memoir wording. The explicit “march on Paris” sentence
+    is a postwar recollection, not a verbatim line established from the contemporaneous dispatch.
+    The 1913 diplomatic report supports the dinner, von Kluck's presentation, and Wilhelm and
+    Moltke's warnings that war with France was imminent and German military power irresistible.
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: >-
+    Evidence tier 1 and retrospective tier 2: Albert visited Berlin on 5–6 November 1913, and
+    Beyens reported the conversations on 8 November. Beyens's 1919 memoir supplies the vivid line
+    that Barbero closely paraphrases. Preserve the anecdote but attribute the exact wording to
+    Beyens's later account rather than presenting it as a stenographic record of Wilhelm.
 - id: Q-010
   barbero_utterances: [U-00453–U-00469]
   barbero_timestamp: "29:16"
