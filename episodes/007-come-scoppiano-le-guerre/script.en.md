@@ -133,4 +133,217 @@ Even in the Yugoslav wars of the 1990s, Russia backed Serbia.
 
 So now let us widen the picture for a moment.
 
-<!-- Draft continues with section 4: A multipolar Europe and the alliance system. -->
+## 4. A world of alliances
+
+Serbia has a great friend: Russia.
+
+And everyone in that world of 1914 is looking for friends, for allies. The weight of alliances is
+fundamental if we want to understand how they slide into a world war.
+
+Because this is not a world of blocs. Well, ours is no longer really a world of two blocs either.
+For a while only the American bloc was left. But we all remember when the world was divided into
+two blocs and nothing happened outside them.
+
+The world of 1914 is not like that. It is a world of great and small powers.
+
+Which are the great powers? Britain. Germany. France. Russia. Austria-Hungary. And then, out of
+politeness, Italy is usually included too—the last of the great powers, with a little effort.
+
+Then there are the smaller powers, and they too are warlike, nationalist, well armed: Serbia,
+Romania, Belgium. They are not divided neatly into blocs. Each one thinks for itself. [C-007]
+
+This is the high age of nationalism. Every country is convinced that its duty is to think of
+itself. It is what the Italian prime minister Antonio Salandra would call, a few months later,
+Italy's *sacro egoismo*—its “sacred self-interest.” [Q-003]
+
+But if you must think of yourself, then you must also find allies, because on your own things can
+end badly. And so each country, for its own safety, looks for alliances.
+
+Serbia is allied with Russia. The Austrians think: the world will understand. Serbia is plainly a
+rogue state that has organized terrorism. It must be punished, for everybody's safety.
+
+But then a doubt occurs to them. If Austria attacks Serbia, perhaps the Russians will intervene.
+
+Austria, however, also has a powerful friend. More powerful than Austria itself, because Austria is
+a great empire in decline—and more or less everybody suspects that it is in decline.
+
+Austria has an immensely powerful friend that is becoming one of the greatest powers in the world:
+Germany.
+
+The Germany of Kaiser Wilhelm. You remember Wilhelm: the great handlebar moustache, the spiked
+helmet? The Kaiser can look a little comic. Germany is not comic. Germany is a very great power,
+with perhaps the strongest continental army in Europe and an industrial economy that has overtaken
+Britain by some measures—steel production, for example—though not in finance, empire, trade, or
+naval power. [C-008]
+
+Austria is allied with Germany by a treaty that commits the two countries to help one another if
+one of them is attacked. To tell the truth, the alliance also includes Italy. That is why it is
+called the Triple Alliance.
+
+But in the crisis of 1914, it is perfectly clear that nobody believes in Italy. The Austrians do
+not believe that if they go to war, Italy will come and help them. They leave Italy out of the
+discussion from the start. And they are right. In the name of sacred self-interest, Italy will
+decide to stay out—for the moment. [C-009]
+
+But Germany is there.
+
+## 5. The first bet
+
+Austria has enough good sense to know that before doing anything against Serbia, it must ask what
+the Germans think.
+
+Franz Ferdinand's funeral takes place on 3 July. Franz Joseph has already signed a personal letter
+to Kaiser Wilhelm, a letter that will be carried to Berlin and delivered on 5 July.
+
+It is a very interesting letter. It is not precise. It is not a cool, lucid memorandum saying: this
+is what we intend to do. It says, in effect: you can see that things cannot go on like this. Serbia
+is the center of criminal agitation. Reconciliation is no longer possible. This hotbed in Belgrade
+cannot be allowed to continue unpunished. Surely you agree? [Q-004]
+
+That is not a literal translation of the emperor's formal German prose. It is the meaning of the
+appeal. Franz Joseph writes that the assassination is the result of Russian and Serbian Pan-Slav
+agitation; that Serbia must be eliminated as a political factor in the Balkans; that the conflict
+separating Austria-Hungary from Serbia can no longer be reconciled. The personal letter is separate
+from the diplomatic memorandum delivered with it. But the message is unmistakable.
+
+It makes me think of the arguments with which Western countries went into Iraq or Afghanistan
+after September 11. Something must be done. There is no lucid reasoning through all the
+consequences—what today we would call an exit strategy. Don't you agree that something must be
+done?
+
+Fortunately for Austria, Kaiser Wilhelm agrees.
+
+When the news of Sarajevo arrived, Wilhelm wrote in the margin that it was high time to make a
+clean sweep of the Serbs. [Q-005]
+
+And on 5 July the answer comes back: go ahead. Do not worry. If Russia interferes, Germany will
+stand by you.
+
+But the Kaiser adds something else: really, do not worry. The Russians will not dare to interfere.
+We are certain of it. Russia will stay out. [C-010]
+
+That is the first bet.
+
+The story tonight is a story of bets, one after another, all of them wrong.
+
+Wars break out, as we shall see, not because somebody wants them. Nobody ever wants the war—or at
+least nobody wants the world war, the general war. Wars break out because somebody makes the wrong
+bet.
+
+Let us stop for another moment over this assurance Wilhelm sends to Austria: go ahead; we are with
+you; do not worry.
+
+Historians later called it the blank cheque.
+
+How was this blank cheque given? Germany was already a parliamentary country. It had political
+parties, a parliament, free elections.
+
+The parliament was not consulted.
+
+The commitment emerged from a tiny circle around the Kaiser, the Chancellor, and the imperial
+leadership, without prior parliamentary approval. Later recollections turn the consultations into
+a neat sequence involving the army commander Moltke and even the arms manufacturer Krupp. That
+exact sequence is not secure. But the essential point is: this decision was not debated in the
+Reichstag or tested in public. [C-011]
+
+And they were convinced that the great war would not come. After sending the blank cheque to
+Vienna, Wilhelm boarded his yacht and went cruising in the Baltic.
+
+It was July. People wanted their holidays.
+
+Even the Kaiser went on holiday.
+
+## 6. A prosperous, armed Europe
+
+This German bet—that yes, there is a risk, but you will see, the great war will not come—is crucial
+to everything we are discussing tonight. So we must stay with it a little longer.
+
+The bet is even larger than it looks, because of the alliances. Russia is not the only country in
+play.
+
+Russia is Serbia's great friend. But Russia has an alliance with France.
+
+Politically, if you think about it, it is an unnatural alliance. France: a republic, secular,
+anticlerical, radical. And the empire of the Tsar: Orthodox, absolutist, the most reactionary state
+on the continent.
+
+An unnatural alliance. And yet France and Russia have been allies for twenty years.
+
+Why?
+
+You only have to look at the map. The map as it was then.
+
+Germany seems like a great power to us today. The Germany of that time was much larger. There was
+no Poland, no Czechoslovakia, no Baltic States. On the map of Europe in 1914, Germany sits in the
+middle, bordering France on one side and Russia on the other.
+
+And so of course France and Russia have every interest in being allies. [C-012]
+
+When the Germans bet there will be no war—they do expect a small Austrian war with Serbia; that is
+fine, that is the point—but when they bet there will be no world war, they are betting there will
+be no war against Russia and France.
+
+That is the risk.
+
+Why do they take it?
+
+The second part of our story will be a kind of countdown through the final days. But first we have
+to draw a wider picture. We have to get inside the minds of the people governing the world at that
+moment.
+
+What is that world like? What is Europe like?
+
+The Europe of 1914 is living through a period of great prosperity, of great economic expansion.
+After the long economic difficulties of the late nineteenth century, the economy is moving again.
+Everyone is growing.
+
+There is even a kind of globalization before the word existed. Of course, today it is very easy to
+find globalizations in the past. I have seen every kind. Even the Roman Empire has been called a
+globalization. But this one really does have many features of globalization.
+
+The economies are interdependent. The stock exchanges are interdependent. The currencies are
+linked to one another. The Italian lira is worth exactly the same as the French franc. You can
+travel across almost all of Europe without a passport—except Russia. You need a passport to enter
+Russia. [C-013]
+
+But otherwise Europe is so interconnected that it seems incredible a war could break out between
+these powers.
+
+And yet, at the very same time, all these countries—even Italy—are armed to the teeth. They spend
+enormous sums on armies and battle fleets.
+
+Why?
+
+Because they are afraid of one another.
+
+One thing we have to understand about the ruling classes of that period is that they are all
+steeped in a sort of Darwinian ideology—but a radically simplified one. Survival of the fittest.
+The struggle for survival. The strongest survive.
+
+They are convinced that states struggle with one another in the same way. The strongest will
+triumph. The weak will be eaten.
+
+And because they believe this, every state wants to be strong. Everyone arms in order to survive.
+[C-014]
+
+Nobody imagines that they themselves will be the aggressor in the future. It is always the others
+who are the aggressors.
+
+We are threatened. We must be strong. We must have a great army.
+
+And since we are spending an enormous amount of money on this great army, well, we have to imagine
+that perhaps, sooner or later, we will use it.
+
+It cannot be ruled out.
+
+Indeed, some people say, it is quite probable.
+
+Those years are extraordinary. Books appear that speak quite calmly about *the next war*. It is a
+predictable scenario. It is part of the horizon.
+
+In 1911, a German general, Friedrich von Bernhardi, publishes a book called *Germany and the Next
+War*.
+
+Three years before the First World War.
+
+<!-- Draft continues with section 7: Warnings of catastrophe and a predicted scenario. -->
