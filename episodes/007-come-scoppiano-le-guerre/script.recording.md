@@ -1,90 +1,132 @@
 # How Wars Begin: The First World War
 
-## 1. A present-day question
+## 1. So—how do wars begin?
 
-Good evening. I am very pleased to be here in Sarzana.
+Good evening.
 
-When we planned this talk, the title—“How Wars Begin”—already seemed timely. Since then, it has
-become more timely still. We hear news from Ukraine, from Iraq, and from other places where war has
-returned to the center of public life. Pope Francis recently spoke of a third world war being fought
-“piecemeal,” through crimes, massacres, and destruction.
+So: how do wars begin?
 
-So the question feels immediate: how does a war begin? How do governments move from a crisis to
-something that, only days earlier, almost nobody believed would actually happen?
+A few months ago, when we first started thinking about what I might come and talk about here in
+Sarzana, the atmosphere was already, more or less, what it still is today. There was already news
+from Ukraine. There was news from Iraq. Pope Francis had not yet said that a third world war was
+already being fought—piecemeal, through crimes, massacres, destruction—but not long ago he did say
+it.
 
-Tonight I will answer by talking about the First World War. And perhaps that should also reassure
-us a little. The international system of 1914 was profoundly different from our own: different
-alliances, different empires, different institutions, and, of course, no nuclear deterrence. The
-comparison is useful only if we keep those differences in view.
+And so the question is becoming more topical all the time. How does it happen—
 
-## 2. Sarajevo
+Do I need to repeat the first part? No? It was only a way of getting into the subject. It works just
+as well like this.
 
-The First World War begins with an act of terrorism: the assassination at Sarajevo on 28 June
-1914. The victim was Archduke Franz Ferdinand, heir to the Austro-Hungarian throne. The murder was
-carried out by young Bosnian Serb nationalists connected to networks in Serbia, including men tied
-to Serbian military intelligence. That is not the same thing as saying that the Serbian government
-collectively planned the assassination. The distinction matters. But there were real connections
-across the border.
+How do wars begin?
 
-To understand the shock, we have to recover what a crown prince meant in a dynastic monarchy. An
-American president serves for four years and can be replaced. Franz Ferdinand, if he lived, was
-expected to become emperor and remain emperor for life. Killing him did not simply remove a public
-official. It appeared to strike at the future of the state itself.
+Actually, I think what I am going to tell you is, in its way, rather reassuring. It shows that wars
+break out—that great world wars break out—in situations quite different from the one we are living
+through now. The international situation today is disastrous, full of suffering, full of
+uncertainty. But it is still very different from the situations taking shape in Europe—in the
+Europe of 1914, for example, which is where we begin tonight. The comparison only works if we keep
+those differences in mind.
 
-The reigning emperor, Franz Joseph, had been on the throne since 1848. At the assassination he was
-eighty-three; he turned eighty-four that August. He had already reigned for more than sixty-five
-years and would die on 21 November 1916—not in December, as is sometimes said.
+## 2. An act of terrorism
 
-Imagine how the assassination looked from Vienna. The old emperor could not have much time left.
-Franz Ferdinand was expected to succeed him, perhaps for decades. And now that future emperor had
-been killed in Bosnia by conspirators whose trail led, in part, toward Serbia.
+How does the First World War begin? Well, deep down, we all know. It begins with an assassination:
+the assassination at Sarajevo.
 
-The attack was therefore treated not as an isolated murder but as an international act of enormous
-gravity. We can make a modern analogy, cautiously, with the attacks of September 11: not because
-the events were identical, but because political leaders experienced both as attacks that demanded
-a response beyond ordinary criminal justice.
+On 28 June 1914, a group of Serbian nationalist terrorists kill Archduke Franz Ferdinand, heir to
+the throne of the Austrian Empire.
 
-And the crisis did not occur in a vacuum. The assassination struck an area already saturated with
-national conflict, imperial rivalry, secret organizations, and fear.
+So the first important thing to say about the outbreak of the First World War is this: it was born
+from an act of terrorism.
 
-## 3. Bosnia, Serbia, and Russia
+And terrorism, then as now, produced visceral reactions in public opinion—and therefore in
+governments too.
 
-Why Sarajevo? Because Sarajevo is in Bosnia, and Bosnia in 1914 belonged to Austria-Hungary. The
-Habsburg monarchy had occupied Bosnia and Herzegovina in 1878 and formally annexed it in 1908. But
-the population was not politically uniform.
+To us today, killing an archduke might perhaps seem, all things considered, a little less serious
+than, say, bringing down two skyscrapers with three thousand people inside. But the first thing we
+must understand, if we want to understand the people of 1914, is that to them—or at least to the
+politicians of the time—killing an archduke who was heir to an imperial throne was far more serious
+than bringing down two skyscrapers, if they could even have imagined such a thing.
 
-Many Bosnian Serbs looked toward neighboring Serbia and toward some form of South Slav unity.
-Croat political currents often related differently to Habsburg rule, while Bosnian Muslims had
-their own institutions, interests, and accommodations with the monarchy. None of these communities
-was a single political bloc. Still, their broad political relationships with Habsburg authority
-were genuinely different.
+Think about it. The Austro-Hungarian Empire is a great power. It is still a great power: weakened,
+in crisis, yes, but one of the very few great powers in the world.
 
-Serbia had emerged from the Balkan Wars larger, more confident, and more ambitious. To many
-Serbian nationalists, Bosnia ought not to remain under Habsburg rule. To Vienna, Serbia was becoming
-the center of an agitation that threatened to pull the multinational empire apart.
+And who rules the Austro-Hungarian Empire? Emperor Franz Joseph. Franz Joseph is eighty-three when
+the assassination takes place; he turns eighty-four that August. Which means that he is going to
+die very soon. Nobody knows when, but everybody knows it will be soon. He has ruled Austria for
+time out of mind—more than sixty-five years already. He will in fact die on 21 November 1916, a
+little over two years later. We know that; they did not.
 
-Members of the conspiracy received help from people connected to Serbian military intelligence;
-weapons and training crossed the border. The evidence does not justify the simple claim that
-“Serbia” as a whole organized the murder. But neither can we treat the assassination as detached
-from networks operating inside Serbia.
+And when Franz Joseph dies, Archduke Franz Ferdinand will become the ruler of one of the world's
+great powers, for the rest of his life.
 
-In Austria-Hungary, the public reaction was furious. Crowds used the slogan *Serbien muss
-sterben*—“Serbia must die.” The phrase is documented in contemporary accounts and became one of
-the starkest expressions of the mood after Sarajevo.
+You see that killing him changes the picture rather dramatically. It is not like killing a
+president of the United States, when after four years there will be another one anyway. Here they
+have killed a man who, for the whole of his life, was expected to help govern the world.
 
-At this point Russia enters the story. Russia saw itself as a protector of Serbia and drew on ideas
-of Slavic and Orthodox solidarity. Those connections were real, though they were not the whole
-explanation: Russian policy also involved strategy, prestige in the Balkans, and domestic politics.
+So the assassination is an exceptionally grave event. It is an act of terrorism of enormous
+gravity, with connections abroad.
 
-We saw the strength of this relationship again much later, during the wars that followed the
-breakup of Yugoslavia. Russian sympathy for Serbia did not begin in the 1990s. It belonged to a
-much longer political and cultural history.
+And here we have to remember what the world was like. I will spend the whole evening saying, “We
+have to remember this; we have to remember that.” Forgive me. The way a war begins is not simple.
+There is a whole chain of connections.
 
-An Austrian move against Serbia, then, might not remain an Austrian-Serbian affair. Austria-Hungary
-had Germany behind it. Serbia looked to Russia. Russia was allied with France. A local act of
-terrorism had landed in the middle of a European alliance system.
+The first connection—the first thing we bring into focus—is Sarajevo.
 
-That is the first essential point. Great wars do not necessarily begin because somebody wakes up
-one morning wanting a great war. They can begin because a local crisis activates connections built
-for protection—and turns them into a mechanism of escalation.
+Why Sarajevo?
+
+## 3. Bosnia, Serbia, and the great protector
+
+Sarajevo is in Bosnia. And Bosnia, then as in our own time, is a delicate place.
+
+Then too, Bosnia was a place with a mixture of peoples—peoples hostile to one another. It had been
+occupied by Austria-Hungary, and some of its inhabitants were quite happy about that. Parts of the
+Croat population were content. Many Bosnian Muslims were perfectly willing to belong to the
+Austrian Empire. Indeed, Muslim Bosnian soldiers would fight loyally for the Empire in the First
+World War—even in Italy, those Muslim regiments wearing the fez.
+
+But among the population of Bosnia there were also many Serbs who were not at all happy to belong
+to Austria.
+
+Because right next door was Serbia: the independent Kingdom of Serbia. Small, but warlike. A
+battle-hardened state, with military traditions and great dreams of expansion. The Serbs of Bosnia
+suffered under Austrian rule.
+
+Now, these communities were not solid political blocks; Croats, Muslims, and Serbs did not each
+think with a single mind. But their broad relationships with Habsburg rule were genuinely
+different.
+
+And so there was discontent. And there was terrorism.
+
+The Austrians were certain that this terrorism was supported, sustained, organized in Serbia. They
+were certain that the assassination in which the archduke and his wife had been killed had been
+organized in Serbia, with accomplices in the Serbian government and the Serbian army. The
+Austrians were sure of it from the first day.
+
+And, in part, they were right. The investigations would establish real links to men in Serbian
+military intelligence and to networks operating inside Serbia. That does not mean that the Serbian
+government as a whole planned the murder. But there is no doubt that those connections existed.
+
+And so Austria is determined to punish Serbia.
+
+Here you really have to make the effort to see Austria and Serbia not as forgotten countries in an
+old history book—who remembers what they were like then? No. Here is a rogue state that organizes
+terrorism abroad, and here is the state that has suffered the terrorist attack and is determined
+to punish the rogue state.
+
+In Austria there is a wave of mass indignation. Crowds fill the streets shouting, “Serbia must
+die!” In German it even rhymes: *Serbien muss sterben.*
+
+But there is a problem.
+
+Serbia has a great friend. A great protector.
+
+Russia.
+
+The Russia of Tsar Nicholas II.
+
+The friendship between Serbia and Russia is an obvious fact of European geography. It is still
+true today. Russia is a Slavic, Orthodox power; the Serbs are Slavic and Orthodox.
+
+Even in the Yugoslav wars of the 1990s, Russia backed Serbia.
+
+So now let us widen the picture for a moment.
 
