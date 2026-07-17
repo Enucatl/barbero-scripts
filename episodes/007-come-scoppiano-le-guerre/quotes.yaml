@@ -176,7 +176,34 @@
   script_treatment: qualify
   research_note: "Evidence tier 3: strong diary/scholarly attribution establishes Moltke's preventive-war view and the familiar wording, with a textual-history caveat. Barbero combines this with a separate 1914 remark."
 - {id: Q-011, source_id: SRC-M104, original_language: French, original_text: "Vous mettez le feu a l'Europe. Vous prenez sur vous une grave responsabilite.", translation: "You are setting fire to Europe. You are taking a grave responsibility upon yourself.", locator: "Szapary report, 24 July 1914; Austro-Hungarian Red Book, doc. 15", status: resolved, confidence: medium}
-- {id: Q-012, source_id: SRC-M101, original_language: German, original_text: null, translation: null, locator: "British Documents vol. XI, documents 99–101, 24 July 1914; exact phrase not located", status: deferred, confidence: low, deferred_reason: "British and German diplomatic records for 24 July were searched, together with Lichnowsky's memoir, but the alleged Kulturvölker wording was not found in a citable original German document.", script_treatment: research-before-use}
+- id: Q-012
+  barbero_utterances: [U-00519–U-00529]
+  barbero_timestamp: "34:00"
+  attribution: "Prince Lichnowsky to Sir Edward Grey, reported in Lichnowsky's telegram no. 151; with Wilhelm II's marginal annotations"
+  source_id: SRC-416
+  corroborating_sources: [SRC-419]
+  original_language: German
+  original_text: >-
+    Auf meine Bemerkung, daß man die Balkanvölker nicht mit demselben Maßstabe messen dürfe wie
+    europäische Kulturvölker … [Wilhelm II's marginal annotation:] richtig; sind eben keine!
+  translation: >-
+    In response to my observation that the Balkan peoples ought not to be judged by the same
+    standard as European civilized peoples … [Wilhelm II's marginal annotation:] Correct; they
+    simply aren't!
+  locator: "Die Deutschen Dokumente zum Kriegsausbruch 1914, vol. I, document 157, pp. 169–171, especially p. 170; Lichnowsky telegram no. 151, London, 24 July 1914"
+  translation_notes: >-
+    Direct translation from the supplied German transcription. The ellipsis marks continuation of
+    Lichnowsky's report, not omitted words inside the quoted clause. The Kulturvölker distinction
+    belongs to Lichnowsky's report of his own remark to Grey; the blunt “they simply aren't” is
+    Wilhelm II's separate marginal annotation printed by the documentary edition.
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: >-
+    Evidence tier 1, independently discussed by Röhl. Barbero closely paraphrases Lichnowsky's
+    distinction but telescopes it into a more conversational sentence. Do not attribute Wilhelm's
+    marginal wording to Lichnowsky or Grey, and do not describe the source as Lichnowsky's later
+    memoir: it is his outgoing diplomatic telegram of 24 July 1914.
 - {id: Q-013, source_id: SRC-M109, original_language: English, original_text: "We care as little for Belgrade as Belgrade does for Manchester.", translation: "We care as little for Belgrade as Belgrade does for Manchester.", locator: "Manchester Guardian, leading article, 30 July 1914", status: resolved, confidence: medium, research_note: "Evidence tier 3: consistent scholarly/newspaper attribution establishes the line adequately despite unavailable page image. Barbero misdates it; preserve only with the 30 July chronology.", script_treatment: qualify}
 - {id: Q-014, source_id: SRC-402, original_language: English, original_text: "A single British soldier—and we will see to it that he is killed.", translation: "A single British soldier—and we will see to it that he is killed.", locator: "The Life and Diaries of Field-Marshal Sir Henry Wilson, vol. I, chapter 4 ('A Single British Soldier'), account of the January 1910 meeting", status: resolved, confidence: medium, research_note: "Evidence tier 3: the posthumously edited Wilson life/diaries consistently attributes this English wording to Foch. No French original survives in the located evidence, so disclose the English-source dependency and treat it as reported recollection.", script_treatment: qualify}
 - {id: Q-015, source_id: SRC-M107, original_language: English, original_text: "If, despite our sincere desire, we do not succeed, Your Royal Highness may rest assured that in no case will Russia remain indifferent to the fate of Serbia.", translation: "If, despite our sincere desire, we do not succeed, Your Royal Highness may rest assured that in no case will Russia remain indifferent to the fate of Serbia.", locator: "FRUS 1914 Supplement, Russian Orange Book no. 40, telegram of 27 July 1914", status: resolved, confidence: high, research_note: "Evidence tier 2: official English documentary translation securely establishes the assurance. The French text was not recovered; Barbero's 'count on us' is a compression and should be paraphrased from this verified translation.", script_treatment: paraphrase}

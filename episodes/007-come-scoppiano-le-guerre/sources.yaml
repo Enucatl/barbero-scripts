@@ -360,11 +360,11 @@
   edition: "Band I"
   date: 1919
   language: German
-  stable_identifier: "DDK I, document 13"
-  url: null
-  accessed: null
-  locator: "document 13"
-  notes: "German publication of the Foreign Office transcription made after delivery in Potsdam; corroborates the Vienna textual tradition. Bibliographic and textual details supplied during editorial source review."
+  stable_identifier: "DDK I, documents 13 and 157"
+  url: "https://upload.wikimedia.org/wikipedia/commons/7/75/California_Digital_Library_%28IA_diedeutschendoku01germ%29.pdf"
+  accessed: "2026-07-17"
+  locator: "document 13; document 157, pp. 169–171, especially p. 170"
+  notes: "Document 13 corroborates the Vienna textual tradition for Franz Joseph's letter. Document 157 prints Lichnowsky's telegram no. 151 of 24 July 1914 with Wilhelm II's marginal annotations. Bibliographic and textual details supplied during editorial source review."
 - id: SRC-417
   author: "Belgian Ministry of Foreign Affairs, ed."
   title: "Documents diplomatiques belges, 1905–1914"
@@ -388,3 +388,14 @@
   accessed: null
   locator: "pp. 38–43"
   notes: "Postwar memoir account of the November 1913 dinner; supplies the explicit 'marcher sur Paris' recollection. Use with its retrospective character disclosed. Bibliographic and textual details supplied during editorial source review."
+- id: SRC-419
+  author: "John C. G. Röhl"
+  title: "The Kaiser's Last Norwegian Cruise"
+  container_title: "Wilhelm II"
+  publisher: "Cambridge University Press"
+  language: English
+  stable_identifier: "Cambridge Core chapter D24F4FC3CA07534BCE8270A99806B68E"
+  url: "https://www.cambridge.org/core/books/abs/wilhelm-ii/kaisers-last-norwegian-cruise/D24F4FC3CA07534BCE8270A99806B68E"
+  accessed: "2026-07-17"
+  locator: "chapter 'The Kaiser's Last Norwegian Cruise'"
+  notes: "Independent scholarly discussion of Lichnowsky's 24 July telegram and Wilhelm II's marginal response that Balkan peoples were 'simply not' Kulturvölker."
