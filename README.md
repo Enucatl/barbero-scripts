@@ -32,8 +32,18 @@ override. `transcribe` submits the complete cleaned FLAC to Deepgram Nova-3 usin
 
 `render` converts the provider response to stable utterances and renders corrected Italian and
 recording copies. Corrections are supplied in the working directory as `corrections.yaml`, keyed
-by utterance ID. `validate` fails on unresolved transcript review flags, broken script markers,
-or incomplete quotation and claim records.
+by utterance ID. To approve unchanged text, omit `text`:
+
+```yaml
+U-00042:
+  reviewed: true
+U-00117:
+  text: "Testo italiano corretto."
+  reviewed: true
+```
+
+`validate` fails on unresolved transcript review flags, broken script markers, or incomplete
+quotation and claim records.
 
 ## Provider-neutral diarization format
 

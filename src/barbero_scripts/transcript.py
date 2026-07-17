@@ -131,10 +131,11 @@ def apply_corrections(
         if not correction:
             result.append(item)
             continue
-        text = str(correction["text"])
-        flags = tuple(flag for flag in item.flags if flag != "low-confidence")
-        if correction.get("reviewed") is not True:
-            flags += ("correction-review",)
+        text = str(correction.get("text", item.text))
+        if correction.get("reviewed") is True:
+            flags: tuple[str, ...] = ()
+        else:
+            flags = item.flags + ("correction-review",)
         result.append(replace(item, text=text, flags=flags))
         if text != item.text:
             changed.append({"id": item.id, "before": item.text, "after": text})

@@ -28,6 +28,14 @@ def test_correction_merge_preserves_id_and_records_diff() -> None:
     assert diff == [{"id": "U-00001", "before": "princip", "after": "Princip"}]
 
 
+def test_review_without_text_keeps_original_and_clears_flags() -> None:
+    item = Utterance("U-00001", 0, 1, 10, 11, "Princip", 0.7, ("low-confidence",))
+    result, diff = apply_corrections([item], {"U-00001": {"reviewed": True}})
+    assert result[0].text == "Princip"
+    assert result[0].flags == ()
+    assert diff == []
+
+
 def test_unknown_correction_is_rejected() -> None:
     with pytest.raises(ValueError):
         apply_corrections([], {"U-99999": {"text": "x"}})
