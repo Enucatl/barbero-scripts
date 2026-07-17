@@ -211,7 +211,33 @@
 - {id: Q-017, source_id: SRC-403, original_language: German, original_text: "Meine ganze Libido gilt Österreich-Ungarn.", translation: "My entire libido belongs to Austria-Hungary.", locator: "institutional essay quoting Freud; cites Peter Gay, Freud für Historiker (1994), pp. 130–131", status: resolved, confidence: medium, research_note: "Evidence tier 3: stable attribution in an Austrian institutional essay backed by Peter Gay is sufficient for responsible quotation, though recipient/date remain unidentified and should be disclosed.", script_treatment: qualify}
 - {id: Q-018, source_id: SRC-M105, original_language: English, original_text: "An ignoble war has been declared to a weak country. I beg you in the name of our old friendship to do what you can to stop your allies from going too far.", translation: "An ignoble war has been declared to a weak country. I beg you in the name of our old friendship to do what you can to stop your allies from going too far.", locator: "Willy-Nicky telegrams, Nicholas II to Wilhelm II, Peterhof Palace, 29 July 1914, 1:00 a.m.", status: resolved, confidence: high}
 - {id: Q-019, source_id: SRC-M106, original_language: German, original_text: "Dann kann die gegenseitige Zerfleischung der Kulturstaaten Europas beginnen.", translation: "Then the mutual destruction of the civilized states of Europe can begin.", locator: "Moltke memorandum, 29 July 1914; Schuecking and Montgelas, vol. 5, p. 349; Geiss, vol. 2, pp. 261-263", status: resolved, confidence: high}
-- {id: Q-020, source_id: SRC-M101, original_language: English, original_text: null, translation: null, locator: "British Documents vol. XI, German proposal of 29 July 1914; exact minute and official not located", status: deferred, confidence: low, deferred_reason: "The 29 July German proposal, Foreign Office correspondence, and published British documents were searched, but neither the alleged disparaging minute nor its author was identified.", script_treatment: research-before-use}
+- id: Q-020
+  barbero_utterances: [U-00824–U-00835]
+  barbero_timestamp: "54:59"
+  attribution: "Sir Eyre Alexander Crowe, Foreign Office minute, 30 July 1914"
+  source_id: SRC-420
+  corroborating_sources: [SRC-421]
+  original_language: English
+  original_text: >-
+    The only comment that need be made on these astounding proposals is that they reflect
+    discredit on the statesman who makes them.
+  translation: >-
+    The only comment that need be made on these astounding proposals is that they reflect
+    discredit on the statesman who makes them.
+  locator: "TNA FO 371/2159, paper 34734, Crowe minute of 30 July 1914 on Goschen to Grey, telegram no. 102, Berlin, 29 July 1914; printed in BD XI, document 293, pp. 185–186, at p. 186"
+  translation_notes: >-
+    The source is English. Barbero's Italian is substantially accurate but renders “astounding
+    proposals” more loosely and shifts the present-tense “who makes them” into a completed action.
+  confidence: high
+  status: resolved
+  script_treatment: preserve
+  research_note: >-
+    Evidence tier 1: the published Foreign Office document reproduces Goschen's telegram, the
+    proposal, and Crowe's signed minute in sequence. Crowe continued that Germany had admitted its
+    intended violation of Belgian neutrality and appeared determined on war, chiefly constrained
+    by fear of British intervention. The archive reference FO 371/2159/34734 combines the relevant
+    piece with the registration number printed above document 293; the sometimes-cited
+    FO 371/2137/39072 concerns a separate Ottoman dreadnought matter and must not be used.
 - id: Q-021
   barbero_utterances: [U-00836–U-00843]
   barbero_timestamp: "55:52"

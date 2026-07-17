@@ -399,3 +399,25 @@
   accessed: "2026-07-17"
   locator: "chapter 'The Kaiser's Last Norwegian Cruise'"
   notes: "Independent scholarly discussion of Lichnowsky's 24 July telegram and Wilhelm II's marginal response that Balkan peoples were 'simply not' Kulturvölker."
+- id: SRC-420
+  author: "G. P. Gooch and Harold Temperley, eds."
+  title: "British Documents on the Origins of the War, 1898–1914"
+  edition: "Vol. XI, The Outbreak of War: Foreign Office Documents, June 28th–August 4th, 1914"
+  publisher: "HMSO"
+  date: 1926
+  language: English
+  stable_identifier: "BD XI, document 293; TNA FO 371/2159, paper 34734"
+  url: "https://archive.org/details/in.ernet.dli.2015.172863"
+  accessed: "2026-07-17"
+  locator: "document 293, pp. 185–186, quotation at p. 186"
+  notes: "Prints Goschen's secret and urgent telegram no. 102 reporting Bethmann Hollweg's neutrality proposal together with Eyre Crowe's signed 30 July minute. The working archive reference is TNA FO 371/2159/34734. Do not substitute FO 371/2137/39072, which concerns Ottoman matters."
+- id: SRC-421
+  author: "Edward Goschen"
+  title: "The Diary of Edward Goschen, 1900–1914: Introduction"
+  publisher: "Cambridge University Press"
+  language: English
+  stable_identifier: "Cambridge Core S0068690500002233"
+  url: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D674B65FC3A3AD3D8C5B0BC9AF2A31CE/S0068690500002233a.pdf/introduction.pdf"
+  accessed: "2026-07-17"
+  locator: "introduction, citation to Goschen to Grey, 29 July 1914, BD XI, no. 293"
+  notes: "Independent scholarly-edition corroboration of the identity of Goschen's telegram."
