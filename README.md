@@ -50,6 +50,11 @@ The reusable two-pass, text-only correction and contextual-verification instruct
 and working correction paths for each episode. The first pass proposes conservative corrections;
 the second resolves review flags by accepting or correcting text from full-episode context.
 
+Structural outlining and research-target extraction use
+[`prompts/episode-outline.md`](prompts/episode-outline.md) and
+[`prompts/research-target-extraction.md`](prompts/research-target-extraction.md). These passes map
+the lecture and seed pending ledgers before any external source research begins.
+
 ## Provider-neutral diarization format
 
 ```json

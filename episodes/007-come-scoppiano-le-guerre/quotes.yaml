@@ -1,1 +1,390 @@
-[]
+- id: Q-001
+  barbero_utterances: [U-00007–U-00008]
+  barbero_timestamp: "01:04"
+  attribution: "Pope Francis"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Identify the speech or interview, date, context, and exact wording of the attributed third-world-war remark."
+- id: Q-002
+  barbero_utterances: [U-00116–U-00123]
+  barbero_timestamp: "07:09"
+  attribution: "Austrian crowds"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Verify the slogan 'Serbien muss sterben', its documented wording, circulation, and context after the assassination."
+- id: Q-003
+  barbero_utterances: [U-00150–U-00154]
+  barbero_timestamp: "09:06"
+  attribution: "Antonio Salandra"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate Salandra's use of 'sacro egoismo' and establish its date, setting, and exact formulation."
+- id: Q-004
+  barbero_utterances: [U-00189–U-00197]
+  barbero_timestamp: "11:50"
+  attribution: "Emperor Francis Joseph, letter to Kaiser Wilhelm II"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Identify the 4 July 1914 communication and distinguish Barbero's paraphrase from its exact German wording."
+- id: Q-005
+  barbero_utterances: [U-00203–U-00214]
+  barbero_timestamp: "12:38"
+  attribution: "Kaiser Wilhelm II, telegram annotation and reply"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate Wilhelm's annotation about making a clean sweep of the Serbs and his 5 July reply; establish exact wording and document boundaries."
+- id: Q-006
+  barbero_utterances: [U-00325–U-00331]
+  barbero_timestamp: "20:36"
+  attribution: "Friedrich von Bernhardi, Germany and the Next War"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Verify the book title, edition, and exact German headings corresponding to the right and duty to wage war and 'world power or decline'."
+- id: Q-007
+  barbero_utterances: [U-00340–U-00349]
+  barbero_timestamp: "21:39"
+  attribution: "Norman Angell, The Great Illusion"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the passage supporting Barbero's paraphrase that the next war would ruin victors as well as losers."
+- id: Q-008
+  barbero_utterances: [U-00361–U-00376]
+  barbero_timestamp: "23:06"
+  attribution: "Sir Edward Grey, conversation with Prince Lichnowsky"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Identify the record of the December 1912 conversation and verify the escalation scenario's exact wording."
+- id: Q-009
+  barbero_utterances: [U-00424–U-00435]
+  barbero_timestamp: "27:15"
+  attribution: "Kaiser Wilhelm II, remark to King Albert I of Belgium"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Find the source for Wilhelm's alleged 1913 identification of the future commander of the march on Paris."
+- id: Q-010
+  barbero_utterances: [U-00453–U-00469]
+  barbero_timestamp: "29:16"
+  attribution: "Helmuth von Moltke the Younger"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate and date Moltke's private remarks that delay reduced German prospects and that the sooner war came, the better."
+- id: Q-011
+  barbero_utterances: [U-00508–U-00518]
+  barbero_timestamp: "33:13"
+  attribution: "Russian foreign minister to the Austro-Hungarian ambassador"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Identify the diplomatic record and exact wording of the warning that Austria was setting fire to Europe."
+- id: Q-012
+  barbero_utterances: [U-00519–U-00529]
+  barbero_timestamp: "33:54"
+  attribution: "Prince Karl Max von Lichnowsky"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Verify the attributed distinction between Balkan peoples and European Kulturvölker and locate its documentary source."
+- id: Q-013
+  barbero_utterances: [U-00542–U-00549]
+  barbero_timestamp: "35:32"
+  attribution: "Unidentified Manchester newspaper"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Identify the newspaper, issue, article, and exact wording of the Belgrade-Manchester comparison."
+- id: Q-014
+  barbero_utterances: [U-00575–U-00587]
+  barbero_timestamp: "37:46"
+  attribution: "Ferdinand Foch, in conversation with Henry Wilson"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Establish the provenance, date, original language, and exact wording of the 'one British soldier' anecdote."
+- id: Q-015
+  barbero_utterances: [U-00588–U-00593]
+  barbero_timestamp: "38:57"
+  attribution: "Tsar Nicholas II to the Serbian government"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Identify the communication behind 'you can count on us' and verify its wording, recipient, and timing."
+- id: Q-016
+  barbero_utterances: [U-00665–U-00679]
+  barbero_timestamp: "44:27"
+  attribution: "Theobald von Bethmann Hollweg to the Russian government"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the German warning of 26 July and verify Barbero's paraphrase linking Russian and German mobilization to war."
+- id: Q-017
+  barbero_utterances: [U-00688–U-00702]
+  barbero_timestamp: "46:00"
+  attribution: "Sigmund Freud"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Find whether Freud wrote or spoke these remarks, their date and recipient, and the exact German wording about Austrian identity and libido."
+- id: Q-018
+  barbero_utterances: [U-00716–U-00739]
+  barbero_timestamp: "47:41"
+  attribution: "Tsar Nicholas II and Kaiser Wilhelm II, Nicky-Willy telegrams"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Identify the telegram sequence, exact English texts, dates, and which portions Barbero paraphrases."
+- id: Q-019
+  barbero_utterances: [U-00740–U-00753]
+  barbero_timestamp: "49:44"
+  attribution: "Helmuth von Moltke the Younger"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate Moltke's statement about the mutual destruction of European civilized states and verify exact wording and date."
+- id: Q-020
+  barbero_utterances: [U-00824–U-00835]
+  barbero_timestamp: "55:06"
+  attribution: "Unidentified senior British Foreign Office official"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Identify the official and memorandum commenting that Germany's offers reflected badly on their author."
+- id: Q-021
+  barbero_utterances: [U-00836–U-00843]
+  barbero_timestamp: "55:52"
+  attribution: "Sir Edward Grey to Prince Lichnowsky"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate Grey's warning about British participation, friendship obligations, and unprecedented catastrophe."
+- id: Q-022
+  barbero_utterances: [U-00844–U-00852]
+  barbero_timestamp: "56:30"
+  attribution: "Kaiser Wilhelm II, marginal annotations"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the communication and verify Wilhelm's insults toward Grey and Britain and his assignment of responsibility."
+- id: Q-023
+  barbero_utterances: [U-00880–U-00889]
+  barbero_timestamp: "59:50"
+  attribution: "Theobald von Bethmann Hollweg, German cabinet meeting"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Identify the cabinet record and exact wording of the statement that peaceful governments lost control of the rolling stone."
+- id: Q-024
+  barbero_utterances: [U-00906–U-00915]
+  barbero_timestamp: "61:36"
+  attribution: "Paul Cambon"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the eyewitness account of Cambon's reaction and establish the original wording represented as 'ci mollano'."
+- id: Q-025
+  barbero_utterances: [U-00921–U-00926]
+  barbero_timestamp: "62:30"
+  attribution: "Alfred von Tirpitz"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Find the record of Tirpitz's objection to declaring war on Russia and verify its wording and setting."
+- id: Q-026
+  barbero_utterances: [U-00943–U-00958]
+  barbero_timestamp: "64:04"
+  attribution: "Kaiser Wilhelm II to Helmuth von Moltke the Younger"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the account of the mobilization crisis and verify Wilhelm's comparison of Moltke with his uncle."
+- id: Q-027
+  barbero_utterances: [U-00960–U-00977]
+  barbero_timestamp: "65:38"
+  attribution: "German ultimatum to Belgium"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Identify the ultimatum's authoritative text and verify the alleged French threat, conditional guarantees, and evacuation promise."
+- id: Q-028
+  barbero_utterances: [U-00989–U-00993]
+  barbero_timestamp: "67:35"
+  attribution: "Unidentified American diplomat in Brussels, diary"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Identify the diplomat and diary entry and verify the observation that Serbia had disappeared from discussion."
+- id: Q-029
+  barbero_utterances: [U-00998–U-01008]
+  barbero_timestamp: "68:20"
+  attribution: "Theobald von Bethmann Hollweg to the British ambassador"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the diplomatic account and exact German wording behind the celebrated 'scrap/piece of paper' phrase."
+- id: Q-030
+  barbero_utterances: [U-01009–U-01015]
+  barbero_timestamp: "69:16"
+  attribution: "Kaiser Wilhelm II"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the source and exact wording of Wilhelm's remark about Georgie, Nicky, betrayal, and Queen Victoria."

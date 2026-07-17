@@ -1,1 +1,342 @@
-[]
+- id: C-001
+  claim: "The international conditions of 1914 differed substantially from those at the time of the lecture."
+  transcript: [U-00014–U-00022]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Define the comparison being made and assess whether it remains useful without overstating similarities or differences."
+- id: C-002
+  claim: "The First World War's immediate crisis began with the Sarajevo assassination, carried out by Serbian terrorists with links in Serbia."
+  transcript: [U-00023–U-00033, U-00069–U-00073]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Establish the perpetrators, organizational relationships, and distinction between Serbian networks and state responsibility."
+- id: C-003
+  claim: "Francis Joseph was 84, had reigned for 66 years, and died in December 1916."
+  transcript: [U-00053–U-00065]
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify age, regnal duration, and death date and assess the lecture's dynastic inference."
+- id: C-004
+  claim: "Bosnia's major communities differed in their attitudes toward Habsburg rule."
+  transcript: [U-00075–U-00096]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Find evidence on Croatian, Bosnian Muslim, and Bosnian Serb attitudes without flattening internal diversity."
+- id: C-005
+  claim: "Investigations established support or complicity in Serbia for the Sarajevo assassination."
+  transcript: [U-00097–U-00108]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Determine what was established about military, intelligence, governmental, and nonstate complicity and where scholarship disputes responsibility."
+- id: C-006
+  claim: "Russia's support for Serbia rested partly on shared Slavic and Orthodox identity."
+  transcript: [U-00124–U-00133]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Assess identity, strategic, and domestic motives for Russian policy toward Serbia."
+- id: C-007
+  claim: "Europe in 1914 was a multipolar system rather than a pair of rigid blocs."
+  transcript: [U-00134–U-00150]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Evaluate the characterization against alliance commitments and diplomatic alignments in 1914."
+- id: C-008
+  claim: "Germany had the world's strongest army and had surpassed Britain as an industrial power by 1914."
+  transcript: [U-00163–U-00171]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Identify appropriate military and industrial measures and qualifications for the comparison."
+- id: C-009
+  claim: "The Triple Alliance included Italy, but Italy initially stayed out of the 1914 war."
+  transcript: [U-00172–U-00180]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify treaty obligations and the legal-political reasoning behind Italian neutrality."
+- id: C-010
+  claim: "Germany gave Austria-Hungary a blank cheque on 5 July 1914 while expecting Russia not to intervene."
+  transcript: [U-00203–U-00224]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Document the commitment, timing, participants' expectations, and historiographical debate over its scope."
+- id: C-011
+  claim: "Wilhelm committed Germany before consulting parliament and then consulted the chancellor, Moltke, and Krupp."
+  transcript: [U-00224–U-00237]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Reconstruct the consultation sequence and verify Krupp's involvement."
+- id: C-012
+  claim: "France and Russia had a common strategic interest in alliance because Germany bordered both."
+  transcript: [U-00246–U-00272]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Assess the geographic explanation alongside financial, diplomatic, and military motives for the alliance."
+- id: C-013
+  claim: "Prewar Europe displayed substantial economic interdependence and largely passport-free travel."
+  transcript: [U-00275–U-00292]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify the monetary, financial, trade, and travel examples and identify important exceptions."
+- id: C-014
+  claim: "A simplified social-Darwinist view of competition shaped European elite thinking about states and survival."
+  transcript: [U-00299–U-00319]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Find representative elite discourse and assess how widely and directly this ideology influenced policy."
+- id: C-015
+  claim: "Norman Angell's The Great Illusion circulated among political and military leaders before the war."
+  transcript: [U-00340–U-00357]
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Establish the book's publication history, reception, and documented readership among decision-makers."
+- id: C-016
+  claim: "Grey described a Sarajevo-like escalation sequence to Lichnowsky in December 1912."
+  transcript: [U-00361–U-00376]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify the date, record, participants, and accuracy of the claimed forecast."
+- id: C-017
+  claim: "Reciprocal security measures drove the prewar arms race through a security dilemma."
+  transcript: [U-00377–U-00408]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Test the security-dilemma interpretation against the French three-year law and German responses."
+- id: C-018
+  claim: "European general staffs had developed highly detailed operational plans for foreseeable wars."
+  transcript: [U-00410–U-00435]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Compare the maturity, flexibility, and political influence of the major powers' war plans."
+- id: C-019
+  claim: "German military leaders believed Germany's relative position would worsen as Russia strengthened and Britain drew closer to Russia."
+  transcript: [U-00442–U-00469]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Document German preventive-war thinking and distinguish Moltke's views from government policy."
+- id: C-020
+  claim: "Austria-Hungary designed its ultimatum to Serbia to be rejected and demanded Austrian participation in Serbian investigations."
+  transcript: [U-00470–U-00507]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Use the ultimatum and deliberation records to establish intent, exact demands, and room for acceptance."
+- id: C-021
+  claim: "The British cabinet did not discuss foreign policy between the Sarajevo assassination and 24 July."
+  transcript: [U-00547–U-00555]
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Check cabinet minutes and define whether informal or ministerial foreign-policy activity complicates the assertion."
+- id: C-022
+  claim: "British and French military officers had consulted and planned together despite the absence of a binding alliance."
+  transcript: [U-00532–U-00536, U-00568–U-00587]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Establish the scope, authorization, and political implications of Anglo-French military conversations."
+- id: C-023
+  claim: "Serbia accepted almost all of Austria-Hungary's ultimatum demands before Austria rejected its reply."
+  transcript: [U-00588–U-00595]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Compare each ultimatum demand with Serbia's reply and review differing assessments of its concessions."
+- id: C-024
+  claim: "Churchill kept the British fleet concentrated and ordered it to Scapa Flow on his own initiative."
+  transcript: [U-00596–U-00613]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify Churchill's authority, timing, destination, and whether the decision was unilateral."
+- id: C-025
+  claim: "German mobilization involved 11,000 trains and was scheduled minute by minute."
+  transcript: [U-00631–U-00645]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify the train count, scheduling detail, and which mobilization plan the figures describe."
+- id: C-026
+  claim: "Russia's slow mobilization encouraged early action, while German planning treated mobilization as effectively equivalent to war."
+  transcript: [U-00646–U-00664]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Compare mobilization timelines, partial options, and how tightly German operational assumptions linked mobilization to attack."
+- id: C-027
+  claim: "Wilhelm judged Serbia's reply sufficient to remove the reason for war before Austria declared war."
+  transcript: [U-00680–U-00687]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Locate Wilhelm's annotation and establish its timing relative to Austria's declaration and German diplomacy."
+- id: C-028
+  claim: "Nicholas II, Wilhelm II, and George V were first cousins, and Nicholas and Wilhelm exchanged personal telegrams during the crisis."
+  transcript: [U-00716–U-00739]
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify the family relationships and correspondence sequence."
+- id: C-029
+  claim: "German politicians delayed mobilization partly to shape domestic and British perceptions of responsibility for the war."
+  transcript: [U-00759–U-00780]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Assess cabinet and diplomatic records for the role of public opinion, Social Democrats, and British neutrality in timing decisions."
+- id: C-030
+  claim: "German operational planning required passage through neutral Belgium."
+  transcript: [U-00782–U-00812]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Establish the operational plan, alternatives, and the political-military treatment of Belgian neutrality."
+- id: C-031
+  claim: "Germany told Britain it might invade Belgium but promised eventual evacuation and conditional compensation."
+  transcript: [U-00813–U-00835]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Locate the 29 July communication and verify every assurance and condition."
+- id: C-032
+  claim: "The German general staff planted a false mobilization report and pressed Austria-Hungary to mobilize."
+  transcript: [U-00867–U-00877]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Find evidence for the press leak, identify responsible officers, and document Moltke's communication with Conrad."
+- id: C-033
+  claim: "Grey remained in a minority in the British cabinet on 1 August despite implying he would resign."
+  transcript: [U-00890–U-00915]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Reconstruct cabinet positions and Grey's statements from minutes, diaries, and correspondence."
+- id: C-034
+  claim: "Germany declared war on Russia after its ultimatum expired and ordered general mobilization the same day."
+  transcript: [U-00916–U-00929]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify the chronology, ultimatum terms, declaration, and mobilization order."
+- id: C-035
+  claim: "Germany's mobilization schedule could not readily be redirected from France toward Russia once train movements began."
+  transcript: [U-00930–U-00958]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Assess the operational feasibility of redirection and historiographical debate over Moltke's claim that it was impossible."
+- id: C-036
+  claim: "Germany's ultimatum to Belgium alleged an imminent French invasion and promised later evacuation if Belgium cooperated."
+  transcript: [U-00960–U-00977]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Compare the lecture's summary with the authoritative ultimatum text and German intelligence claims."
+- id: C-037
+  claim: "Germany's declaration of war on France relied on false reports of French aircraft attacks."
+  transcript: [U-00978–U-00985]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Identify the allegations in the declaration and establish their factual and propagandistic basis."
+- id: C-038
+  claim: "Germany's invasion of Belgium enabled Grey to secure British authorization for an ultimatum and intervention."
+  transcript: [U-00986–U-00998]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Reconstruct the cabinet and parliamentary sequence linking Belgian neutrality to the British decision for war."
