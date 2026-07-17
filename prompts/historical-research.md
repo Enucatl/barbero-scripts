@@ -3,6 +3,9 @@
 Research the assigned quotation range `{quote_range}` and claim range `{claim_range}` for
 `{episode_directory}`. Read the corrected transcript, outline, and existing ledgers first.
 
+Research historical claims in bounded thematic batches. Research quotations individually using
+`prompts/quotation-research.md`; do not batch multiple quotation targets into one agent task.
+
 - Prefer primary documents, critical editions, scholarly publications, and institutional archives,
   but treat a critical edition as a preference rather than an absolute requirement.
 - Record exact page, chapter, document, line, folio, or archival locators and stable identifiers.

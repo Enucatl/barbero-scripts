@@ -58,6 +58,12 @@ Research batches use [`prompts/historical-research.md`](prompts/historical-resea
 requires original-language quotation checks, exact locators, conflicting evidence, and explicit
 deferral rather than unsupported resolution.
 
+Quotation provenance is researched one target at a time with
+[`prompts/quotation-research.md`](prompts/quotation-research.md). The focused pass must use web
+search, follow citations into digitized books and OCR, distinguish contemporary records from later
+recollections, and accept practical evidence tiers rather than requiring an inaccessible critical
+edition. Quotations are never assigned to broad research batches.
+
 ## Provider-neutral diarization format
 
 ```json
