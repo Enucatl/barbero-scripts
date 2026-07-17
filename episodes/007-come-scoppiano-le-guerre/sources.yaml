@@ -285,3 +285,60 @@
   url: "https://www.gutenberg.org/cache/epub/59794/pg59794-images.html"
   accessed: "2026-07-17"
   notes: "Retrospective participant account; checked against Admiralty chronology when assessing personal credit for fleet orders."
+- id: SRC-409
+  author: Schloß Schönbrunn Kultur- und Betriebsges.m.b.H.
+  title: "The war takes over the city"
+  date: 2014
+  language: English
+  stable_identifier: null
+  url: "https://ww1.habsburger.net/en/chapters/war-takes-over-city"
+  accessed: "2026-07-17"
+  notes: "Austrian institutional history documenting the 'Serbien muss sterbien' slogan and linking to a 1914 propaganda-postcard artifact."
+- id: SRC-410
+  author: Georg Alexander von Müller
+  title: "Regierte der Kaiser? Kriegstagebücher, Aufzeichnungen und Briefe des Chefs des Marine-Kabinetts Admiral Georg Alexander von Müller, 1914–1918"
+  editor: Walter Görlitz
+  publisher: Musterschmidt
+  date: 1959
+  language: German
+  stable_identifier: null
+  url: "https://search.worldcat.org/title/1710554"
+  accessed: "2026-07-17"
+  notes: "Diary tradition behind the 8 December 1912 Moltke attribution; textual scholarship questions whether 'the sooner the better' was added later."
+- id: SRC-411
+  author: Tamara Scheer
+  title: "Islam in Austria-Hungary"
+  date: "2019-02-11"
+  language: English
+  stable_identifier: "DOI 10.15463/ie1418.11337"
+  url: "https://encyclopedia.1914-1918-online.net/article/islam-in-austria-hungary/"
+  accessed: "2026-07-17"
+  notes: "Specialist overview of Habsburg administration and Muslim institutions in Bosnia-Herzegovina; used alongside broader Balkan scholarship."
+- id: SRC-412
+  author: Thomas R. Eberle
+  title: "Press/Journalism (Germany)"
+  date: "2015-01-08"
+  language: English
+  stable_identifier: "1914-1918-Online article"
+  url: "https://encyclopedia.1914-1918-online.net/article/pressjournalism-germany/"
+  accessed: "2026-07-17"
+  notes: "Specialist account of the German press and the false Berliner Lokal-Anzeiger mobilization report."
+- id: SRC-413
+  author: H. H. Asquith and John Morley
+  title: "Contemporary accounts of the British cabinet crisis, 1–4 August 1914"
+  date: 1914
+  language: English
+  stable_identifier: null
+  url: "https://www.dbnl.org/tekst/_gid001192901_01/_gid001192901_01_0065.php"
+  accessed: "2026-07-17"
+  notes: "Source trail to Asquith's 1 August letter to Venetia Stanley and Morley's Memorandum on Resignation; used for cabinet division, not a formal vote tally."
+- id: SRC-414
+  author: Christopher Clark
+  title: "The Sleepwalkers: How Europe Went to War in 1914"
+  publisher: Allen Lane
+  date: 2012
+  language: English
+  stable_identifier: "ISBN 9780713999426"
+  url: "https://search.worldcat.org/title/794136319"
+  accessed: "2026-07-17"
+  notes: "Leading scholarly synthesis used for a stable English rendering and attribution of Wilhelm II's marginal annotation; underlying original was German."

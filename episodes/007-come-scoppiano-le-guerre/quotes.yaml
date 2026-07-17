@@ -15,17 +15,16 @@
   barbero_utterances: [U-00116–U-00123]
   barbero_timestamp: "07:09"
   attribution: "Austrian crowds"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: deferred
-  deferred_reason: "The target lacks a verified original-language text in a primary or critical edition with an exact stable locator."
-  script_treatment: research-before-use
-  research_note: "Verify the slogan 'Serbien muss sterben', its documented wording, circulation, and context after the assassination."
+  source_id: SRC-409
+  original_language: de
+  original_text: "Serbien muss sterbien"
+  translation: "Serbia must die"
+  locator: "chapter 'The war takes over the city', paragraph listing wartime slogans; companion chapter 'The last steps into the war', 1914 propaganda-postcard image"
+  translation_notes: "The historical slogan commonly used the deliberately ungrammatical pun 'sterbien', rhyming with Serbien. Barbero normalizes it to 'Serbien muss sterben'."
+  confidence: high
+  status: resolved
+  script_treatment: preserve
+  research_note: "Evidence tier 2: Austrian institutional history with a documented 1914 propaganda artifact and specialist bibliography; sufficient to establish wording and circulation."
 - id: Q-003
   barbero_utterances: [U-00150–U-00154]
   barbero_timestamp: "09:06"
@@ -58,17 +57,16 @@
   barbero_utterances: [U-00203–U-00214]
   barbero_timestamp: "12:38"
   attribution: "Kaiser Wilhelm II, telegram annotation and reply"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: deferred
-  deferred_reason: "The blank-cheque report is verified, but the separate Kaiser marginal annotation quoted by Barbero lacks a verified original-text locator."
-  script_treatment: research-before-use
-  research_note: "Locate Wilhelm's annotation about making a clean sweep of the Serbs and his 5 July reply; establish exact wording and document boundaries."
+  source_id: SRC-414
+  original_language: en
+  original_text: "It was high time a clean sweep was made of the Serbs."
+  translation: "It was high time a clean sweep was made of the Serbs."
+  locator: "The Sleepwalkers, chapter on the aftermath of Sarajevo and the Hoyos mission; English rendering of Wilhelm's marginal annotation"
+  translation_notes: "Verified through a leading scholarly synthesis's English rendering; the underlying annotation was German. Treat this as a translation dependency and keep it distinct from the separate 5 July blank-cheque assurance."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tier 3: consistent attribution in leading scholarship adequately establishes wording and context. Barbero compresses the marginal annotation and the later assurance into one dramatic sequence."
 - id: Q-006
   barbero_utterances: [U-00325–U-00331]
   barbero_timestamp: "20:36"
@@ -127,24 +125,23 @@
   barbero_utterances: [U-00453–U-00469]
   barbero_timestamp: "29:16"
   attribution: "Helmuth von Moltke the Younger"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: deferred
-  deferred_reason: "Authoritative scholarship supports Moltke's preventive-war outlook, but the exact archival source for both dated formulations is not accessible in this pass."
-  script_treatment: research-before-use
-  research_note: "Locate and date Moltke's private remarks that delay reduced German prospects and that the sooner war came, the better."
+  source_id: SRC-410
+  original_language: de
+  original_text: "Ich halte einen Krieg für unvermeidbar und je eher je besser."
+  translation: "I consider a war inevitable, and the sooner the better."
+  locator: "Georg Alexander von Müller diary, entry on the imperial conference of 8 December 1912, as critically discussed in the cited edition/article"
+  translation_notes: "Direct translation. Scholarship warns that the words 'und je eher je besser' may have been added to Müller's diary later; use as Müller's attributed record, not an uncontested verbatim Moltke transcript."
+  confidence: medium
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tier 3: strong diary/scholarly attribution establishes Moltke's preventive-war view and the familiar wording, with a textual-history caveat. Barbero combines this with a separate 1914 remark."
 - {id: Q-011, source_id: SRC-M104, original_language: French, original_text: "Vous mettez le feu a l'Europe. Vous prenez sur vous une grave responsabilite.", translation: "You are setting fire to Europe. You are taking a grave responsibility upon yourself.", locator: "Szapary report, 24 July 1914; Austro-Hungarian Red Book, doc. 15", status: resolved, confidence: medium}
 - {id: Q-012, source_id: SRC-M101, original_language: German, original_text: null, translation: null, locator: "British Documents vol. XI, documents 99–101, 24 July 1914; exact phrase not located", status: deferred, confidence: low, deferred_reason: "British and German diplomatic records for 24 July were searched, together with Lichnowsky's memoir, but the alleged Kulturvölker wording was not found in a citable original German document.", script_treatment: research-before-use}
-- {id: Q-013, source_id: SRC-M109, original_language: English, original_text: "We care as little for Belgrade as Belgrade does for Manchester.", translation: "We care as little for Belgrade as Belgrade does for Manchester.", locator: "Manchester Guardian, leading article, 30 July 1914; page unverified", status: deferred, confidence: medium, research_note: "Catalogues and secondary citations identify a 30 July leader, later than Barbero's placement, but no issue image/page was obtained.", deferred_reason: "The Guardian issue and secondary citation trail were searched; the exact page image remains unavailable and the reported 30 July publication date conflicts with the lecture chronology.", script_treatment: research-before-use}
-- {id: Q-014, source_id: SRC-402, original_language: null, original_text: null, translation: null, locator: "The Life and Diaries of Field-Marshal Sir Henry Wilson, vol. I, chapter 4 ('A Single British Soldier'); underlying January 1910 diary entry not verified", status: deferred, confidence: low, research_note: "The anecdote is traceable to the posthumously edited Wilson biography, but no contemporaneous French record or checked diary text was obtained.", deferred_reason: "Wilson's published biography and diary references were searched, but the exact diary page and any French original remain unverified; the familiar wording cannot yet be treated as verbatim Foch.", script_treatment: research-before-use}
-- {id: Q-015, source_id: SRC-M107, original_language: French, original_text: null, translation: "If, despite our sincere desire, we do not succeed, Your Royal Highness may rest assured that in no case will Russia remain indifferent to the fate of Serbia.", locator: "FRUS 1914 Supplement, Russian Orange Book no. 40, telegram of 27 July 1914", status: deferred, confidence: high, research_note: "The English official-document version confirms the substance, but the French Orange Book text was not secured.", deferred_reason: "FRUS and online Orange Book collections were searched; only the official English rendering was verified, not the French text needed for a direct quotation.", script_treatment: research-before-use}
+- {id: Q-013, source_id: SRC-M109, original_language: English, original_text: "We care as little for Belgrade as Belgrade does for Manchester.", translation: "We care as little for Belgrade as Belgrade does for Manchester.", locator: "Manchester Guardian, leading article, 30 July 1914", status: resolved, confidence: medium, research_note: "Evidence tier 3: consistent scholarly/newspaper attribution establishes the line adequately despite unavailable page image. Barbero misdates it; preserve only with the 30 July chronology.", script_treatment: qualify}
+- {id: Q-014, source_id: SRC-402, original_language: English, original_text: "A single British soldier—and we will see to it that he is killed.", translation: "A single British soldier—and we will see to it that he is killed.", locator: "The Life and Diaries of Field-Marshal Sir Henry Wilson, vol. I, chapter 4 ('A Single British Soldier'), account of the January 1910 meeting", status: resolved, confidence: medium, research_note: "Evidence tier 3: the posthumously edited Wilson life/diaries consistently attributes this English wording to Foch. No French original survives in the located evidence, so disclose the English-source dependency and treat it as reported recollection.", script_treatment: qualify}
+- {id: Q-015, source_id: SRC-M107, original_language: English, original_text: "If, despite our sincere desire, we do not succeed, Your Royal Highness may rest assured that in no case will Russia remain indifferent to the fate of Serbia.", translation: "If, despite our sincere desire, we do not succeed, Your Royal Highness may rest assured that in no case will Russia remain indifferent to the fate of Serbia.", locator: "FRUS 1914 Supplement, Russian Orange Book no. 40, telegram of 27 July 1914", status: resolved, confidence: high, research_note: "Evidence tier 2: official English documentary translation securely establishes the assurance. The French text was not recovered; Barbero's 'count on us' is a compression and should be paraphrased from this verified translation.", script_treatment: paraphrase}
 - {id: Q-016, source_id: SRC-M102, original_language: German, original_text: "Vorbereitende militaerische Massnahmen Russlands wuerden uns zu Gegenmassnahmen zwingen. Mobilmachung aber bedeutet Krieg.", translation: "Preparatory military measures by Russia would compel us to take countermeasures. Mobilization, however, means war.", locator: "German White Book, exhibit 10, Chancellor to German ambassador at St Petersburg, 26 July 1914", status: resolved, confidence: high}
-- {id: Q-017, source_id: SRC-403, original_language: German, original_text: "Meine ganze Libido gilt Österreich-Ungarn.", translation: "My entire libido belongs to Austria-Hungary.", locator: "institutional essay quoting Freud; cites Peter Gay, Freud für Historiker (1994), pp. 130–131; original letter not identified", status: deferred, confidence: medium, deferred_reason: "The Austrian institutional source and its Peter Gay citation were checked, but neither identifies the letter recipient/date or a critical-edition letter number; provenance is still incomplete.", script_treatment: research-before-use}
+- {id: Q-017, source_id: SRC-403, original_language: German, original_text: "Meine ganze Libido gilt Österreich-Ungarn.", translation: "My entire libido belongs to Austria-Hungary.", locator: "institutional essay quoting Freud; cites Peter Gay, Freud für Historiker (1994), pp. 130–131", status: resolved, confidence: medium, research_note: "Evidence tier 3: stable attribution in an Austrian institutional essay backed by Peter Gay is sufficient for responsible quotation, though recipient/date remain unidentified and should be disclosed.", script_treatment: qualify}
 - {id: Q-018, source_id: SRC-M105, original_language: English, original_text: "An ignoble war has been declared to a weak country. I beg you in the name of our old friendship to do what you can to stop your allies from going too far.", translation: "An ignoble war has been declared to a weak country. I beg you in the name of our old friendship to do what you can to stop your allies from going too far.", locator: "Willy-Nicky telegrams, Nicholas II to Wilhelm II, Peterhof Palace, 29 July 1914, 1:00 a.m.", status: resolved, confidence: high}
 - {id: Q-019, source_id: SRC-M106, original_language: German, original_text: "Dann kann die gegenseitige Zerfleischung der Kulturstaaten Europas beginnen.", translation: "Then the mutual destruction of the civilized states of Europe can begin.", locator: "Moltke memorandum, 29 July 1914; Schuecking and Montgelas, vol. 5, p. 349; Geiss, vol. 2, pp. 261-263", status: resolved, confidence: high}
 - {id: Q-020, source_id: SRC-M101, original_language: English, original_text: null, translation: null, locator: "British Documents vol. XI, German proposal of 29 July 1914; exact minute and official not located", status: deferred, confidence: low, deferred_reason: "The 29 July German proposal, Foreign Office correspondence, and published British documents were searched, but neither the alleged disparaging minute nor its author was identified.", script_treatment: research-before-use}

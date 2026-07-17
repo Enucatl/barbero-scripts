@@ -2,12 +2,17 @@
   claim: "The international conditions of 1914 differed substantially from those at the time of the lecture."
   transcript: [U-00014–U-00022]
   centrality: supporting
-  supporting_sources: []
+  supporting_sources:
+    - source_id: SRC-006
+      locator: "sections on the alliance system and prewar alignments"
+      note: "Documents the distinctive alliance and strategic structure of 1914."
+    - source_id: SRC-406
+      locator: "Money Matters, 'Conflict and Cooperation (1871–1944)'"
+      note: "Documents the pre-1914 monetary and financial order."
   conflicting_sources: []
-  status: deferred
-  deferred_reason: "The transcript's comparison is not operationally defined: searches on alliance structure, globalization, international institutions, and 2014 security conditions cannot prove the unbounded phrase 'substantially different' as a single historical claim."
-  script_treatment: research-before-use
-  research_note: "This is interpretive framing, not a falsifiable unitary claim; split it into specified dimensions before sourcing."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tier 3: responsible as broad framing only if the script names dimensions—alliances, empires, monetary order, nuclear deterrence, and international institutions—rather than asserting an unbounded difference."
 - id: C-002
   claim: "The First World War's immediate crisis began with the Sarajevo assassination, carried out by Serbian terrorists with links in Serbia."
   transcript: [U-00023–U-00033, U-00069–U-00073]
@@ -33,12 +38,14 @@
   claim: "Bosnia's major communities differed in their attitudes toward Habsburg rule."
   transcript: [U-00075–U-00096]
   centrality: supporting
-  supporting_sources: []
+  supporting_sources:
+    - source_id: SRC-411
+      locator: "sections on Habsburg administration, Muslim institutions, and wartime loyalties"
+      note: "Supports differentiated political relationships to Habsburg rule while emphasizing internal diversity."
   conflicting_sources: []
-  status: deferred
-  deferred_reason: "Specialist work on Habsburg Bosnia confirms divergent institutional and nationalist politics, but the broad community-by-community attitudes in the lecture cannot be documented without flattening substantial variation within Serb, Croat, and Muslim populations."
-  script_treatment: research-before-use
-  research_note: "Find evidence on Croatian, Bosnian Muslim, and Bosnian Serb attitudes without flattening internal diversity."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tier 3: the substance is supported, but adaptation must describe political tendencies and institutions, not homogeneous ethnic attitudes."
 - id: C-005
   claim: "Investigations established support or complicity in Serbia for the Sarajevo assassination."
   transcript: [U-00097–U-00108]
@@ -75,10 +82,9 @@
       locator: "House of Commons answer, 26 June 1914, table 'Output of steel', 1913 row"
       note: "Germany and Luxembourg produced 18.645 million tons of steel in 1913 against 7.780 million in the United Kingdom."
   conflicting_sources: []
-  status: deferred
-  deferred_reason: "Official steel data establish German predominance on that measure, but searches found no single authoritative metric that establishes both 'world's strongest army' and having surpassed Britain as an industrial power without defining army strength and industrial output."
-  script_treatment: research-before-use
-  research_note: "Split the compound claim: Germany led Britain in steel and some manufacturing measures; Britain retained financial, trade, naval, and imperial advantages."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tier 2 for steel and tier 3 for comparative power. Split the compound claim: Germany possessed Europe's leading continental army and exceeded Britain in steel/some manufacturing aggregates; do not turn that into an unqualified all-domain ranking."
 - id: C-009
   claim: "The Triple Alliance included Italy, but Italy initially stayed out of the 1914 war."
   transcript: [U-00172–U-00180]
@@ -103,10 +109,9 @@
   centrality: supporting
   supporting_sources: [SRC-004]
   conflicting_sources: []
-  status: deferred
-  deferred_reason: "The blank-cheque consultation is documented, but the asserted sequence involving parliament, Moltke, and Krupp is not fully supported by the located primary record."
-  script_treatment: research-before-use
-  research_note: "Reconstruct the consultation sequence and verify Krupp's involvement."
+  status: resolved
+  script_treatment: correct
+  research_note: "Evidence tier 2 for the blank cheque, tier 3 for consultation chronology. Preserve that Wilhelm acted without prior parliamentary approval (which was not constitutionally required); do not repeat the unsupported neat sequence involving Moltke and Krupp."
 - id: C-012
   claim: "France and Russia had a common strategic interest in alliance because Germany bordered both."
   transcript: [U-00246–U-00272]
@@ -149,10 +154,9 @@
   centrality: sampled-incidental
   supporting_sources: [SRC-003]
   conflicting_sources: []
-  status: deferred
-  deferred_reason: "Publication history and broad prewar popularity are verified, but searches of reception scholarship and catalogue records did not establish named political and military decision-makers who read the book before 1914."
-  script_treatment: research-before-use
-  research_note: "The book was a bestseller and influential in public debate; the narrower elite-readership assertion still needs named documentary evidence."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tier 3: resolve the supported substance—an international bestseller influential in prewar public debate. Do not assert documented readership by unnamed political and military leaders without examples."
 - id: C-016
   claim: "Grey described a Sarajevo-like escalation sequence to Lichnowsky in December 1912."
   transcript: [U-00361–U-00376]
@@ -203,9 +207,9 @@
   centrality: supporting
   supporting_sources: [{source_id: SRC-M110, locator: "Cabinet and its committees research guide, section on records before 1916", note: "No formal Cabinet minutes were kept before December 1916."}]
   conflicting_sources: []
-  status: deferred
-  deferred_reason: "The National Archives confirms that formal cabinet minutes do not exist before December 1916; searches of Asquith correspondence and retrospective ministerial accounts cannot prove the categorical negative that foreign policy was never discussed during this interval."
-  script_treatment: research-before-use
+  status: resolved
+  script_treatment: correct
+  research_note: "Evidence tier 3: no formal minutes exist, so replace the categorical negative with the supported point that the crisis did not dominate collective cabinet deliberation until the ultimatum forced urgent engagement."
 - id: C-022
   supporting_sources: [{source_id: SRC-M108, locator: "1914, chapter 1, pp. 8-9", note: "French states that the general staffs had long conferred and had a mutual understanding, while arrangements remained imperfect."}]
   conflicting_sources: []
@@ -225,9 +229,9 @@
       locator: "The World Crisis, vol. I, chapter 6, sections 'Sunday, July 26—The Fleet held together' and 'Passage of the Straits of Dover by the Fleet, July 30'"
       note: "Churchill's memoir documents the decision to hold the fleet together and its movement to war stations."
   conflicting_sources: []
-  status: deferred
-  deferred_reason: "Churchill's memoir confirms his role in holding the fleet together, but Admiralty chronology attributes the 26 July operational order to First Sea Lord Prince Louis of Battenberg and the fleet moved through the Straits on 30 July; the compound claim of sole initiative and immediate Scapa Flow movement overstates the record."
-  script_treatment: research-before-use
+  status: resolved
+  script_treatment: correct
+  research_note: "Evidence tier 2 participant account plus institutional chronology. Preserve Churchill's major role, credit First Sea Lord Prince Louis in the operational order, and describe the staged move to war stations rather than an immediate solo order to Scapa Flow."
 - id: C-025
   claim: "German mobilization was minutely timetabled and involved 11,000 trains."
   transcript: [U-00631–U-00641, U-00939–U-00958]
@@ -237,9 +241,9 @@
       locator: "Ereignisse und Gestalten, chapter 10, pp. 163–165"
       note: "Wilhelm's memoir records Moltke's insistence that the deployment timetable could not simply be redirected."
   conflicting_sources: []
-  status: deferred
-  deferred_reason: "Military-planning scholarship and Moltke/Wilhelm memoir evidence support a highly detailed rail timetable, but searches did not locate a primary German mobilization table or authoritative archival calculation for the exact 11,000-train figure."
-  script_treatment: research-before-use
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tier 2 for detailed rail planning and tier 3 for the widely repeated 11,000-train estimate. Preserve the scale as approximately 11,000 trains, not a uniquely verified exact count."
 - id: C-026
   supporting_sources: [{source_id: SRC-M102, locator: "German White Book, exhibits 10 and 24-25", note: "German documents explicitly equated its own mobilization with war and warned Russia accordingly."}, {source_id: SRC-M111, locator: "Documents from 1914, pp. 110-154, mobilization documents", note: "Russian mobilization and German operational assumptions were not identical acts."}]
   conflicting_sources: []
@@ -291,22 +295,24 @@
   claim: "The German general staff planted a false mobilization report and pressed Austria-Hungary to mobilize."
   transcript: [U-00867–U-00877]
   centrality: supporting
-  supporting_sources: []
-  conflicting_sources: []
-  status: deferred
-  deferred_reason: "Contemporary press reports and specialist press history verify the Berliner Lokal-Anzeiger false mobilization extra and official denial, but the origin remains disputed; no primary evidence was found that the General Staff planted it. Moltke's pressure on Conrad is a separate proposition and does not prove the leak allegation."
-  script_treatment: research-before-use
-  research_note: "No authoritative primary or critical-edition locator was verified in this pass. This compound claim must be split before use."
+  supporting_sources:
+    - source_id: SRC-412
+      locator: "section discussing the Berliner Lokal-Anzeiger false mobilization report of 30 July 1914"
+      note: "Verifies publication and official denial; does not establish General Staff authorship."
+  status: resolved
+  script_treatment: correct
+  research_note: "Evidence tier 2 for the false report, tier 3 for military pressure, and inadequate evidence for General Staff authorship. Split the claim and explicitly reject the planted-by-the-staff assertion as unproven."
 - id: C-033
   claim: "Grey remained in a minority in the British cabinet on 1 August despite implying he would resign."
   transcript: [U-00890–U-00915]
   centrality: central
-  supporting_sources: []
-  conflicting_sources: []
-  status: deferred
-  deferred_reason: "Asquith's 1 August letter and Morley's resignation memorandum confirm a deeply divided cabinet and resignation pressure, but no formal cabinet minutes exist and the searched sources do not establish Barbero's precise headcount or a direct Grey resignation threat in the stated words."
-  script_treatment: research-before-use
-  research_note: "Hansard documents the public position on 3 August, not the internal 1 August vote; cabinet minutes/Asquith or Morley diaries still required."
+  supporting_sources:
+    - source_id: SRC-413
+      locator: "Asquith to Venetia Stanley, 1 August 1914; Morley, 'Memorandum on Resignation, August 1914'"
+      note: "Supports deep cabinet division and threatened/resolved resignations, without a formal vote tally."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tier 3: preserve deep cabinet division and Grey's position being insecure; avoid a precise majority count or verbatim resignation threat absent minutes."
 - id: C-034
   claim: "Germany declared war on Russia after its ultimatum expired and ordered general mobilization the same day."
   transcript: [U-00916–U-00929]
