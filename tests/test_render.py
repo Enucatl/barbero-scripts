@@ -22,7 +22,12 @@ def test_validation_resolves_markers_and_complete_quote(tmp_path: Path) -> None:
   locator: p. 1
   status: resolved
 """)
-    (tmp_path / "claims.yaml").write_text("- id: C-001\n  status: deferred\n")
+    (tmp_path / "claims.yaml").write_text(
+        "- id: C-001\n"
+        "  status: deferred\n"
+        "  deferred_reason: Evidence unavailable.\n"
+        "  script_treatment: omit\n"
+    )
     assert validate_episode(tmp_path) == []
 
 
@@ -30,6 +35,20 @@ def test_validation_allows_explicitly_deferred_quote(tmp_path: Path) -> None:
     (tmp_path / "transcript.it.md").write_text("reviewed")
     (tmp_path / "script.en.md").write_text("Text [Q-001]")
     (tmp_path / "sources.yaml").write_text("[]\n")
-    (tmp_path / "quotes.yaml").write_text("- id: Q-001\n  status: deferred\n")
+    (tmp_path / "quotes.yaml").write_text(
+        "- id: Q-001\n"
+        "  status: deferred\n"
+        "  deferred_reason: Original text unavailable.\n"
+        "  script_treatment: paraphrase\n"
+    )
     (tmp_path / "claims.yaml").write_text("[]\n")
     assert validate_episode(tmp_path) == []
+
+
+def test_validation_rejects_deferred_entry_without_treatment(tmp_path: Path) -> None:
+    (tmp_path / "transcript.it.md").write_text("reviewed")
+    (tmp_path / "script.en.md").write_text("Text")
+    (tmp_path / "sources.yaml").write_text("[]\n")
+    (tmp_path / "quotes.yaml").write_text("- id: Q-001\n  status: deferred\n")
+    (tmp_path / "claims.yaml").write_text("[]\n")
+    assert validate_episode(tmp_path) == ["quotation Q-001 has no valid deferred treatment"]

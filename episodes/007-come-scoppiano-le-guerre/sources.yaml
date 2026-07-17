@@ -88,6 +88,15 @@
   url: "https://it.wikisource.org/wiki/Chi_l%27ha_detto%3F/Parte_seconda/80b"
   access_date: "2026-07-17"
   locator: "paragraph beginning 'Il 18 ottobre 1914'; transcription of the concluding sentence"
+- id: SRC-011
+  author: "Oliver Stein"
+  title: "Pre-war Military Planning (Germany)"
+  date: "2021-06-22"
+  original_language: en
+  identifier: "DOI 10.15463/ie1418.11515"
+  url: "https://encyclopedia.1914-1918-online.net/article/pre-war-military-planning-germany/"
+  access_date: "2026-07-17"
+  locator: "sections 2-4 on Schlieffen's and Moltke's operational planning; conclusion on the historiographical dispute"
 - {id: SRC-M101, author: "British Foreign Office", title: "British Documents on the Origins of the War, 1898-1914, vol. XI: The Outbreak of War", editor: "G. P. Gooch and Harold Temperley", publisher: HMSO, date: 1926, language: English, stable_id: "Internet Archive: britishdocuments11grea", url: "https://archive.org/details/britishdocuments11grea", accessed: "2026-07-17"}
 - {id: SRC-M102, author: "German Foreign Office", title: "The German White Book", publisher: "Liebheit & Thiesen", date: 1914, language: "German and English", stable_id: null, url: "https://wikispooks.com/w/images/0/09/German_White_Book_-_Russia.pdf", accessed: "2026-07-17"}
 - {id: SRC-M103, author: "Walther Schuecking and Max Montgelas, eds.", title: "Die Deutschen Dokumente zum Kriegsausbruch, vol. 5", publisher: "Deutsche Verlagsgesellschaft fuer Politik und Geschichte", date: 1922, language: German, stable_id: null, url: "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi:document-802", accessed: "2026-07-17"}

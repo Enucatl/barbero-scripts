@@ -10,11 +10,11 @@ Research the assigned quotation range `{quote_range}` and claim range `{claim_ra
 - Record supporting and conflicting evidence for claims, including evidence that changes the
   planned English treatment.
 - Use `resolved` only when all required fields and locators are secured.
-- Use `deferred` with a precise reason and safe script treatment when responsible resolution is
+- Use `deferred` with a `deferred_reason` and a `script_treatment` chosen from `paraphrase`, `omit`,
+  `label-anecdotal`, `qualify`, or `research-before-use` when responsible resolution is
   unavailable; never invent a locator or silently omit uncertainty.
 - Deduplicate sources and preserve stable `Q`, `C`, and existing `SRC` identifiers.
 - Do not alter entries outside the assigned ranges.
 
 Before finishing, parse all YAML, verify every transcript and source reference, verify unique IDs,
 and report resolved/deferred totals, substantive departures from Barbero, and remaining risks.
-

@@ -13,6 +13,13 @@ from .util import read_json, write_json
 
 MARKER = re.compile(r"\[(SRC|Q|C)-(\d{3})\]")
 ANNOTATION = re.compile(r"\s*\[(?:SRC|Q|C)-\d{3}\]")
+DEFERRED_TREATMENTS = {
+    "paraphrase",
+    "omit",
+    "label-anecdotal",
+    "qualify",
+    "research-before-use",
+}
 
 
 def timestamp(seconds: float) -> str:
@@ -77,7 +84,17 @@ def validate_episode(directory: Path) -> list[str]:
             errors.append(f"quotation {identifier} is neither resolved nor deferred")
         elif item.get("status") == "resolved" and any(not item.get(field) for field in required):
             errors.append(f"quotation {identifier} is incomplete")
+        elif item.get("status") == "deferred" and (
+            not item.get("deferred_reason")
+            or item.get("script_treatment") not in DEFERRED_TREATMENTS
+        ):
+            errors.append(f"quotation {identifier} has no valid deferred treatment")
     for identifier, item in ledgers["C"].items():
         if item.get("status") not in {"resolved", "deferred"}:
             errors.append(f"claim {identifier} is neither resolved nor deferred")
+        elif item.get("status") == "deferred" and (
+            not item.get("deferred_reason")
+            or item.get("script_treatment") not in DEFERRED_TREATMENTS
+        ):
+            errors.append(f"claim {identifier} has no valid deferred treatment")
     return errors

@@ -5,7 +5,8 @@
   supporting_sources: []
   conflicting_sources: []
   status: deferred
-  script_treatment: compress
+  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
+  script_treatment: omit
   research_note: "Define the comparison being made and assess whether it remains useful without overstating similarities or differences."
 - id: C-002
   claim: "The First World War's immediate crisis began with the Sarajevo assassination, carried out by Serbian terrorists with links in Serbia."
@@ -23,7 +24,8 @@
   supporting_sources: []
   conflicting_sources: []
   status: deferred
-  script_treatment: compress
+  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
+  script_treatment: omit
   research_note: "Verify age, regnal duration, and death date and assess the lecture's dynastic inference."
 - id: C-004
   claim: "Bosnia's major communities differed in their attitudes toward Habsburg rule."
@@ -32,7 +34,8 @@
   supporting_sources: []
   conflicting_sources: []
   status: deferred
-  script_treatment: clarify
+  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
+  script_treatment: qualify
   research_note: "Find evidence on Croatian, Bosnian Muslim, and Bosnian Serb attitudes without flattening internal diversity."
 - id: C-005
   claim: "Investigations established support or complicity in Serbia for the Sarajevo assassination."
@@ -68,7 +71,8 @@
   supporting_sources: []
   conflicting_sources: []
   status: deferred
-  script_treatment: clarify
+  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
+  script_treatment: qualify
   research_note: "Identify appropriate military and industrial measures and qualifications for the comparison."
 - id: C-009
   claim: "The Triple Alliance included Italy, but Italy initially stayed out of the 1914 war."
@@ -95,7 +99,8 @@
   supporting_sources: [SRC-004]
   conflicting_sources: []
   status: deferred
-  script_treatment: clarify
+  deferred_reason: "The blank-cheque consultation is documented, but the asserted sequence involving parliament, Moltke, and Krupp is not fully supported by the located primary record."
+  script_treatment: qualify
   research_note: "Reconstruct the consultation sequence and verify Krupp's involvement."
 - id: C-012
   claim: "France and Russia had a common strategic interest in alliance because Germany bordered both."
@@ -113,7 +118,8 @@
   supporting_sources: [SRC-003]
   conflicting_sources: []
   status: deferred
-  script_treatment: clarify
+  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
+  script_treatment: qualify
   research_note: "Verify the monetary, financial, trade, and travel examples and identify important exceptions."
 - id: C-014
   claim: "A simplified social-Darwinist view of competition shaped European elite thinking about states and survival."
@@ -131,7 +137,8 @@
   supporting_sources: [SRC-003]
   conflicting_sources: []
   status: deferred
-  script_treatment: compress
+  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
+  script_treatment: omit
   research_note: "Establish the book's publication history, reception, and documented readership among decision-makers."
 - id: C-016
   claim: "Grey described a Sarajevo-like escalation sequence to Lichnowsky in December 1912."
@@ -140,7 +147,8 @@
   supporting_sources: []
   conflicting_sources: []
   status: deferred
-  script_treatment: preserve
+  deferred_reason: "Later scholarship reports a comparable 1912 warning, but the exact diplomatic document and wording must be identified before treating the forecast as established."
+  script_treatment: research-before-use
   research_note: "Verify the date, record, participants, and accuracy of the claimed forecast."
 - id: C-017
   claim: "Reciprocal security measures drove the prewar arms race through a security dilemma."
@@ -155,11 +163,11 @@
   claim: "European general staffs had developed highly detailed operational plans for foreseeable wars."
   transcript: [U-00410–U-00435]
   centrality: central
-  supporting_sources: []
+  supporting_sources: [SRC-011]
   conflicting_sources: []
-  status: deferred
-  script_treatment: preserve
-  research_note: "Compare the maturity, flexibility, and political influence of the major powers' war plans."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Resolved in qualified form for Germany: detailed planning existed, but current scholarship rejects a simple, unchanging straight line from Schlieffen's plans to 1914 and debates their flexibility. The lecture's all-powers generalization should be softened."
 - id: C-019
   claim: "German military leaders believed Germany's relative position would worsen as Russia strengthened and Britain drew closer to Russia."
   transcript: [U-00442–U-00469]
@@ -178,7 +186,8 @@
   supporting_sources: [{source_id: SRC-M110, locator: "Cabinet and its committees research guide, section on records before 1916", note: "No formal Cabinet minutes were kept before December 1916."}]
   conflicting_sources: []
   status: deferred
-  script_treatment: "Rephrase: foreign policy did not reach a full Cabinet discussion until 24 July; do not claim surviving official minutes prove a month of silence."
+  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
+  script_treatment: omit
 - id: C-022
   supporting_sources: [{source_id: SRC-M108, locator: "1914, chapter 1, pp. 8-9", note: "French states that the general staffs had long conferred and had a mutual understanding, while arrangements remained imperfect."}]
   conflicting_sources: []
@@ -193,12 +202,14 @@
   supporting_sources: []
   conflicting_sources: []
   status: deferred
-  script_treatment: "Do not retain the on-his-own and Scapa Flow details until Admiralty orders/Churchill papers are located."
+  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
+  script_treatment: qualify
 - id: C-025
   supporting_sources: []
   conflicting_sources: []
   status: deferred
-  script_treatment: "Retain only the broader point that German railway mobilization was minutely timetabled; omit 11,000 unless a General Staff table is found."
+  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
+  script_treatment: qualify
 - id: C-026
   supporting_sources: [{source_id: SRC-M102, locator: "German White Book, exhibits 10 and 24-25", note: "German documents explicitly equated its own mobilization with war and warned Russia accordingly."}, {source_id: SRC-M111, locator: "Documents from 1914, pp. 110-154, mobilization documents", note: "Russian mobilization and German operational assumptions were not identical acts."}]
   conflicting_sources: []
@@ -253,7 +264,8 @@
   supporting_sources: []
   conflicting_sources: []
   status: deferred
-  script_treatment: "Omit the press-plant allegation unless a staff record or critical scholarly locator is added; Moltke's pressure on Conrad may be retained only after separate documentation."
+  deferred_reason: "The evidence located so far does not support every component or degree of certainty in the lecture's formulation."
+  script_treatment: research-before-use
   research_note: "No authoritative primary or critical-edition locator was verified in this pass. This compound claim must be split before use."
 - id: C-033
   claim: "Grey remained in a minority in the British cabinet on 1 August despite implying he would resign."
@@ -262,7 +274,8 @@
   supporting_sources: []
   conflicting_sources: []
   status: deferred
-  script_treatment: "Preserve only the broad fact of cabinet division until cabinet minutes and private diaries are cited; omit the resignation implication as unverified."
+  deferred_reason: "The cabinet division is historically plausible, but cabinet minutes or a reliable diary locator for Grey's implied resignation were not secured."
+  script_treatment: research-before-use
   research_note: "Hansard documents the public position on 3 August, not the internal 1 August vote; cabinet minutes/Asquith or Morley diaries still required."
 - id: C-034
   claim: "Germany declared war on Russia after its ultimatum expired and ordered general mobilization the same day."
