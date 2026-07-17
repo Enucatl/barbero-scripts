@@ -45,10 +45,10 @@ U-00117:
 `validate` fails on unresolved transcript review flags, broken script markers, or incomplete
 quotation and claim records.
 
-The reusable text-only correction-agent instructions are in
+The reusable two-pass, text-only correction and contextual-verification instructions are in
 [`prompts/transcript-correction.md`](prompts/transcript-correction.md). Substitute the transcript
-and working correction paths for each episode; keep `reviewed: false` until a human checks the
-pass against audio.
+and working correction paths for each episode. The first pass proposes conservative corrections;
+the second resolves review flags by accepting or correcting text from full-episode context.
 
 ## Provider-neutral diarization format
 
