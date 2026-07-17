@@ -523,3 +523,58 @@
   accessed: "2026-07-17"
   locator: "section discussing Tirpitz's postwar memoir and political self-justification"
   notes: "Modern scholarly profile characterizing the 1919 memoir as justificatory and strongly critical of Germany's former leadership."
+- id: SRC-431
+  author: "Helmuth von Moltke the Younger"
+  title: "Erinnerungen, Briefe, Dokumente 1877–1916"
+  editor: "Eliza von Moltke"
+  edition: "2nd ed."
+  publisher: "Der Kommende Tag"
+  date: 1922
+  language: German
+  stable_identifier: "Internet Archive erinnerungenbrie00byumolt"
+  url: "https://archive.org/stream/erinnerungenbrie00byumolt/erinnerungenbrie00byumolt_djvu.txt"
+  accessed: "2026-07-17"
+  locator: "pp. 18–22, especially p. 19"
+  notes: "Primary memoir account of the 1 August palace confrontation. Records Wilhelm's rebuke, 'Ihr Onkel würde mir eine andere Antwort gegeben haben!', but nothing about George, Nicky, or Queen Victoria."
+- id: SRC-432
+  author: "Walter L. Arnstein"
+  title: "Britain: Yesterday and Today"
+  publisher: "D. C. Heath"
+  date: 1966
+  language: English
+  stable_identifier: null
+  url: null
+  accessed: null
+  locator: "p. 237"
+  notes: "Earliest securely located secondary attribution of the disputed English anecdote; its underlying source note has not been inspected."
+- id: SRC-433
+  author: "Clarence B. Carson"
+  title: "The Rise and Fall of England: 14. The Decline of England"
+  container_title: "The Freeman"
+  date: "1969-04-01"
+  language: English
+  stable_identifier: null
+  url: "https://fee.org/articles/the-rise-and-fall-of-england-14-the-decline-of-england/"
+  accessed: "2026-07-17"
+  locator: "quotation and note 1, citing Arnstein, p. 237"
+  notes: "Reproduces the two-sentence anecdote consecutively and explicitly cites Arnstein; establishes the secondary transmission, not Wilhelm's authorship."
+- id: SRC-434
+  author: "Emil Ludwig"
+  title: "Kaiser Wilhelm II"
+  date: 1927
+  language: English
+  stable_identifier: "Internet Archive dli.ministry.03453"
+  url: "https://archive.org/stream/dli.ministry.03453/8808.E13795_Kaiser_Wilhelm_II_djvu.txt"
+  accessed: "2026-07-17"
+  locator: "discussion of 1 August at pp. 393–399 of the British edition; alleged p. 453 citation checked"
+  notes: "Negative source check: the searchable editions do not contain 'played me false,' 'Georgie,' or the grandmother sentence. Ludwig narrates the Moltke confrontation but not this anecdote."
+- id: SRC-435
+  author: "Herman Bernstein, ed."
+  title: "The Willy–Nicky Correspondence"
+  date: 1918
+  language: English
+  stable_identifier: "Internet Archive willynickycorres00bern"
+  url: "https://dn790006.ca.archive.org/0/items/willynickycorres00bern/willynickycorres00bern.pdf"
+  accessed: "2026-07-17"
+  locator: "correspondence throughout; signatures 'Willy' and 'Nicky'"
+  notes: "Confirms the royal nickname convention but does not contain or authenticate Q-030."
