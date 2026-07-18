@@ -100,15 +100,16 @@
   barbero_utterances: [U-00211–U-00235]
   barbero_timestamp: "18:00"
   attribution: "Jean de Joinville and the papal legate"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate Joinville's oath dismissing a knight and the legate's refusal to dissolve it; recover the original oath formula and the legal reasoning."
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Li autres chevaliers qui m'avoit prise la place devant, sailli sus touz effraez, et li dist tout haut : « Vous estes trop hardis quant vous parlés de chose que je face. » Et il sailli sus et le prist par les cheveus. Et jo sailli sus et le feri dou poing entre les dous espaules, et il le lessa; et je li dis : « Or hors de mon hostel; car (si m'aïst Diex !) avec moy ne serez-vous jamais. » [...] Et je respondi que je ne l'i remenroie pas, se li legas ne me absoloit de mon sairement. Au légat en alerent et li contèrent le fait; et li legas lour respondi que il n'avoit pooir de moy absoudre, pour ce que li sairemens estoit raisonnables; car li chevaliers l'avoit moût bien deservi. Et ces choses vous moustré-je, pour ce que vous vous gardés de faire sairement que il ne couviengne faire par raison; car, ce dit li Saiges : « Qui volentiers jure, volentiers se parjure. »"
+  translation: "The other knight, who had chosen my site the day before, sprang up in a fury and said loudly: 'You are very bold to speak about something I do.' He sprang up and seized him by the hair. I sprang up, struck him with my fist between the shoulder blades, and he let go. I told him: 'Out of my household now; for, so help me God, you will never be with me again.' [...] I answered that I would not take him back unless the legate absolved me from my oath. They went to the legate and told him what had happened. The legate replied that he had no power to absolve me, because the oath was reasonable: the knight had thoroughly deserved it. I show you these things so that you guard against making an oath that reason requires you to carry out; for, as the Wise Man says, 'He who swears readily perjures himself readily.'"
+  locator: "sections 567–568, chapter CX, pp. 238–239"
+  translation_notes: "Direct translation from the Old French in Natalis de Wailly's edition; the ellipsis omits the knight's departure and Giles le Brun's initial plea but does not join separate episodes. Barbero preserves the episode's logic while modernizing it. Joinville's oath is literally that the offender will never again be 'with me' in his household, not that he will never enter Joinville's house. Joinville himself punches the offender between the shoulder blades to make him release the other knight. The intermediary is specifically Giles le Brun, constable of France: the knight departs in great distress and is described as repentant, but the source does not explicitly say that he leaves crying or personally returns to beg. The legate's ruling is stronger than a general reluctance to dispense oaths: he says he has no power to absolve Joinville because this oath is reasonable and the knight has deserved the punishment. Joinville explicitly draws the moral and quotes a proverb; the text does not separately narrate the knight's permanent exclusion afterward."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Confirmed in Joinville's first-person account. Evidence tier 1 for the transmitted Old French text, though this remains a memoir composed decades later rather than a contemporaneous judicial record. Preserve the oath's exact household meaning, the named intervention of Giles le Brun, and the legate's legal-religious reasoning rather than reducing the scene to a generic warning to mind one's words."
 - id: Q-009
   barbero_utterances: [U-00246–U-00253]
   barbero_timestamp: "20:29"
