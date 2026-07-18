@@ -365,65 +365,234 @@
 - id: Q-027
   barbero_utterances: [U-00604–U-00608]
   barbero_timestamp: "47:14"
-  attribution: "Jean de Joinville on Louis IX"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Find Joinville's criticism that Louis behaved toward wife and children as though they were strangers; establish exact referent, wording, and context."
+  attribution: "Jean de Joinville on Louis IX, Margaret of Provence, and their children"
+  source_id: SRC-002
+  original_language: fro
+  original_text: >-
+    La royne, qui nouvelement estoit relevée de dame Blanche, dont elle avoit géu à Jaffe,
+    ariva à Sayette ; car elle estoit venue par mer. Quant j'oy dire qu'elle estoit venue, je
+    me levai de devant le roy et alai encontre li, et l'amenai jusques ou chastel. Et quand je
+    reving au roy, qui estoit en sa chapelle, il me demanda se la royne et li enfant estoient
+    haitié ; et li diz oil. Et il me dist : « Je soy bien quant vous vous levâtes de devant
+    moy, que vous allés encontre la royne ; et pour ce je vous ai fait atendre au sermon. »
+    Et ces choses vous ramentoif-je, pour ce que j'avoie jà estei cinq ans entour li, que encore
+    ne m'avoit-il parlei de la royne ne de ses enfans, que je oïsse, ne à autrui ; et ce n'estoit
+    pas bone manière, si comme il me semble, d'estre estrange de sa femme et de ses enfans.
+  translation: >-
+    The queen, who had recently recovered from giving birth to Lady Blanche at Jaffa, arrived
+    at Sidon by sea. When I heard she had arrived, I rose from before the king, went to meet
+    her, and brought her to the castle. When I returned to the king, who was in his chapel, he
+    asked whether the queen and the children were well, and I said they were. He said to me:
+    “I know well that when you rose from before me, you went to meet the queen; that is why I
+    had the sermon held for you.” I remind you of these things because I had already been around
+    him for five years, yet I had never heard him speak of the queen or his children, either to
+    me or to anyone else; and it was not good conduct, as it seems to me, to be aloof from one's
+    wife and children.
+  locator: "sections 593–594, chapter CXVI, p. 250"
+  translation_notes: >-
+    Direct translation from Natalis de Wailly's Old French edition. The scene takes place at
+    Sidon in 1253: Margaret of Provence has arrived by sea with the children after recovering
+    from the birth of Blanche at Jaffa, and Joinville leaves Louis to meet her. Joinville's
+    criticism is precise but limited: in five years around Louis, he had not himself heard the
+    king speak of his wife or children, either to Joinville or to anyone else. “Estre estrange
+    de” means to be distant or aloof from them, not literally to behave as though they were
+    unknown strangers. Louis does ask whether they are well and appears to have delayed the
+    sermon for Joinville, so this passage should not be expanded into proof that he never
+    thought about women, lacked affection for Margaret, or took no interest in his family.
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: >-
+    Confirmed in Joinville sections 593–594, with the concrete Sidon scene and Joinville's
+    explicit moral criticism. Evidence tier 1 for Joinville's transmitted participant account.
+    Preserve the striking five-year observation and his judgment that such family aloofness was
+    not good conduct, while retaining its first-person qualification and avoiding Barbero's
+    broader claim that Louis did not think about women at all.
 - id: Q-028
   barbero_utterances: [U-00621–U-00631]
   barbero_timestamp: "48:17"
-  attribution: "Jean de Joinville"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate the Pontoise staircase and doorkeeper story about Blanche of Castile keeping the royal couple apart; verify people, rooms, and reported behavior."
+  attribution: "Jean de Joinville on Louis IX, Margaret of Provence, and Blanche of Castile"
+  source_id: SRC-002
+  original_language: fro
+  original_text: >-
+    Les duriez que la royne Blanche fist à la royne Marguerite furent tiex, que la royne
+    Blanche ne vouloit soufrir, à son pooir, que ses fiz fust en la compaingnie sa femme,
+    ne mais que le soir quant il aloit couchier avec li. Li hostiex là où il plaisoit miex à
+    demeurer, c'estoit à Pontoise, entre le roy et la royne, pour ce que la chambre le roy
+    estoit desus, et la chambre la royne estoit desous. Et avoient ainsi acordei lour besoigne,
+    que il tenoient lour parlement en une viz qui descendoit de l'une chambre en l'autre ; et
+    avoient lour besoignes si atiries, que quant li huissier veoient venir la royne en la chambre
+    le roy son fil, il batoient les huis de lour verges, et li roys s'en venoit courant en sa
+    chambre, pour ce que sa mère l'i trouvast; et ainsi refesoient li huissier de la chambre la
+    royne Marguerite quant la royne Blanche y venoit, pour ce qu'elle y trouvast la royne
+    Marguerite.
+  translation: >-
+    Queen Blanche's harsh treatment of Queen Margaret went so far that, as much as she could,
+    Blanche would not allow her son to be in his wife's company except in the evening, when he
+    went to bed with her. The residence where the king and queen most liked to stay was Pontoise,
+    because the king's chamber was above and the queen's chamber below. They arranged matters so
+    that they held their conversations on a spiral staircase leading from one chamber to the other.
+    They had also arranged that when the ushers saw Queen Blanche coming to the chamber of the
+    king, her son, they struck the doors with their staffs, and the king came running back to his
+    chamber so that his mother would find him there. The ushers of Queen Margaret's chamber did
+    the same when Queen Blanche came there, so that she would find Queen Margaret in her chamber.
+  locator: "sections 606–607, chapter CXIX, p. 255"
+  translation_notes: >-
+    Direct translation from Natalis de Wailly's Old French edition. “Parlement” here means a
+    conversation or meeting, not a parliamentary institution, and “viz” is a spiral staircase.
+    Joinville explicitly identifies Pontoise, places Louis's chamber above Margaret's, and says
+    ushers attached to both chambers used their staffs to strike the doors as warning signals.
+    The couple did not necessarily retreat one to each chamber after every warning: when Blanche
+    approached Louis's chamber, Louis ran back there so she would find him; when she approached
+    Margaret's, the parallel warning ensured that Margaret was there. Joinville says Blanche tried
+    to prevent the couple's daytime company and allowed it at bedtime, but he does not describe a
+    particular “scene” if she caught them. Nor does he date this episode or say they were newlywed.
+    Gérard Sivéry's comparison with royal itineraries places the marked Pontoise preference mainly
+    from 1241 through 1246, rather than immediately after their 1234 marriage.
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: >-
+    Confirmed in Joinville sections 606–607 and supported by Gérard Sivéry's comparison with royal
+    itinerary evidence. Evidence tier 1 for Joinville's transmitted court anecdote; the room
+    arrangement, spiral-stair meeting place, two sets of ushers, staffs, and warning system are all
+    explicit. Preserve the story while correcting Barbero's symmetrical retreat to separate rooms,
+    and omit the unsupported newlywed dating and promised confrontation scene.
 - id: Q-029
   barbero_utterances: [U-00632–U-00649]
   barbero_timestamp: "49:19"
-  attribution: "Louis IX, his queen, and Jean de Joinville"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate the reactions to Blanche of Castile's death, including Louis's statement that he lost his mother and the queen's explanation of her tears."
+  attribution: "Louis IX, Margaret of Provence, and Jean de Joinville on Blanche of Castile's death"
+  source_id: SRC-002
+  original_language: fro
+  original_text: >-
+    A Sayette vindient les nouvelles au roy que sa mere estoit morte. Si grant duel en mena,
+    que de dous jours on ne pot onques parler à li. Après ce, m'envoia querre par un vallet de
+    sa chambre. Quant je ving devant li en sa chambre, là où il estoit touz seux, et il me vit,
+    il estandi ses bras et me dist : « A! seneschaus, j'ai pardue ma mère! » [...] Ma dame Marie
+    de Vertus, moût bone dame et moût sainte femme, me vint dire que la royne menoit moût grant
+    duel, et me pria que j'alasse vers li pour la reconforter. Et quant ge ving là, je trovai que
+    elle plouroit, et je li dis que voir dit cil qui dit que l'on ne doit femme croire : « Car ce
+    estoit la femme que vous plus haies qui est morte, et vous en menez tel duel! » Et elle me
+    dist que ce n'estoit pas pour li que elle ploroit, mais pour la mesaise que li roys avoit dou
+    duel que il menoit, et pour sa fille (qui puis fu royne de Navarre), qui estoit demeurée en la
+    garde des homes.
+  translation: >-
+    At Sidon news came to the king that his mother had died. He grieved so deeply that for two
+    days no one was able to speak to him. After that, he sent one of his chamber servants to fetch
+    me. When I came before him in his chamber, where he was all alone, he saw me, stretched out his
+    arms, and said: “Ah, Seneschal, I have lost my mother!” [...] My lady Marie of Vertus, a very
+    good and holy woman, came to tell me that the queen was grieving deeply, and asked me to go to
+    comfort her. When I arrived, I found her weeping, and I told her that whoever says one should
+    not believe a woman speaks truly: “For the woman you hated most is dead, and yet you are
+    grieving like this!” She told me that she was not weeping for Blanche, but because of the
+    distress the king was suffering in his grief, and for her daughter—who later became queen of
+    Navarre—who had been left in the custody of men.
+  locator: "sections 603–605, chapter CXIX, pp. 254–255"
+  translation_notes: >-
+    Direct translation from Natalis de Wailly's Old French edition. Louis's exclamation and
+    Margaret's explanation are explicit reported speech, while Joinville narrates the surrounding
+    behavior. Joinville says no one could speak to Louis for two days; he does not say that he had
+    never seen Louis so distressed. Louis summoned Joinville to his private chamber and reached
+    out his arms rather than going out to meet him. Margaret says plainly that she is not crying
+    for Blanche, whom Joinville calls the woman she hated most, but she gives two reasons for her
+    tears: Louis's suffering and concern for her daughter Isabelle, later queen of Navarre, who had
+    been left in men's custody. She does not say that she fears something will happen to Louis, that
+    Blanche's death means nothing to her, or “good riddance.” Joinville places the receipt of the
+    news at Sidon, but the earlier account by Louis's confessor Geoffrey of Beaulieu places it at
+    Jaffa; de Wailly therefore flags Joinville's location as a chronological error. Blanche died in
+    late November 1252 while Louis was on crusade in the Holy Land.
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: >-
+    Confirmed in Joinville sections 603–605. Evidence tier 1 for Joinville's transmitted participant
+    account and reported dialogue, with independent early corroboration from Geoffrey of Beaulieu
+    for Louis's reception of the news and intense grief. Preserve Louis's exclamation, the two days
+    of seclusion, Joinville's blunt challenge, and Margaret's candid answer; restore her concern for
+    her daughter, remove Barbero's invented fear for Louis and dismissive “anzi,” and avoid relying
+    on Joinville's mistaken Sidon location.
 - id: Q-030
   barbero_utterances: [U-00659–U-00670]
   barbero_timestamp: "51:11"
-  attribution: "Jean de Joinville"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate the count of Eu's miniature-catapult prank at the neighboring lunch table; verify the count's identity, projectiles, vessels, and Joinville's tone."
+  attribution: "Jean de Joinville on Alphonse of Brienne, count of Eu"
+  source_id: SRC-002
+  original_language: fro
+  original_text: >-
+    Je vous conterai des jeus que li cuens d'Eu nous fesoit. Je avoie fait une maison là où je
+    mangoie, je et mi chevalier, à la clartei de l'uis. Or estoit l'uis devers le conte d'Eu ; et
+    il qui moût estoit soutils, fist une petite bible qui getoit ens; et fesoit espier quant nous
+    estiens assis au mangier; et dressoit sa bible dou lonc de nostre table, et la faisoit geter,
+    et nous brisoit nos pos et nos voirres. Je m'estoie garniz de gelines et de chapons; et je ne
+    sai qui li avoit donnei une joene ourse, laquel il lessoit aler à mes gelines; et en avoit plus
+    tost tuei une douzainne que l'on ne venist illec; et la femme qui les gardoit batoit l'ourse
+    de sa quenoille.
+  translation: >-
+    I will tell you about the games the count of Eu used to play on us. I had built a room where
+    my knights and I ate by the light from the doorway. The doorway faced the count of Eu's
+    quarters; and he, being very ingenious, made a small ballista that shot into the room. He had
+    someone watch for when we were seated at our meal, then set his ballista lengthwise toward our
+    table and had it fired, breaking our pots and glasses. I had stocked up on hens and capons, and
+    I do not know who had given him a young bear, which he let loose among my hens; it had killed
+    a dozen before anyone could get there, while the woman who looked after them beat the bear
+    with her distaff.
+  locator: "section 583, chapter CXIII, pp. 245–246"
+  translation_notes: >-
+    Direct translation from Natalis de Wailly's Old French edition. The “petite bible” is a small
+    ballista or projectile engine, reasonably rendered as a miniature catapult for a general
+    audience. Joinville does not identify its ammunition, so Barbero's stones are an unsupported
+    detail. He says it broke “pos” (pots or drinking vessels) and “voirres” (glasses), not crystal
+    goblets specifically. The meal was inside a purpose-built room lit through its doorway, whose
+    opening faced the count's quarters—not outdoors at neighboring tables in front of tents. No
+    white tablecloth appears in this anecdote. Joinville calls the count “very ingenious” and
+    introduces the episode as games played on them, but does not explicitly call him delightful or
+    narrate the prank “in ecstasy.” The immediately following young-bear prank confirms the comic,
+    mischievous tone. De Wailly's note identifies the count as Jean, son of Alphonse, but later
+    prosopographical work by Jacques Monfrin corrects him to Alphonse of Brienne (Alphonse of Acre),
+    husband of Marie, countess of Eu, who joined Louis's force as a squire and was knighted there.
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: >-
+    Confirmed in Joinville section 583. Evidence tier 1 for Joinville's participant recollection;
+    SRC-005 resolves the count's identity against de Wailly's obsolete note. Preserve the ingenious
+    miniature engine, deliberate timing, broken pots and glasses, and playful tone, optionally also
+    the bear sequel; omit the stones, outdoor tent tables, white cloth, crystal, and exaggerated
+    claim about Joinville's emotional delivery.
 - id: Q-031
   barbero_utterances: [U-00699–U-00725]
   barbero_timestamp: "54:16"
-  attribution: "Count of Soissons to Jean de Joinville"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate the bridge-defense speech, including 'let this rabble shout,' the oath by God's cap, and the promise to discuss the day in the ladies' chambers; recover original wording and battle context."
+  attribution: "Jean II de Nesle, count of Soissons, to Jean de Joinville"
+  source_id: SRC-002
+  original_language: fro
+  original_text: >-
+    Li bons cuens de Soissons, en ce point là où nous estiens, se moquoit à moy et me disoit :
+    « Seneschaus, lessons huer ceste chiennaille; que par la Quoife Dieu ! (ainsi comme il juroit)
+    encore en parlerons-nous, entre vous et moi, de ceste journée es chambres des dames. »
+  translation: >-
+    The good count of Soissons, there where we stood, joked with me and said: “Seneschal, let this
+    pack of curs howl; for by God's coif!—that was how he swore—you and I will yet speak of this
+    day in the ladies' chambers.”
+  locator: "section 242, chapter XLIX, pp. 101–102"
+  translation_notes: >-
+    Direct translation from Natalis de Wailly's Old French edition. The speaker is Jean II de
+    Nesle, count of Soissons; Joinville says he had married the count's first cousin. “Se moquoit
+    à moy” means he joked or bantered with Joinville, not that he mocked Joinville for being afraid.
+    “Huer” can mean howl, shout, or jeer, while “chiennaille” is literally a contemptuous pack of
+    dogs or curs, stronger than neutral “rabble.” “Quoife Dieu” is the count's characteristic oath,
+    literally “God's coif” or “God's hood,” and Joinville himself inserts the explanation. The
+    future “encore en parlerons-nous” expresses confidence that they will survive to tell the story,
+    but does not explicitly say they will win or boast. The scene is the Battle of Mansurah on
+    8 February 1250, at a small bridge over a stream whose defense prevented a rear attack on
+    Louis IX. Barbero over-isolates the pair: Pierre de Noville initially remained on Joinville's
+    left, two royal sergeants fought in front, and the constable had gone to fetch crossbowmen.
+    The attackers used clods of earth, darts, and Greek fire; the text does not give Barbero's
+    staged pause a few metres away, teeth-baring, insults, stones, or tentative arrows.
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: >-
+    Confirmed verbatim in Joinville section 242 and consistently cited in modern crusade and
+    chivalry scholarship. Evidence tier 1 for Joinville's participant recollection and reported
+    speech. Preserve the count's joke, oath, contemptuous canine metaphor, and imagined future
+    retelling in ladies' chambers; correct the composition of the defenders and combat details,
+    and present the courtly-boasting interpretation as inference rather than part of the quotation.
