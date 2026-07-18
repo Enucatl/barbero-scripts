@@ -489,29 +489,17 @@ Barbero to close by handing it on to the audience.
 
 ## Pronunciation targets
 
-- Jean de Joinville
-- Joinville (town/castle as well as personal name)
-- Louis IX / Saint Louis
-- Champagne
-- seneschal / *sénéchal*
-- Salimbene
-- Dino Compagni
-- Lampedusa
-- Blécourt
-- Cluny
-- Frederick II
-- Philippe de Nemours
-- *livres tournois*
-- Robert de Sorbon
-- Sorbonne
-- Érard de Nogent
-- Blanche of Castile
-- Pontoise
-- count of Eu
-- Robert, count of Artois
-- Templars
-- count of Soissons
-- *vilain*
+- Jean de Joinville; Joinville (person and town/castle)
+- Louis IX / Saint Louis; Jeanne of Navarre; Margaret of Provence; Blanche of Castile
+- Champagne; seneschal; Salimbene
+- Lampedusa; Blécourt; Our Lady of Vauvert; Cluny
+- Frederick II; Philippe de Nemours; *livres tournois*
+- Charles of Anjou; Walter of Nemours; Dragonet of Montauban
+- Robert de Sorbon; Sorbonne; vair; camelin
+- Henry the Liberal; Artaud de Nogent; Nogent-l'Artaud; Le Goulu; Caesarea
+- Thomasin von Zerklaere; Damietta; Mansurah
+- Alphonse of Brienne; count of Eu; Robert, count of Artois; Foucaut du Merle
+- Jean II de Nesle; count of Soissons; *vilain*
 
 ## Transcript-only uncertainties
 
@@ -556,3 +544,16 @@ Barbero to close by handing it on to the audience.
     to the crusade's overall loss are not named or fully explained in the transcript.
 21. **U-00700–U-00725:** The bridge or causeway, exact battle phase, wording, and original-language
     oath of the count of Soissons are not identified by the transcript.
+
+## Verification summary
+
+- **Sections:** 17
+- **Annotated script:** Complete from `U-00001` through `U-00726`, in transcript order
+- **Annotated word count:** 10,666
+- **Recording word count:** 10,503
+- **Estimated recording duration:** 70:01 at 150 wpm; 65:39 at 160 wpm; 61:47 at 170 wpm
+- **Quotation entries:** 31 (`Q-001`–`Q-031`), all resolved and represented in the script
+- **Claim entries:** 36 (`C-001`–`C-036`), all resolved and represented in the script
+- **Outstanding transcript review flags:** 0
+- **Recording copy:** Generated from the annotated script; research markers and draft comments removed
+- **Performance status:** Full human timed read-through pending; no actual duration has yet been supplied

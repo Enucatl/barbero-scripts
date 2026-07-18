@@ -1,7 +1,5 @@
 # How a Medieval Man Thought: The Knight
 
-<!-- Close English adaptation. Research markers are removed from the recording copy. -->
-
 ## 1. Meet the knight
 
 Good evening. Well—good evening, everyone.
@@ -33,7 +31,7 @@ Joinville is one of those higher-level men. He owns castles and a lordship in wh
 public authority: he keeps order, collects dues, and administers justice. And on top of that he's a
 great officer of the counts of Champagne. For years he held the hereditary office of seneschal of
 Champagne—not, as we might too easily say, the king's regional administrator, but one of the great
-officers attached to the count and the county. [C-001] [SRC-002] [SRC-006]
+officers attached to the count and the county.
 
 And with all that, he is still a knight.
 
@@ -42,7 +40,7 @@ those values are the ones we find in medieval books about knighthood: the knight
 widows, orphans, and the powerless; he should be humble, charitable, loyal, truthful, and so on.
 That isn't a quotation from Joinville, or from one particular romance. It's a broad chivalric
 ideal, set out very clearly, for example, by Ramon Llull in a didactic book written close to
-Joinville's time. [Q-001] [SRC-001]
+Joinville's time.
 
 In practice, though, the values knights really prize are rather different. The values Joinville
 shares with his own vassals are courage in war—physical courage shown in battle, when you're
@@ -58,7 +56,7 @@ and the king he knew best was Louis IX—Saint Louis—the great thirteenth-cent
 led two crusading expeditions. Joinville went with him on the Egyptian expedition that began in
 1248. He was away for six years, and few of those who left came home. When Louis later took the
 cross again and sailed for Tunis in 1270, Joinville refused to go. Many survivors of the first
-expedition preferred not to repeat the experience. Louis went, and died there. [C-002] [SRC-002]
+expedition preferred not to repeat the experience. Louis went, and died there.
 
 Joinville outlived his king by many years. When he was already old—by then we're at the beginning
 of the fourteenth century—he found himself at his castle, one of the few people still alive who
@@ -69,7 +67,6 @@ wanted to write—or rather, Jeanne of Navarre asked him to write—a book about
 and good deeds. He completed it around 1309 and dedicated it to her son. It was meant to be a life
 of Louis IX, and it is—but in practice it also becomes the memoir of Jean de Joinville, this
 great French lord of his time, and above all the story of that extraordinary crusading ordeal.
-[C-003] [SRC-002] [SRC-008] [SRC-009]
 
 So the man before us tonight isn't merely a knight. He's a crusading knight, looking back on the
 days of the crusade.
@@ -89,7 +86,7 @@ lose too much time. But there were several masses, the canonical hours, the offi
 vespers, compline—services sung and unsung, every day. He was a saint.
 
 Joinville is a knight, an ordinary great lord, and even he hears one mass every day. A Christian's
-day—a knight's day—begins with Mass. [C-004] [SRC-002]
+day—a knight's day—begins with Mass.
 
 Religion is always there. These people have a spontaneous familiarity with religious things.
 
@@ -106,7 +103,7 @@ They find the island deserted. Nobody lives there. But among the rocks, they fin
 a garden with olive trees, fig trees, vines, and a spring running through it; then an oratory,
 whitewashed with lime, with a red earthen cross. In a second chamber lie two dead bodies, decayed
 but still arranged as bodies were laid in burial, facing east. Joinville doesn't actually say that
-they were the former hermits, although that is the obvious conclusion to draw. [Q-002] [C-005]
+they were the former hermits, although that is the obvious conclusion to draw.
 
 Everyone is moved by this. They take on water and go back to the galleys. Then, just as they're
 about to leave, they realize that one of the sailors is missing.
@@ -122,7 +119,7 @@ And this seems perfectly natural to everyone.
 
 So Nicholas of Soissons, one of the king's senior sergeants, leaves three sacks of ship's biscuit
 on the shore, enough to keep the missing man alive for a while. Another ship will come eventually;
-someone else will provide for the hermit. And off they sail. [Q-002] [C-005] [SRC-002]
+someone else will provide for the hermit. And off they sail.
 
 To them, this is a normal story.
 
@@ -139,25 +136,25 @@ Again, this is on the return voyage. A man on a ship about a league ahead—Drag
 squire, not a sailor—falls into the sea while trying to cover an opening in the vessel. From the
 ship behind, Joinville sees something lying motionless in the water and thinks it's a bundle or
 some piece of cargo. A royal galley goes to recover it, and discovers a man, alive and perfectly
-well. They bring him to the king's ship, where Joinville questions him. [Q-003] [C-006]
+well. They bring him to the king's ship, where Joinville questions him.
 
 Why hadn't he tried to save himself? Why hadn't he swum or struggled?
 
 The squire answered that there had been no need: as soon as he began to fall, he commended himself
 to Our Lady of Vauvert, “and she supported him by the shoulders from the moment he fell until the
-king's galley picked him up.” [Q-003]
+king's galley picked him up.”
 
 He doesn't say that the Virgin visibly appeared. He says she held him up by the shoulders. So he
 had stayed calm.
 
 And Joinville tells us this almost in passing. That could have been the end of it. But in the very
 next sentence he says: “In honor of this miracle, I had it painted in my chapel at Joinville and in
-the windows at Blécourt.” [Q-003]
+the windows at Blécourt.”
 
 That tells us something. He doesn't labor the point, because hearing about a miracle is hardly
 unusual in his world. But when it happens to you—when you believe you've seen it yourself—it gets
 inside you. He is the lord of those places, so he has the scene represented in his chapel and in
-the church windows. [C-006] [SRC-002] [SRC-010]
+the church windows.
 
 That is the world these people inhabit from a religious point of view: religion as an enormous
 bond shared by everyone, felt with immense fervor—and also with immense simplicity.
@@ -170,7 +167,7 @@ Joinville records an episode with considerable approval, I have to say. But we m
 about where it comes from. Joinville didn't witness it and he doesn't say he heard it recently at
 Cluny. He says Louis IX told him a story about a great disputation between Christian clerics and
 Jews at the monastery of Cluny. No date or independent witness is given. So this is an anecdote
-told by Louis and written down by Joinville decades later. [Q-004] [C-007]
+told by Louis and written down by Joinville decades later.
 
 You know Cluny, in Burgundy, the great Benedictine monastery.
 
@@ -195,7 +192,7 @@ reluctantly given permission.
 Leaning on his crutch, very courteously, he asks:
 
 “Master, I ask whether you believe that the Virgin Mary, who bore God in her womb and in her arms,
-gave birth as a virgin and is the mother of God.” [Q-004]
+gave birth as a virgin and is the mother of God.”
 
 The Jewish scholar replies that he believes none of it.
 
@@ -206,7 +203,7 @@ entering Mary's monastery and her house when he neither believes in her nor love
 “And truly,” he says, “you will pay for it.”
 
 Then he raises the crutch, strikes the scholar beside the ear, and knocks him to the ground. The
-other Jews carry their wounded master away, and that is the end of the disputation. [Q-004]
+other Jews carry their wounded master away, and that is the end of the disputation.
 
 The abbot calls the knight a fool. The knight answers that the greater folly was arranging the
 disputation in the first place, because some perfectly good Christian who doesn't understand the
@@ -217,7 +214,7 @@ Joinville:
 
 “And so I tell you that no one should dispute with them unless he is a very learned cleric. But
 when a layman hears the Christian faith spoken ill of, he should defend the Christian faith only
-with his sword, which he should drive into the offender's belly as far as it can go.” [Q-005]
+with his sword, which he should drive into the offender's belly as far as it can go.”
 
 So there it is: a faith that is spontaneous, impetuous, at times intensely violent. And you won't
 be surprised if I tell you that it is also a faith deeply attached to forms—highly formal in its
@@ -228,7 +225,7 @@ keep the Lenten fast. And if I fail to keep these things, I feel genuinely terri
 
 These are practices that have lost much of their importance for many Christians today. In the
 thirteenth century, lay observance wasn't perfectly uniform, of course, but a Christian could feel
-powerfully bound by them. [C-008] [SRC-012]
+powerfully bound by them.
 
 ## 4. Meat on Friday
 
@@ -243,7 +240,7 @@ men surrendering. And surrender is a gamble, because you don't know whose hands 
 or what they will do. Joinville saw sick captives who couldn't walk killed and thrown into the
 river. Other prisoners were treated with care and even given medical help. Rank usually made a
 prisoner valuable because a king or great lord could pay a huge ransom—but it didn't make anyone
-entirely safe, and Joinville himself was threatened more than once. [C-009] [SRC-002] [SRC-013]
+entirely safe, and Joinville himself was threatened more than once.
 
 Still, Christian and Muslim great lords could recognize one another as people of the same social
 world. They had subjects in common, as we're about to see.
@@ -253,7 +250,7 @@ whether he is related to the Emperor Frederick II. Joinville answers cautiously 
 understood his mother to be Frederick's first cousin. The admiral says that makes him value
 Joinville all the more. It's not quite the cheerful comparison of family trees and mutual friends
 that the story can become in retelling, and the pedigree is Joinville's own claim rather than a
-demonstrated genealogy. But the shared interest in status and kinship is real enough. [C-010]
+demonstrated genealogy. But the shared interest in status and kinship is real enough.
 
 While they are eating, the admiral has a French prisoner—a citizen of Paris—brought before them.
 The man looks at Joinville and says:
@@ -262,7 +259,7 @@ The man looks at Joinville and says:
 
 “Why, what am I doing?” Joinville asks.
 
-“In God's name, you are eating meat on a Friday!” [Q-006]
+“In God's name, you are eating meat on a Friday!”
 
 Joinville pushes his bowl away in horror.
 
@@ -271,7 +268,7 @@ It was Friday, and he was eating meat.
 
 The admiral sees this and asks, through Joinville's interpreter, why he has pushed the bowl away.
 When they explain, the admiral replies that God will not hold it against him, since he hadn't done
-it knowingly. [Q-006]
+it knowingly.
 
 Later, after Joinville is out of prison, he consults the papal legate with the crusading army—a
 high churchman—and the legate gives him exactly the same answer. He did it unknowingly. God won't
@@ -281,7 +278,7 @@ But Joinville can't let it go. He doesn't actually say that he disbelieved them,
 to purify himself. What he says is that from then on he fasted on bread and water every Friday in
 Lent. Every Friday in Lent—not every Friday of the year. And the legate became very angry with him,
 because Joinville was the only great lay lord left with the king and this punishing fast threatened
-to leave him less fit for service. [Q-006] [C-008]
+to leave him less fit for service.
 
 So forms matter.
 
@@ -304,14 +301,14 @@ in it. Joinville says this is a disgrace to the fine kingdom of France. He had s
 years in Louis's company, and never once heard the king swear by God, the Virgin, or the saints.
 When Louis wanted to insist that something was true, he simply said, “Truly, it was so,” or,
 “Truly, it is so.” And Joinville never heard him name the devil unless the word had to be read in a
-book or in the life of a saint. [Q-007]
+book or in the life of a saint.
 
 That doesn't mean Louis never mentioned God, of course. Joinville's point is that he never swore
 by God.
 
 The devil was worse. Joinville says that in his own household, anyone who used one of these
 expressions earned a cuff or a slap—and the rule had almost stamped out this bad habit among his
-people. Not a vague penance, then. A slap. [Q-007] [SRC-002]
+people. Not a vague penance, then. A slap.
 
 Invoking God to strengthen what you're saying, on the other hand, can be legitimate. You call God
 as your witness. Joinville did it himself.
@@ -328,7 +325,7 @@ who had chosen the site for Joinville's tent came to him and said:
 *sire* too.
 
 Now the knight who had chosen the previous night's site hears this. He leaps up in a fury, grabs
-the other man by the hair, and shouts, “You are very bold to speak about something I do.” [Q-008]
+the other man by the hair, and shouts, “You are very bold to speak about something I do.”
 
 This is appallingly discourteous. Two knights pulling each other's hair in front of their lord—the
 height of vulgar, ill-bred behavior.
@@ -336,7 +333,7 @@ height of vulgar, ill-bred behavior.
 Joinville loses his temper. He jumps up, punches the attacker between the shoulder blades until he
 lets go, and says:
 
-“Out of my household now; for, so help me God, you will never be with me again.” [Q-008]
+“Out of my household now; for, so help me God, you will never be with me again.”
 
 The knight leaves in great distress and repents. Giles le Brun, the constable of France, comes to
 plead for him. Come on, he says, over a thing like that?
@@ -353,11 +350,10 @@ So they go to the legate and explain the whole business. And the legate says no.
 power to absolve Joinville from this particular oath, because it was reasonable and the knight had
 thoroughly deserved the punishment. That doesn't mean every oath was permanent or that a churchman
 could never dispense one. The point is that the legate judged this oath valid and reasonable in
-this case. [Q-008] [C-011] [SRC-014]
+this case.
 
 And this, says Joinville, is why I'm showing you what happened: be careful not to swear an oath
 that reason will then require you to keep. “He who swears readily perjures himself readily.”
-[Q-008]
 
 So you have to be careful what you say.
 
@@ -379,7 +375,6 @@ We need to keep that framing: this is Joinville's medieval account, not evidence
 “Muslim fatalism.” He says the Bedouins believe that nobody can die except on the day appointed to
 him. He even connects this belief with their refusal to wear armor in battle. But he doesn't say
 that the date of death is written on each person's forehead; that's a later explanatory image.
-[Q-009] [C-013] [SRC-015]
 
 You know the idea: every person already has an appointed day of death.
 
@@ -394,14 +389,14 @@ interesting conclusion he draws:
 
 “For those who served God would be fools if we did not believe that he had the power to lengthen
 our lives and preserve us from harm and misfortune; and we must believe in him, for he has the
-power to do all things.” [Q-010]
+power to do all things.”
 
 To Joinville, this seems perfectly obvious.
 
 Now, I would call that a kind of bargain with God. That is my interpretation, not Joinville's own
 word and not an explicit contract in his text. His argument is really that God remains free to
 alter events and save us from danger. But the practical logic is still hard to miss: serving God
-comes with the expectation that God can lengthen life and protect you from harm. [C-012]
+comes with the expectation that God can lengthen life and protect you from harm.
 
 And perhaps you can already glimpse what seems to me a great contradiction in this religious
 outlook. On the one hand it's so warm, so sincere. On the other, it doesn't exclude attachment to
@@ -420,12 +415,12 @@ I left.
 Louis, when he departed, crossed half his kingdom on foot, dressed as a pilgrim with staff and
 scrip. Joinville didn't do exactly the same thing. But the abbot of Cheminon gave him his own
 pilgrim's scrip and staff, and he left the castle on foot, barefoot, dressed in wool. He went to
-Blécourt, Saint-Urbain, and the other holy relics nearby. [C-014]
+Blécourt, Saint-Urbain, and the other holy relics nearby.
 
 And while he was walking, he says:
 
 “I never once wished to turn my eyes back toward Joinville, for fear that my heart would soften at
-the thought of the fine castle I was leaving and of my two children.” [Q-011]
+the thought of the fine castle I was leaving and of my two children.”
 
 Two children. His wife isn't mentioned in that sentence, although she was of course part of the
 life he left behind.
@@ -457,7 +452,7 @@ But one of Joinville's cellarers, a household officer from Doullens, says:
 
 And what do you advise?
 
-“I favor letting ourselves all be killed; then we shall all go to paradise.” [Q-012]
+“I favor letting ourselves all be killed; then we shall all go to paradise.”
 
 Now that really is the Middle Ages as we expect it to be, isn't it?
 
@@ -470,12 +465,12 @@ Except that only one man says it.
 
 Joinville disposes of the proposal in one tiny sentence:
 
-“But we did not believe him.” [Q-012]
+“But we did not believe him.”
 
 In other words, they didn't take his advice. They surrendered, and many of them survived. The
 choice was pragmatic: capture by the galleys looked safer than being dispersed ashore. So the
 scene shouldn't become proof that all sensible knights rejected religious martyrdom. It shows us
-one man's view—and everybody else's very practical response. [C-015] [SRC-013]
+one man's view—and everybody else's very practical response.
 
 Common sense. Religion. Religious obligations. Keeping your word. It wasn't easy to be consistent
 in this world.
@@ -493,13 +488,13 @@ Damietta and a monetary ransom reduced from five hundred thousand to four hundre
 tournois. The two hundred thousand livres in this particular story are the first installment,
 which had to be paid before Louis left the river—not the entire ransom. Still, it was an enormous
 sum. The money had arrived, it had taken days to weigh and hand over, and they were almost
-finished. [C-016] [SRC-002] [SRC-013]
+finished.
 
 Then Sir Philippe de Nemours tells the king that the captors have been underpaid by one
 balance-load—ten thousand livres.
 
 The king becomes extremely angry. He had promised to pay two hundred thousand before leaving the
-river, and two hundred thousand must be paid. [Q-013]
+river, and two hundred thousand must be paid.
 
 And then the little comedy begins.
 
@@ -515,11 +510,11 @@ But the king isn't fooled.
 “May misfortune befall such a joke,” he says. And he commands Philippe, by the fealty he owes as
 the king's man, to make sure that any missing ten thousand livres are paid without fail. Louis
 also refuses advice to slip away to the ship waiting at sea. He will not leave the river until the
-full promised installment has been delivered. [Q-013]
+full promised installment has been delivered.
 
 So he doesn't personally march off to inspect the accounts, as the story sometimes has it. But he
 does insist that Philippe make good any shortfall, and he remains where he is until the promise is
-kept. [C-016]
+kept.
 
 You see, it wasn't always easy to live with this king.
 
@@ -538,7 +533,7 @@ more than once Joinville said something outrageous.
 On one occasion, while Louis's army was encamped on the sands at Acre, a large company of Armenian
 Christians passed through on pilgrimage to Jerusalem. They were being conducted by Muslim escorts
 after paying a substantial tribute—not simply wandering through under some vague permission.
-Through an interpreter, they asked Joinville if they might see “the holy king.” [C-017]
+Through an interpreter, they asked Joinville if they might see “the holy king.”
 
 Joinville goes to find Louis. They're close: one is the king and the other his officer, certainly,
 but they know each other very well. Louis is sitting in a pavilion, leaning against the tent pole,
@@ -547,7 +542,7 @@ right on the sand, without even a carpet underneath him.
 Joinville says:
 
 “My lord, outside there is a large company from Greater Armenia going to Jerusalem, and they ask
-me to show them the holy king; but I have no intention of kissing your bones just yet.” [Q-014]
+me to show them the holy king; but I have no intention of kissing your bones just yet.”
 
 Kissing his bones: any medieval listener would understand the joke at once. Most saints are dead,
 and people approach them through their relics. Their bones are venerated. Their bones are kissed.
@@ -556,7 +551,7 @@ But telling the living king, “I'm not ready to kiss your bones yet,” is not 
 to put it.
 
 Fortunately, Louis laughs openly. He tells Joinville to bring the pilgrims in. They see the king,
-and the two sides commend one another to God. [Q-014] [C-017]
+and the two sides commend one another to God.
 
 Another time, the issue is money.
 
@@ -576,7 +571,7 @@ A crusade costs an enormous amount. It's a vast enterprise that has to be planne
 first thing is to find the money. Once you have that, you can organize the army, recruit and retain
 knights and other troops, secure horses, weapons, attendants, food, transport, ships, and stores.
 That is ruinously expensive. The ships were contracted or hired—not simply all built from scratch
-for Louis—but either way, money is everywhere. [C-019] [SRC-017] [SRC-018]
+for Louis—but either way, money is everywhere.
 
 A group of knights who go on crusade in a lord's following are very often serving under a paid
 arrangement. Yes, there is still the feudal system: lords have vassals who owe them service. Those
@@ -586,7 +581,6 @@ still matter.
 
 But prolonged service is expensive—especially prolonged service overseas. Even vassals who
 follow a lord on an enterprise as dangerous as a crusade have to be supported. Pay is fundamental.
-[C-018] [SRC-016]
 
 If you can assemble a company made entirely of your own vassals and relatives, so much the better.
 At one point Joinville sees a group fight particularly well and explains that they were all the
@@ -599,16 +593,16 @@ So you have to pay them.
 Joinville gives us wonderfully concrete figures. When he left, the land available to him brought
 in less than one thousand livres a year, because his mother was still alive. He mortgaged a large
 amount of land and departed with a company of ten knights including himself—not ten besides
-himself—and three of the ten were bannerets. [Q-015]
+himself—and three of the ten were bannerets.
 
 After paying for his ship, he reached Cyprus with only 240 livres tournois left. Some of his
 knights warned that if he couldn't find more money, they would leave. Then Louis summoned him,
 retained him in royal service, and put 800 livres in his coffers. Suddenly, Joinville says, he had
-more than he needed. [Q-015]
+more than he needed.
 
 That gives you the structure. A great lord such as Joinville arrives with his mounted company—men
 with armor, horses, servants, all the rest—and the king in turn retains the whole unit. Money is
-involved at every level. [C-018] [C-019]
+involved at every level.
 
 End of digression.
 
@@ -619,11 +613,11 @@ another year.
 Now, the story as it is often retold makes Louis penniless and Joinville magnificently offer six
 months of service for free. That isn't what Joinville says. He asks for no more money than Louis
 had paid under the previous arrangement. But he does want a different kind of payment—a different
-condition in the bargain. [Q-016]
+condition in the bargain.
 
 “Because,” he tells the king, “you become angry whenever someone asks you for something, I want
 you to agree that if I ask you for anything during this whole year, you will not become angry; and
-if you refuse me, I will not become angry either.” [Q-016]
+if you refuse me, I will not become angry either.”
 
 That's the bargain. Not that the king must never be angry with him for an entire year. Louis must
 not get angry when Joinville asks for something, and Joinville promises not to get angry if Louis
@@ -631,7 +625,7 @@ says no.
 
 When Louis hears this, he laughs openly and accepts. Then he takes Joinville by the hand, leads him
 to the papal legate and the royal council, and tells everyone about the agreement. They're
-delighted, Joinville says, because by then he was the richest man in the army. [Q-016]
+delighted, Joinville says, because by then he was the richest man in the army.
 
 So this isn't quite the grand gesture of a nobleman proving that he isn't a merchant by serving
 for nothing. The money still counts, and Joinville still counts it. But the nonfinancial bargain
@@ -648,7 +642,7 @@ Louis demonstrated his holiness constantly, and people were astonished by it.
 At Sidon in 1253, unburied Christian bodies were still lying outside the city. These weren't fresh
 corpses from a battle just beyond the crusader camp in Africa. They were decomposing bodies at
 Sidon, and Louis personally began carrying them into burial trenches. Once the king did that, the
-others were ashamed not to join him. [C-020] [SRC-002]
+others were ashamed not to join him.
 
 On another occasion—again, a separate story—the royal ship struck a sandbank near Cyprus on the
 voyage home in 1254 and was badly damaged. The shipmasters advised Louis to move with his wife and
@@ -660,7 +654,7 @@ reach home.
 
 So he said:
 
-“There is not one among them who does not love his life as much as I love mine.” [Q-017]
+“There is not one among them who does not love his life as much as I love mine.”
 
 And rather than cause such harm to so many people, he would place himself, his wife, and his
 children in God's hands and remain aboard.
@@ -668,7 +662,6 @@ children in God's hands and remain aboard.
 The interesting thing isn't only his concern for the poorer passengers—something not every king
 of the period would necessarily have shared. It's also the way Louis speaks about his own life.
 He loves it. That seems perfectly obvious to him. *I love my life; I know they love theirs too.*
-[C-020]
 
 But as I said, living close to a man like this wasn't easy. Joinville gives us story after story.
 
@@ -676,11 +669,11 @@ One day Louis is talking with Joinville in front of two friars and suddenly puts
 him.
 
 “Now I ask you, which would you rather: that you were a leper, or that you had committed a mortal
-sin?” [Q-018]
+sin?”
 
 Joinville answers immediately—he says he never lied to the king:
 
-“I would rather have committed thirty than be a leper.” [Q-018]
+“I would rather have committed thirty than be a leper.”
 
 And he receives a memorable lecture. Not at once, in fact. The next day, after the friars have
 left, Louis calls him aside, makes him sit at his feet, and asks why he said such a thing.
@@ -689,20 +682,18 @@ Joinville tells him he still thinks the same.
 
 Louis calls him a rash fool. Bodily leprosy, he explains, ends when the body dies. Mortal sin may
 remain unforgiven and endanger the soul forever. So Joinville should prefer every bodily
-misfortune—leprosy, any illness whatever—to allowing mortal sin into his soul. [Q-018]
+misfortune—leprosy, any illness whatever—to allowing mortal sin into his soul.
 
 Another time, Louis asks Joinville whether he washes poor people's feet on Maundy Thursday. Louis
 himself did perform ritual foot washing, in imitation of Christ, but Joinville doesn't first watch
-him do it in this particular scene. The king simply asks about Joinville's own practice. [C-021]
+him do it in this particular scene. The king simply asks about Joinville's own practice.
 
 “My lord,” Joinville answers, “God forbid! I will never wash the feet of those common people.”
-[Q-019]
 
 And once again Louis is appalled.
 
 “Truly, that was badly said, for you must not disdain what God did for our instruction. So I ask
 you, first for the love of God and then for love of me, to accustom yourself to washing them.”
-[Q-019]
 
 Joinville doesn't record any promise to comply.
 
@@ -728,7 +719,7 @@ non-nobles, the low-born, or simply people treated as base and contemptible. Joi
 for the poor whose feet he refuses to wash, for low-born parents, and for a fantastically rich
 burgess. So we shouldn't turn it into one fixed legal category, or translate it every time as
 “peasant.” But the broad aristocratic opposition is real enough: us, the noble people—and all the
-rest. [C-023] [SRC-021]
+rest.
 
 Merchants and financiers may have made money—sometimes more money than the knights. That doesn't
 make them noble. In the automatic worldview of men like Joinville, the only truly worthy people
@@ -742,7 +733,7 @@ his cloak and leads him to the king, while the other knights follow.
 Robert is a remarkable man: born outside the nobility, he rose through the Church to become a
 master of theology and royal cleric. In 1253 he founded a theological college, confirmed by Louis
 in 1257, which became known as the Sorbonne. He did not found the University of Paris; his college
-was founded within the university that already existed. [C-022] [SRC-020]
+was founded within the university that already existed.
 
 Joinville is wondering what on earth is happening—yes, “what on earth,” because every now and then
 one slips.
@@ -753,14 +744,14 @@ and Joinville sat above him on that same bench, wouldn't Joinville rightly be bl
 Yes, Joinville says.
 
 Then Robert says Joinville is likewise to blame for dressing more nobly than the king. Joinville
-is wearing green cloth and vair, that prestigious squirrel fur, while Louis is not. [Q-020]
+is wearing green cloth and vair, that prestigious squirrel fur, while Louis is not.
 
 Joinville reacts with extraordinary harshness.
 
 “Master Robert, saving your grace, I am not to blame if I dress in green and vair, for my father
 and mother left me this mode of dress. But you are to blame, for you are the son of a villein man
 and a villein woman, and you have abandoned the dress of your father and mother and are dressed in
-richer camelin cloth than the king.” [Q-020]
+richer camelin cloth than the king.”
 
 Not, strictly speaking, *this particular garment was bequeathed to me by my father*. Joinville
 says that his father and mother left him this way of dressing—his inherited aristocratic station
@@ -783,19 +774,18 @@ Then Louis gives his actual rule:
 
 “You ought to dress well and neatly, so that your wives will love you the more and your people
 will esteem you more.” A man should adorn himself in clothes and arms so that worthy men don't
-think it excessive, while the young don't think it inadequate. [Q-021]
+think it excessive, while the young don't think it inadequate.
 
 That is not the sweeping class doctrine Barbero's retelling sometimes places in Louis's mouth.
 Louis doesn't say nobles may wear fur because their fathers and grandfathers did, while newly rich
 commoners must never imitate them. The inherited-rank insult belongs to Joinville's earlier reply.
 Louis admits that Joinville was right to dress well, but recommends a balanced, dignified display.
-[Q-021]
 
 The aristocratic belief itself, however, was deeply rooted and extremely long-lived. Claims of
 hereditary distinction survived the French Revolution and remained powerful among many noble
 families into the nineteenth century. But revolutions, legal equality, ennoblement, intermarriage,
 and national differences transformed what nobility meant. We shouldn't imagine one unchanged
-belief held by every European noble all the way to 1900. [C-024] [SRC-022] [SRC-023]
+belief held by every European noble all the way to 1900.
 
 And yet Joinville knows perfectly well that some of these newly rich commoners have made so much
 money that they have become important. They buy castles. They hold office at court.
@@ -810,7 +800,7 @@ place.
 Joinville tells a famous story about the court of Henry I of Champagne—Henry the Liberal. This is
 an older story, set at Troyes on Pentecost in the twelfth century, more than forty years before
 Joinville was born. He isn't an eyewitness. Variant medieval versions show that it circulated as
-an exemplary tale about princely generosity and social rank. [C-025]
+an exemplary tale about princely generosity and social rank.
 
 Henry's most trusted burgess was an immensely rich man named Artaud de Nogent—not Érard. Artaud
 was rich enough to build the castle of Nogent-l'Artaud with his own money.
@@ -822,21 +812,20 @@ standing there with him.
 Artaud is walking behind the count. He says:
 
 “Sir knight, you are behaving discourteously by asking my lord, for he has given so much that he
-has nothing left to give.” [Q-022]
+has nothing left to give.”
 
 The generous count turns around.
 
 “Sir villein, what you say—that I have nothing left to give—is not true. I still have you
-yourself. Here, sir knight: I give him to you, and I will guarantee him to you.” [Q-022]
+yourself. Here, sir knight: I give him to you, and I will guarantee him to you.”
 
 The count does not grab Artaud and throw him into the knight's arms. The poor knight understands
 the opportunity perfectly well. *He* seizes Artaud by the cloak and announces that he will not let
-him go until they reach a settlement. Artaud eventually has to pay five hundred livres. [Q-022]
+him go until they reach a settlement. Artaud eventually has to pay five hundred livres.
 
 So a poor knight may be humiliated by a rich burgess—but then the world, as the story understands
 it, restores justice. Not ordinary legal justice, and not a general right to ransom burgesses. An
 exemplary story in which princely largesse and aristocratic power put wealth back in its place.
-[C-025]
 
 Social hierarchy could be reaffirmed in still more dramatic ways, because on this point there was
 no compromise. Rank had to be respected.
@@ -844,7 +833,7 @@ no compromise. Rank had to be respected.
 At Caesarea during the crusade, one of the king's armed sergeants—a man named Le Goulu—laid hands
 on a knight in Joinville's company. Louis initially tried to minimize it: the sergeant had only
 shoved him. Joinville was furious. He demanded justice and threatened to leave the king's service
-if royal sergeants were allowed to shove knights. [Q-023]
+if royal sergeants were allowed to shove knights.
 
 So judgment was given according to what Joinville calls “the customs of the country”—the local
 custom at Caesarea, not a universal law applied everywhere in medieval Europe.
@@ -854,14 +843,14 @@ bare sword in his hand. He knelt before the knight, took the sword by its point,
 the pommel.
 
 “My lord, I make amends to you for laying hands on you, and I have brought you this sword so that
-you may cut off my fist, if it pleases you.” [Q-023]
+you may cut off my fist, if it pleases you.”
 
 He does not stretch out his bare hand and invite the knight to cut it off. He offers the sword—the
 means by which the knight could cut off his fist.
 
 Then Joinville asks his knight to forgive the offense, and the knight does. The ritual plainly
 creates an opportunity for mercy, but Joinville doesn't tell us that the penalty was never
-enforced, or that a crowd repeatedly cried out for pardon. [C-026]
+enforced, or that a crowd repeatedly cried out for pardon.
 
 Still, the principle has been established once again.
 
@@ -886,7 +875,7 @@ The figure of forty kilograms of armor is too high as a representative weight fo
 thirteenth-century body armor. These men primarily wore padded defenses, a mail hauberk and mail
 leggings, helmet and shield, with additional plates only gradually coming into use. A mail hauberk
 alone might weigh around eleven kilograms; the complete fighting kit varied. But correcting the
-number doesn't make the physical skill any less formidable. [C-027] [SRC-024] [SRC-025]
+number doesn't make the physical skill any less formidable.
 
 Knightly training was an extreme sport, and one in which you could very easily lose your life. You
 had to start as a child and keep practicing for as long as you remained a fighting man.
@@ -896,12 +885,12 @@ eight. It says:
 
 “Whoever goes on without learning to ride and remains at school until the age of twelve is
 thereafter poorly suited to knighthood: he lacks the strength for it. The unridden schoolboy is
-fit for nothing but the priesthood.” [Q-024] [SRC-004]
+fit for nothing but the priesthood.”
 
 The age of eight probably comes from combining that line with the real fact that aristocratic
 riding education often began at seven or eight. Either way, if you wanted to become a knight, keep
 up your family's honor, win respect, and serve your lord or king, you began in childhood and
-trained all your life. [C-027] [SRC-003]
+trained all your life.
 
 And war meant hours and hours in heat, cold, rain, or frost, wearing your equipment, often with
 nothing to eat or drink.
@@ -913,7 +902,7 @@ ransom value that protected great lords.
 
 But knightly memoirs keep the knights in the foreground. Joinville doesn't literally fail to see
 everyone else—he sometimes names and praises sergeants, bourgeois, and crossbowmen. Still, the
-story he tells is centered on men like himself, on their horses and in their helmets. [C-028]
+story he tells is centered on men like himself, on their horses and in their helmets.
 
 And Joinville gives us an extraordinary image of Louis landing in Egypt.
 
@@ -921,12 +910,12 @@ The king hears that the standard of Saint-Denis is already ashore. He strides th
 ignoring the legate who is with him, and leaps into the sea. The water comes up to his armpits. He
 goes forward with shield at his neck, helmet on his head, and lance in his hand until he reaches
 the shore. When he sees the Saracens, he asks who they are, lowers his lance, sets his shield
-before him, and would charge if the men around him allowed it. [Q-025]
+before him, and would charge if the men around him allowed it.
 
 That is already unbeatable. We don't need the composite additions. Louis is on foot, not on
 horseback. He doesn't shout, “Where are the Turks?” And the famous gilded helmet appears in a
 different scene months later at Mansurah, when Joinville sees Louis mounted above his battle
-division with a German sword in his hand. [Q-025] [C-029]
+division with a German sword in his hand.
 
 This pride in chivalric courage—the pride of being the people who continually risk their lives,
 by principle and by obligation—is what knights feel justifies all their privileges.
@@ -947,7 +936,6 @@ was sung. Six knights leaned on sacks of barley, talking loudly and disturbing t
 Joinville tells them to be quiet. It's disgraceful for knights and gentlemen to talk through Mass.
 
 They laugh and say they are arranging—or at least discussing—the remarriage of Hugh's wife.
-[Q-026]
 
 Joinville is appalled. These words are neither good nor proper, he says. They have forgotten their
 companion far too quickly.
@@ -957,7 +945,7 @@ warm, or that the six men were competing over which of them would marry the wido
 
 But Joinville's ending is sharper than the retelling. The very next day comes the great battle of
 Shrove Tuesday. All six knights are killed or mortally wounded, and all six of *their* wives have
-to remarry. Joinville explicitly calls this God's vengeance. [Q-026]
+to remarry. Joinville explicitly calls this God's vengeance.
 
 Then there's conduct with women—conduct “in the ladies' chambers,” as they sometimes say. Knowing
 how to behave with women, being elegant, refined, courteous: that matters in this social world.
@@ -971,10 +959,10 @@ well, and even seems to have delayed a sermon for Joinville.
 
 Yet Joinville says that in five years around Louis he had never heard the king speak of his wife
 or children, either to Joinville or to anyone else. “And it was not good conduct, as it seems to
-me, to be aloof from one's wife and children.” [Q-027]
+me, to be aloof from one's wife and children.”
 
 That first-person limit matters. It doesn't prove that Louis lacked affection or took no interest
-in his family. It tells us what Joinville himself had—or hadn't—heard. [Q-027]
+in his family. It tells us what Joinville himself had—or hadn't—heard.
 
 Now, if we wanted to apply a little psychoanalysis to Louis, we might produce some interesting
 ideas. But that is an aside, not a historical diagnosis.
@@ -982,7 +970,7 @@ ideas. But that is an aside, not a historical diagnosis.
 Louis lost his father when he was twelve and spent years under the regency of his mother, Blanche
 of Castile, a formidable woman of power. She governed during his minority and again during his
 crusade, and remained an exceptionally influential political partner. But the adult Louis wasn't
-simply passive or controlled by his mother; from 1234 he governed in his own right. [C-030]
+simply passive or controlled by his mother; from 1234 he governed in his own right.
 
 He also had to marry, because a king must marry and produce heirs. His wife was Margaret of
 Provence. Blanche and Margaret did not get along, and Joinville says Blanche tried, as much as she
@@ -992,11 +980,11 @@ At Pontoise, the king's chamber was above and the queen's below, with a spiral s
 them. Louis and Margaret held their conversations on that stair. Each chamber had ushers watching
 for Blanche. If she approached Louis's room, the ushers struck the door with their staffs and
 Louis ran back into his chamber so his mother would find him there. Margaret's ushers did the
-equivalent when Blanche approached Margaret's room. [Q-028] [C-031]
+equivalent when Blanche approached Margaret's room.
 
 So it isn't quite that both spouses always fled simultaneously into separate rooms, and Joinville
 doesn't tell us what scene followed if Blanche caught them. Nor does he date this to their first
-days as newlyweds. The wonderful architecture and warning system are enough. [Q-028]
+days as newlyweds. The wonderful architecture and warning system are enough.
 
 Then, during the crusade, news arrives that Blanche has died.
 
@@ -1005,7 +993,7 @@ secure is Louis's grief. For two days nobody can speak to him. Then he sends a c
 fetch Joinville. Louis is alone in his room. When Joinville enters, the king stretches out his
 arms and says:
 
-“Ah, Seneschal, I have lost my mother!” [Q-029]
+“Ah, Seneschal, I have lost my mother!”
 
 Then Joinville goes to Queen Margaret, who is also weeping.
 
@@ -1014,7 +1002,7 @@ woman Margaret hated more than anyone in the world. Why grieve now that her moth
 
 Margaret answers that she isn't weeping for Blanche. She is weeping because of the king's terrible
 distress—and also for her daughter Isabelle, later queen of Navarre, who has been left in the care
-of men. [Q-029]
+of men.
 
 Not “good riddance,” then, and not a fear that Louis himself is about to die. Her answer is candid
 enough without those additions.
@@ -1031,12 +1019,12 @@ to backgammon. Joinville gives us a particularly concrete example: Louis's broth
 Anjou was playing tables with Walter of Nemours, with dice, board, and a great deal of money on
 the table. Louis was furious and threw the dice and board into the sea. He did not, in fact,
 tolerate gambling; Joinville also records royal prohibitions against dice among officers and
-against making dice. [C-032] [SRC-027]
+against making dice.
 
 Games were often played for money or property—but not always, so we shouldn't say every game,
 even every chess match, carried a wager. Adult courtly blind man's buff is documented, especially
 in later medieval evidence. The exact aristocratic hide-and-seek claim is much less secure, so
-we'll leave that one aside. [C-032] [SRC-028]
+we'll leave that one aside.
 
 The lively point remains: adults didn't feel embarrassed about playing in ways that might look
 childish to us.
@@ -1046,19 +1034,19 @@ about the games played on him by the count of Eu.
 
 The scene isn't outdoors at two tables in front of neighboring tents. Joinville had built a room
 where he and his knights ate by the light from the doorway. That doorway faced the quarters of
-Alphonse of Brienne, count of Eu. [Q-030] [SRC-005]
+Alphonse of Brienne, count of Eu.
 
 The count was very ingenious. He built a small ballista—a miniature projectile engine—and had
 someone watch for the moment Joinville and his knights sat down to eat. Then he aimed it lengthwise
-toward their table and fired it through the doorway, breaking their pots and glasses. [Q-030]
+toward their table and fired it through the doorway, breaking their pots and glasses.
 
 Joinville doesn't tell us what ammunition it fired. He doesn't mention a white tablecloth, and the
 glasses aren't described as crystal goblets. Fine tableware could certainly display status, but
-none of those particular decorations belongs in this anecdote. [C-033] [SRC-029]
+none of those particular decorations belongs in this anecdote.
 
 And the count had another game. Somebody had given him a young bear, so he let it loose among
 Joinville's hens and capons. It killed a dozen before anybody could get there, while the woman who
-looked after them beat the bear with her distaff. [Q-030]
+looked after them beat the bear with her distaff.
 
 Very ingenious indeed.
 
@@ -1086,7 +1074,7 @@ Robert's men crossed the river and moved past the Templars while pursuing the fl
 Templars protested: the agreed order had been broken, and their place of honor had been taken.
 Joinville says that Foucaut du Merle, who was holding Robert's bridle and was deaf, failed to hear
 the warning and shouted for the attack to continue. Other contemporary accounts place more direct
-blame on Robert for ignoring advice. [C-034] [SRC-013]
+blame on Robert for ignoring advice.
 
 But in Joinville's telling, the Templars now face their own intolerable choice. If they let Robert
 go ahead, they will be dishonored. So they spur forward too. The ordered advance degenerates into
@@ -1095,12 +1083,12 @@ a pell-mell pursuit, because nobody wants the shame of being the man who stays b
 And it ends terribly. The force becomes trapped in Mansurah's narrow streets. Robert of Artois,
 Raoul of Coucy, and roughly three hundred knights are killed. Joinville says the Templar
 contingent lost 280 armed mounted men—most of that contingent, not most members of the Templar
-order everywhere. [C-034] [SRC-002]
+order everywhere.
 
 So chivalric competition causes enormous harm. It is one major tactical cause of the crusade's
 failure, but it doesn't lose the entire campaign in that instant. Louis's main force continues to
 fight. Then come stalemate, the cutting of the supply line, hunger, disease and dysentery, and the
-failed April retreat that ends with the army's collapse and Louis's capture. [C-035] [SRC-017]
+failed April retreat that ends with the army's collapse and Louis's capture.
 
 The charge remains a perfect example of honor undermining military command. It just isn't the only
 reason the crusade was lost.
@@ -1119,26 +1107,26 @@ dangerous moment.
 During that same battle at Mansurah—not during the later retreat to Damietta—Joinville sees that a
 small bridge over a stream must be held. If the enemy cross it, they can strike Louis's force in
 front and rear while units are moving and repositioning. Joinville proposes defending it, and
-Jean II de Nesle, count of Soissons, agrees to remain with him. [C-036]
+Jean II de Nesle, count of Soissons, agrees to remain with him.
 
 They are not literally the only two men there. Pierre de Noville initially stands to Joinville's
 left. Two royal sergeants fight in front of them. The constable has gone to bring crossbowmen.
 
 Still, the situation is bad enough. Joinville and Soissons are mounted, trying to hold the bridge
 while the attackers throw clods of earth, darts or bolts, and Greek fire. Joinville is wounded in
-five places and his horse in fifteen. He even uses his padded garment as a shield. [C-036]
+five places and his horse in fifteen. He even uses his padded garment as a shield.
 
 And there, in the middle of all this, the good count of Soissons jokes with him:
 
 “Seneschal, let this pack of curs howl; for by God's coif!—that was how he swore—you and I will yet
-speak of this day in the ladies' chambers.” [Q-031]
+speak of this day in the ladies' chambers.”
 
 He isn't mocking Joinville for being afraid. He is bantering with him, confidently imagining that
 both of them will survive to tell the story.
 
 Eventually the constable returns with the royal crossbowmen on foot, and their arrival drives the
 attackers away. So this isn't two solitary knights stopping an entire army by themselves. But the
-count's line still captures the chivalric world perfectly. [C-036]
+count's line still captures the chivalric world perfectly.
 
 Honor, pride, the ladies' chambers, the future story of the dangerous day—and the confidence that
 there will be a future in which to tell it.
