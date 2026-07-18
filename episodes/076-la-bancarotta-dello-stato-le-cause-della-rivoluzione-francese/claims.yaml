@@ -1,0 +1,324 @@
+- id: C-001
+  claim: "The monarchy's fiscal collapse forced Louis XVI to convene the Estates-General, opening the French Revolution."
+  transcript: [U-00025–U-00044]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Establish the causal chain from insolvency to convocation and identify competing interpretations of the Revolution's opening."
+- id: C-002
+  claim: "A century of heavy expenditure and defective taxation produced the monarchy's accumulated deficit."
+  transcript: [U-00027–U-00044]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Find long-run fiscal series and scholarship assessing war, debt service, tax structure, and court expenditure."
+- id: C-003
+  claim: "Under French absolutism the king could legislate, imprison by lettre de cachet, and impose taxes without representative approval."
+  transcript: [U-00058–U-00076]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Document these powers and the legal, judicial, and customary limits that qualify the lecture's model of absolutism."
+- id: C-004
+  claim: "Saint-Simon's memoirs express high-aristocratic opposition to Louis XIV's absolutism."
+  transcript: [U-00083–U-00104]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify Saint-Simon's biography, composition of the memoirs, and political position within aristocratic opposition."
+- id: C-005
+  claim: "The defeat at Turin was a major turning point in France's Italian position during the War of the Spanish Succession."
+  transcript: [U-00105–U-00122]
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Assess the battle's military and diplomatic consequences and Saint-Simon's retrospective interpretation."
+- id: C-006
+  claim: "Around 1710 the insolvent crown met obligations with mint notes that traded at deep discounts while specie was hoarded."
+  transcript: [U-00123–U-00176]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify the instruments, dates, convertibility, discounts, and relationship between wartime arrears and specie scarcity."
+- id: C-007
+  claim: "The monarchy outsourced much tax collection to private financiers organized in the Ferme générale, who retained substantial proceeds."
+  transcript: [U-00186–U-00209]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Document the Ferme's formation, contracts, collection powers, administrative oversight, and fiscal margins."
+- id: C-008
+  claim: "Desmarets proposed a proportional levy on wealth in addition to existing taxes during Louis XIV's late-war fiscal emergency."
+  transcript: [U-00210–U-00239]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Identify the tax, prior reform proposals, assessment rules, exemptions, and whether 'property tax' is an accurate description."
+- id: C-009
+  claim: "Saint-Simon describes Desmarets's reform as approved by a family-connected commission and a Finance Council whose consent was effectively predetermined by Louis XIV."
+  transcript: [U-00240–U-00357]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Check Saint-Simon's narrative against council records and scholarship on absolutist decision-making."
+- id: C-010
+  claim: "The new levy produced far less than projected and failed to reach financiers' concealed wealth."
+  transcript: [U-00358–U-00364]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Find revenue estimates, collection results, incidence studies, and evidence about financiers' treatment."
+- id: C-011
+  claim: "At Louis XIV's death, the Regency considered repudiating a royal debt roughly equal to ten years of revenue."
+  transcript: [U-00365–U-00390, U-00463–U-00470]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify debt and revenue totals, accounting definitions, and the bankruptcy proposals debated in 1715."
+- id: C-012
+  claim: "John Law fled Britain after a duel conviction and advocated paper currency ultimately grounded in land rather than specie."
+  transcript: [U-00391–U-00434]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify Law's legal history and distinguish his published monetary proposals from Barbero's simplified land-backing account."
+- id: C-013
+  claim: "The Regent Philippe d'Orléans authorized Law's project amid the crown's severe fiscal crisis."
+  transcript: [U-00435–U-00472]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Establish the Regent's role, motives, advisers, and sequence of authorizations without relying solely on Saint-Simon's hostile portrait."
+- id: C-014
+  claim: "Law's bank issued shares and banknotes, accepted old royal paper, and benefited from government acceptance and guarantees."
+  transcript: [U-00472–U-00534]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Reconstruct institutional stages, instruments, government privileges, convertibility, and the mechanism for absorbing royal debt."
+- id: C-015
+  claim: "Law's financial system joined the bank to a company holding colonial trade and tax-collection monopolies."
+  transcript: [U-00535–U-00565]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify dates and legal structure of the company mergers and the scope of colonial and tax-farming monopolies."
+- id: C-016
+  claim: "The Mississippi bubble enriched speculators and coincided with the emergence of the French term 'millionnaire.'"
+  transcript: [U-00566–U-00575]
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Check the bubble's place among early financial bubbles and the word's earliest attested French usage."
+- id: C-017
+  claim: "Law converted from Protestantism to Catholicism so that he could hold high financial office in France."
+  transcript: [U-00576–U-00585]
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify conversion date, legal confessional restrictions, office title, and causal connection."
+- id: C-018
+  claim: "Law's ministry restricted private specie holdings, authorized searches, and punished public critics of the system."
+  transcript: [U-00586–U-00611]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Locate the decrees, thresholds, enforcement evidence, and cases of arrest or colonial deportation."
+- id: C-019
+  claim: "Redemptions by informed princes helped trigger a bank run in which seventeen people died before payments ceased."
+  transcript: [U-00612–U-00636]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify the roles of Bourbon and Conti, the run's chronology and location, casualty count, and suspension decree."
+- id: C-020
+  claim: "The collapse settlement favored smaller holders and reduced royal debt but discredited paper money in France for generations."
+  transcript: [U-00637–U-00668]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Measure debt reduction and distributional effects and assess the strength and duration of French aversion to paper currency."
+- id: C-021
+  claim: "Louis XV's government resumed borrowing, lost major colonial holdings in the Seven Years' War, and rebuilt the fiscal burden."
+  transcript: [U-00669–U-00689]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Find fiscal series linking renewed credit, war costs, peacetime spending, and the debt inherited by Louis XVI."
+- id: C-022
+  claim: "Louis XVI inherited a renewed fiscal catastrophe on his accession in 1774 and sought reform through successive economists."
+  transcript: [U-00690–U-00718]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Establish the 1774 fiscal position and the crown's reasons for selecting successive reform ministers."
+- id: C-023
+  claim: "Turgot pursued a physiocratic and liberal program of taxing land-derived wealth while freeing commerce and opposing tax farming."
+  transcript: [U-00753–U-00778]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Compare the lecture's account with Turgot's actual program, physiocratic doctrine, edicts, and opposition interests."
+- id: C-024
+  claim: "A bad harvest, grain-price rises, and subsistence riots politically undermined Turgot's grain-trade liberalization."
+  transcript: [U-00779–U-00791]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify harvest and price evidence, chronology of the Flour War, and scholarly debate over liberalization's causal role."
+- id: C-025
+  claim: "Turgot rejected default, tax increases, and added borrowing, then lost office after proposing expenditure and pension cuts."
+  transcript: [U-00792–U-00816]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Document Turgot's fiscal proposals, political opposition, dismissal date, and the relative importance of expenditure cuts."
+- id: C-026
+  claim: "Clugny de Nuits introduced a state lottery as a revenue device and died after about five months in office."
+  transcript: [U-00817–U-00854]
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify whether Clugny created, revived, or reorganized the lottery, plus his tenure dates and revenue impact."
+- id: C-027
+  claim: "French military and financial aid was important to American victory and greatly increased the French crown's debt."
+  transcript: [U-00868–U-00895]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Quantify French aid and war costs, verify chronology, and assess their marginal contribution to the prerevolutionary fiscal crisis."
+- id: C-028
+  claim: "Necker's transferable life annuities were financially damaging because longevity assumptions shifted and purchasers assigned them to young children."
+  transcript: [U-00896–U-00943]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Identify the annuity issues, pricing model, transfer rules, purchaser strategies, and documented losses to the treasury."
+- id: C-029
+  claim: "Fiscal secrecy concealed rising debt, while court expenditure represented about one percent of the royal budget."
+  transcript: [U-00944–U-00962]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify publication and censorship practices, Necker's disclosures, budget denominator, and the one-percent estimate."
+- id: C-030
+  claim: "Calonne encouraged conspicuous royal and public spending to project solvency and preserve access to credit."
+  transcript: [U-00963–U-00995]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Compare this interpretation with Calonne's policies and writings, including the Saint-Cloud purchase and borrowing strategy."
+- id: C-031
+  claim: "In 1786 debt interest consumed 51 percent of the royal budget, military costs 26 percent, and assistance and education 2 percent."
+  transcript: [U-00996–U-01012]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Locate the underlying accounts and verify categories, denominator, year, and comparability of the percentages."
+- id: C-032
+  claim: "The Estates-General historically granted consent to royal taxation and had not met since 1614."
+  transcript: [U-01018–U-01050]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Document medieval and early modern fiscal consent, estate composition and voting, and the significance of 1614."
+- id: C-033
+  claim: "Public awareness of fiscal collapse and elite demands forced Louis XVI to summon the Estates-General in 1789."
+  transcript: [U-01051–U-01065]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Reconstruct the 1787-89 political sequence and weigh noble, parlementary, public, and fiscal pressures on convocation."
+- id: C-034
+  claim: "The Estates-General's demand for continuing representative authority and resistance to dissolution led into the National Assembly and Bastille crisis."
+  transcript: [U-01066–U-01089]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify the institutional chronology from Estates-General to National Assembly and the crown's attempted responses before 14 July."
+- id: C-035
+  claim: "Discovery of the king's dealings with foreign powers contributed to the royal couple's arrest and the later revolutionary violence."
+  transcript: [U-01090–U-01096]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Clarify the compressed chronology of flight, war, evidence of royal contacts, arrest, deposition, and the Terror."
+- id: C-036
+  claim: "Twenty-eight former fermiers généraux were executed together on 8 May 1794."
+  transcript: [U-01097–U-01115]
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify the trial, defendants, charges, date, number executed, and connection to revolutionary anger at fiscal profiteering."

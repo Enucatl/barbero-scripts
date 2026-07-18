@@ -1,0 +1,169 @@
+- id: Q-001
+  barbero_utterances: [U-00074–U-00082]
+  barbero_timestamp: "08:30"
+  attribution: "Louis XIV"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Determine whether 'L'Etat, c'est moi' is authentic, apocryphal, or proverbial and identify its earliest source."
+- id: Q-002
+  barbero_utterances: [U-00103–U-00122]
+  barbero_timestamp: "10:08"
+  attribution: "Duc de Saint-Simon, memoirs"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate Saint-Simon's passage making the catastrophe of Turin the beginning of France's ruin and establish Barbero's degree of paraphrase."
+- id: Q-003
+  barbero_utterances: [U-00155–U-00166]
+  barbero_timestamp: "13:20"
+  attribution: "Royal mint note / billet de monnaie"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Identify surviving note wording and verify the promised maturity, issuer, denomination, and convertibility described."
+- id: Q-004
+  barbero_utterances: [U-00176–U-00185]
+  barbero_timestamp: "14:33"
+  attribution: "Duc de Saint-Simon, memoirs"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the passage about drawing blood and pus from subjects and enriching tax contractors; establish exact French wording and context."
+- id: Q-005
+  barbero_utterances: [U-00284–U-00310]
+  barbero_timestamp: "21:29"
+  attribution: "Theologians of the Sorbonne, conveyed by Father Le Tellier"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Identify the theological opinion that subjects' goods belonged to the king and determine whether it survives independently of Saint-Simon."
+- id: Q-006
+  barbero_utterances: [U-00312–U-00364]
+  barbero_timestamp: "23:04"
+  attribution: "Duc de Saint-Simon, memoirs"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the Finance Council narrative and phrases about general weeping and the 'commission of cannibals'; verify sequence and wording."
+- id: Q-007
+  barbero_utterances: [U-00405–U-00428]
+  barbero_timestamp: "28:32"
+  attribution: "John Law, monetary treatise or proposal"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Identify Law's relevant work and exact argument about metallic money, paper currency, and land backing."
+- id: Q-008
+  barbero_utterances: [U-00446–U-00459]
+  barbero_timestamp: "31:20"
+  attribution: "Duc de Saint-Simon, memoirs"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate Saint-Simon's remark that the Regent did not believe in God but believed in the devil and determine the exact formulation."
+- id: Q-009
+  barbero_utterances: [U-00493–U-00514]
+  barbero_timestamp: "34:04"
+  attribution: "Banque générale / Banque royale banknote"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Identify the banknote type and exact bearer-payment wording, including whether the lecture conflates stages of Law's bank."
+- id: Q-010
+  barbero_utterances: [U-00739–U-00752]
+  barbero_timestamp: "49:47"
+  attribution: "Unidentified Parisian noblewoman, letter praising Turgot"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Identify the correspondent and letter, then recover the original wording praising Turgot's virtue, enlightenment, and public spirit."
+- id: Q-011
+  barbero_utterances: [U-00810–U-00815]
+  barbero_timestamp: "54:11"
+  attribution: "Louis XVI"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the source for Louis XVI's statement that only he and Turgot loved the people and verify wording and occasion."
+- id: Q-012
+  barbero_utterances: [U-00817–U-00854]
+  barbero_timestamp: "54:32"
+  attribution: "Clugny de Nuits and contemporary political chansonniers"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Find the source of Clugny's boast about dying in office and the satirical song or saying circulated after his death."
+- id: Q-013
+  barbero_utterances: [U-01073–U-01079]
+  barbero_timestamp: "70:17"
+  attribution: "Estates-General / National Assembly, collective paraphrase"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Determine which declarations or speeches underpin the collective claim to represent the people and whether this is purely Barbero's paraphrase."
