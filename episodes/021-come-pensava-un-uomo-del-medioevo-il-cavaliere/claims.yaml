@@ -476,38 +476,80 @@
   claim: "Knights' self-image obscured the infantry and servants who also fought and were often especially exposed when medieval armies were defeated."
   transcript: [U-00570–U-00573]
   centrality: supporting
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Assess the composition, functions, and casualty risks of mounted knights, infantry, and household personnel in Louis IX's army."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 228–245, pp. 95–103; sections 318–330, pp. 132–137"
+      note: "Joinville's own combat narrative includes knights, royal sergeants, crossbowmen on foot, bourgeois attendants, and other common troops; after the defeat he records rank-based selection and the killing of sick captives who could not march."
+    - source_id: SRC-016
+      locator: "chapters 5–6 and 10–13 on cavalry, infantry, armies, commanders, battle, and tactics"
+      note: "France rejects an all-knight model of medieval warfare and treats cavalry and several types of infantry as interdependent components of armies."
+    - source_id: SRC-017
+      locator: "chapters on Louis IX's preparations and the army of 1248–1250"
+      note: "Jordan's reconstruction estimates roughly 2,500–2,800 knights alongside much larger bodies of crossbowmen, mounted sergeants, and less heavily equipped infantry."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "sections 240–245, pp. 101–103"
+      note: "Joinville does not simply erase non-knights: he names sergeants and a bourgeois in the fighting and credits royal crossbowmen with driving attackers away, even while his memoir remains centered on aristocratic companions."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tiers 1 and 3. Preserve the corrective that a crusading army was far larger and more varied than its knightly memoirists' social foreground: infantry, crossbowmen, sergeants, sailors, servants, and other followers were indispensable. Lower-status people generally lacked elite armor, horses, and ransom value and could be especially vulnerable in collapse or captivity. Frame their narrative invisibility as a matter of emphasis, however—Joinville does sometimes see, name, and praise them—and avoid an unsupported universal casualty rule for every battle."
 - id: C-029
   claim: "Louis IX was among the first to land in Egypt, entering the water armed and on horseback and showing eagerness to attack."
   transcript: [U-00574–U-00586]
   centrality: supporting
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Verify the landing site, sequence, equipment, tactical context, and whether Joinville's portrait is eyewitness testimony or exemplary royal characterization."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 7–8 and 162–163, pp. 3 and 68–69"
+      note: "Joinville calls Louis one of the first ashore and describes him leaping from his ship into armpit-deep water with shield, helmet, and lance, then preparing to charge until companions restrained him."
+    - source_id: SRC-013
+      locator: "chapter V, 'Victory and Disaster in Egypt,' pp. 63–124"
+      note: "The documentary collection places the landing at Damietta in June 1249 and supplies the wider tactical and chronological context."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "sections 162–164, pp. 68–70; section 228, pp. 95–96"
+      note: "Louis lands and advances on foot, not on horseback; the gilded helmet belongs to Joinville's later portrait at Mansurah, and the standard of Saint-Denis and some troops were already ashore."
+  status: resolved
+  script_treatment: correct
+  research_note: "Evidence tiers 1 and 3. Preserve Joinville's outstanding image of royal courage at the Damietta landing: Louis jumps into water up to his armpits fully armed, reaches shore, couches his lance, and wants to attack. Correct the composite details: he is on foot, does not ask 'Where are the Turks?', and wears the famous gilded helmet only in a later Mansurah scene. 'Among the first' is Joinville's retrospective summary rather than a literal claim that nobody preceded him."
 - id: C-030
   claim: "After his father's early death, Louis IX remained under the powerful political and familial influence of his mother, Blanche of Castile."
   transcript: [U-00611–U-00623]
   centrality: supporting
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Verify Louis's age, Blanche's regency and later role, and evidence for her control over his marriage; separate history from Barbero's psychoanalytic speculation."
+  supporting_sources:
+    - source_id: SRC-026
+      locator: "chapters on the 1226–1234 minority, Louis's adult kingship, and Blanche's second regency in 1248–1252"
+      note: "Grant establishes Blanche as an active ruler and political partner: regent after Louis VIII's death, an influential adviser after Louis reached majority, and regent again during the crusade."
+    - source_id: SRC-002
+      locator: "sections 606–610, pp. 255–257"
+      note: "Joinville portrays Blanche as restricting Louis's daytime company with Margaret of Provence and records Louis's disabling grief when news of Blanche's death reached him."
+    - source_id: SRC-017
+      locator: "discussion of Louis's minority, marriage, family relations, and crusade regency"
+      note: "Jordan places Joinville's intimate anecdotes alongside evidence for Louis's independent kingship and for a tender marriage with Margaret."
+  conflicting_sources:
+    - source_id: SRC-026
+      locator: "chapters on Louis's majority and Blanche's political partnership"
+      note: "Blanche's continuing authority was not simply domination of a passive adult son: Louis governed independently from 1234 and deliberately entrusted the kingdom to her during his crusade."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tiers 1 and 3. Louis was twelve when Louis VIII died in November 1226. Blanche's regency through 1234 and renewed regency in 1248–1252 demonstrate exceptional political power, while Joinville's marriage anecdotes show real familial pressure. Preserve that durable influence but remove psychoanalytic claims that Louis was emotionally stunted, uninterested in women, or merely controlled by his mother; his adult decisions and evidence of affection for Margaret complicate that picture."
 - id: C-031
   claim: "At Pontoise, the rooms occupied by Louis IX, his wife, and Blanche of Castile allowed the young couple to meet by a staircase while doorkeepers warned them of Blanche's approach."
   transcript: [U-00621–U-00631]
   centrality: sampled-incidental
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Identify Louis's wife, verify the castle and room arrangement, and establish whether Barbero accurately reports Joinville's story."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 606–607, chapter CXIX, p. 255"
+      note: "Joinville identifies Pontoise, Louis's upper chamber, Margaret of Provence's lower chamber, their spiral-stair conversations, and ushers striking doors with staffs to warn of Blanche's approach."
+    - source_id: SRC-026
+      locator: "discussion of Blanche, Louis IX, and Margaret of Provence after the 1234 marriage"
+      note: "Modern biography accepts the anecdote as evidence of court-family tensions while placing it within Blanche's wider political and dynastic role."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "sections 606–607, p. 255"
+      note: "The warning arrangement was not a symmetrical flight by both spouses: Louis ran to his chamber when Blanche approached it, while Margaret's ushers ensured Margaret was found in hers; Joinville gives no date or confrontation scene."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tier 1 for Joinville's court anecdote and tier 3 for context. Margaret of Provence is the wife. Preserve the highly specific Pontoise architecture, spiral stair, two sets of ushers, staffs, and warning signals. Avoid calling the couple newlyweds, inventing what Blanche did if she caught them, or making both always retreat to separate rooms; Joinville reports a recurring arrangement without dating it."
 - id: C-032
   claim: "Medieval aristocratic adults openly played board games, dice, blind man's buff, and hide-and-seek, often gambling on games."
   transcript: [U-00650–U-00658]
