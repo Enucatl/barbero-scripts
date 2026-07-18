@@ -2,56 +2,101 @@
   claim: "Jean de Joinville was a castle-owning lord who exercised public authority and served as seneschal of Champagne."
   transcript: [U-00008–U-00022]
   centrality: central
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Establish Joinville's title, holdings, jurisdiction, and the institutional nature of his seneschalship rather than assuming he was the king's regional representative."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "dedication, sections 1–2, pp. 1–2; section 735, pp. 305–306"
+      note: "Joinville styles himself lord of Joinville and seneschal of Champagne; his refusal of the 1270 expedition explicitly presents protection of his people as a lordly duty."
+    - source_id: SRC-006
+      locator: "discussion of the Joinville family and hereditary seneschalship, pp. 24–25"
+      note: "Places the family castle and hereditary office within the lordship and institutions of Champagne."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "dedication, section 1, p. 1"
+      note: "The title is seneschal of Champagne, attached to its count, not royal administrator or regional representative of the king of France."
+  status: resolved
+  script_treatment: correct
+  research_note: "Evidence tier 1 for Joinville's own titles and lordly responsibility, tier 3 for the office's institutional history. Preserve him as a castle-owning lord exercising seigneurial authority and as hereditary seneschal of the county of Champagne. Remove the claim that this made him the French king's local representative; avoid multiplying castles or specifying taxes without separate evidence."
 - id: C-002
   claim: "Louis IX led two crusades; Joinville joined the expedition beginning in 1248 but not the later expedition in which Louis died."
   transcript: [U-00036–U-00043]
   centrality: supporting
-  supporting_sources: []
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 5, 734–738, pp. 2–3 and 306–307"
+      note: "Joinville says he spent six years with Louis on crusade, records that Louis took the cross again, explains his own refusal, and reports Louis's fatal illness before Tunis."
+    - source_id: SRC-007
+      locator: "Introduction and chapters 2–5 on Louis IX's Egyptian expedition of 1248–1254 and Tunis expedition of 1270"
+      note: "Modern crusade scholarship confirms the chronology, destinations, and Joinville's relationship to the first expedition."
   conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Verify the dates, destinations, outcomes, duration, Joinville's participation, and Louis IX's death."
+  status: resolved
+  script_treatment: clarify
+  research_note: "Evidence tiers 1 and 3. Preserve the two expeditions: Joinville left on the crusade begun in 1248, remained through the Egyptian defeat and Louis's four years in the Latin East, and returned in 1254. He refused Louis's 1270 expedition to Tunis, where Louis died on 25 August. Say 'in 1270,' not the vague 'in the Seventy'; conventional crusade numbering can be omitted."
 - id: C-003
   claim: "In old age after Louis IX's canonization, Joinville wrote a commissioned life of the king that functions substantially as his own crusade memoir."
   transcript: [U-00044–U-00055]
   centrality: central
-  supporting_sources: []
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "dedication, sections 1–6, pp. 1–3"
+      note: "Joinville says Jeanne of Navarre asked him for a book of Louis's holy words and good deeds, dedicates the completed work to her son Louis, and divides it between pious government and deeds of arms."
+    - source_id: SRC-008
+      locator: "JONAS work notice 1839, dating, description, and manuscript witnesses"
+      note: "Institutional manuscript record dates the work from Louis's 1297 canonization to completion in 1309 and describes it as direct, highly personal testimony written for Jeanne of Navarre."
+    - source_id: SRC-009
+      locator: "pp. 1825–1852, especially discussion of the 1309 completion, commission, structure, and manuscript tradition"
+      note: "Scholarly assessment treats the work as a many-sided life whose unusually extensive crusade narrative is grounded in Joinville's personal memories."
   conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Determine the work's commission, composition date, dedication, genre, structure, manuscript basis, and relationship to Louis's canonization."
+  status: resolved
+  script_treatment: clarify
+  research_note: "Evidence tiers 1–3. Louis was canonized in 1297. Jeanne of Navarre commissioned the book before her death in 1305; Joinville completed and dedicated it in October 1309 to her son Louis, future Louis X. It is formally a book of the saint's words and deeds, but its long central crusade narrative is intensely autobiographical. Composition in layers remains debated, and the presentation manuscript is lost; avoid saying Joinville simply decided on his own to write a memoir."
 - id: C-004
   claim: "Louis IX attended several masses and divine offices daily, while Joinville ordinarily attended one daily mass."
   transcript: [U-00063–U-00070]
   centrality: supporting
-  supporting_sources: []
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "section 54, chapter XI, pp. 23–24; section 501, p. 211"
+      note: "Joinville gives Louis a daily sequence of sung hours, an unsung requiem mass, the sung mass of the day or saint, the office of the dead, vespers, and compline; overseas, Joinville's chaplains arranged his own mass around dawn before he went to the king."
   conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Find evidence for both devotional routines and distinguish contemporary testimony from later hagiographic presentation."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tier 1, but from Joinville's saintly portrait rather than an administrative schedule. Preserve Louis's unusually intensive daily devotions. Joinville also presents daily mass as his normal crusading routine, but this proves the practice in his organized overseas household, not that every ordinary knight everywhere necessarily heard exactly one mass every day."
 - id: C-005
   claim: "Joinville's returning fleet stopped at Lampedusa and encountered a deserted hermitage where a sailor chose to remain."
   transcript: [U-00072–U-00096]
   centrality: sampled-incidental
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Verify the route, island identification, physical description, and textual provenance of the hermitage episode."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 638–639, chapter CXXVI, pp. 268–269"
+      note: "Joinville explicitly names Lempiouse, describes the rock-cut hermitage, cultivated garden, spring, oratory, two decayed bodies, a missing mariner, and three sacks of ship's biscuit left ashore."
+    - source_id: SRC-010
+      locator: "pp. 285–295, discussion of the return voyage and Lampedusa hermitage episode"
+      note: "Scholarly analysis identifies the episode within the Acre-to-Hyères return voyage and examines its eremitic and providential framing."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "sections 638–639, pp. 268–269"
+      note: "The captain only supposed the missing mariner had stayed to become a hermit; Joinville does not establish his intention, identify the two bodies as hermits, or call them bare skeletons."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tier 1 for Joinville's report and tier 3 for context. Preserve the Lampedusa stop on the return from the eastern Mediterranean, but keep the source's uncertainty: a mariner was missing when they re-embarked, the shipmaster guessed he had remained as a hermit, and Nicholas of Soissons left three sacks of biscuit. The island contained an apparently abandoned old hermitage, not proof that the whole island was empty."
 - id: C-006
   claim: "Joinville had the sailor's rescue by the Virgin depicted in his chapel at Joinville and in church windows at Blécourt."
   transcript: [U-00115–U-00117]
   centrality: supporting
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Verify the two locations, type of images, wording, and whether any material or documentary trace survives."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 650–651, chapter CXXIX, pp. 273–274"
+      note: "After recounting the rescue of Dragonet of Montauban's squire, Joinville says he had the miracle depicted in his chapel at Joinville and in the windows at Blécourt."
+    - source_id: SRC-010
+      locator: "pp. 285–295, treatment of the maritime miracle and its commissioned representations"
+      note: "Scholarly discussion confirms the two commemorative representations as part of Joinville's shaping of the miracle narrative."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "section 651, p. 274"
+      note: "The rescued man was a squire, not a sailor; the text says Joinville had the scene 'painted' in his chapel and in the glazing at Blécourt, but does not securely establish a surviving fresco in a village church."
+  status: resolved
+  script_treatment: correct
+  research_note: "Evidence tier 1 for the commission and tier 3 for interpretation. Say Joinville commissioned depictions of the squire's rescue in his chapel at Joinville and in stained-glass windows at Blécourt. Do not assert that either survives, that the first was necessarily a fresco, or that the rescued person was one of the sailors."
 - id: C-007
   claim: "Public theological disputations between Christian clerics and rabbis formed part of medieval clerical culture, and Joinville locates one such story at Cluny."
   transcript: [U-00120–U-00131]

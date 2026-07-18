@@ -43,3 +43,48 @@
   url: "https://www.persee.fr/doc/crai_0065-0536_1996_num_140_1_15558"
   access_date: "2026-07-18"
   locator: "Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres 140, no. 1, pp. 27–36"
+- id: SRC-006
+  author: "Robert Bartlett"
+  title: "The Making of Europe: Conquest, Colonization and Cultural Change, 950–1350"
+  date: "1993"
+  original_language: en
+  identifier: "ISBN 978-0-691-03780-6; OCLC 26722212"
+  url: "https://press.princeton.edu/books/paperback/9780691037806/the-making-of-europe"
+  access_date: "2026-07-18"
+  locator: "pp. 24–25, the Joinville family, castle, and hereditary seneschalship of Champagne"
+- id: SRC-007
+  author: "Caroline Smith"
+  title: "Crusading in the Age of Joinville"
+  date: "2006"
+  original_language: en
+  identifier: "DOI 10.4324/9781315258751; ISBN 978-0-7546-5363-9"
+  url: "https://doi.org/10.4324/9781315258751"
+  access_date: "2026-07-18"
+  locator: "Introduction and chapters 2–5, Louis IX's crusades and Joinville's participation"
+- id: SRC-008
+  author: "Institut de recherche et d'histoire des textes, Section romane"
+  title: "JONAS work notice 1839: Histoire de saint Louis"
+  date: "2012"
+  original_language: fr
+  identifier: "JONAS oeuvre 1839"
+  url: "https://jonas.irht.cnrs.fr/consulter/oeuvre/detail_oeuvre.php?oeuvre=1839"
+  access_date: "2026-07-18"
+  locator: "work description, detailed dating, and manuscript-witness list"
+- id: SRC-009
+  author: "Françoise Laurent"
+  title: "Un miroir à plusieurs faces. La Vie de saint Louis par Joinville"
+  date: "2017"
+  original_language: fr
+  identifier: "DOI 10.3406/crai.2017.96319; ISSN 0065-0536"
+  url: "https://doi.org/10.3406/crai.2017.96319"
+  access_date: "2026-07-18"
+  locator: "Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres 161, no. 4, pp. 1825–1852"
+- id: SRC-010
+  author: "Huguette Legros"
+  title: "Nostre roy saint Looÿs au péril de la mer dans la Vie de saint Louis de Joinville"
+  date: "2006"
+  original_language: fr
+  identifier: "DOI 10.4000/books.pup.3849; ISBN 978-2-8218-3592-4"
+  url: "https://doi.org/10.4000/books.pup.3849"
+  access_date: "2026-07-18"
+  locator: "in Mondes marins du Moyen Âge, pp. 285–295"
