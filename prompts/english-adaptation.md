@@ -20,7 +20,8 @@ incidental, colorful, or rhetorically repetitive.
 - Translate verified quotations directly from recorded source text, never Barbero's Italian.
 - Distinguish direct records, protocols, memoirs, recollections, composites, and anecdotes.
 - Follow every `script_treatment` and attach `[Q-...]`, `[C-...]`, and useful `[SRC-...]` markers.
-- Do not use `Q-030` as historical quotation; if retained, call it a later unverified anecdote.
+- Follow each ledger treatment exactly. Material marked `label-anecdotal` must be introduced as an
+  anecdote rather than presented as authenticated historical quotation.
 - Write for the ear with clear referents, varied sentence length, and natural transitions.
 - Use idiomatic, informal spoken English where the lecturer is addressing the audience. Prefer
   natural contractions such as “it's,” “we're,” “don't,” and “can't” unless the full form adds

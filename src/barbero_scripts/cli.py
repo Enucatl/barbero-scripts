@@ -9,6 +9,7 @@ import yaml
 from .audio import prepare, speaker_totals
 from .models import Episode
 from .render import render_recording, render_transcript, validate_episode
+from .scaffold import scaffold_episode
 from .transcript import transcribe
 from .util import read_json
 
@@ -16,6 +17,14 @@ from .util import read_json
 def parser() -> argparse.ArgumentParser:
     result = argparse.ArgumentParser(prog="barbero")
     commands = result.add_subparsers(dest="command", required=True)
+    initialization = commands.add_parser("init", help="scaffold a committed episode directory")
+    initialization.add_argument("--number", type=int, required=True)
+    initialization.add_argument("--slug", required=True)
+    initialization.add_argument("--title", required=True)
+    initialization.add_argument("--source", type=Path, required=True)
+    initialization.add_argument("--episodes-root", type=Path, default=Path("episodes"))
+    initialization.add_argument("--work-root", type=Path, default=Path("~/data/barbero/editorial"))
+    initialization.add_argument("--keyterm", action="append", default=[])
     prepare_parser = commands.add_parser("prepare", help="diarize and clean an episode")
     prepare_parser.add_argument("config", type=Path)
     prepare_parser.add_argument("--diarization-json", type=Path)
@@ -42,6 +51,21 @@ def set_selected_speaker(path: Path, speaker: str) -> None:
 
 def main() -> None:
     args = parser().parse_args()
+    if args.command == "init":
+        try:
+            destination = scaffold_episode(
+                number=args.number,
+                slug=args.slug,
+                title=args.title,
+                source=args.source,
+                episodes_root=args.episodes_root,
+                work_root=args.work_root,
+                keyterms=tuple(args.keyterm),
+            )
+        except FileExistsError as error:
+            raise SystemExit(str(error)) from error
+        print(f"Created {destination}")
+        return
     if args.command == "validate":
         errors = validate_episode(args.episode_dir)
         if errors:
