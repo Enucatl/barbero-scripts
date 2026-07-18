@@ -209,19 +209,21 @@ part of the historical causal chain.
 - **Range:** `U-00856`–`U-00962`
 - **Original audio:** 56:37–63:33
 - **Argument:** Necker finances French intervention in the American Revolution without new taxes by
-  selling life annuities, but flawed pricing and transfer rules deepen the debt while secrecy delays
-  recognition of the loss.
+  selling life annuities, but insufficiently age-differentiated pricing lets investors select
+  unusually long-lived measuring lives at subscription; later fiscal disclosure remains partial.
 - **Steps/examples:** Protestant director with nominal minister; French military aid; annuity-lottery
-  combination; longevity assumptions and resale to infants; censorship; court expenses only one
-  percent; dismissal.
+  combination; third-party nomination of measuring lives, Genevan pooling of selected young lives,
+  and resale of participations (not post-sale substitution of a measuring life); partial fiscal
+  disclosure; court-expense debate; dismissal.
 - **Digressions/analogies:** BOT/CCT, euros, vaccines, and modern “costs of politics.”
 - **Quotation targets:** None.
 - **Claim targets:** `C-027`, French intervention was important to American victory and sharply
-  increased royal debt (`U-00868`–`U-00895`); `C-028`, Necker's annuities were mispriced through
-  longevity and transferability loopholes (`U-00896`–`U-00943`); `C-029`, secrecy and censorship hid
-  rising debt while court expenditure was about one percent of the budget (`U-00944`–`U-00962`).
-- **Adaptation:** `preserve` — clarify dates, instruments, and the distinction between symbolic and
-  budgetary court costs.
+  increased royal debt (`U-00868`–`U-00895`); `C-028`, age-insensitive life-annuity terms enabled
+  third-party nomination and Genevan pooling of selected young lives (`U-00896`–`U-00943`); `C-029`,
+  disclosure was partial and court expenditure's exact share is uncertain (`U-00944`–`U-00962`).
+- **Adaptation:** `preserve` — clarify dates, instruments, and the difference between a transferable
+  payment right and the fixed measuring life; call eighteenth-century smallpox protection
+  inoculation or variolation, not vaccination.
 
 ## 12. Calonne's credit strategy reaches the wall
 
@@ -287,9 +289,9 @@ part of the historical causal chain.
   vitalizia; fisiocrazia (implicit in Turgot's land theory); bolla del Mississippi.
 - **Pronunciation targets:** Saint-Simon; Desmarets; Le Tellier; Ferme générale; John Law; Orléans;
   rue Quincampoix; Turgot; Clugny de Nuits; Jacques Necker; Calonne; Saint-Cloud.
-- **Transcript-only unresolved issues (6):** whether “Lo Stato sono io” is presented as authentic or
-  proverbial; exact Saint-Simon editions and whether passages are quotation or paraphrase; identity
-  of the “gran dama” praising Turgot; provenance of the Clugny saying and chansons; exact legal and
-  financial forms of Law's successive institutions and notes; several compressed dates (American
-  victory given as 1784, Estates-General discussion moving between 1788 and 1789) require external
-  chronology checks.
+- **Research resolutions carried into adaptation:** treat “L'État, c'est moi” as apocryphal;
+  identify Saint-Simon's passages as retrospective memoir evidence and distinguish quotation from
+  paraphrase; name Julie de Lespinasse and preserve the joint reference to Turgot and Malesherbes;
+  label the Clugny material as contemporary satirical reporting; separate Law's banknotes, bank
+  equity, company shares, and state debt; and correct the compressed American-war and 1788–89
+  Estates-General chronology.

@@ -1,1 +1,558 @@
-[]
+- id: SRC-001
+  author: "Pierre-Édouard Lémontey"
+  title: "Essai sur l'établissement monarchique de Louis XIV, et sur les altérations qu'il éprouva pendant la vie de ce prince"
+  date: "1818"
+  original_language: fr
+  identifier: "Google Books 9JH3PCj6zesC; digitized University of Michigan copy"
+  url: "https://books.google.com/books?id=9JH3PCj6zesC"
+  access_date: "2026-07-18"
+  locator: "Paris: Deterville, p. 327; earliest located printed attribution, published 103 years after Louis XIV's death"
+- id: SRC-002
+  author: "Bernard Vonglis"
+  title: "La monarchie absolue française: définition, datation, analyse d'un régime politique controversé"
+  date: "2006"
+  original_language: fr
+  identifier: "ISBN 2-296-00931-X; EAN 9782296009318"
+  url: "https://api.pageplace.de/preview/DT0400.9782296150959_A23450078/preview-9782296150959_A23450078.pdf"
+  access_date: "2026-07-18"
+  locator: "chapter 1, pp. 10–12; especially p. 11 nn. 2–4, citing Archives nationales U 2107, fol. 62 and X1a 8390, fols. 89–90, and BnF MS français 10276, pp. 326–327"
+- id: SRC-003
+  author: "Louis de Rouvroy, duc de Saint-Simon"
+  title: "Mémoires de Saint-Simon: 1705–1706"
+  date: "1897"
+  original_language: fr
+  identifier: "Volume 13 of Arthur de Boislisle's edition; Google Books LDNeAAAAIAAJ"
+  url: "https://books.google.com/books?id=LDNeAAAAIAAJ"
+  access_date: "2026-07-18"
+  locator: "Paris: Hachette, p. 86; new edition collated against the autograph manuscript"
+- id: SRC-004
+  author: "Hôtel de la Monnaie de Paris"
+  title: "Billet de monoye renouvellé et visé, 1,000 livres tournois"
+  date: "1707-06-15"
+  original_language: fr
+  identifier: "Banque de France collection, Citéco inventory A000001"
+  url: "https://www.citeco.fr/collection/billet-de-monnoye"
+  access_date: "2026-07-18"
+  locator: "Recto; renewed under the royal declaration of 24 May 1707; made at the Paris Mint on 15 June 1707; denomination 1,000 livres tournois; signed beneath the headings for the prévôt des marchands and syndic des marchands"
+- id: SRC-005
+  author: "Richard Bonney"
+  title: "Conclusions"
+  date: "2007"
+  original_language: fr
+  identifier: "DOI 10.4000/books.igpde.4597"
+  url: "https://books.openedition.org/igpde/4597"
+  access_date: "2026-07-18"
+  locator: "In Les modalités de paiement de l'État moderne, note 8; diplomatic transcription of billet de monnaie no. 29,211, dated 15 June 1707, and discussion of forced acceptance under Chamillart"
+- id: SRC-006
+  author: "Louis de Rouvroy, duc de Saint-Simon"
+  title: "Mémoires du duc de Saint-Simon"
+  date: "1856"
+  original_language: fr
+  identifier: "Adolphe Chéruel edition, volume 9; Wikisource index Saint-Simon - Mémoires, Chéruel, Hachette, 1856, octavo, tome 9.djvu"
+  url: "https://fr.wikisource.org/wiki/Page:Saint-Simon_-_M%C3%A9moires,_Ch%C3%A9ruel,_Hachette,_1856,_octavo,_tome_9.djvu/7"
+  access_date: "2026-07-18"
+  locator: "Paris: Hachette, vol. 9, pp. 4–12 (Wikisource scans 7–15); year 1710, chapter headed 'Dixième denier'; first complete edition conformed to the manuscript; pp. 9–12 contain the Council of Finance narrative"
+- id: SRC-007
+  author: "Pierre Bliard"
+  title: "Les mémoires de Saint-Simon et le père Le Tellier, confesseur de Louis XIV"
+  date: "1891"
+  original_language: fr
+  identifier: "Internet Archive lesmmoiresdesa00blia; Open Library OL24633420M"
+  url: "https://archive.org/details/lesmmoiresdesa00blia"
+  access_date: "2026-07-18"
+  locator: "Paris: E. Plon, Nourrit, pp. 372–378; quotes and challenges Saint-Simon's Maréchal anecdote, explicitly treating the alleged Sorbonne doctors' decision as a myth at p. 376 n. 2"
+- id: SRC-008
+  author: "John Law of Lauriston"
+  title: "Money and Trade Considered: With a Proposal for Supplying the Nation with Money"
+  date: "1705"
+  original_language: en
+  identifier: "Internet Archive moneytradeconsid00lawj; Project Gutenberg ebook 70784; accessible witness is the Glasgow 1750 reprint of the Edinburgh 1705 text"
+  url: "https://www.gutenberg.org/files/70784/70784-h/70784-h.htm"
+  access_date: "2026-07-18"
+  locator: "Chaps. VI–VII, pp. 157–169, especially pp. 157–161 and 166–169; concluding comparison pp. 188–191; page images at https://archive.org/details/moneytradeconsid00lawj"
+- id: SRC-009
+  author: "Louis de Rouvroy, duc de Saint-Simon"
+  title: "Mémoires du duc de Saint-Simon"
+  date: "1857"
+  original_language: fr
+  identifier: "Adolphe Chéruel edition, volume 12; Wikisource index Saint-Simon - Mémoires, Chéruel, Hachette, 1857, octavo, tome 12.djvu"
+  url: "https://fr.wikisource.org/wiki/Page:Saint-Simon_-_M%C3%A9moires,_Ch%C3%A9ruel,_Hachette,_1857,_octavo,_tome_12.djvu/116"
+  access_date: "2026-07-18"
+  locator: "Paris: Hachette, vol. 12, p. 113 (Wikisource scan 116); year 1715, chap. V, character portrait of Philippe, duc d'Orléans; edition conformed to Saint-Simon's manuscript"
+- id: SRC-010
+  author: "Eric P. Newman Numismatic Education Society / Washington University Libraries"
+  title: "Early Paper Money of America: La Louisiane, 1716–1718 Banque Generale; 50 ecus"
+  date: "1718-06-10"
+  original_language: fr
+  identifier: "Newman Numismatic Portal image collection 514335; image 610011; plate image from Early Paper Money of America, 5th ed."
+  url: "https://nnp.wustl.edu/library/imagedetail/610011?col=514335"
+  access_date: "2026-07-18"
+  locator: "Surviving Banque générale 50-écu note dated 10 June 1718; image 610011 and collection description/transcription at https://nnp.wustl.edu/library/imagecollection/514335"
+- id: SRC-011
+  author: "Banque royale"
+  title: "Billet de 100 livres tournois n° 401920"
+  date: "1719"
+  original_language: fr
+  identifier: "Paris Musées Collections node 101308; Musée Carnavalet object record"
+  url: "https://www.parismuseescollections.paris.fr/en/node/101308"
+  access_date: "2026-07-18"
+  locator: "Recto principal inscription; note no. 401920; text dated 1 April 1719; catalogue production date 1 August 1719; 100 livres tournois; 9.6 × 15.7 cm"
+- id: SRC-012
+  author: "Julie de Lespinasse"
+  title: "Lettres de Mlle de Lespinasse"
+  date: "1775-07-06"
+  original_language: fr
+  identifier: "Garnier Frères 1893 edition; Wikisource scan index Lettres de Mlle de Lespinasse (ed. Garnier).djvu"
+  url: "https://fr.wikisource.org/wiki/Lettres_de_Mlle_de_Lespinasse/Lettre_CXV"
+  access_date: "2026-07-18"
+  locator: "Paris: Garnier Frères, 1893, Letter CXV, Thursday 6 July 1775, pp. 258–263; passage on Malesherbes and Turgot at pp. 259–260; contemporary private letter to Jacques-Antoine-Hippolyte de Guibert, published posthumously"
+- id: SRC-013
+  author: "Joseph-Alphonse de Véri"
+  title: "Le règne de Louis XVI et la Révolution française, 1774–1799: Journal de l'abbé de Véri"
+  date: "1776-02-20"
+  original_language: fr
+  identifier: "Philippe Haudrère critical edition; ISBN 978-2-600-01963-7"
+  url: "https://www.chateauversailles-recherche.fr/corpus/article1462.html"
+  access_date: "2026-07-18"
+  locator: "Philippe Haudrère, ed. (Geneva: Droz, 2016), entry dated 20 February 1776, p. 413, under 'Propos caractéristique d'un ouvrier'; contemporary diary account; the Centre de recherche du château de Versailles identifies this as the paper reference edition"
+- id: SRC-014
+  author: "Nicolas de Condorcet"
+  title: "Vie de Monsieur Turgot"
+  date: "1786"
+  original_language: fr
+  identifier: "Institut Coppet digital edition PDF"
+  url: "https://www.coppetinstitute.org/EL/Turgot-Condorcet.pdf"
+  access_date: "2026-07-18"
+  locator: "pp. 62–63 of the digital edition, especially p. 62; retrospective biography published five years after Turgot's death, transmitting the familiar royal attribution in its narrative of the 1775 Flour War"
+- id: SRC-015
+  author: "Mathieu-François Pidansat de Mairobert"
+  title: "L'Espion anglois, ou Correspondance secrète entre Milord All'Eye et Milord All'Ear"
+  date: "1780"
+  original_language: fr
+  identifier: "Volume 4; Internet Archive lespionangloisou04mair; John Adams Library copy at the Boston Public Library"
+  url: "https://archive.org/details/lespionangloisou04mair"
+  access_date: "2026-07-18"
+  locator: "London [Amsterdam?]: John Adamson, vol. 4, Letter LV, pp. 233–235; exchange between de Vaines and Clugny at pp. 233–234; posthumous epitaph at p. 235; 1780 reprint of the political chronique first published in 1778"
+- id: SRC-016
+  author: "Assemblée nationale; Honoré-Gabriel Riqueti, comte de Mirabeau"
+  title: "Resolution taking the title National Assembly (17 June 1789) and refusal to disperse after the royal session (23 June 1789), in Archives parlementaires"
+  date: "1789-06-17/1789-06-23"
+  original_language: fr
+  identifier: "Persée arcpa_0000-0000_1875_num_8_1_4503_t2_0127_0000_7; arcpa_0000-0000_1875_num_8_1_4537_t2_0146_0000_5"
+  url: "https://www.persee.fr/doc/arcpa_0000-0000_1875_num_8_1_4503_t2_0127_0000_7"
+  access_date: "2026-07-18"
+  locator: "Archives parlementaires de 1787 à 1860, 1st ser., vol. 8 (Paris: Librairie Administrative P. Dupont, 1875), p. 127 (adopted resolution of 17 June) and p. 146 (23 June exchange, https://www.persee.fr/doc/arcpa_0000-0000_1875_num_8_1_4537_t2_0146_0000_5); retrospective documentary compilation, whose note states that Mirabeau's speech was not inserted in the Moniteur"
+- id: SRC-017
+  author: "Eugene N. White"
+  title: "Y avait-il une solution au dilemme financier de l'Ancien Régime ?"
+  date: "1992 [1989]"
+  original_language: en
+  identifier: "Journal of Economic History 49.3, pp. 545–568; French translation in Études et documents 4; Persée etudo_1241-3496_1992_num_4_1_992"
+  url: "https://www.persee.fr/doc/etudo_1241-3496_1992_num_4_1_992"
+  access_date: "2026-07-18"
+  locator: "French translation pp. 61–86, especially pp. 61–62, tables 1–3 at pp. 67–76, and conclusion pp. 84–86; original article 'Was There a Solution to the Ancien Régime's Financial Dilemma?', Journal of Economic History 49.3 (1989), pp. 545–568"
+- id: SRC-018
+  author: "Assemblée nationale"
+  title: "1788–1848 : les premières réflexions autour du suffrage"
+  date: "n.d."
+  original_language: fr
+  identifier: "French National Assembly institutional history"
+  url: "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/le-suffrage-universel/la-republique-et-le-suffrage-universel/1788-1848-les-premieres-reflexions-autour-du-suffrage"
+  access_date: "2026-07-18"
+  locator: "Opening section, paragraph beginning 'Le 8 août 1788,' linking the grave financial crisis to Louis XVI's convocation of the Estates-General for May 1789"
+- id: SRC-019
+  author: "Gwynne Lewis"
+  title: "France, 1715–1804: Power and the People"
+  date: "2004"
+  original_language: en
+  identifier: "ISBN 9780582239258; DOI 10.4324/9781315843377"
+  url: "https://api.pageplace.de/preview/DT0400.9781317891680_A35687213/preview-9781317891680_A35687213.pdf"
+  access_date: "2026-07-18"
+  locator: "chapter 1, 'Louis XIV and the Regent: war and peace,' pp. 13–15 (preview PDF pp. 29–32), especially sections 'Bourbon absolutism' and 'Checks and balances'"
+- id: SRC-020
+  author: "Andrew Mansfield"
+  title: "The reign of Louis XIV: absolute monarchy"
+  date: "2015"
+  original_language: en
+  identifier: "DOI 10.7228/manchester/9780719088377.003.0004"
+  url: "https://academic.oup.com/manchester-scholarship-online/book/20001/chapter/178951613"
+  access_date: "2026-07-18"
+  locator: "In Ideas of Monarchical Reform: Fénelon, Jacobitism, and the Political Works of the Chevalier Ramsay, chapter 4, pp. 105–128; abstract specifically identifies Saint-Simon's role in the duc de Bourgogne's aristocratic-monarchical reform project"
+- id: SRC-021
+  author: "Bibliothèque nationale de France"
+  title: "Louis de Rouvroy, duc de Saint-Simon, Mémoires: manuscrit autographe"
+  date: "1739–1749"
+  original_language: fr
+  identifier: "BnF Département des Manuscrits, NAF 23096–23107; exhibition item NAF 23096, fols. 84–85"
+  url: "https://expositions.bnf.fr/brouillons/grand/31.htm"
+  access_date: "2026-07-18"
+  locator: "Catalogue description for autograph manuscript, 2,854 pages in 11 volumes; composition 1739–1749; coverage 1691–1723; description discusses retrospective method and sources"
+- id: SRC-022
+  author: "Christopher Storrs"
+  title: "The Primacy of the Atlantic World 1688–1725?"
+  date: "2014"
+  original_language: en
+  identifier: "Chapter in Utrecht 1713: i trattati che aprirono le porte d'Italia all'Austria, edited by Gustavo Mola di Nomaglio and Giancarlo Melano"
+  url: "https://iris.unito.it/bitstream/2318/1904679/1/utrecht_si%20stampi.pdf"
+  access_date: "2026-07-18"
+  locator: "pp. 57–74, especially pp. 67–69 and p. 68 n. 46; calls the relief of Turin a decisive turning point and traces the subsequent Allied conquests in Italy"
+- id: SRC-023
+  author: "Noel D. Johnson"
+  title: "The Cost of Credibility: The Company of General Farms and Fiscal Stagnation in Eighteenth-Century France"
+  date: "2006"
+  original_language: en
+  identifier: "Essays in Economic & Business History 24; article 168"
+  url: "https://www.ebhsoc.org/journal/index.php/ebhs/article/download/168/149/337"
+  access_date: "2026-07-18"
+  locator: "pp. 2–3 and 5–11 of article PDF; especially discussion of 40 percent revenue share, lease structure, lending, and notes 14–23; note 19 cites average lease profit of 19 percent"
+- id: SRC-024
+  author: "Joël Félix"
+  title: "‘The most difficult financial matter that has ever presented itself’: paper money and the financing of warfare under Louis XIV"
+  date: "2018"
+  original_language: en
+  identifier: "Financial History Review 25.1, pp. 43–70; DOI 10.1017/S0968565017000294"
+  url: "https://www.cambridge.org/core/journals/financial-history-review/article/most-difficult-financial-matter-that-has-ever-presented-itself-paper-money-and-the-financing-of-warfare-under-louis-xiv/D7DA295698EBED10F26D9AF18AFA2037"
+  access_date: "2026-07-18"
+  locator: "sections II–IV, especially pp. 55–69: mint-bill origins and fiat circulation, depreciation against specie after 1706, coin scarcity and hoarding evidence, and the 1709 recoinage; pp. 67–68 state bills had lost most of their value"
+- id: SRC-025
+  author: "Eugene N. White"
+  title: "From privatized to government-administered tax collection: tax farming in eighteenth-century France"
+  date: "2004"
+  original_language: en
+  identifier: "Economic History Review 57.4, pp. 636–663; DOI 10.1111/j.1468-0289.2004.00291.x"
+  url: "https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0289.2004.00291.x"
+  access_date: "2026-07-18"
+  locator: "pp. 636–663, especially pp. 638–648 on fixed leases, monitoring, employees, credit, and residual profits, and pp. 654–660 on transition toward direct administration"
+- id: SRC-026
+  author: "Richard Bonney"
+  title: "Jean-Roland Malet: historien du ministère de Desmaretz"
+  date: "1994"
+  original_language: fr
+  identifier: "Jean-Roland Malet premier historien des finances de la monarchie française, chapter III; OpenEdition Books DOI 10.4000/books.igpde.9211"
+  url: "https://books.openedition.org/igpde/9211"
+  access_date: "2026-07-18"
+  locator: "chapter III, paras. 43–47 and notes 93–102; transcribes the declaration preamble and provides annual gross/net dixième receipts"
+- id: SRC-027
+  author: "Antonella Alimento"
+  title: "Le rêve de l'uniformité face à l'impôt : le projet du premier cadastre général en France"
+  date: "1993"
+  original_language: fr
+  identifier: "Histoire & Mesure 8.3–4, pp. 387–416; DOI 10.3406/hism.1993.1602"
+  url: "https://www.persee.fr/doc/hism_0982-1783_1993_num_8_3_1602"
+  access_date: "2026-07-18"
+  locator: "pp. 387–389, especially p. 387 describing the 1710 dixième as a proportional income tax"
+- id: SRC-028
+  author: "Louis de Rouvroy, duc de Saint-Simon"
+  title: "Mémoires complets et authentiques, tome IX"
+  date: "1856 [memoir composed 1739–1749]"
+  original_language: fr
+  identifier: "Adolphe Chéruel edition conformed to the autograph manuscript; Paris: Hachette"
+  url: "https://fr.wikisource.org/wiki/M%C3%A9moires_(Saint-Simon)/Tome_9/1"
+  access_date: "2026-07-18"
+  locator: "chapter 1, pp. 8–25 in the scan-backed Chéruel edition: formation of the bureau, royal and council procedure, assessment, yield, and financiers"
+- id: SRC-029
+  author: "Antoin E. Murphy"
+  title: "John Law et la gestion de la dette publique"
+  date: "2006"
+  original_language: fr
+  identifier: "La dette publique dans l'histoire; OpenEdition Books DOI 10.4000/books.igpde.1837"
+  url: "https://books.openedition.org/igpde/1837"
+  access_date: "2026-07-18"
+  locator: "paras. 2–10 and notes 1–8: 1715 budget and debt figures, bankruptcy alternatives, Law's proposal, council opposition, and private-bank authorization"
+- id: SRC-030
+  author: "François R. Velde"
+  title: "La dette en France de 1715 à 1726"
+  date: "2019"
+  original_language: fr
+  identifier: "Les crises de la dette publique, pp. 213–238; DOI 10.4000/books.igpde.6152"
+  url: "https://books.openedition.org/igpde/6152"
+  access_date: "2026-07-18"
+  locator: "pp. 213–220, especially paras. 5–15 on debt categories, the 1715–16 visa, conversions, and interest reductions"
+- id: SRC-031
+  author: "Richard Bonney"
+  title: "Les dettes de l'État à la mort de Louis XIV"
+  date: "1994"
+  original_language: fr
+  identifier: "Études et Documents 6, pp. 19–25; Persée etudo_1241-3496_1994_num_6_1_1084"
+  url: "https://www.persee.fr/doc/etudo_1241-3496_1994_num_6_1_1084"
+  access_date: "2026-07-18"
+  locator: "pp. 19–25, especially survey of estimates from 1.25 to 3.46 billion livres and warning about post-visa figures"
+- id: SRC-032
+  author: "Court of King's Bench"
+  title: "Wilson v Law"
+  date: "1694 [report published 1741]"
+  original_language: en
+  identifier: "1 Salkeld 98; 91 ER 510 (King's Bench)"
+  url: "https://vlex.co.uk/vid/wilson-v-law-803783721"
+  access_date: "2026-07-18"
+  locator: "case report opening 'John Law a Scot, gent': Old Bailey murder conviction, death judgment, reprieve, habeas corpus, and private appeal"
+- id: SRC-033
+  author: "Louis XV / Conseil de Régence"
+  title: "Lettres patentes contenant règlement pour la banque générale accordée au Sr. Law et à sa compagnie"
+  date: "1716-05-02 / 1716-05-20"
+  original_language: fr
+  identifier: "BnF, 4-FM-17525; royal letters patent and bank regulation"
+  url: "https://heritage.bnf.fr/france-ameriques/fr/john-law"
+  access_date: "2026-07-18"
+  locator: "letters patent of 2 May and regulation registered 20 May 1716, especially arts. I–VI on privilege, term, capital, shares, and operations"
+- id: SRC-034
+  author: "François R. Velde"
+  title: "Government Equity and Money: John Law's System in 1720 France"
+  date: "2003"
+  original_language: en
+  identifier: "Federal Reserve Bank of Chicago Working Paper 2003-31"
+  url: "https://www.chicagofed.org/-/media/publications/working-papers/2003/wp2003-31-pdf.pdf"
+  access_date: "2026-07-18"
+  locator: "pp. 10–50, especially institutional chronology pp. 10–25, collapse pp. 28–34, Visa pp. 35–41, and assessment pp. 44–50; tables 4, 7, and 9"
+- id: SRC-035
+  author: "Centre national de ressources textuelles et lexicales"
+  title: "Base historique du vocabulaire français: millionnaire"
+  date: "2012"
+  original_language: fr
+  identifier: "CNRTL/BHVF lexical record"
+  url: "https://cnrtl.fr/definition/bhvf/millionnaire"
+  access_date: "2026-07-18"
+  locator: "entry 'millionnaire,' lines/attestations dated 1719 and 1720, citing Le Nouveau Mercure, December 1719, p. 92, and July 1720, p. 42"
+- id: SRC-036
+  author: "Antoin E. Murphy"
+  title: "John Law: Economic Theorist and Policy-maker"
+  date: "1997"
+  original_language: en
+  identifier: "ISBN 9780198286493; online ISBN 9780191596674; DOI 10.1093/019828649X.001.0001"
+  url: "https://academic.oup.com/book/26243/chapter-abstract/194452641"
+  access_date: "2026-07-18"
+  locator: "chapter 15, 'A Specie-Less France, 1720,' pp. 213–230, abstract and chapter sequence; appointment as contrôleur général in January 1720"
+- id: SRC-037
+  author: "A. W. Wiston-Glynn"
+  title: "John Law of Lauriston: Financier and Statesman, Founder of the Bank of France, Originator of the Mississippi Scheme"
+  date: "1907"
+  original_language: en
+  identifier: "Project Gutenberg ebook 63453; London: Hurst and Blackett"
+  url: "https://www.gutenberg.org/files/63453/63453-h/63453-h.htm"
+  access_date: "2026-07-18"
+  locator: "chapter XI, pp. 150–154 in print pagination, especially p. 153: conversion at the Récollets church, Melun, 17 September 1719, described as preliminary to intended office"
+- id: SRC-038
+  author: "Louis de Rouvroy, duc de Saint-Simon"
+  title: "Mémoires complets et authentiques, tome XVIII, chapitre II"
+  date: "1857 [memoir composed 1739–1749]"
+  original_language: fr
+  identifier: "Chéruel edition conformed to the autograph manuscript"
+  url: "https://rouvroy.medusis.com/docs/1802.html"
+  access_date: "2026-07-18"
+  locator: "chapter II (1720), paragraphs 69–75, especially paragraph 70 on the 17 July bank crowd and ten or twelve deaths, and paragraph 74 on closure until further order"
+- id: SRC-039
+  author: "Eugene N. White"
+  title: "The French Revolution and the Politics of Government Finance, 1770–1815"
+  date: "1995"
+  original_language: en
+  identifier: "Journal of Economic History 55.2, pp. 227–255; DOI 10.1017/S0022050700041048"
+  url: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1CA4A56EC227DB6D5B84A14D04DE2504/S0022050700041048a.pdf/the-french-revolution-and-the-politics-of-government-finance-1770-1815.pdf"
+  access_date: "2026-07-18"
+  locator: "pp. 227–255, especially pp. 228–233 and table 1 on late-Old-Regime fiscal accounts, debt service, and the ordinary/extraordinary-account problem; conclusion pp. 250–253"
+- id: SRC-040
+  author: "Bibliothèque nationale de France"
+  title: "La France dans la guerre d'Indépendance américaine"
+  date: "n.d."
+  original_language: fr
+  identifier: "BnF France-Amériques digital exhibition"
+  url: "https://heritage.bnf.fr/france-ameriques/france-dans-guerre-dindependance-americaine"
+  access_date: "2026-07-18"
+  locator: "section 'La France dans un conflit mondial (1778-1783)', including the note on six million livres sent directly to American troops in May 1781"
+- id: SRC-041
+  author: "François R. Velde"
+  title: "The Case of the Undying Debt"
+  date: "2009"
+  original_language: en
+  identifier: "Federal Reserve Bank of Chicago Working Paper 2009-12; later Financial History Review 17.2 (2010), pp. 185–209"
+  url: "https://www.chicagofed.org/-/media/publications/working-papers/2009/wp2009-12-pdf.pdf"
+  access_date: "2026-07-18"
+  locator: "pp. 2–4: uniform life-annuity pricing, third-party heads, Genevan selection and thirty/fifty-head pools; p. 3: 1789 annual life-annuity interest of 105 million livres and fiscal revenues of 475 million; n. 9 cites Velde and Weir (1992)"
+- id: SRC-042
+  author: "François R. Velde and David R. Weir"
+  title: "The Financial Market and Government Debt Policy in France, 1746–1793"
+  date: "1992"
+  original_language: en
+  identifier: "Journal of Economic History 52.1, pp. 1–39; DOI 10.1017/S002205070001024X"
+  url: "https://www.cambridge.org/core/journals/journal-of-economic-history/article/abs/financial-market-and-government-debt-policy-in-france-17461793/15A623836DA5D950BA79E33E1781FA7A"
+  access_date: "2026-07-18"
+  locator: "pp. 1–39, especially pp. 29–33 and table 1 on the relative cost of new borrowing and increasing recourse to life annuities; Necker's first ministry discussed in the market-yield series"
+- id: SRC-043
+  author: "Jacques Necker"
+  title: "Compte rendu au Roi"
+  date: "1781"
+  original_language: fr
+  identifier: "First official public financial account of the Bourbon monarchy; digital copy"
+  url: "https://fr.wikisource.org/wiki/Compte_rendu_au_roi_par_M._Necker_ed._1781/I"
+  access_date: "2026-07-18"
+  locator: "introductory pages and the separate ordinary and extraordinary accounts; the published account reports an ordinary surplus while excluding war-financed extraordinary expenditure"
+- id: SRC-044
+  author: "Larousse"
+  title: "Charles-Alexandre de Calonne"
+  date: "n.d."
+  original_language: fr
+  identifier: "Larousse Encyclopédie biography"
+  url: "https://www.larousse.fr/encyclopedie/personnage/Charles_Alexandre_de_Calonne/110919"
+  access_date: "2026-07-18"
+  locator: "paragraph beginning 'Chargé de résoudre la crise financière': public-works policy intended to restore state confidence and make new borrowing succeed"
+- id: SRC-045
+  author: "Hervé Hasquin"
+  title: "Calonne, la banque Walkiers et le crédit de la France dans les Pays-Bas autrichiens (1784-1786)"
+  date: "2003"
+  original_language: fr
+  identifier: "Études et Documents 12; Persée etudo_1241-3496_2003_num_12_1_1423"
+  url: "https://www.persee.fr/doc/etudo_1241-3496_2003_num_12_1_1423"
+  access_date: "2026-07-18"
+  locator: "opening sections, especially the August 1784 Flanders loan: Calonne's longer-term policy sought to rebuild Belgian capitalists' confidence and finance a new sinking fund"
+- id: SRC-046
+  author: "Anne-Robert-Jacques Turgot"
+  title: "Lettre au roi sur les finances"
+  date: "1774-08-24"
+  original_language: fr
+  identifier: "Contemporary ministerial letter; George Mason University, Liberty, Equality, Fraternity document 252"
+  url: "https://revolution.chnm.org/d/252"
+  access_date: "2026-07-18"
+  locator: "Introduction and text of the 24 August 1774 letter, especially the three maxims: 'Point de banqueroute; point d'augmentation d'impôts; point d'emprunts.'"
+- id: SRC-047
+  author: "Anne-Robert-Jacques Turgot"
+  title: "Réflexions sur la formation et la distribution des richesses"
+  date: "1766 [first published 1769–1770]"
+  original_language: fr
+  identifier: "Œuvres de Turgot, ed. Eugène Daire (Paris: Guillaumin, 1844), digital text"
+  url: "https://fr.wikisource.org/wiki/R%C3%A9flexions_sur_la_formation_et_la_distribution_des_richesses"
+  access_date: "2026-07-18"
+  locator: "§§ XIV–XV on net product and the productive, salaried, and proprietor classes; §§ XCIII–XCVII on capital and the fiscal treatment of lending"
+- id: SRC-048
+  author: "Philippe Steiner"
+  title: "La liberté du commerce : le marché des grains"
+  date: "1994"
+  original_language: fr
+  identifier: "Dix-Huitième Siècle 26, pp. 201–219; DOI 10.3406/dhs.1994.1981"
+  url: "https://www.persee.fr/doc/dhs_0070-6760_1994_num_26_1_1981"
+  access_date: "2026-07-18"
+  locator: "pp. 201–219, especially pp. 203–208 and 209–217 on the eighteenth-century grain-commerce debate and its institutional, political, and moral dimensions"
+- id: SRC-049
+  author: "Larousse"
+  title: "Turgot (Anne Robert Jacques)"
+  date: "n.d."
+  original_language: fr
+  identifier: "Larousse, Dictionnaire de l'Histoire de France archive"
+  url: "https://www.larousse.fr/archives/histoire_de_france/page/1245"
+  access_date: "2026-07-18"
+  locator: "paragraphs on the March 1776 six edicts, the territorial contribution proposed in the Mémoire sur les municipalités, and dismissal on 13 May 1776"
+- id: SRC-050
+  author: "Conseil d'État du roi / Anne-Robert-Jacques Turgot"
+  title: "Arrêt du Conseil d'État, 13 septembre 1774, établissant la liberté du commerce des grains et farines dans l'intérieur du royaume"
+  date: "1774-09-13"
+  original_language: fr
+  identifier: "In Œuvres de Turgot, ed. Eugène Daire, vol. II, pp. 169–224; digital transcription"
+  url: "https://fr.wikisource.org/wiki/%C5%92uvres_de_Turgot_%28Daire%2C_1844%29/Actes_du_Minist%C3%A8re_de_Turgot/Sur_le_commerce_des_grains"
+  access_date: "2026-07-18"
+  locator: "Heading and text of the 13 September 1774 arrêt; establishes internal liberty of grain and flour commerce while reserving foreign sale for later decision"
+- id: SRC-051
+  author: "Jean-Baptiste Lenoir"
+  title: "Le lieutenant de police T. P. Lenoir, la guerre des farines et l'approvisionnement de Paris à la veille de la Révolution"
+  date: "1969"
+  original_language: fr
+  identifier: "Revue d'histoire moderne et contemporaine 16.4, pp. 473–491; DOI 10.3406/rhmc.1969.3050"
+  url: "https://www.persee.fr/doc/rhmc_0048-8003_1969_num_16_4_3050"
+  access_date: "2026-07-18"
+  locator: "pp. 473–491, especially the opening quotation from Lenoir's memoir and notes 1–2; a retrospective administrative account of the 1775 disorders and grain policy"
+- id: SRC-052
+  author: "Larousse"
+  title: "Jean Étienne Bernard, baron de Clugny de Nuits"
+  date: "n.d."
+  original_language: fr
+  identifier: "Larousse Encyclopédie biography"
+  url: "https://www.larousse.fr/encyclopedie/personnage/Jean_%C3%89tienne_Bernard_baron_de_Clugny_de_Nuits/113919"
+  access_date: "2026-07-18"
+  locator: "Biographical entry: contrôleur général May–October 1776; creation of the Loterie royale to address the deficit; reversal of Turgot's edicts"
+- id: SRC-053
+  author: "Académie de marine"
+  title: "Académicien : Jean Étienne Bernard de Clugny"
+  date: "n.d."
+  original_language: fr
+  identifier: "Académie de marine biographical notice"
+  url: "https://www.academiedemarine.fr/academicians/clugny-baron-de-nuits-de-jean-etienne-bernard/"
+  access_date: "2026-07-18"
+  locator: "Paragraph beginning 'Nommé contrôleur général des Finances le 21 mai 1776': appointment date, Loterie royale de France created in July 1776, and stated deficit-reduction purpose"
+- id: SRC-054
+  author: "James B. Collins"
+  title: "The crisis of 1787–1789"
+  date: "1995"
+  original_language: en
+  identifier: "The State in Early Modern France, chapter 7; Cambridge Core DOI 10.1017/CBO9780511628101.009"
+  url: "https://www.cambridge.org/core/books/state-in-early-modern-france/crisis-of-17871789/8711D46158D440A228EE5114AD14885A"
+  access_date: "2026-07-18"
+  locator: "Chapter 7 preview: identifies the fiscal crisis, the 1787 and 1788 Assemblies of Notables, and the Estates-General of 1789; notes that the Estates had not been called since 1614"
+- id: SRC-055
+  author: "Centre for Intellectual History, University of Oxford"
+  title: "Les États généraux et le roi de France : l’union imparfaite"
+  date: "n.d."
+  original_language: fr
+  identifier: "Oxford Centre for Intellectual History event description"
+  url: "https://intellectualhistory.web.ox.ac.uk/node/2244526"
+  access_date: "2026-07-18"
+  locator: "Opening paragraphs: three elected orders; extraordinary institution meeting eight times from 1484 to 1614 and not again until 1789"
+- id: SRC-056
+  author: "Founders Online, National Archives"
+  title: "Marquis de Lafayette to John Adams, 5 January 1787"
+  date: "1787-01-05"
+  original_language: en
+  identifier: "Adams Papers, vol. 18, document 282; editorial note 4"
+  url: "https://founders.archives.gov/documents/Adams/06-18-02-0282"
+  access_date: "2026-07-18"
+  locator: "Editorial note 4: 22 February 1787 Assembly of Notables, its 144 members, fiscal debates, public criticism, adjournment on 25 May, and failure to make fundamental policy change"
+- id: SRC-057
+  author: "Assemblée nationale"
+  title: "Des États généraux à l’Assemblée nationale – juin 1789 – octobre 1791"
+  date: "2019"
+  original_language: fr
+  identifier: "Assemblée nationale historical exhibition"
+  url: "https://www2.assemblee-nationale.fr/15/evenements/2019/la-revolution-s-affiche/des-etats-generaux-a-l-assemblee-nationale-juin-1789-octobre-1791"
+  access_date: "2026-07-18"
+  locator: "Sections on June 1789: 17 June National Assembly, 23 June royal session and refusal to leave; later paragraph situates the Bastille and Great Fear"
+- id: SRC-058
+  author: "Virginie Martin and Gilles Montègre"
+  title: "Diplomatie et mobilités : introduction générale"
+  date: "2020"
+  original_language: fr
+  identifier: "Publications de l’École française de Rome, pp. 7–40"
+  url: "https://books.openedition.org/efr/64805"
+  access_date: "2026-07-18"
+  locator: "pp. 7–8, paragraph 1: Korff passport, Fersen/Simolin/Montmorin connection, and failed royal flight stopped at Varennes on 21 June 1791"
+- id: SRC-059
+  author: "Assemblée nationale"
+  title: "Décembre 1792 – Janvier 1793 : procès et exécution de Louis XVI"
+  date: "n.d."
+  original_language: fr
+  identifier: "Assemblée nationale institutional history"
+  url: "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/revolution-francaise/proces-et-execution-de-louis-xvi"
+  access_date: "2026-07-18"
+  locator: "Opening paragraph: 10 August 1792 capture of the Tuileries and Louis XVI's imprisonment in the Temple"
+- id: SRC-060
+  author: "René Bittard des Portes"
+  title: "Lettres parisiennes d’un révolutionnaire poitevin : lettre du 7 décembre 1792"
+  date: "1792-12-07"
+  original_language: fr
+  identifier: "Presses universitaires François-Rabelais, chapter 22"
+  url: "https://books.openedition.org/pufr/34308"
+  access_date: "2026-07-18"
+  locator: "Letter dated 7 December 1792, paragraph beginning 'Il est vrai que la découverte': discovery of the armoire de fer on 20 November and its effect on the decision to try Louis XVI"
+- id: SRC-061
+  author: "Archives nationales"
+  title: "France. Convention nationale (1792–1795)"
+  date: "n.d."
+  original_language: fr
+  identifier: "Archives nationales authority record 051694"
+  url: "https://rdf.archives-nationales.culture.gouv.fr/garance/entities/agent/051694/"
+  access_date: "2026-07-18"
+  locator: "Context section: abolition of monarchy 21 September 1792, execution 21 January 1793, foreign coalition, internal revolt, economic difficulties, and exceptional government measures from 1793"
+- id: SRC-062
+  author: "François Moncassin"
+  title: "Procès des Fermiers généraux"
+  date: "n.d."
+  original_language: fr
+  identifier: "Dictionnaire numérique de la Ferme générale, notice 269; Archives nationales W 362, dossier 785"
+  url: "https://fermege.meshs.fr/notice/269"
+  access_date: "2026-07-18"
+  locator: "Opening paragraphs and sources: Tribunal révolutionnaire judgment of 19 Floréal Year II (8 May 1794), twenty-eight condemned; AN W 362 dossier 785; Farm abolished by law of 20–27 March 1791; formal political-conspiracy verdict"
