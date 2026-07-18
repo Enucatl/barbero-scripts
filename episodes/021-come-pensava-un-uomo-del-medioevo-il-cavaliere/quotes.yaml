@@ -282,54 +282,58 @@
   barbero_utterances: [U-00495–U-00506]
   barbero_timestamp: "38:57"
   attribution: "Louis IX to Jean de Joinville"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate Louis's private apology and reported endorsement of inherited noble dress over a wealthy commoner's display; determine how closely Barbero follows Joinville."
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Et lors me dist que il nous avoit appelez pour li confesser à moy de ce que à tort avoit deffendu maistre Robert encontre moy. « Mais, fist-il, je le vi si esbahi que il avoit bien mestier que je li aidasse. Et toutes voiz ne vous tenez pas à chose que je en deisse pour maistre Robert deffendre; car, aussi comme li seneschaus dist, vous vous devez bien vestir et nettement, pour ce que vos femmes vous en ameront miex, et vostre gent vous en priseront plus. Car, ce dit li saiges, on se doit assemer en robes et en armes en tel manière que li preudome de cest siècle ne dient que on en face trop, ne les joenes gens de cest siècle ne dient que on en face pou. »"
+  translation: "Then he told me that he had called us so that he could confess to me that he had wrongly defended Master Robert against me. 'But,' he said, 'I saw him so bewildered that he badly needed my help. Still, do not attach importance to anything I said in Master Robert's defense, for, as the seneschal says, you ought to dress well and neatly, so that your wives will love you the more and your people will esteem you more. For, as the wise man says, one should adorn oneself in clothing and arms in such a way that the worthy men of this world do not say one does too much, nor the young people of this world say one does too little.'"
+  locator: "section 38, chapter VI, pp. 15–16; private audience arranged at section 37, p. 15"
+  translation_notes: "Direct translation from Natalis de Wailly's Old French edition. Louis does acknowledge that he defended Robert wrongly and says he intervened because Robert looked so bewildered that he needed help. Joinville presents this as Louis 'confessing' the wrong to him, not as the exact apology 'I must apologize,' though that is a fair modern description. The meeting is discreet but not literally one-to-one: Louis calls his son Philip and King Thibaut as well as Joinville, seats them very close at the door of his oratory so that others cannot hear, and then makes the admission. Most importantly, Barbero adds a class doctrine not spoken by Louis. Louis does not say that nobles should wear fur because their fathers and grandfathers did, nor that a newly rich commoner must not dress at their level. He endorses Joinville's right to dress well and neatly, saying wives will love such men more and their people will esteem them more, then recommends a mean in clothing and arms: not so much that worthy or sober men criticize the excess, and not so little that young people find it inadequate. The inherited-parental dress and Robert's low birth belong to Joinville's earlier retort, not to Louis's concluding rule."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Confirmed in Joinville section 38, but composite in Barbero's telling. Evidence tier 1 for the transmitted first-person Old French account. Preserve Louis's admission that he defended Robert wrongly out of compassion for his embarrassment and his practical endorsement of dignified dress; remove the purported royal statement about inherited noble fur and parvenus, which transfers Joinville's preceding class insult into Louis's mouth and exaggerates the king's actual balanced rule."
 - id: Q-022
   barbero_utterances: [U-00514–U-00531]
   barbero_timestamp: "40:18"
-  attribution: "Count of Champagne to Érard de Nogent"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate the account in which the count gives Érard to a poor knight to hold for ransom; verify identities, wording, and whether Joinville witnessed or repeated it."
+  attribution: "Henry I of Champagne to Artaud de Nogent, as reported by Jean de Joinville"
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Ertaus de Nogent fu li bourgois dou monde que li cuens creoit plus; et fu si riches que il fist le chastel de Nogent-l'Ertaut de ses deniers. [...] Aus piez des degrez vint au devant de li uns povres chevaliers, qui s'agenoilla devant li, et li dist ainsi : « Sire, je vous pri pour Dieu que vous me donnés dou vostre, par quoy je puisse marier mes dous filles, que vous veez ci. » Ertaus, qui aloit dariere li, dist au povre chevalier : « Sire chevaliers, vous ne faites pas que courtois de demander à mon signour; car il a tant donnei que il n'a mais que donner. » Li larges cuens se tourna devers Ertaut, et li dist : « Sire vilains, vous ne dites mie voir, de ce que vous dites que je n'ai mais que donner : si, ai vous-meismes. — Et tenez, sire chevaliers, car je le vous doing, et si le vous garantirai. » Li chevaliers ne fu pas esbahiz, ainçois le prist par la chape, et li dist que il ne le lairoit jusques à tant que il averoit finei à li. Et avant que il li eschapast, ot Ertaus finei à li de cinq cens livres."
+  translation: "Artaud de Nogent was the burgess in all the world whom the count trusted most, and he was so rich that he built the castle of Nogent-l'Artaud with his own money. [...] At the foot of the steps a poor knight came before him, knelt, and said: 'My lord, I beg you for God's sake to give me something of yours with which I may marry my two daughters, whom you see here.' Artaud, who was walking behind him, said to the poor knight: 'Sir knight, you are behaving discourteously by asking my lord, for he has given so much that he has nothing left to give.' The generous count turned toward Artaud and said: 'Sir villein, what you say—that I have nothing left to give—is not true. I still have you yourself. Here, sir knight: I give him to you, and I will guarantee him to you.' The knight was not taken aback; instead he seized Artaud by the cloak and said he would not release him until Artaud had settled with him. Before Artaud escaped him, he had settled with the knight for five hundred livres."
+  locator: "sections 89–91, chapter XX, pp. 39–40"
+  translation_notes: "Direct translation from Natalis de Wailly's Old French edition. The count is Henry I of Champagne, called Henry the Liberal or the Generous, who ruled from 1152 to 1181. The burgess's name in Joinville is Ertaus or Ertaut, conventionally modernized as Artaud de Nogent, not Érard. Joinville calls him the count's most trusted burgess and rich enough to build Nogent-l'Artaud castle with his own money. The scene is set at Troyes on Pentecost as Henry descends from his hall to hear Mass at Saint-Étienne. The poor knight kneels and asks for a gift to marry his two daughters, who are present. Artaud calls the request discourteous and says the count has nothing left. Henry calls him 'sire vilains,' gives Artaud himself to the knight, and promises to guarantee the gift. Contrary to Barbero's physical staging, the count does not grab or throw Artaud: the knight promptly seizes him by his cloak and refuses release until Artaud settles for five hundred livres. Joinville does not say that news then circulates through France or that knights rejoice; he introduces the tale as proof of Henry's worldly generosity. Because Joinville was born around 1224, more than forty years after Henry died, he could not have witnessed it. Parallel thirteenth-century exemplary versions in Jacques de Vitry and Stephen of Bourbon confirm that a story of this type circulated, while their variant details show that this is anecdotal tradition rather than a verbatim record of twelfth-century speech."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Confirmed as an anecdote in Joinville sections 89–91, with corroborating but variant medieval transmissions. Evidence tier 1 for what Joinville's Old French text says and evidence tier 2 for the underlying event as a widely transmitted exemplary story. Correct Érard to Artaud, identify Henry the Liberal and the Troyes Pentecost setting, retain the two daughters and five-hundred-livre settlement, and make the poor knight—not the count—seize Artaud. Do not present Joinville as an eyewitness or the reported dialogue as stenographic speech."
 - id: Q-023
   barbero_utterances: [U-00533–U-00549]
   barbero_timestamp: "41:49"
-  attribution: "Royal sergeant, under a customary reconciliation procedure"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate the sergeant's formula offering his hand to the knight and verify the threatened penalty, clothing, posture, custom, and expected pardon."
+  attribution: "Le Goulu, a royal sergeant, as reported by Jean de Joinville"
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Li tiers jugemens que je vi rendre à Cezaire si fu teix, que uns serjans le roy, qui avoit à non le Goulu, mist main à un chevalier de ma bataille. Je m'en alai pleindre au roy. Li roys me dist que je m'en pooie bien souffrir, ce li sembloit; que il ne l'avoit fait que bouter. Et je li dis que je ne m'en soufferroie jà; et se il ne m'en fesoit droit, je lairoie son servise, puisque sui serjant boutoient les chevaliers. Il me fist faire droit, et li drois fu teix, selonc les usaiges dou pais, que li serjans vint en ma herberge deschaus, en chemise et en braies, sanz pluz, une espée toute nue en sa main, et s'agenoilla devant le chevalier, print l'espée par la pointe et tendi le plommel au chevalier, et li dist : « Sire, je vous ament ce que je mis main à vous; et vous ai aportée ceste espée pour ce que vous me copez le poing, se il vous plait. » Et je priai au chevalier que il li pardonaast son maltalent; et si fist-il."
+  translation: "The third judgment that I saw given at Caesarea was this. One of the king's sergeants, named Le Goulu, laid hands on a knight of my company. I went to complain to the king. The king told me that, in his view, I could well let the matter pass, since the sergeant had only shoved him. I said I would not let it pass, and that if the king did not give me justice I would leave his service, since his sergeants were shoving knights. He had justice done for me, and the judgment, according to the customs of the country, was this: the sergeant came to my quarters barefoot, wearing only his shirt and breeches, with a bare sword in his hand. He knelt before the knight, took the sword by its point, offered the pommel to the knight, and said: 'My lord, I make amends to you for laying hands on you, and I have brought you this sword so that you may cut off my fist, if it pleases you.' I asked the knight to forgive his resentment against the sergeant, and he did so."
+  locator: "sections 509–510, chapter XCIX, pp. 213–214; Caesarea judgment sequence introduced at section 505, p. 212"
+  translation_notes: "Direct translation from Natalis de Wailly's Old French edition. Joinville says he personally witnessed this judgment at Caesarea while Louis was staying there. The royal sergeant is named Le Goulu. He 'laid hands' on a knight in Joinville's contingent; Louis initially minimizes the act as only a shove, but Joinville threatens to leave royal service if no justice is done. The text calls the resulting procedure a judgment 'according to the customs of the country,' meaning the local Caesarea or eastern setting; it should not be universalized as an ordinary rule throughout medieval Europe. The sergeant comes to Joinville's quarters barefoot and wearing only a shirt and braies or under-breeches. He does not extend his hand for cutting. He carries a bare sword, kneels, grips it by the point, and offers the pommel to the knight so that the knight may cut off his fist if he wishes. His formula makes amends for laying hands on the knight; it is not Barbero's generalized plea for pardon. Joinville then personally asks his knight to forgive the sergeant's hostility or offense, and the knight agrees. The source neither says that the custom was never enforced nor reports a crowd repeatedly urging pardon. Its structure plainly creates an opportunity for mercy, but Joinville does not explain whether mutilation was a regularly executed penalty or a formal symbolic threat."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Confirmed verbatim in Joinville sections 509–510 and analyzed in scholarship as one of the local judgments he witnessed at Caesarea. Evidence tier 1 for Joinville's transmitted eyewitness account of the proceeding. Preserve the status conflict, Joinville's threat to resign, the barefoot and minimally clothed penitent, the naked sword, and the pardon; name Le Goulu, make him offer the sword rather than his hand, and avoid claiming either a universal medieval law or a documented rule that the threatened mutilation was never carried out."
 - id: Q-024
   barbero_utterances: [U-00563–U-00567]
   barbero_timestamp: "44:17"
-  attribution: "Medieval proverb, unspecified"
-  source_id: null
+  attribution: "Unauthenticated saying presented by Barbero as a medieval proverb"
+  source_id: SRC-003
   original_language: null
   original_text: null
   translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Identify the proverb that a boy not mounted by age eight is fit only to be a priest; find its original language, date, wording, and source."
+  locator: "Rodrigues, pp. 204–222, discussion of King Duarte's instructions for teaching children to ride; citing Shahar, Childhood in the Middle Ages, pp. 201–211"
+  translation_notes: "No original-language version or medieval source for the claimed proverb could be located. Searches of English, French, Italian, German, and likely translated formulations found no trace of the fixed saying that a boy not mounted by eight was fit only to become a priest. It does not occur in Joinville's Histoire de Saint Louis, and it should not be reconstructed by back-translating Barbero. The underlying historical point is nevertheless well established. Rodrigues's peer-reviewed study of the Portuguese royal horsemanship tradition notes that King Duarte gives extensive instructions for teaching children to ride, although Duarte supplies no fixed starting age. Citing Shulamith Shahar, Rodrigues reports that aristocratic boys sat before adults on horseback from a tender age and that many already rode when sent to another lord's household at about seven; Duarte advises beginning gently with a healthy, tractable, properly fitted mount. This supports early aristocratic equestrian education, but not the exact age-eight threshold, the dismissive reference to priesthood, or the existence of a medieval proverb."
+  confidence: medium
+  status: resolved
+  script_treatment: paraphrase
+  research_note: "The specific proverb is not authenticated after iterative multilingual web, book, proverb-dictionary, and primary-text searches. Treat that negative result as a resolved editorial decision, not an open research flag. Evidence tier 2 strongly supports the underlying claim that aristocratic riding instruction began in childhood, often by approximately age seven, and late medieval King Duarte supplies primary instructional evidence without a numerical age. Replace the alleged proverb with a sourced paraphrase about training from early childhood; do not quote the priest punchline as medieval speech."
 - id: Q-025
   barbero_utterances: [U-00574–U-00586]
   barbero_timestamp: "45:09"
