@@ -559,3 +559,310 @@ Fortunately, Louis laughs openly. He tells Joinville to bring the pilgrims in. T
 and the two sides commend one another to God. [Q-014] [C-017]
 
 Another time, the issue is money.
+
+## 9. Crusading accounts—and a different bargain
+
+And perhaps I should pause here for a moment.
+
+I've been talking about crusading knights. Soon we'll talk about courage in war, courtesy,
+chivalric ideals. So far we've talked about faith, crusade, martyrdom. Money might seem to have
+nothing whatever to do with any of this.
+
+Wrong.
+
+Money has everything to do with it.
+
+A crusade costs an enormous amount. It's a vast enterprise that has to be planned, and the very
+first thing is to find the money. Once you have that, you can organize the army, recruit and retain
+knights and other troops, secure horses, weapons, attendants, food, transport, ships, and stores.
+That is ruinously expensive. The ships were contracted or hired—not simply all built from scratch
+for Louis—but either way, money is everywhere. [C-019] [SRC-017] [SRC-018]
+
+A group of knights who go on crusade in a lord's following are very often serving under a paid
+arrangement. Yes, there is still the feudal system: lords have vassals who owe them service. Those
+bonds haven't vanished, and it would be an exaggeration to say that nobody serves without pay any
+longer. Household loyalty, kinship, feudal duty, chivalric honor, and religious conviction all
+still matter.
+
+But prolonged service is expensive—especially prolonged service overseas. Even vassals who
+follow a lord on an enterprise as dangerous as a crusade have to be supported. Pay is fundamental.
+[C-018] [SRC-016]
+
+If you can assemble a company made entirely of your own vassals and relatives, so much the better.
+At one point Joinville sees a group fight particularly well and explains that they were all the
+vassals or relatives of their lord. But that isn't the whole army. Ordinarily, men are retained
+for money—and can also be dismissed, like the discourteous knight Joinville had expelled from his
+household.
+
+So you have to pay them.
+
+Joinville gives us wonderfully concrete figures. When he left, the land available to him brought
+in less than one thousand livres a year, because his mother was still alive. He mortgaged a large
+amount of land and departed with a company of ten knights including himself—not ten besides
+himself—and three of the ten were bannerets. [Q-015]
+
+After paying for his ship, he reached Cyprus with only 240 livres tournois left. Some of his
+knights warned that if he couldn't find more money, they would leave. Then Louis summoned him,
+retained him in royal service, and put 800 livres in his coffers. Suddenly, Joinville says, he had
+more than he needed. [Q-015]
+
+That gives you the structure. A great lord such as Joinville arrives with his mounted company—men
+with armor, horses, servants, all the rest—and the king in turn retains the whole unit. Money is
+involved at every level. [C-018] [C-019]
+
+End of digression.
+
+At Caesarea, while the king was having the city fortified, their existing engagement was about to
+expire at Easter. Louis called Joinville aside and asked what he should be paid to remain for
+another year.
+
+Now, the story as it is often retold makes Louis penniless and Joinville magnificently offer six
+months of service for free. That isn't what Joinville says. He asks for no more money than Louis
+had paid under the previous arrangement. But he does want a different kind of payment—a different
+condition in the bargain. [Q-016]
+
+“Because,” he tells the king, “you become angry whenever someone asks you for something, I want
+you to agree that if I ask you for anything during this whole year, you will not become angry; and
+if you refuse me, I will not become angry either.” [Q-016]
+
+That's the bargain. Not that the king must never be angry with him for an entire year. Louis must
+not get angry when Joinville asks for something, and Joinville promises not to get angry if Louis
+says no.
+
+When Louis hears this, he laughs openly and accepts. Then he takes Joinville by the hand, leads him
+to the papal legate and the royal council, and tells everyone about the agreement. They're
+delighted, Joinville says, because by then he was the richest man in the army. [Q-016]
+
+So this isn't quite the grand gesture of a nobleman proving that he isn't a merchant by serving
+for nothing. The money still counts, and Joinville still counts it. But the nonfinancial bargain
+is delightful—and it tells you just how often Louis lost his temper when people asked him for
+things.
+
+Living beside Saint Louis wasn't easy. It wasn't easy at all. The saint himself didn't always
+understand that *he* was a saint and couldn't expect everyone else to do exactly what he did.
+
+## 10. The saint other people couldn't imitate
+
+Louis demonstrated his holiness constantly, and people were astonished by it.
+
+At Sidon in 1253, unburied Christian bodies were still lying outside the city. These weren't fresh
+corpses from a battle just beyond the crusader camp in Africa. They were decomposing bodies at
+Sidon, and Louis personally began carrying them into burial trenches. Once the king did that, the
+others were ashamed not to join him. [C-020] [SRC-002]
+
+On another occasion—again, a separate story—the royal ship struck a sandbank near Cyprus on the
+voyage home in 1254 and was badly damaged. The shipmasters advised Louis to move with his wife and
+children to another vessel.
+
+But Louis said that if he abandoned the damaged ship, the five hundred or more people still aboard
+might be too frightened to sail in it. They could be left stranded on Cyprus and perhaps never
+reach home.
+
+So he said:
+
+“There is not one among them who does not love his life as much as I love mine.” [Q-017]
+
+And rather than cause such harm to so many people, he would place himself, his wife, and his
+children in God's hands and remain aboard.
+
+The interesting thing isn't only his concern for the poorer passengers—something not every king
+of the period would necessarily have shared. It's also the way Louis speaks about his own life.
+He loves it. That seems perfectly obvious to him. *I love my life; I know they love theirs too.*
+[C-020]
+
+But as I said, living close to a man like this wasn't easy. Joinville gives us story after story.
+
+One day Louis is talking with Joinville in front of two friars and suddenly puts a question to
+him.
+
+“Now I ask you, which would you rather: that you were a leper, or that you had committed a mortal
+sin?” [Q-018]
+
+Joinville answers immediately—he says he never lied to the king:
+
+“I would rather have committed thirty than be a leper.” [Q-018]
+
+And he receives a memorable lecture. Not at once, in fact. The next day, after the friars have
+left, Louis calls him aside, makes him sit at his feet, and asks why he said such a thing.
+
+Joinville tells him he still thinks the same.
+
+Louis calls him a rash fool. Bodily leprosy, he explains, ends when the body dies. Mortal sin may
+remain unforgiven and endanger the soul forever. So Joinville should prefer every bodily
+misfortune—leprosy, any illness whatever—to allowing mortal sin into his soul. [Q-018]
+
+Another time, Louis asks Joinville whether he washes poor people's feet on Maundy Thursday. Louis
+himself did perform ritual foot washing, in imitation of Christ, but Joinville doesn't first watch
+him do it in this particular scene. The king simply asks about Joinville's own practice. [C-021]
+
+“My lord,” Joinville answers, “God forbid! I will never wash the feet of those common people.”
+[Q-019]
+
+And once again Louis is appalled.
+
+“Truly, that was badly said, for you must not disdain what God did for our instruction. So I ask
+you, first for the love of God and then for love of me, to accustom yourself to washing them.”
+[Q-019]
+
+Joinville doesn't record any promise to comply.
+
+He says what comes into his head. He doesn't worry too much about it.
+
+And with that—“I will never wash the feet of those common people”—we can perhaps leave the
+religious dimension aside. It has occupied us for quite a while, though after all this man is a
+crusader. We can turn to the other absolutely central dimension in the life and mentality of these
+knights.
+
+Their aristocratic view of the world.
+
+## 11. Noble blood and Robert de Sorbon
+
+In that view, society is divided.
+
+There are gentlemen, nobles, knights, lords—and they are the best people there are.
+
+And then there are the *vilains*.
+
+That Old French word is flexible. Depending on context it may mean peasants, common people,
+non-nobles, the low-born, or simply people treated as base and contemptible. Joinville can use it
+for the poor whose feet he refuses to wash, for low-born parents, and for a fantastically rich
+burgess. So we shouldn't turn it into one fixed legal category, or translate it every time as
+“peasant.” But the broad aristocratic opposition is real enough: us, the noble people—and all the
+rest. [C-023] [SRC-021]
+
+Merchants and financiers may have made money—sometimes more money than the knights. That doesn't
+make them noble. In the automatic worldview of men like Joinville, the only truly worthy people
+are the nobles, the gentlemen, the knights.
+
+The stories are endless.
+
+At Pentecost, at Corbeil, Joinville comes to court. Master Robert de Sorbon takes him by the hem of
+his cloak and leads him to the king, while the other knights follow.
+
+Robert is a remarkable man: born outside the nobility, he rose through the Church to become a
+master of theology and royal cleric. In 1253 he founded a theological college, confirmed by Louis
+in 1257, which became known as the Sorbonne. He did not found the University of Paris; his college
+was founded within the university that already existed. [C-022] [SRC-020]
+
+Joinville is wondering what on earth is happening—yes, “what on earth,” because every now and then
+one slips.
+
+Robert brings him before the king and constructs an analogy. If the king were sitting on a bench
+and Joinville sat above him on that same bench, wouldn't Joinville rightly be blamed?
+
+Yes, Joinville says.
+
+Then Robert says Joinville is likewise to blame for dressing more nobly than the king. Joinville
+is wearing green cloth and vair, that prestigious squirrel fur, while Louis is not. [Q-020]
+
+Joinville reacts with extraordinary harshness.
+
+“Master Robert, saving your grace, I am not to blame if I dress in green and vair, for my father
+and mother left me this mode of dress. But you are to blame, for you are the son of a villein man
+and a villein woman, and you have abandoned the dress of your father and mother and are dressed in
+richer camelin cloth than the king.” [Q-020]
+
+Not, strictly speaking, *this particular garment was bequeathed to me by my father*. Joinville
+says that his father and mother left him this way of dressing—his inherited aristocratic station
+and its appropriate display. And he doesn't establish that Robert's father had one particular
+peasant occupation. The insult is that both parents were low-born.
+
+Then Joinville physically takes the hem of Robert's surcoat and the hem of the king's and compares
+them. Look. Am I telling the truth or not?
+
+It is a deeply unpleasant scene. Louis steps in and defends the humiliated Robert with all his
+might.
+
+But there is an aftermath.
+
+Later, in a discreet conversation with Joinville, the king admits that he had defended Robert
+wrongly. He had seen Robert so bewildered, Louis says, that the man badly needed his help. But
+Joinville shouldn't attach importance to the arguments Louis used in Robert's defense.
+
+Then Louis gives his actual rule:
+
+“You ought to dress well and neatly, so that your wives will love you the more and your people
+will esteem you more.” A man should adorn himself in clothes and arms so that worthy men don't
+think it excessive, while the young don't think it inadequate. [Q-021]
+
+That is not the sweeping class doctrine Barbero's retelling sometimes places in Louis's mouth.
+Louis doesn't say nobles may wear fur because their fathers and grandfathers did, while newly rich
+commoners must never imitate them. The inherited-rank insult belongs to Joinville's earlier reply.
+Louis admits that Joinville was right to dress well, but recommends a balanced, dignified display.
+[Q-021]
+
+The aristocratic belief itself, however, was deeply rooted and extremely long-lived. Claims of
+hereditary distinction survived the French Revolution and remained powerful among many noble
+families into the nineteenth century. But revolutions, legal equality, ennoblement, intermarriage,
+and national differences transformed what nobility meant. We shouldn't imagine one unchanged
+belief held by every European noble all the way to 1900. [C-024] [SRC-022] [SRC-023]
+
+And yet Joinville knows perfectly well that some of these newly rich commoners have made so much
+money that they have become important. They buy castles. They hold office at court.
+
+That is not easy to accept.
+
+And nothing is more satisfying, in an aristocratic story, than seeing one of them put back in his
+place.
+
+## 12. Putting rich commoners in their place
+
+Joinville tells a famous story about the court of Henry I of Champagne—Henry the Liberal. This is
+an older story, set at Troyes on Pentecost in the twelfth century, more than forty years before
+Joinville was born. He isn't an eyewitness. Variant medieval versions show that it circulated as
+an exemplary tale about princely generosity and social rank. [C-025]
+
+Henry's most trusted burgess was an immensely rich man named Artaud de Nogent—not Érard. Artaud
+was rich enough to build the castle of Nogent-l'Artaud with his own money.
+
+As the count is going down from his hall to hear Mass at Saint-Étienne, a poor knight comes before
+him, kneels, and begs for a gift so that he can provide marriages for his two daughters, who are
+standing there with him.
+
+Artaud is walking behind the count. He says:
+
+“Sir knight, you are behaving discourteously by asking my lord, for he has given so much that he
+has nothing left to give.” [Q-022]
+
+The generous count turns around.
+
+“Sir villein, what you say—that I have nothing left to give—is not true. I still have you
+yourself. Here, sir knight: I give him to you, and I will guarantee him to you.” [Q-022]
+
+The count does not grab Artaud and throw him into the knight's arms. The poor knight understands
+the opportunity perfectly well. *He* seizes Artaud by the cloak and announces that he will not let
+him go until they reach a settlement. Artaud eventually has to pay five hundred livres. [Q-022]
+
+So a poor knight may be humiliated by a rich burgess—but then the world, as the story understands
+it, restores justice. Not ordinary legal justice, and not a general right to ransom burgesses. An
+exemplary story in which princely largesse and aristocratic power put wealth back in its place.
+[C-025]
+
+Social hierarchy could be reaffirmed in still more dramatic ways, because on this point there was
+no compromise. Rank had to be respected.
+
+At Caesarea during the crusade, one of the king's armed sergeants—a man named Le Goulu—laid hands
+on a knight in Joinville's company. Louis initially tried to minimize it: the sergeant had only
+shoved him. Joinville was furious. He demanded justice and threatened to leave the king's service
+if royal sergeants were allowed to shove knights. [Q-023]
+
+So judgment was given according to what Joinville calls “the customs of the country”—the local
+custom at Caesarea, not a universal law applied everywhere in medieval Europe.
+
+Le Goulu came to Joinville's quarters barefoot, wearing only his shirt and under-breeches, with a
+bare sword in his hand. He knelt before the knight, took the sword by its point, and offered him
+the pommel.
+
+“My lord, I make amends to you for laying hands on you, and I have brought you this sword so that
+you may cut off my fist, if it pleases you.” [Q-023]
+
+He does not stretch out his bare hand and invite the knight to cut it off. He offers the sword—the
+means by which the knight could cut off his fist.
+
+Then Joinville asks his knight to forgive the offense, and the knight does. The ritual plainly
+creates an opportunity for mercy, but Joinville doesn't tell us that the penalty was never
+enforced, or that a crowd repeatedly cried out for pardon. [C-026]
+
+Still, the principle has been established once again.
+
+So how did they justify it?
