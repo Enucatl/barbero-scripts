@@ -805,4 +805,270 @@ Germany cannot believe, Bethmann says, that Russia would wish to unleash such a 
 
 And secondly—
 
-<!-- Draft continues with section 13: War declared, rulers pleading. -->
+## 13. War is declared—and the cousins write
+
+On 28 July the Kaiser returns to Berlin.
+
+He has been away on his yacht. He has been receiving reports, of course, but now he reads Serbia's
+reply to the Austrian ultimatum for himself.
+
+And Wilhelm II writes in the margin:
+
+This is an extraordinary success. A brilliant result in forty-eight hours. Every reason for war
+has now disappeared. [C-027]
+
+Do you see?
+
+The Kaiser reads the Serbian answer and says: but they have accepted practically everything. They
+have humiliated themselves. There is no longer any reason to make war.
+
+It is the first sign that even in Germany, among the people who have encouraged Austria to act,
+someone is beginning to wonder whether this has gone too far.
+
+Wilhelm proposes a compromise. Austria can occupy Belgrade, take its guarantee, and stop there.
+
+But on that same day—28 July—Austria-Hungary declares war on Serbia.
+
+War.
+
+The word has finally been spoken.
+
+And public opinion? Because public opinion matters now. These are modern countries. There are
+newspapers, parliaments, parties, crowds in the streets. Governments cannot simply move millions
+of men as if society did not exist.
+
+The crowds are excited.
+
+Not everybody, of course. Never imagine that an entire country feels one emotion. But in Vienna,
+as in other capitals, there is genuine enthusiasm. People sing. They cheer. They feel that the
+long, exhausting uncertainty has ended and that their country has at last shown courage.
+
+Sigmund Freud, who was fifty-eight years old and had no reputation as a militarist, is reported to
+have written:
+
+“My entire libido belongs to Austria-Hungary.” [Q-017]
+
+Think about that.
+
+The founder of psychoanalysis says: all my libido is for Austria-Hungary.
+
+This is the atmosphere.
+
+The next day, 29 July, Russia begins military preparations.
+
+And at this point Europe offers us one of the strangest spectacles in its history.
+
+These are modern states. They have general staffs, railway timetables, telegraphs, mass newspapers,
+stock exchanges, industrial economies, parliaments. Millions of men are about to be ordered into
+uniform by bureaucracies of extraordinary complexity.
+
+And yet, above all this modern machinery, the rulers begin writing to one another as members of a
+family.
+
+Because they are a family—or near enough to one that they speak as if they were.
+
+George V and Nicholas II are first cousins. George V and Wilhelm II are first cousins. Nicholas
+and Wilhelm are more distantly related and connected by marriage, not first cousins; but within
+Europe's dynastic world they too are cousins, and they call one another Nicky and Willy. [C-028]
+
+So Nicky telegraphs Willy.
+
+In English.
+
+“An ignoble war has been declared to a weak country. I beg you in the name of our old friendship
+to do what you can to stop your allies from going too far.” [Q-018]
+
+Signed: Nicky.
+
+And Willy replies to Nicky—in English—that he understands how difficult it is for the Russian
+government to resist the pressure of public opinion. But Austria has every right to punish Serbia,
+he says. Russia must remain a spectator. He asks Nicky to restrain his forces.
+
+Nicky writes back.
+
+Willy writes back.
+
+For four days they exchange telegrams. A dozen messages. They appeal to their friendship, their
+family ties, their desire for peace. Each asks the other to stop his ally. Each says the decision
+is still in the other's hands.
+
+And at the end of those four days, Willy declares war on Nicky.
+
+## 14. Everyone knows—and nobody gives way
+
+In Germany the Russian preparations produce fury.
+
+The German leaders say: there, you see? We told you. Russia has chosen Serbia. Russia has chosen
+the state whose networks encouraged political murder. Russia has sided with the criminals.
+
+Moltke, the chief of the German General Staff, writes on 29 July that Russia is preparing to take
+the side of Serbia.
+
+And then he writes a sentence that deserves to be remembered:
+
+“Then the mutual destruction of the civilized states of Europe can begin.” [Q-019]
+
+The mutual destruction of the civilized states of Europe.
+
+They know.
+
+This is what is so extraordinary. They are not sleepwalkers because they cannot imagine what war
+might mean. Again and again, in their letters and memoranda, they say it themselves: catastrophe,
+destruction, a war unlike any other, European civilization set back for decades.
+
+They know—and still they continue.
+
+Why?
+
+Because every government now says the same thing: we cannot give way.
+
+Austria cannot give way, because then Serbia will have defeated it and the empire will lose all
+authority in the Balkans.
+
+Russia cannot give way, because then it will have abandoned Serbia again and ceased to count as a
+great power.
+
+Germany cannot give way, because then it will have abandoned Austria, its only dependable ally,
+and accepted encirclement by Russia and France.
+
+France cannot abandon Russia.
+
+And Britain—Britain has not yet decided. That is why everyone is watching Britain.
+
+Meanwhile the generals are saying: decide.
+
+Decide now.
+
+Every hour matters. Russia is slow, but it has begun to move. If Germany waits while Russia
+concentrates its enormous army, Germany throws away the one advantage on which its plans depend:
+speed.
+
+The soldiers want mobilization.
+
+And if Germany mobilizes, as we have seen, mobilization means war.
+
+But the politicians say: wait.
+
+Not because they have suddenly become pacifists. They too believe war may now be unavoidable. But
+they want Russia to move first. They want Germany to appear to have been attacked. [C-029]
+
+Why does appearance matter, if the armies are going to fight anyway?
+
+It matters inside Germany. The Social Democrats are the largest party in the Reichstag. Millions
+of German workers have been taught for years that they must oppose an aggressive war. But a war of
+defence against the Tsar—the great symbol of reaction—that is another matter.
+
+And it matters outside Germany.
+
+Above all, it matters in Britain.
+
+If Russia looks like the aggressor, perhaps Britain will remain neutral. If Germany looks like the
+aggressor, perhaps Britain will enter the war.
+
+So the generals say: every hour we wait endangers the campaign.
+
+And the politicians say: every hour we wait may save our position before the German people and the
+world.
+
+They all know that the mechanism is carrying them toward catastrophe.
+
+But nobody wants to be the one who steps aside.
+
+## 15. The Belgian secret
+
+And now we come to the secret that will decide Britain's position.
+
+Belgium.
+
+Belgium is neutral. Its neutrality is guaranteed by the European powers—including Prussia, whose
+obligations have passed to the German Empire.
+
+For Britain this is not an abstract legal question.
+
+Look at the map.
+
+The Belgian coast faces Britain. The Channel ports are there. For centuries British policy has
+resisted the domination of the Low Countries by a great continental power. If Germany occupies
+Belgium, German armies and perhaps German naval power arrive directly opposite England.
+
+And Germany intends to pass through Belgium.
+
+Why?
+
+Because Germany must fight France and Russia at the same time. Russia will take longer to
+mobilize. So the German plan is to strike France first, defeat it quickly, and then turn east
+against Russia.
+
+But the French have built powerful fortifications along the direct frontier.
+
+The way around them lies through Luxembourg and Belgium.
+
+We often call this simply the Schlieffen Plan. One should not imagine a sacred script that could
+not be altered by a single railway or a single battalion. German planning changed over the years.
+But the western plan actually prepared for 1914 depended on moving through Luxembourg and neutral
+Belgium. [C-030]
+
+The Germans know what this may mean for Britain.
+
+And so on 29 July they make the British government a proposal.
+
+An astonishing proposal.
+
+They say: if Germany defeats France, Germany will take no French territory in Europe.
+
+What about the French colonies?
+
+On that, Germany will make no promise.
+
+And Belgium?
+
+Germany cannot promise to respect Belgian neutrality. Its operations may require it to enter
+Belgian territory. But if Belgium does not take sides against Germany, Germany promises to restore
+Belgian territorial integrity when the war is over. [C-031]
+
+In other words: allow us to invade Belgium, and afterward we shall give Belgium back.
+
+This is the proposal Germany makes to Britain.
+
+It is difficult to exaggerate how badly conceived it is.
+
+The telegram reporting it reaches the British Foreign Office. Sir Eyre Crowe, one of its senior
+officials, writes a minute on the paper:
+
+“The only comment that need be made on these astounding proposals is that they reflect discredit
+on the statesman who makes them.” [Q-020]
+
+That is the official language of the British Foreign Office.
+
+These astounding proposals reflect discredit on the statesman who makes them.
+
+Because Germany has now told Britain, in writing, that it is contemplating the invasion of a
+neutral country whose neutrality Germany itself is bound to respect.
+
+And on the same day, 29 July, Sir Edward Grey speaks to the German ambassador in London, Prince
+Lichnowsky.
+
+Grey is still trying to avoid war. He still refuses to promise in advance exactly what Britain will
+do. But he warns Lichnowsky that if Germany and France are drawn in, Britain may have to make rapid
+decisions. Britain cannot simply abandon its friends and ignore every interest that ties it to
+them.
+
+And if war breaks out, Grey says, “it would be the greatest catastrophe that the world had ever
+seen.” [Q-021]
+
+The greatest catastrophe the world had ever seen.
+
+Once again: they know.
+
+And from London the message is becoming clearer. If Germany wants Britain to remain outside, the
+decision is in Berlin.
+
+Germany must restrain Austria.
+
+Germany must not invade Belgium.
+
+But in Berlin the generals are looking at their timetables.
+
+And the trains are almost ready to move.
+
+<!-- Draft continues with section 16: The final countdown. -->
