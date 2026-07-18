@@ -1,1 +1,18 @@
-[]
+- id: SRC-001
+  author: "Ramon Llull"
+  title: "Llibre de l'orde de cavalleria"
+  date: "1988"
+  original_language: ca
+  identifier: "ISBN 84-7226-618-4; OCLC 22221563"
+  url: "https://openlibrary.org/books/OL2280117M/Llibre_de_l%27orde_de_cavalleria"
+  access_date: "2026-07-18"
+  locator: "Albert Soler i Llopart, ed. (Barcelona: Editorial Barcino, 1988), part II, sections 11 and 19; II.11 at p. 177, lines 95–105"
+- id: SRC-002
+  author: "Jean de Joinville"
+  title: "Histoire de Saint Louis: texte original ramené à l'orthographe des chartes"
+  date: "1890"
+  original_language: fro
+  identifier: "Internet Archive histoiredesaint00joinuoft; Open Library OL15344583M"
+  url: "https://archive.org/details/histoiredesaint00joinuoft/page/268/mode/2up"
+  access_date: "2026-07-18"
+  locator: "Natalis de Wailly, ed. (Paris: Hachette, 1890), sections 638–639, chapter CXXVI, pp. 268–269; compare BnF, MS français 13568"

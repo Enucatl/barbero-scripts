@@ -1,94 +1,101 @@
 - id: Q-001
   barbero_utterances: [U-00023–U-00025]
   barbero_timestamp: "02:28"
-  attribution: "Medieval chivalric romances, unspecified"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Identify the text or tradition behind the prescription that knights protect widows and orphans and remain humble; determine whether Barbero is quoting or summarizing a commonplace."
+  attribution: "Medieval chivalric ideal; closely paralleled by Ramon Llull"
+  source_id: SRC-001
+  original_language: ca
+  original_text: "D'on, enaxí con totes aquestas usanses demunt dites pertanyen a cavayler quant al cors, enaxí justícia, saviesa, caritat, leyaltat, veritat, humilitat, fortitudo, sperança e spertesa, e les altres virtuts semblants a aquestas, pertanyen a cavayler quant a la ànima. [...] Offici de cavaller és mantenir vídues, òrfens, hòmens despoderats."
+  translation: "Thus, just as all the practices mentioned above pertain to the knight in body, so justice, wisdom, charity, loyalty, truth, humility, fortitude, hope, skill, and the other similar virtues pertain to the knight in soul. [...] A knight's duty is to sustain widows, orphans, and powerless men."
+  locator: "part II, sections 11 and 19; Soler edition, the first passage at p. 177, lines 95–105"
+  translation_notes: "Direct translation from Llull's medieval Catalan. The ellipsis separates two passages. Barbero does not name Llull and is not quoting him verbatim: he summarizes a broad clerically shaped chivalric commonplace and loosely calls its vehicles 'romances.' Llull's didactic treatise, written c. 1274–1276 and close to Joinville's world, independently supplies both components—humility and protection of widows and orphans—but cannot be established as Barbero's specific source."
+  confidence: high
+  status: resolved
+  script_treatment: paraphrase
+  research_note: "Confirmed in substance as a medieval chivalric prescription, not as a recoverable quotation from one romance. Evidence tier 1 for Llull's wording (critical Catalan edition); the link between this particular work and Barbero's formulation remains inferential. Script should present the ideal as a commonplace and may use Llull as a representative witness, not attribute Barbero's sentence directly to him."
 - id: Q-002
   barbero_utterances: [U-00072–U-00096]
   barbero_timestamp: "06:15"
   attribution: "Jean de Joinville"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate Joinville's account of the deserted Lampedusa hermitage, the two dead hermits, and the sailor who stayed behind; establish original wording and section locator."
+  source_id: SRC-002
+  original_language: fro
+  original_text: "A une ylle venimes que on appelle la Lempiouse, là où nous preimes tout plein de connins; et trouvâmes un hermitaige ancien dedans les roches, et trouvâmes le courtil que li hermite qui y demeurèrent anciennement avoient fait: oliviers, figuiers, seps de vingne et autres arbres y avoit. Li rus de la fonteinne couroit parmi le courtil. Li roys et nous alames jusques au chief dou courtil, et trouvâmes un oratour, en la première voûte, blanchi de chaus, et une croiz vermeille de terre. En la seconde voûte entrâmes, et trouvâmes dous cors de gens mors, dont la chars estoit toute pourrie; les costes se tenoient encore toutes ensemble, et li os des mains estoient sur lour piz; et estoient couché contre orient, en la manière que l'on met les cors en terre. Au requeillir que nous feismes en notre nef, il nous failli un de nos mariniers; dont li maistres de la nef cuida que il fust là demourez pour estre hermite; et pour ce, Nicholas de Soisi, qui estoit maistres serjans le roy, lessa trois saz de becuiz sur la rive, pour ce que cil les trouvast et en vequist."
+  translation: "We came to an island called Lampedusa, where we caught a great many rabbits. We found an ancient hermitage among the rocks and the garden made by the hermits who had once lived there: it contained olive trees, fig trees, grapevines, and other trees. A stream from the spring ran through the garden. The king and the rest of us went to the far end of the garden and found an oratory in the first vault, whitewashed with lime, with a red earthen cross. We entered the second vault and found the bodies of two dead people whose flesh had entirely decayed; their ribs still held together, the bones of their hands lay upon their chests, and they lay facing east, in the manner in which bodies are buried. When we reassembled aboard our ship, one of our sailors was missing. The shipmaster supposed that he had remained there to become a hermit; and so Nicholas of Soissons, the king's master sergeant, left three sacks of ship's biscuit on the shore, so that the man might find them and live on them."
+  locator: "sections 638–639, chapter CXXVI, pp. 268–269"
+  translation_notes: "Direct translation from the Old French text in Natalis de Wailly's edition; names and punctuation are normalized in English. Barbero follows the episode closely but makes several small narrative inferences: Joinville calls the remains two dead people, not explicitly the two former hermits; the shipmaster only supposed that the missing sailor had stayed to become a hermit; and Nicholas of Soissons, rather than an unnamed collective, left exactly three sacks (not crates) of biscuit. The bodies still had decayed flesh and articulated ribs, so 'two skeletons' is a simplification."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Confirmed in Joinville's eyewitness memoir. Evidence tier 1: accessible Old French scholarly edition, with the same section numbering used by the modern Monfrin critical edition. The work was completed around 1309; its principal early witness, BnF fr. 13568, was produced c. 1330–1340. Preserve the scene while retaining Joinville's reported uncertainty about both the bodies' identity and the missing sailor's intention."
 - id: Q-003
   barbero_utterances: [U-00102–U-00117]
   barbero_timestamp: "08:31"
-  attribution: "Jean de Joinville, reporting a rescued sailor"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate the sailor's statement that the Virgin appeared and held him afloat and Joinville's statement that he commissioned images; identify the places and exact wording."
+  attribution: "Jean de Joinville, reporting the squire of Dragonet of Montauban"
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Une des galies le roy le queilli et l'aporta en nostre nef, là où il nous conta comment ce li estoit avenu. Je li demandai comment ce estoit que il ne metoit conseil en li garantir, ne par noer ne par autre manière. Il me respondi que il n'estoit nul mestier ne besoing que il meist conseil en li; car si tost comme il commença à cheoir, il se commenda à Nostre Dame de Vauvert, et elle le soustint par les espaules dès que il chei, jusques à tant que la galie le roy le requeilli. En l'onour de ce miracle, je l'ai fait peindre à Joinville en ma chapelle, et es verrières de Blehecourt."
+  translation: "One of the king's galleys picked him up and brought him to our ship, where he told us how it had happened. I asked him why he had made no effort to save himself, either by swimming or in any other way. He answered that there was no need for him to make any effort, because, as soon as he began to fall, he commended himself to Our Lady of Vauvert, and she supported him by the shoulders from the moment he fell until the king's galley picked him up. In honor of this miracle, I had it painted in my chapel at Joinville and in the windows at Blécourt."
+  locator: "sections 650–651, chapter CXXIX, pp. 273–274"
+  translation_notes: "Direct translation from the Old French text in Natalis de Wailly's edition. Barbero preserves the episode's point but alters details: the man was a squire belonging to Dragonet of Montauban, not a sailor; he fell while trying to cover an opening in a ship about a league ahead; a royal galley recovered him and brought him to the king's ship. Joinville saw the motionless figure from a distance and questioned him after the rescue, but does not claim to have seen the fall. Most importantly, the squire says he commended himself to Our Lady of Vauvert and that she supported his shoulders; he does not say that the Virgin visibly appeared. Joinville says he commissioned representations at both sites, not that either artwork survived."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Confirmed in Joinville's account and corroborated by modern scholarship citing section 651. Evidence tier 1 for the Old French text and Joinville's statement that he commissioned the images. Preserve Joinville's miracle claim as reported belief, correct the rescued man's status to squire, and do not add a visible apparition absent from the source."
 - id: Q-004
   barbero_utterances: [U-00120–U-00145]
   barbero_timestamp: "10:19"
-  attribution: "Jean de Joinville, reporting a story told at Cluny"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate the story of the old knight's Marian question to a rabbi, the reply, and the blow with a crutch; determine its reported setting and Joinville's distance from the event."
+  attribution: "Louis IX, as reported by Jean de Joinville, recounting an anecdote set at Cluny"
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Il me conta que il ot une grant desputaison de clers et de Juis ou moustier de Clygni. Là ot un chevalier à qui li abbes avoit donnei le pain leens pour Dieu; et requist à l'abbei que il li lessast dire la première parole, et on li otria à peinne. Et lors il se leva et s'apuia sur sa croce, et dist que l'on li feist venir le plus grant clerc et le plus grant maistre des Juis; et si firent-il. Et li fist une demande qui fu teix: «Maistre, fist li chevaliers, je vous demant se vous créez que la Vierge Marie, qui Dieu porta en ses flans et en ses bras, enfantast vierge, et que elle soit mère de Dieu.» Et li Juis respondi que de tout ce ne creoit-il riens. Et li chevaliers li respondi que moût avoit fait que fous, quant il ne la creoit ne ne l'amoit, et estoit entrez en son moustier et en sa maison. «Et vraiement, fist li chevaliers, vous le comparrez.» Et lors il hauça sa potence, et feri le Juif lès l'oye, et le porta par terre. Et li Juif tournèrent en fuie, et emportèrent lour maistre tout blecié: et ainsi demeura la desputaisons."
+  translation: "He told me that there was a great disputation between clerics and Jews at the monastery of Cluny. There was a knight there to whom the abbot had given bread in the house for God's sake. He asked the abbot to let him speak first, and permission was granted only reluctantly. Then he rose, leaned on his staff, and asked them to bring him the greatest scholar and foremost master among the Jews, which they did. He asked him this question: 'Master,' said the knight, 'I ask whether you believe that the Virgin Mary, who bore God in her womb and in her arms, gave birth as a virgin and is the mother of God.' The Jew replied that he believed none of it. The knight answered that he had acted like a great fool by entering her monastery and her house when he neither believed in her nor loved her. 'And truly,' said the knight, 'you will pay for it.' Then he raised his crutch, struck the Jew beside the ear, and knocked him to the ground. The Jews fled and carried away their master badly wounded; and that was the end of the disputation."
+  locator: "sections 51–53, chapter X, pp. 22–23; quoted episode principally sections 51–52"
+  translation_notes: "Direct translation from the Old French in Natalis de Wailly's edition. The opening pronoun refers to Louis IX: the king told Joinville a story about a disputation at Cluny. Joinville does not say that he himself had recently heard it while visiting Cluny, nor does he identify a witness, date, Jewish scholar, or cleric. The knight is maintained charitably by the abbey and leans on a staff or crutch, but the Old French does not explicitly call him old. His reply is not the mild 'you are doing very wrong': he calls the Jewish scholar a fool for entering Mary's house and says 'you will pay for it' before striking him beside the ear and knocking him down. The abbot then calls the act foolish; the knight answers that convening the disputation was the greater folly."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Confirmed as an anecdote in Joinville's text, but only as a story Louis IX told Joinville, not an independently documented Cluny event or Joinville eyewitness account. Evidence tier 1 for Joinville's wording and transmission; evidence tier 3 for the underlying event. Preserve the double-reported framing and the violence without presenting the scene as a documented public disputation."
 - id: Q-005
   barbero_utterances: [U-00145–U-00148]
   barbero_timestamp: "12:34"
   attribution: "Louis IX, as reported by Jean de Joinville"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Find Louis IX's advice about learned people debating unbelievers and laypeople using the sword when the faith is maligned; establish whether Barbero compresses multiple sentences."
+  source_id: SRC-002
+  original_language: fro
+  original_text: "«Aussi vous di-je, fist li roys, que nulz, se il n'est très-bons clers, ne doit desputer à aus; mais li hom lays, quant il ot mesdire de la loy crestienne, ne doit pas desfendre la loy crestienne, ne mais de l'espée, de quoy il doit donner parmi le ventre dedens, tant comme elle y puet entrer.»"
+  translation: "'And so I tell you,' said the king, 'that no one should dispute with them unless he is a very learned cleric. But when a layman hears the Christian faith spoken ill of, he should defend the Christian faith only with his sword, which he should drive into the offender's belly as far as it can go.'"
+  locator: "section 53, chapter X, p. 23"
+  translation_notes: "Direct translation from the Old French in Natalis de Wailly's edition. 'Aus' ('them') refers specifically to the Jews in Louis's Cluny anecdote, rather than generically to all unbelievers. Louis is already the teller of the anecdote; Joinville does not describe a later discussion in which the two men explicitly agree that the knight acted well. Barbero accurately gives the distinction between learned clerics and laypeople, but supplies an explanatory rationale about Christians being confused that the preceding knight, not Louis, states in the source. Barbero also greatly softens the violent conclusion: Louis does not merely say that laypeople should draw their swords, but that they should drive one into the belly as far as it will go."
+  confidence: high
+  status: resolved
+  script_treatment: preserve
+  research_note: "Confirmed as Louis IX's direct speech in Joinville's memoir, immediately after the Cluny anecdote. Evidence tier 1 for Joinville's transmitted wording; it remains a recollected saying written down decades after Louis's death, not a contemporary royal act or stenographic record. Preserve the reported-speech frame and do not sanitize the sentence, since the precise violence is material to Barbero's argument."
 - id: Q-006
   barbero_utterances: [U-00158–U-00192]
   barbero_timestamp: "13:51"
   attribution: "Jean de Joinville, an unnamed emir, and the papal legate"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate the Friday-meat episode and compare the emir's reassurance, the legate's ruling, and Joinville's bread-and-water penance with Barbero's dialogue."
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Tandis que nous mangiens, il fist venir un bourgois de Paris devant nous. Quant li bourgois fu venus, il me dist: «Sire, que faites-vous? — Que faiz-je donc?» feiz-je. — «En non Dieu, fist-il, vous mangiez char au vendredi!» Quant j'oï ce, je boutai m'escuele arieres. Et il demanda à mon Sarrazin pourquoy je avoie ce faist, et il li dist; et li amiraus li respondi que jà Diex ne m'en sauroit mal grei, puisque je ne l'avoie fait à escient. Et sachiez que cette response me fist li legas, quant nous fumes hors de prison; et pour ce ne lessai-je pas que je ne jeûnasse touz les vendredis de quaresme après, en pain et en yaue: dont li legas se courrouça moût forment à moy, pour ce que il n'avoit demourei avec le roy de riches homes que moy."
+  translation: "While we were eating, he had a citizen of Paris brought before us. When the citizen arrived, he said to me, 'My lord, what are you doing?' 'Why, what am I doing?' I said. 'In God's name,' he said, 'you are eating meat on a Friday!' When I heard this, I pushed my bowl away. The admiral asked my Saracen why I had done that, and he told him; the admiral replied that God would not hold it against me, since I had not done it knowingly. And you should know that the legate gave me the same answer once we were out of prison. Yet that did not stop me from fasting afterward on bread and water every Friday in Lent. The legate became very angry with me about this, because I was the only great lord who had remained with the king."
+  locator: "sections 326–328, chapter LXV, pp. 135–136; quoted exchange principally sections 327–328"
+  translation_notes: "Direct translation from the Old French in Natalis de Wailly's edition. The Muslim official is the 'great admiral of the galleys,' who had summoned Joinville and asked about his supposed kinship to Frederick II; the source does not stage a freely offered luncheon invitation or extended cheerful genealogical conversation. A Parisian bourgeois notices the violation. Communication with the admiral passes through the helper Joinville calls 'my Saracen.' Both the admiral and, later, the papal legate say only that God will not hold an unknowing act against him. Joinville does not say he disbelieved them or explicitly describe purification. His voluntary penance is every Friday in Lent thereafter, not every Friday without qualification, and the legate angrily objects because Joinville is the only great lord remaining with the king, implying concern for his fitness and health."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Confirmed in Joinville's first-person captivity narrative. Evidence tier 1 for the transmitted Old French account. Preserve the striking agreement between the Muslim admiral and papal legate, but qualify Barbero's dramatized dialogue and state the penance precisely as bread and water on every Friday of Lent thereafter."
 - id: Q-007
   barbero_utterances: [U-00198–U-00210]
   barbero_timestamp: "16:51"
   attribution: "Jean de Joinville"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate Joinville's examples of oaths by God's head, wounds, or cap, his praise of Louis's speech, and his household penalty for mentioning the devil."
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Li bons cuens de Soissons [...] se moquoit à moy et me disoit: «Seneschaus, lessons huer ceste chiennaille; que par la Quoife Dieu! (ainsi comme il juroit) encore en parlerons-nous, entre vous et moi, de ceste journée es chambres des dames.» [...] Je fu bien vint-dous ans en sa compaignie, que onques Dieu ne li oy jurer, ne sa mère, ne ses sains; et quant il vouloit aucune chose affermer, il disoit: «Vraiement il fu ainsi», ou: «Vraiement il est ainsi.» Onques ne ly oy nommer le dyable, se ce ne fu en aucun livre là où il l'afferoit à nommer, ou en la vie des sains de quoi li livres parloit. Et c'est grans honte au royaume de France et au roy quant il le souffre, que à peinne puet l'on parler que on ne die: «Que dyables y ait part!» [...] En l'ostel de Joinville, qui dit tel parole, il doit la bufe ou la paumelle, et y est cis mauvais languaiges presque touz abatus."
+  translation: "The good Count of Soissons [...] joked with me and said: 'Seneschal, let this rabble howl; for, by God's cap!' (that was how he swore) 'you and I will yet speak of this day's events in the ladies' chambers.' [...] I was in [Louis's] company for fully twenty-two years, and never once heard him swear by God, God's mother, or God's saints. When he wished to affirm something, he said: 'Truly, it was so,' or: 'Truly, it is so.' I never heard him name the devil unless it was in a book where the name had to be spoken, or in the life of the saint about whom the book was written. It is a great shame to the kingdom of France and to the king that he tolerates this, for scarcely can anyone speak without saying: 'May the devil have a part in it!' [...] In Joinville's household, whoever says such a thing owes a cuff or a slap, and there this bad form of speech has been almost entirely stamped out."
+  locator: "section 242, chapter XLIX, pp. 101–102 ('Quoife Dieu'); sections 686–687, chapter CXXXVIII, pp. 290–291 (Louis's speech and Joinville household rule)"
+  translation_notes: "Direct translation from distinct passages in the Old French Wailly edition. Barbero correctly reports the idiosyncratic oath 'by God's cap' and Joinville's contrast between widespread speech habits and Louis's restraint. The examples 'by God's head' and 'by God's wounds' are genuine medieval oath types but are not examples Joinville identifies in these passages; 'Tête-Dieu' is first attested later in the fourteenth century. Joinville does not say Louis never mentioned God: he says he never heard Louis swear by God, Mary, or the saints, and that Louis used 'truly' to affirm statements. Likewise, the household sanction is not an unspecified pledge or penance: 'la bufe ou la paumelle' means a cuff or slap. Joinville explicitly condemns casual invocation of the devil; the surrounding chapter also condemns dishonorable oaths involving God or Mary."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Composite but confirmed in substance from three Joinville passages. Evidence tier 1 for Joinville's wording; general oath examples require separate linguistic evidence and should not be attributed to Joinville. Preserve 'by God's cap,' Louis's twenty-two-year abstention from oaths, the devil formula, and the concrete household punishment, while correcting Barbero's conflations."
 - id: Q-008
   barbero_utterances: [U-00211–U-00235]
   barbero_timestamp: "18:00"
