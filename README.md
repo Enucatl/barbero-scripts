@@ -12,6 +12,9 @@ Git, while reviewed text and research ledgers are committed here.
 
 ```bash
 uv sync
+export DEEPGRAM_API_KEY="$(vault kv get -field=deepgram-api-key kv/puppet)"
+# Fallback for local pyannote diarization:
+export HF_TOKEN="$(vault kv get -field=huggingface-read-token kv/puppet)"
 uv run barbero init \
   --number 21 \
   --slug come-pensava-un-uomo-del-medioevo-il-cavaliere \
