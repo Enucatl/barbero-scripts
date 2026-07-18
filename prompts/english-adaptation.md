@@ -22,6 +22,12 @@ incidental, colorful, or rhetorically repetitive.
 - Follow every `script_treatment` and attach `[Q-...]`, `[C-...]`, and useful `[SRC-...]` markers.
 - Do not use `Q-030` as historical quotation; if retained, call it a later unverified anecdote.
 - Write for the ear with clear referents, varied sentence length, and natural transitions.
+- Use idiomatic, informal spoken English where the lecturer is addressing the audience. Prefer
+  natural contractions such as “it's,” “we're,” “don't,” and “can't” unless the full form adds
+  deliberate emphasis. Rewrite translated-sounding constructions rather than preserving Italian
+  syntax in grammatical but stiff English.
+- Never modernize or contract wording inside a verified historical quotation. Keep the ledger's
+  recorded source text or approved direct translation unchanged.
 - Place qualifications where the original reaches the relevant issue; do not interrupt an opening
   story with anticipatory academic caveats.
 - Explain unfamiliar Italian context briefly without inventing audience reactions.

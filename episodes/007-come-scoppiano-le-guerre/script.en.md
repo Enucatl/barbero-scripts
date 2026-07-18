@@ -21,10 +21,10 @@ as well like this.
 
 How do wars begin?
 
-Actually, I think what I am going to tell you is, in its way, rather reassuring. It shows that wars
-break out—that great world wars break out—in situations quite different from the one we are living
+Actually, I think what I'm going to tell you is, in its way, rather reassuring. It shows that wars
+break out—that great world wars break out—in situations quite different from the one we're living
 through now. The international situation today is disastrous, full of suffering, full of
-uncertainty. But it is still very different from the situations taking shape in Europe—in the
+uncertainty. But it's still very different from the situations taking shape in Europe—in the
 Europe of 1914, for example, which is where we begin tonight. The comparison only works if we keep
 those differences in mind. [C-001]
 
@@ -42,34 +42,34 @@ from an act of terrorism. [C-002]
 And terrorism, then as now, produced visceral reactions in public opinion—and therefore in
 governments too.
 
-To us today, killing an archduke might perhaps seem, all things considered, a little less serious
+To us today, killing an archduke might seem, all things considered, a little less serious
 than, say, bringing down two skyscrapers with three thousand people inside. But the first thing we
 must understand, if we want to understand the people of 1914, is that to them—or at least to the
 politicians of the time—killing an archduke who was heir to an imperial throne was far more serious
 than bringing down two skyscrapers, if they could even have imagined such a thing.
 
-Think about it. The Austro-Hungarian Empire is a great power. It is still a great power: weakened,
+Think about it. The Austro-Hungarian Empire is a great power. It's still a great power: weakened,
 in crisis, yes, but one of the very few great powers in the world.
 
 And who rules the Austro-Hungarian Empire? Emperor Franz Joseph. Franz Joseph is eighty-three when
 the assassination takes place; he turns eighty-four that August. Which means that he is going to
 die very soon. Nobody knows when, but everybody knows it will be soon. He has ruled Austria for
 time out of mind—more than sixty-five years already. He will in fact die on 21 November 1916, a
-little over two years later. We know that; they did not. [C-003]
+little over two years later. We know that; they didn't. [C-003]
 
 And when Franz Joseph dies, Archduke Franz Ferdinand will become the ruler of one of the world's
 great powers, for the rest of his life.
 
-You see that killing him changes the picture rather dramatically. It is not like killing a
+You see how killing him changes the picture rather dramatically. It's not like killing a
 president of the United States, when after four years there will be another one anyway. Here they
 have killed a man who, for the whole of his life, was expected to help govern the world.
 
-So the assassination is an exceptionally grave event. It is an act of terrorism of enormous
-gravity, with connections abroad.
+So the assassination is an exceptionally grave event. It's an act of terrorism on an enormous
+scale, with connections abroad.
 
-And here we have to remember what the world was like. I will spend the whole evening saying, “We
-have to remember this; we have to remember that.” Forgive me. The way a war begins is not simple.
-There is a whole chain of connections.
+And here we have to remember what the world was like. I'll spend the whole evening saying, “We
+have to remember this; we have to remember that.” Forgive me. The way a war begins isn't simple.
+There's a whole chain of connections.
 
 The first connection—the first thing we bring into focus—is Sarajevo.
 
@@ -85,14 +85,13 @@ Croat population were content. Many Bosnian Muslims were perfectly willing to be
 Austrian Empire. Indeed, Muslim Bosnian soldiers would fight loyally for the Empire in the First
 World War—even in Italy, those Muslim regiments wearing the fez.
 
-But among the population of Bosnia there were also many Serbs who were not at all happy to belong
-to Austria.
+But Bosnia also had many Serbs who weren't at all happy to belong to Austria.
 
 Because right next door was Serbia: the independent Kingdom of Serbia. Small, but warlike. A
 battle-hardened state, with military traditions and great dreams of expansion. The Serbs of Bosnia
 suffered under Austrian rule.
 
-Now, these communities were not solid political blocks; Croats, Muslims, and Serbs did not each
+Now, these communities weren't solid political blocks; Croats, Muslims, and Serbs didn't each
 think with a single mind. But their broad relationships with Habsburg rule were genuinely
 different. [C-004]
 
@@ -104,8 +103,8 @@ organized in Serbia, with accomplices in the Serbian government and the Serbian 
 Austrians were sure of it from the first day.
 
 And, in part, they were right. The investigations would establish real links to men in Serbian
-military intelligence and to networks operating inside Serbia. That does not mean that the Serbian
-government as a whole planned the murder. But there is no doubt that those connections existed.
+military intelligence and to networks operating inside Serbia. That doesn't mean the Serbian
+government as a whole planned the murder. But there's no doubt those connections existed.
 [C-002] [C-005]
 
 And so Austria is determined to punish Serbia.
@@ -115,10 +114,10 @@ old history book—who remembers what they were like then? No. Here is a rogue s
 terrorism abroad, and here is the state that has suffered the terrorist attack and is determined
 to punish the rogue state.
 
-In Austria there is a wave of mass indignation. Crowds fill the streets shouting, “Serbia must
+In Austria there's a wave of mass indignation. Crowds fill the streets shouting, “Serbia must
 die!” In German it even rhymes: *Serbien muss sterben.* [Q-002]
 
-But there is a problem.
+But there's a problem.
 
 Serbia has a great friend. A great protector.
 
@@ -126,7 +125,7 @@ Russia.
 
 The Russia of Tsar Nicholas II.
 
-The friendship between Serbia and Russia is an obvious fact of European geography. It is still
+The friendship between Serbia and Russia is an obvious fact of European geography. It's still
 true today. Russia is a Slavic, Orthodox power; the Serbs are Slavic and Orthodox. [C-006]
 
 Even in the Yugoslav wars of the 1990s, Russia backed Serbia.
@@ -140,20 +139,20 @@ Serbia has a great friend: Russia.
 And everyone in that world of 1914 is looking for friends, for allies. The weight of alliances is
 fundamental if we want to understand how they slide into a world war.
 
-Because this is not a world of blocs. Well, ours is no longer really a world of two blocs either.
+Because this isn't a world of blocs. Well, ours isn't really a world of two blocs anymore either.
 For a while only the American bloc was left. But we all remember when the world was divided into
 two blocs and nothing happened outside them.
 
-The world of 1914 is not like that. It is a world of great and small powers.
+The world of 1914 isn't like that. It's a world of great and small powers.
 
 Which are the great powers? Britain. Germany. France. Russia. Austria-Hungary. And then, out of
 politeness, Italy is usually included too—the last of the great powers, with a little effort.
 
 Then there are the smaller powers, and they too are warlike, nationalist, well armed: Serbia,
-Romania, Belgium. They are not divided neatly into blocs. Each one thinks for itself. [C-007]
+Romania, Belgium. They aren't divided neatly into blocs. Each one thinks for itself. [C-007]
 
 This is the high age of nationalism. Every country is convinced that its duty is to think of
-itself. It is what the Italian prime minister Antonio Salandra would call, a few months later,
+itself. It's what the Italian prime minister Antonio Salandra would call, a few months later,
 Italy's *sacro egoismo*—its “sacred self-interest.” [Q-003]
 
 But if you must think of yourself, then you must also find allies, because on your own things can
@@ -165,24 +164,24 @@ rogue state that has organized terrorism. It must be punished, for everybody's s
 But then a doubt occurs to them. If Austria attacks Serbia, perhaps the Russians will intervene.
 
 Austria, however, also has a powerful friend. More powerful than Austria itself, because Austria is
-a great empire in decline—and more or less everybody suspects that it is in decline.
+a great empire in decline—and more or less everybody suspects it's in decline.
 
-Austria has an immensely powerful friend that is becoming one of the greatest powers in the world:
+Austria has an immensely powerful friend that's becoming one of the greatest powers in the world:
 Germany.
 
 The Germany of Kaiser Wilhelm. You remember Wilhelm: the great handlebar moustache, the spiked
-helmet? The Kaiser can look a little comic. Germany is not comic. Germany is a very great power,
+helmet? The Kaiser can look a little comic. Germany isn't comic. Germany is a very great power,
 with perhaps the strongest continental army in Europe and an industrial economy that has overtaken
 Britain by some measures—steel production, for example—though not in finance, empire, trade, or
 naval power. [C-008]
 
 Austria is allied with Germany by a treaty that commits the two countries to help one another if
-one of them is attacked. To tell the truth, the alliance also includes Italy. That is why it is
+one of them is attacked. To tell the truth, the alliance also includes Italy. That's why it's
 called the Triple Alliance.
 
-But in the crisis of 1914, it is perfectly clear that nobody believes in Italy. The Austrians do
-not believe that if they go to war, Italy will come and help them. They leave Italy out of the
-discussion from the start. And they are right. In the name of sacred self-interest, Italy will
+But in the crisis of 1914, it's perfectly clear that nobody believes in Italy. The Austrians don't
+believe that if they go to war, Italy will come and help them. They leave Italy out of the
+discussion from the start. And they're right. In the name of sacred self-interest, Italy will
 decide to stay out—for the moment. [C-009]
 
 But Germany is there.
@@ -195,19 +194,19 @@ the Germans think.
 Franz Ferdinand's funeral takes place on 3 July. Franz Joseph has already signed a personal letter
 to Kaiser Wilhelm, a letter that will be carried to Berlin and delivered on 5 July.
 
-It is a very interesting letter. It is not precise. It is not a cool, lucid memorandum saying: this
-is what we intend to do. It says, in effect: you can see that things cannot go on like this. Serbia
+It's a very interesting letter. It isn't precise. It isn't a cool, lucid memorandum saying: this
+is what we intend to do. It says, in effect: you can see that things can't go on like this. Serbia
 is the center of criminal agitation. Reconciliation is no longer possible. This hotbed in Belgrade
-cannot be allowed to continue unpunished. Surely you agree? [Q-004]
+can't be allowed to continue unpunished. Surely you agree? [Q-004]
 
-That is not a literal translation of the emperor's formal German prose. It is the meaning of the
+That's not a literal translation of the emperor's formal German prose. It's the meaning of the
 appeal. Franz Joseph writes that the assassination is the result of Russian and Serbian Pan-Slav
 agitation; that Serbia must be eliminated as a political factor in the Balkans; that the conflict
 separating Austria-Hungary from Serbia can no longer be reconciled. The personal letter is separate
 from the diplomatic memorandum delivered with it. But the message is unmistakable.
 
 It makes me think of the arguments with which Western countries went into Iraq or Afghanistan
-after September 11. Something must be done. There is no lucid reasoning through all the
+after September 11. Something must be done. There's no lucid reasoning through all the
 consequences—what today we would call an exit strategy. Don't you agree that something must be
 done?
 
@@ -216,13 +215,13 @@ Fortunately for Austria, Kaiser Wilhelm agrees.
 When the news of Sarajevo arrived, Wilhelm wrote in the margin that it was high time to make a
 clean sweep of the Serbs. [Q-005]
 
-And on 5 July the answer comes back: go ahead. Do not worry. If Russia interferes, Germany will
+And on 5 July the answer comes back: go ahead. Don't worry. If Russia interferes, Germany will
 stand by you.
 
-But the Kaiser adds something else: really, do not worry. The Russians will not dare to interfere.
-We are certain of it. Russia will stay out. [C-010]
+But the Kaiser adds something else: really, don't worry. The Russians won't dare to interfere.
+We're certain of it. Russia will stay out. [C-010]
 
-That is the first bet.
+That's the first bet.
 
 The story tonight is a story of bets, one after another, all of them wrong.
 
@@ -230,23 +229,23 @@ Wars break out, as we shall see, not because somebody wants them. Nobody ever wa
 least nobody wants the world war, the general war. Wars break out because somebody makes the wrong
 bet.
 
-Let us stop for another moment over this assurance Wilhelm sends to Austria: go ahead; we are with
-you; do not worry.
+Let's stop for another moment over this assurance Wilhelm sends to Austria: go ahead; we're with
+you; don't worry.
 
 Historians later called it the blank cheque.
 
 How was this blank cheque given? Germany was already a parliamentary country. It had political
 parties, a parliament, free elections.
 
-The parliament was not consulted.
+Parliament wasn't consulted.
 
 The commitment emerged from a tiny circle around the Kaiser, the Chancellor, and the imperial
 leadership, without prior parliamentary approval. Later recollections turn the consultations into
 a neat sequence involving the army commander Moltke and even the arms manufacturer Krupp. That
-exact sequence is not secure. But the essential point is: this decision was not debated in the
+exact sequence isn't secure. But the essential point is: this decision wasn't debated in the
 Reichstag or tested in public. [C-011]
 
-And they were convinced that the great war would not come. After sending the blank cheque to
+And they were convinced that the great war wouldn't come. After sending the blank cheque to
 Vienna, Wilhelm boarded his yacht and went cruising in the Baltic.
 
 It was July. People wanted their holidays.
@@ -255,15 +254,15 @@ Even the Kaiser went on holiday.
 
 ## 6. A prosperous, armed Europe
 
-This German bet—that yes, there is a risk, but you will see, the great war will not come—is crucial
-to everything we are discussing tonight. So we must stay with it a little longer.
+This German bet—that yes, there's a risk, but you'll see, the great war won't come—is crucial
+to everything we're discussing tonight. So we need to stay with it a little longer.
 
-The bet is even larger than it looks, because of the alliances. Russia is not the only country in
+The bet is even larger than it looks, because of the alliances. Russia isn't the only country in
 play.
 
 Russia is Serbia's great friend. But Russia has an alliance with France.
 
-Politically, if you think about it, it is an unnatural alliance. France: a republic, secular,
+Politically, if you think about it, it's an unnatural alliance. France: a republic, secular,
 anticlerical, radical. And the empire of the Tsar: Orthodox, absolutist, the most reactionary state
 on the continent.
 
@@ -279,16 +278,16 @@ middle, bordering France on one side and Russia on the other.
 
 And so of course France and Russia have every interest in being allies. [C-012]
 
-When the Germans bet there will be no war—they do expect a small Austrian war with Serbia; that is
-fine, that is the point—but when they bet there will be no world war, they are betting there will
+When the Germans bet there'll be no war—they do expect a small Austrian war with Serbia; that's
+fine, that's the point—but when they bet there'll be no world war, they're betting there'll
 be no war against Russia and France.
 
-That is the risk.
+That's the risk.
 
 Why do they take it?
 
-The second part of our story will be a kind of countdown through the final days. But first we have
-to draw a wider picture. We have to get inside the minds of the people governing the world at that
+The second part of our story will be a kind of countdown through the final days. But first we need
+the wider picture. We need to get inside the minds of the people governing the world at that
 moment.
 
 What is that world like? What is Europe like?
@@ -297,7 +296,7 @@ The Europe of 1914 is living through a period of great prosperity, of great econ
 After the long economic difficulties of the late nineteenth century, the economy is moving again.
 Everyone is growing.
 
-There is even a kind of globalization before the word existed. Of course, today it is very easy to
+There's even a kind of globalization before the word existed. Of course, today it's very easy to
 find globalizations in the past. I have seen every kind. Even the Roman Empire has been called a
 globalization. But this one really does have many features of globalization.
 
@@ -314,32 +313,32 @@ enormous sums on armies and battle fleets.
 
 Why?
 
-Because they are afraid of one another.
+Because they're afraid of one another.
 
-One thing we have to understand about the ruling classes of that period is that they are all
+One thing we have to understand about the ruling classes of that period is that they're all
 steeped in a sort of Darwinian ideology—but a radically simplified one. Survival of the fittest.
 The struggle for survival. The strongest survive.
 
-They are convinced that states struggle with one another in the same way. The strongest will
+They're convinced that states struggle with one another in the same way. The strongest will
 triumph. The weak will be eaten.
 
 And because they believe this, every state wants to be strong. Everyone arms in order to survive.
 [C-014]
 
-Nobody imagines that they themselves will be the aggressor in the future. It is always the others
+Nobody imagines that they'll be the aggressor in the future. It's always the others
 who are the aggressors.
 
-We are threatened. We must be strong. We must have a great army.
+We're threatened. We must be strong. We must have a great army.
 
-And since we are spending an enormous amount of money on this great army, well, we have to imagine
-that perhaps, sooner or later, we will use it.
+And since we're spending an enormous amount of money on this great army, well, we have to assume
+that perhaps, sooner or later, we'll use it.
 
-It cannot be ruled out.
+We can't rule it out.
 
-Indeed, some people say, it is quite probable.
+In fact, some people say it's quite probable.
 
-Those years are extraordinary. Books appear that speak quite calmly about *the next war*. It is a
-predictable scenario. It is part of the horizon.
+Those years are extraordinary. Books appear that speak quite calmly about *the next war*. It's a
+predictable scenario. It's part of the horizon.
 
 In 1911, a German general, Friedrich von Bernhardi, publishes a book called *Germany and the Next
 War*.
@@ -372,11 +371,11 @@ What is the great illusion?
 The illusion is the belief of the great powers that having a great army, and preparing to win the
 next war, will make them safe.
 
-It will not.
+It won't.
 
 Angell's argument is about “the economic futility of military force as a means to national ends.”
-In other words, Barbero's summary is right even if it is not a sentence we can put in quotation
-marks: the next great war will ruin everybody. It will ruin the victors too. It is an illusion to
+In other words, Barbero's summary is right even if it isn't a sentence we can put in quotation
+marks: the next great war will ruin everybody. It'll ruin the victors too. It's an illusion to
 believe that force will save us. [Q-007]
 
 Books like this circulated. The argument was famous. And several politicians in the Europe of
@@ -394,7 +393,7 @@ began because Austria attacked Serbia. Suppose Russia, pushed by public opinion,
 Austria, forcing Germany to come to Austria's aid. France would inevitably be drawn in, and nobody
 could know where it would end.
 
-That is the story I am telling you tonight. Sarajevo. The crisis of the summer of 1914.
+That's the story I'm telling you tonight. Sarajevo. The crisis of the summer of 1914.
 
 Except that this conversation happened two years earlier.
 
@@ -417,12 +416,12 @@ happens, it will be a catastrophe.
 
 But soldiers have a different profession.
 
-The soldier's profession is to say: yes—but if it happens, what do we do?
+A soldier has to say: yes—but if it happens, what do we do?
 
 If it happens, we must be ready.
 
 And so, during those years of great economic growth, the armed forces pressed their case. All this
-money—let us use it. Let us use it to make ourselves stronger.
+money—let's use it. Let's use it to make ourselves stronger.
 
 And the politicians gave way.
 
@@ -435,9 +434,9 @@ two years to three.
 Imagine a world in which conscription lasts three years.
 
 And what did the Germans say when the French parliament voted for that law? The French want war.
-They are threatening us.
+They're threatening us.
 
-It is a perfectly understandable reaction, and political scientists have given it a name: the
+It's a perfectly understandable reaction, and political scientists have given it a name: the
 security dilemma.
 
 I want to be safer, so I arm myself. My neighbors become frightened. They feel less safe than
@@ -445,15 +444,15 @@ before, so they arm themselves too.
 
 And so on. And so on. [C-017]
 
-One more thing before we return to Austria, where they are deciding exactly what to demand from
+One more thing before we return to Austria, where they're deciding exactly what to demand from
 Serbia.
 
-The soldiers do not merely ask for more weapons. They also say: if war really happens, we must be
+The soldiers don't merely ask for more weapons. They also say: if war really happens, we must be
 ready.
 
 Being ready means making plans.
 
-In 1914, the great powers have not fought one another for a very long time. Since the Crimean War,
+In 1914, the great powers haven't fought one another for a very long time. Since the Crimean War,
 since the Franco-Prussian War, almost fifty years have passed. And for those fifty years the general
 staffs have been preparing plans.
 
@@ -478,7 +477,7 @@ chosen.
 
 Everything is ready—if war should come.
 
-And now, finally, one last thing before we go back to Vienna, where they are discussing what to ask
+And now, finally, one last thing before we go back to Vienna, where they're discussing what to ask
 of Serbia and how to teach Serbia a proper lesson.
 
 Armaments are slow things.
@@ -493,9 +492,9 @@ And when will they?
 Russia, for example, is militarily weak after the Russo-Japanese War. But Russia is investing on an
 enormous scale. In a few years it will be much stronger.
 
-So the soldiers do their job. They say: if there is going to be a war, we must be ready.
+So the soldiers do their job. They say: if there's going to be a war, we must be ready.
 
-And, by the way, if there is going to be a war, when would it suit us best?
+And, by the way, if there's going to be a war, when would it suit us best?
 
 Soon—or later?
 
@@ -504,8 +503,8 @@ Every general staff makes these calculations.
 Then something changes. In the spring of 1914, news comes that Russia and Britain are discussing a
 naval agreement.
 
-I have barely mentioned Britain so far. Britain has no binding alliance of the kind we have been
-discussing—we will come back to that in a moment—but now it is talking with Russia.
+I've barely mentioned Britain so far. Britain has no binding alliance of the kind we've been
+discussing—we'll come back to that in a moment—but now it's talking with Russia.
 
 Can you imagine the effect in Berlin?
 
@@ -515,7 +514,7 @@ Britain joins them too, our position will become worse.
 These Anglo-Russian talks begin in April. In May, the German army's chief, Helmuth von Moltke,
 speaks privately—not in public—of Germany's prospects diminishing with delay. The preventive-war
 view attributed to him is summed up in the phrase: “I consider a war inevitable, and the sooner the
-better.” The familiar wording survives through a diary tradition with a textual caveat, so it is
+better.” The familiar wording survives through a diary tradition with a textual caveat, so it's
 Moltke as reported, not a stenographic transcript. But the outlook is real. [Q-010]
 
 Germany's military leaders fear that Russia is growing stronger and that Britain is drawing closer
@@ -532,33 +531,33 @@ No. Obviously not.
 Sarajevo is the catalyst. It brings to the surface all these things that have been simmering for
 years.
 
-So let us return to Vienna. They are preparing the ultimatum to send to Serbia.
+So let's return to Vienna. They're preparing the ultimatum to send to Serbia.
 
-It will be an extremely harsh ultimatum, because the Austrians do not want the Serbs simply to
+It'll be an extremely harsh ultimatum, because the Austrians don't want the Serbs simply to
 accept it. Austria wants the war, and Austria has Germany's blank cheque.
 
 The Germans press Vienna: hurry. Present the world with a fait accompli. The sooner you act, the
-better. The Russians will not dare intervene.
+better. The Russians won't dare intervene.
 
 But Austria is a country where things are done calmly.
 
 A country where things are done slowly.
 
 There are two governments, the Austrian government and the Hungarian government, and they have to
-agree. Then there is the Austrian army: slow, backward, taking a long time to prepare.
+agree. Then there's the Austrian army: slow, backward, taking a long time to prepare.
 
-And think of something nobody today would think of. It is July. It is harvest time. The soldiers
+And think of something nobody today would think of. It's July. It's harvest time. The soldiers
 are at home on leave, gathering the grain. Austria is an agricultural country.
 
 It takes time.
 
-The Austrians are in no hurry. In Berlin they are frantic: we are always being dragged along behind
+The Austrians are in no hurry. In Berlin they're frantic: we're always being dragged along behind
 this backward country.
 
-At last, on 23 July, almost a month after the assassination, the Austrian ultimatum is ready. It is
+At last, on 23 July, almost a month after the assassination, the Austrian ultimatum is ready. It's
 delivered to the Serbian government.
 
-It is extraordinarily severe.
+It's extraordinarily severe.
 
 Austria says: the Serbian government has done nothing to stop the spread of terrorism. Serbian
 officers and officials are involved in the Sarajevo assassination. Therefore the Serbian government
@@ -586,28 +585,28 @@ In St Petersburg, the Russian foreign minister summons the Austrian ambassador.
 “Do you mean to make war on Serbia? Are the Germans pushing you into this? You are setting fire to
 Europe. You are taking a grave responsibility upon yourself.” [Q-011]
 
-There it is for the first time: *you* are taking responsibility.
+There it is for the first time: *you're* taking responsibility.
 
-For the Russians, responsibility lies with Vienna, with the Austrians. We will hear a whole series
+For the Russians, responsibility lies with Vienna, with the Austrians. We'll hear a whole series
 of statements like this before the night is over. *You* are responsible.
 
-That is only the first.
+That's only the first.
 
 In London, Grey is astonished too. He calls in the German ambassador, Lichnowsky, and says: I have
-never seen one state send another state a document like this. It is impossible for the Serbs to
+never seen one state send another state a document like this. It's impossible for the Serbs to
 accept it.
 
-And here there is a tiny detail from the period—something that gives you the flavor of the age.
+And here's a tiny detail from the period—something that gives you the flavor of the age.
 
-Lichnowsky says: of course the language of the ultimatum is rather harsh. But you understand, it is
-addressed to a Balkan people, not to a civilized people. Balkan peoples cannot be judged by the
+Lichnowsky says: of course the language of the ultimatum is rather harsh. But you understand, it's
+addressed to a Balkan people, not to a civilized people. Balkan peoples can't be judged by the
 same standard as European *Kulturvölker*—civilized peoples.
 
 That word is genuine. Lichnowsky wrote in his telegram that he had told Grey the Balkan peoples
 could not be measured by the same standard as European *Kulturvölker*. And when Kaiser Wilhelm read
 the report, he wrote in the margin: “Correct; they simply aren't!” [Q-012]
 
-So there we are in London, in this exchange between Grey and Lichnowsky.
+So now we're in London, listening to this exchange between Grey and Lichnowsky.
 
 What is happening in London?
 
@@ -618,45 +617,45 @@ it to enter this war. It has had a friendship with France for years, yes. Britis
 officers are accustomed to consulting one another; they have even made plans together. They have
 become quite friendly.
 
-But there is no obligation. No treaty binds the Cabinet. Staff conversations are not an alliance.
+But there's no obligation. No treaty binds the Cabinet. Staff conversations aren't an alliance.
 [C-022]
 
 Britain at that moment is an isolationist country. Britain dominates the world: India, Africa, the
 colonies, trade, the stock exchange. It could not care less about small continental quarrels, and
 especially about the Balkans.
 
-Why should we let ourselves be dragged into somebody else's war? That is the tone of the British
+Why should we let ourselves be dragged into somebody else's war? That's the tone of the British
 press. A *Manchester Guardian* leader would put it neatly on 30 July: “We care as little for
 Belgrade as Belgrade does for Manchester.” [Q-013]
 
-The crisis had not dominated collective Cabinet business before the ultimatum forced everybody to
-deal with it. We cannot prove a month of complete silence from Cabinet minutes, because formal
-minutes were not kept in this period. But the British government had its own problems. Ireland was
+The crisis hadn't dominated collective Cabinet business before the ultimatum forced everybody to
+deal with it. We can't prove a month of complete silence from Cabinet minutes, because formal
+minutes weren't kept in this period. But the British government had its own problems. Ireland was
 not yet independent. There was violence, the threat of revolution, the possibility of civil war.
-Until the ultimatum, the European crisis had not been the center of British political life.
+Until the ultimatum, the European crisis hadn't been the center of British political life.
 [C-021]
 
 There were, however, people in Britain who thought differently.
 
 Some Foreign Office officials were frightened by what was happening. Again, the security dilemma.
-We are safe enough now, they thought. But Germany is becoming very strong. The Germans say they are
-arming only because they are afraid of us—but if they become too strong, then we must stand with
+We're safe enough now, they thought. But Germany is becoming very strong. The Germans say they're
+arming only because they're afraid of us—but if they become too strong, then we must stand with
 France and Russia.
 
-Because this struggle is not really about possession of Serbia. It is between a Germany aspiring
+Because this struggle isn't really about possession of Serbia. It's between a Germany aspiring
 to political domination in Europe and the powers that intend to remain free.
 
 And there was another group in Britain that thought this way: the soldiers.
 
 The soldiers had become accustomed to thinking of themselves as friends of the French, accustomed
 to planning things with them. They knew it would be difficult for Britain to enter a war beside
-France, because public opinion did not want it. And for years they had turned this problem over in
+France, because public opinion didn't want it. And for years they had turned this problem over in
 their minds.
 
-Again, it is impressive. For years and years they had discussed and reasoned together: when the
+Again, it's impressive. For years and years they had discussed and reasoned together: when the
 next war comes, what do we do?
 
-There is a revealing anecdote from 1910. The British general Henry Wilson, a great friend of the
+There's a revealing anecdote from 1910. The British general Henry Wilson, a great friend of the
 French, is talking to the French general Ferdinand Foch.
 
 Wilson says: well, if war breaks out—assuming we come to help you; I hope we do, but who knows—what
@@ -671,7 +670,7 @@ Because what matters is that British public opinion should be mobilized for a ca
 
 ## 11. The countdown begins
 
-It is almost midnight. Let us begin the countdown.
+It's almost midnight. Let's begin the countdown.
 
 On 25 July, the Serbian answer to the ultimatum arrives.
 
@@ -680,7 +679,7 @@ qualify the most intrusive ones—the clauses that would bring Austrian official
 and judicial proceedings on Serbian soil. Vienna calls these qualifications evasions. But the
 answer is, by any reasonable measure, extraordinarily conciliatory. [C-023]
 
-Meanwhile Serbia appeals to the Tsar. It wants to be certain that Russia will support it if it is
+Meanwhile Serbia appeals to the Tsar. It wants to be certain that Russia will support it if it's
 attacked.
 
 The documented Russian assurance is more formal than “you can count on us”: if diplomacy fails,
@@ -690,14 +689,14 @@ That day the Tsar also takes a symbolic decision—and symbolic things matter in
 final-year officer cadet in Russia is promoted to officer, on the same day, at the very hour when
 the Austrian ultimatum expires.
 
-The signal could hardly be clearer.
+The signal couldn't be much clearer.
 
 On 26 July, Austria rejects the Serbian answer.
 
 And once Austria has rejected the answer, it means Austria will make war.
 
-That day something happens in London. It is a detail. I have filled this lecture with details,
-which means I will finish late and you will have to be patient. I did not have the courage to cut
+That day something happens in London. It's a detail. I've filled this lecture with details,
+which means I'll finish late and you'll have to be patient. I didn't have the courage to cut
 many of them.
 
 But this detail seems curious in its own way.
@@ -706,7 +705,7 @@ The British battle fleet is together for large naval maneuvers, with its crews a
 The maneuvers are about to end. Afterward the squadrons are supposed to return to their separate
 ports and the sailors to go on leave.
 
-The First Lord of the Admiralty decides that the fleet will not disperse. It will remain
+The First Lord of the Admiralty decides that the fleet won't disperse. It'll remain
 concentrated and move in stages toward its war stations.
 
 And I tell you this also because the First Lord of the Admiralty in 1914 is Winston Churchill.
@@ -719,23 +718,23 @@ the civilian head of the navy in 1914.
 
 Churchill played the central political role in holding the fleet together, working with the First
 Sea Lord, Prince Louis of Battenberg, who issued the operational orders. The movement to protected
-war stations was staged; it was not simply Churchill, alone, ordering the whole fleet straight to
-Scapa Flow in one stroke. But the essential decision was real: the fleet did not disperse. It
+war stations was staged; it wasn't simply Churchill, alone, ordering the whole fleet straight to
+Scapa Flow in one stroke. But the essential decision was real: the fleet didn't disperse. It
 remained ready. [C-024]
 
 The next day the German stock market falls.
 
 The news from London is enough to create doubt.
 
-Perhaps Britain will not remain outside after all.
+Perhaps Britain won't remain outside after all.
 
 ## 12. Mobilization means war
 
-There is one more thing I must explain—one more pressure acting on these soldiers and politicians.
+There's one more thing I must explain—one more pressure acting on these soldiers and politicians.
 
 And this, I hope, is the last interruption to our countdown.
 
-At this point war is certain, at least between Austria and Serbia. That much is certain. After
+At this point war is certain, at least between Austria and Serbia. That much is clear. After
 that—we shall see.
 
 To make war, these countries must first order mobilization.
@@ -744,14 +743,14 @@ What does that mean?
 
 These are conscript armies. The country is full of young men, and older men, who did their military
 service in previous years and can be called back if war begins. Not merely *can* be called back.
-They know they will be.
+They know they will.
 
 If war begins, the army must immediately be swollen, doubled, tripled, by calling in all the men
 who are at home.
 
-That is mobilization.
+That's mobilization.
 
-It is an extraordinarily complicated operation. You have to call up millions of men, put them in
+It's an extraordinarily complicated operation. You have to call up millions of men, put them in
 uniform, arm them, organize their units, and place them on the trains that will carry them to the
 frontier.
 
@@ -762,8 +761,8 @@ approximately eleven thousand trains. The exact number is less important than th
 precision of the operation. The Germans are accustomed to doing such things well. Everything is
 scheduled. [C-025]
 
-Mobilization, as you can see, is an enormously weighty decision. It also costs a fortune. Nobody
-does it unless the situation has become very grave indeed.
+Mobilization, as you can see, is an enormous decision. It also costs a fortune. Nobody does it
+unless things have become very serious indeed.
 
 But there are differences from one country to another.
 
@@ -772,23 +771,23 @@ Some countries mobilize slowly.
 One at random: Russia.
 
 Russia is enormous and has relatively few railways. It takes a very long time to concentrate the
-army. So if the situation becomes serious, Russia has to begin early. It cannot afford to wait.
+army. So if the situation becomes serious, Russia has to begin early. It can't afford to wait.
 
-And in fact the first country to begin talking of mobilization, on 26 July, is not Austria, which is
-about to make war on Serbia. Serbia is small; Austria does not need to mobilize its entire army
+And in fact the first country to begin talking of mobilization, on 26 July, isn't Austria, which is
+about to make war on Serbia. Serbia is small; Austria doesn't need to mobilize its entire army
 against Serbia.
 
-The first country to speak of mobilization is Russia, because Russia knows how long it will take.
+The first country to talk about mobilization is Russia, because Russia knows how long it will take.
 
-Then there is another country in Europe—let us see whether you can guess which one—that is certain
+Then there's another country in Europe—let's see whether you can guess which one—that's certain
 it can mobilize extremely quickly.
 
-Its plans are so precise that it has already decided: if we mobilize, it is because there is war.
+Its plans are so precise that it has already decided: if we mobilize, it's because there's war.
 
-There is no interval between the two decisions. If we mobilize, we might as well make war
+There's no interval between the two decisions. If we mobilize, we might as well make war
 immediately. Immediately. Immediately.
 
-You have all understood. It is Germany.
+You've all understood. It's Germany.
 
 So on 26 July, the same day Austria rejects Serbia's very moderate response, Chancellor Bethmann
 Hollweg warns Russia.
@@ -796,12 +795,12 @@ Hollweg warns Russia.
 Be careful. If Russia takes preparatory military measures, Germany will be forced to take
 countermeasures. And “mobilization,” he says, “means war.” [Q-016]
 
-Russian mobilization and German mobilization were not identical acts, and mobilization did not
+Russian mobilization and German mobilization weren't identical acts, and mobilization didn't
 mean war in every military system. But German planning had compressed the space between
 mobilization and war almost to nothing. Russia's slower concentration pushed it toward moving
 early; Germany's faster plan made any movement look like an immediate threat. [C-026]
 
-Germany cannot believe, Bethmann says, that Russia would wish to unleash such a European war.
+Germany can't believe, Bethmann says, that Russia would wish to unleash such a European war.
 
 And secondly—
 
@@ -820,9 +819,9 @@ has now disappeared. [C-027]
 Do you see?
 
 The Kaiser reads the Serbian answer and says: but they have accepted practically everything. They
-have humiliated themselves. There is no longer any reason to make war.
+have humiliated themselves. There's no longer any reason to make war.
 
-It is the first sign that even in Germany, among the people who have encouraged Austria to act,
+It's the first sign that even in Germany, among the people who have encouraged Austria to act,
 someone is beginning to wonder whether this has gone too far.
 
 Wilhelm proposes a compromise. Austria can occupy Belgrade, take its guarantee, and stop there.
@@ -834,13 +833,13 @@ War.
 The word has finally been spoken.
 
 And public opinion? Because public opinion matters now. These are modern countries. There are
-newspapers, parliaments, parties, crowds in the streets. Governments cannot simply move millions
-of men as if society did not exist.
+newspapers, parliaments, parties, crowds in the streets. Governments can't simply move millions
+of men as if society didn't exist.
 
 The crowds are excited.
 
 Not everybody, of course. Never imagine that an entire country feels one emotion. But in Vienna,
-as in other capitals, there is genuine enthusiasm. People sing. They cheer. They feel that the
+as in other capitals, there's genuine enthusiasm. People sing. They cheer. They feel that the
 long, exhausting uncertainty has ended and that their country has at last shown courage.
 
 Sigmund Freud, who was fifty-eight years old and had no reputation as a militarist, is reported to
@@ -852,11 +851,11 @@ Think about that.
 
 The founder of psychoanalysis says: all my libido is for Austria-Hungary.
 
-This is the atmosphere.
+That's the atmosphere.
 
 The next day, 29 July, Russia begins military preparations.
 
-And at this point Europe offers us one of the strangest spectacles in its history.
+And now Europe gives us one of the strangest spectacles in its history.
 
 These are modern states. They have general staffs, railway timetables, telegraphs, mass newspapers,
 stock exchanges, industrial economies, parliaments. Millions of men are about to be ordered into
@@ -865,7 +864,7 @@ uniform by bureaucracies of extraordinary complexity.
 And yet, above all this modern machinery, the rulers begin writing to one another as members of a
 family.
 
-Because they are a family—or near enough to one that they speak as if they were.
+Because they're a family—or near enough to one that they speak as if they were.
 
 George V and Nicholas II are first cousins. George V and Wilhelm II are first cousins. Nicholas
 and Wilhelm are more distantly related and connected by marriage, not first cousins; but within
@@ -896,7 +895,7 @@ And at the end of those four days, Willy declares war on Nicky.
 
 ## 14. Everyone knows—and nobody gives way
 
-In Germany the Russian preparations produce fury.
+In Germany the Russian preparations cause fury.
 
 The German leaders say: there, you see? We told you. Russia has chosen Serbia. Russia has chosen
 the state whose networks encouraged political murder. Russia has sided with the criminals.
@@ -912,7 +911,7 @@ The mutual destruction of the civilized states of Europe.
 
 They know.
 
-This is what is so extraordinary. They are not sleepwalkers because they cannot imagine what war
+This is what's so extraordinary. They aren't sleepwalkers because they can't imagine what war
 might mean. Again and again, in their letters and memoranda, they say it themselves: catastrophe,
 destruction, a war unlike any other, European civilization set back for decades.
 
@@ -920,20 +919,20 @@ They know—and still they continue.
 
 Why?
 
-Because every government now says the same thing: we cannot give way.
+Because every government now says the same thing: we can't give way.
 
-Austria cannot give way, because then Serbia will have defeated it and the empire will lose all
+Austria can't give way, because then Serbia will have defeated it and the empire will lose all
 authority in the Balkans.
 
-Russia cannot give way, because then it will have abandoned Serbia again and ceased to count as a
+Russia can't give way, because then it'll have abandoned Serbia again and ceased to count as a
 great power.
 
-Germany cannot give way, because then it will have abandoned Austria, its only dependable ally,
+Germany can't give way, because then it'll have abandoned Austria, its only dependable ally,
 and accepted encirclement by Russia and France.
 
-France cannot abandon Russia.
+France can't abandon Russia.
 
-And Britain—Britain has not yet decided. That is why everyone is watching Britain.
+And Britain—Britain hasn't decided yet. That's why everyone is watching Britain.
 
 Meanwhile the generals are saying: decide.
 
@@ -945,18 +944,18 @@ speed.
 
 The soldiers want mobilization.
 
-And if Germany mobilizes, as we have seen, mobilization means war.
+And if Germany mobilizes, as we've seen, mobilization means war.
 
 But the politicians say: wait.
 
-Not because they have suddenly become pacifists. They too believe war may now be unavoidable. But
+Not because they've suddenly become pacifists. They too believe war may now be unavoidable. But
 they want Russia to move first. They want Germany to appear to have been attacked. [C-029]
 
 Why does appearance matter, if the armies are going to fight anyway?
 
 It matters inside Germany. The Social Democrats are the largest party in the Reichstag. Millions
 of German workers have been taught for years that they must oppose an aggressive war. But a war of
-defence against the Tsar—the great symbol of reaction—that is another matter.
+defence against the Tsar—the great symbol of reaction—that's another matter.
 
 And it matters outside Germany.
 
@@ -983,7 +982,7 @@ Belgium.
 Belgium is neutral. Its neutrality is guaranteed by the European powers—including Prussia, whose
 obligations have passed to the German Empire.
 
-For Britain this is not an abstract legal question.
+For Britain this isn't an abstract legal question.
 
 Look at the map.
 
@@ -1003,7 +1002,7 @@ But the French have built powerful fortifications along the direct frontier.
 
 The way around them lies through Luxembourg and Belgium.
 
-We often call this simply the Schlieffen Plan. One should not imagine a sacred script that could
+We often call this simply the Schlieffen Plan. Don't imagine a sacred script that could
 not be altered by a single railway or a single battalion. German planning changed over the years.
 But the western plan actually prepared for 1914 depended on moving through Luxembourg and neutral
 Belgium. [C-030]
@@ -1022,15 +1021,15 @@ On that, Germany will make no promise.
 
 And Belgium?
 
-Germany cannot promise to respect Belgian neutrality. Its operations may require it to enter
-Belgian territory. But if Belgium does not take sides against Germany, Germany promises to restore
+Germany can't promise to respect Belgian neutrality. Its operations may require it to enter
+Belgian territory. But if Belgium doesn't take sides against Germany, Germany promises to restore
 Belgian territorial integrity when the war is over. [C-031]
 
-In other words: allow us to invade Belgium, and afterward we shall give Belgium back.
+In other words: let us invade Belgium, and we'll give it back afterward.
 
 This is the proposal Germany makes to Britain.
 
-It is difficult to exaggerate how badly conceived it is.
+It's difficult to exaggerate how badly conceived it is.
 
 The telegram reporting it reaches the British Foreign Office. Sir Eyre Crowe, one of its senior
 officials, writes a minute on the paper:
@@ -1038,11 +1037,11 @@ officials, writes a minute on the paper:
 “The only comment that need be made on these astounding proposals is that they reflect discredit
 on the statesman who makes them.” [Q-020]
 
-That is the official language of the British Foreign Office.
+That's the official language of the British Foreign Office.
 
 These astounding proposals reflect discredit on the statesman who makes them.
 
-Because Germany has now told Britain, in writing, that it is contemplating the invasion of a
+Because Germany has now told Britain, in writing, that it's contemplating the invasion of a
 neutral country whose neutrality Germany itself is bound to respect.
 
 And on the same day, 29 July, Sir Edward Grey speaks to the German ambassador in London, Prince
@@ -1050,7 +1049,7 @@ Lichnowsky.
 
 Grey is still trying to avoid war. He still refuses to promise in advance exactly what Britain will
 do. But he warns Lichnowsky that if Germany and France are drawn in, Britain may have to make rapid
-decisions. Britain cannot simply abandon its friends and ignore every interest that ties it to
+decisions. Britain can't simply abandon its friends and ignore every interest that ties it to
 them.
 
 And if war breaks out, Grey says, “it would be the greatest catastrophe that the world had ever
@@ -1073,7 +1072,7 @@ And the trains are almost ready to move.
 
 ## 16. The stone begins to roll
 
-The news from London produces an uncontrolled reaction in Berlin.
+Berlin loses control when the news arrives from London.
 
 Wilhelm reads Lichnowsky's telegram and covers it with furious annotations.
 
@@ -1091,16 +1090,16 @@ For the Germans, the responsibility is now Britain's.
 Meanwhile, on 29 July, the German ambassador in Brussels, von Below-Saleske, receives a sealed
 packet from Berlin.
 
-He is ordered not to open it until a telegram tells him to do so.
+He's ordered not to open it until a telegram tells him to.
 
-One useless detail—I shall inflict it on you anyway, because we are nearly there.
+One useless detail—I'll inflict it on you anyway, because we're nearly there.
 
 Below-Saleske is a career diplomat who jokes that he brings bad luck. He was in China when the
 Boxer Rebellion broke out. He was in the Ottoman Empire when the Young Turk Revolution broke out.
 
-But now, he says, I am safe. I am in Belgium. Nothing will ever happen in Brussels.
+But now, he says, I'm safe. I'm in Belgium. Nothing will ever happen in Brussels.
 
-Let us move quickly, or I shall keep you here all night.
+Let's move quickly, or I'll keep you here all night.
 
 During the night of 29 to 30 July, nobody in Berlin goes to bed.
 
@@ -1110,12 +1109,12 @@ At three in the morning Bethmann Hollweg sends an urgent message to Vienna.
 
 Slow down.
 
-Do not reject every attempt at mediation. Germany will not allow itself to be dragged into a
+Don't reject every attempt at mediation. Germany won't allow itself to be dragged into a
 continental war merely because Austria insists on crushing Serbia.
 
 Imagine the faces in Vienna.
 
-Until that moment Germany has been saying: go forward. Act quickly. Do not be weak.
+Until that moment Germany has been saying: go forward. Act quickly. Don't be weak.
 
 Now Germany says: what are you doing? Slow down.
 
@@ -1140,15 +1139,15 @@ It is false.
 
 The issue is seized and the government denies the report. Barbero tells the story as a deliberate
 General Staff leak designed to confront the government with an accomplished fact. The false report
-is documented; that specific authorship is not securely established. [C-032]
+is documented; that specific authorship isn't securely established. [C-032]
 
 But the military pressure itself is real.
 
-Moltke telephones his Austrian counterpart, Conrad von Hötzendorf. Austria has not yet ordered
+Moltke telephones his Austrian counterpart, Conrad von Hötzendorf. Austria hasn't yet ordered
 general mobilization. Moltke urges him to do it at once: if Austria mobilizes, Germany will have to
 mobilize too.
 
-The German soldiers are doing everything they can to force a decision.
+The German generals are doing everything they can to force a decision.
 
 The politicians are still resisting.
 
@@ -1162,10 +1161,10 @@ The stone had started rolling.
 
 This is a magnificent declaration of political surrender.
 
-We are the government. We command the state. We have made the threats, written the ultimatums,
+We're the government. We command the state. We've made the threats, written the ultimatums,
 approved the plans.
 
-But now the stone is rolling, and we no longer know how to stop it.
+But now the stone is rolling, and we don't know how to stop it anymore.
 
 ## 17. “They are going to abandon us”
 
@@ -1174,11 +1173,11 @@ That day the New York Stock Exchange collapses.
 Because of the time difference, the news reaches London on the morning of 31 July. The London Stock
 Exchange collapses too and closes at ten o'clock to limit the damage.
 
-Germany has still not mobilized.
+Germany still hasn't mobilized.
 
 Instead it sends an ultimatum to Russia.
 
-You have begun general mobilization. Suspend it within twelve hours. If you do not, Germany will
+You've begun general mobilization. Suspend it within twelve hours. If you don't, Germany will
 mobilize—and that means war.
 
 In London, Grey is now convinced that the war may be unavoidable and that Britain may have to
@@ -1193,21 +1192,21 @@ He asks France and Germany for a guarantee that they will respect Belgian neutra
 
 France answers almost immediately.
 
-Germany does not answer.
+Germany doesn't answer.
 
 On 1 August Grey speaks to the Cabinet. He warns that German domination of the continent would
-create a danger on the scale Britain had faced under Napoleon. He makes clear that he cannot remain
+create a danger on the scale Britain had faced under Napoleon. He makes clear that he can't remain
 in office and conduct a policy he believes disastrous.
 
-But the Cabinet still does not give France the guarantee it wants.
+But the Cabinet still doesn't give France the guarantee it wants.
 
 Outside waits the French ambassador, Paul Cambon.
 
-You can imagine his profession in those days. He has spent years building the relationship with
+You can imagine what his job is like in those days. He's spent years building the relationship with
 Britain. Now France is facing Germany, and his task is to obtain the one answer his government
 needs: if war comes, Britain will be with us.
 
-Grey comes out and tells him there is no guarantee.
+Grey comes out and tells him there's no guarantee.
 
 According to the later account of Arthur Nicolson, the senior Foreign Office official who saw him,
 Cambon entered Nicolson's room white and speechless. Nicolson took his hands and guided him into a
@@ -1226,7 +1225,7 @@ France believes Britain is going to let it down.
 
 Meanwhile everything accelerates.
 
-Russia does not suspend mobilization.
+Russia doesn't suspend mobilization.
 
 On 1 August Germany orders general mobilization and that evening delivers its declaration of war
 on Russia. [C-034]
@@ -1235,7 +1234,7 @@ It is the first declaration of war between the great powers.
 
 Why does Germany declare war?
 
-Because it sent an ultimatum. The ultimatum expired. According to the logic of the procedure, the
+Because it sent an ultimatum. The ultimatum expired. By the logic of the procedure, the
 next document is a declaration of war.
 
 Tirpitz later objected bitterly to this.
@@ -1244,7 +1243,7 @@ Why should Germany declare first, after doing everything possible to avoid “th
 attacking party”? Why allow the lawyers of the Foreign Office to make Germany appear the aggressor?
 [Q-025]
 
-But we must place his objection correctly. Tirpitz says he raised the question on 1 August, as a
+But we need to place his objection correctly. Tirpitz says he raised the question on 1 August, as a
 Federal Council meeting was breaking up, after the declaration had already been sent. Bethmann
 answered that the army wanted to cross the frontier immediately; Moltke later denied that this was
 necessary. Tirpitz's explanation about Foreign Office legalism was his own retrospective
@@ -1256,7 +1255,7 @@ We issued an ultimatum.
 
 They did not comply.
 
-Therefore the procedure says that we must declare war.
+So the procedure says we must declare war.
 
 On the same day Germany mobilizes and declares war.
 
@@ -1264,24 +1263,24 @@ For Germany, the two things really have become one.
 
 ## 18. “Your uncle would have given me a different answer”
 
-There is still time for one grotesque misunderstanding.
+There's still time for one grotesque misunderstanding.
 
 At five in the afternoon on 1 August, a telegram arrives from Lichnowsky in London.
 
-He has not yet had the conversation with Grey that he is trying to describe. He thinks he has
-understood that Britain may propose an agreement: if Germany does not attack France, then France
+He hasn't yet had the conversation with Grey that he's trying to describe. He thinks he's
+understood that Britain may propose an agreement: if Germany doesn't attack France, then France
 and Britain will remain neutral.
 
-This is not, in fact, Grey's proposal.
+This isn't, in fact, Grey's proposal.
 
 But the telegram reaches Berlin and causes pandemonium.
 
 Wilhelm and Bethmann are ecstatic.
 
-Wonderful! We no longer have to fight France and Russia. We shall fight only Russia. If France and
+Wonderful! We no longer have to fight France and Russia. We'll fight only Russia. If France and
 Britain remain outside, the nightmare of the two-front war disappears.
 
-There is only one small matter.
+There's only one small matter.
 
 Change the mobilization orders.
 
@@ -1289,19 +1288,19 @@ Send everything east.
 
 They summon Moltke to the palace.
 
-And we must say something about Moltke the Younger. He bears one of the greatest names in Prussian
+And we need to say something about Moltke the Younger. He bears one of the greatest names in Prussian
 military history. His uncle, Moltke the Elder, won the wars that created the German Empire.
 
-The nephew is not the uncle.
+The nephew isn't the uncle.
 
-He is under immense strain. He arrives at the palace and they show him the telegram.
+He's under immense strain. He arrives at the palace and they show him the telegram.
 
 Britain and France may remain neutral. Change the deployment. Send the army against Russia.
 
-Moltke says it cannot be done.
+Moltke says it can't be done.
 
 The orders have gone out. The trains are moving. Millions of men, horses, guns, and wagons are
-entering a schedule planned in minute detail. Stop it now, reverse it, and there will be chaos.
+entering a schedule planned in minute detail. Stop it now, reverse it, and there'll be chaos.
 
 Wilhelm insists.
 
@@ -1315,8 +1314,8 @@ Cruel.
 
 And devastating.
 
-Was Moltke literally unable to halt the western deployment? That is too strong. Wilhelm disputed
-it, and historians have disputed it since. But stopping trains is not the same as improvising a
+Was Moltke literally unable to halt the western deployment? That's too strong. Wilhelm disputed
+it, and historians have disputed it since. But stopping trains isn't the same as improvising a
 coherent eastern campaign. What matters here is that Moltke believed—or insisted—that a usable war
 plan could no longer be changed under that pressure. [C-035]
 
@@ -1324,9 +1323,9 @@ The machine continues according to plan.
 
 That evening German troops enter Luxembourg, the first step on the route toward Belgium.
 
-Before invading Belgium, however, Germany must observe the forms.
+Before invading Belgium, however, Germany must go through the motions.
 
-It must deliver an ultimatum.
+It has to deliver an ultimatum.
 
 On 2 August a telegram reaches Below-Saleske in Brussels:
 
@@ -1339,22 +1338,22 @@ The German note begins:
 “The German Government has received reliable information according to which French forces intend
 to march on the Meuse by way of Givet and Namur.” [Q-027]
 
-Germany therefore requires passage through Belgium for its own defence. This is not to be
-interpreted as hostility. If Belgium adopts a friendly neutrality and does not resist, Germany
+Germany therefore requires passage through Belgium for its own defence. This isn't to be
+interpreted as hostility. If Belgium adopts a friendly neutrality and doesn't resist, Germany
 promises to evacuate after the war, preserve Belgian territorial integrity, and pay for damage.
 [C-036]
 
-The alleged imminent French invasion is a pretext, not an established intelligence fact.
+The alleged imminent French invasion is a pretext, not established intelligence.
 
 But notice the persistence of the form.
 
 Even now, after everything, they believe an ultimatum and an invasion require a justification.
 
-We have reliable information.
+We've got reliable information.
 
-We are acting for our own safety.
+We're acting for our own safety.
 
-We do not wish you to regard our soldiers entering your country as an act of hostility.
+We don't want you to see our soldiers entering your country as an act of hostility.
 
 Belgium decides to resist.
 
@@ -1377,7 +1376,7 @@ was false; we should not pretend that we can prove every official involved knowi
 every incident. But these reports supplied Germany's public case that France had begun the war.
 [C-037]
 
-Even the most ruthless power politics feels the need for a story.
+Even the most ruthless power politics needs a story.
 
 For its own public, if for nobody else.
 
@@ -1395,7 +1394,7 @@ She seems to have faded away behind the scenes.” [Q-028]
 
 Serbia.
 
-The whole crisis began with Serbia.
+The whole crisis started with Serbia.
 
 And now nobody is talking about Serbia at all.
 
@@ -1405,7 +1404,7 @@ Grey addresses the House of Commons. At last Parliament appears in our story—a
 almost entirely by sovereigns, ministers, diplomats, and generals.
 
 He speaks of Britain's relationship with France, the danger to the Channel, and the treaty
-guaranteeing Belgium. The Commons does not formally vote to authorize an ultimatum. But the German
+guaranteeing Belgium. The Commons doesn't formally vote to authorize an ultimatum. But the German
 demand on Belgium, and Belgium's refusal, give the government the parliamentary and public support
 it needs. [C-038]
 
@@ -1413,7 +1412,7 @@ On 4 August German troops invade Belgium.
 
 Britain sends its demand to Berlin: respect Belgian neutrality and withdraw.
 
-The British ambassador, Sir Edward Goschen, goes to Bethmann Hollweg. He does not yet know, as he
+The British ambassador, Sir Edward Goschen, goes to Bethmann Hollweg. He doesn't yet know, as he
 arrives, that the invasion has already begun.
 
 And our story ends with two famous sentences.
@@ -1433,16 +1432,16 @@ scrap of paper Great Britain was going to make war on a kindred nation.” [Q-02
 A scrap of paper.
 
 The phrase has passed into history as the emblem of a policy that signs treaties and then, when
-the treaty becomes inconvenient, behaves as though it did not exist.
+the treaty becomes inconvenient, behaves as though it didn't exist.
 
 And the other sentence?
 
-It is attributed to Wilhelm II:
+It's attributed to Wilhelm II:
 
 “To think that George and Nicky should have played me false! If my grandmother had been alive, she
 would never have allowed it.” [Q-030]
 
-It is a wonderful ending—which is precisely why we must be careful.
+It's a wonderful ending—which is precisely why we need to be careful.
 
 The words are widely repeated, but no contemporary letter, diary, marginal annotation, named
 eyewitness, or German original has been found. The earliest version we can securely trace appears
@@ -1459,11 +1458,11 @@ As though a modern European war—millions of conscripts, thousands of trains, i
 alliances, mobilization plans, nationalist publics—might still have been prevented by a
 grandmother calling the family to order.
 
-That is how the war begins.
+That's how the war begins.
 
 Nobody sets out wanting the catastrophe that follows.
 
-Every government says it is defending itself.
+Every government says it's defending itself.
 
 Every government says responsibility belongs somewhere else.
 
