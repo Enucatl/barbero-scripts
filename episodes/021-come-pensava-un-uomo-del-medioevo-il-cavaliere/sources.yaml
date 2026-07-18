@@ -25,3 +25,12 @@
   url: "https://doi.org/10.1163/9789004466500_012"
   access_date: "2026-07-18"
   locator: "in Explorations in Medieval Culture 22 (Brill), pp. 204–222; discussion of childhood riding instruction cites Shulamith Shahar, Childhood in the Middle Ages, pp. 201–211"
+- id: SRC-004
+  author: "Thomasin von Zerklaere"
+  title: "Der Wälsche Gast"
+  date: "1215–1216"
+  original_language: gmh
+  identifier: "Welscher Gast digital; text based on Heinrich Rückert's 1852 edition"
+  url: "https://digi.ub.uni-heidelberg.de/wgd/index.html"
+  access_date: "2026-07-18"
+  locator: "lines 9155–9160; digital Rückert edition"

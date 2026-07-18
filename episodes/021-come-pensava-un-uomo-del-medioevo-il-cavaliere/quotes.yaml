@@ -323,43 +323,45 @@
 - id: Q-024
   barbero_utterances: [U-00563–U-00567]
   barbero_timestamp: "44:17"
-  attribution: "Unauthenticated saying presented by Barbero as a medieval proverb"
-  source_id: SRC-003
-  original_language: null
-  original_text: null
-  translation: null
-  locator: "Rodrigues, pp. 204–222, discussion of King Duarte's instructions for teaching children to ride; citing Shahar, Childhood in the Middle Ages, pp. 201–211"
-  translation_notes: "No original-language version or medieval source for the claimed proverb could be located. Searches of English, French, Italian, German, and likely translated formulations found no trace of the fixed saying that a boy not mounted by eight was fit only to become a priest. It does not occur in Joinville's Histoire de Saint Louis, and it should not be reconstructed by back-translating Barbero. The underlying historical point is nevertheless well established. Rodrigues's peer-reviewed study of the Portuguese royal horsemanship tradition notes that King Duarte gives extensive instructions for teaching children to ride, although Duarte supplies no fixed starting age. Citing Shulamith Shahar, Rodrigues reports that aristocratic boys sat before adults on horseback from a tender age and that many already rode when sent to another lord's household at about seven; Duarte advises beginning gently with a healthy, tractable, properly fitted mount. This supports early aristocratic equestrian education, but not the exact age-eight threshold, the dismissive reference to priesthood, or the existence of a medieval proverb."
-  confidence: medium
+  attribution: "Thomasin von Zerklaere, Der Wälsche Gast"
+  source_id: SRC-004
+  original_language: gmh
+  original_text: "Swer ungeriten herzuo gât / daz er zwelf jâr in schuole stât, / der tought her nâch ze rîterschaft / niht wol: er hât dâ zuo niht kraft. / er ist nien wan ze pfaffen guot / der ungeriten schuolære tuot."
+  translation: "Whoever goes on without learning to ride and remains at school until the age of twelve is thereafter poorly suited to knighthood: he lacks the strength for it. The unridden schoolboy is fit for nothing but the priesthood."
+  locator: "Der Wälsche Gast, lines 9155–9160; Welscher Gast digital, Rückert edition"
+  translation_notes: "Barbero preserves the authentic saddle-versus-clergy contrast but changes twelve years to eight and omits the decisive school context. Thomasin's didactic verse is the identifiable medieval source; it is better described as a literary maxim than an anonymous folk proverb. Marc Bloch later condensed it in La société féodale as the saying of a German poet, helping turn it into a generalized 'medieval proverb.' Barbero likely conflates Thomasin's twelve-year deadline with the well-supported observation that aristocratic riding education often began around seven or eight. Rodrigues (SRC-003) supports that earlier training age but not Barbero's wording."
+  confidence: high
   status: resolved
-  script_treatment: paraphrase
-  research_note: "The specific proverb is not authenticated after iterative multilingual web, book, proverb-dictionary, and primary-text searches. Treat that negative result as a resolved editorial decision, not an open research flag. Evidence tier 2 strongly supports the underlying claim that aristocratic riding instruction began in childhood, often by approximately age seven, and late medieval King Duarte supplies primary instructional evidence without a numerical age. Replace the alleged proverb with a sourced paraphrase about training from early childhood; do not quote the priest punchline as medieval speech."
+  script_treatment: qualify
+  research_note: "Additional deep research supplied by the user identified Thomasin's lines 9155–9160; follow-up checking confirmed the work, date, digital scholarly edition, and line locator. Preserve the vivid contrast but correct the threshold to twelve and restore the warning against remaining in school without learning to ride. Explain only if useful that riding normally began earlier, often around seven or eight; do not present Barbero's age-eight wording as the medieval text."
 - id: Q-025
   barbero_utterances: [U-00574–U-00586]
   barbero_timestamp: "45:09"
   attribution: "Jean de Joinville"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate Joinville's description of Louis IX landing in Egypt on horseback with lance and gilded helmet, eager to attack; distinguish quotation from Barbero's dramatization."
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Quant li roys oy dire que l'enseigne Saint-Denis estoit à terre, il en ala grant pas par mi son vessel, ne onques pour le légat qui estoit avec li, ne la vout lessier, et sailli en la mer, dont il fu en yaue jusques aus esseles. Et ala l'escu au col, et le heaume en la teste, et le glaive en la main, jusques à sa gent qui estoient sur la rive de la mer. Quant il vint à terre et il choisi les Sarrazins, il demanda quex gent c'estoient; et on li dist que c'estoient Sarrazin; et il mist le glaive desous s'esselle et l'escu devant li, et eust couru sus aus Sarrazins, se sui preudome, qui estoient avec li, li eussent souffert. [...] Mais onques si bel armei ne vi; car il paroit desur toute sa gent dès les espaules en amont, un heaume dorei en son chief, une espée d'Alemaingne en sa main."
+  translation: "When the king heard that the standard of Saint-Denis was ashore, he strode rapidly through his vessel and would not stop for the legate who was with him. He leapt into the sea, where the water came up to his armpits, and went with his shield at his neck, his helmet on his head, and his lance in his hand until he reached his men on the seashore. When he came ashore and saw the Saracens, he asked what people they were. He was told they were Saracens; he lowered the lance beneath his armpit, put his shield before him, and would have charged the Saracens if the worthy men with him had allowed it. [...] Never did I see so fine an armed man, for he stood out above all his people from the shoulders upward, with a gilded helmet on his head and a German sword in his hand."
+  locator: "landing at sections 162–163, chapter XXXV, pp. 68–69; summary at sections 7–8, chapter II, p. 3; gilded helmet in a later battle at section 228, chapter XLVII, pp. 95–96"
+  translation_notes: "Direct translation from Natalis de Wailly's Old French edition. The landing scene is genuine and even more physically vivid than Barbero's version: Louis jumps into water reaching his armpits while fully armed, with shield, helmet, and lance, then prepares to charge the Saracens until his companions prevent him. But Barbero combines details from distinct moments. Louis is on foot during the landing, not mounted; Joinville says the king and the army mount only later, after the Saracens abandon Damietta and a Te Deum is sung. The standard of Saint-Denis and other troops are already ashore when Louis leaps, although Joinville's introductory summary calls him 'one of the first' to land. Louis asks what people he sees, not 'Where are the Turks?' The helmet at Damietta is not described as gilded. Joinville's famous gilded-helmet portrait occurs months later during the fighting at Mansurah, when Louis arrives mounted with his battle division and carries a German sword. The Old French 'glaive' in the landing passage means a lance, as shown when Louis couches it under his armpit. Joinville participated in the landing and frames it as one of four occasions on which Louis risked his body to spare his people, making this a first-person crusade narrative, though the work was composed decades later and its detailed calendar contains known errors."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Confirmed in substance from Joinville sections 162–163, but Barbero's image is composite. Evidence tier 1 for Joinville's transmitted participant account; modern scholarship independently identifies the landing passage and notes Joinville's chronological fallibility. Preserve Louis wading ashore in water up to his armpits, fully armed and eager to charge, but remove the horse and 'Where are the Turks?' dialogue. Either omit the gilded helmet or explicitly relocate it to Joinville's later Mansurah portrait in section 228."
 - id: Q-026
   barbero_utterances: [U-00589–U-00598]
   barbero_timestamp: "46:08"
-  attribution: "Jean de Joinville and unnamed knights"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate the exchange beside the dead knight and Joinville's claim that the joking companions were punished by dying before their wives remarried."
+  attribution: "Jean de Joinville and six unnamed knights at the burial of Hugh of Landricourt"
+  source_id: SRC-002
+  original_language: fro
+  original_text: "La vegile de quaresme-pernant, vi une merveille que je vous vueil raconter; car ce jour meismes, fu mis en terre mes sires Hues de Landricourt, qui estoit avec moy à baniere. Là où il estoit en bière en ma chapelle, six de mes chevaliers estoient apuié sus plusours saz pleins d'orge; et pour ce que il parloient haut en ma chapelle et que il faisoient noise au prestre, je lour alai dire que il se teussent, et lour dis que vilaine chose estoit de chevaliers et de gentiz homes qui parloient tandis que l'on chantoit la messe. Et il me commencierent à rire, et me distrent en riant que il li remarioient sa femme. Et je les enchoisonnai et lour dis que tiex paroles n'estoient ne bones ne bêles, et que tost avoient oublié lour compaingnon. Et Diex en fist tel vengance que l'endemain fu la grans bataille dou quaresme-prenant, dont il furent mort ou navrei à mort; par quoy il couvint leur femmes remarier toutes six."
+  translation: "On the eve of Shrove Tuesday I saw a marvel that I wish to recount to you, for that same day Sir Hugh of Landricourt, who served under my banner, was buried. While he lay on his bier in my chapel, six of my knights were leaning on several sacks full of barley. Because they were talking loudly in my chapel and making noise that disturbed the priest, I went to tell them to be quiet, and told them it was a disgraceful thing for knights and gentlemen to talk while Mass was being sung. They began to laugh at me and told me, laughing, that they were arranging the remarriage of his wife. I reproached them and told them that such words were neither good nor proper, and that they had quickly forgotten their companion. God took such vengeance on them that the next day was the great battle of Shrove Tuesday, in which they were killed or mortally wounded; consequently all six of their wives had to remarry."
+  locator: "sections 297–298, chapter LIX, pp. 124–125"
+  translation_notes: "Direct translation from Natalis de Wailly's Old French edition. Joinville identifies the deceased as Hugh of Landricourt, a knight serving under his banner, and says Hugh was buried that day. He does not state here that Hugh had just been killed in combat. Hugh lies on a bier in Joinville's chapel while Mass is sung; the six knights are leaning on sacks of barley, talking loudly, and disturbing the priest. Joinville therefore first rebukes their irreverence during Mass. The knights then laugh and say 'il li remarioient sa femme,' most safely understood as arranging or discussing the remarriage of Hugh's wife. The text does not explicitly say they are competing over which of them will marry her, despite that colorful expansion in some later retellings. Joinville says their words are neither good nor proper and that they have forgotten their companion too quickly; he does not use Barbero's invented 'still warm' line. The punishment is more immediate than Barbero reports: all six are killed or mortally wounded in the great battle the next day, Shrove Tuesday, and Joinville explicitly interprets this as God's vengeance, after which all six of their own wives have to remarry. Barbero's statement that they die sometime before the crusade ends weakens and misdates the source's pointed symmetry."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Confirmed verbatim in Joinville sections 297–298 and discussed in scholarship on crusading widowhood and remarriage. Evidence tier 1 for Joinville's transmitted participant account and his own providential interpretation. Preserve the chapel, funeral Mass, laughter, remarriage joke, rebuke, and reversal involving the six wives; name Hugh of Landricourt and correct the deaths to the next day's battle, while omitting the unsupported recent combat death, formal vigil, still-warm corpse, and any claim that the men were choosing which one would marry the widow."
 - id: Q-027
   barbero_utterances: [U-00604–U-00608]
   barbero_timestamp: "47:14"
