@@ -232,3 +232,30 @@
   url: "https://yalebooks.co.uk/book/9780300219265/blanche-of-castile-queen-of-france/"
   access_date: "2026-07-18"
   locator: "chapters on the 1226–1234 regency, Louis IX's adult reign and marriage, and Blanche's second regency, 1248–1252"
+- id: SRC-027
+  author: "Elizabeth Lapina"
+  title: "Gambling and Gaming in the Holy Land: Chess, Dice and Other Games in Sources of Crusades"
+  date: "2013"
+  original_language: en
+  identifier: "DOI 10.1080/28327861.2013.12220275"
+  url: "https://doi.org/10.1080/28327861.2013.12220275"
+  access_date: "2026-07-18"
+  locator: "Crusades 12, pp. 121–132"
+- id: SRC-028
+  author: "Kristen M. Figg"
+  title: "Blind Man's Buff: From Children's Games to Pleasure Gardens in the Late Middle Ages"
+  date: "2022"
+  original_language: en
+  identifier: "DOI 10.4324/9781003306672; ISBN 978-1-032-30791-6"
+  url: "https://doi.org/10.4324/9781003306672"
+  access_date: "2026-07-18"
+  locator: "in Gloria Allaire and Julie Human, eds., Courtly Pastimes, chapter 10"
+- id: SRC-029
+  author: "Mathilde Patin"
+  title: "Nouvelles données sur le verre du XIVe siècle en Provence : étude du mobilier en verre du couvent royal des Dominicaines de Notre-Dame-de-Nazareth à Aix-en-Provence"
+  date: "2020"
+  original_language: fr
+  identifier: "DOI 10.4000/books.pufc.19632"
+  url: "https://doi.org/10.4000/books.pufc.19632"
+  access_date: "2026-07-18"
+  locator: "in Le verre du VIIIe au XVIe siècle en Europe occidentale, pp. 201–214"

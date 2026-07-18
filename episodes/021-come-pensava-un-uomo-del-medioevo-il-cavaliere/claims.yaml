@@ -554,44 +554,104 @@
   claim: "Medieval aristocratic adults openly played board games, dice, blind man's buff, and hide-and-seek, often gambling on games."
   transcript: [U-00650–U-00658]
   centrality: sampled-incidental
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Find evidence for the listed games, adult and mixed-gender participation, stakes, terminology, and Louis IX's attitude toward gambling."
+  supporting_sources: [SRC-002, SRC-027, SRC-028]
+  conflicting_sources: [SRC-002]
+  status: resolved
+  script_treatment: qualify
+  research_note: >-
+    Joinville §405 (pp. 169–170) gives unusually concrete evidence for elite adult
+    gaming: Louis's brother Charles of Anjou was playing tables with Walter of
+    Nemours, dice and board were in use, and Walter swept a large sum of money from
+    the board when Louis angrily threw the gaming equipment into the sea. Tables is
+    safest rendered as a backgammon-family game, not as modern backgammon or
+    draughts. Lapina confirms that money or property commonly accompanied medieval
+    dice, chess, and other gaming across social and confessional boundaries. The
+    evidence also complicates any suggestion that Louis simply tolerated the custom:
+    Joinville depicts him condemning it, and §702 records his prohibition of dice for
+    royal officers and of dice manufacture. Courtly adult blind man's buff is
+    documented, especially in later-medieval evidence surveyed by Figg, but the exact
+    claim about aristocratic hide-and-seek was not securely established. Preserve the
+    lively general point about adults playing and gambling, use tables/dice as the
+    firm thirteenth-century example, and omit or explicitly qualify hide-and-seek and
+    any implication that games were invariably played for money.
 - id: C-033
   claim: "A clean white tablecloth and fine drinking vessels functioned as aristocratic status markers in Joinville's crusading camp."
   transcript: [U-00661–U-00663]
   centrality: sampled-incidental
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Verify Joinville's description and assess evidence for linen and tableware as status display; clarify whether 'crystals' or glasses is an accurate rendering."
+  supporting_sources: [SRC-002, SRC-029]
+  conflicting_sources: [SRC-002]
+  status: resolved
+  script_treatment: correct
+  research_note: >-
+    Fine tableware could function as elite display, and archaeological work supports
+    glass vessels as markers of consumption and status. But Joinville's actual scene
+    (§583, pp. 245–246; see Q-030) does not mention a white tablecloth, crystal, an
+    outdoor table, or stones. It says that the count of Eu fired a small ballista
+    through the doorway of Joinville's purpose-built dining room, breaking his pots
+    or vessels (pos) and glasses (voirres). Keep the broader status inference only if
+    useful, but describe this particular anecdote as an indoor prank involving pots
+    and drinking glasses; do not turn voirres into crystal goblets or add a white
+    tablecloth.
 - id: C-034
   claim: "Robert of Artois overtook the Templar vanguard, prompting a competitive advance that broke the planned order and ended with Robert and most Templars killed."
   transcript: [U-00676–U-00693]
   centrality: central
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Identify the battle, planned order, vanguard convention, advisers, sequence of the advance, casualties, and variations among contemporary accounts."
+  supporting_sources: [SRC-002, SRC-013]
+  conflicting_sources: [SRC-013]
+  status: resolved
+  script_treatment: qualify
+  research_note: >-
+    Joinville §§218–219 (pp. 91–92) confirms the planned order at Mansurah on 8
+    February 1250: the Templars were to form the vanguard and Robert of Artois's
+    division was to follow. Robert's men passed them while pursuing the fleeing
+    enemy. The Templars protested that their agreed precedence had been insulted;
+    after Foucaut du Merle, holding Robert's bridle and described as deaf, shouted to
+    attack, they followed pell-mell rather than suffer the dishonour of remaining
+    behind. The force became trapped in Mansurah's narrow streets. Robert, Raoul of
+    Coucy, and roughly three hundred knights were killed; Joinville says the Temple
+    lost 280 armed mounted men. Contemporary narratives differ over responsibility
+    and often blame Robert more directly for ignoring counsel, whereas Joinville
+    partly displaces blame onto Foucaut and the honour competition. Say that most of
+    this Templar contingent was destroyed, not most members of the Templar order.
 - id: C-035
   claim: "Chivalric competition and Robert of Artois's premature charge were major causes of the crusade's military failure."
   transcript: [U-00688–U-00693]
   centrality: central
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Evaluate the causal weight Barbero gives the charge against logistics, command, disease, strategy, later operations, and modern scholarship."
+  supporting_sources: [SRC-002, SRC-013, SRC-017]
+  conflicting_sources: [SRC-013, SRC-017]
+  status: resolved
+  script_treatment: qualify
+  research_note: >-
+    Joinville's sequence makes honour competition operationally causal: the Templars
+    followed Robert's premature pursuit because letting him precede them would be a
+    disgrace, and the resulting destruction was a grave tactical loss. It was a
+    major contributor, but not a sufficient explanation for the crusade's eventual
+    failure. Louis's main force continued fighting after the vanguard disaster;
+    subsequent stalemate before Mansurah, Egyptian interdiction of the supply line,
+    hunger, disease and dysentery, and the failed April withdrawal led to the army's
+    collapse and Louis's capture. Preserve the charge as the clearest dramatic
+    example of chivalric competition harming command, while describing it as one
+    major tactical cause rather than the single cause of the entire campaign's
+    defeat. Source narratives also moralize pride and recklessness, so their blame
+    language should not substitute for the wider operational explanation.
 - id: C-036
   claim: "During a retreat, Joinville and the count of Soissons held a bridge or causeway together while the crusader force withdrew."
   transcript: [U-00699–U-00725]
   centrality: central
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Identify the battle phase and location, verify the two defenders and tactical circumstances, and compare Joinville's literary scene with other evidence."
+  supporting_sources: [SRC-002, SRC-013]
+  conflicting_sources: [SRC-002]
+  status: resolved
+  script_treatment: correct
+  research_note: >-
+    Joinville §§236–243 (pp. 99–103; see Q-031) places the scene during the battle of
+    Mansurah on 8 February 1250, not during the army's April retreat toward Damietta.
+    He and John, count of Soissons, agreed to hold a small bridge over a stream so the
+    Turks could not strike King Louis in front and rear while formations were passing
+    or repositioning. They were not literally alone: Pierre de Noville initially
+    stood on Joinville's left, two royal sergeants fought before them, and the
+    constable eventually brought royal crossbowmen whose arrival drove the attackers
+    off. Joinville reports clods, darts or bolts, and Greek fire, as well as wounds to
+    himself and his horse. Keep Soissons's memorable ladies'-chambers speech, but call
+    the feature a small bridge, frame the action as protecting the king's rear during
+    the battle, and avoid presenting it as two solitary knights holding a causeway
+    while the whole crusader army retreated.
