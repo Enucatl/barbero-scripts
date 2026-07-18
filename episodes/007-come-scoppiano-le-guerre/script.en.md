@@ -155,8 +155,8 @@ This is the high age of nationalism. Every country is convinced that its duty is
 itself. It's what the Italian prime minister Antonio Salandra would call, a few months later,
 Italy's *sacro egoismo*—its “sacred self-interest.” [Q-003]
 
-But if you must think of yourself, then you must also find allies, because on your own things can
-end badly. And so each country, for its own safety, looks for alliances.
+But if you must think of yourself, then you must also find allies, because on your own you're in
+trouble. And so each country, for its own safety, looks for alliances.
 
 Serbia is allied with Russia. The Austrians think: the world will understand. Serbia is plainly a
 rogue state that has organized terrorism. It must be punished, for everybody's safety.
@@ -528,8 +528,8 @@ Did Moltke organize the assassination at Sarajevo?
 
 No. Obviously not.
 
-Sarajevo is the catalyst. It brings to the surface all these things that have been simmering for
-years.
+Sarajevo is the catalyst. It brings everything that's been simmering for years bubbling to the
+surface.
 
 So let's return to Vienna. They're preparing the ultimatum to send to Serbia.
 
@@ -724,7 +724,7 @@ remained ready. [C-024]
 
 The next day the German stock market falls.
 
-The news from London is enough to create doubt.
+The news from London is enough to plant the seed of doubt.
 
 Perhaps Britain won't remain outside after all.
 
@@ -939,7 +939,7 @@ Meanwhile the generals are saying: decide.
 Decide now.
 
 Every hour matters. Russia is slow, but it has begun to move. If Germany waits while Russia
-concentrates its enormous army, Germany throws away the one advantage on which its plans depend:
+concentrates its enormous army, Germany gives up the one advantage on which its plans depend:
 speed.
 
 The soldiers want mobilization.
@@ -971,7 +971,7 @@ world.
 
 They all know that the mechanism is carrying them toward catastrophe.
 
-But nobody wants to be the one who steps aside.
+But nobody wants to be the first to blink.
 
 ## 15. The Belgian secret
 
@@ -1029,7 +1029,7 @@ In other words: let us invade Belgium, and we'll give it back afterward.
 
 This is the proposal Germany makes to Britain.
 
-It's difficult to exaggerate how badly conceived it is.
+It could hardly have been worse.
 
 The telegram reporting it reaches the British Foreign Office. Sir Eyre Crowe, one of its senior
 officials, writes a minute on the paper:
@@ -1120,8 +1120,7 @@ Now Germany says: what are you doing? Slow down.
 
 So for the Germans the responsibility is now Vienna's.
 
-But while the politicians are trying to reverse direction, the armies are moving toward the
-edge.
+But while the politicians are trying to hit the brakes, the armies are moving toward the edge.
 
 On 30 July Russia orders general mobilization.
 
@@ -1147,7 +1146,7 @@ Moltke telephones his Austrian counterpart, Conrad von Hötzendorf. Austria hasn
 general mobilization. Moltke urges him to do it at once: if Austria mobilizes, Germany will have to
 mobilize too.
 
-The German generals are doing everything they can to force a decision.
+The German generals are doing everything they can to force the government's hand.
 
 The politicians are still resisting.
 
@@ -1223,7 +1222,7 @@ But it captures the moment.
 
 France believes Britain is going to let it down.
 
-Meanwhile everything accelerates.
+Meanwhile events begin to snowball.
 
 Russia doesn't suspend mobilization.
 
@@ -1475,7 +1474,7 @@ Every government says responsibility belongs somewhere else.
 Austria blames Serbia. Russia blames Austria. Germany blames Russia, then Britain, then Austria.
 Britain says the choice lies in Berlin.
 
-Everyone believes someone else will give way.
+Everyone expects someone else to blink.
 
 Nobody does.
 
