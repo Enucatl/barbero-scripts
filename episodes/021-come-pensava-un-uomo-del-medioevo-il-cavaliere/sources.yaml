@@ -88,3 +88,48 @@
   url: "https://doi.org/10.4000/books.pup.3849"
   access_date: "2026-07-18"
   locator: "in Mondes marins du Moyen Âge, pp. 285–295"
+- id: SRC-011
+  author: "Robert Chazan"
+  title: "The Jews of Medieval Western Christendom, 1000–1500"
+  date: "2006"
+  original_language: en
+  identifier: "DOI 10.1017/CBO9780511818325; ISBN 978-0-521-84666-0"
+  url: "https://doi.org/10.1017/CBO9780511818325"
+  access_date: "2026-07-18"
+  locator: "pp. 148–150 and 227–229, Louis IX, missionizing, and Christian-Jewish disputation"
+- id: SRC-012
+  author: "Catherine Rider"
+  title: "Lay religion and pastoral care in thirteenth century England: the evidence of a group of short confession manuals"
+  date: "2010"
+  original_language: en
+  identifier: "DOI 10.1016/j.jmedhist.2010.09.001; ISSN 0304-4181"
+  url: "https://doi.org/10.1016/j.jmedhist.2010.09.001"
+  access_date: "2026-07-18"
+  locator: "Journal of Medieval History 36, no. 4, pp. 327–340"
+- id: SRC-013
+  author: "Peter Jackson"
+  title: "The Seventh Crusade, 1244–1254: Sources and Documents"
+  date: "2007"
+  original_language: en
+  identifier: "DOI 10.4324/9781315237091; ISBN 978-0-7546-5722-4"
+  url: "https://doi.org/10.4324/9781315237091"
+  access_date: "2026-07-18"
+  locator: "chapter V, pp. 63–124, victory, disaster, captivity, and ransom in Egypt"
+- id: SRC-014
+  author: "Thomas Aquinas"
+  title: "Summa theologiae, Secunda secundae: De iuramento"
+  date: "1271–1272"
+  original_language: la
+  identifier: "Summa theologiae II–II, q. 89"
+  url: "https://www.corpusthomisticum.org/sth3089.html"
+  access_date: "2026-07-18"
+  locator: "II–II, question 89, articles 1, 3, 7, and 9"
+- id: SRC-015
+  author: "Marie-Madeleine Castellani"
+  title: "Bédouins, Tartares et Assassins, les figures de l’Autre oriental"
+  date: "2008"
+  original_language: fr
+  identifier: "DOI 10.54563/bdba.912; ISSN 2801-4835"
+  url: "https://doi.org/10.54563/bdba.912"
+  access_date: "2026-07-18"
+  locator: "Bien Dire et Bien Aprandre 26, pp. 137–150"

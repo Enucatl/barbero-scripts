@@ -101,65 +101,122 @@
   claim: "Public theological disputations between Christian clerics and rabbis formed part of medieval clerical culture, and Joinville locates one such story at Cluny."
   transcript: [U-00120–U-00131]
   centrality: supporting
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Assess the history and function of Christian-Jewish disputations and separately test the provenance and plausibility of Joinville's alleged Cluny event."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 51–53, chapter X, pp. 21–23"
+      note: "Joinville says Louis told him of a major disputation between clerics and Jews at the monastery of Cluny; the story ends in a knight assaulting the leading Jewish scholar and Louis warning laymen not to debate theology."
+    - source_id: SRC-011
+      locator: "pp. 148–150 on Louis IX, Christian missionizing, and the Cluny anecdote; pp. 227–229 on disputation and polemic"
+      note: "Places Joinville's story within the increasingly coercive thirteenth-century culture of Christian-Jewish disputation and anti-Jewish missionizing."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "sections 51–53, pp. 21–23"
+      note: "Joinville did not witness or locate the event chronologically: he explicitly presents it as a story Louis told him, and its lesson is hostile to lay disputation rather than a neutral public exchange."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tier 1 for Joinville's reported anecdote and tier 3 for its cultural setting. Preserve that formally staged Christian-Jewish disputations belonged to thirteenth-century clerical and royal polemic. Label the Cluny scene as a story Louis told Joinville, not as independently verified proceedings; its violence and coercive Christian framing are essential context."
 - id: C-008
   claim: "Friday and Lenten fasting rules were experienced as strongly binding by thirteenth-century lay Christians such as Joinville."
   transcript: [U-00150–U-00157]
   centrality: supporting
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Establish the relevant fasting and abstinence rules, their enforcement, exceptions, and evidence for elite lay observance."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 327–328, pp. 136–137"
+      note: "Joinville stops eating when reminded that the food is meat and the day Friday; although both the emir and papal legate excuse the unintentional breach, he thereafter fasts on bread and water every Friday in Lent."
+    - source_id: SRC-012
+      locator: "pp. 327–340, especially the analysis of fasting among the religious practices expected of thirteenth-century laity"
+      note: "Confession manuals show high clerical expectations for lay fasting while also revealing that observance was not uniform or always correct."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "section 328, p. 137"
+      note: "The legate was angry at Joinville's severe compensatory bread-and-water fast because he was the only important lay lord remaining with Louis, so that penance was personal rigor rather than the ordinary required rule."
+  status: resolved
+  script_treatment: clarify
+  research_note: "Evidence tiers 1 and 3. Preserve how binding Friday abstinence felt to Joinville. Distinguish abstinence from meat from fasting: his bread-and-water fast on later Lenten Fridays was self-imposed compensation, not the baseline rule, and the legate considered it imprudent in the circumstances."
 - id: C-009
   claim: "After the crusaders' defeat, high-status captives could receive courteous treatment and be held for ransom while vulnerable ordinary prisoners faced much greater danger."
   transcript: [U-00159–U-00170]
   centrality: supporting
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Identify the defeat and captors, then evaluate the treatment of prisoners by rank and condition against contemporary accounts."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 318–330, pp. 132–137; sections 351–380, pp. 146–159"
+      note: "Joinville records selection by presumed rank, compassionate treatment and medical help, the killing of sick captives unable to walk, threats against elite prisoners, and negotiations for Louis's release and ransom."
+    - source_id: SRC-013
+      locator: "chapter V, 'The First Phase of the Crusade: Victory and Disaster in Egypt,' pp. 63–124, especially the captivity and ransom documents"
+      note: "A multilingual scholarly source collection corroborates the defeat, mass captivity, differential treatment, and political-ransom negotiations."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "sections 320–330 and 351–354, pp. 133–137 and 146–148"
+      note: "Rank improved a captive's value but did not guarantee courtesy: Joinville was repeatedly threatened with death, and the imprisoned nobles were threatened during negotiations."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tiers 1 and 3. The April 1250 defeat and retreat from al-Mansurah ended in capture by Egyptian forces amid the Ayyubid-to-Mamluk transition, not simply 'the Turks.' Preserve the stark hierarchy: valuable elite captives had better prospects of protection and ransom, while sick and low-value prisoners were acutely vulnerable. Replace 'always treated courteously' with a probabilistic formulation."
 - id: C-010
   claim: "Joinville considered himself related to Emperor Frederick II and discussed that connection with a Muslim emir."
   transcript: [U-00171–U-00175]
   centrality: sampled-incidental
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Determine the claimed genealogical relationship, the emir's identity if possible, and the source wording."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 326–328, pp. 135–137"
+      note: "The chief admiral of the galleys asks whether Joinville is related to Frederick II; Joinville answers that he understood his mother to be the emperor's first cousin, after which the admiral says he values him the more."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "section 326, p. 136"
+      note: "The cautious wording 'I understood' reports Joinville's belief, not a demonstrated pedigree; the conversation is a direct question from his captor, not a cheerful comparison of family trees and mutual acquaintances."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tier 1 for what Joinville claimed. Frederick II was still alive during Joinville's capture in April 1250 and was prestigious to his captors. Preserve the encounter as Joinville's reported understanding that his mother, Béatrice d'Auxonne, was Frederick's first cousin; no reliable pedigree located establishes that exact degree, so do not state the kinship as independently proven or identify the unnamed chief admiral more precisely."
 - id: C-011
   claim: "A layman's oath invoking God could bind him permanently, and the papal legate would not necessarily dispense him from it."
   transcript: [U-00198–U-00235]
   centrality: central
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Establish thirteenth-century theology and canon law on rash oaths, validity, and dispensation, and test Joinville's episode against those norms."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 567–568, chapter CX, pp. 238–239"
+      note: "Joinville swears by God's aid that the offending knight will never again belong to his household; the legate refuses absolution because the oath is reasonable and the knight deserved the punishment."
+    - source_id: SRC-014
+      locator: "Summa theologiae II–II, question 89, articles 1, 3, 7, and 9"
+      note: "A near-contemporary systematic account defines invocation of God as an oath, binds a lawful promissory oath, rejects sinful promises, and permits dispensation where the matter becomes harmful or otherwise unsuitable."
+  conflicting_sources:
+    - source_id: SRC-014
+      locator: "II–II, q. 89, arts. 7 and 9"
+      note: "Medieval theology did not make every spoken oath permanently immutable: lawfulness, possibility, harm, authority, release by a beneficiary, and dispensation all mattered."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tier 1 for both the episode and a contemporary theological framework. Preserve the legate's refusal in this case, including his stated reason that the oath was reasonable. Do not generalize it into inability to dispense any oath or say that merely uttering 'so help me God' always bound a person forever; Joinville himself presents the story as a warning against swearing rashly."
 - id: C-012
   claim: "Joinville's reasoning presents service to God as justified in part by expectations of practical protection and longer life."
   transcript: [U-00245–U-00262]
   centrality: central
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Locate the textual basis and assess whether Barbero's description of a 'contract with God' fairly represents Joinville or imposes a stronger interpretation."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "section 461, chapter XC, p. 193; compare sections 73–75, pp. 32–33"
+      note: "Joinville rejects a fixed death date because God has power to lengthen or shorten lives; elsewhere he narrates divine protection and answered prayers as active causes in worldly events."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "section 461, p. 193"
+      note: "The passage does not say that Christians serve God in exchange for longer life, nor does Joinville call the relationship a contract; those are Barbero's interpretive conclusions."
+  status: resolved
+  script_treatment: correct
+  research_note: "Evidence tier 1. Preserve Joinville's concrete expectation that providence can alter danger and lifespan. Recast the supposed 'contract with God' as Barbero's interpretive gloss: Joinville argues for divine freedom against fatalism, but the cited text does not explicitly reduce service to God to a bargain for practical protection."
 - id: C-013
   claim: "Joinville attributed to Bedouins a fatalistic belief that each person's date of death was predetermined."
   transcript: [U-00246–U-00253]
   centrality: supporting
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Verify Joinville's attribution and wording and distinguish his report from evidence about the actual range of Muslim or Bedouin beliefs."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 249–252 and 461, pp. 106–108 and 193"
+      note: "Joinville twice attributes to Bedouins the belief that nobody can die before or after the assigned day and connects it to fighting without defensive armor."
+    - source_id: SRC-015
+      locator: "pp. 137–150, especially analysis of sections 249–252 and 461"
+      note: "Literary-historical analysis confirms Joinville's attribution, compares the similar account in Jacques de Vitry, and treats it as an effort to connect an exoticized people's supposed belief and custom."
+  conflicting_sources:
+    - source_id: SRC-015
+      locator: "pp. 143–146, comparison with Jacques de Vitry's varying Bedouin groups and descriptions"
+      note: "The report belongs to a Latin-Christian ethnographic and literary tradition whose classifications of Bedouins, Muslims, and the 'law of Ali' are inaccurate and internally unstable."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tiers 1 and 3 for what Joinville wrote, not for a universal historical Bedouin or Muslim doctrine. Preserve the attribution as Joinville's report and his link between predestination and armor. Remove the unsupported image of a death date written on the forehead, and avoid presenting his account as proof of a single timeless 'Muslim fatalism.'"
 - id: C-014
   claim: "Before leaving for the crusade, Joinville made a humble walking pilgrimage around nearby churches and then remained away from his family and castle for six years."
   transcript: [U-00270–U-00283]
