@@ -221,65 +221,125 @@
   claim: "Before leaving for the crusade, Joinville made a humble walking pilgrimage around nearby churches and then remained away from his family and castle for six years."
   transcript: [U-00270–U-00283]
   centrality: supporting
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Verify the departure ritual, places, family circumstances, chronology, and duration of absence."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 5 and 119–126, pp. 2–3 and 52–55"
+      note: "Joinville says he spent six years with Louis overseas; before departure he received the pilgrim's scrip and staff, left his castle, and walked barefoot in a pilgrim's shirt to Blécourt, Saint-Urbain, and other holy places."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "sections 122–123, pp. 53–54"
+      note: "Joinville says he left two children and deliberately did not look back at his castle; the text describes named holy places and relics, not a generic circuit around nearby churches."
+  status: resolved
+  script_treatment: clarify
+  research_note: "Evidence tier 1. Preserve the vivid departure ritual: after receiving scrip and staff, Joinville walked barefoot in a pilgrim's shirt to Blécourt, Saint-Urbain, and other holy places, then avoided looking back at his castle and two children. His own prologue calls his time with Louis overseas six years, a rounded description of the 1248–1254 absence."
 - id: C-015
   claim: "When Saracen galleys surrounded Joinville's vessel, he and his company chose surrender over an isolated proposal to seek martyrdom."
   transcript: [U-00292–U-00307]
   centrality: central
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Identify the military setting, vessel, participants, and outcome, and assess how representative Barbero's common-sense-versus-fanaticism interpretation is."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 317–320, pp. 132–133"
+      note: "During the disastrous Nile retreat, four enemy galleys approached Joinville's vessel; his company agreed to surrender to them rather than be scattered and sold ashore, rejecting one cellarer's proposal that they let themselves be killed and go to paradise."
+    - source_id: SRC-013
+      locator: "chapter V, pp. 63–124, documents on the defeat, retreat, and captivity in April 1250"
+      note: "The source collection places Joinville's surrender within the collapse of the crusader army after al-Mansurah."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "sections 318–320, pp. 132–133"
+      note: "The company chose capture by the galleys because it offered better odds than capture ashore, not from an abstract rejection of martyrdom; the lone dissenter is described as a cellarer from Doulevant."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tiers 1 and 3. Preserve the sharp exchange and their pragmatic surrender, but locate it on the Nile during the April 1250 retreat. Four galleys approached; the group preferred staying together as captives to being dispersed and sold ashore. Present the martyrdom proposal as one man's view, not proof of a general opposition between rational knights and religious fanatics."
 - id: C-016
   claim: "Louis IX's ransom agreement required payment of 200,000 livres tournois, and he insisted that the captors receive the full promised sum."
   transcript: [U-00310–U-00334]
   centrality: supporting
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Verify the ransom agreement, currency and figures, payment stages, participants, and whether the anecdote concerns this exact amount."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 342–343, 378–388, pp. 142–143 and 157–162"
+      note: "Joinville gives a reduced monetary ransom of 400,000 livres plus Damietta and describes the immediate 200,000-livre installment; Louis refused to leave the river until a disputed underpayment had been made good."
+    - source_id: SRC-013
+      locator: "chapter V, pp. 63–124, captivity and ransom documents"
+      note: "The multilingual documentary dossier confirms the negotiations and ransom settlement following Louis's capture."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "sections 342–343 and 378, pp. 142–143 and 157"
+      note: "Two hundred thousand livres was the immediate installment required before departure, not the whole ransom: Joinville says the monetary total was reduced from 500,000 to 400,000 livres, with Damietta exchanged for Louis himself."
+  status: resolved
+  script_treatment: correct
+  research_note: "Evidence tiers 1 and 3. Correct the accounting while keeping the anecdote: the settlement comprised Damietta and 400,000 livres tournois after a 100,000-livre discount. The 200,000 livres in Joinville's story was the first installment. Louis angrily ordered a reported shortfall paid and remained on the river until the full installment was delivered."
 - id: C-017
   claim: "Armenian Christian pilgrims passed through the crusader camp under Muslim permission and asked to see Louis IX as a holy king."
   transcript: [U-00342–U-00361]
   centrality: sampled-incidental
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Confirm the pilgrims' identity, route, permission, request, and the relevance of bodily relic veneration to Joinville's joke."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 563–566, pp. 237–238"
+      note: "Joinville describes a large group from Greater Armenia, traveling on pilgrimage to Jerusalem under Saracen escort after paying a substantial tribute, who asked through an interpreter to see the holy king."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "sections 565–566, pp. 237–238"
+      note: "The account says the pilgrims were conducted by Saracens for a large payment, not merely traveling under an abstract permission; Joinville, rather than the pilgrims, makes the joke about kissing Louis's bones."
+  status: resolved
+  script_treatment: clarify
+  research_note: "Evidence tier 1. Preserve the encounter at the Acre camp on 29 June 1253. Describe the visitors as pilgrims from Greater Armenia en route to Jerusalem, escorted by Muslims after paying a substantial tribute. They asked to see 'the holy king'; Joinville's joke about not kissing Louis's bones plays on treating a living saint as a future relic."
 - id: C-018
   claim: "By Joinville's time, extended knightly service—especially overseas crusading service—was normally contracted and paid rather than rendered without compensation under feudal obligation."
   transcript: [U-00373–U-00397]
   centrality: central
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Evaluate the scope and chronology of paid military service, the continuing role of vassal obligations, and whether Barbero's 'no one serves free anymore' is too absolute."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 412 and 437–441, pp. 172 and 182–184; sections 575–576, pp. 241–243"
+      note: "Joinville records wages owed to him, Louis's effort to retain knights for specified sums, Joinville's own 2,000-livre contract and subcontracts, and royal sergeants dependent on the king's pay."
+    - source_id: SRC-016
+      locator: "chapters 4–6 and 10 on armies, cavalry, warfare and authority, and crusading warfare"
+      note: "A general military history shows that paid service, tenure, lordship, household ties, obligation, and crusading commitment coexisted rather than forming a simple feudal-to-mercenary succession."
+  conflicting_sources:
+    - source_id: SRC-016
+      locator: "chapters 4–6 and 10"
+      note: "The evidence does not support saying that unpaid service had disappeared or that nine knights out of ten universally demanded wages; legal obligation and social or devotional motives remained important alongside contracts."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tiers 1 and 3. Joinville supplies unusually concrete proof that prolonged overseas service was negotiated and paid: Louis retained men for money, and Joinville both contracted with the king and paid knights beneath his banner. Recast 'nobody serves for free anymore' as an oral exaggeration. In the thirteenth century pay was fundamental to sustaining such an expedition, but feudal, household, chivalric, and religious bonds still operated."
 - id: C-019
   claim: "Louis IX's crusade required extensive finance for recruitment, knightly contingents, horses, attendants, and ships."
   transcript: [U-00362–U-00397]
   centrality: supporting
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Document financing, contracting, recruitment, fleet construction or hire, and the scale of Joinville's contingent."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 119–126 and 437–441, pp. 52–55 and 182–184"
+      note: "Joinville describes carts, river craft, warhorses, embarkation, his original nine knights, and the later sums needed to recruit and maintain a small mounted contingent overseas."
+    - source_id: SRC-017
+      locator: "chapters on preparations, financing, and the expedition of 1248–1254"
+      note: "Jordan documents the exceptional fiscal, logistical, shipping, provisioning, and recruitment demands of Louis IX's first crusade."
+    - source_id: SRC-018
+      locator: "pp. 116–149"
+      note: "Cazel surveys crusade taxes, borrowing, subsidies, transport, and participants' personal expenditure, placing Louis IX's preparations within the wider financing of crusading."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "sections 123 and 440–441, pp. 54 and 183–184"
+      note: "Joinville initially says he took nine knights, not ten; his later 2,000-livre agreement retained a differently constituted contingent. The source describes hiring and loading shipping, not royal fabrication of an entire fleet."
+  status: resolved
+  script_treatment: clarify
+  research_note: "Evidence tiers 1 and 3. Preserve the central point that crusading on this scale demanded enormous organized expenditure: recruiting and retaining fighters, their horses, arms, attendants, food, transport, ships, and stores. Use Joinville's 2,000-livre contract as a vivid individual example, while distinguishing it from his original nine-knight company and saying ships were contracted or hired rather than simply 'built.'"
 - id: C-020
   claim: "Louis IX personally began burying unburied battlefield corpses and later refused to leave the expedition unless the others could also be brought home."
   transcript: [U-00420–U-00438]
   centrality: central
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Locate and contextualize both episodes, determine whether Barbero joins separate moments, and assess hagiographic shaping."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 9–10 and 582, pp. 3–4 and 244–245"
+      note: "Joinville says Louis refused advice to escape the collapsing Nile retreat by galley because he would not abandon his people; later at Sidon he personally carried decomposing Christian bodies into burial trenches."
+    - source_id: SRC-007
+      locator: "chapters 2–5, Louis IX's conduct in Egypt and the Latin East"
+      note: "Modern scholarship supplies the expedition's chronology and treats Joinville's presentation of Louis as both crusade testimony and exemplary saintly kingship."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "sections 9–10, 419–437, and 582, pp. 3–4, 175–182, and 244–245"
+      note: "Barbero fuses separate episodes: the burial occurred at Sidon, while the explicit refusal to leave his people concerns galley evacuation during the 1250 retreat. Joinville does not report Louis asking whether transport existed to bring everyone home."
+  status: resolved
+  script_treatment: correct
+  research_note: "Evidence tiers 1 and 3, with strong hagiographic shaping. Keep the two memorable actions but separate them. During the April 1250 Nile retreat Louis refused to escape alone by galley and shared his army's capture. At Sidon in 1253 he helped carry unburied, decomposing Christian corpses into trenches. Do not relocate Sidon to Africa or turn the refusal into a literal dialogue about transporting everyone home."
 - id: C-021
   claim: "Louis IX washed poor people's feet on Maundy Thursday and encouraged Joinville to imitate him."
   transcript: [U-00449–U-00458]

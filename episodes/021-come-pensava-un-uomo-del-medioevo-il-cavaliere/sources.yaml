@@ -133,3 +133,30 @@
   url: "https://doi.org/10.54563/bdba.912"
   access_date: "2026-07-18"
   locator: "Bien Dire et Bien Aprandre 26, pp. 137–150"
+- id: SRC-016
+  author: "John France"
+  title: "Western Warfare in the Age of the Crusades, 1000–1300"
+  date: "1999"
+  original_language: en
+  identifier: "DOI 10.4324/9780203007525; ISBN 978-1-85728-467-6"
+  url: "https://doi.org/10.4324/9780203007525"
+  access_date: "2026-07-18"
+  locator: "chapters 4–6 and 10, warfare and authority, cavalry, infantry, and armies"
+- id: SRC-017
+  author: "William Chester Jordan"
+  title: "Louis IX and the Challenge of the Crusade: A Study in Rulership"
+  date: "1979"
+  original_language: en
+  identifier: "DOI 10.1515/9781400869664; ISBN 978-0-691-60675-0"
+  url: "https://doi.org/10.1515/9781400869664"
+  access_date: "2026-07-18"
+  locator: "chapters on preparations, finance, and the crusade of 1248–1254"
+- id: SRC-018
+  author: "Fred A. Cazel Jr."
+  title: "Financing the Crusades"
+  date: "1989"
+  original_language: en
+  identifier: "ISBN 978-0-299-10744-4"
+  url: "https://www.bibliovault.org/BV.book.epl?ISBN=9780299107444"
+  access_date: "2026-07-18"
+  locator: "in A History of the Crusades, vol. VI, The Impact of the Crusades on Europe, pp. 116–149"
