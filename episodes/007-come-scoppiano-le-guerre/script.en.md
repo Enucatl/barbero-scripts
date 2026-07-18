@@ -346,4 +346,235 @@ War*.
 
 Three years before the First World War.
 
-<!-- Draft continues with section 7: Warnings of catastrophe and a predicted scenario. -->
+And the chapter titles? “The Right to Make War.” “The Duty to Make War.” “World Power or
+Downfall.” [Q-006]
+
+I have chosen a German example because German generals were particularly inclined to say these
+things out loud. But similar arguments were made in every country.
+
+And of course not everybody thought that way.
+
+## 7. They knew it would be a catastrophe
+
+There were lucid people too. People who said: look, with economies as interdependent as ours, a war
+between the great powers would be a catastrophe.
+
+Let me give you another book from those years. These were books that circulated, books people
+debated. Prime ministers and army commanders might have them on their bedside tables—though we
+should not pretend we can prove the reading list of every unnamed minister and general.
+
+In 1910 an English writer, Norman Angell, publishes *The Great Illusion*. Do you remember the film
+*La Grande Illusion*? Well, the film later borrowed its title from this book, which was enormously
+famous in its time.
+
+What is the great illusion?
+
+The illusion is the belief of the great powers that having a great army, and preparing to win the
+next war, will make them safe.
+
+It will not.
+
+Angell's argument is about “the economic futility of military force as a means to national ends.”
+In other words, Barbero's summary is right even if it is not a sentence we can put in quotation
+marks: the next great war will ruin everybody. It will ruin the victors too. It is an illusion to
+believe that force will save us. [Q-007]
+
+Books like this circulated. The argument was famous. And several politicians in the Europe of
+1914 had become fairly convinced that a war among the great powers would indeed be a catastrophe.
+[C-015]
+
+But here is the paradox: these same politicians stood at the head of countries armed to the teeth.
+
+The scenario of the next war was so predictable that something extraordinary happened. Let me tell
+you this detail.
+
+In London, the British foreign secretary, Sir Edward Grey, was speaking one day with the German
+ambassador, Prince Lichnowsky. And Grey said—listen to this conversation—suppose a European war
+began because Austria attacked Serbia. Suppose Russia, pushed by public opinion, marched against
+Austria, forcing Germany to come to Austria's aid. France would inevitably be drawn in, and nobody
+could know where it would end.
+
+That is the story I am telling you tonight. Sarajevo. The crisis of the summer of 1914.
+
+Except that this conversation happened two years earlier.
+
+In December 1912.
+
+We know the wording through Lichnowsky's later German account of Grey's warning, not through a
+verbatim English transcript. But the sequence is there: Austria against Serbia; Russia moving;
+Germany helping Austria; France inevitably involved; the consequences foreseeable. [Q-008]
+[C-016]
+
+They knew the scenario. There were only so many places where a European war was likely to begin,
+and the Balkans—with all their disorders—were the obvious one.
+
+## 8. The security trap
+
+But because the next war was predictable, a split opened between politicians and soldiers.
+
+The politicians said: look at this scenario. We must do everything possible to prevent it. If it
+happens, it will be a catastrophe.
+
+But soldiers have a different profession.
+
+The soldier's profession is to say: yes—but if it happens, what do we do?
+
+If it happens, we must be ready.
+
+And so, during those years of great economic growth, the armed forces pressed their case. All this
+money—let us use it. Let us use it to make ourselves stronger.
+
+And the politicians gave way.
+
+The years before 1914 were years of an arms race. Every country strengthened its army, not because
+it believed itself the aggressor, but because it was worried about its own safety.
+
+In August 1913, ten months before Sarajevo, France passed a law increasing military service from
+two years to three.
+
+Imagine a world in which conscription lasts three years.
+
+And what did the Germans say when the French parliament voted for that law? The French want war.
+They are threatening us.
+
+It is a perfectly understandable reaction, and political scientists have given it a name: the
+security dilemma.
+
+I want to be safer, so I arm myself. My neighbors become frightened. They feel less safe than
+before, so they arm themselves too.
+
+And so on. And so on. [C-017]
+
+One more thing before we return to Austria, where they are deciding exactly what to demand from
+Serbia.
+
+The soldiers do not merely ask for more weapons. They also say: if war really happens, we must be
+ready.
+
+Being ready means making plans.
+
+In 1914, the great powers have not fought one another for a very long time. Since the Crimean War,
+since the Franco-Prussian War, almost fifty years have passed. And for those fifty years the general
+staffs have been preparing plans.
+
+If this particular war breaks out, against this particular enemy, what do we do?
+
+There are plans for every foreseeable war. Detailed plans. Precise plans. Every year they reopen
+them, refine them, adjust one more detail. We should not imagine that every plan in every country
+was completely rigid or that nothing could change. But the planning was extensive, especially in
+Germany, and decades of preparation gave military timetables enormous weight. [C-018]
+
+There were plans for everything.
+
+Here is an anecdote. In November 1913, eight months before Sarajevo, King Albert of Belgium visits
+Berlin. At a reception the Kaiser points out General Alexander von Kluck. According to the later
+recollection of the Belgian diplomat Eugène Beyens, Wilhelm introduces him with a distinctly
+deliberate emphasis: “This is the general who will be charged with marching on Paris.” The visit
+and the warnings of war are documented at the time; that vivid sentence comes from Beyens's memoir
+after the war. [Q-009]
+
+The plans are so complete that even the commanders of the individual armies have already been
+chosen.
+
+Everything is ready—if war should come.
+
+And now, finally, one last thing before we go back to Vienna, where they are discussing what to ask
+of Serbia and how to teach Serbia a proper lesson.
+
+Armaments are slow things.
+
+You lay down a battleship; it will be ready in five years. You add a year to military service; two
+years pass before the full effect is felt. So everybody watches the future balance very carefully.
+
+When will we be at our strongest?
+
+And when will they?
+
+Russia, for example, is militarily weak after the Russo-Japanese War. But Russia is investing on an
+enormous scale. In a few years it will be much stronger.
+
+So the soldiers do their job. They say: if there is going to be a war, we must be ready.
+
+And, by the way, if there is going to be a war, when would it suit us best?
+
+Soon—or later?
+
+Every general staff makes these calculations.
+
+Then something changes. In the spring of 1914, news comes that Russia and Britain are discussing a
+naval agreement.
+
+I have barely mentioned Britain so far. Britain has no binding alliance of the kind we have been
+discussing—we will come back to that in a moment—but now it is talking with Russia.
+
+Can you imagine the effect in Berlin?
+
+Berlin says: Russia and France are already allied against us in the next war, whenever it comes. If
+Britain joins them too, our position will become worse.
+
+These Anglo-Russian talks begin in April. In May, the German army's chief, Helmuth von Moltke,
+speaks privately—not in public—of Germany's prospects diminishing with delay. The preventive-war
+view attributed to him is summed up in the phrase: “I consider a war inevitable, and the sooner the
+better.” The familiar wording survives through a diary tradition with a textual caveat, so it is
+Moltke as reported, not a stenographic transcript. But the outlook is real. [Q-010]
+
+Germany's military leaders fear that Russia is growing stronger and that Britain is drawing closer
+to France and Russia. Delay, to them, looks dangerous. [C-019]
+
+Four weeks remain before Sarajevo.
+
+## 9. The ultimatum
+
+Did Moltke organize the assassination at Sarajevo?
+
+No. Obviously not.
+
+Sarajevo is the catalyst. It brings to the surface all these things that have been simmering for
+years.
+
+So let us return to Vienna. They are preparing the ultimatum to send to Serbia.
+
+It will be an extremely harsh ultimatum, because the Austrians do not want the Serbs simply to
+accept it. Austria wants the war, and Austria has Germany's blank cheque.
+
+The Germans press Vienna: hurry. Present the world with a fait accompli. The sooner you act, the
+better. The Russians will not dare intervene.
+
+But Austria is a country where things are done calmly.
+
+A country where things are done slowly.
+
+There are two governments, the Austrian government and the Hungarian government, and they have to
+agree. Then there is the Austrian army: slow, backward, taking a long time to prepare.
+
+And think of something nobody today would think of. It is July. It is harvest time. The soldiers
+are at home on leave, gathering the grain. Austria is an agricultural country.
+
+It takes time.
+
+The Austrians are in no hurry. In Berlin they are frantic: we are always being dragged along behind
+this backward country.
+
+At last, on 23 July, almost a month after the assassination, the Austrian ultimatum is ready. It is
+delivered to the Serbian government.
+
+It is extraordinarily severe.
+
+Austria says: the Serbian government has done nothing to stop the spread of terrorism. Serbian
+officers and officials are involved in the Sarajevo assassination. Therefore the Serbian government
+must publish a declaration disassociating itself from every form of hostility toward Austria. It
+must close newspapers and dissolve associations that spread hatred of Austria. It must dismiss
+public officials and army officers involved in anti-Austrian activity. It must arrest the people
+on an Austrian list.
+
+And it must open investigations into terrorism on Serbian soil—in which Austrian investigators
+will participate.
+
+The note was designed to be unacceptable, though not every individual demand was literally
+impossible. The most intrusive points required Austro-Hungarian collaboration in suppressing
+subversion and in Serbia's judicial inquiry. Austria wanted rejection, because rejection would
+provide the war it had decided to fight. [C-020]
+
+On 24 July, the capitals of the world wake to news of the ultimatum.
+
+<!-- Draft continues with section 10: International reaction and British distance. -->
