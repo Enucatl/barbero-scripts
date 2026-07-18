@@ -287,3 +287,275 @@ So forms matter.
 
 Forms matter. You mustn't break them. This is a religious life which, as we've seen, is intensely
 felt and spontaneous—and at the same time profoundly attached to formal rules.
+
+## 5. Be careful what you swear
+
+Formal rules also govern the words you say.
+
+This is a curious world, because everybody constantly has God and the devil on their lips.
+Everybody. People swear all the time. When they want to assert something, they say, “By God,” “in
+God's name,” “by God's head,” “by God's wounds.” Every great lord seems to have his own particular
+way of swearing. The count of Soissons, whom we'll meet again later, swears “by God's cap.”
+
+Constantly.
+
+And the devil is always there too: go to the devil, the devil take you, may the devil have a part
+in it. Joinville says this is a disgrace to the fine kingdom of France. He had spent twenty-two
+years in Louis's company, and never once heard the king swear by God, the Virgin, or the saints.
+When Louis wanted to insist that something was true, he simply said, “Truly, it was so,” or,
+“Truly, it is so.” And Joinville never heard him name the devil unless the word had to be read in a
+book or in the life of a saint. [Q-007]
+
+That doesn't mean Louis never mentioned God, of course. Joinville's point is that he never swore
+by God.
+
+The devil was worse. Joinville says that in his own household, anyone who used one of these
+expressions earned a cuff or a slap—and the rule had almost stamped out this bad habit among his
+people. Not a vague penance, then. A slap. [Q-007] [SRC-002]
+
+Invoking God to strengthen what you're saying, on the other hand, can be legitimate. You call God
+as your witness. Joinville did it himself.
+
+But sometimes that gets you into trouble.
+
+This happened on the crusade, as most of tonight's stories do. The crusading army was on the move,
+so the camp had to be shifted and the tents pitched in a new place each night. One evening a knight
+who had chosen the site for Joinville's tent came to him and said:
+
+“My lord, I have lodged you better tonight than you were lodged yesterday.”
+
+“My lord”—*sire*—because in Old French you didn't use that word only for a king. A great lord was
+*sire* too.
+
+Now the knight who had chosen the previous night's site hears this. He leaps up in a fury, grabs
+the other man by the hair, and shouts, “You are very bold to speak about something I do.” [Q-008]
+
+This is appallingly discourteous. Two knights pulling each other's hair in front of their lord—the
+height of vulgar, ill-bred behavior.
+
+Joinville loses his temper. He jumps up, punches the attacker between the shoulder blades until he
+lets go, and says:
+
+“Out of my household now; for, so help me God, you will never be with me again.” [Q-008]
+
+The knight leaves in great distress and repents. Giles le Brun, the constable of France, comes to
+plead for him. Come on, he says, over a thing like that?
+
+And Joinville's reaction is more or less: as far as I'm concerned, fine.
+
+But I swore.
+
+I said, “So help me God, you will never be with me again.” I can't simply take you back now as if
+nothing happened. If the papal legate releases me from the oath, I'll be delighted to have you
+back.
+
+So they go to the legate and explain the whole business. And the legate says no. He says he has no
+power to absolve Joinville from this particular oath, because it was reasonable and the knight had
+thoroughly deserved the punishment. That doesn't mean every oath was permanent or that a churchman
+could never dispense one. The point is that the legate judged this oath valid and reasonable in
+this case. [Q-008] [C-011] [SRC-014]
+
+And this, says Joinville, is why I'm showing you what happened: be careful not to swear an oath
+that reason will then require you to keep. “He who swears readily perjures himself readily.”
+[Q-008]
+
+So you have to be careful what you say.
+
+## 6. A bargain with God?
+
+Another striking feature of this religious outlook—certainly as Joinville expresses it, and no
+doubt shared by many others—is its concreteness.
+
+I said earlier that miracles happen. I said that people constantly call upon God as witness.
+
+But there's more.
+
+People constantly expect help from God, the Virgin, and the saints. When trouble comes, when
+you're in danger, when you're risking your skin in battle, you invoke God—and you expect God to
+help you.
+
+During the crusade, Joinville writes about a belief he attributes specifically to the Bedouins.
+We need to keep that framing: this is Joinville's medieval account, not evidence of one timeless
+“Muslim fatalism.” He says the Bedouins believe that nobody can die except on the day appointed to
+him. He even connects this belief with their refusal to wear armor in battle. But he doesn't say
+that the date of death is written on each person's forehead; that's a later explanatory image.
+[Q-009] [C-013] [SRC-015]
+
+You know the idea: every person already has an appointed day of death.
+
+Joinville thinks it's absurd.
+
+Because if the day of your death is already fixed in a way that nothing can alter, then God can't
+help you change anything. When you're in battle, risking your life, you can invoke God all you
+like—it makes no difference, because everything has already been settled.
+
+And Joinville says this is a faithless idea. Here is the conclusion that struck me most—the most
+interesting conclusion he draws:
+
+“For those who served God would be fools if we did not believe that he had the power to lengthen
+our lives and preserve us from harm and misfortune; and we must believe in him, for he has the
+power to do all things.” [Q-010]
+
+To Joinville, this seems perfectly obvious.
+
+Now, I would call that a kind of bargain with God. That is my interpretation, not Joinville's own
+word and not an explicit contract in his text. His argument is really that God remains free to
+alter events and save us from danger. But the practical logic is still hard to miss: serving God
+comes with the expectation that God can lengthen life and protect you from harm. [C-012]
+
+And perhaps you can already glimpse what seems to me a great contradiction in this religious
+outlook. On the one hand it's so warm, so sincere. On the other, it doesn't exclude attachment to
+concrete interests—to concrete advantages, to the help one hopes to receive.
+
+Of course, serving God also means making sacrifices, sometimes very heavy ones.
+
+## 7. The one man who wanted martyrdom
+
+And who could know that better than Joinville, who spent six years away on crusade?
+
+When he tells us about his departure, he does it in very few words.
+
+I left.
+
+Louis, when he departed, crossed half his kingdom on foot, dressed as a pilgrim with staff and
+scrip. Joinville didn't do exactly the same thing. But the abbot of Cheminon gave him his own
+pilgrim's scrip and staff, and he left the castle on foot, barefoot, dressed in wool. He went to
+Blécourt, Saint-Urbain, and the other holy relics nearby. [C-014]
+
+And while he was walking, he says:
+
+“I never once wished to turn my eyes back toward Joinville, for fear that my heart would soften at
+the thought of the fine castle I was leaving and of my two children.” [Q-011]
+
+Two children. His wife isn't mentioned in that sentence, although she was of course part of the
+life he left behind.
+
+So yes, sacrifices were made. After that departure he was away for six years before he saw his
+children and the castle of Joinville again.
+
+But even while making sacrifices, they kept hold of their common sense.
+
+You didn't go on crusade for the pleasure of being killed. Quite the opposite. You went hoping to
+save your skin and eventually come home. These crusading knights weren't all fanatical martyrs.
+
+And that becomes wonderfully clear at the very moment when the crusaders are routed and the
+Egyptian forces begin taking prisoners.
+
+During the April 1250 retreat, Joinville is aboard a vessel on the Nile with his knights, his
+household officers, and the rest of his people. Four of the sultan's galleys are approaching,
+carrying about a thousand men. Surrender is unavoidable. The real question is whom to surrender
+to: the galleys, which will probably keep Joinville's company together, or the soldiers on shore,
+who may scatter them and sell them to the Bedouins.
+
+Joinville calls his people together. What do we do now?
+
+They all agree. Surrender to the galleys. There is absolutely no other sensible choice.
+
+But one of Joinville's cellarers, a household officer from Doullens, says:
+
+“My lord, I do not agree with this counsel.”
+
+And what do you advise?
+
+“I favor letting ourselves all be killed; then we shall all go to paradise.” [Q-012]
+
+Now that really is the Middle Ages as we expect it to be, isn't it?
+
+And notice that it isn't one of the noble knights who has this idea, but an ordinary household
+officer. Here we are; let's go through with it; let's be consistent all the way to martyrdom.
+
+This is the Middle Ages we expect.
+
+Except that only one man says it.
+
+Joinville disposes of the proposal in one tiny sentence:
+
+“But we did not believe him.” [Q-012]
+
+In other words, they didn't take his advice. They surrendered, and many of them survived. The
+choice was pragmatic: capture by the galleys looked safer than being dispersed ashore. So the
+scene shouldn't become proof that all sensible knights rejected religious martyrdom. It shows us
+one man's view—and everybody else's very practical response. [C-015] [SRC-013]
+
+Common sense. Religion. Religious obligations. Keeping your word. It wasn't easy to be consistent
+in this world.
+
+## 8. A saint keeps his word—and takes a joke
+
+Good King Louis was a saint partly because he always kept his word, even to the Saracens.
+
+And that rather surprises Joinville. Keeping your word, yes—but with *them*?
+
+Yet he saw it happen.
+
+After their captivity, the ransom is being paid. The whole settlement involved the return of
+Damietta and a monetary ransom reduced from five hundred thousand to four hundred thousand livres
+tournois. The two hundred thousand livres in this particular story are the first installment,
+which had to be paid before Louis left the river—not the entire ransom. Still, it was an enormous
+sum. The money had arrived, it had taken days to weigh and hand over, and they were almost
+finished. [C-016] [SRC-002] [SRC-013]
+
+Then Sir Philippe de Nemours tells the king that the captors have been underpaid by one
+balance-load—ten thousand livres.
+
+The king becomes extremely angry. He had promised to pay two hundred thousand before leaving the
+river, and two hundred thousand must be paid. [Q-013]
+
+And then the little comedy begins.
+
+Joinville, who is standing there, treads on Philippe's foot to tell him to keep quiet.
+
+No, no, my lord. He was joking. It isn't true. Deceive the Saracens? Who could possibly manage
+that? Everybody knows they're the most skillful counters in the world.
+
+Philippe takes the hint. Yes, yes, that's right. I was joking.
+
+But the king isn't fooled.
+
+“May misfortune befall such a joke,” he says. And he commands Philippe, by the fealty he owes as
+the king's man, to make sure that any missing ten thousand livres are paid without fail. Louis
+also refuses advice to slip away to the ship waiting at sea. He will not leave the river until the
+full promised installment has been delivered. [Q-013]
+
+So he doesn't personally march off to inspect the accounts, as the story sometimes has it. But he
+does insist that Philippe make good any shortfall, and he remains where he is until the promise is
+kept. [C-016]
+
+You see, it wasn't always easy to live with this king.
+
+I began by telling you about a crusading knight with a profound religious faith. But having a
+profound faith yourself is one thing. Having to live and work with a saintly king—a man who pushes
+everything to the limit—is another.
+
+When Joinville wrote as an old man, Louis was officially a saint. He had been canonized. But when
+these things happened, they were both younger. Louis already had a reputation for holiness, yes,
+but you see the difference. Joinville admired him enormously. He loved him. Working with him was
+still not easy. Not at all. There were plenty of opportunities for friction.
+
+Fortunately, the king had one saving grace: he had a sense of humor. He could take a joke, because
+more than once Joinville said something outrageous.
+
+On one occasion, while Louis's army was encamped on the sands at Acre, a large company of Armenian
+Christians passed through on pilgrimage to Jerusalem. They were being conducted by Muslim escorts
+after paying a substantial tribute—not simply wandering through under some vague permission.
+Through an interpreter, they asked Joinville if they might see “the holy king.” [C-017]
+
+Joinville goes to find Louis. They're close: one is the king and the other his officer, certainly,
+but they know each other very well. Louis is sitting in a pavilion, leaning against the tent pole,
+right on the sand, without even a carpet underneath him.
+
+Joinville says:
+
+“My lord, outside there is a large company from Greater Armenia going to Jerusalem, and they ask
+me to show them the holy king; but I have no intention of kissing your bones just yet.” [Q-014]
+
+Kissing his bones: any medieval listener would understand the joke at once. Most saints are dead,
+and people approach them through their relics. Their bones are venerated. Their bones are kissed.
+
+But telling the living king, “I'm not ready to kiss your bones yet,” is not exactly a delicate way
+to put it.
+
+Fortunately, Louis laughs openly. He tells Joinville to bring the pilgrims in. They see the king,
+and the two sides commend one another to God. [Q-014] [C-017]
+
+Another time, the issue is money.
