@@ -226,54 +226,58 @@
   barbero_utterances: [U-00426–U-00438]
   barbero_timestamp: "34:02"
   attribution: "Louis IX, as reported by Jean de Joinville"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate Louis's refusal to depart without the others because they love their lives as he loves his; establish the crisis, wording, and scope of those he meant."
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Lors dist li roys : « Signour, j'ai oy vostre avis et l'avis de ma gent; or vous redirai-je le mien, qui est teix, que se je descent de la nef, que il a céans tiex cinc cens persones et plus qui demorront en l'ille de Cypre, pour la poour dou péril de lour cors (car il n'i a celi qui autant n'aint sa vie comme je faiz la mienne), et qui jamais, par avanture, en lour païz ne renterront. Dont j'aim miex mon cors et ma femme et mes enfants mettre en la main Dieu, que je feisse tel doumaige à si grant peuple comme il a céans. »"
+  translation: "Then the king said: 'Lords, I have heard your advice and the advice of my people; now I will tell you mine. If I leave the ship, there are five hundred people or more aboard who, fearing danger to their lives—for there is not one among them who does not love his life as much as I love mine—will remain on the island of Cyprus, and who may perhaps never return to their own countries. Therefore I would rather place my own person, my wife, and my children in God's hands than inflict such harm on so great a number of people as are aboard.'"
+  locator: "section 628, chapter CXXIII, p. 264; context sections 618–629, pp. 260–265"
+  translation_notes: "Direct translation from Natalis de Wailly's Old French edition. The central line is genuine, including Louis's frank statement that he loves his own life as much as the other passengers love theirs. Barbero substantially generalizes the setting, however. This is one specific event on the 1254 return voyage from the Holy Land: Louis's ship struck a sandbank near Cyprus and suffered serious damage, and the shipmasters advised Louis, his wife, and their children to transfer to another vessel. Louis did not ask whether the entire expedition could be brought home; he reasoned that if he abandoned the damaged ship, more than five hundred people aboard might likewise refuse to sail in it, become stranded on Cyprus, and perhaps never reach their countries. His concern is therefore immediately for the passengers on this vessel, not in the quoted passage for everyone in the army, though the following section underscores the plight of poorer travelers unable to pay for another passage. Louis explicitly chooses to place himself, his wife, and his children in God's hands rather than cause that harm."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Confirmed verbatim in Joinville section 628. Evidence tier 1 for Joinville's transmitted Old French eyewitness account. Preserve the memorable comparison between Louis's love of his life and everyone else's, but restore the concrete 1254 shipboard setting near Cyprus, the five hundred-plus passengers, and the inclusion of his wife and children; do not recast it as a general refusal to abandon a collapsing crusade."
 - id: Q-018
   barbero_utterances: [U-00439–U-00448]
   barbero_timestamp: "34:56"
   attribution: "Louis IX and Jean de Joinville"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate Louis's leprosy-or-mortal-sin question and Joinville's answer preferring thirty mortal sins; verify number, phrasing, and ensuing admonition."
+  source_id: SRC-002
+  original_language: fro
+  original_text: "« Or vous demant-je, fist-il, lequel vous ameries miex, ou que vous fussiés mesiaus, ou que vous eussiés fait un pechié mortel? » Et je, qui onques ne li menti, li respondi que je en ameroie miex avoir fait trente que estre mesiaus. Et quant li frère s'en furent parti, il m'appela tout seul, et me fist seoir à ses piez et me dist : « Comment me deistes-vous hier ce? » Et je li diz que encore li disoie-je. Et il me dist : « Vous déistes comme hastis musarz; car vous devez savoir que nulle si laide mezelerie n'est comme d'estre en pechié mortel, pour ce que l'ame qui est en pechié mortel est semblable au dyable : par quoy nulle si laide meselerie ne puet estre. Et bien est voirs que quant li hom meurt, il est guéris de la meselerie dou cors; mais quant li hom qui a fait le pechié mortel meurt, il ne sait pas ne n'est certeins que il ait eu en sa vie tel repentance que Diex li ait pardonnei : par quoy grant poour doit avoir que celle mezelerie li dure tant comme Diex yert en paradis. Si vous pri, fist-il, tant comme je puis, que vous metés votre cuer à ce, pour l'amour de Dieu et de moy, que vous amissiez miex que touz meschiez avenist au cors, de mezelerie et de toute maladie, que ce que li pechiés mortex venist à l'ame de vous. »"
+  translation: "'Now I ask you,' he said, 'which would you rather: that you were a leper, or that you had committed a mortal sin?' And I, who never lied to him, answered that I would rather have committed thirty than be a leper. When the friars had left, he called me aside alone, made me sit at his feet, and said: 'Why did you say that to me yesterday?' I told him that I still said the same. He said: 'You spoke like a rash fool, for you should know that there is no leprosy so hideous as being in mortal sin, because the soul that is in mortal sin resembles the Devil; therefore no leprosy can be so hideous. It is true that when a man dies he is cured of the leprosy of the body. But when a man who has committed a mortal sin dies, he does not know and cannot be certain that in his lifetime he repented in such a way that God pardoned him; therefore he should greatly fear that this leprosy will last as long as God is in paradise. So I beg you as earnestly as I can, for love of God and of me, to set your heart on preferring every bodily misfortune—leprosy and every other illness—to mortal sin entering your soul.'"
+  locator: "sections 27–28, chapter IV, pp. 10–11; introductory exchange at section 26, p. 10"
+  translation_notes: "Direct translation from Natalis de Wailly's Old French edition. Barbero accurately preserves Louis's choice between being a leper and having committed one mortal sin, Joinville's emphatic preference for thirty mortal sins, and the memorable rebuke. The answer is immediate, but the admonition is not: the exchange begins before two friars whom Louis has summoned, and only after they leave does Louis call Joinville aside. Louis's words 'Comment me deistes-vous hier ce?' indicate that the private correction occurs the next day. Joinville does not capitulate immediately; when challenged he repeats that he still holds the same view. Louis calls him a 'hastis musarz,' approximately a rash or thoughtless fool, then argues that bodily leprosy ends at death whereas mortal sin may remain unforgiven and imperil the soul eternally. The memoir gives no date or place for this conversation, so it should not be assigned specifically to the crusade merely because other famous dialogues occurred overseas."
+  confidence: high
+  status: resolved
+  script_treatment: preserve
+  research_note: "Confirmed verbatim in Joinville sections 27–28, with the number thirty explicit. Evidence tier 1 for Joinville's transmitted Old French first-person account, independently quoted and analyzed in modern scholarship on medieval leprosy and penitential imagery. Preserve the comic force and ensuing lecture; if expanding the scene, note the friars, the delayed private rebuke, and Joinville's stubborn repetition of his answer."
 - id: Q-019
   barbero_utterances: [U-00449–U-00458]
   barbero_timestamp: "35:34"
   attribution: "Louis IX and Jean de Joinville"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate Louis's invitation to wash poor people's feet and Joinville's oath refusing to wash the peasants' feet; establish source language and devotional context."
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Il me demanda se je lavoie les piez aus povres le jour dou grant jeudi : « Sire, dis-je, en maleur! les piez de ces vilains ne laverai-je jà. — Vraiement, fist-il, ce fu mal dit; car vous ne devez mie avoir en desdaing ce que Diex fist pour nostre enseignement. Si vous pri-je, pour l'amour de Dieu premier, et pour l'amour de moy, que vous les acoustumez à laver. »"
+  translation: "He asked me whether I washed the feet of the poor on Maundy Thursday. 'My lord,' I said, 'God forbid! I will never wash the feet of those common people.' 'Truly,' he said, 'that was badly said, for you must not disdain what God did for our instruction. So I ask you, first for the love of God and then for love of me, to accustom yourself to washing them.'"
+  locator: "section 29, chapter IV, pp. 11–12"
+  translation_notes: "Direct translation from Natalis de Wailly's Old French edition. The core exchange is genuine and explicitly concerns washing poor people's feet on 'grant jeudi,' Maundy or Holy Thursday, in imitation of Christ's exemplary act. Barbero accurately conveys Joinville's blunt class contempt and Louis's disapproval, but dramatizes the wording. Louis asks whether Joinville washes the poor's feet; Joinville does not first watch the king perform the rite in this passage, nor does Louis deliver Barbero's conversational preamble about what a beautiful thing it is. Joinville says 'en maleur!', an emphatic refusal best rendered 'God forbid!' or 'certainly not,' rather than swearing 'by the faith I owe God.' His 'ces vilains' contrasts the aristocratic speaker with low-status common people and here refers back to the poor; 'those peasants' is possible as rhetorical English but is more socially specific than the Old French requires. Louis says Joinville spoke badly, explains that he must not disdain what God did for human instruction, and asks him to make a habit of washing their feet. The text records no response or compliance from Joinville."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Confirmed verbatim in Joinville section 29 and independently treated in scholarship as a Maundy Thursday scene patterned on Christ's washing of the disciples' feet. Evidence tier 1 for Joinville's transmitted first-person Old French account. Preserve Joinville's forceful refusal and Louis's correction, but do not invent an oath or a witnessed royal ceremony; translate 'vilains' broadly enough to retain its class contempt without silently narrowing the poor to agricultural peasants."
 - id: Q-020
   barbero_utterances: [U-00474–U-00494]
   barbero_timestamp: "37:20"
   attribution: "Robert de Sorbon and Jean de Joinville"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate Robert's complaint about Joinville dressing more richly than the king and Joinville's reply contrasting their fathers; recover exact wording and court context."
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Là me vint querre maistres Roberz de Sorbon, et me prist par le cor de mon mantel, et me mena au roy; et tuit li autre chevalier vindrent après nous. Lors demandai-je à maistre Robert : « Maistre Roberz, que me voulez vous? » Et me dist : « Je vous veil demander se li roys se seoit en cest prael, et vous vous allez seoir sur son banc plus haut que li, se on vous en deveroit bien blasmer. » Et je li diz que oil. Et il me dist : « Dont faites vous bien à blasmer, quant vous estes plus noblement vestus que li roys; car vous vous vestez de vair et de vert, ce que li roys ne fait pas. » Et je li diz : « Maistre Roberz, sauve vostre grâce, je ne faiz mie à blasmer se je me vest de vert et de vair; car cest abit me lessa mes pères et ma mère. Mais vous faites à blâmer; car vous estes fiz de vilain et de vilainne, et avez lessié l'abit vostre père et vostre mère, et estes vestus de plus riche camelin que li roys n'est. » Et lors je pris le pan de son seurcot et dou seurcot le roy, et li diz : « Or esgardez se je di voir. » Et lors li roys emprist à deffendre maistre Robert de paroles, de tout son pooir."
+  translation: "Master Robert de Sorbon came to fetch me there, took me by the hem of my cloak, and led me to the king; all the other knights followed us. I asked Master Robert, 'Master Robert, what do you want with me?' He said: 'I want to ask you this: if the king were sitting in this meadow and you went and sat on his bench higher than he, should you rightly be blamed for it?' I said yes. He said: 'Then you are indeed to blame when you are more nobly dressed than the king, for you dress in vair fur and green cloth, which the king does not.' I said: 'Master Robert, saving your grace, I am not to blame if I dress in green and vair, for my father and mother left me this mode of dress. But you are to blame, for you are the son of a villein man and a villein woman, and you have abandoned the dress of your father and mother and are dressed in richer camelin cloth than the king.' Then I took the hem of his surcoat and the hem of the king's and said to him: 'Now see whether I am telling the truth.' The king then began to defend Master Robert verbally with all his might."
+  locator: "sections 35–36, chapter VI, pp. 14–15"
+  translation_notes: "Direct translation from Natalis de Wailly's Old French edition. The scene occurs at Corbeil during Pentecost, after dinner, with eighty knights present; Louis is in the small meadow below the chapel speaking with the count of Brittany. Robert takes Joinville by the hem of his cloak and leads him to the king, while the knights follow. Before criticizing the clothes, Robert constructs an analogy: just as Joinville would be blameworthy for sitting higher than the king on the same bench, he is blameworthy for dressing more nobly. The named materials are vair—a prestigious squirrel fur, not ermine—and green cloth. Joinville says that his father and mother 'left' him this habit or mode of dress. That may invoke inherited aristocratic status and its proper clothing rather than identify the garment itself as a literal bequest, so Barbero's 'this garment was left to me as an inheritance by my father' is too narrow and omits his mother. Joinville calls Robert the son of both a 'vilain' and a 'vilainne,' says he abandoned his parents' dress, and physically compares Robert's richer camelin surcoat with the king's. Here the social insult means low-born or non-noble parentage; it need not establish that Robert's father was specifically an agricultural peasant. Louis does intervene and vigorously defends Robert, but Joinville reports no formal pronouncement ending the dispute."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Confirmed verbatim in Joinville sections 35–36 and widely cited in scholarship on Robert de Sorbon, medieval social mobility, and clothing as a marker of rank. Evidence tier 1 for Joinville's transmitted first-person Old French account. Preserve the confrontation, Robert's bench analogy, the fur and green cloth, Joinville's attack on Robert's parentage, the comparison of hems, and Louis's defense; qualify the supposed literal inheritance and avoid narrowing 'vilain' to a documented peasant occupation."
 - id: Q-021
   barbero_utterances: [U-00495–U-00506]
   barbero_timestamp: "38:57"
