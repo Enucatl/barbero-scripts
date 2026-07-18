@@ -1258,13 +1258,16 @@ There's still time for one grotesque misunderstanding.
 
 At five in the afternoon on 1 August, a telegram arrives from Lichnowsky in London.
 
-He hasn't yet had the conversation with Grey that he's trying to describe. He thinks he's
-understood that Britain may propose an agreement: if Germany doesn't attack France, then France
-and Britain will remain neutral.
+It reads:
 
-This isn't, in fact, Grey's proposal.
+“Sir E. Grey just asked me by telephone whether I believed that I could declare that we would not
+attack France in a war between Germany and Russia in case France should remain neutral. I declared
+that I thought I could give that assurance.”
 
-But the telegram reaches Berlin and causes pandemonium.
+In Berlin, that conditional question is understood as a firm British offer: France will remain
+neutral, Britain will guarantee it, and Germany need only promise not to attack France.
+
+The telegram causes pandemonium.
 
 Wilhelm and Bethmann are ecstatic.
 
