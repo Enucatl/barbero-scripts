@@ -554,8 +554,20 @@
   claim: "Medieval aristocratic adults openly played board games, dice, blind man's buff, and hide-and-seek, often gambling on games."
   transcript: [U-00650–U-00658]
   centrality: sampled-incidental
-  supporting_sources: [SRC-002, SRC-027, SRC-028]
-  conflicting_sources: [SRC-002]
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 405 and 702, pp. 169–170 and 295"
+      note: "Joinville describes Charles of Anjou and Walter of Nemours playing tables with dice and substantial stakes; he also records Louis's prohibition of dice among royal officers and of dice manufacture."
+    - source_id: SRC-027
+      locator: "pp. 121–132"
+      note: "Lapina documents crusade-era dice, chess, and other games played for money or property across social and confessional boundaries."
+    - source_id: SRC-028
+      locator: "chapter 10"
+      note: "Figg surveys adult courtly blind man's buff, principally from later-medieval evidence."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "sections 405 and 702, pp. 169–170 and 295"
+      note: "Louis condemns rather than tolerates gambling; Joinville's tables episode does not establish draughts, hide-and-seek, mixed-gender play, or that games were always played for money."
   status: resolved
   script_treatment: qualify
   research_note: >-
@@ -578,8 +590,17 @@
   claim: "A clean white tablecloth and fine drinking vessels functioned as aristocratic status markers in Joinville's crusading camp."
   transcript: [U-00661–U-00663]
   centrality: sampled-incidental
-  supporting_sources: [SRC-002, SRC-029]
-  conflicting_sources: [SRC-002]
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "section 583, chapter CXIII, pp. 245–246"
+      note: "Joinville's dining-room prank explicitly involves a purpose-built room, a small ballista, and broken pots or vessels and glasses."
+    - source_id: SRC-029
+      locator: "pp. 201–214"
+      note: "Archaeological study supports glass tableware as a marker of elite consumption and status, although its Provençal material is fourteenth-century."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "section 583, pp. 245–246"
+      note: "The anecdote contains no white tablecloth, crystal, outdoor tables, tents, or identified stone ammunition."
   status: resolved
   script_treatment: correct
   research_note: >-
@@ -596,8 +617,17 @@
   claim: "Robert of Artois overtook the Templar vanguard, prompting a competitive advance that broke the planned order and ended with Robert and most Templars killed."
   transcript: [U-00676–U-00693]
   centrality: central
-  supporting_sources: [SRC-002, SRC-013]
-  conflicting_sources: [SRC-013]
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 218–219, chapter XLV, pp. 91–92"
+      note: "Joinville gives the planned Templar vanguard, Robert's advance past it, the Templars' complaint about precedence, the pell-mell pursuit into Mansurah, and the resulting losses."
+    - source_id: SRC-013
+      locator: "chapter V, pp. 63–124, source dossier on the battle of Mansurah"
+      note: "Jackson's multilingual dossier confirms the tactical disaster and exposes variations among contemporary narratives about responsibility and sequence."
+  conflicting_sources:
+    - source_id: SRC-013
+      locator: "chapter V, pp. 63–124"
+      note: "Other contemporary narratives blame Robert more directly than Joinville does; 'most Templars' can responsibly refer only to the participating contingent, not the order as a whole."
   status: resolved
   script_treatment: qualify
   research_note: >-
@@ -617,8 +647,23 @@
   claim: "Chivalric competition and Robert of Artois's premature charge were major causes of the crusade's military failure."
   transcript: [U-00688–U-00693]
   centrality: central
-  supporting_sources: [SRC-002, SRC-013, SRC-017]
-  conflicting_sources: [SRC-013, SRC-017]
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 218–219, pp. 91–92"
+      note: "Joinville explicitly connects the Templars' pursuit to the shame of allowing Robert to precede them and records the severe tactical loss that followed."
+    - source_id: SRC-013
+      locator: "chapter V, pp. 63–124"
+      note: "The campaign dossier establishes the charge as a major tactical disaster within a longer sequence of operations."
+    - source_id: SRC-017
+      locator: "chapters on the Egyptian campaign of 1249–1250"
+      note: "Jordan places Mansurah within the campaign's wider strategic, logistical, financial, and command problems."
+  conflicting_sources:
+    - source_id: SRC-013
+      locator: "chapter V, pp. 63–124, especially the post-Mansurah operations, retreat, and captivity"
+      note: "The army did not collapse immediately after Robert's charge; supply interdiction, stalemate, hunger, disease, and the April retreat were also decisive."
+    - source_id: SRC-017
+      locator: "chapters on the Egyptian campaign of 1249–1250"
+      note: "The crusade's defeat cannot be reduced to chivalric competition or one premature advance."
   status: resolved
   script_treatment: qualify
   research_note: >-
@@ -638,8 +683,17 @@
   claim: "During a retreat, Joinville and the count of Soissons held a bridge or causeway together while the crusader force withdrew."
   transcript: [U-00699–U-00725]
   centrality: central
-  supporting_sources: [SRC-002, SRC-013]
-  conflicting_sources: [SRC-002]
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 236–243, chapter XLIX, pp. 99–103"
+      note: "Joinville describes the small bridge, his agreement with the count of Soissons, the purpose of protecting Louis's rear, the other nearby defenders, and the arrival of royal crossbowmen."
+    - source_id: SRC-013
+      locator: "chapter V, pp. 63–124, battle of Mansurah documents"
+      note: "The source dossier places the episode in the battle of 8 February 1250 rather than the later retreat toward Damietta."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "sections 236–243, pp. 99–103"
+      note: "Joinville and Soissons were not literally alone, the feature was a small bridge rather than a causeway, and the scene did not occur during the army's April retreat."
   status: resolved
   script_treatment: correct
   research_note: >-
