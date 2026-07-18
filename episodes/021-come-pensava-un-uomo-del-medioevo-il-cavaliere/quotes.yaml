@@ -113,55 +113,59 @@
 - id: Q-009
   barbero_utterances: [U-00246–U-00253]
   barbero_timestamp: "20:29"
-  attribution: "Jean de Joinville, reporting an attributed Bedouin belief"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate the statement that a person's death is fixed or written on the forehead; determine Joinville's exact attribution and whether Barbero's wording is literal or explanatory."
+  attribution: "Jean de Joinville, describing a belief he attributes to Bedouins"
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Lour créance est teix, que nus ne puet morir que à son jour, et pour ce ne se veulent-il armer; et quant il maudient lour enfans, si lour dient : « Ainsi soies-tu maudis, comme li Frans qui s'arme pour poour de mort ! » [...] J'ai veu en cest pais, puis que je reving d'outre mer, aucuns desloiaus crestiens qui tenoient la loy des Beduyns, et disoient que nulz ne pouoit morir qu'à son jour; et lour créance est si desloiaus, qu'il vaut autant dire comme Diex n'ait pouoir de nous aidier. Car il seroient fol cil qui serviroient Dieu, se nous ne cuidiens que il eust pooir de nous eslongier nos vies et de nous garder de mal et de mescheance; et en li devons-nous croire, que il est poissans de toutes choses faire. [...] Li autres poins si est teix, que il croient que nulz ne puet mourir que jusques au jour que il li est jugié; et ce ne doit nulz croire, car Diex a pooir d'alongier nos vies et d'acourcir. Et en cesti point croient li Beduin; et pour ce ne se weulent armer quant il vont es batailles, car il cuideroient faire contre le commandemant de lour loy."
+  translation: "Their belief is that no one can die except on his appointed day, and for that reason they will not wear armor; and when they curse their children, they say: 'May you be accursed like the Frank who arms himself for fear of death!' [...] Since returning from overseas, I have seen in this country some disloyal Christians who held to the Bedouins' law and said that no one could die except on his appointed day. Their belief is so faithless that it amounts to saying that God has no power to help us. For those who served God would be fools if we did not believe that he had the power to lengthen our lives and preserve us from harm and misfortune; and we must believe in him, for he has the power to do all things. [...] Another tenet is that they believe no one can die before the day appointed to him. No one should believe this, because God has the power to lengthen and shorten our lives. The Bedouins believe this tenet, and for that reason they will not wear armor when they go into battle, because they would think that they were acting against the commandment of their law."
+  locator: "sections 251 and 253, chapter LI, pp. 106–107; repeated at section 461, chapter XC, p. 193"
+  translation_notes: "Direct translation from three closely related passages in Natalis de Wailly's Old French edition; the ellipses mark Joinville's repetition of the claim in distinct sections. Barbero accurately captures Joinville's attribution of a fixed day of death to Bedouins and his Christian objection that this would deny God's power to help or prolong life. The image of each person carrying his death 'written on his forehead' does not occur in Joinville and should be treated as Barbero's explanatory embellishment. Joinville does not say that named Bedouins personally explained the doctrine to him; he presents it in his own ethnographic description and later says that he had encountered Christians in France who adopted what he calls the Bedouins' law. His text says an appointed or adjudged day, not necessarily a calendar date revealed in advance. The claim describes Joinville's medieval representation and should not be generalized into an uncomplicated statement of Muslim theology or universal Bedouin belief."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Confirmed in substance and stated three times by Joinville. Evidence tier 1 for Joinville's wording in the accessible Old French scholarly edition; evidence tier 2 scholarship independently identifies sections 249–253 and 461 as his representation of Bedouin fatalism. Preserve Joinville's theological reaction, omit or identify the forehead image as Barbero's metaphor, and frame the belief explicitly as Joinville's attribution rather than an established description of all Bedouins or Muslims."
 - id: Q-010
   barbero_utterances: [U-00254–U-00262]
   barbero_timestamp: "21:13"
   attribution: "Jean de Joinville"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Find the rhetorical question about being foolish to serve God if God cannot prolong life or help in danger; distinguish Joinville's wording from Barbero's 'contract' interpretation."
+  source_id: SRC-002
+  original_language: fro
+  original_text: "J'ai veu en cest pais, puis que je reving d'outre mer, aucuns desloiaus crestiens qui tenoient la loy des Beduyns, et disoient que nulz ne pouoit morir qu'à son jour; et lour créance est si desloiaus, qu'il vaut autant dire comme Diex n'ait pouoir de nous aidier. Car il seroient fol cil qui serviroient Dieu, se nous ne cuidiens que il eust pooir de nous eslongier nos vies et de nous garder de mal et de mescheance; et en li devons-nous croire, que il est poissans de toutes choses faire."
+  translation: "Since returning from overseas, I have seen in this country some disloyal Christians who held to the Bedouins' law and said that no one could die except on his appointed day. Their belief is so faithless that it amounts to saying that God has no power to help us. For those who served God would be fools if we did not believe that he had the power to lengthen our lives and preserve us from harm and misfortune; and we must believe in him, for he has the power to do all things."
+  locator: "section 253, chapter LI, pp. 106–107"
+  translation_notes: "Direct translation from Natalis de Wailly's Old French edition. Barbero's central sentence follows Joinville very closely: Joinville really does say that those who serve God would be fools unless they believed God could prolong their lives and protect them from harm and misfortune. The source presents this as a declarative conditional argument, not a rhetorical question, and speaks of protection from harm rather than specifically of aid on a battlefield. Barbero's 'it is for that reason that we serve him' sharpens the logical implication but is defensible as an explanation of the conditional. His description of a 'contract with God' is an illuminating modern interpretation, not Joinville's word or an explicit contractual formulation in this passage. Joinville concludes more broadly that one must believe in God because God can do all things."
+  confidence: high
+  status: resolved
+  script_treatment: preserve
+  research_note: "Confirmed almost verbatim in Joinville section 253. Evidence tier 1 for the Old French text, independently quoted and discussed in scholarship on Joinville's representation of Bedouin fatalism. Preserve the striking foolish-to-serve-God argument and its practical benefits; clearly identify the 'contract' label as Barbero's interpretation rather than medieval source language."
 - id: Q-011
   barbero_utterances: [U-00270–U-00283]
   barbero_timestamp: "22:07"
   attribution: "Jean de Joinville"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate Joinville's departure account and statement that he did not turn back toward his castle for fear of sorrow over wife and children; establish exact wording."
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Cis abbes de Cheminon si me donna m'escharpe et mon bourdon : et lors je me parti de Joinville, sans rentrer ou chastel jusques à ma revenue, à pié, deschaus et en langes; et ainsi alai à Blehecourt et à Saint-Urbain, et autres cors sains qui là sont. Et endementieres que je aloie à Blehecourt et à Saint-Urbain, je ne voz onques retourner mes yex vers Joinville, pour ce que li cuers ne me attendrisist dou biau chastel que je lessoie et de mes dous enfans."
+  translation: "The abbot of Cheminon gave me my pilgrim's scrip and staff; then I departed from Joinville, without re-entering the castle until my return, on foot, barefoot, and dressed in wool. In this way I went to Blécourt and Saint-Urbain, and to the other holy relics that are there. While I was going to Blécourt and Saint-Urbain, I never once wished to turn my eyes back toward Joinville, for fear that my heart would soften at the thought of the fine castle I was leaving and of my two children."
+  locator: "section 122, chapter XXVII, p. 53"
+  translation_notes: "Direct translation from Natalis de Wailly's Old French edition. Barbero follows the departure scene closely: the abbot of Cheminon gives Joinville the pilgrim's scrip and staff; Joinville leaves on foot and barefoot, visits Blécourt, Saint-Urbain, and other local holy relics, and deliberately does not look back toward Joinville. Joinville says he feared becoming tender-hearted over his fine castle and his two children; he does not mention his wife in this sentence. Nor does he simply say that he made a circuit of nearby churches: the text names two destinations and 'other holy relics.' 'En langes' indicates woolen clothing, not by itself a fully specified pilgrim costume. Joinville separately describes the crusading pilgrimage as six years in Louis IX's company, so Barbero's six-year framing is supported, although it is not part of the quoted departure sentence."
+  confidence: high
+  status: resolved
+  script_treatment: preserve
+  research_note: "Confirmed directly in Joinville section 122 and consistently quoted in scholarship on crusading departure and pilgrimage. Evidence tier 1 for Joinville's transmitted wording; the account was written decades after the departure rather than recorded in 1248. Preserve the scene and its emotional restraint, while naming the two children rather than adding his wife to Joinville's explicit list."
 - id: Q-012
   barbero_utterances: [U-00292–U-00307]
   barbero_timestamp: "23:38"
   attribution: "Jean de Joinville, reporting his cellarer and the company"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate the cellarer's proposal that everyone be killed and go directly to paradise and Joinville's rejection; identify the speaker's role and narrative setting."
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Ne tarda gueres que nous veismes venir quatre galies dou soudanc, là où il avoit bien mil homes. Lors j'appelai mes chevaliers et ma gent, et lour demandai que il vouloient que nous feissiens, ou de nous rendre aus galies le soudanc, ou de nous rendre à cens qui estoient à terre. Nous acordames tuit que nous amiens miex que nous nous rendissiens aus galies le soudanc, pour ce que il nous tenroient touz ensemble, que ce que nous nous rendissiens à cens qui estoient à terre, pour ce que il nous esparpilleroient et venderoient aus Beduyns. Lors dist uns miens celeriers, qui estoit nés de Doulevens : « Sire, je ne m'acort pas à cest consoil. » Je li demandai auquel il s'acordoit, et il me dist : « Je m'acort que nous nous lessons touz tuer; si nous en irons tuit en paradis. » Mais nous ne le creumes pas."
+  translation: "It was not long before we saw four of the sultan's galleys approaching, carrying fully a thousand men. I called my knights and my people and asked what they wished us to do: surrender to the sultan's galleys or surrender to those on shore. We all agreed that we preferred to surrender to the sultan's galleys, because they would keep us together, rather than to those on shore, who would scatter us and sell us to the Bedouins. Then one of my cellarers, who came from Doullens, said: 'My lord, I do not agree with this counsel.' I asked what counsel he favored, and he told me: 'I favor letting ourselves all be killed; then we shall all go to paradise.' But we did not believe him."
+  locator: "sections 318–319, chapter LXIII, p. 132"
+  translation_notes: "Direct translation from Natalis de Wailly's Old French edition. The core anecdote and its dry conclusion are genuine. The dissenter is specifically one of Joinville's cellarers, a household officer from Doullens, rather than a knight. He does not raise his hand in the text. Four sultanic galleys carrying about a thousand men are approaching Joinville's vessel, but the decision facing the company is not initially surrender versus resistance: everyone has agreed that surrender is unavoidable and is choosing between the sultan's galleys, which may keep them together, and the forces on shore, which may scatter them and sell them to Bedouins. The cellarer alone proposes that they instead let themselves be killed so that all will go to paradise. 'Mais nous ne le creumes pas' literally means 'But we did not believe him'; in context, Barbero's 'we did not listen to him' correctly conveys that they rejected his advice. The source says paradise, not explicitly 'straight to paradise.'"
+  confidence: high
+  status: resolved
+  script_treatment: preserve
+  research_note: "Confirmed directly in Joinville sections 318–319 and quoted consistently in scholarship on crusading martyrdom. Evidence tier 1 for Joinville's transmitted wording; the scene remains a memoir recollection rather than a contemporary shipboard record. Preserve the lone cellarer's proposal and Joinville's terse rejection, while retaining the practical reason the rest preferred surrender to the galleys."
 - id: Q-013
   barbero_utterances: [U-00310–U-00334]
   barbero_timestamp: "25:17"
