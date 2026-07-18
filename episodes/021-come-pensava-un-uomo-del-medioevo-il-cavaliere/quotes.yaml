@@ -170,54 +170,58 @@
   barbero_utterances: [U-00310–U-00334]
   barbero_timestamp: "25:17"
   attribution: "Louis IX, Philippe de Nemours, and Jean de Joinville"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate the ransom-payment exchange, verify the figures and participants, and establish Louis's wording when insisting that the full promised sum be paid."
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Lors dist mes sires Phelipes de Nemoes au roy que on avoit forcontei aus Sarrazins une balance de dix mille livres. Et li roys se courouça trop fort, et dist que il vouloit que on lour rendist les dix mille livres, pour ce que il lour avoit couvent à paier les dous cens mille livres, avant que il partisist dou flum. Et lors je passai mon signour Phelipe sus le pié, et dis au roy qu'il ne le creust pas, car il ne disoit pas voir; car li Sarrazin estoient li plus saige conteour qui fussent ou monde. Et mes sires Phelippes dist que je disoie voir, car il ne le disoit que par moquerie. Et li roys dist que maie encontre eust teix moquerie; « Et vous commant, dist li roys à mon signour Phelippe, sur la foy que me devez comme mes hom que vous estes, que se les dix milles livres ne sont paies, que vous les facez paier sans nulle faute. » Moût de gens avoient louei au roy que il se traisist en sa nef, qui l'atendoit en mer, pour li oster des mains aus Sarrazins. Onques li roys ne vont nullui croire; ainçois disoit que il ne partiroit dou flum, aussi comme il l'avoit couvent, tant que il lour eust paie dous cens mille livres."
+  translation: "Then Sir Philippe de Nemours told the king that the Saracens had been undercounted by one balance-load of ten thousand livres. The king became extremely angry and said that he wished the ten thousand livres to be returned to them, because he had promised to pay them two hundred thousand livres before leaving the river. I then trod on Sir Philippe's foot and told the king not to believe him, because what he said was untrue: the Saracens were the most skillful counters in the world. Sir Philippe said that I spoke the truth, because he had said it only as a joke. The king said, 'May misfortune befall such a joke. And I command you, Sir Philippe, by the fealty you owe me as my man, that if the ten thousand livres have not been paid, you are to have them paid without fail.' Many people had advised the king to withdraw to his ship waiting at sea, to remove himself from the Saracens' hands. The king would listen to no one; instead, he said that he would not leave the river, just as he had promised, until he had paid them two hundred thousand livres."
+  locator: "sections 386–388, chapter LXXVI, pp. 161–162; payment mechanics at sections 378 and 380–385, pp. 157–161"
+  translation_notes: "Direct translation from Natalis de Wailly's Old French edition. Barbero reproduces the comic exchange with unusual fidelity: Philippe de Nemours claims a ten-thousand-livre undercount, Louis becomes angry, Joinville treads on Philippe's foot and invokes the Saracens' skill at counting, Philippe retreats to the claim that he was joking, and Louis orders him on his fealty to ensure payment. Louis does not merely say that the joke was stupid: he curses such a joke. Nor does he say that he personally will go and inspect the accounts; he charges Philippe to make good any shortfall and refuses to leave the river until the installment is paid. The financial framing needs qualification. Two hundred thousand livres was the immediate installment due before Louis left the river, not the whole negotiated ransom: Joinville earlier gives four hundred thousand livres for the prisoners after the sultan's reduction, with Damietta exchanged for the king's person. The money was weighed in balance-loads worth ten thousand livres over Saturday and Sunday; the royal party was initially thirty thousand livres short and obtained the balance from funds held aboard a Templar vessel. The source does not say Philippe arrives cheerfully or that everyone else celebrates the supposed trick."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Confirmed directly in Joinville sections 386–388, with payment context in sections 378 and 380–385. Evidence tier 1 for Joinville's transmitted eyewitness account; scholarship on Templar finance independently uses the same passage and immediate 200,000-livre installment. Preserve the dialogue and Louis's insistence on honoring his promise, but correct the episode's total-ransom framing and do not invent an inspection by Louis himself."
 - id: Q-014
   barbero_utterances: [U-00342–U-00361]
   barbero_timestamp: "27:43"
   attribution: "Jean de Joinville to Louis IX"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate the Armenian pilgrims' request and Joinville's joke that he does not yet want to kiss Louis's bones; verify the original expression and Louis's reaction."
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Par nos journées, venimes ou sablon d'Acre, là où li roys et li os nous lojames. Illec au lieu vint à moy uns grans peuples de la Grant Hermenie qui aloit en pelerinaige en Jérusalem, par grant treu rendant aus Sarrazins qui les conduisoient. A un latimier qui savoit lour languaige et le nostre, il me firent prier que je lour monstrasse le saint roy. Je alai au roy là où il se seoit en un paveillon, apuiez à l'estache dou paveillon; et seoit ou sablon, sans tapiz et sans nulle autre chose desouz li. Je li dis : « Sire, il a là hors un grant peuple de la Grant Hermenie qui vont en Jérusalem, et me proient, sire, que je lour face moustrer le saint roy; mais je ne bé jà à baisier vos os. » Et il rist moût clerement, et me dist que je les alasse querre; et si fis-je. Et quant il orent veu le roy, il le commandèrent à Dieu, et li roys aus."
+  translation: "In the course of our marches we came to the sands of Acre, where the king and the army encamped. There a large company from Greater Armenia came to me on pilgrimage to Jerusalem, paying a heavy tribute to the Saracens who were conducting them. Through an interpreter who knew their language and ours, they asked me to show them the holy king. I went to the king, who was sitting in a pavilion, leaning against its pole; he sat on the sand without a carpet or anything else beneath him. I said to him: 'My lord, outside there is a large company from Greater Armenia going to Jerusalem, and they ask me to show them the holy king; but I have no intention of kissing your bones just yet.' He laughed very openly and told me to go and fetch them, which I did. When they had seen the king, they commended him to God, and the king did the same for them."
+  locator: "sections 565–566, chapter CX, pp. 237–238"
+  translation_notes: "Direct translation from Natalis de Wailly's Old French edition. Barbero's account is close to the source, including the bare sand beneath Louis, the request to see the 'holy king,' Joinville's remark about kissing his bones, and Louis's clear laughter. The pilgrims are described as a large company from Greater Armenia traveling to Jerusalem. They address Joinville through an interpreter and pay a heavy tribute to the Saracens conducting them; Joinville does not explicitly frame the moment as a formal truce or say merely that they traveled with Saracen permission. The scene occurs on the sands of Acre while Louis's army is marching from Jaffa toward Sidon, not in an unspecified static crusader camp. 'Je ne bé jà' gives the joke its important temporal force: Joinville has no intention of kissing Louis's bones yet. Louis laughs and orders him to bring the pilgrims, who see the king and exchange commendations to God with him."
+  confidence: high
+  status: resolved
+  script_treatment: preserve
+  research_note: "Confirmed verbatim in Joinville sections 565–566 and repeatedly discussed in scholarship as evidence of Joinville's affectionate resistance to treating his living friend as a relic. Evidence tier 1 for the transmitted Old French eyewitness account. Preserve the joke and Louis's laughter; retain 'yet,' which carries the relic-veneration implication without requiring it to be overexplained."
 - id: Q-015
   barbero_utterances: [U-00373–U-00397]
   barbero_timestamp: "29:58"
   attribution: "Jean de Joinville"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate Joinville's figures for landed income, the cost of ten knights, and the king's payment for his contingent; determine whether Barbero combines separate passages."
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Pour ce que je n'en vouloie porter nulz deniers à tort, je alai lessier à Metz en Lorreinne grant foison de ma terre en gaige. Et sachiez que, au jour que je parti de nostre pais pour aler en la Terre sainte, je ne tenoie pas mil livrées de terre; car ma dame ma mere vivoit encore : et si y alai, moy disiesme de chevaliers et moy tiers de bannières. Et ces choses vous ramantoif-je, pour ce que se Diex ne m'eust aidié, qui onques ne me failli, je l'eusse souffert à peinne par si lonc temps comme par l'espace de six ans que je demourai en Terre sainte. [...] Je, qui n'avoie pas mil livrées de terre, me charjai, quant j'alai outre mer, de moy disiesme de chevaliers et de dous chevaliers banieres portans; et m'avint ainsi que, quant je arivai en Cypre, il ne me fu demourei de remenant que douze vins livres de tournois, ma nef paie; dont aucun de mes chevaliers me mandèrent que se je ne me pourveoie de deniers, que il me lairoient. Et Diex, qui onques ne me failli, me pourveut en tel manière que li roys, qui estoit à Nichocie, m'envoia querre et me retint, et me mist huit cens livres en mes cofres; et lors oz-je plus de deniers que il ne me couvenoit."
+  translation: "Because I did not wish to carry away any money wrongfully, I went and mortgaged a large amount of my land at Metz in Lorraine. You should know that on the day I left our country for the Holy Land I did not hold land worth a thousand livres a year, because my lady mother was still alive; and I went as one of ten knights and one of three bannerets. I remind you of these things because, if God had not helped me—he who never failed me—I could scarcely have endured for so long as the six years I remained in the Holy Land. [...] I, who did not have land worth a thousand livres a year, took responsibility when I went overseas for a company of ten knights including myself, with two other knights bearing banners. When I arrived in Cyprus, after paying for my ship, I had only two hundred and forty livres tournois left. Some of my knights sent word that unless I found money, they would leave me. God, who never failed me, then provided for me in this way: the king, who was at Nicosia, sent for me, retained me in his service, and put eight hundred livres in my coffers; and then I had more money than I needed."
+  locator: "section 112, chapter XXV, p. 49; repeated and expanded at section 136, chapter XXIX, p. 58"
+  translation_notes: "Direct translation from two related passages in Natalis de Wailly's Old French edition. Barbero correctly identifies the episode as evidence that a crusading lord had to finance and retain a mounted company and could in turn enter royal paid service. The numerical details need precision. Joinville says his landed estate then yielded less than one thousand livres annually; a 'livrée de terre' is an income valuation, not simply cash he says he earned. He departs with a company of ten knights including himself—not ten knights in addition to himself—and there are three bannerets in the company, Joinville plus two others. He says he mortgaged much of his land, reached Cyprus with only 240 livres tournois after paying for the ship, and faced desertion by some knights unless he found funds. Louis summoned and 'retained' him and placed 800 livres in his coffers. Joinville does not give a total figure for what it originally cost to hire the nine other knights, nor do these passages themselves document Barbero's broader 'nine times out of ten,' universal-contract, or end-of-unpaid-feudal-service claims. The 800 livres may safely be described as royal paid retention or support, but the surviving sentence does not set out a full written contract."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Composite but confirmed in substance from Joinville sections 112 and 136. Evidence tier 1 for the Old French figures and wording; modern military scholarship independently reads the episode as evidence of the financial strain of maintaining a knightly retinue and royal subsidization. Preserve the under-1,000 income, ten-knight company, 240 livres remaining, threat of departure, and 800-livre royal retention, while omitting the nonexistent total hiring cost and reserving broad claims about paid service for the claims ledger."
 - id: Q-016
   barbero_utterances: [U-00399–U-00419]
   barbero_timestamp: "31:39"
   attribution: "Jean de Joinville to Louis IX"
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: pending
-  research_note: "Locate Joinville's offer of six months' unpaid service in exchange for Louis not becoming angry; recover the terms, duration, and royal response."
+  source_id: SRC-002
+  original_language: fro
+  original_text: "Tandis que li roys fermoit Cezaire, j'alai en sa héberge pour le veoir. Maintenant que il me vit entrer en sa chambre, là où il parloit au légat, il se leva et me trait d'une part, et me dist : « Vous savez, fist li roys, que je ne vous reting que jusques à Pasques; si vous pri que vous me dites que je vous donrai pour estre avecques moy de Pasques en un an. » Et je li dis que je ne vouloie que il me donnast plus de ses deniers que ce que il m'avoit donnei; mais je vouloie faire un autre marchié à li. « Pour ce, fis-je, que vous vous courouciés quant l'on vous requiert aucune chose, si vueil-je que vous m'aies convenant, que se je vous requier aucune chose toute ceste année, que vous ne vous courouciés pas; et se vous me refusés, je ne me couroucerai pas. » Quant il oy ce, si commença à rire moût clerement, et me dist que il me retenoit par tel convenant; et me prist par la main, et me mena par devers le légat et vers son consoil, et lour recorda le marchié que nous aviens fait; et en furent mout lié, pour ce que je estoie li plus riches qui fust en l'ost."
+  translation: "While the king was fortifying Caesarea, I went to his quarters to see him. As soon as he saw me enter his chamber, where he was speaking with the legate, he rose, drew me aside, and said: 'You know,' said the king, 'that I retained you only until Easter; so I ask you to tell me what I should give you to remain with me from Easter for one year.' I told him that I did not wish him to give me any more of his money than he had given me before, but that I wished to make a different bargain with him. 'Because,' I said, 'you become angry whenever someone asks you for something, I want you to agree that if I ask you for anything during this whole year, you will not become angry; and if you refuse me, I will not become angry either.' When he heard this, he began to laugh very openly and told me that he retained me on that condition. He took me by the hand, led me to the legate and his council, and recounted to them the bargain we had made. They were very pleased, because I was the richest man in the army."
+  locator: "sections 499–500, chapter XCVIII, pp. 210–211"
+  translation_notes: "Direct translation from Natalis de Wailly's Old French edition. Barbero preserves the delightful anger bargain and the king's laughter, but materially changes its financial terms and duration. The renewed engagement runs from Easter for one full year, not six months. Joinville does not offer to serve unpaid: he says he wants no more money than Louis had given him under the previous engagement, while adding a different nonfinancial condition. That condition is reciprocal and narrower than 'never become angry with me': Louis must not become angry when Joinville asks for something during the year, and Joinville promises not to become angry if Louis refuses. Louis initiates the renewal and asks what he should pay; the text does not say he is penniless or warns Joinville not to ask too much. Louis laughs, accepts, takes Joinville by the hand, and tells the legate and council. Their pleasure is explicitly explained by Joinville's being the richest man in the army, not by a recorded judgment that he has proved himself no merchant."
+  confidence: high
+  status: resolved
+  script_treatment: qualify
+  research_note: "Confirmed as a genuine bargain in Joinville sections 499–500, but Barbero's six-month unpaid-service version is contradicted by the source. Evidence tier 1 for the Old French text and evidence tier 2 for scholarship quoting it as a renewed paid engagement. Preserve the humor, reciprocal anger clause, laughter, and public retelling; correct the term to one year and retain the previous level of pay."
 - id: Q-017
   barbero_utterances: [U-00426–U-00438]
   barbero_timestamp: "34:02"
