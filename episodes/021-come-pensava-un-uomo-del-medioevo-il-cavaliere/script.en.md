@@ -866,3 +866,285 @@ enforced, or that a crowd repeatedly cried out for pardon. [C-026]
 Still, the principle has been established once again.
 
 So how did they justify it?
+
+## 13. Why knights thought they deserved privilege
+
+I mean in their own eyes, of course. Perhaps it can't be justified in ours. But how did they
+justify the idea that nobles were the salt of the earth, that knights were the finest people alive
+and everyone else hardly counted?
+
+Fundamentally, nobles saw themselves—and to a large extent really were—the men who made war, the
+men who risked their lives. Other people worked and made money. A knight's profession was risking
+his life: for his lord, for his brothers-in-arms, for loyalty, for the cause, for the cross when he
+went on crusade.
+
+It was a hard profession. We don't easily grasp that today. Think what it means to control a
+horse at a gallop, lower a lance, strike an opponent and throw him from the saddle—and, if he
+throws you instead, survive the fall and be ready to do it all over again.
+
+The figure of forty kilograms of armor is too high as a representative weight for Joinville's
+thirteenth-century body armor. These men primarily wore padded defenses, a mail hauberk and mail
+leggings, helmet and shield, with additional plates only gradually coming into use. A mail hauberk
+alone might weigh around eleven kilograms; the complete fighting kit varied. But correcting the
+number doesn't make the physical skill any less formidable. [C-027] [SRC-024] [SRC-025]
+
+Knightly training was an extreme sport, and one in which you could very easily lose your life. You
+had to start as a child and keep practicing for as long as you remained a fighting man.
+
+There is an identifiable medieval literary maxim here, from Thomasin von Zerklaere. It doesn't say
+eight. It says:
+
+“Whoever goes on without learning to ride and remains at school until the age of twelve is
+thereafter poorly suited to knighthood: he lacks the strength for it. The unridden schoolboy is
+fit for nothing but the priesthood.” [Q-024] [SRC-004]
+
+The age of eight probably comes from combining that line with the real fact that aristocratic
+riding education often began at seven or eight. Either way, if you wanted to become a knight, keep
+up your family's honor, win respect, and serve your lord or king, you began in childhood and
+trained all your life. [C-027] [SRC-003]
+
+And war meant hours and hours in heat, cold, rain, or frost, wearing your equipment, often with
+nothing to eat or drink.
+
+This is what the nobles tell themselves. Then, of course, you look at an actual army and discover
+infantry, crossbowmen, sergeants, sailors, servants, and all the people on foot. They were
+indispensable, and when an army collapsed, lower-status men often lacked the horses, armor, and
+ransom value that protected great lords.
+
+But knightly memoirs keep the knights in the foreground. Joinville doesn't literally fail to see
+everyone else—he sometimes names and praises sergeants, bourgeois, and crossbowmen. Still, the
+story he tells is centered on men like himself, on their horses and in their helmets. [C-028]
+
+And Joinville gives us an extraordinary image of Louis landing in Egypt.
+
+The king hears that the standard of Saint-Denis is already ashore. He strides through his ship,
+ignoring the legate who is with him, and leaps into the sea. The water comes up to his armpits. He
+goes forward with shield at his neck, helmet on his head, and lance in his hand until he reaches
+the shore. When he sees the Saracens, he asks who they are, lowers his lance, sets his shield
+before him, and would charge if the men around him allowed it. [Q-025]
+
+That is already unbeatable. We don't need the composite additions. Louis is on foot, not on
+horseback. He doesn't shout, “Where are the Turks?” And the famous gilded helmet appears in a
+different scene months later at Mansurah, when Joinville sees Louis mounted above his battle
+division with a German sword in his hand. [Q-025] [C-029]
+
+This pride in chivalric courage—the pride of being the people who continually risk their lives,
+by principle and by obligation—is what knights feel justifies all their privileges.
+
+There should, naturally, be other justifications too. They ought to be the best behaved, the most
+courteous, the most refined, the people who know how to deal with others. And to some extent that
+is true: they care about these things. Then Joinville's stories show us how often reality falls
+short.
+
+## 14. Courtesy, women, and Blanche of Castile
+
+When knights behave like common louts, the people around them are shocked.
+
+Joinville tells one story of exactly that kind. Sir Hugh of Landricourt, a knight under his banner,
+was being buried on the eve of Shrove Tuesday. Hugh lay on a bier in Joinville's chapel while Mass
+was sung. Six knights leaned on sacks of barley, talking loudly and disturbing the priest.
+
+Joinville tells them to be quiet. It's disgraceful for knights and gentlemen to talk through Mass.
+
+They laugh and say they are arranging—or at least discussing—the remarriage of Hugh's wife.
+[Q-026]
+
+Joinville is appalled. These words are neither good nor proper, he says. They have forgotten their
+companion far too quickly.
+
+The source doesn't say Hugh had just been killed in combat. It doesn't say the body was still
+warm, or that the six men were competing over which of them would marry the widow.
+
+But Joinville's ending is sharper than the retelling. The very next day comes the great battle of
+Shrove Tuesday. All six knights are killed or mortally wounded, and all six of *their* wives have
+to remarry. Joinville explicitly calls this God's vengeance. [Q-026]
+
+Then there is conduct with women—conduct “in the ladies' chambers,” as they sometimes say. Knowing
+how to behave with women, being elegant, refined, courteous: that matters in this social world.
+
+Once again Louis stands apart.
+
+Joinville notices it. But his actual criticism is narrower than saying Louis never thought about
+women. At Sidon in 1253, Queen Margaret of Provence arrives by sea with the children. Joinville
+leaves the king to meet her. When he comes back, Louis asks whether the queen and children are
+well, and even seems to have delayed a sermon for Joinville.
+
+Yet Joinville says that in five years around Louis he had never heard the king speak of his wife
+or children, either to Joinville or to anyone else. “And it was not good conduct, as it seems to
+me, to be aloof from one's wife and children.” [Q-027]
+
+That first-person limit matters. It doesn't prove that Louis lacked affection or took no interest
+in his family. It tells us what Joinville himself had—or hadn't—heard. [Q-027]
+
+Now, if we wanted to apply a little psychoanalysis to Louis, we might produce some interesting
+ideas. But that is an aside, not a historical diagnosis.
+
+Louis lost his father when he was twelve and spent years under the regency of his mother, Blanche
+of Castile, a formidable woman of power. She governed during his minority and again during his
+crusade, and remained an exceptionally influential political partner. But the adult Louis wasn't
+simply passive or controlled by his mother; from 1234 he governed in his own right. [C-030]
+
+He also had to marry, because a king must marry and produce heirs. His wife was Margaret of
+Provence. Blanche and Margaret did not get along, and Joinville says Blanche tried, as much as she
+could, to keep her son out of his wife's company except at bedtime.
+
+At Pontoise, the king's chamber was above and the queen's below, with a spiral staircase between
+them. Louis and Margaret held their conversations on that stair. Each chamber had ushers watching
+for Blanche. If she approached Louis's room, the ushers struck the door with their staffs and
+Louis ran back into his chamber so his mother would find him there. Margaret's ushers did the
+equivalent when Blanche approached Margaret's room. [Q-028] [C-031]
+
+So it isn't quite that both spouses always fled simultaneously into separate rooms, and Joinville
+doesn't tell us what scene followed if Blanche caught them. Nor does he date this to their first
+days as newlyweds. The wonderful architecture and warning system are enough. [Q-028]
+
+Then, during the crusade, news arrives that Blanche has died.
+
+Joinville says it arrived at Sidon, though Louis's confessor places the event at Jaffa. What is
+secure is Louis's grief. For two days nobody can speak to him. Then he sends a chamber servant to
+fetch Joinville. Louis is alone in his room. When Joinville enters, the king stretches out his
+arms and says:
+
+“Ah, Seneschal, I have lost my mother!” [Q-029]
+
+Then Joinville goes to Queen Margaret, who is also weeping.
+
+And because Joinville is a man who often says exactly what he thinks, he asks why. This was the
+woman Margaret hated more than anyone in the world. Why grieve now that her mother-in-law is dead?
+
+Margaret answers that she isn't weeping for Blanche. She is weeping because of the king's terrible
+distress—and also for her daughter Isabelle, later queen of Navarre, who has been left in the care
+of men. [Q-029]
+
+Not “good riddance,” then, and not a fear that Louis himself is about to die. Her answer is candid
+enough without those additions.
+
+These people can be extraordinarily direct—so direct that to us they sometimes seem almost
+childlike.
+
+## 15. Adults at play
+
+You may or may not know that medieval adults played a great deal.
+
+Some of their games are familiar. They played chess, dice, and *tables*, a family of games related
+to backgammon. Joinville gives us a particularly concrete example: Louis's brother Charles of
+Anjou was playing tables with Walter of Nemours, with dice, board, and a great deal of money on
+the table. Louis was furious and threw the dice and board into the sea. He did not, in fact,
+tolerate gambling; Joinville also records royal prohibitions against dice among officers and
+against making dice. [C-032] [SRC-027]
+
+Games were often played for money or property—but not always, so we shouldn't say every game,
+even every chess match, carried a wager. Adult courtly blind man's buff is documented, especially
+in later medieval evidence. The exact aristocratic hide-and-seek claim is much less secure, so
+we'll leave that one aside. [C-032] [SRC-028]
+
+The lively point remains: adults didn't feel embarrassed about playing in ways that might look
+childish to us.
+
+And during the crusade—when you might think they had more serious things to do—Joinville tells us
+about the games played on him by the count of Eu.
+
+The scene isn't outdoors at two tables in front of neighboring tents. Joinville had built a room
+where he and his knights ate by the light from the doorway. That doorway faced the quarters of
+Alphonse of Brienne, count of Eu. [Q-030] [SRC-005]
+
+The count was very ingenious. He built a small ballista—a miniature projectile engine—and had
+someone watch for the moment Joinville and his knights sat down to eat. Then he aimed it lengthwise
+toward their table and fired it through the doorway, breaking their pots and glasses. [Q-030]
+
+Joinville doesn't tell us what ammunition it fired. He doesn't mention a white tablecloth, and the
+glasses aren't described as crystal goblets. Fine tableware could certainly display status, but
+none of those particular decorations belongs in this anecdote. [C-033] [SRC-029]
+
+And the count had another game. Somebody had given him a young bear, so he let it loose among
+Joinville's hens and capons. It killed a dozen before anybody could get there, while the woman who
+looked after them beat the bear with her distaff. [Q-030]
+
+Very ingenious indeed.
+
+Imagine the games people play in the corridors of power today.
+
+And now we really must close. It's almost midnight, and I think we've reached the hour when our
+coach turns back into a pumpkin.
+
+## 16. When honor wrecks a battle
+
+So there is this chivalric culture. Not everyone knows how to live up to it. You're supposed to be
+well brought up; not everyone manages that. But you must show that you're different from the
+common people.
+
+You have many privileges. And in your own eyes those privileges are fair, because you're braver
+than others and risk your skin more than they do.
+
+Sometimes that goes too far.
+
+The crusade ended so disastrously in part because of what happened at Mansurah on 8 February 1250.
+The Templars were to form the vanguard, with Robert of Artois—the king's brother—and his division
+following them.
+
+Robert's men crossed the river and moved past the Templars while pursuing the fleeing enemy. The
+Templars protested: the agreed order had been broken, and their place of honor had been taken.
+Joinville says that Foucaut du Merle, who was holding Robert's bridle and was deaf, failed to hear
+the warning and shouted for the attack to continue. Other contemporary accounts place more direct
+blame on Robert for ignoring advice. [C-034] [SRC-013]
+
+But in Joinville's telling, the Templars now face their own intolerable choice. If they let Robert
+go ahead, they will be dishonored. So they spur forward too. The ordered advance degenerates into
+a pell-mell pursuit, because nobody wants the shame of being the man who stays behind.
+
+And it ends terribly. The force becomes trapped in Mansurah's narrow streets. Robert of Artois,
+Raoul of Coucy, and roughly three hundred knights are killed. Joinville says the Templar
+contingent lost 280 armed mounted men—most of that contingent, not most members of the Templar
+order everywhere. [C-034] [SRC-002]
+
+So chivalric competition causes enormous harm. It is one major tactical cause of the crusade's
+failure, but it doesn't lose the entire campaign in that instant. Louis's main force continues to
+fight. Then come stalemate, the cutting of the supply line, hunger, disease and dysentery, and the
+failed April retreat that ends with the army's collapse and Louis's capture. [C-035] [SRC-017]
+
+The charge remains a perfect example of honor undermining military command. It just isn't the only
+reason the crusade was lost.
+
+But not every knight is so overbearing.
+
+There is an enduring conflict in this culture between the cult of honor—the need to be seen, the
+beautiful gesture—and the professionalism of the soldier who knows that war has to be done
+properly.
+
+And honor can help you fight properly too. It can hold you up. It can give you courage at the
+dangerous moment.
+
+## 17. We will speak of this in the ladies' chambers
+
+During that same battle at Mansurah—not during the later retreat to Damietta—Joinville sees that a
+small bridge over a stream must be held. If the enemy cross it, they can strike Louis's force in
+front and rear while units are moving and repositioning. Joinville proposes defending it, and
+Jean II de Nesle, count of Soissons, agrees to remain with him. [C-036]
+
+They are not literally the only two men there. Pierre de Noville initially stands to Joinville's
+left. Two royal sergeants fight in front of them. The constable has gone to bring crossbowmen.
+
+Still, the situation is bad enough. Joinville and Soissons are mounted, trying to hold the bridge
+while the attackers throw clods of earth, darts or bolts, and Greek fire. Joinville is wounded in
+five places and his horse in fifteen. He even uses his padded garment as a shield. [C-036]
+
+And there, in the middle of all this, the good count of Soissons jokes with him:
+
+“Seneschal, let this pack of curs howl; for by God's coif!—that was how he swore—you and I will yet
+speak of this day in the ladies' chambers.” [Q-031]
+
+He isn't mocking Joinville for being afraid. He is bantering with him, confidently imagining that
+both of them will survive to tell the story.
+
+Eventually the constable returns with the royal crossbowmen on foot, and their arrival drives the
+attackers away. So this isn't two solitary knights stopping an entire army by themselves. But the
+count's line still captures the chivalric world perfectly. [C-036]
+
+Honor, pride, the ladies' chambers, the future story of the dangerous day—and the confidence that
+there will be a future in which to tell it.
+
+Joinville lived so long that he did indeed get to tell his adventures.
+
+And tonight I've tried, in some small way, to tell them to you too.
+
+Thank you. Thank you.
