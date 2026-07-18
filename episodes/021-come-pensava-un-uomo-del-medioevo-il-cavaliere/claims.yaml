@@ -344,65 +344,134 @@
   claim: "Louis IX washed poor people's feet on Maundy Thursday and encouraged Joinville to imitate him."
   transcript: [U-00449–U-00458]
   centrality: supporting
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Verify the episode and explain royal foot-washing practice, date, ritual context, and source wording."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "section 29, chapter IV, pp. 11–12"
+      note: "Louis asks whether Joinville washes poor people's feet on Maundy Thursday and urges him to imitate Christ by making a habit of it; Joinville bluntly refuses."
+    - source_id: SRC-019
+      locator: "pp. 94–96, especially p. 95 and notes 209–211"
+      note: "A scholarly study of royal almsgiving cites Joinville and Guillaume de Saint-Pathus for Louis's own foot washing, including thirteen poor people on Maundy Thursday and smaller Saturday observances."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "section 29, pp. 11–12"
+      note: "Joinville does not say in this passage that he first watched Louis wash feet, nor does he record whether he obeyed; the scene is a conversation about Joinville's practice."
+  status: resolved
+  script_treatment: clarify
+  research_note: "Evidence tier 1 for Louis's instruction and tier 3 for his own practice as reconstructed from hagiographical sources. Preserve Maundy Thursday as the ritual setting and the imitation of Christ as Louis's stated reason. Louis did perform foot washing, but Barbero's immediate scene should remain a question and rebuke, not be staged as Joinville watching the king or agreeing to comply."
 - id: C-022
   claim: "Robert de Sorbon rose from a non-noble background, served as a royal cleric, and founded the college later associated with the Sorbonne and University of Paris."
   transcript: [U-00474–U-00490]
   centrality: supporting
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Verify Robert's origins, title, relationship to Louis IX, college foundation, and the institutional link to the later Sorbonne."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 35–38, chapter VI, pp. 14–16"
+      note: "Joinville calls Robert 'Master Robert de Sorbon,' depicts his intimacy with Louis, and attacks him as the son of a vilain and vilaine who dressed above his parents' station."
+    - source_id: SRC-020
+      locator: "institutional history, paragraphs on the 1253 foundation and 1257 royal confirmation"
+      note: "The Chancellerie identifies Robert as Louis IX's chaplain and confessor and distinguishes his college, founded in 1253 and confirmed by Louis in 1257, from the already existing University of Paris."
+  conflicting_sources:
+    - source_id: SRC-020
+      locator: "institutional history, paragraphs on the University of Paris and Robert's college"
+      note: "Robert did not found the University of Paris: he founded a small secular theological college within it; the college's name only later acquired the broader institutional meaning 'the Sorbonne.'"
+  status: resolved
+  script_treatment: clarify
+  research_note: "Evidence tiers 1 and 3. Preserve Robert's striking rise from a non-noble background to master of theology and royal cleric. Say he founded the theological college in 1253, with royal confirmation in 1257, which became known as the Sorbonne; do not say he founded the University of Paris. Joinville's insult establishes perceived low birth, but not a securely documented parental occupation."
 - id: C-023
   claim: "In Joinville's aristocratic worldview, the category of vilains could include peasants, merchants, financiers, and other non-nobles."
   transcript: [U-00459–U-00472]
   centrality: central
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Establish the semantic and social range of the relevant Old French terms and avoid treating every occurrence as either 'peasant' or modern moral 'villain.'"
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 29, 35–38, and 89–91, pp. 11–16 and 39–40"
+      note: "Joinville applies vilains to the poor whose feet he refuses to wash, to Robert de Sorbon's low-born parents, and to the exceptionally rich burgess Artaud de Nogent when contrasted with knights and a count."
+    - source_id: SRC-021
+      locator: "entry 'vilain,' etymology and historical senses"
+      note: "The historical lexicographical record includes free peasant, roturier or non-noble, low or base, and moral or physical ugliness, demonstrating a broad and context-sensitive semantic range."
+  conflicting_sources:
+    - source_id: SRC-021
+      locator: "entry 'vilain,' earliest senses and semantic development"
+      note: "Vilain retained specifically rural and peasant senses as well as the broader roturier and contemptuous senses; it is not a precise universal synonym for every merchant, financier, or non-noble."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tiers 1 and 3. The broad aristocratic opposition Barbero hears is real in these passages: Joinville can use vilain contemptuously for poor commoners, low-born parents, and the rich burgess Artaud. Translate by context—common people, low-born, non-noble, or villein—rather than always 'peasant' or modern English 'villain.' Do not turn this flexible insult into a fixed legal category encompassing every profession."
 - id: C-024
   claim: "European nobles retained a belief in their intrinsic hereditary superiority into the nineteenth century."
   transcript: [U-00501–U-00506]
   centrality: sampled-incidental
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Assess this long-duration generalization, identify relevant regions and changes, and determine whether it can be responsibly retained without excessive scope."
+  supporting_sources:
+    - source_id: SRC-022
+      locator: "chapter 2, 'Ideologies of Inequality,' pp. 37–57"
+      note: "Doyle documents eighteenth-century European nobility as an inherited status whose defenders treated noble superiority as evident in ancestry and posterity."
+    - source_id: SRC-023
+      locator: "chapters 1–7 on French nobles' numbers, wealth, politics, religion, and family in 1800–1870"
+      note: "Higgs shows the persistence and adaptation of French noble families, identity, endogamy, and disproportionate influence after the Revolution despite legal equality."
+  conflicting_sources:
+    - source_id: SRC-023
+      locator: "introduction and conclusion"
+      note: "Nineteenth-century nobility survived in a transformed post-revolutionary society without the uniform legal privileges of the old estate, and nobles varied by country, wealth, politics, and family strategy."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tier 3. Hereditary claims of noble distinction plainly survived into modern Europe, and the point is defensible for eighteenth-century aristocratic ideology and nineteenth-century French noble identity. Narrow Barbero's continent-wide continuity claim: revolutions, legal equality, ennoblement, intermarriage, and national differences changed what nobility meant. Use it as a long-lived family ideology, not an unchanged belief held by every European noble through 1900."
 - id: C-025
   claim: "At the count of Champagne's court, the wealthy commoner Érard de Nogent was handed to a poor knight to be held until he paid ransom."
   transcript: [U-00514–U-00531]
   centrality: supporting
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Verify Érard's identity and status, the count involved, the anecdote's date and provenance, and whether it reflects actual legal power or exemplary storytelling."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 89–91, chapter XX, pp. 39–40"
+      note: "Joinville says rich burgess Artaud de Nogent was given by Henry I of Champagne to a poor knight, who seized his cloak and released him only after a 500-livre settlement."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "sections 89–91, pp. 39–40"
+      note: "The man is Artaud, not Érard; Henry the Liberal died decades before Joinville's birth, and Joinville frames the story as proof of the count's generosity rather than recording a witnessed judicial precedent."
+  status: resolved
+  script_treatment: correct
+  research_note: "Evidence tier 1 for the transmitted thirteenth-century anecdote and tier 2 for the underlying twelfth-century event. Correct the names and staging: at Troyes, Henry I the Liberal gives his wealthy, trusted burgess Artaud de Nogent to a poor knight seeking dowries for two daughters; the knight, not the count, grabs Artaud and settles for 500 livres. Label it a famous exemplary story about largesse and status power, not a stenographic record or proof of an ordinary legal right to ransom burgesses."
 - id: C-026
   claim: "A customary procedure required a royal sergeant who manhandled a knight to offer his hand for amputation before receiving pardon."
   transcript: [U-00533–U-00549]
   centrality: supporting
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Locate the source episode and determine the legal status, normal application, symbolism, and exact steps of the asserted custom."
+  supporting_sources:
+    - source_id: SRC-002
+      locator: "sections 505 and 509–510, chapter XCIX, pp. 212–214"
+      note: "Joinville says that at Caesarea, according to local custom, the royal sergeant Le Goulu came barefoot and minimally clothed, knelt, and offered a naked sword so the knight he had shoved might cut off his fist; Joinville secured pardon."
+  conflicting_sources:
+    - source_id: SRC-002
+      locator: "sections 509–510, pp. 213–214"
+      note: "Le Goulu offers the sword's pommel, not his hand, and Joinville calls this a judgment under the customs of the country; he does not present it as universal medieval law or say mutilation was never actually imposed."
+  status: resolved
+  script_treatment: qualify
+  research_note: "Evidence tier 1 for Joinville's eyewitness report. Preserve the theatrical procedure and status conflict, but localize it to Caesarea. Le Goulu offers the knight the means to cut off his fist, after which Joinville asks the knight to forgive him. The ritual evidently enables mercy, but the source does not establish whether the threatened amputation was symbolic only or how often the local custom was applied."
 - id: C-027
   claim: "Knightly combat required strenuous lifelong equestrian and weapons training beginning in childhood, using armor that Barbero estimates at forty kilograms."
   transcript: [U-00550–U-00569]
   centrality: central
-  supporting_sources: []
-  conflicting_sources: []
-  status: pending
-  script_treatment: pending
-  research_note: "Research training age and practice, armor weight and type in Joinville's period, mounted technique, horses, attendants, and physical demands; test the forty-kilogram figure."
+  supporting_sources:
+    - source_id: SRC-003
+      locator: "pp. 204–222, especially discussion of aristocratic riding instruction beginning around seven or eight"
+      note: "The study documents childhood equestrian education and the repeated practice needed for elite mounted hunting, jousting, and combat."
+    - source_id: SRC-004
+      locator: "lines 9155–9160"
+      note: "Thomasin warns that a boy who remains at school without learning to ride until twelve will thereafter be poorly suited to knighthood, a vivid contemporary expression of early training expectations."
+    - source_id: SRC-016
+      locator: "chapters 2, 5, and 12 on weapons, cavalry, campaigns, battle, and tactics"
+      note: "France describes mounted combat as a demanding learned system involving horse control, weapons, armor, formation, attendants, and sustained elite practice."
+    - source_id: SRC-024
+      locator: "pp. 19–28, especially pp. 19–21 and 27"
+      note: "Dowen shows that mail remained dominant around Joinville's crusade while supplementary plate defenses only spread unevenly from the mid-thirteenth century."
+    - source_id: SRC-025
+      locator: "chapter 4, pp. 159–167, especially p. 159"
+      note: "The armor survey gives about 25 pounds (11 kilograms) for a mail hauberk alone and distinguishes it from later complete plate harness."
+  conflicting_sources:
+    - source_id: SRC-004
+      locator: "lines 9155–9160"
+      note: "The authentic saying gives age twelve and criticizes remaining in school without riding; Barbero's age eight is a conflation with the usual earlier start of aristocratic training."
+    - source_id: SRC-024
+      locator: "pp. 19–28"
+      note: "A mid-thirteenth-century knight primarily wore mail and only variable supplementary plates, so a forty-kilogram figure associated with later full plate armor is chronologically misleading."
+  status: resolved
+  script_treatment: correct
+  research_note: "Evidence tiers 1 and 3. Preserve the bodily expertise: aristocratic boys often began riding around seven or eight and trained repeatedly in horsemanship and weapons thereafter. Use Thomasin's actual warning that an unridden schoolboy at twelve is poorly suited to knighthood. Correct the armor claim: Joinville's contemporaries primarily used padded defenses, mail hauberk and chausses, helmet, shield, and gradually added plates. A hauberk alone was roughly 11 kilograms; a complete fighting kit varied, but forty kilograms is too high as a representative weight for thirteenth-century body armor and should not be retained as a precise figure."
 - id: C-028
   claim: "Knights' self-image obscured the infantry and servants who also fought and were often especially exposed when medieval armies were defeated."
   transcript: [U-00570–U-00573]

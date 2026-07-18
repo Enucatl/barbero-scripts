@@ -160,3 +160,66 @@
   url: "https://www.bibliovault.org/BV.book.epl?ISBN=9780299107444"
   access_date: "2026-07-18"
   locator: "in A History of the Crusades, vol. VI, The Impact of the Crusades on Europe, pp. 116–149"
+- id: SRC-019
+  author: "Sally Angharad Dixon-Smith"
+  title: "Feeding the Poor to Commemorate the Dead: The Pro Anima Almsgiving of Henry III of England, 1227–72"
+  date: "2002"
+  original_language: en
+  identifier: "UCL PhD thesis; ProQuest 10010404"
+  url: "https://discovery.ucl.ac.uk/id/eprint/10103037/"
+  access_date: "2026-07-18"
+  locator: "pp. 94–96, royal Maundy and Louis IX's foot-washing practices"
+- id: SRC-020
+  author: "Chancellerie des universités de Paris"
+  title: "La fondation de la Sorbonne au Moyen Âge par le théologien Robert de Sorbon"
+  date: "n.d."
+  original_language: fr
+  identifier: "Official institutional history of the Sorbonne"
+  url: "https://www.sorbonne.fr/la-sorbonne/histoire-de-la-sorbonne/la-fondation-de-la-sorbonne-au-moyen-age-par-le-theologien-robert-de-sorbon/"
+  access_date: "2026-07-18"
+  locator: "paragraphs on the University of Paris and Robert's 1253 college, confirmed by Louis IX in 1257"
+- id: SRC-021
+  author: "Centre national de ressources textuelles et lexicales"
+  title: "TLFi: étymologie et histoire de vilain"
+  date: "2012"
+  original_language: fr
+  identifier: "CNRTL/TLFi lexical entry"
+  url: "https://www.cnrtl.fr/etymologie/vilain"
+  access_date: "2026-07-18"
+  locator: "entry 'vilain,' historical senses from the twelfth century"
+- id: SRC-022
+  author: "William Doyle"
+  title: "Aristocracy and its Enemies in the Age of Revolution"
+  date: "2009"
+  original_language: en
+  identifier: "DOI 10.1093/acprof:oso/9780199559855.001.0001; ISBN 978-0-19-955985-5"
+  url: "https://doi.org/10.1093/acprof:oso/9780199559855.001.0001"
+  access_date: "2026-07-18"
+  locator: "chapter 2, 'Ideologies of Inequality,' pp. 37–57"
+- id: SRC-023
+  author: "David Higgs"
+  title: "Nobles in Nineteenth-Century France: The Practice of Inegalitarianism"
+  date: "1987"
+  original_language: en
+  identifier: "DOI 10.1353/book.67863; ISBN 978-1-4214-3209-0"
+  url: "https://doi.org/10.1353/book.67863"
+  access_date: "2026-07-18"
+  locator: "chapters 1–7; 2019 Johns Hopkins University Press digital edition"
+- id: SRC-024
+  author: "Keith Dowen"
+  title: "The Introduction and Development of Plate Armour in Medieval Western Europe c. 1250–1350"
+  date: "2017"
+  original_language: en
+  identifier: "ISSN 0860-0007"
+  url: "https://rcin.org.pl/iae/Content/63756/PDF/WA308_83461_PIII348_The-Introduction-and_I.pdf"
+  access_date: "2026-07-18"
+  locator: "Fasciculi Archaeologiae Historicae 30, pp. 19–28"
+- id: SRC-025
+  author: "Jack Litchfield"
+  title: "Knighthood and the Body in Late Medieval English Culture"
+  date: "2021"
+  original_language: en
+  identifier: "University of Leeds PhD thesis; AHRC grant AH/L503848/1"
+  url: "https://etheses.whiterose.ac.uk/28965/"
+  access_date: "2026-07-18"
+  locator: "chapter 4, pp. 159–167, especially the mail-hauberk overview at p. 159"
