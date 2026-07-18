@@ -1305,6 +1305,9 @@ Cruel.
 
 And devastating.
 
+He went back to his office shattered and in tears. His wife later described him as blue and red in
+the face, possibly suffering a mild stroke that night.
+
 Was Moltke literally unable to halt the western deployment? That's too strong. Wilhelm disputed
 it, and historians have disputed it since. But stopping trains isn't the same as improvising a
 coherent eastern campaign. What matters here is that Moltke believed—or insisted—that a usable war
