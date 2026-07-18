@@ -1063,3 +1063,404 @@ But in Berlin the generals are looking at their timetables.
 
 And the trains are almost ready to move.
 
+## 16. The stone begins to roll
+
+The news from London produces an uncontrolled reaction in Berlin.
+
+Wilhelm reads Lichnowsky's telegram and covers it with furious annotations.
+
+Grey is “the vile deceiver.” A “vile blackguard.” The British are “scoundrels,” a nation of
+shopkeepers that has tried to deceive Germany with dinners and speeches. And then, at the end:
+
+“England alone bears responsibility for war and peace, no longer we! That must also be made clear
+publicly.”
+
+These are separate outbursts written at different places on the telegram, not one continuous
+speech. But their meaning is unmistakable.
+
+For the Germans, the responsibility is now Britain's.
+
+Meanwhile, on 29 July, the German ambassador in Brussels, von Below-Saleske, receives a sealed
+packet from Berlin.
+
+He is ordered not to open it until a telegram tells him to do so.
+
+One useless detail—I shall inflict it on you anyway, because we are nearly there.
+
+Below-Saleske is a career diplomat who jokes that he brings bad luck. He was in China when the
+Boxer Rebellion broke out. He was in the Ottoman Empire when the Young Turk Revolution broke out.
+
+But now, he says, I am safe. I am in Belgium. Nothing will ever happen in Brussels.
+
+Let us move quickly, or I shall keep you here all night.
+
+During the night of 29 to 30 July, nobody in Berlin goes to bed.
+
+The warning from London has caused panic. Britain may enter the war.
+
+At three in the morning Bethmann Hollweg sends an urgent message to Vienna.
+
+Slow down.
+
+Do not reject every attempt at mediation. Germany will not allow itself to be dragged into a
+continental war merely because Austria insists on crushing Serbia.
+
+Imagine the faces in Vienna.
+
+Until that moment Germany has been saying: go forward. Act quickly. Do not be weak.
+
+Now Germany says: what are you doing? Slow down.
+
+So for the Germans the responsibility is now Vienna's.
+
+But while the politicians are trying to reverse direction, the armies are moving toward the
+edge.
+
+On 30 July Russia orders general mobilization.
+
+The German generals go to the government and say: now we must mobilize too. Immediately.
+
+The government says: wait one more day. Perhaps Vienna can still accept a compromise.
+
+And on that day the struggle between soldiers and politicians in Berlin becomes almost open
+warfare.
+
+An afternoon newspaper, the *Berliner Lokal-Anzeiger*, announces that Germany has ordered
+mobilization.
+
+It is false.
+
+The issue is seized and the government denies the report. Barbero tells the story as a deliberate
+General Staff leak designed to confront the government with an accomplished fact. The false report
+is documented; that specific authorship is not securely established.
+
+But the military pressure itself is real.
+
+Moltke telephones his Austrian counterpart, Conrad von Hötzendorf. Austria has not yet ordered
+general mobilization. Moltke urges him to do it at once: if Austria mobilizes, Germany will have to
+mobilize too.
+
+The German soldiers are doing everything they can to force a decision.
+
+The politicians are still resisting.
+
+And in the midst of this, Bethmann Hollweg says something extraordinary.
+
+The official protocol of the Prussian State Ministry reports him saying that all the governments,
+including Russia's, and the great majority of the peoples were peaceably disposed—but control had
+been lost, and the stone had started rolling.
+
+The stone had started rolling.
+
+This is a magnificent declaration of political surrender.
+
+We are the government. We command the state. We have made the threats, written the ultimatums,
+approved the plans.
+
+But now the stone is rolling, and we no longer know how to stop it.
+
+## 17. “They are going to abandon us”
+
+That day the New York Stock Exchange collapses.
+
+Because of the time difference, the news reaches London on the morning of 31 July. The London Stock
+Exchange collapses too and closes at ten o'clock to limit the damage.
+
+Germany has still not mobilized.
+
+Instead it sends an ultimatum to Russia.
+
+You have begun general mobilization. Suspend it within twelve hours. If you do not, Germany will
+mobilize—and that means war.
+
+In London, Grey is now convinced that the war may be unavoidable and that Britain may have to
+enter.
+
+But the Cabinet is deeply divided. Grey's own position is insecure; ministers on the other side
+are contemplating resignation too. Britain has still made no commitment.
+
+So Grey does what he can.
+
+He asks France and Germany for a guarantee that they will respect Belgian neutrality.
+
+France answers almost immediately.
+
+Germany does not answer.
+
+On 1 August Grey speaks to the Cabinet. He warns that German domination of the continent would
+create a danger on the scale Britain had faced under Napoleon. He makes clear that he cannot remain
+in office and conduct a policy he believes disastrous.
+
+But the Cabinet still does not give France the guarantee it wants.
+
+Outside waits the French ambassador, Paul Cambon.
+
+You can imagine his profession in those days. He has spent years building the relationship with
+Britain. Now France is facing Germany, and his task is to obtain the one answer his government
+needs: if war comes, Britain will be with us.
+
+Grey comes out and tells him there is no guarantee.
+
+According to the later account of Arthur Nicolson, the senior Foreign Office official who saw him,
+Cambon entered Nicolson's room white and speechless. Nicolson took his hands and guided him into a
+chair.
+
+Cambon could say only:
+
+“They're going to abandon us. They're going to abandon us.”
+
+Not a line preserved in Cambon's telegram or an official minute—a named eyewitness's recollection,
+published years later.
+
+But it captures the moment.
+
+France believes Britain is going to let it down.
+
+Meanwhile everything accelerates.
+
+Russia does not suspend mobilization.
+
+On 1 August Germany orders general mobilization and that evening delivers its declaration of war
+on Russia.
+
+It is the first declaration of war between the great powers.
+
+Why does Germany declare war?
+
+Because it sent an ultimatum. The ultimatum expired. According to the logic of the procedure, the
+next document is a declaration of war.
+
+Tirpitz later objected bitterly to this.
+
+Why should Germany declare first, after doing everything possible to avoid “the odium of the
+attacking party”? Why allow the lawyers of the Foreign Office to make Germany appear the aggressor?
+
+But we must place his objection correctly. Tirpitz says he raised the question on 1 August, as a
+Federal Council meeting was breaking up, after the declaration had already been sent. Bethmann
+answered that the army wanted to cross the frontier immediately; Moltke later denied that this was
+necessary. Tirpitz's explanation about Foreign Office legalism was his own retrospective
+conclusion.
+
+Even so, the absurdity remains.
+
+We issued an ultimatum.
+
+They did not comply.
+
+Therefore the procedure says that we must declare war.
+
+On the same day Germany mobilizes and declares war.
+
+For Germany, the two things really have become one.
+
+## 18. “Your uncle would have given me a different answer”
+
+There is still time for one grotesque misunderstanding.
+
+At five in the afternoon on 1 August, a telegram arrives from Lichnowsky in London.
+
+He has not yet had the conversation with Grey that he is trying to describe. He thinks he has
+understood that Britain may propose an agreement: if Germany does not attack France, then France
+and Britain will remain neutral.
+
+This is not, in fact, Grey's proposal.
+
+But the telegram reaches Berlin and causes pandemonium.
+
+Wilhelm and Bethmann are ecstatic.
+
+Wonderful! We no longer have to fight France and Russia. We shall fight only Russia. If France and
+Britain remain outside, the nightmare of the two-front war disappears.
+
+There is only one small matter.
+
+Change the mobilization orders.
+
+Send everything east.
+
+They summon Moltke to the palace.
+
+And we must say something about Moltke the Younger. He bears one of the greatest names in Prussian
+military history. His uncle, Moltke the Elder, won the wars that created the German Empire.
+
+The nephew is not the uncle.
+
+He is under immense strain. He arrives at the palace and they show him the telegram.
+
+Britain and France may remain neutral. Change the deployment. Send the army against Russia.
+
+Moltke says it cannot be done.
+
+The orders have gone out. The trains are moving. Millions of men, horses, guns, and wagons are
+entering a schedule planned in minute detail. Stop it now, reverse it, and there will be chaos.
+
+Wilhelm insists.
+
+Moltke refuses.
+
+In his postwar memoir Wilhelm remembered rebuking him:
+
+“Your uncle would have given me a different answer!”
+
+Cruel.
+
+And devastating.
+
+Was Moltke literally unable to halt the western deployment? That is too strong. Wilhelm disputed
+it, and historians have disputed it since. But stopping trains is not the same as improvising a
+coherent eastern campaign. What matters here is that Moltke believed—or insisted—that a usable war
+plan could no longer be changed under that pressure.
+
+The machine continues according to plan.
+
+That evening German troops enter Luxembourg, the first step on the route toward Belgium.
+
+Before invading Belgium, however, Germany must observe the forms.
+
+It must deliver an ultimatum.
+
+On 2 August a telegram reaches Below-Saleske in Brussels:
+
+Open the sealed packet.
+
+Deliver the note as though it has just arrived.
+
+The German note begins:
+
+“The German Government has received reliable information according to which French forces intend
+to march on the Meuse by way of Givet and Namur.”
+
+Germany therefore requires passage through Belgium for its own defence. This is not to be
+interpreted as hostility. If Belgium adopts a friendly neutrality and does not resist, Germany
+promises to evacuate after the war, preserve Belgian territorial integrity, and pay for damage.
+
+The alleged imminent French invasion is a pretext, not an established intelligence fact.
+
+But notice the persistence of the form.
+
+Even now, after everything, they believe an ultimatum and an invasion require a justification.
+
+We have reliable information.
+
+We are acting for our own safety.
+
+We do not wish you to regard our soldiers entering your country as an act of hostility.
+
+Belgium decides to resist.
+
+## 19. A scrap of paper
+
+That night, at Bethmann Hollweg's residence, German officials prepare the declaration of war on
+France.
+
+Tirpitz objects again.
+
+Why must Germany declare war on France? Why not wait for France to declare war on Germany?
+
+But once again the declaration needs reasons.
+
+It alleges that French aircraft have flown over Germany, dropped bombs, and attacked German
+railways.
+
+The declaration really does contain those allegations. The famous report of bombs near Nuremberg
+was false; we should not pretend that we can prove every official involved knowingly invented
+every incident. But these reports supplied Germany's public case that France had begun the war.
+
+Even the most ruthless power politics feels the need for a story.
+
+For its own public, if for nobody else.
+
+On the evening of 2 August Grey learns of the German ultimatum to Belgium. The British Cabinet
+authorizes precautionary measures and the protection of the French coast, although the final
+decision for war has still not been taken.
+
+Several ministers resign or prepare to resign.
+
+And that evening in Brussels, Hugh Gibson, secretary of the American legation, writes in his
+journal:
+
+“Nobody seems to remember that a few days ago Serbia was playing a starring role in this affair.
+She seems to have faded away behind the scenes.”
+
+Serbia.
+
+The whole crisis began with Serbia.
+
+And now nobody is talking about Serbia at all.
+
+On 3 August Germany declares war on France.
+
+Grey addresses the House of Commons. At last Parliament appears in our story—after a crisis managed
+almost entirely by sovereigns, ministers, diplomats, and generals.
+
+He speaks of Britain's relationship with France, the danger to the Channel, and the treaty
+guaranteeing Belgium. The Commons does not formally vote to authorize an ultimatum. But the German
+demand on Belgium, and Belgium's refusal, give the government the parliamentary and public support
+it needs.
+
+On 4 August German troops invade Belgium.
+
+Britain sends its demand to Berlin: respect Belgian neutrality and withdraw.
+
+The British ambassador, Sir Edward Goschen, goes to Bethmann Hollweg. He does not yet know, as he
+arrives, that the invasion has already begun.
+
+And our story ends with two famous sentences.
+
+One very famous.
+
+The other less securely so.
+
+Goschen later reported that Bethmann exploded.
+
+How could Britain do this? Britain, another Germanic nation, striking Germany in the back. And for
+what?
+
+“Just for a word—‘neutrality,’ a word which in war time had so often been disregarded—just for a
+scrap of paper Great Britain was going to make war on a kindred nation.”
+
+A scrap of paper.
+
+The phrase has passed into history as the emblem of a policy that signs treaties and then, when
+the treaty becomes inconvenient, behaves as though it did not exist.
+
+And the other sentence?
+
+It is attributed to Wilhelm II:
+
+“To think that George and Nicky should have played me false! If my grandmother had been alive, she
+would never have allowed it.”
+
+It is a wonderful ending—which is precisely why we must be careful.
+
+The words are widely repeated, but no contemporary letter, diary, marginal annotation, named
+eyewitness, or German original has been found. The earliest version we can securely trace appears
+in English secondary literature decades later. So call it an anecdote, not an authenticated
+quotation.
+
+But the anecdote survives because it expresses perfectly the world that has just collapsed.
+
+George and Nicky have betrayed me.
+
+Grandmother Victoria would never have allowed it.
+
+As though a modern European war—millions of conscripts, thousands of trains, industrial economies,
+alliances, mobilization plans, nationalist publics—might still have been prevented by a
+grandmother calling the family to order.
+
+That is how the war begins.
+
+Nobody sets out wanting the catastrophe that follows.
+
+Every government says it is defending itself.
+
+Every government says responsibility belongs somewhere else.
+
+Austria blames Serbia. Russia blames Austria. Germany blames Russia, then Britain, then Austria.
+Britain says the choice lies in Berlin.
+
+Everyone believes someone else will give way.
+
+Nobody does.
+
+And the stone rolls.
