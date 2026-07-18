@@ -578,3 +578,18 @@
   accessed: "2026-07-17"
   locator: "correspondence throughout; signatures 'Willy' and 'Nicky'"
   notes: "Confirms the royal nickname convention but does not contain or authenticate Q-030."
+- id: SRC-436
+  author: "James Brown Scott, ed."
+  title: "Diplomatic Documents Relating to the Outbreak of the European War"
+  edition: "Vol. II"
+  publisher: "Oxford University Press, American Branch"
+  date: 1916
+  language: English
+  stable_identifier: "Internet Archive cu31924017538715"
+  url: "https://upload.wikimedia.org/wikipedia/commons/d/d7/Diplomatic_documents_relating_to_the_outbreak_of_the_European_war_%28IA_cu31924017538715%29.pdf"
+  accessed: "2026-07-18"
+  locator: "p. 822, Lichnowsky to the imperial chancellor, 1 August 1914"
+  notes: >-
+    Carnegie Endowment documentary compilation reproducing the official English translation from
+    the German White Book appendix. The telegram is followed by Wilhelm II's expanded reading of
+    it as an offer of French neutrality guaranteed by Great Britain.

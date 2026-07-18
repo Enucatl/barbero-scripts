@@ -1267,7 +1267,7 @@ that I thought I could give that assurance.”
 In Berlin, that conditional question is understood as a firm British offer: France will remain
 neutral, Britain will guarantee it, and Germany need only promise not to attack France.
 
-The telegram causes pandemonium.
+And in Berlin, all hell breaks loose.
 
 Wilhelm and Bethmann are ecstatic.
 

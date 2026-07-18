@@ -1271,12 +1271,12 @@ It reads:
 
 “Sir E. Grey just asked me by telephone whether I believed that I could declare that we would not
 attack France in a war between Germany and Russia in case France should remain neutral. I declared
-that I thought I could give that assurance.”
+that I thought I could give that assurance.” [Q-031]
 
 In Berlin, that conditional question is understood as a firm British offer: France will remain
 neutral, Britain will guarantee it, and Germany need only promise not to attack France.
 
-The telegram causes pandemonium.
+And in Berlin, all hell breaks loose.
 
 Wilhelm and Bethmann are ecstatic.
 

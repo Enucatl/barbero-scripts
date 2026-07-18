@@ -470,3 +470,32 @@
     spoken while Wilhelm signed mobilization orders. Genealogically, Wilhelm and George were first
     cousins and Nicholas and George were first cousins; Wilhelm and Nicholas were not first cousins,
     and the three were not all Queen Victoria's grandsons.
+- id: Q-031
+  barbero_utterances: [U-00930–U-00942]
+  barbero_timestamp: "63:18"
+  attribution: "Prince Karl Max von Lichnowsky to the German chancellor"
+  source_id: SRC-436
+  original_language: German
+  original_text: >-
+    Sir E. Grey frug mich soeben telephonisch, ob ich glaubte erklären zu können, daß wir im Falle
+    eines Krieges mit Rußland Frankreich nicht angreifen würden, falls Frankreich neutral bliebe.
+    Ich erklärte, ich glaubte dies zusichern zu können.
+  translation: >-
+    Sir E. Grey just asked me by telephone whether I believed that I could declare that we would
+    not attack France in a war between Germany and Russia in case France should remain neutral. I
+    declared that I thought I could give that assurance.
+  locator: >-
+    German ambassador in London to the imperial chancellor, 1 August 1914; German White Book
+    appendix; English translation printed in Scott, ed., Diplomatic Documents Relating to the
+    Outbreak of the European War, vol. II, p. 822
+  translation_notes: >-
+    The script uses the official English translation published with the German diplomatic
+    documents. The telegram reports a conditional question and Lichnowsky's own provisional answer;
+    it does not report that France had accepted neutrality or that Britain had guaranteed it.
+  confidence: high
+  status: resolved
+  script_treatment: preserve
+  research_note: >-
+    Evidence tier 1. Berlin transformed the conditional inquiry into a firm British offer of French
+    neutrality under British guarantee. Wilhelm's ensuing telegram to George V records that broader
+    interpretation; George replied that there had been a misunderstanding.
