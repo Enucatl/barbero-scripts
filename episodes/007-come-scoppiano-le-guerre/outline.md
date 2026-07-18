@@ -195,10 +195,10 @@ Barbero asks how wars begin and argues that a general war can emerge without any
 
 - **Range:** `U-00930`–`U-00977`
 - **Original audio:** 63:18–66:43
-- **Argument:** A misunderstood message from London briefly suggested France and Britain might remain neutral, but Moltke insisted the mobilization machinery could no longer be redirected from France toward Russia.
+- **Argument:** Lichnowsky reported Grey's conditional question about German restraint if France remained neutral. Berlin misread it as a firm British guarantee of French neutrality, but Moltke insisted the mobilization machinery could no longer be redirected from France toward Russia.
 - **Steps/examples:** Lichnowsky telegram; Kaiser and chancellor's excitement; trains already moving; Moltke's fragility and breakdown; Luxembourg occupied; ultimatum delivered to Belgium; Belgian decision to resist.
 - **Digressions/analogies:** Contrast between Moltke the Younger and his celebrated uncle; Kaiser invokes the uncle to shame him.
-- **Quotation targets:** `Q-026`, Kaiser's rebuke that Moltke's uncle would have given another answer (`U-00943`–`U-00958`); `Q-027`, German ultimatum's claim that France was about to invade Belgium (`U-00960`–`U-00977`).
+- **Quotation targets:** `Q-031`, Lichnowsky's report of Grey's conditional telephone inquiry (`U-00930`–`U-00942`); `Q-026`, Kaiser's rebuke that Moltke's uncle would have given another answer (`U-00943`–`U-00958`); `Q-027`, German ultimatum's claim that France was about to invade Belgium (`U-00960`–`U-00977`).
 - **Claim targets:** `C-035`, German mobilization could not be redirected once the railway schedule began (`U-00930`–`U-00958`); `C-036`, Germany's Belgian ultimatum alleged an imminent French invasion and promised later evacuation (`U-00960`–`U-00977`).
 - **Adaptation:** `preserve` — major payoff of the war-plans argument; clarify that the British proposal was a misunderstanding.
 
@@ -209,13 +209,13 @@ Barbero asks how wars begin and argues that a general war can emerge without any
 - **Argument:** Germany used fabricated claims to declare war on France, invaded Belgium, and thereby brought Britain into the conflict. The concluding remarks expose contempt for treaty obligations and the Kaiser's shock at dynastic betrayal.
 - **Steps/examples:** Tirpitz again questions declaring first; allegations of French bombing; Colin Powell analogy; Grey obtains mobilization and parliamentary authority; 4 August invasion; British ultimatum; Bethmann Hollweg's confrontation with the ambassador; Kaiser's family lament.
 - **Digressions/analogies:** Colin Powell's UN presentation about Iraqi weapons; American diplomat notes Serbia has vanished from discussion.
-- **Quotation targets:** `Q-028`, American diplomat's diary observation that no one spoke of Serbia anymore (`U-00989`–`U-00993`); `Q-029`, Bethmann Hollweg's “pezzo di carta” remark (`U-00998`–`U-01008`); `Q-030`, Kaiser's statement that Georgie and Nicky betrayed him and Queen Victoria would have prevented it (`U-01009`–`U-01015`).
+- **Quotation targets:** `Q-028`, American diplomat's diary observation that no one spoke of Serbia anymore (`U-00989`–`U-00993`); `Q-029`, Bethmann Hollweg's “pezzo di carta” remark (`U-00998`–`U-01008`); `Q-030`, the later, unverified anecdote that George and Nicky betrayed Wilhelm and Queen Victoria would have prevented it (`U-01009`–`U-01015`).
 - **Claim targets:** `C-037`, Germany's declaration against France relied on false reports of French aircraft attacks (`U-00978`–`U-00985`); `C-038`, the Belgian invasion enabled Grey to secure British authorization for an ultimatum and war (`U-00986`–`U-00998`).
-- **Adaptation:** `preserve` — retain both concluding quotations; `clarify` the sequence of British authorization and intervention; consider compressing the modern Iraq analogy.
+- **Adaptation:** `preserve` — retain the documented “scrap of paper” conclusion and label the Wilhelm family remark as anecdotal; `clarify` the sequence of British authorization and intervention; omit the modern Iraq analogy to keep the final acceleration focused.
 
-## Consolidated research targets
+## Research ledger index
 
-### Candidate quotations
+### Quotations
 
 - `Q-001` — Pope Francis, “third world war” remark (`U-00007`–`U-00008`).
 - `Q-002` — “Serbien muss sterben” (`U-00116`–`U-00123`).
@@ -246,9 +246,10 @@ Barbero asks how wars begin and argues that a general war can emerge without any
 - `Q-027` — German ultimatum to Belgium (`U-00960`–`U-00977`).
 - `Q-028` — American diplomat's diary on forgotten Serbia (`U-00989`–`U-00993`).
 - `Q-029` — Bethmann Hollweg, “pezzo di carta” (`U-00998`–`U-01008`).
-- `Q-030` — Kaiser on Georgie, Nicky, and Queen Victoria (`U-01009`–`U-01015`).
+- `Q-030` — later anecdote about George, Nicky, and Queen Victoria (`U-01009`–`U-01015`).
+- `Q-031` — Lichnowsky's report of Grey's conditional inquiry about France (`U-00930`–`U-00942`).
 
-### Candidate central claims
+### Central claims
 
 - `C-001`–`C-003` — framing, Sarajevo, and dynastic stakes.
 - `C-004`–`C-006` — Bosnia, Serbian complicity, and Russian protection.
@@ -275,30 +276,31 @@ Barbero asks how wars begin and argues that a general war can emerge without any
 
 ### Pronunciation targets
 
-- Sarajevo; Austria-Ungheria; Francesco Ferdinando; Francesco Giuseppe
-- Kaiser Wilhelm/Guglielmo; Nicola/Nicky; Willy; Georgie
+- Sarajevo; Austria-Hungary; Archduke Franz Ferdinand; Emperor Franz Joseph
+- Kaiser Wilhelm; Nicholas/Nicky; Willy; George
 - Salandra; von Bernhardi; Norman Angell
 - Sir Edward Grey; Lichnowsky; Bethmann Hollweg
-- Alfred Krupp; Helmuth von Moltke; Conrad
+- Alfred Krupp; Helmuth von Moltke; Conrad von Hötzendorf
 - Foch; Wilson; Cambon; Tirpitz
 - Schlieffen; *Kulturvölker*; “Serbien muss sterben”
-- Scapa Flow; Orcadi; Lussemburgo; Below-Saleske
+- Scapa Flow; Luxembourg; Below-Saleske
 
-### Transcript-only unresolved issues
+### Resolved transcript issues
 
-1. `U-00069`–`U-00073`: the transition from the assassination's gravity to “complicità all'estero” remains syntactically fragmented; its exact wording cannot be recovered from text alone.
-2. `U-00110`–`U-00115`: the analogy between Austria/Serbia and victim/state sponsor is intelligible, but part of the sentence is grammatically incomplete.
-3. Several passages present documentary material as loose Italian paraphrase (`Q-004`, `Q-005`, `Q-008`, `Q-010`–`Q-012`, `Q-014`–`Q-030`); the transcript alone cannot determine exact quotation boundaries or original wording.
-4. `U-00330`–`U-00331`: “Potenza mondiale o declino” appears as a title or heading, but its exact source-language form and placement require source verification.
-5. `U-00575`–`U-00587`: the transcript alone cannot establish whether the Wilson-Foch exchange is documented dialogue, memoir, or later anecdote.
-6. `U-00694`–`U-00701`: Barbero signals uncertainty about whether Freud spoke or wrote the remark; medium and exact wording require verification.
-7. `U-00930`–`U-00943`: the precise source of the London misunderstanding and whether France's neutrality was actually proposed cannot be settled from the transcript.
-8. `U-00989`–`U-00993`: the American diplomat is not named in the transcript.
+1. `U-00069`–`U-00073`: the fragmented transition was rendered as a clear distinction between the assassination's gravity and its connections inside Serbia.
+2. `U-00110`–`U-00115`: the incomplete analogy was preserved in substance and rewritten as a direct victim-state/terrorist-network comparison.
+3. Documentary paraphrases were checked individually against original texts, published document collections, memoirs, or identified secondary transmissions in `quotes.yaml`.
+4. `U-00330`–`U-00331`: Bernhardi's heading is recorded and translated under `Q-006`.
+5. `U-00575`–`U-00587`: the Wilson–Foch exchange is retained as a later English recollection under `Q-014`, not as a contemporaneous transcript.
+6. `U-00694`–`U-00701`: Freud's line is retained as a qualified, medium-confidence attribution under `Q-017`.
+7. `U-00930`–`U-00943`: Lichnowsky's original report is quoted under `Q-031`, separately from Berlin's expanded interpretation.
+8. `U-00989`–`U-00993`: the American diplomat is identified as Hugh Gibson under `Q-028`.
 
 ## Verification summary
 
 - **Sections:** 19
-- **Quotation targets:** 30 (`Q-001`–`Q-030`)
-- **Claim targets:** 38 (`C-001`–`C-038`)
-- **Unresolved issues:** 8
+- **Quotation entries:** 31 (`Q-001`–`Q-031`): 30 resolved; `Q-030` explicitly deferred and labelled as anecdotal in the script
+- **Claim entries:** 38 (`C-001`–`C-038`), all resolved
+- **Outstanding transcript review flags:** 0
 - **Coverage:** Complete and continuous from `U-00001` through `U-01015`, in transcript order.
+- **Recording copy:** Complete and free of research markers; timed performance read-through pending.
