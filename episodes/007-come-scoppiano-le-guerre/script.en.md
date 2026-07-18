@@ -577,4 +577,232 @@ provide the war it had decided to fight. [C-020]
 
 On 24 July, the capitals of the world wake to news of the ultimatum.
 
-<!-- Draft continues with section 10: International reaction and British distance. -->
+## 10. What does Britain care about Serbia?
+
+And the ultimatum is received very badly indeed.
+
+In St Petersburg, the Russian foreign minister summons the Austrian ambassador.
+
+“Do you mean to make war on Serbia? Are the Germans pushing you into this? You are setting fire to
+Europe. You are taking a grave responsibility upon yourself.” [Q-011]
+
+There it is for the first time: *you* are taking responsibility.
+
+For the Russians, responsibility lies with Vienna, with the Austrians. We will hear a whole series
+of statements like this before the night is over. *You* are responsible.
+
+That is only the first.
+
+In London, Grey is astonished too. He calls in the German ambassador, Lichnowsky, and says: I have
+never seen one state send another state a document like this. It is impossible for the Serbs to
+accept it.
+
+And here there is a tiny detail from the period—something that gives you the flavor of the age.
+
+Lichnowsky says: of course the language of the ultimatum is rather harsh. But you understand, it is
+addressed to a Balkan people, not to a civilized people. Balkan peoples cannot be judged by the
+same standard as European *Kulturvölker*—civilized peoples.
+
+That word is genuine. Lichnowsky wrote in his telegram that he had told Grey the Balkan peoples
+could not be measured by the same standard as European *Kulturvölker*. And when Kaiser Wilhelm read
+the report, he wrote in the margin: “Correct; they simply aren't!” [Q-012]
+
+So there we are in London, in this exchange between Grey and Lichnowsky.
+
+What is happening in London?
+
+For the moment, the German bet seems to be holding.
+
+British public opinion could not care less about Serbia. Britain has no binding alliance requiring
+it to enter this war. It has had a friendship with France for years, yes. British and French
+officers are accustomed to consulting one another; they have even made plans together. They have
+become quite friendly.
+
+But there is no obligation. No treaty binds the Cabinet. Staff conversations are not an alliance.
+[C-022]
+
+Britain at that moment is an isolationist country. Britain dominates the world: India, Africa, the
+colonies, trade, the stock exchange. It could not care less about small continental quarrels, and
+especially about the Balkans.
+
+Why should we let ourselves be dragged into somebody else's war? That is the tone of the British
+press. A *Manchester Guardian* leader would put it neatly on 30 July: “We care as little for
+Belgrade as Belgrade does for Manchester.” [Q-013]
+
+The crisis had not dominated collective Cabinet business before the ultimatum forced everybody to
+deal with it. We cannot prove a month of complete silence from Cabinet minutes, because formal
+minutes were not kept in this period. But the British government had its own problems. Ireland was
+not yet independent. There was violence, the threat of revolution, the possibility of civil war.
+Until the ultimatum, the European crisis had not been the center of British political life.
+[C-021]
+
+There were, however, people in Britain who thought differently.
+
+Some Foreign Office officials were frightened by what was happening. Again, the security dilemma.
+We are safe enough now, they thought. But Germany is becoming very strong. The Germans say they are
+arming only because they are afraid of us—but if they become too strong, then we must stand with
+France and Russia.
+
+Because this struggle is not really about possession of Serbia. It is between a Germany aspiring
+to political domination in Europe and the powers that intend to remain free.
+
+And there was another group in Britain that thought this way: the soldiers.
+
+The soldiers had become accustomed to thinking of themselves as friends of the French, accustomed
+to planning things with them. They knew it would be difficult for Britain to enter a war beside
+France, because public opinion did not want it. And for years they had turned this problem over in
+their minds.
+
+Again, it is impressive. For years and years they had discussed and reasoned together: when the
+next war comes, what do we do?
+
+There is a revealing anecdote from 1910. The British general Henry Wilson, a great friend of the
+French, is talking to the French general Ferdinand Foch.
+
+Wilson says: well, if war breaks out—assuming we come to help you; I hope we do, but who knows—what
+is the smallest number of British soldiers who could really help France?
+
+This is four years before the war. What is the minimum?
+
+According to the later English account, Foch replies: “A single British soldier—and we will see to
+it that he is killed.” [Q-014]
+
+Because what matters is that British public opinion should be mobilized for a cause.
+
+## 11. The countdown begins
+
+It is almost midnight. Let us begin the countdown.
+
+On 25 July, the Serbian answer to the ultimatum arrives.
+
+The Serbs accept almost all the conditions. More precisely, they accept many demands outright and
+qualify the most intrusive ones—the clauses that would bring Austrian officials into suppression
+and judicial proceedings on Serbian soil. Vienna calls these qualifications evasions. But the
+answer is, by any reasonable measure, extraordinarily conciliatory. [C-023]
+
+Meanwhile Serbia appeals to the Tsar. It wants to be certain that Russia will support it if it is
+attacked.
+
+The documented Russian assurance is more formal than “you can count on us”: if diplomacy fails,
+Serbia may rest assured that Russia will not remain indifferent to its fate. [Q-015]
+
+That day the Tsar also takes a symbolic decision—and symbolic things matter in politics. Every
+final-year officer cadet in Russia is promoted to officer, on the same day, at the very hour when
+the Austrian ultimatum expires.
+
+The signal could hardly be clearer.
+
+On 26 July, Austria rejects the Serbian answer.
+
+And once Austria has rejected the answer, it means Austria will make war.
+
+That day something happens in London. It is a detail. I have filled this lecture with details,
+which means I will finish late and you will have to be patient. I did not have the courage to cut
+many of them.
+
+But this detail seems curious in its own way.
+
+The British battle fleet is together for large naval maneuvers, with its crews at full strength.
+The maneuvers are about to end. Afterward the squadrons are supposed to return to their separate
+ports and the sailors to go on leave.
+
+The First Lord of the Admiralty decides that the fleet will not disperse. It will remain
+concentrated and move in stages toward its war stations.
+
+And I tell you this also because the First Lord of the Admiralty in 1914 is Winston Churchill.
+
+We associate Churchill with the Second World War. He was still alive when I was a child—when many
+of you were children. We remember him.
+
+But fewer people remember how precocious Churchill was. He was a precocious young man, and already
+the civilian head of the navy in 1914.
+
+Churchill played the central political role in holding the fleet together, working with the First
+Sea Lord, Prince Louis of Battenberg, who issued the operational orders. The movement to protected
+war stations was staged; it was not simply Churchill, alone, ordering the whole fleet straight to
+Scapa Flow in one stroke. But the essential decision was real: the fleet did not disperse. It
+remained ready. [C-024]
+
+The next day the German stock market falls.
+
+The news from London is enough to create doubt.
+
+Perhaps Britain will not remain outside after all.
+
+## 12. Mobilization means war
+
+There is one more thing I must explain—one more pressure acting on these soldiers and politicians.
+
+And this, I hope, is the last interruption to our countdown.
+
+At this point war is certain, at least between Austria and Serbia. That much is certain. After
+that—we shall see.
+
+To make war, these countries must first order mobilization.
+
+What does that mean?
+
+These are conscript armies. The country is full of young men, and older men, who did their military
+service in previous years and can be called back if war begins. Not merely *can* be called back.
+They know they will be.
+
+If war begins, the army must immediately be swollen, doubled, tripled, by calling in all the men
+who are at home.
+
+That is mobilization.
+
+It is an extraordinarily complicated operation. You have to call up millions of men, put them in
+uniform, arm them, organize their units, and place them on the trains that will carry them to the
+frontier.
+
+All of it follows plans, calculated down to the smallest detail.
+
+German mobilization is timed to the minute. The often-repeated estimate is that it coordinates
+approximately eleven thousand trains. The exact number is less important than the scale and
+precision of the operation. The Germans are accustomed to doing such things well. Everything is
+scheduled. [C-025]
+
+Mobilization, as you can see, is an enormously weighty decision. It also costs a fortune. Nobody
+does it unless the situation has become very grave indeed.
+
+But there are differences from one country to another.
+
+Some countries mobilize slowly.
+
+One at random: Russia.
+
+Russia is enormous and has relatively few railways. It takes a very long time to concentrate the
+army. So if the situation becomes serious, Russia has to begin early. It cannot afford to wait.
+
+And in fact the first country to begin talking of mobilization, on 26 July, is not Austria, which is
+about to make war on Serbia. Serbia is small; Austria does not need to mobilize its entire army
+against Serbia.
+
+The first country to speak of mobilization is Russia, because Russia knows how long it will take.
+
+Then there is another country in Europe—let us see whether you can guess which one—that is certain
+it can mobilize extremely quickly.
+
+Its plans are so precise that it has already decided: if we mobilize, it is because there is war.
+
+There is no interval between the two decisions. If we mobilize, we might as well make war
+immediately. Immediately. Immediately.
+
+You have all understood. It is Germany.
+
+So on 26 July, the same day Austria rejects Serbia's very moderate response, Chancellor Bethmann
+Hollweg warns Russia.
+
+Be careful. If Russia takes preparatory military measures, Germany will be forced to take
+countermeasures. And “mobilization,” he says, “means war.” [Q-016]
+
+Russian mobilization and German mobilization were not identical acts, and mobilization did not
+mean war in every military system. But German planning had compressed the space between
+mobilization and war almost to nothing. Russia's slower concentration pushed it toward moving
+early; Germany's faster plan made any movement look like an immediate threat. [C-026]
+
+Germany cannot believe, Bethmann says, that Russia would wish to unleash such a European war.
+
+And secondly—
+
+<!-- Draft continues with section 13: War declared, rulers pleading. -->
