@@ -1,1 +1,324 @@
-[]
+- id: C-001
+  claim: "Jean de Joinville was a castle-owning lord who exercised public authority and served as seneschal of Champagne."
+  transcript: [U-00008–U-00022]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Establish Joinville's title, holdings, jurisdiction, and the institutional nature of his seneschalship rather than assuming he was the king's regional representative."
+- id: C-002
+  claim: "Louis IX led two crusades; Joinville joined the expedition beginning in 1248 but not the later expedition in which Louis died."
+  transcript: [U-00036–U-00043]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify the dates, destinations, outcomes, duration, Joinville's participation, and Louis IX's death."
+- id: C-003
+  claim: "In old age after Louis IX's canonization, Joinville wrote a commissioned life of the king that functions substantially as his own crusade memoir."
+  transcript: [U-00044–U-00055]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Determine the work's commission, composition date, dedication, genre, structure, manuscript basis, and relationship to Louis's canonization."
+- id: C-004
+  claim: "Louis IX attended several masses and divine offices daily, while Joinville ordinarily attended one daily mass."
+  transcript: [U-00063–U-00070]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Find evidence for both devotional routines and distinguish contemporary testimony from later hagiographic presentation."
+- id: C-005
+  claim: "Joinville's returning fleet stopped at Lampedusa and encountered a deserted hermitage where a sailor chose to remain."
+  transcript: [U-00072–U-00096]
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify the route, island identification, physical description, and textual provenance of the hermitage episode."
+- id: C-006
+  claim: "Joinville had the sailor's rescue by the Virgin depicted in his chapel at Joinville and in church windows at Blécourt."
+  transcript: [U-00115–U-00117]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify the two locations, type of images, wording, and whether any material or documentary trace survives."
+- id: C-007
+  claim: "Public theological disputations between Christian clerics and rabbis formed part of medieval clerical culture, and Joinville locates one such story at Cluny."
+  transcript: [U-00120–U-00131]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Assess the history and function of Christian-Jewish disputations and separately test the provenance and plausibility of Joinville's alleged Cluny event."
+- id: C-008
+  claim: "Friday and Lenten fasting rules were experienced as strongly binding by thirteenth-century lay Christians such as Joinville."
+  transcript: [U-00150–U-00157]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Establish the relevant fasting and abstinence rules, their enforcement, exceptions, and evidence for elite lay observance."
+- id: C-009
+  claim: "After the crusaders' defeat, high-status captives could receive courteous treatment and be held for ransom while vulnerable ordinary prisoners faced much greater danger."
+  transcript: [U-00159–U-00170]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Identify the defeat and captors, then evaluate the treatment of prisoners by rank and condition against contemporary accounts."
+- id: C-010
+  claim: "Joinville considered himself related to Emperor Frederick II and discussed that connection with a Muslim emir."
+  transcript: [U-00171–U-00175]
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Determine the claimed genealogical relationship, the emir's identity if possible, and the source wording."
+- id: C-011
+  claim: "A layman's oath invoking God could bind him permanently, and the papal legate would not necessarily dispense him from it."
+  transcript: [U-00198–U-00235]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Establish thirteenth-century theology and canon law on rash oaths, validity, and dispensation, and test Joinville's episode against those norms."
+- id: C-012
+  claim: "Joinville's reasoning presents service to God as justified in part by expectations of practical protection and longer life."
+  transcript: [U-00245–U-00262]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Locate the textual basis and assess whether Barbero's description of a 'contract with God' fairly represents Joinville or imposes a stronger interpretation."
+- id: C-013
+  claim: "Joinville attributed to Bedouins a fatalistic belief that each person's date of death was predetermined."
+  transcript: [U-00246–U-00253]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify Joinville's attribution and wording and distinguish his report from evidence about the actual range of Muslim or Bedouin beliefs."
+- id: C-014
+  claim: "Before leaving for the crusade, Joinville made a humble walking pilgrimage around nearby churches and then remained away from his family and castle for six years."
+  transcript: [U-00270–U-00283]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify the departure ritual, places, family circumstances, chronology, and duration of absence."
+- id: C-015
+  claim: "When Saracen galleys surrounded Joinville's vessel, he and his company chose surrender over an isolated proposal to seek martyrdom."
+  transcript: [U-00292–U-00307]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Identify the military setting, vessel, participants, and outcome, and assess how representative Barbero's common-sense-versus-fanaticism interpretation is."
+- id: C-016
+  claim: "Louis IX's ransom agreement required payment of 200,000 livres tournois, and he insisted that the captors receive the full promised sum."
+  transcript: [U-00310–U-00334]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify the ransom agreement, currency and figures, payment stages, participants, and whether the anecdote concerns this exact amount."
+- id: C-017
+  claim: "Armenian Christian pilgrims passed through the crusader camp under Muslim permission and asked to see Louis IX as a holy king."
+  transcript: [U-00342–U-00361]
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Confirm the pilgrims' identity, route, permission, request, and the relevance of bodily relic veneration to Joinville's joke."
+- id: C-018
+  claim: "By Joinville's time, extended knightly service—especially overseas crusading service—was normally contracted and paid rather than rendered without compensation under feudal obligation."
+  transcript: [U-00373–U-00397]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Evaluate the scope and chronology of paid military service, the continuing role of vassal obligations, and whether Barbero's 'no one serves free anymore' is too absolute."
+- id: C-019
+  claim: "Louis IX's crusade required extensive finance for recruitment, knightly contingents, horses, attendants, and ships."
+  transcript: [U-00362–U-00397]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Document financing, contracting, recruitment, fleet construction or hire, and the scale of Joinville's contingent."
+- id: C-020
+  claim: "Louis IX personally began burying unburied battlefield corpses and later refused to leave the expedition unless the others could also be brought home."
+  transcript: [U-00420–U-00438]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Locate and contextualize both episodes, determine whether Barbero joins separate moments, and assess hagiographic shaping."
+- id: C-021
+  claim: "Louis IX washed poor people's feet on Maundy Thursday and encouraged Joinville to imitate him."
+  transcript: [U-00449–U-00458]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify the episode and explain royal foot-washing practice, date, ritual context, and source wording."
+- id: C-022
+  claim: "Robert de Sorbon rose from a non-noble background, served as a royal cleric, and founded the college later associated with the Sorbonne and University of Paris."
+  transcript: [U-00474–U-00490]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify Robert's origins, title, relationship to Louis IX, college foundation, and the institutional link to the later Sorbonne."
+- id: C-023
+  claim: "In Joinville's aristocratic worldview, the category of vilains could include peasants, merchants, financiers, and other non-nobles."
+  transcript: [U-00459–U-00472]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Establish the semantic and social range of the relevant Old French terms and avoid treating every occurrence as either 'peasant' or modern moral 'villain.'"
+- id: C-024
+  claim: "European nobles retained a belief in their intrinsic hereditary superiority into the nineteenth century."
+  transcript: [U-00501–U-00506]
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Assess this long-duration generalization, identify relevant regions and changes, and determine whether it can be responsibly retained without excessive scope."
+- id: C-025
+  claim: "At the count of Champagne's court, the wealthy commoner Érard de Nogent was handed to a poor knight to be held until he paid ransom."
+  transcript: [U-00514–U-00531]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify Érard's identity and status, the count involved, the anecdote's date and provenance, and whether it reflects actual legal power or exemplary storytelling."
+- id: C-026
+  claim: "A customary procedure required a royal sergeant who manhandled a knight to offer his hand for amputation before receiving pardon."
+  transcript: [U-00533–U-00549]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Locate the source episode and determine the legal status, normal application, symbolism, and exact steps of the asserted custom."
+- id: C-027
+  claim: "Knightly combat required strenuous lifelong equestrian and weapons training beginning in childhood, using armor that Barbero estimates at forty kilograms."
+  transcript: [U-00550–U-00569]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Research training age and practice, armor weight and type in Joinville's period, mounted technique, horses, attendants, and physical demands; test the forty-kilogram figure."
+- id: C-028
+  claim: "Knights' self-image obscured the infantry and servants who also fought and were often especially exposed when medieval armies were defeated."
+  transcript: [U-00570–U-00573]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Assess the composition, functions, and casualty risks of mounted knights, infantry, and household personnel in Louis IX's army."
+- id: C-029
+  claim: "Louis IX was among the first to land in Egypt, entering the water armed and on horseback and showing eagerness to attack."
+  transcript: [U-00574–U-00586]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify the landing site, sequence, equipment, tactical context, and whether Joinville's portrait is eyewitness testimony or exemplary royal characterization."
+- id: C-030
+  claim: "After his father's early death, Louis IX remained under the powerful political and familial influence of his mother, Blanche of Castile."
+  transcript: [U-00611–U-00623]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify Louis's age, Blanche's regency and later role, and evidence for her control over his marriage; separate history from Barbero's psychoanalytic speculation."
+- id: C-031
+  claim: "At Pontoise, the rooms occupied by Louis IX, his wife, and Blanche of Castile allowed the young couple to meet by a staircase while doorkeepers warned them of Blanche's approach."
+  transcript: [U-00621–U-00631]
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Identify Louis's wife, verify the castle and room arrangement, and establish whether Barbero accurately reports Joinville's story."
+- id: C-032
+  claim: "Medieval aristocratic adults openly played board games, dice, blind man's buff, and hide-and-seek, often gambling on games."
+  transcript: [U-00650–U-00658]
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Find evidence for the listed games, adult and mixed-gender participation, stakes, terminology, and Louis IX's attitude toward gambling."
+- id: C-033
+  claim: "A clean white tablecloth and fine drinking vessels functioned as aristocratic status markers in Joinville's crusading camp."
+  transcript: [U-00661–U-00663]
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Verify Joinville's description and assess evidence for linen and tableware as status display; clarify whether 'crystals' or glasses is an accurate rendering."
+- id: C-034
+  claim: "Robert of Artois overtook the Templar vanguard, prompting a competitive advance that broke the planned order and ended with Robert and most Templars killed."
+  transcript: [U-00676–U-00693]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Identify the battle, planned order, vanguard convention, advisers, sequence of the advance, casualties, and variations among contemporary accounts."
+- id: C-035
+  claim: "Chivalric competition and Robert of Artois's premature charge were major causes of the crusade's military failure."
+  transcript: [U-00688–U-00693]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Evaluate the causal weight Barbero gives the charge against logistics, command, disease, strategy, later operations, and modern scholarship."
+- id: C-036
+  claim: "During a retreat, Joinville and the count of Soissons held a bridge or causeway together while the crusader force withdrew."
+  transcript: [U-00699–U-00725]
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: pending
+  script_treatment: pending
+  research_note: "Identify the battle phase and location, verify the two defenders and tactical circumstances, and compare Joinville's literary scene with other evidence."

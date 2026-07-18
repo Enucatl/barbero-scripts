@@ -1,1 +1,403 @@
-[]
+- id: Q-001
+  barbero_utterances: [U-00023–U-00025]
+  barbero_timestamp: "02:28"
+  attribution: "Medieval chivalric romances, unspecified"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Identify the text or tradition behind the prescription that knights protect widows and orphans and remain humble; determine whether Barbero is quoting or summarizing a commonplace."
+- id: Q-002
+  barbero_utterances: [U-00072–U-00096]
+  barbero_timestamp: "06:15"
+  attribution: "Jean de Joinville"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate Joinville's account of the deserted Lampedusa hermitage, the two dead hermits, and the sailor who stayed behind; establish original wording and section locator."
+- id: Q-003
+  barbero_utterances: [U-00102–U-00117]
+  barbero_timestamp: "08:31"
+  attribution: "Jean de Joinville, reporting a rescued sailor"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the sailor's statement that the Virgin appeared and held him afloat and Joinville's statement that he commissioned images; identify the places and exact wording."
+- id: Q-004
+  barbero_utterances: [U-00120–U-00145]
+  barbero_timestamp: "10:19"
+  attribution: "Jean de Joinville, reporting a story told at Cluny"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the story of the old knight's Marian question to a rabbi, the reply, and the blow with a crutch; determine its reported setting and Joinville's distance from the event."
+- id: Q-005
+  barbero_utterances: [U-00145–U-00148]
+  barbero_timestamp: "12:34"
+  attribution: "Louis IX, as reported by Jean de Joinville"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Find Louis IX's advice about learned people debating unbelievers and laypeople using the sword when the faith is maligned; establish whether Barbero compresses multiple sentences."
+- id: Q-006
+  barbero_utterances: [U-00158–U-00192]
+  barbero_timestamp: "13:51"
+  attribution: "Jean de Joinville, an unnamed emir, and the papal legate"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the Friday-meat episode and compare the emir's reassurance, the legate's ruling, and Joinville's bread-and-water penance with Barbero's dialogue."
+- id: Q-007
+  barbero_utterances: [U-00198–U-00210]
+  barbero_timestamp: "16:51"
+  attribution: "Jean de Joinville"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate Joinville's examples of oaths by God's head, wounds, or cap, his praise of Louis's speech, and his household penalty for mentioning the devil."
+- id: Q-008
+  barbero_utterances: [U-00211–U-00235]
+  barbero_timestamp: "18:00"
+  attribution: "Jean de Joinville and the papal legate"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate Joinville's oath dismissing a knight and the legate's refusal to dissolve it; recover the original oath formula and the legal reasoning."
+- id: Q-009
+  barbero_utterances: [U-00246–U-00253]
+  barbero_timestamp: "20:29"
+  attribution: "Jean de Joinville, reporting an attributed Bedouin belief"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the statement that a person's death is fixed or written on the forehead; determine Joinville's exact attribution and whether Barbero's wording is literal or explanatory."
+- id: Q-010
+  barbero_utterances: [U-00254–U-00262]
+  barbero_timestamp: "21:13"
+  attribution: "Jean de Joinville"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Find the rhetorical question about being foolish to serve God if God cannot prolong life or help in danger; distinguish Joinville's wording from Barbero's 'contract' interpretation."
+- id: Q-011
+  barbero_utterances: [U-00270–U-00283]
+  barbero_timestamp: "22:07"
+  attribution: "Jean de Joinville"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate Joinville's departure account and statement that he did not turn back toward his castle for fear of sorrow over wife and children; establish exact wording."
+- id: Q-012
+  barbero_utterances: [U-00292–U-00307]
+  barbero_timestamp: "23:38"
+  attribution: "Jean de Joinville, reporting his cellarer and the company"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the cellarer's proposal that everyone be killed and go directly to paradise and Joinville's rejection; identify the speaker's role and narrative setting."
+- id: Q-013
+  barbero_utterances: [U-00310–U-00334]
+  barbero_timestamp: "25:17"
+  attribution: "Louis IX, Philippe de Nemours, and Jean de Joinville"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the ransom-payment exchange, verify the figures and participants, and establish Louis's wording when insisting that the full promised sum be paid."
+- id: Q-014
+  barbero_utterances: [U-00342–U-00361]
+  barbero_timestamp: "27:43"
+  attribution: "Jean de Joinville to Louis IX"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the Armenian pilgrims' request and Joinville's joke that he does not yet want to kiss Louis's bones; verify the original expression and Louis's reaction."
+- id: Q-015
+  barbero_utterances: [U-00373–U-00397]
+  barbero_timestamp: "29:58"
+  attribution: "Jean de Joinville"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate Joinville's figures for landed income, the cost of ten knights, and the king's payment for his contingent; determine whether Barbero combines separate passages."
+- id: Q-016
+  barbero_utterances: [U-00399–U-00419]
+  barbero_timestamp: "31:39"
+  attribution: "Jean de Joinville to Louis IX"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate Joinville's offer of six months' unpaid service in exchange for Louis not becoming angry; recover the terms, duration, and royal response."
+- id: Q-017
+  barbero_utterances: [U-00426–U-00438]
+  barbero_timestamp: "34:02"
+  attribution: "Louis IX, as reported by Jean de Joinville"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate Louis's refusal to depart without the others because they love their lives as he loves his; establish the crisis, wording, and scope of those he meant."
+- id: Q-018
+  barbero_utterances: [U-00439–U-00448]
+  barbero_timestamp: "34:56"
+  attribution: "Louis IX and Jean de Joinville"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate Louis's leprosy-or-mortal-sin question and Joinville's answer preferring thirty mortal sins; verify number, phrasing, and ensuing admonition."
+- id: Q-019
+  barbero_utterances: [U-00449–U-00458]
+  barbero_timestamp: "35:34"
+  attribution: "Louis IX and Jean de Joinville"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate Louis's invitation to wash poor people's feet and Joinville's oath refusing to wash the peasants' feet; establish source language and devotional context."
+- id: Q-020
+  barbero_utterances: [U-00474–U-00494]
+  barbero_timestamp: "37:20"
+  attribution: "Robert de Sorbon and Jean de Joinville"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate Robert's complaint about Joinville dressing more richly than the king and Joinville's reply contrasting their fathers; recover exact wording and court context."
+- id: Q-021
+  barbero_utterances: [U-00495–U-00506]
+  barbero_timestamp: "38:57"
+  attribution: "Louis IX to Jean de Joinville"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate Louis's private apology and reported endorsement of inherited noble dress over a wealthy commoner's display; determine how closely Barbero follows Joinville."
+- id: Q-022
+  barbero_utterances: [U-00514–U-00531]
+  barbero_timestamp: "40:18"
+  attribution: "Count of Champagne to Érard de Nogent"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the account in which the count gives Érard to a poor knight to hold for ransom; verify identities, wording, and whether Joinville witnessed or repeated it."
+- id: Q-023
+  barbero_utterances: [U-00533–U-00549]
+  barbero_timestamp: "41:49"
+  attribution: "Royal sergeant, under a customary reconciliation procedure"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the sergeant's formula offering his hand to the knight and verify the threatened penalty, clothing, posture, custom, and expected pardon."
+- id: Q-024
+  barbero_utterances: [U-00563–U-00567]
+  barbero_timestamp: "44:17"
+  attribution: "Medieval proverb, unspecified"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Identify the proverb that a boy not mounted by age eight is fit only to be a priest; find its original language, date, wording, and source."
+- id: Q-025
+  barbero_utterances: [U-00574–U-00586]
+  barbero_timestamp: "45:09"
+  attribution: "Jean de Joinville"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate Joinville's description of Louis IX landing in Egypt on horseback with lance and gilded helmet, eager to attack; distinguish quotation from Barbero's dramatization."
+- id: Q-026
+  barbero_utterances: [U-00589–U-00598]
+  barbero_timestamp: "46:08"
+  attribution: "Jean de Joinville and unnamed knights"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the exchange beside the dead knight and Joinville's claim that the joking companions were punished by dying before their wives remarried."
+- id: Q-027
+  barbero_utterances: [U-00604–U-00608]
+  barbero_timestamp: "47:14"
+  attribution: "Jean de Joinville on Louis IX"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Find Joinville's criticism that Louis behaved toward wife and children as though they were strangers; establish exact referent, wording, and context."
+- id: Q-028
+  barbero_utterances: [U-00621–U-00631]
+  barbero_timestamp: "48:17"
+  attribution: "Jean de Joinville"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the Pontoise staircase and doorkeeper story about Blanche of Castile keeping the royal couple apart; verify people, rooms, and reported behavior."
+- id: Q-029
+  barbero_utterances: [U-00632–U-00649]
+  barbero_timestamp: "49:19"
+  attribution: "Louis IX, his queen, and Jean de Joinville"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the reactions to Blanche of Castile's death, including Louis's statement that he lost his mother and the queen's explanation of her tears."
+- id: Q-030
+  barbero_utterances: [U-00659–U-00670]
+  barbero_timestamp: "51:11"
+  attribution: "Jean de Joinville"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the count of Eu's miniature-catapult prank at the neighboring lunch table; verify the count's identity, projectiles, vessels, and Joinville's tone."
+- id: Q-031
+  barbero_utterances: [U-00699–U-00725]
+  barbero_timestamp: "54:16"
+  attribution: "Count of Soissons to Jean de Joinville"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: pending
+  research_note: "Locate the bridge-defense speech, including 'let this rabble shout,' the oath by God's cap, and the promise to discuss the day in the ladies' chambers; recover original wording and battle context."
