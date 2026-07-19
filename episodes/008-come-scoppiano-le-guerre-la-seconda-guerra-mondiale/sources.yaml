@@ -115,15 +115,6 @@
   url: "https://catalog.afi.com/Film/67410-MANHATTAN-MURDER-MYSTERY"
   access_date: "2026-07-19"
   locator: "Released film, approximately 00:10:51; Larry Lipton (Woody Allen) to Carol Lipton (Diane Keaton), after the opera; AFI credits Allen and Brickman as writers and TriStar Pictures as production company"
-- id: SRC-051
-  author: "Woody Allen and Marshall Brickman"
-  title: "Manhattan Murder Mystery: Undated Draft Screenplay"
-  date: null
-  original_language: en
-  identifier: "Internet Movie Script Database undated draft"
-  url: "https://imsdb.com/scripts/Manhattan-Murder-Mystery.html"
-  access_date: "2026-07-19"
-  locator: "Opening sequence, Larry's dialogue immediately after the stage direction 'They exit the opera house'; wording matches the released-film line"
 - id: SRC-080
   author: "The Times"
   title: "Editorial commentary on Austria and the Anschluss"
@@ -205,24 +196,6 @@
   url: "https://www.liberopensare.com/wp-content/uploads/2023/06/A.J.P.-Taylor-The-Origins-of-the-Second-World-War-1.pdf"
   access_date: "2026-07-19"
   locator: "Main text pp. 91–92; ‘Second Thoughts’ pp. 189–200, especially pp. 199–200; witness PDF pages 90–91 and 188–199"
-- id: SRC-061
-  author: "Simon & Schuster"
-  title: "Origins of the Second World War by A. J. P. Taylor"
-  date: "1996"
-  original_language: en
-  identifier: "Publisher page; ISBN 9780684829470"
-  url: "https://www.simonandschuster.com/books/Origins-Of-The-Second-World-War/A-J-P-Taylor/9780684829470"
-  access_date: "2026-07-19"
-  locator: "Publisher description identifies the 1961 original, Taylor’s opportunism/no-thorough-plan thesis, and the current Simon & Schuster reprint"
-- id: SRC-062
-  author: "A. J. P. Taylor"
-  title: "The Origins of the Second World War"
-  date: "1964"
-  original_language: en
-  identifier: "Penguin Books reprint; ISBN 0140021280; Google Books STMi97SR2O0C; Open Library OL22815435M"
-  url: "https://books.google.com/books?id=STMi97SR2O0C"
-  access_date: "2026-07-19"
-  locator: "Penguin edition, 357 pp.; contents place ‘Second Thoughts’ at p. 7 and main text at p. 29; Open Library edition note identifies the foreword as ‘Second Thoughts’ (1963) and the original publication as Hamish Hamilton, 1961"
 - id: SRC-100
   author: "Aretas Akers-Douglas, 2nd Viscount Chilston; E. L. Woodward and Rohan Butler, eds."
   title: "Documents on British Foreign Policy, 1919–1939, Third Series, Volume I: 1938"
@@ -348,7 +321,7 @@
   identifier: "HC Deb 28 September 1938, volume 339, columns 5–28"
   url: "https://api.parliament.uk/historic-hansard/commons/1938/sep/28/prime-ministers-statement"
   access_date: "2026-07-19"
-  locator: "Cols. 21–22; Chamberlain's report of his private farewell exchange with Hitler at Godesberg, including the ‘last of his territorial ambitions’ assurance"
+  locator: "Cols. 10–13, Chamberlain's account of the urgent Anglo-French recommendation that Prague accept the transfer proposal; cols. 21–22, his report of the private farewell exchange with Hitler at Godesberg, including the 'last of his territorial ambitions' assurance"
 - id: SRC-131
   author: "Adolf Hitler"
   title: "Rede im Berliner Sportpalast"
@@ -367,3 +340,966 @@
   url: "https://api.parliament.uk/historic-hansard/commons/1939/apr/03/european-situation-1"
   access_date: "2026-07-19"
   locator: "Chamberlain's retrospective chronology after the occupation of Prague: identifies Berchtesgaden as the setting and quotes Hitler's 26 September Sportpalast confirmation"
+- id: SRC-160
+  author: "Walther Hewel; International Military Tribunal; Harvard Law School Library Nuremberg Trials Project"
+  title: "Record of a meeting between Hitler and Czech president Hácha"
+  date: "1939-03-15"
+  original_language: en
+  identifier: "PS-2798; US Exhibit 118; HLSL item 451916"
+  url: "https://nuremberg.law.harvard.edu/documents/1232-record-of-a-meeting?mode=text"
+  access_date: "2026-07-19"
+  locator: "Official Hewel minutes, Reich Chancellery, 1:15–2:15 a.m.; text pp. 433–438, especially Hitler's invasion order, 6 a.m. deadline, threat to break resistance with all available means, and Hácha's agreement that resistance would be foolish"
+- id: SRC-161
+  author: "Adolf Hitler; Emil Hácha; Joachim von Ribbentrop; František Chvalkovský"
+  title: "Text of the agreement between Hitler and Dr. Hácha"
+  date: "1939-03-15"
+  original_language: en
+  identifier: "TC-49; IMT p. 944; HLSL item 450656"
+  url: "https://nuremberg.law.harvard.edu/documents/2435-agreement-between-hitler-and-dr?mode=text"
+  access_date: "2026-07-19"
+  locator: "Complete signed one-page declaration, paragraphs 1–3; Hácha places the fate of the Czech people and country in Hitler's hands"
+- id: SRC-162
+  author: "International Military Tribunal"
+  title: "Judgment of the International Military Tribunal"
+  date: "1946-10-01"
+  original_language: en
+  identifier: "IMT judgment, section on Hermann Göring"
+  url: "https://crimeofaggression.info/documents/6/1946_Nuremberg_Judgement.pdf"
+  access_date: "2026-07-19"
+  locator: "Finding on Göring's role in the absorption of Bohemia and Moravia: he threatened to bomb Prague if Hácha did not submit, a threat he admitted in testimony"
+- id: SRC-170
+  author: "Neville Chamberlain; British Foreign Office"
+  title: "Speech by the Prime Minister at Birmingham on March 17, 1939"
+  date: "1939-03-17"
+  original_language: en
+  identifier: "Documents Concerning German-Polish Relations and the Outbreak of Hostilities between Great Britain and Germany on September 3, 1939; Cmd. 6106; Miscellaneous No. 9 (1939); document no. 9"
+  url: "https://avalon.law.yale.edu/wwii/blbk09.asp"
+  access_date: "2026-07-19"
+  locator: "Complete Yale Avalon transcription; key passages at lines 45 and 48–50; opening paragraphs identify Birmingham, the hall and remote listeners, and distinguish the Commons debate of 15 March"
+- id: SRC-150
+  author: "Joachim von Ribbentrop; United States Department of State, British Foreign Office, and French Government, editors"
+  title: "Documents on German Foreign Policy, 1918–1945, Series D, Volume V: Poland; The Balkans; Latin America; The Smaller Powers, June 1937–March 1939"
+  date: "1953"
+  original_language: en
+  identifier: "DGFP Series D, vol. V, document 126; translated edition of captured German Foreign Ministry records"
+  url: "https://books.google.com/books?id=5gVJAQAAIAAJ"
+  access_date: "2026-07-19"
+  locator: "Document 126, Ribbentrop memorandum dated 1 February 1939 on Warsaw conversations of 26 January, pp. 167–168; quoted passage at p. 168"
+- id: SRC-151
+  author: "Polish Institute of International Affairs, editor"
+  title: "Polish Documents on Foreign Policy, 1938–1939"
+  date: "2009"
+  original_language: en
+  identifier: "English documentary edition; PDD 1939/I, documents 5 and 27"
+  url: "https://digit.pism.pl/Content/1552/Polish%20Documents%20on%20Foreign%20Policy%201938-1939.pdf"
+  access_date: "2026-07-19"
+  locator: "Document 5, pp. 78–79: Polish record of Beck's 5 January meeting with Hitler; document 27, pp. 86–91: Polish first draft on Beck–Ribbentrop talks of 26–27 January, especially pp. 88–91"
+- id: SRC-152
+  author: "Oleksandr Pahiria"
+  title: "The Ukrainian Question in the Foreign Policy of the Second Polish Republic at the Turn of 1938–1939"
+  date: "2024"
+  original_language: en
+  identifier: "East European Historical Bulletin 30, pp. 131–145; DOI 10.24919/2519-058X.30.299910"
+  url: "https://eehb.dspu.edu.ua/article/download/299910/293036/694157"
+  access_date: "2026-07-19"
+  locator: "pp. 140–142: compares the January meetings and archival records; distinguishes Polish eastern ambitions from acceptance of a German anti-Soviet alliance"
+- id: SRC-153
+  author: "Anthony J. Drexel Biddle Jr.; United States Department of State"
+  title: "The Ambassador in Poland to the Secretary of State"
+  date: "1939-01-10"
+  original_language: en
+  identifier: "FRUS 1939, General, Volume I, document 1; telegram 760C.62/423"
+  url: "https://history.state.gov/historicaldocuments/frus1939v01/d1"
+  access_date: "2026-07-19"
+  locator: "Points 1–2: Beck's confidential account of his Hitler and Ribbentrop conversations, including his view that Hitler's interest in Ukraine had been exaggerated"
+- id: SRC-180
+  author: "Adolf Hitler; International Military Tribunal prosecution"
+  title: "Extract from Herr Hitler's speech to the Reichstag on April 28, 1939"
+  date: "1939-04-28"
+  original_language: en
+  identifier: "Nuremberg document TC-72 no. 13; Prosecution Exhibit 43; HLSL item 450780"
+  url: "https://nuremberg.law.harvard.edu/documents/450780-extract-from-a-speech?mode=image"
+  access_date: "2026-07-19"
+  locator: "Three-page official English evidentiary extract; Prosecution document book 2, IMT p. 1001; identifies the speaker, Reichstag setting, and date and reproduces the German proposals, claimed Polish rejection, and renunciation of the 1934 declaration"
+- id: SRC-181
+  author: "Kattowitzer Zeitung"
+  title: "Kattowitzer Zeitung, 1939, Jg. 71, Nr. 116"
+  date: "1939-04-29"
+  original_language: de
+  identifier: "Schlesische Digitale Bibliothek, edition 119048; issue 116"
+  url: "https://sbc.org.pl/de/dlibra/publication/126799/edition/119048/kattowitzer-zeitung-1939-jg-71-nr-116"
+  access_date: "2026-07-19"
+  locator: "Contemporary issue printing Hitler's 28 April Reichstag speech; passages beginning 'Ich sah nun in der friedlichen Lösung dieser Frage,' 'Die polnische Regierung hat dieses mein Angebot abgelehnt,' and 'Ich habe diese mir unverständliche Haltung ... aufrichtig bedauert'"
+- id: SRC-182
+  author: "Institute of National Remembrance (Poland)"
+  title: "Wypowiedzenie przez Hitlera deklaracji polsko-niemieckiej o niestosowaniu przemocy"
+  date: "2025-04-28"
+  original_language: pl
+  identifier: "IPN historical article on the 28 April 1939 Reichstag speech"
+  url: "https://ipn.gov.pl/pl/historia-z-ipn/216860%2CWypowiedzenie-przez-Hitlera-deklaracji-polsko-niemieckiej-o-niestosowaniu-przemo.html"
+  access_date: "2026-07-19"
+  locator: "Historical context sections: German demands concerning Danzig and an extraterritorial road and railway, Polish refusal, Hitler's use of the British guarantee as a pretext, and German preparations for war from early April 1939"
+- id: SRC-190
+  author: "Marcel Déat"
+  title: "Mourir pour Dantzig ?"
+  date: "1939-05-04"
+  original_language: fr
+  identifier: "L’Œuvre, issue 8583; Gallica ark:/12148/bpt6k4621343w"
+  url: "https://gallica.bnf.fr/ark:/12148/bpt6k4621343w/f1.item"
+  access_date: "2026-07-19"
+  locator: "Front page, upper-right signed editorial; headline ‘Mourir pour Dantzig ?’ and closing sentence ‘Mais mourir pour Dantzig non !’"
+- id: SRC-191
+  author: "Marcel Déat; Clio-Texte"
+  title: "Mourir pour Dantzig ? Mai 1939"
+  date: "1939-05-04"
+  original_language: fr
+  identifier: "Complete documentary transcription linked to BnF Gallica original"
+  url: "https://clio-texte.clionautes.org/mourir-pour-dantzig-mai-1939.html"
+  access_date: "2026-07-19"
+  locator: "Full article transcription, especially headline and final paragraph; source citation L’Œuvre, 4 May 1939, p. 1"
+- id: SRC-192
+  author: "Edwin C. Wilson; United States Department of State"
+  title: "The Chargé in France to the Secretary of State"
+  date: "1939-06-24"
+  original_language: en
+  identifier: "FRUS 1939, General, Volume I, document 193; dispatch 760C.62/680"
+  url: "https://history.state.gov/historicaldocuments/frus1939v01/d193"
+  access_date: "2026-07-19"
+  locator: "Paragraphs 2–3 and numbered points 2–3: contemporary report of appeasement influences in France and England, French objections to being dragged into war over Danzig, and a probably widespread view that the settlement was not worth a war"
+- id: SRC-193
+  author: "Institut français d’opinion publique"
+  title: "1938–1939 : L’opinion française à la veille de l’entrée en guerre"
+  date: "1939-07"
+  original_language: fr
+  identifier: "IFOP Collectors no. 21; republication of Sondages, no. 2, June–July 1939"
+  url: "https://www.ifop.com/publication/ifop-collectors-n21-1938-1939-lopinion-francaise-a-la-veille-de-lentree-en-guerre/"
+  access_date: "2026-07-19"
+  locator: "Danzig question: 76% answered that France should prevent a German seizure, by force if necessary; 17% opposed and 7% gave no answer"
+- id: SRC-200
+  author: "L'Avvenire d'Italia; Adolf Hitler; Stefani news agency"
+  title: "Il Patto decennale suggellato a Berlino dal conte Ciano e da von Ribbentrop"
+  date: "1939-05-23"
+  original_language: it
+  identifier: "L'Avvenire d'Italia, anno XLIV, no. 119; Biblioteca del Seminario di Udine digitized periodical"
+  url: "https://manoscrittisbhu.comune.udine.it/uploads/PERIODICI/avvenire_d_italia/1939/avvenire_d_Italia_19390523.pdf"
+  access_date: "2026-07-19"
+  locator: "Front page for extensive celebratory coverage and official declarations; p. 6 for Hitler's telegram to Victor Emmanuel III: 'i nostri due popoli ... da una infrangibile amicizia e comunanza di destini'"
+- id: SRC-210
+  author: "Galeazzo Ciano; Renzo De Felice, editor"
+  title: "Diario 1937–1943"
+  date: "1996"
+  original_language: it
+  identifier: "3rd ed., Biblioteca Universale Rizzoli, Supersaggi 34; Liber Liber electronic edition, 13 January 2015"
+  url: "https://liberliber.it/autori/autori-c/galeazzo-ciano/diario-1937-1943/"
+  access_date: "2026-07-19"
+  locator: "Entry for 4 August 1939, print/digital p. 536: 'È venuto il momento di saper veramente come stanno le cose. Il giuoco è troppo grosso per attenderne inerti gli sviluppi.' The catalog page identifies the underlying edition, editor, digitizer, reviewer, and electronic publication date."
+- id: SRC-221
+  author: "International Military Tribunal"
+  title: "Trial transcript: prosecution case against Joachim von Ribbentrop"
+  date: "1946-01-08"
+  original_language: en
+  identifier: "IMT transcript pp. 2348 and 2354; Ciano diary PS-2987, USA-166"
+  url: "https://nuremberg.law.harvard.edu/transcripts/7-transcript-for-imt-trial-of-major-war-criminals?seq=2360"
+  access_date: "2026-07-19"
+  locator: "IMT p. 2348: prosecution reads Ciano's Corridor/Danzig–‘We want war’ passage; p. 2354: separate quotation of the 11 August diary entry"
+- id: SRC-222
+  author: "Paul Otto Schmidt; International Military Tribunal"
+  title: "Memorandum of a conversation between Hitler, Ribbentrop and Ciano"
+  date: "1939-08-12"
+  original_language: en
+  identifier: "TC-77 no. 36; GB-145; HLSL item 450717"
+  url: "https://nuremberg.law.harvard.edu/documents/2498-memorandum-of-a-conference?mode=text"
+  access_date: "2026-07-19"
+  locator: "Obersalzberg conference record of 12 August 1939; Hitler insists no time be lost in solving the Polish problem and discusses the seasonal deadline for military operations"
+- id: SRC-223
+  author: "Joachim von Ribbentrop; International Military Tribunal"
+  title: "Cross-examination of Joachim von Ribbentrop"
+  date: "1946-04-01"
+  original_language: en
+  identifier: "IMT transcript pp. 6895–6897"
+  url: "https://nuremberg.law.harvard.edu/transcripts/7-transcript-for-imt-trial-of-major-war-criminals?q=&seq=6916"
+  access_date: "2026-07-19"
+  locator: "Ribbentrop denies saying ‘we wanted war,’ while acknowledging that he conveyed Hitler's determination to solve the Polish problem, by war if necessary"
+- id: SRC-230
+  author: "Galeazzo Ciano; Renzo De Felice, ed."
+  title: "Diario 1937–1943"
+  date: "1996"
+  original_language: it
+  identifier: "3rd ed., Biblioteca Universale Rizzoli, Supersaggi 34; Liber Liber electronic edition, 2015"
+  url: "https://www.rai.it/dl/doc/2018/11/22/1542896579503_ciano_diario_1937_1943.pdf"
+  access_date: "2026-07-19"
+  locator: "Introduction, pp. 9–11, signed 23 December 1943 in cell 27 of Verona prison: retrospective Fuschl dialogue and wager narrative; diary entry 11 August 1939, p. 539, states 'La volontà del combattimento è implacabile' and that Germany would attack even if granted more, while entries for 11–13 August, pp. 539–540, do not mention the wager"
+- id: SRC-231
+  author: "Paul Otto Schmidt; Office of the United States Chief Counsel for Prosecution of Axis Criminality"
+  title: "Minutes of the Conference between the Fuehrer and Count Ciano, 12 August 1939"
+  date: "1939-08-12"
+  original_language: de
+  identifier: "Nuremberg document 1871-PS; Nazi Conspiracy and Aggression, vol. IV"
+  url: "https://avalon.law.yale.edu/imt/1871-ps.asp"
+  access_date: "2026-07-19"
+  locator: "Official German minutes signed Schmidt; paragraphs 40–45 record Ciano's warning of general war and Hitler's conviction that Britain and France would shrink from it; no wager is recorded"
+- id: SRC-250
+  author: "Georges Bonnet"
+  title: "De Munich à la guerre"
+  date: "1967"
+  original_language: fr
+  identifier: "Paris: Plon, 588 pp.; BnF FRBNF32928022"
+  url: "https://catalogue.bnf.fr/ark:/12148/cb32928022p"
+  access_date: "2026-07-19"
+  locator: "p. 277; retrospective account of Bonnet's 15 August 1939 conversation with Polish ambassador Juliusz Łukasiewicz and the attributed prediction that the Polish army would invade Germany in the first days"
+- id: SRC-251
+  author: "Georges Bonnet; Commission de publication des documents diplomatiques français"
+  title: "Conversation du Ministre des Affaires étrangères avec M. Lukachievicz"
+  date: "1939-08-15"
+  original_language: fr
+  identifier: "AN Papiers Daladier 496AP/13; Documents diplomatiques français 1932–1939, 2e série, tome XVIII, document 51"
+  url: "https://www.diplomatie.gouv.fr/fr/archives-bibliotheque/publications-et-travaux-scientifiques/documents-diplomatiques-francais"
+  access_date: "2026-07-19"
+  locator: "Document 51; contemporary Quai d'Orsay note of Bonnet's conversation with Łukasiewicz on Soviet military transit through Poland"
+- id: SRC-252
+  author: "William C. Bullitt; United States Department of State"
+  title: "The Ambassador in France to the Secretary of State"
+  date: "1939-08-18"
+  original_language: en
+  identifier: "FRUS 1939, General, Volume I, document 228; telegram 760C.62/871"
+  url: "https://history.state.gov/historicaldocuments/frus1939v01/d228"
+  access_date: "2026-07-19"
+  locator: "Contemporary report that Daladier was shocked and angered by the violence of Łukasiewicz's negative reaction to the Soviet proposal; corroborates the meeting's tenor, not the exact invasion prediction"
+- id: SRC-240
+  author: "Galeazzo Ciano; Office of United States Chief of Counsel for Prosecution of Axis Criminality"
+  title: "Extracts from the Diary of Count Galeazzo Ciano"
+  date: "1946"
+  original_language: en
+  identifier: "Nuremberg document PS-2987; IMT p. 1257; HLSL item 450956"
+  url: "https://nuremberg.law.harvard.edu/documents/1378-extracts-from-diary-on-japans?mode=text"
+  access_date: "2026-07-19"
+  locator: "Evidence metadata and pp. 690–692; English evidentiary extracts include Ciano's introduction and diary entries for 11–13 August 1939. The 13 August extract reaches his report to Mussolini but marks an omission where the target sentence appears in the complete Italian edition."
+- id: SRC-260
+  author: "Sir Nevile Henderson; British Foreign Office"
+  title: "Sir N. Henderson to Viscount Halifax, Berlin, August 16, 1939"
+  date: "1939-08-16"
+  original_language: en
+  identifier: "Documents Concerning German-Polish Relations and the Outbreak of Hostilities between Great Britain and Germany on September 3, 1939; Cmd. 6106; Miscellaneous No. 9 (1939); document no. 48"
+  url: "https://avalon.law.yale.edu/wwii/blbk48.asp"
+  access_date: "2026-07-19"
+  locator: "Contemporaneous diplomatic telegram reporting Henderson's 15 August evening meeting with State Secretary Ernst von Weizsäcker; warning at Yale Avalon transcription lines 29–32"
+- id: SRC-290
+  author: "Adolf Hitler; Joachim von Ribbentrop; German Foreign Office"
+  title: "The Reich Foreign Minister to the German Ambassador in the Soviet Union, Telegram No. 189"
+  date: "1939-08-20"
+  original_language: de
+  identifier: "German Foreign Office telegram no. 189; Nazi-Soviet Relations, 1939–1941, Department of State publication 3023"
+  url: "https://avalon.law.yale.edu/20th_century/ns044.asp"
+  access_date: "2026-07-19"
+  locator: "Berlin, 20 August 1939, 4:35 p.m.; complete six-point personal message from Hitler to Stalin and instruction for delivery through Schulenburg"
+- id: SRC-291
+  author: "Joseph Stalin; Friedrich-Werner von der Schulenburg; German Embassy in Moscow"
+  title: "Text of Stalin's Reply, Telegram No. 200"
+  date: "1939-08-21"
+  original_language: "ru / de"
+  identifier: "German Embassy Moscow telegram no. 200; Nazi-Soviet Relations, 1939–1941, Department of State publication 3023"
+  url: "https://avalon.law.yale.edu/20th_century/ns048.asp"
+  access_date: "2026-07-19"
+  locator: "Moscow, 21 August 1939, 7:30 p.m.; full text of Stalin's reply accepting Ribbentrop's arrival on 23 August"
+- id: SRC-292
+  author: "Joseph Stalin; Ministry of Foreign Affairs of the USSR, comp."
+  title: "Letter from I. V. Stalin to German Reich Chancellor A. Hitler"
+  date: "1939-08-21"
+  original_language: ru
+  identifier: "AVP SSSR, fond 0745, opis 14, papka 32, delo 3, list 65; God krizisa. 1938–1939, document 583"
+  url: "https://doc20vek.ru/node/933"
+  access_date: "2026-07-19"
+  locator: "Russian documentary transcription; notes delivery by Molotov to Schulenburg at 5 p.m. on 21 August and provides the Soviet archival citation"
+- id: SRC-270
+  author: "Corriere della Sera"
+  title: "La Polonia alla svolta estrema della sua storia"
+  date: "1939-08-18"
+  original_language: it
+  identifier: "Corriere historical archive CP_1939/CP_19390818_L; CORSERA_POM_19390818_L_NAZ_NUL_01_00_D"
+  url: "https://rcsmgfearch.blob.core.windows.net/big-a/CP_1939/CP_19390818_L/Pages/Pdf/gs_desk_dpi150_pdf/CORSERA_POM_19390818_L_NAZ_NUL_01_00_D.pdf_big.jpg"
+  access_date: "2026-07-19"
+  locator: "Afternoon edition, p. 1, banner headline and italic deck: 'Le tragiche responsabilità delle democrazie che hanno scatenata e sorretta la protervia polacca' and 'Incrollabile fermezza dell'Asse contro il bellicismo ammantato d'ipocrisia degli accerchiatori'"
+- id: SRC-280
+  author: "Cahiers du communisme"
+  title: "Le sabotage des pourparlers d’août 1939"
+  date: "1947-08"
+  original_language: fr
+  identifier: "Cahiers du communisme, 24e année, no. 8"
+  url: "https://pandor.u-bourgogne.fr/fr/archives-en-ligne/functions/ead/detached/CC/CC_1947_08_n008.pdf"
+  access_date: "2026-07-19"
+  locator: "p. 744 of the bound issue; early printed attribution to Marshal Rydz-Śmigły: ‘Avec les Allemands nous risquons de perdre notre liberté, avec les Russes, nous perdons notre âme’"
+- id: SRC-281
+  author: "Alexander Werth"
+  title: "Russia at War, 1941–1945"
+  date: "1964"
+  original_language: en
+  identifier: "London: Barrie & Rockliff; OCLC 785129392"
+  url: "https://prussia.online/Data/Book/ru/russia-at-war-1941-1945/Werth%20A.%20Russia%20at%20war%201941-1945%20%282017%29%2C%20OCR.pdf"
+  access_date: "2026-07-19"
+  locator: "‘Prelude to War,’ p. 38; identifies Śmigły-Rydz's reply to Captain Beaufre as a repetition of his remark to the French ambassador"
+- id: SRC-282
+  author: "Antony Beevor"
+  title: "The Second World War"
+  date: "2012"
+  original_language: en
+  identifier: "London: Weidenfeld & Nicolson; ISBN 9781780225647"
+  url: "https://media.public.gr/Books-PDF/9781780225647-0819979.pdf"
+  access_date: "2026-07-19"
+  locator: "Opening diplomatic narrative; attributes ‘with the Germans we risk the loss of our liberty, but with the Russians we lose our soul’ to Polish commander-in-chief Marshal Edward Śmigły-Rydz"
+- id: SRC-283
+  author: "Polish-Russian Group for Difficult Matters"
+  title: "White Spots—Black Spots: Difficult Matters in Polish-Russian Relations, 1918–2008"
+  date: "2015"
+  original_language: en
+  identifier: "University of Pittsburgh Press; ISBN 9780822944409"
+  url: "https://dokumen.pub/white-spotsblack-spots-difficult-matters-in-polish-russian-relations-19182008-0822944405-9780822944409.html"
+  access_date: "2026-07-19"
+  locator: "Chapter on the road to the Molotov–Ribbentrop Pact; presents the maxim instead as a principle originating in Marshal Piłsudski's political testament, illustrating attribution instability"
+- id: SRC-320
+  author: "Corriere della Sera"
+  title: "L'accordo tedesco-sovietico: Il grandioso successo politico dell'Asse"
+  date: "1939-08-23"
+  original_language: it
+  identifier: "Corriere historical archive CP_1939/CP_19390823_L; CORSERA_POM_19390823_L_NAZ_NUL_01_00_D"
+  url: "https://rcsmgfearch.blob.core.windows.net/big-a/CP_1939/CP_19390823_L/Pages/Pdf/gs_desk_dpi150_pdf/CORSERA_POM_19390823_L_NAZ_NUL_01_00_D.pdf_big.jpg"
+  access_date: "2026-07-19"
+  locator: "Afternoon edition, p. 1, full-width overline, banner headline, subheadline, and italic deck announcing the German-Soviet agreement and Ribbentrop's departure for Moscow"
+- id: SRC-300
+  author: "Angelantonio Rosato"
+  title: "Le relazioni dell'Italia con l'Unione Sovietica dal 1939 al 1941: L'Italia e la genesi del patto Molotov–Ribbentrop"
+  date: "1999"
+  original_language: it
+  identifier: "Slavia: rivista trimestrale di cultura, anno VIII, no. 4, chapter 2"
+  url: "https://www.slavia.it/volumi/SLAVIA_1999_04.pdf"
+  access_date: "2026-07-19"
+  locator: "pp. 37–38 of the article (PDF pp. 37–38), especially the section beginning 'La situazione era destinata ad evolversi rapidamente': reproduces Ciano's 21–22 August entries and analyzes Mussolini and Ciano's brief expectation of territorial gains"
+- id: SRC-310
+  author: "Adolf Hitler; Office of United States Chief of Counsel for Prosecution of Axis Criminality"
+  title: "The Fuehrer's Speech to the Commanders in Chief on 22 August 1939"
+  date: "1939-08-22"
+  original_language: en
+  identifier: "Nuremberg document PS-798; Nazi Conspiracy and Aggression, vol. III, pp. 581–585; HLSL item 450608"
+  url: "https://nuremberg.law.harvard.edu/documents/569-address-to-the-commanding?mode=text"
+  access_date: "2026-07-19"
+  locator: "PS-798, pp. 581–582 (personal factors: Hitler and Mussolini) and p. 585 (comparison with 1914–1918); Harvard metadata notes that PS-798 is one surviving version and that document L-3 is a different, longer version"
+- id: SRC-580
+  author: "Michael Jabara Carley"
+  title: "End of the 'Low, Dishonest Decade': Failure of the Anglo-Franco-Soviet Alliance in 1939"
+  date: "1993"
+  original_language: en
+  identifier: "Europe-Asia Studies 45, no. 2, pp. 303–341; DOI 10.1080/09668139308412091"
+  url: "https://doi.org/10.1080/09668139308412091"
+  access_date: "2026-07-19"
+  locator: "pp. 326–331 and notes 160–187; compares Voroshilov's displayed powers with Doumenc's Daladier authorization and Drax's authority to negotiate but not sign, then reconstructs the transit deadlock"
+- id: SRC-581
+  author: "United States Department of State"
+  title: "Foreign Relations of the United States, Diplomatic Papers, 1939, General, Volume I"
+  date: "1939-08-23"
+  original_language: en
+  identifier: "FRUS 1939, General, vol. I, document 296; telegram 460"
+  url: "https://history.state.gov/historicaldocuments/frus1939v01/d296"
+  access_date: "2026-07-19"
+  locator: "pp. 306–307; Ambassador Steinhardt reports the French ambassador's judgment that Poland's refusal of Soviet military assistance caused most delay and prevented an alliance, together with Molotov's stated position"
+- id: SRC-582
+  author: "United States Department of State"
+  title: "Foreign Relations of the United States, Diplomatic Papers, 1939, General, Volume I"
+  date: "1939-08-27"
+  original_language: en
+  identifier: "FRUS 1939, General, vol. I, document 302; telegram 476"
+  url: "https://history.state.gov/historicaldocuments/frus1939v01/d302"
+  access_date: "2026-07-19"
+  locator: "pp. 311–312; contemporary report of Voroshilov's Izvestiya interview attributing the impasse to Poland's refusal of Soviet troop passage and presenting the German pact as a consequence"
+- id: SRC-583
+  author: "Geoffrey Roberts"
+  title: "The Soviet Decision for a Pact with Nazi Germany"
+  date: "1992"
+  original_language: en
+  identifier: "Soviet Studies 44, no. 1, pp. 57–78; DOI 10.1080/09668139208411994"
+  url: "https://doi.org/10.1080/09668139208411994"
+  access_date: "2026-07-19"
+  locator: "Article as a whole, especially pp. 57–60 and 72–78; post-Soviet archival reassessment arguing for a late decision after breakdown of triple-alliance talks while identifying neutrality and Baltic security advantages"
+- id: SRC-584
+  author: "Japan Association of International Relations"
+  title: "Soviet Diplomacy in 1938–1939: From the Munich Agreement to the Soviet-German Pact"
+  date: "1982-10-23"
+  original_language: ja
+  identifier: "International Relations, no. 72, pp. 55–70, L8; DOI 10.11375/kokusaiseiji1957.72_55"
+  url: "https://cir.nii.ac.jp/crid/1390282680311022080"
+  access_date: "2026-07-19"
+  locator: "English abstract and article pp. 55–70; uses Richard Sorge reports to argue that Soviet-Japanese relations and the Nomonhan incident influenced Soviet foreign-policy decision-making"
+- id: SRC-585
+  author: "Governments of Germany and the Union of Soviet Socialist Republics"
+  title: "Secret Additional Protocol to the German-Soviet Nonaggression Pact"
+  date: "1939-08-23"
+  original_language: "de / ru"
+  identifier: "Nazi-Soviet Relations, 1939–1941, Department of State publication 3023"
+  url: "https://avalon.law.yale.edu/20th_century/addsepro.asp"
+  access_date: "2026-07-19"
+  locator: "Paragraphs 1–3; paragraph 2 assigns spheres in Poland approximately along the Narew-Vistula-San line while reserving the question of an independent Polish state"
+- id: SRC-586
+  author: "G. F. Krivosheev, ed."
+  title: "Russia and the USSR in the Wars of the Twentieth Century: A Statistical Study"
+  date: "2001"
+  original_language: ru
+  identifier: "Chapter: Defeat of the Japanese Invaders at the Khalkhin Gol River (1939); tables 87–89"
+  url: "https://statehistory.ru/books/pod-red--G-F--Krivosheeva_Rossiya-i-SSSR-v-voynakh-XX-veka--Statisticheskoe-issledovanie/23"
+  access_date: "2026-07-19"
+  locator: "Narrative and table 88; dates the main Soviet offensive to 20–31 August and reports 9,703 irrecoverable plus 15,952 sanitary Soviet losses, while separately repeating a disputed official estimate of about 61,000 Japanese losses"
+- id: SRC-330
+  author: "Sir Nevile Henderson; British Foreign Office"
+  title: "Sir N. Henderson to Viscount Halifax, Berlin, August 23, 1939"
+  date: "1939-08-23"
+  original_language: en
+  identifier: "Documents Concerning German-Polish Relations and the Outbreak of Hostilities; Cmd. 6106; Miscellaneous No. 9 (1939); document no. 57"
+  url: "https://avalon.law.yale.edu/wwii/blbk57.asp"
+  access_date: "2026-07-19"
+  locator: "Official telegram received 24 August, especially the paragraphs beginning 'During the whole of this first conversation' and 'He then violently attacked the Poles'; print pp. 127–130, target exchange at p. 129"
+- id: SRC-340
+  author: "Sir Nevile Henderson; British Foreign Office"
+  title: "Sir N. Henderson to Viscount Halifax, Berlin, August 25, 1939"
+  date: "1939-08-25"
+  original_language: en
+  identifier: "Documents Concerning German-Polish Relations and the Outbreak of Hostilities between Great Britain and Germany on September 3, 1939; Cmd. 6106; Miscellaneous No. 9 (1939); document no. 69"
+  url: "https://avalon.law.yale.edu/wwii/blbk69.asp"
+  access_date: "2026-07-19"
+  locator: "British War Blue Book, document no. 69, paragraph 7; Henderson's same-day telegram, received at 7 p.m., summarizing his hour-long morning conversation with Hitler"
+- id: SRC-350
+  author: "Benito Mussolini; Italian Ministry of Foreign Affairs, ed."
+  title: "Il capo del Governo, Mussolini, al cancelliere del Reich, Hitler"
+  date: "1939-08-25"
+  original_language: it
+  identifier: "I Documenti diplomatici italiani, eighth series (1935–1939), vol. XIII (1953), document 250"
+  url: "https://www.farnesina.ipzs.it/series/OTTAVA%20SERIE/volumi/VOLUME%20%20XIII/full"
+  access_date: "2026-07-19"
+  locator: "Document 250, personal letter without number, Rome, 25 August 1939, printed pp. 164–165; supply condition at p. 165; editorial note 2 records relay by Ciano to Attolico at 5:30 p.m. for urgent personal delivery"
+- id: SRC-351
+  author: "Benito Mussolini; German Foreign Office; U.S. Department of State, ed."
+  title: "Letter from Mussolini to Hitler, August 25, 1939"
+  date: "1939-08-25"
+  original_language: "de (translation from Italian); en documentary translation"
+  identifier: "Nazi-Soviet Relations, 1939–1941, Department of State publication 3023, document ns058"
+  url: "https://avalon.law.yale.edu/20th_century/ns058.asp"
+  access_date: "2026-07-19"
+  locator: "Complete English text derived from the German Foreign Office's translation of the Italian original; paragraph 5 contains the military-readiness and immediate-supply condition"
+- id: SRC-360
+  author: "Benito Mussolini; Italian Ministry of Foreign Affairs, ed."
+  title: "Il capo del Governo, Mussolini, al cancelliere del Reich, Hitler"
+  date: "1939-08-26"
+  original_language: it
+  identifier: "I Documenti diplomatici italiani, eighth series (1935–1939), vol. XIII (1953), document 293"
+  url: "https://www.farnesina.ipzs.it/series/OTTAVA%20SERIE/volumi/VOLUME%20%20XIII/full"
+  access_date: "2026-07-19"
+  locator: "Document 293, letter without number, Rome, 26 August 1939, printed pp. 318–319; complete list at p. 318. Editorial note 1 records that Ciano communicated it by telephone to Attolico at 12:10 for immediate delivery to Hitler. Compare document 298, Hitler's reply recording Attolico's oral immediate-delivery condition, and document 299, Attolico's 3:35 p.m. correction of the equivoco."
+- id: SRC-370
+  author: "Adolf Hitler; German Foreign Office; Office of United States Chief of Counsel for Prosecution of Axis Criminality"
+  title: "Reply of the Fuehrer to the Duce"
+  date: "1939-08-26"
+  original_language: en
+  identifier: "Nuremberg document PS-1823; Nazi Conspiracy and Aggression, vol. IV"
+  url: "https://avalon.law.yale.edu/imt/1823-ps.asp"
+  access_date: "2026-07-19"
+  locator: "Captured German Foreign Office cipher telegram, deciphering no. 403 of 26 August 1939; sent Berlin 27 August at 00:32, received Rome at 02:25 and by the embassy at 03:40; target passages in the first and final paragraphs"
+- id: SRC-380
+  author: "Sir Nevile Henderson; British Foreign Office"
+  title: "Sir N. Henderson to Viscount Halifax, Berlin, August 29, 1939"
+  date: "1939-08-29"
+  original_language: en
+  identifier: "British War Blue Book, Cmd. 6106, Miscellaneous No. 9 (1939), document no. 80"
+  url: "https://avalon.law.yale.edu/wwii/blbk80.asp"
+  access_date: "2026-07-19"
+  locator: "Telegram received 10:25 p.m.; paragraphs 1–2 describe the stormy interview, Hitler as much less reasonable than the previous day, and his repeated friendship/vital-interests contrast; the Avalon heading has a typographical 'August 19,' corrected by the official printed edition to August 29"
+- id: SRC-381
+  author: "Sir Nevile Henderson; British Foreign Office"
+  title: "Sir N. Henderson to Viscount Halifax, Berlin, August 29, 1939"
+  date: "1939-08-29"
+  original_language: en
+  identifier: "British War Blue Book, Cmd. 6106, Miscellaneous No. 9 (1939), document no. 79"
+  url: "https://avalon.law.yale.edu/wwii/blbk79.asp"
+  access_date: "2026-07-19"
+  locator: "Telegram received 9:15 p.m.; paragraphs 3–5 summarize the demand for a Polish plenipotentiary to arrive on 30 August, Henderson's objection that it sounded like an ultimatum, and Hitler's assurance of equal treatment"
+- id: SRC-382
+  author: "Adolf Hitler; British Foreign Office, trans."
+  title: "Reply of the German Chancellor to the Communication of August 28, 1939, from His Majesty's Government"
+  date: "1939-08-29"
+  original_language: "de; en official translation"
+  identifier: "British War Blue Book, Cmd. 6106, Miscellaneous No. 9 (1939), document no. 78"
+  url: "https://avalon.law.yale.edu/wwii/blbk78.asp"
+  access_date: "2026-07-19"
+  locator: "Written reply handed to Henderson during the evening of 29 August; final two paragraphs require a Polish emissary with full powers in Berlin on Wednesday 30 August"
+- id: SRC-390
+  author: "Viscount Halifax; British Foreign Office"
+  title: "Viscount Halifax to Sir N. Henderson (Berlin), August 30, 1939, 2 a.m."
+  date: "1939-08-30"
+  original_language: en
+  identifier: "Documents Concerning German-Polish Relations and the Outbreak of Hostilities; Cmd. 6106; Miscellaneous No. 9 (1939); document no. 81"
+  url: "https://avalon.law.yale.edu/wwii/blbk81.asp"
+  access_date: "2026-07-19"
+  locator: "British War Blue Book, document no. 81, p. 180; complete two-paragraph telegram, especially the first paragraph calling same-day production of a Polish representative in Berlin unreasonable"
+- id: SRC-391
+  author: "Sir Nevile Henderson; British Foreign Office"
+  title: "Sir N. Henderson to Viscount Halifax, Berlin, August 30, 1939"
+  date: "1939-08-30"
+  original_language: en
+  identifier: "Documents Concerning German-Polish Relations and the Outbreak of Hostilities; Cmd. 6106; Miscellaneous No. 9 (1939); document no. 82"
+  url: "https://avalon.law.yale.edu/wwii/blbk82.asp"
+  access_date: "2026-07-19"
+  locator: "British War Blue Book, document no. 82, p. 180, paragraph 1; telegram received at 1 p.m., reporting delivery of Halifax's message and Hitler's Warsaw–Berlin flight-time reply"
+- id: SRC-400
+  author: "Sir Nevile Henderson; British Foreign Office"
+  title: "Sir N. Henderson to Viscount Halifax, Berlin, August 30, 1939"
+  date: "1939-08-30"
+  original_language: en
+  identifier: "British War Blue Book, Cmd. 6106, Miscellaneous No. 9 (1939), document no. 91"
+  url: "https://avalon.law.yale.edu/wwii/blbk91.asp"
+  access_date: "2026-07-19"
+  locator: "Telegram received 31 August at 2:45 a.m.; complete two-paragraph report of Henderson's exchange with Ribbentrop about British advice to Poland"
+- id: SRC-401
+  author: "Viscount Halifax; British Foreign Office"
+  title: "Viscount Halifax to Sir H. Kennard, Warsaw, August 30, 1939, 5:30 p.m."
+  date: "1939-08-30"
+  original_language: en
+  identifier: "British War Blue Book, Cmd. 6106, Miscellaneous No. 9 (1939), document no. 85"
+  url: "https://avalon.law.yale.edu/wwii/blbk85.asp"
+  access_date: "2026-07-19"
+  locator: "Instructions to seek Polish restraints on violence, border firing, passage of German-minority fugitives, and inflammatory radio propaganda"
+- id: SRC-402
+  author: "Viscount Halifax; British Foreign Office"
+  title: "Viscount Halifax to Sir H. Kennard, Warsaw, August 30, 1939"
+  date: "1939-08-30"
+  original_language: en
+  identifier: "British War Blue Book, Cmd. 6106, Miscellaneous No. 9 (1939), document no. 90"
+  url: "https://avalon.law.yale.edu/wwii/blbk90.asp"
+  access_date: "2026-07-19"
+  locator: "Instructions sent 30 August and acted upon early 31 August; paragraphs 3 and 5 distinguish the rejected immediate-Berlin demand from British support for direct discussions without delay"
+- id: SRC-410
+  author: "Sir Nevile Henderson; British Foreign Office"
+  title: "Sir N. Henderson to Viscount Halifax, Berlin, August 30, 1939"
+  date: "1939-08-30"
+  original_language: en
+  identifier: "British War Blue Book, Cmd. 6106, Miscellaneous No. 9 (1939), document no. 92"
+  url: "https://avalon.law.yale.edu/wwii/blbk92.asp"
+  access_date: "2026-07-19"
+  locator: "Telegram received 9:30 a.m. on 31 August; paragraphs 2–5 report Ribbentrop's rapid reading, refusal to provide the text, plenipotentiary deadline, position on the Polish ambassador, and demeanour 'aping Herr Hitler at his worst'"
+- id: SRC-411
+  author: "Paul Otto Schmidt; International Military Tribunal"
+  title: "Testimony of Paul Schmidt on the Henderson–Ribbentrop conference"
+  date: "1946-03-28"
+  original_language: "de; en official interpretation"
+  identifier: "Trial of the Major War Criminals before the International Military Tribunal, vol. X, proceedings of 28 March 1946, pp. 196–199"
+  url: "https://avalon.law.yale.edu/imt/03-28-46.asp"
+  access_date: "2026-07-19"
+  locator: "Afternoon session, testimony concerning the 30 August 1939 conference; Schmidt confirms that Ribbentrop twice said he could not give Henderson the document and describes the charged atmosphere, while qualifying parts of Henderson's account"
+- id: SRC-420
+  author: "Józef Lipski; Stanisław Żerko, ed.; Polish Institute of International Affairs"
+  title: "Telegram szyfrowy ambasadora w Berlinie o rozmowie z Ribbentropem"
+  date: "1939-08-31"
+  original_language: pl
+  identifier: "Polskie Dokumenty Dyplomatyczne 1939: styczeń–sierpień (2005), document 523; IPMS, MSZ A.11.49/N/8"
+  url: "https://pism.pl/webroot/upload/files/Polskie%20Dokumenty%20Dyplomatyczne/Polskie%20Dokumenty%20Dyplomatyczne%201939%20stycze%C5%84-sierpie%C5%84.pdf"
+  access_date: "2026-07-19"
+  locator: "Document 523, cipher telegram no. 246, Berlin, 31 August 1939, received 10:30 p.m., pp. 859–860 (PDF pp. 927–928); complete Polish text of Lipski's report of his 6:30 p.m. meeting with Ribbentrop"
+- id: SRC-421
+  author: "Józef Lipski; Polish Government; International Military Tribunal"
+  title: "M. Lipski to the Ministry for Foreign Affairs, August 31, 1939"
+  date: "1939-08-31"
+  original_language: en
+  identifier: "Polish White Book, document no. 112; Nuremberg document TC-73 no. 112; Exhibit GB-72; HLSL item 450817"
+  url: "https://nuremberg.law.harvard.edu/documents/450817-message-to-the-polish?mode=image"
+  access_date: "2026-07-19"
+  locator: "Single-page official English documentary translation of Lipski's report, admitted as prosecution exhibit GB-72 and cited at IMT vol. III, pp. 1038 and 1051"
+- id: SRC-430
+  author: "Alfred Helmut Naujocks"
+  title: "Affidavit of Alfred Helmut Naujocks"
+  date: "1945-11-20"
+  original_language: "de; en official documentary translation"
+  identifier: "Nuremberg document PS-2751; Exhibit USA-482; HLSL item 451629; IMT vol. XXXI, pp. 389–391"
+  url: "https://nuremberg.law.harvard.edu/documents/1202-affidavit-concerning-the-staging?mode=text"
+  access_date: "2026-07-19"
+  locator: "Sworn postwar affidavit, paragraphs 2–6; orders and five or six SD men at pp. 390–391, telephone code word and Gleiwitz action at p. 391"
+- id: SRC-431
+  author: "Jürgen Runzheimer"
+  title: "Der Überfall auf den Sender Gleiwitz im Jahre 1939"
+  date: "1962"
+  original_language: de
+  identifier: "Vierteljahrshefte für Zeitgeschichte, vol. 10, no. 4, pp. 408–426"
+  url: "https://www.mythoselser.de/texts/runzheimer.pdf"
+  access_date: "2026-07-19"
+  locator: "pp. 412–415 distinguish the Polish-uniform evidence from the Gleiwitz group, critically assess PS-2751, and reconstruct five civilian-clothed attackers from station personnel's evidence"
+- id: SRC-432
+  author: "Alfred Helmut Naujocks; Der Spiegel"
+  title: "Großmutter gestorben"
+  date: "1963-11-13"
+  original_language: de
+  identifier: "Der Spiegel, no. 46/1963, pp. 71–77"
+  url: "https://www.mythoselser.de/texts/spiegel-1963-11-13.pdf"
+  access_date: "2026-07-19"
+  locator: "Retrospective interview with the leader of the Gleiwitz action; title and interview identify ‘Großmutter gestorben’ as the release code, a detail absent from the wording of his 1945 affidavit"
+- id: SRC-440
+  author: "Viscount Halifax; British Foreign Office"
+  title: "Viscount Halifax to Sir H. Kennard, Warsaw, September 1, 1939, 12:50 a.m."
+  date: "1939-09-01"
+  original_language: en
+  identifier: "British War Blue Book, Cmd. 6106, Miscellaneous No. 9 (1939), document no. 100"
+  url: "https://avalon.law.yale.edu/wwii/blbk100.asp"
+  access_date: "2026-07-19"
+  locator: "Paragraphs 3–5 urge modification of Lipski's instructions, warn that refusing proposals would be gravely misunderstood by outside opinion, and offer British assistance; paragraph 8 orders Kennard to speak to Beck immediately"
+- id: SRC-441
+  author: "Sir Howard Kennard; British Foreign Office"
+  title: "Sir H. Kennard to Viscount Halifax, Warsaw, September 1, 1939"
+  date: "1939-09-01"
+  original_language: en
+  identifier: "British War Blue Book, Cmd. 6106, Miscellaneous No. 9 (1939), document no. 101"
+  url: "https://avalon.law.yale.edu/wwii/blbk101.asp"
+  access_date: "2026-07-19"
+  locator: "Complete telegram; dated 7:43 p.m. on 1 September and received 2 a.m. on 2 September; records 4 a.m. decipherment, Lipski's 6:30 p.m. visit on 31 August, invasion at dawn, and resulting futility"
+- id: SRC-442
+  author: "Viscount Halifax; British Foreign Office"
+  title: "Viscount Halifax to Sir N. Henderson, Berlin, August 31, 1939, 11 p.m."
+  date: "1939-08-31"
+  original_language: en
+  identifier: "British War Blue Book, Cmd. 6106, Miscellaneous No. 9 (1939), document no. 99"
+  url: "https://avalon.law.yale.edu/wwii/blbk99.asp"
+  access_date: "2026-07-19"
+  locator: "Separate Berlin instruction asking Henderson to notify Germany of Polish steps toward contact and to propose an immediate provisional modus vivendi for Danzig"
+- id: SRC-450
+  author: "Luciano Monzali"
+  title: "Gli italiani di Dalmazia e le relazioni italo-jugoslave nel Novecento"
+  date: "2015"
+  original_language: it
+  identifier: "Marsilio, ISBN 978-88-317-2162-2; online edition released by the Società Dalmata di Storia Patria di Venezia for Giorno del Ricordo 2022"
+  url: "https://dalmatitaliani.org/wp-content/uploads/2022/02/pdf-gli-italiani-di-dalmazia-e-le-relazioni-italo-jugoslave-del-novecento-societa-dalmata-di-storia-patria-di-venezia-dalmatitaliani.org-giorno-del-ricordo-2022.pdf"
+  access_date: "2026-07-19"
+  locator: "Chapter 5, pp. 356–357; p. 357 and note 37 quote Ciano's report that Mussolini wanted his 'parte di bottino in Croazia e Dalmazia' and contextualize the delayed intervention, Mediterranean-Adriatic ambitions, and Yugoslavia as a secondary target"
+- id: SRC-460
+  author: "Corriere della Sera"
+  title: "Scocca l'ora decisiva"
+  date: "1939-09-01"
+  original_language: it
+  identifier: "Corriere historical archive CP_1939/CP_19390901_L; CORSERA_POM_19390901_L_NAZ_NUL_01_00_D"
+  url: "https://rcsmgfearch.blob.core.windows.net/big-a/CP_1939/CP_19390901_L/Pages/Pdf/gs_desk_dpi150_pdf/CORSERA_POM_19390901_L_NAZ_NUL_01_00_D.pdf_big.jpg"
+  access_date: "2026-07-19"
+  locator: "Afternoon edition, Friday 1 September 1939, p. 1; main banner, two stacked subheads, and deck beneath ‘Il testo del documento’"
+- id: SRC-500
+  author: "International Encyclopedia of the First World War"
+  title: "Versailles, Treaty of"
+  date: "2021-07-14"
+  original_language: en
+  identifier: "1914-1918-online article 958487, version 1.1"
+  url: "https://encyclopedia.1914-1918-online.net/article/versailles-treaty-of/"
+  access_date: "2026-07-19"
+  locator: "Sections 'Germany and the Treaty' and 'The Treaty in Historical Perspective'; surveys German rejection and the continuing scholarly dispute over harshness and causal consequences"
+- id: SRC-501
+  author: "Liliana Riga and James Kennedy"
+  title: "Tolerant majorities, loyal minorities and 'ethnic reversals': constructing minority rights at Versailles 1919"
+  date: "2009"
+  original_language: en
+  identifier: "Nations and Nationalism 15(3), pp. 461–482; DOI 10.1111/j.1469-8129.2009.00382.x"
+  url: "https://www.research.ed.ac.uk/files/16303975/KENNEDY_Tolerant_Majorities.pdf"
+  access_date: "2026-07-19"
+  locator: "pp. 461–464; identifies more than twenty-five million people left as minorities in the new East-Central European states and analyzes the resulting political instability"
+- id: SRC-502
+  author: "United States Holocaust Memorial Museum"
+  title: "The Nazi Rise to Power"
+  date: null
+  original_language: en
+  identifier: "Holocaust Encyclopedia article"
+  url: "https://encyclopedia.ushmm.org/content/en/article/the-nazi-rise-to-power"
+  access_date: "2026-07-19"
+  locator: "Sections on the 1932 elections and 30 January 1933 appointment; records 37 percent in July, 33 percent in November, no pre-seizure majority, and Hitler's appointment through conservative elite maneuvering"
+- id: SRC-503
+  author: "Adolf Hitler; German History in Documents and Images"
+  title: "Hitler's Speech to the Commanders in Chief (February 3, 1933)"
+  date: "1933-02-03"
+  original_language: de
+  identifier: "GHDI document 1538; source edition Jeremy Noakes and Geoffrey Pridham, eds., Nazism 1919–1945, vol. 3"
+  url: "https://germanhistorydocs.org/en/nazi-germany-1933-1945/ghdi%3Adocument-1538"
+  access_date: "2026-07-19"
+  locator: "Foreign-policy paragraph beginning 'Kampf gegen Versailles'; links revision of Versailles to rearmament and later expansion"
+- id: SRC-504
+  author: "Ian Kershaw"
+  title: "The Roads to War"
+  date: "2008-08-23"
+  original_language: en
+  identifier: "The Guardian review essay by the author of Hitler: A Biography"
+  url: "https://www.theguardian.com/books/2008/aug/23/history.secondworldwar"
+  access_date: "2026-07-19"
+  locator: "Sections contrasting Taylor's opportunist Hitler with intentionalist interpretations and summarizing the modern emphasis on Hitler's ideological aims interacting with contingent opportunities"
+- id: SRC-505
+  author: "Norrin M. Ripsman and Jack S. Levy"
+  title: "Wishful Thinking or Buying Time? The Logic of British Appeasement in the 1930s"
+  date: "2008"
+  original_language: en
+  identifier: "International Security 33(2), pp. 148–181"
+  url: "https://www.researchwithrutgers.org/en/publications/wishful-thinking-or-buying-time-the-logic-of-british-appeasement-/"
+  access_date: "2026-07-19"
+  locator: "pp. 148–181, especially conceptual framework at pp. 148–155 and British case analysis; distinguishes grievance resolution, threat diffusion, and buying-time strategies"
+- id: SRC-506
+  author: "Austrian Federal Chancellery"
+  title: "1938: Der 'Anschluss'"
+  date: null
+  original_language: de
+  identifier: "Official Austrian government historical chronology"
+  url: "https://www.bundeskanzleramt.gv.at/bundeskanzleramt/besuchen-sie-uns/gang-der-geschichte/1938.html"
+  access_date: "2026-07-19"
+  locator: "Chronology for 11 March–10 April 1938; military threat, Nazi street seizures, invasion, exclusion of Jews and opponents, and official plebiscite result of 99.73 percent"
+- id: SRC-507
+  author: "Hermann Göring; International Military Tribunal; Harvard Law School Library Nuremberg Trials Project"
+  title: "Transcripts of telephone conversations concerning Austria"
+  date: "1938-03-11"
+  original_language: de
+  identifier: "Nuremberg document PS-2949; HLSL item 452312"
+  url: "https://nuremberg.law.harvard.edu/documents/452312-cover-note-and-transcripts?mode=image"
+  access_date: "2026-07-19"
+  locator: "Telephone transcripts of 11 March 1938; Göring coordinates Austrian Nazis, presses for Seyss-Inquart's appointment, and dictates the request for German military assistance"
+- id: SRC-508
+  author: "Heinz Guderian"
+  title: "Panzer Leader"
+  date: "1952"
+  original_language: de
+  identifier: "English translation, Michael Joseph; German original Erinnerungen eines Soldaten"
+  url: "https://archive.org/details/panzerleader0000gude"
+  access_date: "2026-07-19"
+  locator: "pp. 33–34; memoir account of the march into Austria reports about 30 percent of tanks falling out through mechanical trouble"
+- id: SRC-509
+  author: "German Legation in Prague; International Military Tribunal; Harvard Law School Library Nuremberg Trials Project"
+  title: "Memorandum on German control of the Sudeten German Party"
+  date: "1938-03-16"
+  original_language: de
+  identifier: "Nuremberg document PS-3060; HLSL item 1425"
+  url: "https://nuremberg.law.harvard.edu/documents/1425-memorandum-on-german-control?mode=text"
+  access_date: "2026-07-19"
+  locator: "Complete memorandum, especially paragraphs describing Henlein and Frank's agreement that the party would pursue policy in close agreement with the Reich and receive German direction and support"
+- id: SRC-510
+  author: "United States Department of State"
+  title: "Foreign Relations of the United States, Diplomatic Papers, 1938, General, Volume I"
+  date: "1938-03-12"
+  original_language: en
+  identifier: "FRUS 1938, General, vol. I, document 439"
+  url: "https://history.state.gov/historicaldocuments/frus1938v01/d439"
+  access_date: "2026-07-19"
+  locator: "Document 439; contemporary report that France sought a joint demarche over Austria, Britain and Italy initially declined, and formal protests followed"
+- id: SRC-511
+  author: "United States Department of State"
+  title: "Foreign Relations of the United States, Diplomatic Papers, 1938, General, Volume I"
+  date: "1938-09-19"
+  original_language: en
+  identifier: "FRUS 1938, General, vol. I, document 593"
+  url: "https://history.state.gov/historicaldocuments/frus1938v01/d593"
+  access_date: "2026-07-19"
+  locator: "Document 593; text of the Anglo-French proposals requiring transfer to Germany of districts with more than 50 percent German inhabitants"
+- id: SRC-513
+  author: "Maxim Litvinov; United States Department of State"
+  title: "Statement by the Soviet People's Commissar for Foreign Affairs"
+  date: "1938-03-17"
+  original_language: en
+  identifier: "Peace and War: United States Foreign Policy, 1931–1941, document 458"
+  url: "https://history.state.gov/historicaldocuments/frus1933-39/d458"
+  access_date: "2026-07-19"
+  locator: "Final six paragraphs; offers Soviet participation in jointly decided collective action and grounds it in League, Kellogg Pact, Franco-Soviet, and Soviet-Czechoslovak obligations"
+- id: SRC-514
+  author: "Germany, United Kingdom, France, and Italy"
+  title: "Munich Agreement"
+  date: "1938-09-29"
+  original_language: en
+  identifier: "Czech Ministry of Foreign Affairs facsimile PDF"
+  url: "https://mzv.gov.cz/file/198473/MunichAgreement.pdf"
+  access_date: "2026-07-19"
+  locator: "Opening and paragraphs 1–6; four signatories, Czech evacuation beginning 1 October, German occupation, and Czechoslovak participation only on the implementation commission"
+- id: SRC-515
+  author: "Daniel Hucker"
+  title: "Public Opinion and the End of Appeasement in Britain and France"
+  date: "2011"
+  original_language: en
+  identifier: "Ashgate monograph; ISBN 9781409406259"
+  url: "https://www.routledge.com/Public-Opinion-and-the-End-of-Appeasement-in-Britain-and-France/Hucker/p/book/9781032922850"
+  access_date: "2026-07-19"
+  locator: "Chapters 2–5 on the Munich and Prague crises; comparative treatment of British and French public constraints, antiwar sentiment, and the post-Munich turn toward firmness"
+- id: SRC-516
+  author: "Costantino Pischedda"
+  title: "The Appeasement Puzzle and Competition Neglect"
+  date: "2022"
+  original_language: en
+  identifier: "In Eirene e Atena, pp. 123–140; DOI 10.36253/978-88-5518-595-0.11"
+  url: "https://books.fupress.com/chapter/the-appeasement-puzzle-and-competition-neglect/12921"
+  access_date: "2026-07-19"
+  locator: "pp. 123–140, especially pp. 123–129; reviews conventional and buying-time interpretations and argues Britain underestimated Germany's relative military gains"
+- id: SRC-551
+  author: "Jonathan Zorach"
+  title: "Czechoslovakia's Fortifications: Their Development and Role in the 1938 Munich Crisis"
+  date: "1976"
+  original_language: en
+  identifier: "Militärgeschichtliche Mitteilungen 20, no. 2, pp. 81–94; DOI 10.1524/mgzs.1976.20.2.81"
+  url: "https://www.degruyter.com/document/doi/10.1524/mgzs.1976.20.2.81/html"
+  access_date: "2026-07-19"
+  locator: "pp. 81–94; development, geographic disposition, incomplete state, and contested military value of the fortification system ceded after Munich"
+- id: SRC-552
+  author: "Robert Coulondre; French Ministry of Foreign Affairs"
+  title: "French Ambassador in Berlin to the Minister for Foreign Affairs, 15 March 1939"
+  date: "1939-03-15"
+  original_language: en
+  identifier: "French Yellow Book, document no. 67"
+  url: "https://avalon.law.yale.edu/wwii/ylbk067.asp"
+  access_date: "2026-07-19"
+  locator: "Complete same-day diplomatic report; describes Hácha's coercion, collapse and injections, and attributes the threat of an air demonstration against Prague to Göring"
+- id: SRC-553
+  author: "Christopher Hill"
+  title: "Constructing the Polish Guarantee, 15–31 March 1939"
+  date: "1991"
+  original_language: en
+  identifier: "Cabinet Decisions on Foreign Policy: The British Experience, October 1938–June 1941, chapter 2, pp. 18–47; DOI 10.1017/CBO9780511628658.003"
+  url: "https://www.cambridge.org/core/books/abs/cabinet-decisions-on-foreign-policy/constructing-the-polish-guarantee-1531-march-1939/555BAE5409437178C2D30DA1B5754864"
+  access_date: "2026-07-19"
+  locator: "Chapter summary and pp. 18–47; treats Prague as a turning point leading to the Polish guarantee and identifies the scholarly debate over abrupt change versus continuity"
+- id: SRC-555
+  author: "Neville Chamberlain; UK Parliament"
+  title: "European Situation"
+  date: "1939-03-31"
+  original_language: en
+  identifier: "Hansard, HC Deb 31 March 1939, vol. 345, cc2415–2420"
+  url: "https://api.parliament.uk/historic-hansard/commons/1939/mar/31/european-situation-1"
+  access_date: "2026-07-19"
+  locator: "Columns 2415–2416: interim assurance of immediate support if action clearly threatened Polish independence and Poland considered resistance vital; states France stood in the same position"
+- id: SRC-556
+  author: "Georges Bonnet; French Ministry of Foreign Affairs"
+  title: "Minister for Foreign Affairs to the French Ambassador in Warsaw, 31 March 1939"
+  date: "1939-03-31"
+  original_language: en
+  identifier: "French Yellow Book, document no. 88"
+  url: "https://avalon.law.yale.edu/wwii/ylbk088.asp"
+  access_date: "2026-07-19"
+  locator: "Complete telegram; records French approval of the proposed British declaration and reproduces its conditional formulation"
+- id: SRC-557
+  author: "United Kingdom and Poland"
+  title: "Agreement of Mutual Assistance between the United Kingdom and Poland"
+  date: "1939-08-25"
+  original_language: en
+  identifier: "UK Treaty Series No. 38 (1939), Cmd. 6101"
+  url: "https://avalon.law.yale.edu/wwii/blbk19.asp"
+  access_date: "2026-07-19"
+  locator: "Articles 1–2: reciprocal assistance against European-power aggression and action directly or indirectly threatening independence; formal agreement replacing the interim March assurance"
+- id: SRC-558
+  author: "Michael Jabara Carley"
+  title: "Fiasco: The Anglo-Franco-Soviet Alliance That Never Was and the Unpublished British White Paper, 1939–1940"
+  date: "2019"
+  original_language: en
+  identifier: "The International History Review 41, no. 4, pp. 701–728; DOI 10.1080/07075332.2018.1458043"
+  url: "https://www.voltairenet.org/IMG/pdf/Fiasco_The_Anglo-Franco-Soviet_Alliance.pdf"
+  access_date: "2026-07-19"
+  locator: "pp. 701–728, especially pp. 703–723 for the diplomatic chronology and pp. 723–724 for conclusions on serious Soviet proposals, British reticence, French receptiveness, reciprocal suspicion, and the under-empowered military mission"
+- id: SRC-559
+  author: "Jonathan Haslam"
+  title: "Infamous Encounter? The Merekalov–Weizsäcker Meeting of 17 April 1939"
+  date: "1992"
+  original_language: en
+  identifier: "The Historical Journal 35, no. 4, pp. 921–926; DOI 10.1017/S0018246X00026224"
+  url: "https://www.cambridge.org/core/journals/historical-journal/article/abs/infamous-encounter-the-merekalovweizsacker-meeting-of-17-april-1939/EFFFE0826FD9EFFC39D6282C9055E669"
+  access_date: "2026-07-19"
+  locator: "pp. 921–926; rejects the interpretation of the 17 April encounter as a Soviet political overture initiating continuous secret negotiations parallel to the triple-alliance talks"
+- id: SRC-561
+  author: "Davide Rodogno"
+  title: "Fascism and War"
+  date: "2010"
+  original_language: en
+  identifier: "The Oxford Handbook of Fascism, chapter 14, pp. 239–258; DOI 10.1093/oxfordhb/9780199594788.013.0014"
+  url: "https://repository.graduateinstitute.ch/record/293313/files/Rodogno.pdf"
+  access_date: "2026-07-19"
+  locator: "pp. 247–248: Pact of Steel contained no 1943 restraint despite vague reassurance; Ethiopian and Spanish wars depleted budget and matériel, while industrial limits, technological conservatism, doctrine, training, and organization also impaired readiness"
+- id: SRC-562
+  author: "Alexander C. Kirk; United States Department of State"
+  title: "The Chargé in Germany to the Secretary of State"
+  date: "1939-09-09"
+  original_language: en
+  identifier: "FRUS 1939, General, Volume I, document 430"
+  url: "https://history.state.gov/historicaldocuments/frus1939v01/d430"
+  access_date: "2026-07-19"
+  locator: "Reports widespread contemporary belief in a three-year German-Italian understanding, while explicitly noting uncertainty over whether any formal secret agreement existed"
+- id: SRC-610
+  author: "International Military Tribunal"
+  title: "Judgment: The Aggression Against Poland"
+  date: "1946-10-01"
+  original_language: en
+  identifier: "Judgment of the International Military Tribunal, section on Poland"
+  url: "https://avalon.law.yale.edu/imt/judpolan.asp"
+  access_date: "2026-07-19"
+  locator: "Paragraphs covering 25–31 August 1939; records the 26 August invasion date, Anglo-Polish pact, postponement while Hitler tried to prevent British intervention, and final 31 August directive"
+- id: SRC-611
+  author: "International Labour Office"
+  title: "Labour Supply and National Defence"
+  date: "1941"
+  original_language: en
+  identifier: "Studies and Reports, Series C, no. 23"
+  url: "https://www.ilo.org/public/libdoc/ilo/ILO-SR/ILO-SR_C23_engl.pdf"
+  access_date: "2026-07-19"
+  locator: "Section on foreign labour in Germany; states that arrangements with Italy dated from 1938, that larger quotas followed in 1939, and that 53,000 workers were recruited for German industry in 1940"
+- id: SRC-612
+  author: "Nazi Forced Labour Documentation Centre"
+  title: "Germany and Italy as Allies, 1936–1943"
+  date: null
+  original_language: en
+  identifier: "Documentation Centre on Nazi Forced Labour historical exhibition"
+  url: "https://www.ns-zwangsarbeit.de/en/italian-military-internees/topics/germany-and-italy-as-allies-1936-1943/"
+  access_date: "2026-07-19"
+  locator: "Sections on civilian and forced workers; traces state-organized recruitment from 1938, roughly 500,000 Italian civilian workers through 1943, deteriorating coercion, and the distinct later exploitation of Italian military internees"
+- id: SRC-613
+  author: "Bibliothèque nationale de France"
+  title: "Paris, les travaux et les jours: Des masques à gaz"
+  date: null
+  original_language: fr
+  identifier: "BnF digital exhibition, image 126"
+  url: "https://expositions.bnf.fr/paris/grand/126.htm"
+  access_date: "2026-07-19"
+  locator: "Image caption; civilian gas masks distributed from 10 March 1939 and signs identifying air-raid shelters installed from 19 March"
+- id: SRC-614
+  author: "The National Archives (United Kingdom)"
+  title: "Home Front 1939–1945, Part One"
+  date: null
+  original_language: en
+  identifier: "National Archives education collection"
+  url: "https://cdn.nationalarchives.gov.uk/documents/education/home-front-1939-1945-part-one.pdf"
+  access_date: "2026-07-19"
+  locator: "Opening section on air-raid precautions; by September 1939 nearly the entire British population had been issued gas masks and was instructed to carry them"
+- id: SRC-615
+  author: "Adolf Hitler; Oberkommando der Wehrmacht"
+  title: "Weisung Nr. 1 für die Kriegführung"
+  date: "1939-08-31"
+  original_language: de
+  identifier: "Bundesarchiv military directive facsimile; Wikimedia Commons file 'An official order of Adolf Hitler for attack on Poland 31.08.1939.jpg'"
+  url: "https://commons.wikimedia.org/wiki/File:An_official_order_of_Adolf_Hitler_for_attack_on_Poland_31.08.1939.jpg"
+  access_date: "2026-07-19"
+  locator: "First-page facsimile; Berlin, 31 August 1939, 12:40 p.m.; orders attack on Poland beginning 1 September at 4:45 a.m."
+- id: SRC-616
+  author: "Neville Chamberlain; UK Parliament"
+  title: "Prime Minister's Announcement"
+  date: "1939-09-03"
+  original_language: en
+  identifier: "HC Deb 3 September 1939, vol. 351, cols. 291–302"
+  url: "https://api.parliament.uk/historic-hansard/commons/1939/sep/03/prime-ministers-announcement"
+  access_date: "2026-07-19"
+  locator: "Cols. 291–293; recounts the invasion, British withdrawal demand, 11 a.m. ultimatum, absence of German assurances, and resulting state of war"
+- id: SRC-617
+  author: "Assemblée nationale"
+  title: "Septembre 1939: La Chambre des députés et l'entrée en guerre"
+  date: null
+  original_language: fr
+  identifier: "French National Assembly historical dossier"
+  url: "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-guerre-mondiale/la-chambre-des-deputes-et-l-entree-en-guerre"
+  access_date: "2026-07-19"
+  locator: "Chronology for 1–3 September 1939; German invasion on 1 September and French declaration of war on 3 September following the ultimatum"
+- id: SRC-618
+  author: "United States Department of State"
+  title: "The Ambassador in Italy to the Secretary of State"
+  date: "1939-09-01"
+  original_language: en
+  identifier: "FRUS 1939, General, vol. I, document 567; telegram 740.00116 European War 1939/5"
+  url: "https://history.state.gov/historicaldocuments/frus1939v01/d567"
+  access_date: "2026-07-19"
+  locator: "Rome telegram, 6 p.m.; transmits the Fascist government's official statement after the Council of Ministers that Italy would take no initiative in military operations"
+- id: SRC-619
+  author: "The Manchester Guardian"
+  title: "Britain at War with Germany"
+  date: "1939-09-04"
+  original_language: en
+  identifier: "Manchester Guardian contemporary report, republished in The Guardian archive"
+  url: "https://www.theguardian.com/theguardian/1939/sep/04/fromthearchive"
+  access_date: "2026-07-19"
+  locator: "Opening report; British ultimatum expired at 11 a.m. on 3 September and France entered the war six hours later at 5 p.m."
