@@ -89,6 +89,9 @@ checks evidence standards, treatments, deferrals, and source consistency across 
 final continuity, conversational-English, pronunciation, and timed-read handoff use
 [`prompts/performance-readiness.md`](prompts/performance-readiness.md).
 
+The reusable microphone, Reaper, editing, processing, delivery, and minimal sound-design workflow
+is in [`docs/recording-and-sound-design.md`](docs/recording-and-sound-design.md).
+
 ## Provider-neutral diarization format
 
 ```json

@@ -19,6 +19,18 @@ outline, research ledgers, annotated English script, and recording script in ful
 - Fix unclear referents, awkward breaths, tongue-twisting clauses, accidental repetition, and
   transitions that sound written rather than spoken.
 - Do not compress for a target word count or rewrite the lecture as a documentary summary.
+- Treat preservation of the source lecture as the primary acceptance criterion. Check every
+  utterance range against the script and reject performance edits that remove examples, asides,
+  audience turns, narrative steps, jokes, delayed reveals, or purposeful repetition merely to make
+  the script tighter.
+- Do not improve flow by inventing material. Every framing sentence, transition, rhetorical
+  question, summary, interpretation, image, aside, and audience address must be traceable to the
+  transcript or an explicit ledger treatment. Remove documentary-style narration and connective
+  commentary that has no source utterance, even when it sounds polished or helpful.
+- Compare source and recording spoken-word counts as a diagnostic. A large reduction is acceptable
+  only when section-by-section coverage proves that the difference comes from idiomatic language,
+  transcription artifacts, or explicitly permitted omissions—not from summarizing away lecture
+  content. Restore substantive omissions before polishing prose.
 - Never alter verified quotation wording for fluency. Preserve qualifications required by the
   ledgers and keep the annotated and recording copies synchronized through `render`.
 
@@ -32,7 +44,7 @@ markers.
 Check every section against its transcript range for omissions, duplicated events, chronology,
 and narrative handoffs. Confirm that every script marker resolves, every ledger treatment is
 honored, anecdotal material is labelled, and the recording copy contains no research markers or
-draft comments.
+draft comments. Report every intentionally omitted utterance range and why its omission is allowed.
 
 ## Timed-read handoff
 
