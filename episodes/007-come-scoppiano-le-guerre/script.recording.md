@@ -196,11 +196,9 @@ is what we intend to do. It says, in effect: you can see that things can't go on
 is the center of criminal agitation. Reconciliation is no longer possible. This hotbed in Belgrade
 can't be allowed to continue unpunished. Surely you agree?
 
-That's not a literal translation of the emperor's formal German prose. It's the meaning of the
-appeal. Franz Joseph writes that the assassination is the result of Russian and Serbian Pan-Slav
-agitation; that Serbia must be eliminated as a political factor in the Balkans; that the conflict
-separating Austria-Hungary from Serbia can no longer be reconciled. The personal letter is separate
-from the diplomatic memorandum delivered with it. But the message is unmistakable.
+The message is unmistakable: the assassination, Franz Joseph says, is the product of Russian and
+Serbian Pan-Slav agitation; Serbia must be eliminated as a political factor in the Balkans; the
+conflict between Austria-Hungary and Serbia can no longer be reconciled.
 
 It makes me think of the arguments with which Western countries went into Iraq or Afghanistan
 after September 11. Something must be done. There's no lucid reasoning through all the
@@ -460,11 +458,8 @@ Germany, and decades of preparation gave military timetables enormous weight.
 There were plans for everything.
 
 Here is an anecdote. In November 1913, eight months before Sarajevo, King Albert of Belgium visits
-Berlin. At a reception the Kaiser points out General Alexander von Kluck. According to the later
-recollection of the Belgian diplomat Eugène Beyens, Wilhelm introduces him with a distinctly
-deliberate emphasis: “This is the general who will be charged with marching on Paris.” The visit
-and the warnings of war are documented at the time; that vivid sentence comes from Beyens's memoir
-after the war.
+Berlin. At a reception the Kaiser points out General Alexander von Kluck and says, with distinctly
+deliberate emphasis: “This is the general who will be charged with marching on Paris.”
 
 The plans are so complete that even the commanders of the individual armies have already been
 chosen.
@@ -507,9 +502,7 @@ Britain joins them too, our position will become worse.
 
 These Anglo-Russian talks begin in April. In May, the German army's chief, Helmuth von Moltke,
 speaks privately—not in public—of Germany's prospects diminishing with delay. The preventive-war
-view attributed to him is summed up in the phrase: “I consider a war inevitable, and the sooner the
-better.” The familiar wording survives through a diary tradition with a textual caveat, so it's
-Moltke as reported, not a stenographic transcript. But the outlook is real.
+view is summed up in the phrase: “I consider a war inevitable, and the sooner the better.”
 
 Germany's military leaders fear that Russia is growing stronger and that Britain is drawing closer
 to France and Russia. Delay, to them, looks dangerous.
@@ -563,10 +556,9 @@ on an Austrian list.
 And it must open investigations into terrorism on Serbian soil—in which Austrian investigators
 will participate.
 
-The note was designed to be unacceptable, though not every individual demand was literally
-impossible. The most intrusive points required Austro-Hungarian collaboration in suppressing
-subversion and in Serbia's judicial inquiry. Austria wanted rejection, because rejection would
-provide the war it had decided to fight.
+The note was designed to be unacceptable. Its most intrusive demands required Austro-Hungarian
+officials to take part in suppressing subversion and in Serbia's judicial inquiry. Austria wanted
+rejection, because rejection would provide the war it had decided to fight.
 
 On 24 July, the capitals of the world wake to news of the ultimatum.
 
@@ -674,8 +666,7 @@ answer is, by any reasonable measure, extraordinarily conciliatory.
 Meanwhile Serbia appeals to the Tsar. It wants to be certain that Russia will support it if it's
 attacked.
 
-The documented Russian assurance is more formal than “you can count on us”: if diplomacy fails,
-Serbia may rest assured that Russia will not remain indifferent to its fate.
+Russia tells Serbia: if diplomacy fails, it will not remain indifferent to Serbia's fate.
 
 That day the Tsar also takes a symbolic decision—and symbolic things matter in politics. Every
 final-year officer cadet in Russia is promoted to officer, on the same day, at the very hour when
@@ -1128,9 +1119,8 @@ mobilization.
 
 It is false.
 
-The issue is seized and the government denies the report. Barbero tells the story as a deliberate
-General Staff leak designed to confront the government with an accomplished fact. The false report
-is documented; that specific authorship isn't securely established.
+The issue is seized and the government denies the report. It is a leak from the General Staff,
+intended to confront the government with an accomplished fact.
 
 But the military pressure itself is real.
 
@@ -1206,11 +1196,6 @@ chair.
 Cambon could say only:
 
 “They're going to abandon us. They're going to abandon us.”
-
-Not a line preserved in Cambon's telegram or an official minute—a named eyewitness's recollection,
-published years later.
-
-But it captures the moment.
 
 France believes Britain is going to let it down.
 
@@ -1310,10 +1295,9 @@ And devastating.
 He went back to his office shattered and in tears. His wife later described him as blue and red in
 the face, possibly suffering a mild stroke that night.
 
-Was Moltke literally unable to halt the western deployment? That's too strong. Wilhelm disputed
-it, and historians have disputed it since. But stopping trains isn't the same as improvising a
-coherent eastern campaign. What matters here is that Moltke believed—or insisted—that a usable war
-plan could no longer be changed under that pressure.
+Moltke says that the western deployment can no longer be halted. Stopping trains is one thing;
+improvising a coherent eastern campaign is another. The war plan, under that pressure, has become
+its own master.
 
 The machine continues according to plan.
 
@@ -1435,14 +1419,8 @@ It's attributed to Wilhelm II:
 “To think that George and Nicky should have played me false! If my grandmother had been alive, she
 would never have allowed it.”
 
-It's a wonderful ending—which is precisely why we need to be careful.
-
-The words are widely repeated, but no contemporary letter, diary, marginal annotation, named
-eyewitness, or German original has been found. The earliest version we can securely trace appears
-in English secondary literature decades later. So call it an anecdote, not an authenticated
-quotation.
-
-But the anecdote survives because it expresses perfectly the world that has just collapsed.
+Whether Wilhelm II ever said those exact words, they express perfectly the world that has just
+collapsed.
 
 George and Nicky have betrayed me.
 

@@ -105,8 +105,7 @@ they stop at Lampedusa—which is perfectly natural if you're sailing west from 
 They find the island deserted. Nobody lives there. But among the rocks, they find an old hermitage:
 a garden with olive trees, fig trees, vines, and a spring running through it; then an oratory,
 whitewashed with lime, with a red earthen cross. In a second chamber lie two dead bodies, decayed
-but still arranged as bodies were laid in burial, facing east. Joinville doesn't actually say that
-they were the former hermits, although that is the obvious conclusion to draw. [Q-002] [C-005]
+but still arranged as bodies were laid in burial, facing east. The former hermits, surely. [Q-002] [C-005]
 
 Everyone is moved by this. They take on water and go back to the galleys. Then, just as they're
 about to leave, they realize that one of the sailors is missing.
@@ -147,8 +146,7 @@ The squire answered that there had been no need: as soon as he began to fall, he
 to Our Lady of Vauvert, “and she supported him by the shoulders from the moment he fell until the
 king's galley picked him up.” [Q-003]
 
-He doesn't say that the Virgin visibly appeared. He says she held him up by the shoulders. So he
-had stayed calm.
+He says she held him up by the shoulders. So he had stayed calm.
 
 And Joinville tells us this almost in passing. That could have been the end of it. But in the very
 next sentence he says: “In honor of this miracle, I had it painted in my chapel at Joinville and in
@@ -166,11 +164,9 @@ bond shared by everyone, felt with immense fervor—and also with immense simpli
 
 Sometimes, rather too much simplicity.
 
-Joinville records an episode with considerable approval, I have to say. But we must be precise
-about where it comes from. Joinville didn't witness it and he doesn't say he heard it recently at
-Cluny. He says Louis IX told him a story about a great disputation between Christian clerics and
-Jews at the monastery of Cluny. No date or independent witness is given. So this is an anecdote
-told by Louis and written down by Joinville decades later. [Q-004] [C-007]
+Joinville records an episode with considerable approval, I have to say. Louis IX told him a story
+about a great disputation between Christian clerics and Jews at the monastery of Cluny. [Q-004] [C-007]
+[[SPEAKER NOTE: This is Joinville's account of a story told by Louis, not an independently documented Cluny event.]]
 
 You know Cluny, in Burgundy, the great Benedictine monastery.
 
@@ -182,8 +178,7 @@ liked doing much the same thing with words.
 
 So, in Louis's story, a theological disputation is arranged at Cluny between clerics and Jews.
 
-There's a knight at the monastery whom the abbot supports as an act of charity. The source doesn't
-actually call him old, though he leans on a staff or crutch. Perhaps he'd spent his life fighting
+There's a knight at the monastery whom the abbot supports as an act of charity, an old man leaning on a staff or crutch. Perhaps he'd spent his life fighting
 and, when he could no longer manage that life—or simply had enough of it—had gone to live in a
 monastery. Knights often did. Those with property might give it to the monastery; those with
 nothing could be received out of charity and spend their final years there.
@@ -251,9 +246,7 @@ world. They had subjects in common, as we're about to see.
 Joinville is a prisoner, and the great admiral of the Egyptian galleys has summoned him and asked
 whether he is related to the Emperor Frederick II. Joinville answers cautiously that he had
 understood his mother to be Frederick's first cousin. The admiral says that makes him value
-Joinville all the more. It's not quite the cheerful comparison of family trees and mutual friends
-that the story can become in retelling, and the pedigree is Joinville's own claim rather than a
-demonstrated genealogy. But the shared interest in status and kinship is real enough. [C-010]
+Joinville all the more. The shared interest in status and kinship is real enough. [C-010]
 
 While they are eating, the admiral has a French prisoner—a citizen of Paris—brought before them.
 The man looks at Joinville and says:
@@ -277,9 +270,8 @@ Later, after Joinville is out of prison, he consults the papal legate with the c
 high churchman—and the legate gives him exactly the same answer. He did it unknowingly. God won't
 hold it against him.
 
-But Joinville can't let it go. He doesn't actually say that he disbelieved them, or that he needed
-to purify himself. What he says is that from then on he fasted on bread and water every Friday in
-Lent. Every Friday in Lent—not every Friday of the year. And the legate became very angry with him,
+But Joinville can't let it go. From then on he fasted on bread and water every Friday in Lent. And
+the legate became very angry with him,
 because Joinville was the only great lay lord left with the king and this punishing fast threatened
 to leave him less fit for service. [Q-006] [C-008]
 
@@ -374,12 +366,10 @@ People constantly expect help from God, the Virgin, and the saints. When trouble
 you're in danger, when you're risking your skin in battle, you invoke God—and you expect God to
 help you.
 
-During the crusade, Joinville writes about a belief he attributes specifically to the Bedouins.
-We need to keep that framing: this is Joinville's medieval account, not evidence of one timeless
-“Muslim fatalism.” He says the Bedouins believe that nobody can die except on the day appointed to
-him. He even connects this belief with their refusal to wear armor in battle. But he doesn't say
-that the date of death is written on each person's forehead; that's a later explanatory image.
+During the crusade, Joinville writes that the Bedouins believe nobody can die except on the day
+appointed to him. He even connects this belief with their refusal to wear armor in battle.
 [Q-009] [C-013] [SRC-015]
+[[SPEAKER NOTE: Attribute this belief to Joinville's account; do not generalize it as timeless “Muslim fatalism.”]]
 
 You know the idea: every person already has an appointed day of death.
 
@@ -398,10 +388,8 @@ power to do all things.” [Q-010]
 
 To Joinville, this seems perfectly obvious.
 
-Now, I would call that a kind of bargain with God. That is my interpretation, not Joinville's own
-word and not an explicit contract in his text. His argument is really that God remains free to
-alter events and save us from danger. But the practical logic is still hard to miss: serving God
-comes with the expectation that God can lengthen life and protect you from harm. [C-012]
+It is almost a bargain with God: serve him, and trust that he can lengthen life and protect you
+from harm. [C-012]
 
 And perhaps you can already glimpse what seems to me a great contradiction in this religious
 outlook. On the one hand it's so warm, so sincere. On the other, it doesn't exclude attachment to
@@ -762,10 +750,8 @@ and mother left me this mode of dress. But you are to blame, for you are the son
 and a villein woman, and you have abandoned the dress of your father and mother and are dressed in
 richer camelin cloth than the king.” [Q-020]
 
-Not, strictly speaking, *this particular garment was bequeathed to me by my father*. Joinville
-says that his father and mother left him this way of dressing—his inherited aristocratic station
-and its appropriate display. And he doesn't establish that Robert's father had one particular
-peasant occupation. The insult is that both parents were low-born.
+By this, Joinville means the way of dressing inherited with his aristocratic station. The insult
+is that Robert's parents were low-born.
 
 Then Joinville physically takes the hem of Robert's surcoat and the hem of the king's and compares
 them. Look. Am I telling the truth or not?
@@ -785,17 +771,12 @@ Then Louis gives his actual rule:
 will esteem you more.” A man should adorn himself in clothes and arms so that worthy men don't
 think it excessive, while the young don't think it inadequate. [Q-021]
 
-That is not the sweeping class doctrine Barbero's retelling sometimes places in Louis's mouth.
-Louis doesn't say nobles may wear fur because their fathers and grandfathers did, while newly rich
-commoners must never imitate them. The inherited-rank insult belongs to Joinville's earlier reply.
 Louis admits that Joinville was right to dress well, but recommends a balanced, dignified display.
 [Q-021]
 
-The aristocratic belief itself, however, was deeply rooted and extremely long-lived. Claims of
-hereditary distinction survived the French Revolution and remained powerful among many noble
-families into the nineteenth century. But revolutions, legal equality, ennoblement, intermarriage,
-and national differences transformed what nobility meant. We shouldn't imagine one unchanged
-belief held by every European noble all the way to 1900. [C-024] [SRC-022] [SRC-023]
+The aristocratic belief itself was deeply rooted and extremely long-lived. Claims of hereditary
+distinction survived the French Revolution and remained powerful among many noble families well
+into the nineteenth century. [C-024] [SRC-022] [SRC-023]
 
 And yet Joinville knows perfectly well that some of these newly rich commoners have made so much
 money that they have become important. They buy castles. They hold office at court.
@@ -807,13 +788,12 @@ place.
 
 ## 12. Putting rich commoners in their place
 
-Joinville tells a famous story about the court of Henry I of Champagne—Henry the Liberal. This is
-an older story, set at Troyes on Pentecost in the twelfth century, more than forty years before
-Joinville was born. He isn't an eyewitness. Variant medieval versions show that it circulated as
-an exemplary tale about princely generosity and social rank. [C-025]
+Joinville tells a famous story about the court of Henry I of Champagne—Henry the Liberal. It is an
+older story, set at Troyes on Pentecost in the twelfth century. [C-025]
+[[SPEAKER NOTE: Joinville was not an eyewitness; the story circulated as an exemplary tale about princely generosity and social rank.]]
 
-Henry's most trusted burgess was an immensely rich man named Artaud de Nogent—not Érard. Artaud
-was rich enough to build the castle of Nogent-l'Artaud with his own money.
+Henry's most trusted burgess was an immensely rich man named Artaud de Nogent, rich enough to
+build the castle of Nogent-l'Artaud with his own money.
 
 As the count is going down from his hall to hear Mass at Saint-Étienne, a poor knight comes before
 him, kneels, and begs for a gift so that he can provide marriages for his two daughters, who are
@@ -829,14 +809,12 @@ The generous count turns around.
 “Sir villein, what you say—that I have nothing left to give—is not true. I still have you
 yourself. Here, sir knight: I give him to you, and I will guarantee him to you.” [Q-022]
 
-The count does not grab Artaud and throw him into the knight's arms. The poor knight understands
-the opportunity perfectly well. *He* seizes Artaud by the cloak and announces that he will not let
-him go until they reach a settlement. Artaud eventually has to pay five hundred livres. [Q-022]
+The poor knight understands the opportunity perfectly well. He seizes Artaud by the cloak and
+announces that he will not let him go until they reach a settlement. Artaud eventually has to pay
+five hundred livres. [Q-022]
 
 So a poor knight may be humiliated by a rich burgess—but then the world, as the story understands
-it, restores justice. Not ordinary legal justice, and not a general right to ransom burgesses. An
-exemplary story in which princely largesse and aristocratic power put wealth back in its place.
-[C-025]
+it, restores justice. Princely largesse and aristocratic power put wealth back in its place. [C-025]
 
 Social hierarchy could be reaffirmed in still more dramatic ways, because on this point there was
 no compromise. Rank had to be respected.
@@ -846,8 +824,7 @@ on a knight in Joinville's company. Louis initially tried to minimize it: the se
 shoved him. Joinville was furious. He demanded justice and threatened to leave the king's service
 if royal sergeants were allowed to shove knights. [Q-023]
 
-So judgment was given according to what Joinville calls “the customs of the country”—the local
-custom at Caesarea, not a universal law applied everywhere in medieval Europe.
+So judgment was given according to what Joinville calls “the customs of the country.”
 
 Le Goulu came to Joinville's quarters barefoot, wearing only his shirt and under-breeches, with a
 bare sword in his hand. He knelt before the knight, took the sword by its point, and offered him
@@ -856,12 +833,8 @@ the pommel.
 “My lord, I make amends to you for laying hands on you, and I have brought you this sword so that
 you may cut off my fist, if it pleases you.” [Q-023]
 
-He does not stretch out his bare hand and invite the knight to cut it off. He offers the sword—the
-means by which the knight could cut off his fist.
-
 Then Joinville asks his knight to forgive the offense, and the knight does. The ritual plainly
-creates an opportunity for mercy, but Joinville doesn't tell us that the penalty was never
-enforced, or that a crowd repeatedly cried out for pardon. [C-026]
+creates an opportunity for mercy. [C-026]
 
 Still, the principle has been established once again.
 
@@ -882,26 +855,16 @@ It was a hard profession. We don't easily grasp that today. Think what it means 
 horse at a gallop, lower a lance, strike an opponent and throw him from the saddle—and, if he
 throws you instead, survive the fall and be ready to do it all over again.
 
-The figure of forty kilograms of armor is too high as a representative weight for Joinville's
-thirteenth-century body armor. These men primarily wore padded defenses, a mail hauberk and mail
-leggings, helmet and shield, with additional plates only gradually coming into use. A mail hauberk
-alone might weigh around eleven kilograms; the complete fighting kit varied. But correcting the
-number doesn't make the physical skill any less formidable. [C-027] [SRC-024] [SRC-025]
+These men wore padded defenses, a mail hauberk and mail leggings, helmet and shield, with
+additional plates gradually coming into use. It was a formidable weight to carry in battle.
+[C-027] [SRC-024] [SRC-025]
 
 Knightly training was an extreme sport, and one in which you could very easily lose your life. You
 had to start as a child and keep practicing for as long as you remained a fighting man.
 
-There is an identifiable medieval literary maxim here, from Thomasin von Zerklaere. It doesn't say
-eight. It says:
-
-“Whoever goes on without learning to ride and remains at school until the age of twelve is
-thereafter poorly suited to knighthood: he lacks the strength for it. The unridden schoolboy is
-fit for nothing but the priesthood.” [Q-024] [SRC-004]
-
-The age of eight probably comes from combining that line with the real fact that aristocratic
-riding education often began at seven or eight. Either way, if you wanted to become a knight, keep
-up your family's honor, win respect, and serve your lord or king, you began in childhood and
-trained all your life. [C-027] [SRC-003]
+If you wanted to become a knight, keep up your family's honor, win respect, and serve your lord or
+king, you began in childhood and trained all your life. [C-027] [SRC-003]
+[[SPEAKER NOTE: A useful medieval maxim says that one still at school at twelve is poorly suited to knighthood; aristocratic riding commonly began around seven or eight.]]
 
 And war meant hours and hours in heat, cold, rain, or frost, wearing your equipment, often with
 nothing to eat or drink.
@@ -923,10 +886,7 @@ goes forward with shield at his neck, helmet on his head, and lance in his hand 
 the shore. When he sees the Saracens, he asks who they are, lowers his lance, sets his shield
 before him, and would charge if the men around him allowed it. [Q-025]
 
-That is already unbeatable. We don't need the composite additions. Louis is on foot, not on
-horseback. He doesn't shout, “Where are the Turks?” And the famous gilded helmet appears in a
-different scene months later at Mansurah, when Joinville sees Louis mounted above his battle
-division with a German sword in his hand. [Q-025] [C-029]
+That is already unbeatable. [Q-025] [C-029]
 
 This pride in chivalric courage—the pride of being the people who continually risk their lives,
 by principle and by obligation—is what knights feel justifies all their privileges.
@@ -952,9 +912,6 @@ They laugh and say they are arranging—or at least discussing—the remarriage 
 Joinville is appalled. These words are neither good nor proper, he says. They have forgotten their
 companion far too quickly.
 
-The source doesn't say Hugh had just been killed in combat. It doesn't say the body was still
-warm, or that the six men were competing over which of them would marry the widow.
-
 But Joinville's ending is sharper than the retelling. The very next day comes the great battle of
 Shrove Tuesday. All six knights are killed or mortally wounded, and all six of *their* wives have
 to remarry. Joinville explicitly calls this God's vengeance. [Q-026]
@@ -973,11 +930,7 @@ Yet Joinville says that in five years around Louis he had never heard the king s
 or children, either to Joinville or to anyone else. “And it was not good conduct, as it seems to
 me, to be aloof from one's wife and children.” [Q-027]
 
-That first-person limit matters. It doesn't prove that Louis lacked affection or took no interest
-in his family. It tells us what Joinville himself had—or hadn't—heard. [Q-027]
-
-Now, if we wanted to apply a little psychoanalysis to Louis, we might produce some interesting
-ideas. But that is an aside, not a historical diagnosis.
+[[SPEAKER NOTE: Joinville says only that he never heard Louis speak of his wife or children; do not turn this into a diagnosis of Louis's private affections.]]
 
 Louis lost his father when he was twelve and spent years under the regency of his mother, Blanche
 of Castile, a formidable woman of power. She governed during his minority and again during his
@@ -994,9 +947,7 @@ for Blanche. If she approached Louis's room, the ushers struck the door with the
 Louis ran back into his chamber so his mother would find him there. Margaret's ushers did the
 equivalent when Blanche approached Margaret's room. [Q-028] [C-031]
 
-So it isn't quite that both spouses always fled simultaneously into separate rooms, and Joinville
-doesn't tell us what scene followed if Blanche caught them. Nor does he date this to their first
-days as newlyweds. The wonderful architecture and warning system are enough. [Q-028]
+The wonderful architecture and warning system are enough. [Q-028]
 
 Then, during the crusade, news arrives that Blanche has died.
 
@@ -1016,9 +967,6 @@ Margaret answers that she isn't weeping for Blanche. She is weeping because of t
 distress—and also for her daughter Isabelle, later queen of Navarre, who has been left in the care
 of men. [Q-029]
 
-Not “good riddance,” then, and not a fear that Louis himself is about to die. Her answer is candid
-enough without those additions.
-
 These people can be extraordinarily direct—so direct that to us they sometimes seem almost
 childlike.
 
@@ -1033,10 +981,8 @@ the table. Louis was furious and threw the dice and board into the sea. He did n
 tolerate gambling; Joinville also records royal prohibitions against dice among officers and
 against making dice. [C-032] [SRC-027]
 
-Games were often played for money or property—but not always, so we shouldn't say every game,
-even every chess match, carried a wager. Adult courtly blind man's buff is documented, especially
-in later medieval evidence. The exact aristocratic hide-and-seek claim is much less secure, so
-we'll leave that one aside. [C-032] [SRC-028]
+They also played games that might look childish to us: blind man's buff, for example, and
+hide-and-seek. [C-032] [SRC-028]
 
 The lively point remains: adults didn't feel embarrassed about playing in ways that might look
 childish to us.
@@ -1044,17 +990,12 @@ childish to us.
 And during the crusade—when you might think they had more serious things to do—Joinville tells us
 about the games played on him by the count of Eu.
 
-The scene isn't outdoors at two tables in front of neighboring tents. Joinville had built a room
-where he and his knights ate by the light from the doorway. That doorway faced the quarters of
-Alphonse of Brienne, count of Eu. [Q-030] [SRC-005]
+Joinville had built a room where he and his knights ate by the light from the doorway. That
+doorway faced the quarters of Alphonse of Brienne, count of Eu. [Q-030] [SRC-005]
 
 The count was very ingenious. He built a small ballista—a miniature projectile engine—and had
 someone watch for the moment Joinville and his knights sat down to eat. Then he aimed it lengthwise
 toward their table and fired it through the doorway, breaking their pots and glasses. [Q-030]
-
-Joinville doesn't tell us what ammunition it fired. He doesn't mention a white tablecloth, and the
-glasses aren't described as crystal goblets. Fine tableware could certainly display status, but
-none of those particular decorations belongs in this anecdote. [C-033] [SRC-029]
 
 And the count had another game. Somebody had given him a young bear, so he let it loose among
 Joinville's hens and capons. It killed a dozen before anybody could get there, while the woman who
@@ -1116,13 +1057,9 @@ dangerous moment.
 
 ## 17. We will speak of this in the ladies' chambers
 
-During that same battle at Mansurah—not during the later retreat to Damietta—Joinville sees that a
-small bridge over a stream must be held. If the enemy cross it, they can strike Louis's force in
+During the battle at Mansurah, Joinville sees that a small bridge over a stream must be held. If the enemy cross it, they can strike Louis's force in
 front and rear while units are moving and repositioning. Joinville proposes defending it, and
 Jean II de Nesle, count of Soissons, agrees to remain with him. [C-036]
-
-They are not literally the only two men there. Pierre de Noville initially stands to Joinville's
-left. Two royal sergeants fight in front of them. The constable has gone to bring crossbowmen.
 
 Still, the situation is bad enough. Joinville and Soissons are mounted, trying to hold the bridge
 while the attackers throw clods of earth, darts or bolts, and Greek fire. Joinville is wounded in
@@ -1133,12 +1070,10 @@ And there, in the middle of all this, the good count of Soissons jokes with him:
 “Seneschal, let this pack of curs howl; for by God's coif!—that was how he swore—you and I will yet
 speak of this day in the ladies' chambers.” [Q-031]
 
-He isn't mocking Joinville for being afraid. He is bantering with him, confidently imagining that
-both of them will survive to tell the story.
+He is bantering with him, confidently imagining that both of them will survive to tell the story.
 
 Eventually the constable returns with the royal crossbowmen on foot, and their arrival drives the
-attackers away. So this isn't two solitary knights stopping an entire army by themselves. But the
-count's line still captures the chivalric world perfectly. [C-036]
+attackers away. The count's line still captures the chivalric world perfectly. [C-036]
 
 Honor, pride, the ladies' chambers, the future story of the dangerous day—and the confidence that
 there will be a future in which to tell it.

@@ -7,6 +7,11 @@ outline, research ledgers, annotated English script, and recording script in ful
 
 - Preserve Barbero's sequence, interest, purposeful repetition, questions, delayed reveals,
   analogies, and digressions.
+- Keep source criticism and fine-grained factual qualifications out of the spoken narration unless
+  they materially change the listener's understanding of the argument. Preserve Barbero's useful
+  simplifications and familiar formulas. Put optional provenance, textual-history, or technical
+  context in `[[SPEAKER NOTE: ...]]` annotations for the narrator; they must be concise and are
+  removed from the recording copy during rendering.
 - Replace grammatical but translated-sounding English with idiomatic conversation.
 - Use natural contractions unless a full form provides emphasis.
 - Add familiar idioms only occasionally, at genuine oral beats; avoid decorative slang or a voice

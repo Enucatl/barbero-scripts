@@ -10,8 +10,8 @@
   translation_notes: "Direct translation of Lémontey's French. Barbero gives only the embedded maxim in natural Italian and uses it as shorthand for royal absolutism. No contemporary record was located for Louis XIV's supposed words. The later tradition places them at the Parlement of Paris on 13 April 1655, but the Parlement register says the king withdrew immediately after his address, and a contemporary bourgeois journal says he withdrew promptly without anyone speaking; both records are cited with archival locators by Vonglis."
   confidence: high
   status: resolved
-  script_treatment: qualify
-  research_note: "Verdict: misattributed. Evidence tier 1 for the accessible 1818 printed attestation in Lémontey; evidence tier 2 for the archival and contemporary-record comparison documented by Vonglis. The maxim is not a recoverable quotation from Louis XIV and should be labeled apocryphal, though it may be retained as a familiar shorthand for the personal character of his monarchy. Lémontey supplies no date or setting; the specific 13 April 1655 Parlement scene belongs to later anecdotal transmission."
+  script_treatment: preserve
+  research_note: "Verdict: misattributed. Evidence tier 1 for the accessible 1818 printed attestation in Lémontey; evidence tier 2 for the archival and contemporary-record comparison documented by Vonglis. Editorial decision: retain the maxim as familiar shorthand for the personal character of absolute monarchy, without attributing it as a documented utterance by Louis XIV. Lémontey supplies no date or setting; the specific 13 April 1655 Parlement scene belongs to later anecdotal transmission."
 - id: Q-002
   barbero_utterances: [U-00103–U-00122]
   barbero_timestamp: "10:08"

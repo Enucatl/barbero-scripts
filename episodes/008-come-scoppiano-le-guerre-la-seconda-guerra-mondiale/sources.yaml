@@ -124,3 +124,246 @@
   url: "https://imsdb.com/scripts/Manhattan-Murder-Mystery.html"
   access_date: "2026-07-19"
   locator: "Opening sequence, Larry's dialogue immediately after the stage direction 'They exit the opera house'; wording matches the released-film line"
+- id: SRC-080
+  author: "The Times"
+  title: "Editorial commentary on Austria and the Anschluss"
+  date: "1938-03-14"
+  original_language: en
+  identifier: "The Times (London), issue of 14 March 1938"
+  url: "https://www.digitisednewspapers.net/histories/tda/"
+  access_date: "2026-07-19"
+  locator: "p. 15; Times Digital Archive issue facsimile and OCR require licensed access; exact sentence and locator reproduced by Huttner (SRC-081)"
+- id: SRC-081
+  author: "Michael Meznar"
+  title: "The British Government, the Newspapers and the German Problem 1937–1939"
+  date: "2005"
+  original_language: en
+  identifier: "Durham University doctoral thesis, eprint 1783"
+  url: "https://etheses.durham.ac.uk/1783/"
+  access_date: "2026-07-19"
+  locator: "Durham University doctoral thesis, p. 75 and nn. 94–98; quotes and analyzes The Times, 14 March 1938, p. 15, including its claim that Austria was destined for close association with Germany"
+- id: SRC-082
+  author: "Leo Baeck Institute"
+  title: "International reaction to the annexation of Austria"
+  date: "2018"
+  original_language: en
+  identifier: "1938Projekt, March 19"
+  url: "https://www.lbi.org/1938projekt/on-this-day/"
+  access_date: "2026-07-19"
+  locator: "March 19 entry; states that The Times of London drew an analogy to Scotland joining England roughly two centuries earlier"
+- id: SRC-110
+  author: "UK Parliament; Viscount Cranborne"
+  title: "European Situation"
+  date: "1938-10-04"
+  original_language: en
+  identifier: "HC Deb 4 October 1938, vol. 339, cols. 235–236"
+  url: "https://api.parliament.uk/historic-hansard/commons/1938/oct/04/european-situation"
+  access_date: "2026-07-19"
+  locator: "Viscount Cranborne's speech at 6:42 p.m., especially cols. 235–236: 'our policy was the policy of peace at any price'"
+- id: SRC-111
+  author: "Käthe Kollwitz"
+  title: "Nie wieder Krieg!"
+  date: "1924"
+  original_language: de
+  identifier: "Käthe Kollwitz Museum Cologne, Kn 205 III b"
+  url: "https://www.kollwitz.de/collection/posters"
+  access_date: "2026-07-19"
+  locator: "Poster 'Never Again War,' created for the Central German Youth Day in Leipzig, 2–4 August 1924; museum collection entry and image"
+- id: SRC-112
+  author: "Jawaharlal Nehru"
+  title: "It Is Not Peace"
+  date: "1938-09-30"
+  original_language: en
+  identifier: "Nehru Archive document xexl7g; interview printed in the Daily Worker, 1 October 1938"
+  url: "https://nehruarchive.in/documents/it-is-not-peace-30-september-1938-xexl7g"
+  access_date: "2026-07-19"
+  locator: "Final paragraph: 'Peace at any price—at the price of the blood and suffering of others, the humiliation of democracy, and the dismemberment of friendly nations'"
+- id: SRC-070
+  author: "Theodor Cardinal Innitzer, Sigismund Waitz, Johannes Maria Gföllner, Ferdinand Stanislaus Pawlikowski, Michael Memelauer, and Adam Hefter"
+  title: "Feierliche Erklärung der österreichischen Bischöfe; propaganda poster expressing Austrian bishops' support for the Anschluss"
+  date: "1938-03-18"
+  original_language: de
+  identifier: "United States Holocaust Memorial Museum, Experiencing History, item 'Propaganda Poster Expressing Austrian Bishops’ Support for the Anschluss'"
+  url: "https://perspectives.ushmm.org/item/propaganda-poster-expressing-austrian-bishops-support-for-the-anschluss"
+  access_date: "2026-07-19"
+  locator: "Surviving large-format propaganda poster; center: Solemn Declaration dated 18 March 1938 with six episcopal signatures; upper left: Innitzer's covering letter and handwritten ‘und Heil Hitler!’; lower left: preface dated 21 March; page supplies facsimile and complete English transcription"
+- id: SRC-071
+  author: "Maximilian Liebmann"
+  title: "Vom März zum Oktober 1938: Die katholischen Diözesanbischöfe und der Nationalsozialismus in Österreich"
+  date: "2008"
+  original_language: de
+  identifier: "In Denk an die Tage der Vergangenheit, lerne aus den Jahren der Geschichte! 70 Jahre nach 1938, Austrian Bishops' Conference"
+  url: "https://www.katholisch.at/dl/qLnpJKJKKoolOJqx4KJK/Heft9_Denk_an_die_Tage_der_Vergangenheit_Gedenken_Maerz_1938_pdf"
+  access_date: "2026-07-19"
+  locator: "PDF pp. 15–20: drafting history; exact declaration at pp. 17–18; Innitzer covering letter at p. 20; explains the rejected episcopal draft, Bürckel's imposed wording, later handwritten Hitler salute, and propaganda distribution"
+- id: SRC-060
+  author: "A. J. P. Taylor"
+  title: "The Origins of the Second World War"
+  date: "1961; ‘Second Thoughts’ 1963"
+  original_language: en
+  identifier: "Accessible full-text witness of the later edition containing ‘Second Thoughts’; original edition Hamish Hamilton, 1961"
+  url: "https://www.liberopensare.com/wp-content/uploads/2023/06/A.J.P.-Taylor-The-Origins-of-the-Second-World-War-1.pdf"
+  access_date: "2026-07-19"
+  locator: "Main text pp. 91–92; ‘Second Thoughts’ pp. 189–200, especially pp. 199–200; witness PDF pages 90–91 and 188–199"
+- id: SRC-061
+  author: "Simon & Schuster"
+  title: "Origins of the Second World War by A. J. P. Taylor"
+  date: "1996"
+  original_language: en
+  identifier: "Publisher page; ISBN 9780684829470"
+  url: "https://www.simonandschuster.com/books/Origins-Of-The-Second-World-War/A-J-P-Taylor/9780684829470"
+  access_date: "2026-07-19"
+  locator: "Publisher description identifies the 1961 original, Taylor’s opportunism/no-thorough-plan thesis, and the current Simon & Schuster reprint"
+- id: SRC-062
+  author: "A. J. P. Taylor"
+  title: "The Origins of the Second World War"
+  date: "1964"
+  original_language: en
+  identifier: "Penguin Books reprint; ISBN 0140021280; Google Books STMi97SR2O0C; Open Library OL22815435M"
+  url: "https://books.google.com/books?id=STMi97SR2O0C"
+  access_date: "2026-07-19"
+  locator: "Penguin edition, 357 pp.; contents place ‘Second Thoughts’ at p. 7 and main text at p. 29; Open Library edition note identifies the foreword as ‘Second Thoughts’ (1963) and the original publication as Hamish Hamilton, 1961"
+- id: SRC-100
+  author: "Aretas Akers-Douglas, 2nd Viscount Chilston; E. L. Woodward and Rohan Butler, eds."
+  title: "Documents on British Foreign Policy, 1919–1939, Third Series, Volume I: 1938"
+  date: "1949"
+  original_language: en
+  identifier: "Great Britain Foreign Office official documentary edition; DBFP Third Series, vol. I"
+  url: "https://catalogue.nli.ie/Record/vtls000113386/TOC"
+  access_date: "2026-07-19"
+  locator: "Chilston to Halifax, Moscow, 19 April 1938; official publication of Foreign Office records concerning the Anschluss and Czechoslovak crisis; report later reprinted as BDFA part II, series A, vol. 2, document 262"
+- id: SRC-101
+  author: "Louise Grace Shaw"
+  title: "Attitudes of the British Political Elite towards the Soviet Union, May 1937–August 1939"
+  date: "2001"
+  original_language: en
+  identifier: "King's College London doctoral thesis; repository file 248037.pdf"
+  url: "https://kclpure.kcl.ac.uk/portal/en/studentTheses/attitudes-of-the-british-political-elite-towards-the-soviet-union"
+  access_date: "2026-07-19"
+  locator: "Thesis pp. 88–89 and nn. 360–363; reproduces the full qualified conclusion and preceding assessment, citing Chilston to Halifax, 19 April 1938, document 262"
+- id: SRC-102
+  author: "A. J. P. Taylor"
+  title: "The Origins of the Second World War"
+  date: "1961"
+  original_language: en
+  identifier: "First edition, London: Hamish Hamilton; accessible digitized text indexed by CiteSeerX"
+  url: "https://citeseerx.ist.psu.edu/document?doi=b4048d901649a7e855f4a1ba8fbf4474b565ee15&repid=rep1&type=pdf"
+  access_date: "2026-07-19"
+  locator: "Chapter on appeasement, discussion of British diplomatic assessments before the Czechoslovak crisis; quotes Chilston's 19 April dispatch in shortened form and notes Foreign Office acceptance"
+- id: SRC-090
+  author: "H. V. Kaltenborn"
+  title: "I Broadcast the Crisis"
+  date: "1938"
+  original_language: en
+  identifier: "New York: Random House; contemporary transcripts of CBS broadcasts during the September 1938 crisis"
+  url: "https://www.worldradiohistory.com/BOOKSHELF-ARH/History/I-Broadcast-the-Crisis-H-V-Kaltenborn-1938.pdf"
+  access_date: "2026-07-19"
+  locator: "Broadcast of 19 September 1938, book pp. 82–86 (PDF pp. 85–89): William L. Shirer reports representative Berlin and Hamburg headlines; Kaltenborn contrasts them with correspondents' reports and calls them propaganda"
+- id: SRC-091
+  author: "Eibenstocker Tageblatt; Deutsches Nachrichtenbüro (DNB); Völkischer Beobachter"
+  title: "Eibenstocker Tageblatt, 23 September 1938"
+  date: "1938-09-23"
+  original_language: de
+  identifier: "SLUB Dresden digitized issue; URN urn:nbn:de:bsz:14-db-id426616677-193809235"
+  url: "http://digital.slub-dresden.de/id426616677-19380923"
+  access_date: "2026-07-19"
+  locator: "Page 1: 'Rückkehr der tschechischen Soldateska nach Graslitz. Der Terror begleitet sie'; DNB dispatch, Klingenthal, 22 September; adjacent report explicitly credited to the Völkischer Beobachter"
+- id: SRC-092
+  author: "Gabriel Louis-Jaray"
+  title: "Comment fut conduite la campagne de propagande allemande pour l'annexion des Sudètes"
+  date: "1938"
+  original_language: fr
+  identifier: "Politique étrangère, vol. 3, no. 6, pp. 565–580; DOI 10.3406/polit.1938.5691"
+  url: "https://www.persee.fr/doc/polit_0032-342x_1938_num_3_6_5691"
+  access_date: "2026-07-19"
+  locator: "Especially pp. 565–580, contemporary analysis of the German propaganda campaign for annexation of the Sudeten territories"
+- id: SRC-093
+  author: "Hugh R. Wilson and Wilbur J. Carr; United States Department of State"
+  title: "Foreign Relations of the United States, Diplomatic Papers, 1938, General, Volume I, documents 497 and 668"
+  date: "1938-04-28; 1938-09-28"
+  original_language: en
+  identifier: "FRUS 1938, General, vol. I, documents 497 and 668"
+  url: "https://history.state.gov/historicaldocuments/frus1938v01/d668"
+  access_date: "2026-07-19"
+  locator: "Document 497, Berlin telegram of 28 April, pp. 490–492 (campaign building 'day by day'); document 668, Prague telegram of 28 September, pp. 690–691 (counter-evidence on alleged 'bloody terror'); document 497: https://history.state.gov/historicaldocuments/frus1938v01/d497"
+- id: SRC-120
+  author: "Richard Dimbleby and Neville Chamberlain; British Broadcasting Corporation"
+  title: "Chamberlain returns from Munich with Anglo-German Agreement"
+  date: "1938-09-30"
+  original_language: en
+  identifier: "BBC live broadcast from Heston Aerodrome; preserved audio, 9 min 23 sec"
+  url: "https://commons.wikimedia.org/wiki/File:Chamberlain_returns_from_Munich_with_Anglo-German_Agreement.ogg"
+  access_date: "2026-07-19"
+  locator: "Audio and timed transcript, especially 6:51–8:28: Chamberlain's 'larger settlement' remarks and reading of the Anglo-German declaration"
+- id: SRC-121
+  author: "Prime Minister's Office, United Kingdom Government"
+  title: "History of Neville Chamberlain"
+  date: null
+  original_language: en
+  identifier: "GOV.UK Past Prime Ministers biography"
+  url: "https://www.gov.uk/government/history/past-prime-ministers/neville-chamberlain"
+  access_date: "2026-07-19"
+  locator: "Header quotation: 'there has come back from Germany to Downing Street peace with honour. I believe it is peace for our time'"
+- id: SRC-122
+  author: "German Historical Institute Washington"
+  title: "Joint Declaration by Neville Chamberlain and Adolf Hitler after the Munich Agreement"
+  date: "1938-09-30"
+  original_language: en
+  identifier: "German History in Documents and Images, source 28/97; image 1995"
+  url: "https://germanhistorydocs.org/en/nazi-germany-1933-1945/joint-declaration-by-neville-chamberlain-and-adolf-hitler-after-the-munich-agreement-september-30-1938"
+  access_date: "2026-07-19"
+  locator: "Complete bilateral declaration signed by Hitler and Chamberlain on 30 September 1938; companion image and source description distinguish it from the Munich Agreement"
+- id: SRC-123
+  author: "United States Holocaust Memorial Museum"
+  title: "Chamberlain's ‘Peace for Our Time’ Speech"
+  date: "1938-09-30"
+  original_language: en
+  identifier: "Holocaust Encyclopedia timeline event, 1933–1938"
+  url: "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1933-1938/chamberlains-peace-for-our-time-speech"
+  access_date: "2026-07-19"
+  locator: "Timeline text and IWM HU 4255 caption: identifies Heston arrival and explicitly states that the 'peace for our time' speech followed later at 10 Downing Street"
+- id: SRC-140
+  author: "Adolf Hitler; German History in Documents and Images (German Historical Institute, Washington DC)"
+  title: "Auszüge aus Hitlers Ansprache vor dem 'Ersten Großdeutschen Reichstag' (30. Januar 1939)"
+  date: "1939-01-30"
+  original_language: de
+  identifier: "GHDI document 2289; source edition: Rede des Führers und Reichskanzlers Adolf Hitler vor dem Reichstag am 30. Januar 1939"
+  url: "https://germanhistorydocs.org/de/deutschland-nationalsozialismus-1933-1945/auszuege-aus-hitlers-ansprache-vor-dem-ersten-grossdeutschen-reichstag-30-januar-1939"
+  access_date: "2026-07-19"
+  locator: "Paragraph beginning 'In diesen Tagen jährt sich zum fünftenmal'; source note cites the contemporaneous Berlin edition, M. Müller & Sohn, 1939, pp. 5–63"
+- id: SRC-141
+  author: "Adolf Hitler; International Military Tribunal; Harvard Law School Library Nuremberg Trials Project"
+  title: "Extract from Chancellor Hitler's Reichstag Speech"
+  date: "1939-01-30"
+  original_language: en
+  identifier: "TC-73 no. 57; Prosecution Exhibit 37; Prosecution document book 2; HLSL item 450769"
+  url: "https://nuremberg.law.harvard.edu/documents/450769-extract-from-a-speech?mode=image"
+  access_date: "2026-07-19"
+  locator: "One-page scanned evidentiary extract; IMT p. 991; metadata identifies Hitler, 30 January 1939, and the Reichstag speech"
+- id: SRC-130
+  author: "Neville Chamberlain; UK Parliament"
+  title: "Prime Minister's Statement"
+  date: "1938-09-28"
+  original_language: en
+  identifier: "HC Deb 28 September 1938, volume 339, columns 5–28"
+  url: "https://api.parliament.uk/historic-hansard/commons/1938/sep/28/prime-ministers-statement"
+  access_date: "2026-07-19"
+  locator: "Cols. 21–22; Chamberlain's report of his private farewell exchange with Hitler at Godesberg, including the ‘last of his territorial ambitions’ assurance"
+- id: SRC-131
+  author: "Adolf Hitler"
+  title: "Rede im Berliner Sportpalast"
+  date: "1938-09-26"
+  original_language: de
+  identifier: "German speech transcription reproduced by Clio-Texte from NS-Archiv"
+  url: "https://clio-texte.clionautes.org/discours-adolf-hitler-palais-des-sports-de-berlin-le-26-sept-1938.html"
+  access_date: "2026-07-19"
+  locator: "Passage beginning ‘Es ist die letzte territoriale Forderung, die ich in Europa zu stellen habe’; public Sportpalast speech three days before Munich"
+- id: SRC-132
+  author: "Neville Chamberlain; British Government"
+  title: "Statement on the European Situation"
+  date: "1939-04-03"
+  original_language: en
+  identifier: "HC Deb 3 April 1939, volume 345; official Hansard record"
+  url: "https://api.parliament.uk/historic-hansard/commons/1939/apr/03/european-situation-1"
+  access_date: "2026-07-19"
+  locator: "Chamberlain's retrospective chronology after the occupation of Prague: identifies Berchtesgaden as the setting and quotes Hitler's 26 September Sportpalast confirmation"

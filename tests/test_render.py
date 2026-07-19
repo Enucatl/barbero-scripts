@@ -5,7 +5,10 @@ from barbero_scripts.render import render_recording, validate_episode
 
 def test_recording_render_removes_research_markers_but_keeps_pronunciation(tmp_path: Path) -> None:
     source = tmp_path / "script.md"
-    source.write_text("# Title\n\nHello [SRC-001] Sarajevo (sah-rah-YEH-voh). [C-001]\n")
+    source.write_text(
+        "# Title\n\nHello [SRC-001] Sarajevo (sah-rah-YEH-voh). [C-001] "
+        "[[SPEAKER NOTE: Optional historical context.]]\n"
+    )
     destination = tmp_path / "recording.md"
     render_recording(source, destination)
     assert destination.read_text() == "# Title\n\nHello Sarajevo (sah-rah-YEH-voh).\n"

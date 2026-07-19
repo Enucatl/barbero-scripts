@@ -287,11 +287,25 @@ part of the historical causal chain.
   stato; lettre de cachet; billets de monnaie / biglietti della zecca; pagherò; carta moneta;
   Ferme générale; fermiers généraux; gabelle; patrimoniale; bancarotta; debito pubblico; rendita
   vitalizia; fisiocrazia (implicit in Turgot's land theory); bolla del Mississippi.
-- **Pronunciation targets:** Saint-Simon; Desmarets; Le Tellier; Ferme générale; John Law; Orléans;
-  rue Quincampoix; Turgot; Clugny de Nuits; Jacques Necker; Calonne; Saint-Cloud.
+- **Pronunciation targets:** *lettre de cachet* (lettruh duh ka-SHAY); Saint-Simon (san-see-MON);
+  Desmarets (day-ma-RAY); *dixième* (dee-ZYEM); Ferme générale (FAIRM zhay-nay-RAHL);
+  Philippe d'Orléans (fee-LEEP dor-lay-AHN); Banque générale (bahnk zhay-nay-RAHL);
+  Banque royale (bahnk rwah-YAHL); Compagnie des Indes (kom-pah-NYEE day ZAND); rue
+  Quincampoix (roo kank-pwan); Clugny de Nuits (kloo-NYEE duh NWEE); Jacques Necker (zhahk
+  NEK-air); *Compte rendu au roi* (kont ruhn-DYOO oh RWAH); Calonne (kah-LON); Saint-Cloud
+  (san-KLOO); Varennes (vah-REN); *fermiers généraux* (fairm-YAY zhay-nay-ROH).
 - **Research resolutions carried into adaptation:** treat “L'État, c'est moi” as apocryphal;
   identify Saint-Simon's passages as retrospective memoir evidence and distinguish quotation from
   paraphrase; name Julie de Lespinasse and preserve the joint reference to Turgot and Malesherbes;
   label the Clugny material as contemporary satirical reporting; separate Law's banknotes, bank
   equity, company shares, and state debt; and correct the compressed American-war and 1788–89
   Estates-General chronology.
+
+## Performance-readiness handoff
+
+- **Recording-word count:** 5,308 words (rendered recording script, including title).
+- **Estimated duration:** 35:23 at 150 wpm; 33:11 at 160 wpm; 31:13 at 170 wpm.
+- **Status:** ready for a complete human timed read-through; no actual duration has yet been
+  recorded.
+- **Read-through log:** for every issue, record the section, exact phrase, issue type
+  (stumble, breath, pronunciation, pacing, or written-sounding phrasing), and proposed fix.

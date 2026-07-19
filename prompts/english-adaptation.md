@@ -14,7 +14,10 @@ about it,” “you see,” and “we have to remember,” varying them only eno
 
 Remove only event housekeeping, transcription artifacts, abandoned false starts, and repetition
 that becomes accidental or confusing in English. Do not remove material merely because it is
-incidental, colorful, or rhetorically repetitive.
+incidental, colorful, or rhetorically repetitive. In particular, preserve character sketches,
+anecdotes, comic reversals, personal detours, and audience-facing stories: they are part of
+Barbero's argument and spoken rhythm, not expendable decoration. Do not turn a vivid episode into
+a descriptive summary simply because its historical mechanism has been researched.
 
 - Correct factual details where the ledgers establish a correction.
 - Translate verified quotations directly from recorded source text, never Barbero's Italian.

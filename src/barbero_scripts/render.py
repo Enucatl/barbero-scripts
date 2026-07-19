@@ -13,6 +13,7 @@ from .util import read_json, write_json
 
 MARKER = re.compile(r"\[(SRC|Q|C)-(\d{3})\]")
 ANNOTATION = re.compile(r"\s*\[(?:SRC|Q|C)-\d{3}\]")
+SPEAKER_NOTE = re.compile(r"\s*\[\[SPEAKER NOTE:.*?\]\]", re.DOTALL)
 DEFERRED_TREATMENTS = {
     "paraphrase",
     "omit",
@@ -60,6 +61,7 @@ def render_transcript(episode: Episode, destination: Path) -> None:
 def render_recording(script: Path, destination: Path) -> None:
     text = script.read_text(encoding="utf-8")
     text = ANNOTATION.sub("", text)
+    text = SPEAKER_NOTE.sub("", text)
     text = re.sub(r"^<!--.*?-->\s*", "", text, flags=re.MULTILINE)
     destination.write_text(text, encoding="utf-8")
 
