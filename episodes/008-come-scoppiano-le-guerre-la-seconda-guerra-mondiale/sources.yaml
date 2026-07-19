@@ -1,1 +1,126 @@
-[]
+- id: SRC-001
+  author: "Gabriele D’Annunzio"
+  title: "La preghiera di Sernaglia"
+  date: "1918-10"
+  original_language: it
+  identifier: "Canti della guerra latina, book 5, text 13; IntraText ITA3506"
+  url: "https://www.intratext.com/IXT/ITA3506/_PPO.HTM"
+  access_date: "2026-07-19"
+  locator: "Versets 63–64; dated October 1918; first published as Vittoria nostra, non sarai mutilata in Corriere della Sera, 24 October 1918"
+- id: SRC-002
+  author: "Enciclopedia Dannunziana, Fondazione Il Vittoriale degli Italiani"
+  title: "Il libro ascetico della giovane Italia"
+  date: null
+  original_language: it
+  identifier: "Enciclopedia Dannunziana scholarly entry"
+  url: "https://enciclopediadannunziana.vittoriale.it/enciclopedia/il-libro-ascetico-della-giovane-italia/"
+  access_date: "2026-07-19"
+  locator: "Discussion of La preghiera di Sernaglia and bibliography; traces the Corriere della Sera publication of 24 October 1918, retitling in Il libro ascetico, inclusion in Canti della guerra latina, and modern critical edition in Versi d’amore e di gloria, vol. 2, pp. 847–853"
+- id: SRC-003
+  author: "Marco Cuzzi"
+  title: "Italia 1918: una vittoria mutilata?"
+  date: "2015"
+  original_language: it
+  identifier: "University of Milan AIR repository record 2434/321570"
+  url: "https://air.unimi.it/handle/2434/321570"
+  access_date: "2026-07-19"
+  locator: "Opening section and abstract; identifies the 24 October 1918 Corriere title, its rapid entry into postwar political vocabulary, its adoption by Mussolini and nationalist/interventionist currents, and its function as a political myth"
+- id: SRC-010
+  author: "Pfälzer Bote für Stadt und Land"
+  title: "Danzig bleibt deutsch: Herzlicher Empfang der Danzigflieger"
+  date: "1933-02-06"
+  original_language: de
+  identifier: "Heidelberg University Library digitization 68777; image 330; page DOI 10.11588/diglit.68777#0330"
+  url: "https://digi.ub.uni-heidelberg.de/diglit/pfaelzer_bote1933/0330"
+  access_date: "2026-07-19"
+  locator: "No. 30, p. 4 (digital image 330); report of the Mannheim and Heidelberg Danzig rallies, including the slogan 'Danzig bleibt deutsch' and 'Heimkehr zum Reich sei die Losung'"
+- id: SRC-011
+  author: "Nationalsozialistische Deutsche Arbeiterpartei"
+  title: "Programm der Nationalsozialistischen Deutschen Arbeiterpartei"
+  date: "1920-02-24"
+  original_language: de
+  identifier: "German History in Documents and Images, document 4625; source edition Wolfgang Treue, ed., Deutsche Parteiprogramme 1861–1954 (1961), pp. 154–158"
+  url: "https://germanhistorydocs.org/de/die-weimarer-republik-1918-1933/programm-der-nationalsozialistischen-deutschen-arbeiterpartei-1920"
+  access_date: "2026-07-19"
+  locator: "Point 2; proclaimed in Munich on 24 February 1920; demand for equality and annulment of the Versailles and Saint-Germain treaties"
+- id: SRC-012
+  author: "Allied and Associated Powers and Germany"
+  title: "Treaty of Peace with Germany (Treaty of Versailles)"
+  date: "1919-06-28"
+  original_language: en
+  identifier: "Yale Law School Avalon Project transcription; Part III, Section XI"
+  url: "https://avalon.law.yale.edu/imt/partiii.asp"
+  access_date: "2026-07-19"
+  locator: "Articles 100, 102, and 105: German renunciation, creation of the Free City of Danzig, and change of nationality for resident German nationals"
+- id: SRC-020
+  author: "Edward Wood, Viscount Halifax; E. L. Woodward and Rohan Butler, eds."
+  title: "Documents on British Foreign Policy, 1919–1939, Second Series, Volume XIX"
+  date: "1937-11-19"
+  original_language: en
+  identifier: "DBFP Second Series, vol. XIX, document 336"
+  url: "https://ci.nii.ac.jp/ncid/BA00298948"
+  access_date: "2026-07-19"
+  locator: "Document 336, p. 540, Halifax's first-person record of the 19 November 1937 conversation with Hitler; published London: HMSO, 1954"
+- id: SRC-021
+  author: "United States Department of State"
+  title: "Foreign Relations of the United States, Diplomatic Papers, 1937, General, Volume I"
+  date: "1937-11-29"
+  original_language: en
+  identifier: "FRUS 1937, General, vol. I, document 110; file 740.00/241½"
+  url: "https://history.state.gov/historicaldocuments/frus1937v01/d110"
+  access_date: "2026-07-19"
+  locator: "pp. 196–202, especially pp. 196–197; Halifax's statement to the French ministers on 29 November 1937, handed by the British Embassy to the U.S. Department of State on 15 December"
+- id: SRC-022
+  author: "German Foreign Ministry; United States Department of State, ed."
+  title: "Documents on German Foreign Policy, 1918–1945, Series D, Volume I: From Neurath to Ribbentrop, September 1937–September 1938"
+  date: "1937-11-19"
+  original_language: de
+  identifier: "DGFP Series D, vol. I, document 31"
+  url: "https://dspace.gipe.ac.in/xmlui/handle/10973/34544"
+  access_date: "2026-07-19"
+  locator: "Document 31, pp. 55–67, especially p. 67; Paul Schmidt's interpreter record of the Halifax–Hitler conversation, enclosed with Neurath's letter to Henderson of 20 November 1937"
+- id: SRC-040
+  author: "Emmanuel Mounier"
+  title: "Lendemains d'une trahison"
+  date: "1938-10-01"
+  original_language: fr
+  identifier: "Esprit, no. 73 (October 1938), ISSN 0184-7791; JSTOR journal archive Esprit (1932–1939)"
+  url: "https://www.jstor.org/journal/esprit1932"
+  access_date: "2026-07-19"
+  locator: "pp. 1–15, especially p. 14; contemporary editorial response to the Munich agreement"
+- id: SRC-041
+  author: "Johann Chapoutot"
+  title: "Les premiers témoins, ou l'identification du nazisme"
+  date: "2024"
+  original_language: fr
+  identifier: "Communio 2024/1, nos. 291–292, pp. 163–171"
+  url: "https://interventions-democratiques.fr/articles/les-premiers-temoins-ou-lidentification-du-nazisme-1-johann-chapoutot"
+  access_date: "2026-07-19"
+  locator: "paras. 1–2 and 11–12; contextualizes ‘Plutôt Hitler que Blum’ among economic, financial, intellectual, diplomatic, and military elites and explicitly attributes the murmured formula to Mounier or Marc Bloch"
+- id: SRC-042
+  author: "France-Amérique"
+  title: "Un seul combat, pour une seule patrie!"
+  date: "1943-05-23"
+  original_language: fr
+  identifier: "France-Amérique, 23 May 1943, digitized issue PDF"
+  url: "https://france-amerique.com/wp-content/uploads/2023/05/france-amerique-may-23-1943.pdf"
+  access_date: "2026-07-19"
+  locator: "p. 5, column 4; retrospective statement ‘Plutôt Hitler que Staline ! criaient nos Gribouilles défaitistes en 1939’"
+- id: SRC-050
+  author: "Woody Allen and Marshall Brickman"
+  title: "Manhattan Murder Mystery"
+  date: "1993-08-18"
+  original_language: en
+  identifier: "AFI Catalog film 67410; U.S. copyright registration PA677927"
+  url: "https://catalog.afi.com/Film/67410-MANHATTAN-MURDER-MYSTERY"
+  access_date: "2026-07-19"
+  locator: "Released film, approximately 00:10:51; Larry Lipton (Woody Allen) to Carol Lipton (Diane Keaton), after the opera; AFI credits Allen and Brickman as writers and TriStar Pictures as production company"
+- id: SRC-051
+  author: "Woody Allen and Marshall Brickman"
+  title: "Manhattan Murder Mystery: Undated Draft Screenplay"
+  date: null
+  original_language: en
+  identifier: "Internet Movie Script Database undated draft"
+  url: "https://imsdb.com/scripts/Manhattan-Murder-Mystery.html"
+  access_date: "2026-07-19"
+  locator: "Opening sequence, Larry's dialogue immediately after the stage direction 'They exit the opera house'; wording matches the released-film line"
