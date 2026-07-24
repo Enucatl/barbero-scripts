@@ -37,9 +37,22 @@ def scaffold_episode(
         "# Structural outline\n\n<!-- Generate with prompts/episode-outline.md. -->\n",
         encoding="utf-8",
     )
-    for name in ("sources.yaml", "quotes.yaml", "claims.yaml"):
+    for name in ("sources.yaml", "quotes.yaml", "claims.yaml", "accuracy-notes.yaml"):
         (destination / name).write_text("[]\n", encoding="utf-8")
+    (destination / "script.translation.en.md").write_text(
+        f"# {title}\n\n<!-- Faithful translation pending. -->\n", encoding="utf-8"
+    )
+    (destination / "translation.utterances.en.yaml").write_text("[]\n", encoding="utf-8")
+    (destination / "script.translation.assembled.en.md").write_text(
+        f"# {title}\n\n<!-- Translation assembly pending. -->\n", encoding="utf-8"
+    )
+    (destination / "script.corrected.en.md").write_text(
+        f"# {title}\n\n<!-- Accuracy decisions pending. -->\n", encoding="utf-8"
+    )
+    (destination / "script.spoken.en.md").write_text(
+        f"# {title}\n\n<!-- Spoken-English rewrite pending. -->\n", encoding="utf-8"
+    )
     (destination / "script.en.md").write_text(
-        f"# {title}\n\n<!-- Adaptation pending. -->\n", encoding="utf-8"
+        f"# {title}\n\n<!-- Idiomatic polishing pending. -->\n", encoding="utf-8"
     )
     return destination

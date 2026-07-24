@@ -1,6 +1,6 @@
 # Barbero Scripts
 
-Private editorial tooling for producing researched, recording-ready English adaptations of
+Private editorial tooling for producing researched, recording-ready English translations of
 Alessandro Barbero lectures. Source audio is immutable; media and provider output live outside
 Git, while reviewed text and research ledgers are committed here.
 
@@ -43,8 +43,8 @@ is removed after successful export.
 override. `transcribe` submits the complete cleaned FLAC to Deepgram Nova-3 using
 `DEEPGRAM_API_KEY`; `--response-json` imports an existing response without network access.
 
-`render` converts the provider response to stable utterances and renders corrected Italian and
-recording copies. Corrections are supplied in the working directory as `corrections.yaml`, keyed
+`render` converts the provider response to stable utterances and renders corrected Italian.
+Corrections are supplied in the working directory as `corrections.yaml`, keyed
 by utterance ID. To approve unchanged text, omit `text`:
 
 ```yaml
@@ -55,8 +55,8 @@ U-00117:
   reviewed: true
 ```
 
-`validate` fails on unresolved transcript review flags, broken script markers, or incomplete
-quotation and claim records.
+`validate` resolves transcript, ledger, and marker references; checks quotation replacement rules;
+and enforces the human accuracy-decision gate and marker preservation between script stages.
 
 The reusable two-pass, text-only correction and contextual-verification instructions are in
 [`prompts/transcript-correction.md`](prompts/transcript-correction.md). Substitute the transcript
@@ -77,17 +77,38 @@ search, follow citations into digitized books and OCR, distinguish contemporary 
 recollections, and accept practical evidence tiers rather than requiring an inaccessible critical
 edition. Quotations are never assigned to broad research batches.
 
-The researched lecture is adapted with [`prompts/english-adaptation.md`](prompts/english-adaptation.md).
-It follows Barbero closely and has no fixed word-count or duration target; source fidelity and
-natural spoken English take precedence over compression.
+The researched lecture moves through a three-pass faithful-translation workflow followed by three
+editorial passes. The translation controller first creates `translation.utterances.en.yaml`, then
+losslessly assembles `script.translation.assembled.en.md`, and finally formats and normalizes
+`script.translation.en.md`. See
+([`faithful-translation.md`](prompts/faithful-translation.md)), accuracy review
+([`accuracy-review.md`](prompts/accuracy-review.md)), human-approved corrections
+([`approved-corrections.md`](prompts/approved-corrections.md)), and idiomatic polishing
+([`idiomatic-polishing.md`](prompts/idiomatic-polishing.md)). The versioned artifacts are
+`script.translation.en.md`, `accuracy-notes.yaml`, `script.corrected.en.md`,
+`script.spoken.en.md`, and the annotated, directly recordable `script.en.md`. The spoken draft is a
+strong conversational rewrite; a separate fidelity/read-aloud audit compares it with the corrected
+script before producing the final. Research never authorizes a correction: every accuracy note
+defaults to `retain-original`, and corrections require a human to opt in with `apply`. Any
+`pending` decision still blocks downstream scripts. The faithful translation must exist and pass
+coverage checks before accuracy notes are generated or presented for human review.
+Pass one uses Google Translate only to create the raw utterance-by-utterance YAML. Sequential agents
+inheriting the model configured in the current Codex session then correct and assemble it and run
+the final formatting/consistency pass. External translation services are forbidden after pass one;
+separate Codex processes and model selection are forbidden throughout. Quotations
+marked `source_replacement: eligible` must use the ledger's recovered English wording verbatim.
+Every quotation ledger `translation` is English. Records marked `not-applicable` or `unavailable`
+never supply script wording; those passages use a faithful contextual translation of Barbero.
+Composite records may be `eligible` when every component has recoverable English wording and clear
+document boundaries; the exact assembled ledger wording is then used.
 
 The complete supervised sequence is defined in
 [`prompts/episode-workflow.md`](prompts/episode-workflow.md). It assigns non-overlapping agent work,
 sets human approval gates, gives the validation commands, and keeps external artifacts out of Git.
 After individual research tasks finish, [`prompts/research-audit.md`](prompts/research-audit.md)
-checks evidence standards, treatments, deferrals, and source consistency across the episode. The
-final continuity, conversational-English, pronunciation, and timed-read handoff use
-[`prompts/performance-readiness.md`](prompts/performance-readiness.md).
+checks evidence standards, discrepancies, deferrals, and source consistency across the episode.
+No pronunciation data or separate recording copy is generated; record directly from `script.en.md`
+and manually skip its annotations.
 
 The reusable microphone, Reaper, editing, processing, delivery, and minimal sound-design workflow
 is in [`docs/recording-and-sound-design.md`](docs/recording-and-sound-design.md).

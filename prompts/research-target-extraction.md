@@ -14,6 +14,7 @@ or wording whose historical provenance matters:
   barbero_utterances: [U-00001]
   barbero_timestamp: "00:00"
   attribution: "Person, institution, document, or unknown"
+  quotation_kind: direct
   source_id: null
   original_language: null
   original_text: null
@@ -22,8 +23,13 @@ or wording whose historical provenance matters:
   translation_notes: null
   confidence: null
   status: pending
+  verdict: unresolved
+  source_replacement: unavailable
   research_note: "What must be identified or verified"
 ```
+
+`translation` always means an English translation of `original_text`, never an Italian rendering
+for Barbero or an intermediate working language. Leave it null while unresolved.
 
 ## Claims ledger
 
@@ -38,7 +44,6 @@ assertions, and a representative sample of incidental facts:
   supporting_sources: []
   conflicting_sources: []
   status: pending
-  script_treatment: pending
   research_note: "Evidence needed and likely point of dispute"
 ```
 
@@ -52,8 +57,7 @@ utterance ranges as strings such as `U-00001–U-00005` when a claim spans conse
 - Do not invent bibliographic data, source text, translations, locators, or confidence ratings.
 - Keep every unresolved research field explicitly null, empty, or `pending`.
 - Separate Barbero's historical assertion from his modern analogy.
-- Do not treat rhetorical framing as an independently researchable claim unless accuracy affects
-  the adaptation.
+- Do not turn research findings into editorial instructions; accuracy review handles corrections.
 
 ## Verification
 
@@ -67,4 +71,3 @@ Before finishing:
 6. Report quotation and claim counts plus any outline inconsistencies.
 
 Edit only `{quotes_path}` and `{claims_path}` and do not create a Git commit.
-

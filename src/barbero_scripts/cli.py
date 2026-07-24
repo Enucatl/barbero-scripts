@@ -8,7 +8,7 @@ import yaml
 
 from .audio import prepare, speaker_totals
 from .models import Episode
-from .render import render_recording, render_transcript, validate_episode
+from .render import render_transcript, validate_episode
 from .scaffold import scaffold_episode
 from .transcript import transcribe
 from .util import read_json
@@ -99,8 +99,7 @@ def main() -> None:
     elif args.command == "render":
         directory = args.config.parent
         render_transcript(episode, directory / "transcript.it.md")
-        render_recording(directory / "script.en.md", directory / "script.recording.md")
-        print("Rendered transcript.it.md and script.recording.md")
+        print("Rendered transcript.it.md")
 
 
 if __name__ == "__main__":

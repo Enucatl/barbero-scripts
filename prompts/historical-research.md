@@ -11,20 +11,18 @@ Research historical claims in bounded thematic batches. Research quotations indi
 - Record exact page, chapter, document, line, folio, or archival locators and stable identifiers.
 - For quotations, locate the original-language wording and translate it directly into English.
 - Never back-translate Barbero's Italian or silently turn his paraphrase into a quotation.
-- Record supporting and conflicting evidence for claims, including evidence that changes the
-  planned English treatment.
+- Record supporting and conflicting evidence for claims.
 - Use `resolved` when the wording or historical substance is adequately established for responsible
-  adaptation. Sufficient evidence may be an accessible primary document, a reputable documentary
+  accuracy review. Sufficient evidence may be an accessible primary document, a reputable documentary
   transcription, consistent contemporary attestations, or strong attribution in reliable
   scholarship. Do not defer an otherwise established item solely because a facsimile, archival
   original, or complete critical edition is inaccessible.
 - Record the evidence tier and disclose material limitations in `research_note`, `translation_notes`,
   or the supporting evidence rather than converting every limitation into a deferral.
-- Use `deferred` with a `deferred_reason` and a `script_treatment` chosen from `paraphrase`, `omit`,
-  `label-anecdotal`, `qualify`, or `research-before-use` when responsible resolution is
-  unavailable; never invent a locator or silently omit uncertainty.
+- Use `deferred` with a precise `deferred_reason` when responsible resolution is unavailable;
+  never invent a locator or silently omit uncertainty.
 - Deduplicate sources and preserve stable `Q`, `C`, and existing `SRC` identifiers.
 - Do not alter entries outside the assigned ranges.
 
 Before finishing, parse all YAML, verify every transcript and source reference, verify unique IDs,
-and report resolved/deferred totals, substantive departures from Barbero, and remaining risks.
+and report resolved/deferred totals, discrepancies, and remaining risks.

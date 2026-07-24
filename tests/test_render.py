@@ -1,57 +1,127 @@
 from pathlib import Path
 
-from barbero_scripts.render import render_recording, validate_episode
+from barbero_scripts.render import validate_episode
 
 
-def test_recording_render_removes_research_markers_but_keeps_pronunciation(tmp_path: Path) -> None:
-    source = tmp_path / "script.md"
-    source.write_text(
-        "# Title\n\nHello [SRC-001] Sarajevo (sah-rah-YEH-voh). [C-001] "
-        "[[SPEAKER NOTE: Optional historical context.]]\n"
-    )
-    destination = tmp_path / "recording.md"
-    render_recording(source, destination)
-    assert destination.read_text() == "# Title\n\nHello Sarajevo (sah-rah-YEH-voh).\n"
-
-
-def test_validation_resolves_markers_and_complete_quote(tmp_path: Path) -> None:
-    (tmp_path / "transcript.it.md").write_text("reviewed")
-    (tmp_path / "script.en.md").write_text("Text [SRC-001] [Q-001] [C-001]")
+def write_episode(tmp_path: Path, decision: str = "retain-original") -> None:
+    (tmp_path / "transcript.it.md").write_text("## U-00001 · original 00:01\n\nTesto")
     (tmp_path / "sources.yaml").write_text("- id: SRC-001\n")
-    (tmp_path / "quotes.yaml").write_text("""- id: Q-001
-  source_id: SRC-001
-  original_text: text
-  translation: text
-  locator: p. 1
-  status: resolved
-""")
     (tmp_path / "claims.yaml").write_text(
-        "- id: C-001\n"
-        "  status: deferred\n"
-        "  deferred_reason: Evidence unavailable.\n"
-        "  script_treatment: omit\n"
+        "- id: C-001\n  transcript: [U-00001]\n  supporting_sources: [SRC-001]\n"
     )
-    assert validate_episode(tmp_path) == []
-
-
-def test_validation_allows_explicitly_deferred_quote(tmp_path: Path) -> None:
-    (tmp_path / "transcript.it.md").write_text("reviewed")
-    (tmp_path / "script.en.md").write_text("Text [Q-001]")
-    (tmp_path / "sources.yaml").write_text("[]\n")
     (tmp_path / "quotes.yaml").write_text(
         "- id: Q-001\n"
-        "  status: deferred\n"
-        "  deferred_reason: Original text unavailable.\n"
-        "  script_treatment: paraphrase\n"
+        "  barbero_utterances: [U-00001]\n"
+        "  source_id: SRC-001\n"
+        "  quotation_kind: direct\n"
+        "  verdict: confirmed\n"
+        "  source_replacement: eligible\n"
+        "  translation: Verified words.\n"
     )
-    (tmp_path / "claims.yaml").write_text("[]\n")
+    (tmp_path / "accuracy-notes.yaml").write_text(
+        "- id: N-001\n"
+        "  transcript: [U-00001]\n"
+        "  claim_ids: [C-001]\n"
+        "  quotation_ids: [Q-001]\n"
+        "  source_ids: [SRC-001]\n"
+        "  category: factual-error\n"
+        "  original_assertion: Original.\n"
+        "  proposed_correction: Corrected.\n"
+        f"  decision: {decision}\n"
+    )
+    (tmp_path / "script.translation.en.md").write_text(
+        "<!-- transcript: U-00001–U-00001; omissions: none -->\nVerified words. [Q-001]"
+    )
+    (tmp_path / "translation.utterances.en.yaml").write_text("- id: U-00001\n  text: Original.\n")
+    (tmp_path / "script.translation.assembled.en.md").write_text(
+        "<!-- transcript: U-00001–U-00001; omissions: none -->\nVerified words. [Q-001]"
+    )
+
+
+def test_validation_accepts_applied_correction(tmp_path: Path) -> None:
+    write_episode(tmp_path, "apply")
+    (tmp_path / "script.corrected.en.md").write_text("Corrected. [Q-001] [N-001]")
+    (tmp_path / "script.spoken.en.md").write_text("Corrected. [Q-001] [N-001]")
+    (tmp_path / "script.en.md").write_text("Corrected. [Q-001] [N-001]")
     assert validate_episode(tmp_path) == []
 
 
-def test_validation_rejects_deferred_entry_without_treatment(tmp_path: Path) -> None:
-    (tmp_path / "transcript.it.md").write_text("reviewed")
-    (tmp_path / "script.en.md").write_text("Text")
-    (tmp_path / "sources.yaml").write_text("[]\n")
-    (tmp_path / "quotes.yaml").write_text("- id: Q-001\n  status: deferred\n")
-    (tmp_path / "claims.yaml").write_text("[]\n")
-    assert validate_episode(tmp_path) == ["quotation Q-001 has no valid deferred treatment"]
+def test_validation_blocks_downstream_scripts_while_pending(tmp_path: Path) -> None:
+    write_episode(tmp_path, "pending")
+    (tmp_path / "script.corrected.en.md").write_text("Draft. [Q-001]")
+    assert (
+        "corrected and final scripts are blocked by pending accuracy decisions"
+        in validate_episode(tmp_path)
+    )
+
+
+def test_validation_requires_translation_before_accuracy_review(tmp_path: Path) -> None:
+    write_episode(tmp_path)
+    (tmp_path / "script.translation.en.md").unlink()
+    assert "accuracy review requires script.translation.en.md" in validate_episode(tmp_path)
+
+
+def test_validation_requires_every_utterance_translation(tmp_path: Path) -> None:
+    write_episode(tmp_path)
+    (tmp_path / "translation.utterances.en.yaml").write_text("[]\n")
+    assert "utterance translations do not exactly match transcript ID order" in validate_episode(
+        tmp_path
+    )
+
+
+def test_validation_rejects_removed_assessment_field(tmp_path: Path) -> None:
+    write_episode(tmp_path)
+    path = tmp_path / "accuracy-notes.yaml"
+    path.write_text(path.read_text() + "  assessment: Extra authority.\n")
+    assert "accuracy note N-001 uses removed field assessment" in validate_episode(tmp_path)
+
+
+def test_validation_rejects_marker_for_retained_note(tmp_path: Path) -> None:
+    write_episode(tmp_path, "retain-original")
+    (tmp_path / "script.corrected.en.md").write_text("Original. [Q-001] [N-001]")
+    (tmp_path / "script.spoken.en.md").write_text("Original. [Q-001] [N-001]")
+    (tmp_path / "script.en.md").write_text("Original. [Q-001] [N-001]")
+    assert "corrected script applies retained-original note N-001" in validate_episode(tmp_path)
+
+
+def test_validation_rejects_invalid_replacement_combination(tmp_path: Path) -> None:
+    write_episode(tmp_path)
+    path = tmp_path / "quotes.yaml"
+    path.write_text(
+        path.read_text().replace("quotation_kind: direct", "quotation_kind: paraphrase")
+    )
+    assert "quotation Q-001 cannot replace paraphrase wording" in validate_episode(tmp_path)
+
+
+def test_validation_allows_recoverable_composite_replacement(tmp_path: Path) -> None:
+    write_episode(tmp_path)
+    path = tmp_path / "quotes.yaml"
+    path.write_text(path.read_text().replace("quotation_kind: direct", "quotation_kind: composite"))
+    assert validate_episode(tmp_path) == []
+
+
+def test_validation_requires_eligible_quote_wording(tmp_path: Path) -> None:
+    write_episode(tmp_path)
+    path = tmp_path / "script.translation.en.md"
+    path.write_text(path.read_text().replace("Verified words.", "A loose rendering."))
+    assert "translation does not use eligible wording for Q-001" in validate_episode(tmp_path)
+
+
+def test_validation_rejects_italian_quotation_translation(tmp_path: Path) -> None:
+    write_episode(tmp_path)
+    path = tmp_path / "quotes.yaml"
+    path.write_text(
+        path.read_text().replace(
+            "translation: Verified words.",
+            "translation: Con i cechi ritorna anche il terrore nella città.",
+        )
+    )
+    assert "quotation Q-001 translation is not English" in validate_episode(tmp_path)
+
+
+def test_validation_preserves_markers_during_polishing(tmp_path: Path) -> None:
+    write_episode(tmp_path, "apply")
+    (tmp_path / "script.corrected.en.md").write_text("Corrected. [Q-001] [N-001]")
+    (tmp_path / "script.spoken.en.md").write_text("Corrected. [Q-001] [N-001]")
+    (tmp_path / "script.en.md").write_text("Corrected. [N-001]")
+    assert "final script does not preserve spoken quotation markers" in validate_episode(tmp_path)

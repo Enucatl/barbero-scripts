@@ -52,11 +52,19 @@ Return:
 - A comparison showing how Barbero quotes, compresses, modernizes, dramatizes, misdates, or
   combines the evidence.
 - Material limitations and the appropriate evidence tier.
-- A recommended ledger treatment: `preserve`, `qualify`, or `paraphrase`; use
-  `research-before-use` only if genuinely unresolved.
+- `quotation_kind`, `verdict`, and `source_replacement`. Replacement is `eligible` for a recovered
+  direct original with reliable English wording. A composite may also be `eligible` when every
+  component has recoverable English wording, clear source boundaries, and a ledger translation
+  that joins only those documented components. Use `not-applicable` for paraphrases and composites
+  with no cleanly recoverable component wording, and `unavailable` when reliable wording was not
+  recovered.
 
 Never back-translate Barbero, invent a locator, silently merge speakers or documents, or describe a
 later recollection as a contemporary transcript.
+
+The ledger `translation` field is always English. If `original_language: en`, copy `original_text`
+exactly into `translation`; never translate an English original into Italian. For every other
+language, store the researched direct English rendering, not Barbero's Italian wording.
 
 ## Ledger update
 
@@ -66,9 +74,8 @@ After reporting the evidence:
 2. Update only `{quotation_id}` in `quotes.yaml`.
 3. Preserve stable IDs and transcript references.
 4. Record exact wording, direct translation, locator, evidence limitations, confidence, status,
-   and script treatment.
+   plus quotation kind, verdict, and source-replacement status.
 5. Update the external research audit when one exists.
 6. Parse YAML, resolve every source reference, and run editorial validation.
 
 Do not edit other quotation or claim records and do not create a Git commit.
-

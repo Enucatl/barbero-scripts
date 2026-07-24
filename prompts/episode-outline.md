@@ -20,10 +20,9 @@ For every substantive section include:
 - Digressions or modern analogies, when present.
 - Candidate quotations and attributed statements needing verification.
 - Candidate central claims needing research.
-- Initial adaptation treatment: `preserve`, `compress`, `omit`, `clarify`, or `depart-pending`.
 
 Add an opening overview of the lecture's thesis and narrative arc. End with consolidated lists of
-candidate quotation IDs, claim IDs, recurring terminology, pronunciation targets, and issues that
+candidate quotation IDs, claim IDs, recurring terminology, and issues that
 cannot be determined from the transcript alone.
 
 Use provisional stable identifiers `Q-001`, `Q-002`, ... and `C-001`, `C-002`, ... in order of
@@ -49,4 +48,3 @@ Before finishing:
 5. Report section, quotation-target, claim-target, and unresolved-issue counts.
 
 Edit only `{outline_path}` and do not create a Git commit.
-

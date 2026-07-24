@@ -14,21 +14,24 @@ otherwise established material unusable.
 - Every quotation or attributed paraphrase in the transcript has a stable quotation entry.
 - Each resolved quotation has recoverable original text or a disclosed translation dependency,
   direct English translation, speaker, document type, date or context, exact locator, confidence,
-  and appropriate script treatment.
+  quotation kind, verdict, and source-replacement status.
+- Every quotation `translation` is English; when `original_language: en`, it exactly equals
+  `original_text`. Reject Italian or other intermediate-language translations.
 - Composite wording, memoir evidence, protocols, marginal annotations, named recollections, and
   later anecdotes are labelled distinctly.
+- A composite may use `source_replacement: eligible` only when every component is recoverable in
+  English and its document boundary is disclosed; composite status alone does not force paraphrase.
 - Every central claim and the intended incidental sample has supporting or conflicting evidence
   and a treatment that follows that evidence.
 - Evidence standards are consistent across entries. Do not leave an item deferred merely because
   the best edition is inaccessible when contemporary attestations or strong scholarship establish
   it responsibly.
-- Genuine negative findings remain deferred with a precise reason and a usable treatment such as
-  `qualify`, `paraphrase`, `omit`, or `label-anecdotal`.
+- Genuine negative findings remain deferred with a precise reason.
 - Source records are deduplicated; IDs, URLs, identifiers, access dates, editions, and locators do
   not conflict.
 - Genealogy, chronology, institutional setting, speaker identity, and document separation are
   checked wherever Barbero compresses a scene.
-- Every planned departure from Barbero is explicit and proportionate.
+- Discrepancies are documented for the later accuracy review, not applied here.
 
 ## Output and edits
 
@@ -42,8 +45,8 @@ run editorial validation, and report:
 
 - resolved and deferred totals;
 - quotation entries by evidence type;
-- claims whose script treatment departs from Barbero;
+- claims that may require an accuracy note;
 - remaining genuine risks;
-- whether research is ready for English adaptation.
+- whether research is ready for faithful translation and accuracy review.
 
 Do not edit the English script and do not create a Git commit.

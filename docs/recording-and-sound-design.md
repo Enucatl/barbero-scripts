@@ -58,7 +58,6 @@ Mark the performance script consistently:
 - `//` for a full pause.
 - Underline the operative word in a thought.
 - Use arrows for rising or falling energy.
-- Circle pronunciation risks.
 
 Aim for thoughtful conversation rather than an announcer voice. Let quotations become characters
 through a modest change of energy, not an impersonation. Accelerate slightly through escalating
