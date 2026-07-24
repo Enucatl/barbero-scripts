@@ -8,7 +8,15 @@ import yaml
 
 from .audio import prepare, speaker_totals
 from .models import Episode
-from .render import render_transcript, validate_episode
+from .render import (
+    assemble_italian_script,
+    assemble_naturalness_chapters,
+    finalize_consistency,
+    initialize_italian_review,
+    initialize_naturalness_chapters,
+    render_transcript,
+    validate_episode,
+)
 from .scaffold import scaffold_episode
 from .transcript import transcribe
 from .util import read_json
@@ -40,6 +48,22 @@ def parser() -> argparse.ArgumentParser:
     rendering.add_argument("config", type=Path)
     validation = commands.add_parser("validate", help="validate editorial references")
     validation.add_argument("episode_dir", type=Path)
+    italian = commands.add_parser("assemble-italian", help="assemble verbatim Italian chapters")
+    italian.add_argument("episode_dir", type=Path)
+    review = commands.add_parser("init-italian-review", help="create approved audio checklist")
+    review.add_argument("episode_dir", type=Path)
+    naturalness = commands.add_parser(
+        "init-naturalness", help="split corrected English into chapter review files"
+    )
+    naturalness.add_argument("episode_dir", type=Path)
+    spoken = commands.add_parser(
+        "assemble-naturalness", help="assemble reviewed naturalness chapters"
+    )
+    spoken.add_argument("episode_dir", type=Path)
+    final = commands.add_parser(
+        "finalize-consistency", help="accept the assembled script without broader rewriting"
+    )
+    final.add_argument("episode_dir", type=Path)
     return result
 
 
@@ -73,6 +97,32 @@ def main() -> None:
                 print(f"ERROR: {error}", file=sys.stderr)
             raise SystemExit(1)
         print("Editorial validation passed")
+        return
+    if args.command == "assemble-italian":
+        assemble_italian_script(args.episode_dir)
+        print("Assembled script.it.md")
+        return
+    if args.command == "init-italian-review":
+        try:
+            initialize_italian_review(args.episode_dir)
+        except FileExistsError as error:
+            raise SystemExit(str(error)) from error
+        print("Created approved italian-review.yaml")
+        return
+    if args.command == "init-naturalness":
+        try:
+            initialize_naturalness_chapters(args.episode_dir)
+        except FileExistsError as error:
+            raise SystemExit(str(error)) from error
+        print("Created naturalness chapter files")
+        return
+    if args.command == "assemble-naturalness":
+        assemble_naturalness_chapters(args.episode_dir)
+        print("Assembled script.spoken.en.md")
+        return
+    if args.command == "finalize-consistency":
+        finalize_consistency(args.episode_dir)
+        print("Created script.en.md")
         return
     episode = Episode.load(args.config)
     if args.command == "prepare":

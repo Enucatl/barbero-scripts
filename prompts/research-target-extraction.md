@@ -1,6 +1,6 @@
 # Research-target extraction
 
-Read `{transcript_path}` and `{outline_path}` in full. Seed `{quotes_path}` and `{claims_path}` with
+Read `{script_it_path}` and `{outline_path}` in full. Seed `{quotes_path}` and `{claims_path}` with
 research targets. Do not perform external research and do not populate `{sources_path}` in this
 pass.
 

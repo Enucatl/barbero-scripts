@@ -1,7 +1,8 @@
 # Episode structural outline
 
-Read `{transcript_path}` in full and replace `{outline_path}` with a structural outline of the
-lecture. Work from the corrected transcript only; do not perform external research in this pass.
+Read authoritative `{script_it_path}` in full and replace `{outline_path}` with a structural outline
+of the lecture. Use its existing chapters and corrected transcript references; do not perform
+external research in this pass.
 
 ## Purpose
 

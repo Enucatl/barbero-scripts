@@ -1,0 +1,75 @@
+- id: CH-001
+  title: Versailles, German grievances, and the double illusion
+  start: U-00001
+  end: U-00103
+  markers: [Q-001, C-001, Q-002, C-002, C-003]
+- id: CH-002
+  title: Halifax, anti-Bolshevism, and Hitler’s reading of the climate
+  start: U-00104
+  end: U-00181
+  markers: [Q-003, Q-004, C-004, Q-005, Q-006, Q-007, C-005]
+- id: CH-003
+  title: "Anschluss: engineered crisis and non-response"
+  start: U-00182
+  end: U-00211
+  markers: [C-006, C-007, Q-008, C-008, Q-009]
+- id: CH-004
+  title: Sudeten crisis and the exclusion of the Soviet Union
+  start: U-00212
+  end: U-00256
+  markers: [C-009, Q-010, C-010, Q-011, C-011]
+- id: CH-005
+  title: Munich, peace at any price, and appeasement’s failure
+  start: U-00257
+  end: U-00358
+  markers: [C-012, Q-012, C-013, Q-013, C-014, Q-014]
+- id: CH-006
+  title: Poland’s confidence and the destruction of Czechoslovakia
+  start: U-00359
+  end: U-00443
+  markers: [C-015, Q-015, Q-016, C-015, C-016, Q-017, C-017, C-017, Q-018, C-018]
+- id: CH-007
+  title: Danzig, the Polish guarantee, and the failed Soviet opening
+  start: U-00444
+  end: U-00521
+  markers: [Q-019, C-019, C-020, Q-020, C-020, C-021, C-021]
+- id: CH-008
+  title: Italy’s alliance without the means for war
+  start: U-00522
+  end: U-00560
+  markers: [Q-021, C-023, C-022, C-022]
+- id: CH-009
+  title: Ciano learns Germany wants war
+  start: U-00561
+  end: U-00595
+  markers: [Q-022, Q-023, Q-024, C-024]
+- id: CH-010
+  title: "12–18 August: rival negotiations and Polish refusal"
+  start: U-00596
+  end: U-00727
+  markers: [C-025, C-026, Q-025, C-027, Q-026, Q-027, C-028, Q-028, Q-029, C-027]
+- id: CH-011
+  title: "19–23 August: the Nazi-Soviet Pact and the Mongolia context"
+  start: U-00728
+  end: U-00880
+  markers: [Q-030, Q-030, C-029, C-030, Q-031, Q-032, C-031, Q-033, C-032]
+- id: CH-012
+  title: "23–26 August: Hitler’s last assurances and Italy’s molybdenum list"
+  start: U-00881
+  end: U-00942
+  markers: [Q-034, Q-035, Q-036, C-033, Q-037, C-034, C-034, Q-038, C-035]
+- id: CH-013
+  title: "27–30 August: negotiations staged to fail"
+  start: U-00943
+  end: U-01014
+  markers: [Q-039, C-036, Q-040, Q-041, Q-042, C-037]
+- id: CH-014
+  title: "31 August–1 September: attack order, Gleiwitz, and diplomatic lag"
+  start: U-01015
+  end: U-01095
+  markers: [Q-043, C-038, Q-044, C-039, Q-045, C-040]
+- id: CH-015
+  title: Declarations delayed and Fascist propaganda closes the lecture
+  start: U-01096
+  end: U-01117
+  markers: [C-041, Q-046, C-042, Q-047]

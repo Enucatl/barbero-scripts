@@ -1,7 +1,7 @@
 # Episode research audit
 
 Audit all research ledgers for `{episode_directory}` after the individual quotation and claim
-research tasks are complete. Read the corrected transcript, outline, `quotes.yaml`, `claims.yaml`,
+research tasks are complete. Read `script.it.md`, outline, `quotes.yaml`, `claims.yaml`,
 and `sources.yaml` in full. This is a consistency and sufficiency review, not a new adaptation pass.
 
 Use web search when checking a doubtful result, a missing locator, a contradiction, or an

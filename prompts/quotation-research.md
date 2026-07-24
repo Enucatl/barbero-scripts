@@ -2,8 +2,8 @@
 
 Research exactly one quotation target: `{quotation_id}` in `{episode_directory}`.
 
-You have web search available and must use it. Read the quotation ledger entry, its transcript
-utterances, and the surrounding outline section before searching.
+You have web search available and must use it. Read the quotation ledger entry, its passage in
+`script.it.md`, and the surrounding outline chapter before searching.
 
 ## Research brief
 

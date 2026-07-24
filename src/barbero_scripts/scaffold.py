@@ -33,26 +33,5 @@ def scaffold_episode(
     (destination / "episode.yaml").write_text(
         yaml.safe_dump(config, sort_keys=False, allow_unicode=True), encoding="utf-8"
     )
-    (destination / "outline.md").write_text(
-        "# Structural outline\n\n<!-- Generate with prompts/episode-outline.md. -->\n",
-        encoding="utf-8",
-    )
-    for name in ("sources.yaml", "quotes.yaml", "claims.yaml", "accuracy-notes.yaml"):
-        (destination / name).write_text("[]\n", encoding="utf-8")
-    (destination / "script.translation.en.md").write_text(
-        f"# {title}\n\n<!-- Faithful translation pending. -->\n", encoding="utf-8"
-    )
-    (destination / "translation.utterances.en.yaml").write_text("[]\n", encoding="utf-8")
-    (destination / "script.translation.assembled.en.md").write_text(
-        f"# {title}\n\n<!-- Translation assembly pending. -->\n", encoding="utf-8"
-    )
-    (destination / "script.corrected.en.md").write_text(
-        f"# {title}\n\n<!-- Accuracy decisions pending. -->\n", encoding="utf-8"
-    )
-    (destination / "script.spoken.en.md").write_text(
-        f"# {title}\n\n<!-- Spoken-English rewrite pending. -->\n", encoding="utf-8"
-    )
-    (destination / "script.en.md").write_text(
-        f"# {title}\n\n<!-- Idiomatic polishing pending. -->\n", encoding="utf-8"
-    )
+    (destination / "chapters.yaml").write_text("[]\n", encoding="utf-8")
     return destination

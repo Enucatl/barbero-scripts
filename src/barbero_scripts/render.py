@@ -31,7 +31,12 @@ NOTE_CATEGORIES = {
     "material-uncertainty",
 }
 DECISIONS = {"pending", "apply", "retain-original"}
-COVERAGE = re.compile(r"<!-- transcript: (U-\d{5})[–-](U-\d{5}); omissions: ([^>]+) -->")
+COVERAGE = re.compile(
+    r"<!-- (?:chapter: (CH-\d{3}); )?transcript: (U-\d{5})[–-](U-\d{5})"
+    r"(?:; omissions: ([^>]+))? -->"
+)
+CHAPTER_HEADING = re.compile(r"^## (\d+)\.\s+(.+)$", re.MULTILINE)
+NATURALNESS_REVIEW = re.compile(r"<!-- naturalness-reviewed: (CH-\d{3}) -->\n?")
 ITALIAN_FUNCTION_WORDS = {
     "anche",
     "che",
@@ -79,6 +84,110 @@ def render_transcript(episode: Episode, destination: Path) -> None:
     destination.write_text("\n".join(lines), encoding="utf-8")
     write_json(episode.work_dir / "correction-diff.json", diff)
     write_json(episode.work_dir / "utterances.json", [asdict(item) for item in corrected])
+
+
+def assemble_italian_script(directory: Path) -> None:
+    """Assemble reviewed transcript utterances without changing their spoken text."""
+    transcript_path = directory / "transcript.it.md"
+    chapter_path = directory / "chapters.yaml"
+    transcript = transcript_path.read_text(encoding="utf-8")
+    blocks = re.split(r"(?=^## U-\d{5}\b)", transcript, flags=re.MULTILINE)[1:]
+    utterances: dict[str, str] = {}
+    for block in blocks:
+        identifier = TRANSCRIPT_ID.search(block)
+        if identifier is None:
+            continue
+        parts = block.strip().split("\n\n", 1)
+        if len(parts) != 2:
+            raise ValueError(f"transcript utterance {identifier.group()} has no text")
+        utterances[identifier.group()] = parts[1].strip()
+
+    chapters = yaml.safe_load(chapter_path.read_text(encoding="utf-8")) or []
+    title = transcript.splitlines()[0].removeprefix("# ").removesuffix(" — Italian transcript")
+    lines = [f"# {title} — copione italiano", ""]
+    for chapter in chapters:
+        chapter_id = str(chapter["id"])
+        number = int(chapter_id.removeprefix("CH-"))
+        start_id = str(chapter["start"])
+        end_id = str(chapter["end"])
+        lines.extend(
+            [
+                f"## {number}. {chapter['title']}",
+                "",
+                f"<!-- chapter: {chapter_id}; transcript: {start_id}–{end_id} -->",
+                "",
+            ]
+        )
+        start = int(start_id[2:])
+        end = int(end_id[2:])
+        chapter_text = " ".join(utterances[f"U-{value:05d}"] for value in range(start, end + 1))
+        lines.extend([chapter_text, ""])
+        markers = chapter.get("markers", [])
+        if markers:
+            marker_text = " ".join(f"[{item}]" for item in markers)
+            lines.extend([f"<!-- research: {marker_text} -->", ""])
+    (directory / "script.it.md").write_text("\n".join(lines), encoding="utf-8")
+
+
+def initialize_italian_review(directory: Path) -> None:
+    """Create an explicit review checklist with every item approved by default."""
+    destination = directory / "italian-review.yaml"
+    if destination.exists():
+        raise FileExistsError(f"review checklist already exists: {destination}")
+    transcript = (directory / "transcript.it.md").read_text(encoding="utf-8")
+    chapters = yaml.safe_load((directory / "chapters.yaml").read_text(encoding="utf-8")) or []
+    payload = {
+        "utterances": [
+            {"id": identifier, "reviewed_audio": True}
+            for identifier in _ordered_transcript_ids(transcript)
+        ],
+        "chapters": [
+            {"id": str(chapter["id"]), "complete_ordered_coverage": True} for chapter in chapters
+        ],
+    }
+    destination.write_text(
+        yaml.safe_dump(payload, sort_keys=False, allow_unicode=True), encoding="utf-8"
+    )
+
+
+def initialize_naturalness_chapters(directory: Path) -> None:
+    """Split the corrected script into independently reviewable chapter files."""
+    source = (directory / "script.corrected.en.md").read_text(encoding="utf-8")
+    headings = list(CHAPTER_HEADING.finditer(source))
+    destination = directory / "naturalness"
+    destination.mkdir(exist_ok=True)
+    for index, heading in enumerate(headings, start=1):
+        chapter_id = f"CH-{index:03d}"
+        path = destination / f"{chapter_id}.md"
+        if path.exists():
+            raise FileExistsError(f"naturalness chapter already exists: {path}")
+        end = headings[index].start() if index < len(headings) else len(source)
+        chapter_text = source[heading.start() : end].strip()
+        path.write_text(
+            f"<!-- naturalness-reviewed: {chapter_id} -->\n{chapter_text}\n", encoding="utf-8"
+        )
+
+
+def assemble_naturalness_chapters(directory: Path) -> None:
+    """Assemble reviewed naturalness chapters without rewriting them."""
+    corrected = (directory / "script.corrected.en.md").read_text(encoding="utf-8")
+    title = corrected.splitlines()[0].removesuffix(" — assembled faithful translation")
+    chapters = _chapter_coverage((directory / "script.it.md").read_text(encoding="utf-8"), "", [])
+    parts: list[str] = []
+    for chapter_id, _, _ in chapters:
+        path = directory / "naturalness" / f"{chapter_id}.md"
+        text = path.read_text(encoding="utf-8")
+        if NATURALNESS_REVIEW.findall(text) != [chapter_id]:
+            raise ValueError(f"naturalness chapter is not reviewed: {chapter_id}")
+        parts.append(NATURALNESS_REVIEW.sub("", text).strip())
+    body = "\n\n".join(parts)
+    (directory / "script.spoken.en.md").write_text(f"{title}\n\n{body}\n", encoding="utf-8")
+
+
+def finalize_consistency(directory: Path) -> None:
+    """Use the assembled script unchanged when no narrow consistency edits are needed."""
+    spoken = (directory / "script.spoken.en.md").read_text(encoding="utf-8")
+    (directory / "script.en.md").write_text(spoken, encoding="utf-8")
 
 
 def _load_records(path: Path, label: str, errors: list[str]) -> dict[str, dict[str, Any]]:
@@ -138,32 +247,86 @@ def _markers(text: str, prefixes: set[str]) -> set[str]:
     }
 
 
-def _validate_coverage(text: str, transcript_ids: set[str], errors: list[str]) -> None:
+def _marker_sequence(text: str, prefixes: set[str]) -> list[str]:
+    return [
+        f"{match.group(1)}-{match.group(2)}"
+        for match in MARKER.finditer(text)
+        if match.group(1) in prefixes
+    ]
+
+
+def _ordered_transcript_ids(text: str) -> list[str]:
+    return [match.group(1) for match in re.finditer(r"^## (U-\d{5})\b", text, re.MULTILINE)]
+
+
+def _chapter_coverage(text: str, label: str, errors: list[str]) -> list[tuple[str, str, str]]:
     sections = list(COVERAGE.finditer(text))
     if not sections:
-        errors.append("translation has no section-level transcript coverage")
-        return
-    expected = sorted(int(identifier[2:]) for identifier in transcript_ids)
-    covered: set[int] = set()
-    for section in sections:
-        start, end = (int(value[2:]) for value in section.group(1, 2))
+        errors.append(f"{label} has no chapter-level transcript coverage")
+        return []
+    headings = list(CHAPTER_HEADING.finditer(text))
+    if len(headings) != len(sections):
+        errors.append(f"{label} chapter headings and coverage comments differ")
+    result: list[tuple[str, str, str]] = []
+    for index, section in enumerate(sections, start=1):
+        chapter = section.group(1) or f"CH-{index:03d}"
+        start_id, end_id = section.group(2, 3)
+        start, end = (int(value[2:]) for value in (start_id, end_id))
         if start > end:
-            errors.append(f"translation has reversed coverage U-{start:05d}–U-{end:05d}")
+            errors.append(f"{label} has reversed coverage {start_id}–{end_id}")
+        result.append((chapter, start_id, end_id))
+    return result
+
+
+def _validate_exact_coverage(
+    chapters: list[tuple[str, str, str]], expected_ids: list[str], label: str, errors: list[str]
+) -> None:
+    covered: list[str] = []
+    for _chapter, start_id, end_id in chapters:
+        start = int(start_id[2:])
+        end = int(end_id[2:])
+        if start <= end:
+            covered.extend(f"U-{number:05d}" for number in range(start, end + 1))
+    chapter_ids = [chapter for chapter, _, _ in chapters]
+    expected_chapters = [f"CH-{number:03d}" for number in range(1, len(chapters) + 1)]
+    if chapter_ids != expected_chapters:
+        errors.append(f"{label} chapter IDs are not sequential")
+    if covered != expected_ids:
+        errors.append(f"{label} does not have exact ordered utterance coverage")
+
+
+def _validate_italian_wording(transcript: str, script: str, errors: list[str]) -> None:
+    blocks = re.split(r"(?=^## U-\d{5}\b)", transcript, flags=re.MULTILINE)[1:]
+    utterances: dict[str, str] = {}
+    for block in blocks:
+        identifier = TRANSCRIPT_ID.search(block)
+        parts = block.strip().split("\n\n", 1)
+        if identifier is not None and len(parts) == 2:
+            utterances[identifier.group()] = parts[1].strip()
+    headings = list(CHAPTER_HEADING.finditer(script))
+    coverages = list(COVERAGE.finditer(script))
+    for index, coverage in enumerate(coverages):
+        start_id, end_id = coverage.group(2, 3)
+        start = int(start_id[2:])
+        end = int(end_id[2:])
+        identifiers = [f"U-{number:05d}" for number in range(start, end + 1)]
+        if any(identifier not in utterances for identifier in identifiers):
             continue
-        covered.update(range(start, end + 1))
-        omissions = section.group(3).strip()
-        if omissions != "none" and "|" not in omissions:
-            errors.append(f"translation omission lacks a permitted reason: {omissions}")
-    missing = [number for number in expected if number not in covered]
-    if missing:
-        errors.append(
-            "translation coverage misses " + ", ".join(f"U-{number:05d}" for number in missing)
-        )
+        expected = " ".join(utterances[identifier] for identifier in identifiers)
+        limit = headings[index + 1].start() if index + 1 < len(headings) else len(script)
+        actual = re.sub(r"<!--.*?-->", "", script[coverage.end() : limit], flags=re.DOTALL).strip()
+        if actual != expected:
+            errors.append(f"Italian script changes spoken wording in {coverage.group(1)}")
 
 
 def _looks_italian(text: str) -> bool:
     words = set(re.findall(r"[a-zàèéìòù]+", text.lower()))
     return len(words & ITALIAN_FUNCTION_WORDS) >= 3
+
+
+def _normalized_wording(text: str) -> str:
+    """Ignore Markdown line wrapping while preserving every word and punctuation mark."""
+    return " ".join(text.split())
 
 
 def validate_episode(directory: Path) -> list[str]:
@@ -174,11 +337,15 @@ def validate_episode(directory: Path) -> list[str]:
     transcript = transcript_path.read_text(encoding="utf-8")
     if "[REVIEW:" in transcript:
         errors.append("transcript contains unresolved review flags")
-    transcript_ids = set(TRANSCRIPT_ID.findall(transcript))
+    transcript_id_order = _ordered_transcript_ids(transcript)
+    transcript_ids = set(transcript_id_order)
 
-    staged_schema = (directory / "accuracy-notes.yaml").exists() or (
-        directory / "script.translation.en.md"
-    ).exists()
+    italian_first = (directory / "script.it.md").exists()
+    staged_schema = (
+        italian_first
+        or (directory / "accuracy-notes.yaml").exists()
+        or (directory / "script.translation.en.md").exists()
+    )
     if (directory / "accuracy-notes.yaml").exists() and not (
         directory / "script.translation.en.md"
     ).exists():
@@ -243,7 +410,8 @@ def validate_episode(directory: Path) -> list[str]:
                     errors.append(f"accuracy note {identifier} references missing {reference}")
 
     paths = {
-        "assembled": directory / "script.translation.assembled.en.md",
+        "italian": directory / "script.it.md",
+        "faithful": directory / "script.translation.faithful.en.md",
         "translation": directory / "script.translation.en.md",
         "corrected": directory / "script.corrected.en.md",
         "spoken": directory / "script.spoken.en.md",
@@ -252,37 +420,101 @@ def validate_episode(directory: Path) -> list[str]:
     texts = {
         name: path.read_text(encoding="utf-8") for name, path in paths.items() if path.exists()
     }
+    chapter_contract: list[tuple[str, str, str]] = []
+    italian_ready = True
+    if italian_first:
+        chapter_contract = _chapter_coverage(texts["italian"], "Italian script", errors)
+        _validate_exact_coverage(chapter_contract, transcript_id_order, "Italian script", errors)
+        _validate_italian_wording(transcript, texts["italian"], errors)
+        review_path = directory / "italian-review.yaml"
+        if not review_path.exists():
+            errors.append("missing italian-review.yaml")
+            italian_ready = False
+        else:
+            review = yaml.safe_load(review_path.read_text(encoding="utf-8")) or {}
+            utterance_reviews = review.get("utterances", []) if isinstance(review, dict) else []
+            reviewed_ids = [
+                str(item.get("id"))
+                for item in utterance_reviews
+                if isinstance(item, dict) and item.get("reviewed_audio") is True
+            ]
+            if reviewed_ids != transcript_id_order:
+                errors.append("Italian audio reviews do not exactly match transcript ID order")
+                italian_ready = False
+            chapter_reviews = review.get("chapters", []) if isinstance(review, dict) else []
+            reviewed_chapters = [
+                str(item.get("id"))
+                for item in chapter_reviews
+                if isinstance(item, dict) and item.get("complete_ordered_coverage") is True
+            ]
+            if reviewed_chapters != [item[0] for item in chapter_contract]:
+                errors.append("Italian chapter reviews are incomplete or out of order")
+                italian_ready = False
+        research_started = (
+            any(
+                (directory / name).exists()
+                and (yaml.safe_load((directory / name).read_text(encoding="utf-8")) or [])
+                for name in ("quotes.yaml", "claims.yaml", "sources.yaml")
+            )
+            or (directory / "outline.md").exists()
+        )
+        if not italian_ready and research_started:
+            errors.append("research is blocked until the Italian checkpoint passes")
+
     utterance_path = directory / "translation.utterances.en.yaml"
-    if staged_schema:
+    if staged_schema and not italian_first:
         utterance_records = _load_records(utterance_path, "utterance translation", errors)
         utterance_ids = list(utterance_records)
-        expected_ids = sorted(transcript_ids)
-        if utterance_ids != expected_ids:
+        if utterance_ids != transcript_id_order:
             errors.append("utterance translations do not exactly match transcript ID order")
         for identifier, item in utterance_records.items():
             if not item.get("text"):
                 errors.append(f"utterance translation {identifier} has no text")
-        if "assembled" not in texts:
-            errors.append("missing script.translation.assembled.en.md")
-        else:
-            _validate_coverage(texts["assembled"], transcript_ids, errors)
+    if italian_first and "faithful" not in texts:
+        errors.append("missing script.translation.faithful.en.md")
     legacy_final = "Legacy pre-staged adaptation" in texts.get("final", "")
-    if "final" in texts and not legacy_final and "spoken" not in texts:
+    if staged_schema and "final" in texts and not legacy_final and "spoken" not in texts:
         errors.append("final script requires script.spoken.en.md")
-    if "translation" in texts:
-        _validate_coverage(texts["translation"], transcript_ids, errors)
+    for stage in ("faithful", "translation", "corrected", "spoken", "final"):
+        if stage not in texts or not italian_first:
+            continue
+        coverage = _chapter_coverage(texts[stage], f"{stage} script", errors)
+        if coverage != chapter_contract:
+            errors.append(f"{stage} script chapter boundaries differ from Italian script")
+        _validate_exact_coverage(coverage, transcript_id_order, f"{stage} script", errors)
+
+    if "faithful" in texts:
         for identifier, item in ledgers["Q"].items():
             replacement = item.get("translation")
             if (
                 item.get("source_replacement") == "eligible"
                 and replacement
-                and str(replacement) not in texts["translation"]
+                and str(replacement) in texts["faithful"]
             ):
-                errors.append(f"translation does not use eligible wording for {identifier}")
-    if "assembled" in texts and "translation" in texts:
-        for prefix, label in (("Q", "quotation"), ("C", "claim")):
-            if _markers(texts["assembled"], {prefix}) != _markers(texts["translation"], {prefix}):
-                errors.append(f"translation does not preserve assembled {label} markers")
+                errors.append(f"faithful translation prematurely uses wording for {identifier}")
+    if "translation" in texts:
+        for identifier, item in ledgers["Q"].items():
+            replacement = item.get("translation")
+            if item.get("source_replacement") == "eligible" and replacement:
+                for stage in ("translation", "corrected", "spoken", "final"):
+                    if stage in texts and _normalized_wording(str(replacement)) not in (
+                        _normalized_wording(texts[stage])
+                    ):
+                        errors.append(f"{stage} does not use eligible wording for {identifier}")
+    if italian_first:
+        ordered_stages = [
+            stage
+            for stage in ("italian", "faithful", "translation", "corrected", "spoken", "final")
+            if stage in texts
+        ]
+        for before, after in zip(ordered_stages, ordered_stages[1:], strict=False):
+            prefixes = {"SRC", "Q", "C"}
+            if before in {"corrected", "spoken"}:
+                prefixes.add("N")
+            if _marker_sequence(texts[before], prefixes) != _marker_sequence(
+                texts[after], prefixes
+            ):
+                errors.append(f"{after} script does not preserve {before} markers in order")
     pending = {key for key, item in ledgers["N"].items() if item.get("decision") == "pending"}
     staged = "translation" in texts
     if pending and ("corrected" in texts or (staged and "final" in texts)):
@@ -321,4 +553,22 @@ def validate_episode(directory: Path) -> list[str]:
                 errors.append(f"spoken script does not preserve {label} markers")
             if _markers(texts["spoken"], {prefix}) != _markers(texts["final"], {prefix}):
                 errors.append(f"final script does not preserve spoken {label} markers")
+
+    if italian_first and "spoken" in texts:
+        chapter_dir = directory / "naturalness"
+        assembled_parts: list[str] = []
+        for chapter, _, _ in chapter_contract:
+            path = chapter_dir / f"{chapter}.md"
+            if not path.exists():
+                errors.append(f"missing naturalness output {chapter}")
+                continue
+            chapter_text = path.read_text(encoding="utf-8")
+            reviews = NATURALNESS_REVIEW.findall(chapter_text)
+            if reviews != [chapter]:
+                errors.append(f"naturalness output {chapter} is not explicitly reviewed")
+            assembled_parts.append(NATURALNESS_REVIEW.sub("", chapter_text).strip())
+        if len(assembled_parts) == len(chapter_contract):
+            spoken_body = texts["spoken"].split("\n", 1)[1].strip()
+            if "\n\n".join(assembled_parts) != spoken_body:
+                errors.append("spoken script is not the verbatim naturalness chapter assembly")
     return errors

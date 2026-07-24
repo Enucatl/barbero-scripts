@@ -1,7 +1,7 @@
 # Historical research resolution
 
 Research the assigned quotation range `{quote_range}` and claim range `{claim_range}` for
-`{episode_directory}`. Read the corrected transcript, outline, and existing ledgers first.
+`{episode_directory}`. Read `script.it.md`, outline, and existing ledgers first.
 
 Research historical claims in bounded thematic batches. Research quotations individually using
 `prompts/quotation-research.md`; do not batch multiple quotation targets into one agent task.

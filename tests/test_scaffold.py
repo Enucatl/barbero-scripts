@@ -22,13 +22,11 @@ def test_scaffold_creates_minimal_episode_files(tmp_path: Path) -> None:
     assert config["slug"] == "021-il-cavaliere"
     assert config["work_dir"] == "/work/021-il-cavaliere"
     assert config["keyterms"] == ["Medioevo", "cavaliere"]
-    assert (destination / "quotes.yaml").read_text() == "[]\n"
-    assert (destination / "accuracy-notes.yaml").read_text() == "[]\n"
-    assert (destination / "script.translation.en.md").exists()
-    assert (destination / "translation.utterances.en.yaml").read_text() == "[]\n"
-    assert (destination / "script.translation.assembled.en.md").exists()
-    assert (destination / "script.corrected.en.md").exists()
-    assert (destination / "script.spoken.en.md").exists()
+    assert (destination / "chapters.yaml").read_text() == "[]\n"
+    assert not (destination / "italian-review.yaml").exists()
+    assert not (destination / "quotes.yaml").exists()
+    assert not (destination / "script.it.md").exists()
+    assert not (destination / "script.translation.en.md").exists()
     assert not (destination / "script.recording.md").exists()
     assert not (destination / "transcript.it.md").exists()
 

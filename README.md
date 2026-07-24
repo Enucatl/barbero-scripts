@@ -55,8 +55,9 @@ U-00117:
   reviewed: true
 ```
 
-`validate` resolves transcript, ledger, and marker references; checks quotation replacement rules;
-and enforces the human accuracy-decision gate and marker preservation between script stages.
+`validate` resolves transcript, ledger, and marker references and enforces the Italian audio gate,
+exact ordered utterance coverage, chapter identity, quotation replacement timing, chapter review,
+and human accuracy-decision gates.
 
 The reusable two-pass, text-only correction and contextual-verification instructions are in
 [`prompts/transcript-correction.md`](prompts/transcript-correction.md). Substitute the transcript
@@ -77,30 +78,19 @@ search, follow citations into digitized books and OCR, distinguish contemporary 
 recollections, and accept practical evidence tiers rather than requiring an inaccessible critical
 edition. Quotations are never assigned to broad research batches.
 
-The researched lecture moves through a three-pass faithful-translation workflow followed by three
-editorial passes. The translation controller first creates `translation.utterances.en.yaml`, then
-losslessly assembles `script.translation.assembled.en.md`, and finally formats and normalizes
-`script.translation.en.md`. See
-([`faithful-translation.md`](prompts/faithful-translation.md)), accuracy review
-([`accuracy-review.md`](prompts/accuracy-review.md)), human-approved corrections
-([`approved-corrections.md`](prompts/approved-corrections.md)), and idiomatic polishing
-([`idiomatic-polishing.md`](prompts/idiomatic-polishing.md)). The versioned artifacts are
-`script.translation.en.md`, `accuracy-notes.yaml`, `script.corrected.en.md`,
-`script.spoken.en.md`, and the annotated, directly recordable `script.en.md`. The spoken draft is a
-strong conversational rewrite; a separate fidelity/read-aloud audit compares it with the corrected
-script before producing the final. Research never authorizes a correction: every accuracy note
-defaults to `retain-original`, and corrections require a human to opt in with `apply`. Any
-`pending` decision still blocks downstream scripts. The faithful translation must exist and pass
-coverage checks before accuracy notes are generated or presented for human review.
-Pass one uses Google Translate only to create the raw utterance-by-utterance YAML. Sequential agents
-inheriting the model configured in the current Codex session then correct and assemble it and run
-the final formatting/consistency pass. External translation services are forbidden after pass one;
-separate Codex processes and model selection are forbidden throughout. Quotations
-marked `source_replacement: eligible` must use the ledger's recovered English wording verbatim.
-Every quotation ledger `translation` is English. Records marked `not-applicable` or `unavailable`
-never supply script wording; those passages use a faithful contextual translation of Barbero.
-Composite records may be `eligible` when every component has recoverable English wording and clear
-document boundaries; the exact assembled ledger wording is then used.
+The authoritative spoken-content source is `script.it.md`, assembled verbatim from the stable,
+timestamped `transcript.it.md`. Research cannot begin until a human has checked every utterance
+against audio and approved every chapter's complete ordered coverage in `italian-review.yaml`.
+
+The episode then progresses through research ledgers, a close language-model translation of each
+complete Italian chapter into `script.translation.faithful.en.md`, and a distinct quotation replacement
+pass producing `script.translation.en.md`. Only `source_replacement: eligible` records supply exact
+ledger wording; all other quotations retain Barbero's contextual translation. Accuracy review and
+human decisions produce `script.corrected.en.md`. Each chapter receives an independent conservative
+naturalness review under `naturalness/`; their verbatim assembly is `script.spoken.en.md`. A narrow
+whole-episode consistency pass produces `script.en.md` without restructuring or new transitions.
+Research never directly authorizes corrections, pending decisions block downstream files, and
+authoritative quotations remain exact after replacement.
 
 The complete supervised sequence is defined in
 [`prompts/episode-workflow.md`](prompts/episode-workflow.md). It assigns non-overlapping agent work,

@@ -40,9 +40,10 @@ def write_episode(tmp_path: Path, decision: str = "retain-original") -> None:
 
 def test_validation_accepts_applied_correction(tmp_path: Path) -> None:
     write_episode(tmp_path, "apply")
-    (tmp_path / "script.corrected.en.md").write_text("Corrected. [Q-001] [N-001]")
-    (tmp_path / "script.spoken.en.md").write_text("Corrected. [Q-001] [N-001]")
-    (tmp_path / "script.en.md").write_text("Corrected. [Q-001] [N-001]")
+    text = "Verified words. Corrected. [Q-001] [N-001]"
+    (tmp_path / "script.corrected.en.md").write_text(text)
+    (tmp_path / "script.spoken.en.md").write_text(text)
+    (tmp_path / "script.en.md").write_text(text)
     assert validate_episode(tmp_path) == []
 
 
@@ -78,9 +79,10 @@ def test_validation_rejects_removed_assessment_field(tmp_path: Path) -> None:
 
 def test_validation_rejects_marker_for_retained_note(tmp_path: Path) -> None:
     write_episode(tmp_path, "retain-original")
-    (tmp_path / "script.corrected.en.md").write_text("Original. [Q-001] [N-001]")
-    (tmp_path / "script.spoken.en.md").write_text("Original. [Q-001] [N-001]")
-    (tmp_path / "script.en.md").write_text("Original. [Q-001] [N-001]")
+    text = "Verified words. Original. [Q-001] [N-001]"
+    (tmp_path / "script.corrected.en.md").write_text(text)
+    (tmp_path / "script.spoken.en.md").write_text(text)
+    (tmp_path / "script.en.md").write_text(text)
     assert "corrected script applies retained-original note N-001" in validate_episode(tmp_path)
 
 
@@ -121,7 +123,7 @@ def test_validation_rejects_italian_quotation_translation(tmp_path: Path) -> Non
 
 def test_validation_preserves_markers_during_polishing(tmp_path: Path) -> None:
     write_episode(tmp_path, "apply")
-    (tmp_path / "script.corrected.en.md").write_text("Corrected. [Q-001] [N-001]")
-    (tmp_path / "script.spoken.en.md").write_text("Corrected. [Q-001] [N-001]")
-    (tmp_path / "script.en.md").write_text("Corrected. [N-001]")
+    (tmp_path / "script.corrected.en.md").write_text("Verified words. Corrected. [Q-001] [N-001]")
+    (tmp_path / "script.spoken.en.md").write_text("Verified words. Corrected. [Q-001] [N-001]")
+    (tmp_path / "script.en.md").write_text("Verified words. Corrected. [N-001]")
     assert "final script does not preserve spoken quotation markers" in validate_episode(tmp_path)
