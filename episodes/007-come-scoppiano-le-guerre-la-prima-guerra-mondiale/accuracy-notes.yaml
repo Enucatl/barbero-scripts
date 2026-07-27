@@ -1,0 +1,303 @@
+- id: N-001
+  transcript:
+  - U-00023–U-00033
+  - U-00097–U-00108
+  claim_ids: [C-002, C-005]
+  quotation_ids: []
+  source_ids: [SRC-005]
+  category: misleading-compression
+  original_assertion: The Sarajevo assassination was organized in Serbia with complicity in the Serbian government and army, as later investigations established beyond doubt.
+  proposed_correction: The assassins had support from Serbian Black Hand and military-intelligence networks, but those connections do not establish that the Serbian government ordered the attack.
+  decision: retain-original
+- id: N-002
+  transcript: [U-00053–U-00065]
+  claim_ids: [C-003]
+  quotation_ids: []
+  source_ids: [SRC-404]
+  category: factual-error
+  original_assertion: Franz Joseph was eighty-four at Sarajevo, had reigned for sixty-six years, and died in December 1916.
+  proposed_correction: Franz Joseph was eighty-three at Sarajevo and nearing sixty-six years on the throne; he died on 21 November 1916.
+  decision: apply
+- id: N-003
+  transcript: [U-00075–U-00096]
+  claim_ids: [C-004]
+  quotation_ids: []
+  source_ids: [SRC-411]
+  category: misleading-compression
+  original_assertion: Bosnia's Croat and Muslim populations were happy under Habsburg rule, while its Serb population was uniformly unhappy.
+  proposed_correction: Bosnia's communities contained differing political tendencies; many Muslims served loyally in Habsburg forces, while Serbian nationalism had strong support among Bosnian Serbs, without either community holding a single uniform view.
+  decision: retain-original
+- id: N-004
+  transcript: [U-00163–U-00171]
+  claim_ids: [C-008]
+  quotation_ids: []
+  source_ids: [SRC-405]
+  category: misleading-compression
+  original_assertion: Germany had the strongest army and had already surpassed Britain as the world's greatest industrial power.
+  proposed_correction: Germany possessed Europe's leading continental army and had overtaken Britain in steel production and some manufacturing measures, though not in every measure of industrial or global power.
+  decision: retain-original
+- id: N-005
+  transcript: [U-00189–U-00224]
+  claim_ids: [C-010]
+  quotation_ids: [Q-004]
+  source_ids: [SRC-004, SRC-415, SRC-416]
+  category: factual-error
+  original_assertion: Franz Joseph wrote his appeal to Wilhelm on 4 July 1914.
+  proposed_correction: Franz Joseph signed the appeal on 2 July, and it was delivered to Wilhelm on 5 July with the accompanying memorandum.
+  decision: apply
+- id: N-006
+  transcript: [U-00224–U-00237]
+  claim_ids: [C-011]
+  quotation_ids: []
+  source_ids: [SRC-004]
+  category: material-uncertainty
+  original_assertion: After giving the blank cheque without consulting anyone, Wilhelm consulted Bethmann Hollweg, Moltke, and Alfred Krupp in that sequence.
+  proposed_correction: Wilhelm gave the assurance without prior parliamentary approval, which was not constitutionally required; the neat subsequent consultation sequence involving Moltke and Krupp is not securely established.
+  decision: retain-original
+- id: N-007
+  transcript: [U-00275–U-00292]
+  claim_ids: [C-013]
+  quotation_ids: []
+  source_ids: [SRC-003, SRC-406, SRC-407]
+  category: misleading-compression
+  original_assertion: People could travel throughout Europe without passports, except when entering Russia.
+  proposed_correction: Passport controls had been widely relaxed across much of prewar Europe, although the freedom was not universal and still varied by country, law, class, and migration policy.
+  decision: retain-original
+- id: N-008
+  transcript: [U-00299–U-00319]
+  claim_ids: [C-014]
+  quotation_ids: []
+  source_ids: [SRC-002, SRC-007]
+  category: disputed
+  original_assertion: The ruling classes of the era were all steeped in a simplified social-Darwinist ideology of interstate survival.
+  proposed_correction: Social-Darwinist and militarist ideas influenced part of European elite discourse, but they were neither uniform across all ruling classes nor a direct explanation of every government's policy.
+  decision: retain-original
+- id: N-009
+  transcript: [U-00340–U-00357]
+  claim_ids: [C-015]
+  quotation_ids: [Q-007]
+  source_ids: [SRC-003]
+  category: material-uncertainty
+  original_assertion: Prime ministers and army commanders read books such as Norman Angell's The Great Illusion and kept them on their bedside tables.
+  proposed_correction: Norman Angell's The Great Illusion was an international bestseller influential in prewar public debate, though readership by unnamed prime ministers and commanders is not documented here.
+  decision: retain-original
+- id: N-010
+  transcript: [U-00361–U-00376]
+  claim_ids: [C-016]
+  quotation_ids: [Q-008]
+  source_ids: [SRC-401]
+  category: misleading-compression
+  original_assertion: Grey's December 1912 forecast is presented as his directly recoverable wording.
+  proposed_correction: In his later published account, Prince Lichnowsky recalled Grey outlining in December 1912 how an Austrian move against Serbia could draw in Russia, Germany, and France.
+  decision: retain-original
+- id: N-011
+  transcript: [U-00410–U-00435]
+  claim_ids: [C-018]
+  quotation_ids: []
+  source_ids: [SRC-011]
+  category: misleading-compression
+  original_assertion: For fifty years every great-power general staff had perfected extremely precise plans for every possible war, down to every army commander.
+  proposed_correction: The great powers developed detailed operational plans for expected wars, but the German plans in particular evolved and retained contested elements of flexibility rather than forming one unchanging blueprint for every contingency.
+  decision: retain-original
+- id: N-012
+  transcript: [U-00424–U-00435]
+  claim_ids: []
+  quotation_ids: [Q-009]
+  source_ids: [SRC-417, SRC-418]
+  category: material-uncertainty
+  original_assertion: Wilhelm directly told King Albert in 1913 that von Kluck would command the march on Paris.
+  proposed_correction: According to Eugène Beyens's postwar recollection of the 1913 visit, Wilhelm introduced von Kluck as the general who would march on Paris; the contemporary report confirms the encounter and warnings of war but not that exact sentence.
+  decision: retain-original
+- id: N-013
+  transcript: [U-00442–U-00469]
+  claim_ids: [C-019]
+  quotation_ids: [Q-010]
+  source_ids: [SRC-006, SRC-008, SRC-410]
+  category: factual-error
+  original_assertion: Moltke said on 1 June 1914, "now we are ready, and the sooner it comes the better."
+  proposed_correction: Moltke's preventive-war urgency is well attested, but the familiar words "the sooner the better" come from Müller's account of the imperial conference of 8 December 1912, with a textual-history caveat, not a securely documented statement of 1 June 1914.
+  decision: retain-original
+- id: N-014
+  transcript: [U-00470–U-00507]
+  claim_ids: [C-020]
+  quotation_ids: []
+  source_ids: [SRC-015, SRC-022]
+  category: misleading-compression
+  original_assertion: Austria-Hungary wanted war and framed an ultimatum that was impossible for Serbia to accept.
+  proposed_correction: Austro-Hungarian leaders designed the ultimatum to be unacceptable in full, especially its demands for Austrian participation inside Serbia, rather than making every individual demand literally impossible to accept.
+  decision: retain-original
+- id: N-015
+  transcript: [U-00519–U-00529]
+  claim_ids: []
+  quotation_ids: [Q-012]
+  source_ids: [SRC-416, SRC-419]
+  category: misleading-compression
+  original_assertion: Lichnowsky's remark about Balkan and civilized peoples is presented without distinguishing Wilhelm's response.
+  proposed_correction: In his diplomatic telegram Lichnowsky reported telling Grey that Balkan peoples could not be judged by the same standard as European civilized peoples; Wilhelm separately annotated the telegram, "Correct; they simply aren't."
+  decision: retain-original
+- id: N-016
+  transcript: [U-00530–U-00538]
+  claim_ids: [C-021]
+  quotation_ids: []
+  source_ids: [SRC-021]
+  category: material-uncertainty
+  original_assertion: British cabinet minutes prove that the government never discussed foreign policy between 28 June and 24 July 1914.
+  proposed_correction: No formal British cabinet minutes were kept before December 1916; the supported conclusion is that the crisis did not dominate collective cabinet deliberation until the ultimatum forced urgent engagement.
+  decision: retain-original
+- id: N-017
+  transcript: [U-00542–U-00546]
+  claim_ids: []
+  quotation_ids: [Q-013]
+  source_ids: [SRC-020]
+  category: factual-error
+  original_assertion: The Manchester formulation is presented as evidence of British opinion before the ultimatum of 24 July.
+  proposed_correction: The Manchester Guardian wrote on 30 July, after the ultimatum, "We care as little for Belgrade as Belgrade does for Manchester."
+  decision: apply
+- id: N-018
+  transcript: [U-00573–U-00587]
+  claim_ids: []
+  quotation_ids: [Q-014]
+  source_ids: [SRC-402]
+  category: material-uncertainty
+  original_assertion: Foch's 1910 answer about ensuring that one British soldier was killed is presented as direct contemporary dialogue.
+  proposed_correction: In the later published account of Sir Henry Wilson's life and diaries, Foch is recalled as answering that one British soldier would suffice if the French ensured he was killed.
+  decision: retain-original
+- id: N-019
+  transcript: [U-00588–U-00593]
+  claim_ids: [C-023]
+  quotation_ids: []
+  source_ids: [SRC-015, SRC-018]
+  category: misleading-compression
+  original_assertion: Serbia accepted almost all the Austro-Hungarian demands.
+  proposed_correction: Serbia accepted many demands but qualified the key clauses requiring Austro-Hungarian participation inside Serbia, which it treated as incompatible with its sovereignty.
+  decision: retain-original
+- id: N-020
+  transcript: [U-00599–U-00614]
+  claim_ids: [C-024]
+  quotation_ids: []
+  source_ids: [SRC-408]
+  category: misleading-compression
+  original_assertion: Churchill alone kept the fleet concentrated and sent it directly toward Scapa Flow on his own initiative.
+  proposed_correction: Churchill played the leading political role in holding the fleet together, while First Sea Lord Prince Louis issued the operational order and the fleet moved in stages to its war stations.
+  decision: retain-original
+- id: N-021
+  transcript:
+  - U-00631–U-00641
+  - U-00939–U-00958
+  claim_ids: [C-025]
+  quotation_ids: []
+  source_ids: [SRC-303]
+  category: material-uncertainty
+  original_assertion: German mobilization involved exactly 11,000 trains whose movements made alteration impossible.
+  proposed_correction: German deployment was minutely organized on a vast railway timetable commonly estimated at about 11,000 trains; the number is approximate, and difficulty redirecting the deployment was not the same as physical impossibility.
+  decision: retain-original
+- id: N-022
+  transcript: [U-00642–U-00679]
+  claim_ids: [C-026]
+  quotation_ids: [Q-016]
+  source_ids: [SRC-013, SRC-022]
+  category: misleading-compression
+  original_assertion: Mobilization itself meant war as a general rule, while Russia mobilized early solely because it was slow.
+  proposed_correction: Russia's slower concentration encouraged early preparations, while German operational assumptions treated Germany's own mobilization as effectively initiating war; mobilization did not have the same meaning for every power.
+  decision: retain-original
+- id: N-023
+  transcript: [U-00693–U-00704]
+  claim_ids: []
+  quotation_ids: [Q-017]
+  source_ids: [SRC-403]
+  category: material-uncertainty
+  original_assertion: Freud's statement that his entire libido belonged to Austria-Hungary is presented as a fully documented contemporary quotation.
+  proposed_correction: An Austrian institutional history attributes to Freud the remark that his entire libido belonged to Austria-Hungary, though the original letter, recipient, and date have not been identified.
+  decision: retain-original
+- id: N-024
+  transcript: [U-00714–U-00730]
+  claim_ids: [C-028]
+  quotation_ids: []
+  source_ids: [SRC-016]
+  category: factual-error
+  original_assertion: Nicholas II, Wilhelm II, and George V were all first cousins and all grandsons of Queen Victoria.
+  proposed_correction: The three monarchs were dynastic cousins, but only Wilhelm and George were first cousins through Queen Victoria; Nicholas and George were first cousins through the Danish royal family, and Nicholas was not Queen Victoria's grandson.
+  decision: apply
+- id: N-025
+  transcript:
+  - U-00782–U-00812
+  - U-00930–U-00958
+  claim_ids: [C-030, C-035]
+  quotation_ids: [Q-026]
+  source_ids: [SRC-302, SRC-303, SRC-306]
+  category: disputed
+  original_assertion: Germany's perfected operational plan required Belgium and could not be redirected once mobilization began.
+  proposed_correction: German planning called for the main deployment against France through Belgium, and Moltke insisted that changing it after mobilization began would create disorder; the stronger claim that no alternative was possible remains disputed.
+  decision: retain-original
+- id: N-026
+  transcript: [U-00867–U-00877]
+  claim_ids: [C-032]
+  quotation_ids: []
+  source_ids: [SRC-412]
+  category: material-uncertainty
+  original_assertion: The German General Staff planted the false mobilization report to force the government's hand.
+  proposed_correction: The Berliner Lokal-Anzeiger published a false mobilization report that was officially denied and suppressed; the available evidence does not establish that the General Staff planted it.
+  decision: retain-original
+- id: N-027
+  transcript: [U-00890–U-00915]
+  claim_ids: [C-033]
+  quotation_ids: []
+  source_ids: [SRC-413]
+  category: material-uncertainty
+  original_assertion: Grey was in a definite cabinet minority on 1 August, threatened resignation, and faced a majority threatening to resign if Britain went to war.
+  proposed_correction: The cabinet was deeply divided and Grey's position was insecure, with resignations threatened and later tendered, but the absence of formal minutes makes a precise majority count or verbatim resignation threat unsafe.
+  decision: retain-original
+- id: N-028
+  transcript: [U-00906–U-00915]
+  claim_ids: []
+  quotation_ids: [Q-024]
+  source_ids: [SRC-420, SRC-426, SRC-427]
+  category: misleading-compression
+  original_assertion: Cambon collapsed into a chair on the verge of tears and said, "They're going to abandon us; they're going to let us down."
+  proposed_correction: In Harold Nicolson's later account of his father's recollection, Cambon was white and speechless, was guided to a chair, and said that the British were going to abandon them.
+  decision: retain-original
+- id: N-029
+  transcript: [U-00921–U-00926]
+  claim_ids: []
+  quotation_ids: [Q-025]
+  source_ids: [SRC-428, SRC-429, SRC-430]
+  category: factual-error
+  original_assertion: On the evening of 31 July at Bethmann Hollweg's home, Tirpitz objected while ministers drafted the declaration of war on Russia, and Foreign Office technicians answered that procedure required it.
+  proposed_correction: Tirpitz later recalled raising the objection at the Federal Council session on 1 August, after the declaration had been sent; "formal legal conscientiousness" was his own retrospective conjecture, not an answer quoted from Foreign Office officials.
+  decision: retain-original
+- id: N-030
+  transcript: [U-00930–U-00942]
+  claim_ids: []
+  quotation_ids: [Q-031]
+  source_ids: [SRC-436]
+  category: misleading-compression
+  original_assertion: Lichnowsky reported that Britain and France had offered to remain neutral if Germany did not attack France.
+  proposed_correction: Lichnowsky reported Grey asking conditionally whether Germany would refrain from attacking France if France remained neutral; Berlin expanded that inquiry into a firm British offer that had not been made.
+  decision: retain-original
+- id: N-031
+  transcript: [U-00978–U-00985]
+  claim_ids: [C-037]
+  quotation_ids: []
+  source_ids: [SRC-308, SRC-309]
+  category: material-uncertainty
+  original_assertion: Germany's declaration of war on France was a heap of lies about French aircraft attacks, presented as intentional fabrication.
+  proposed_correction: Germany's declaration alleged French aircraft attacks near Wesel, Karlsruhe, and Nuremberg; the allegations were false, while the claim that each report was knowingly fabricated as propaganda requires separate evidence.
+  decision: retain-original
+- id: N-032
+  transcript: [U-00986–U-00998]
+  claim_ids: [C-038]
+  quotation_ids: []
+  source_ids: [SRC-305, SRC-306, SRC-307]
+  category: factual-error
+  original_assertion: Grey obtained authorization from the House of Commons to send Germany an ultimatum over Belgium.
+  proposed_correction: Grey addressed the Commons on 3 August and secured decisive political support, but Parliament did not issue a formal statutory authorization for the government's ultimatum or declaration of war.
+  decision: retain-original
+- id: N-033
+  transcript: [U-01009–U-01015]
+  claim_ids: []
+  quotation_ids: [Q-030]
+  source_ids: [SRC-431, SRC-432, SRC-433, SRC-434, SRC-435]
+  category: material-uncertainty
+  original_assertion: Wilhelm said that Georgie and Nicky had betrayed him and that Queen Victoria would never have allowed it.
+  proposed_correction: A later, unverified anecdote attributes this remark to Wilhelm, but no primary document, German original, named eyewitness, or archival locator has been found; it should not be presented as an established historical quotation.
+  decision: retain-original

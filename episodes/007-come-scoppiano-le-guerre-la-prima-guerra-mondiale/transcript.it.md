@@ -1,4 +1,4 @@
-# La Prima Guerra Mondiale: come scoppiano le guerre — Italian transcript
+# Come scoppiano le guerre: La prima guerra mondiale — Italian transcript
 
 <!-- Generated; correct through corrections.yaml. -->
 

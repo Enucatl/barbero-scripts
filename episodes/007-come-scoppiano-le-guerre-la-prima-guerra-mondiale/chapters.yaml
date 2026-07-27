@@ -1,0 +1,50 @@
+- id: CH-001
+  title: Sarajevo, terrorism, and the Austrian case against Serbia
+  start: U-00001
+  end: U-00123
+  markers: [Q-001, C-001, C-002, C-003, C-004, C-005, Q-002]
+- id: CH-002
+  title: Alliances, German power, and the blank cheque
+  start: U-00124
+  end: U-00274
+  markers: [C-006, C-007, Q-003, C-008, C-009, Q-004, C-010, Q-005, C-011, C-012]
+- id: CH-003
+  title: Armed peace, military planning, and the shrinking window
+  start: U-00275
+  end: U-00469
+  markers: [C-013, C-014, Q-006, C-015, Q-007, C-016, Q-008, C-017, C-018, Q-009, C-019, Q-010]
+- id: CH-004
+  title: Austria's ultimatum and Britain's initial detachment
+  start: U-00470
+  end: U-00587
+  markers: [C-020, Q-011, Q-012, C-021, Q-013, C-022, Q-014]
+- id: CH-005
+  title: Serbia's reply, Churchill's fleet, and mobilization logic
+  start: U-00588
+  end: U-00679
+  markers: [C-023, Q-015, C-024, C-025, C-026, Q-016]
+- id: CH-006
+  title: Austria declares war and the cousins exchange telegrams
+  start: U-00680
+  end: U-00759
+  markers: [C-027, Q-017, C-028, Q-018, C-029, Q-019]
+- id: CH-007
+  title: German war plans, Belgian neutrality, and Britain's warning
+  start: U-00760
+  end: U-00859
+  markers: [C-030, C-031, Q-020, Q-021, Q-022]
+- id: CH-008
+  title: "30 July: mobilization pressure and political collapse"
+  start: U-00860
+  end: U-00890
+  markers: [C-032, Q-023]
+- id: CH-009
+  title: "31 July–1 August: ultimatums, war, and an impossible reversal"
+  start: U-00891
+  end: U-00959
+  markers: [C-033, Q-024, C-034, Q-025, Q-031, C-035, Q-026]
+- id: CH-010
+  title: "2–4 August: Belgium brings Britain into the war"
+  start: U-00960
+  end: U-01015
+  markers: [C-036, Q-027, C-037, C-038, Q-028, Q-029, Q-030]

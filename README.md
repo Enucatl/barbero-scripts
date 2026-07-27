@@ -22,12 +22,12 @@ uv run barbero init \
   --source ~/data/barbero/raw/21_Come_pensava_un_uomo_del_Medioevo_Il_cavaliere_2011_3.mp3 \
   --keyterm Medioevo \
   --keyterm cavaliere
-uv run barbero prepare episodes/007-come-scoppiano-le-guerre/episode.yaml
-uv run barbero speakers episodes/007-come-scoppiano-le-guerre/episode.yaml --show
-uv run barbero speakers episodes/007-come-scoppiano-le-guerre/episode.yaml --select SPEAKER_00
-uv run barbero transcribe episodes/007-come-scoppiano-le-guerre/episode.yaml
-uv run barbero render episodes/007-come-scoppiano-le-guerre/episode.yaml
-uv run barbero validate episodes/007-come-scoppiano-le-guerre
+uv run barbero prepare episodes/007-come-scoppiano-le-guerre-la-prima-guerra-mondiale/episode.yaml
+uv run barbero speakers episodes/007-come-scoppiano-le-guerre-la-prima-guerra-mondiale/episode.yaml --show
+uv run barbero speakers episodes/007-come-scoppiano-le-guerre-la-prima-guerra-mondiale/episode.yaml --select SPEAKER_00
+uv run barbero transcribe episodes/007-come-scoppiano-le-guerre-la-prima-guerra-mondiale/episode.yaml
+uv run barbero render episodes/007-come-scoppiano-le-guerre-la-prima-guerra-mondiale/episode.yaml
+uv run barbero validate episodes/007-come-scoppiano-le-guerre-la-prima-guerra-mondiale
 ```
 
 `init` creates a minimal, versioned episode directory and refuses to overwrite an existing one. It
@@ -87,7 +87,8 @@ complete Italian chapter into `script.translation.faithful.en.md`, and a distinc
 pass producing `script.translation.en.md`. Only `source_replacement: eligible` records supply exact
 ledger wording; all other quotations retain Barbero's contextual translation. Accuracy review and
 human decisions produce `script.corrected.en.md`. Each chapter receives an independent conservative
-naturalness review under `naturalness/`; their verbatim assembly is `script.spoken.en.md`. A narrow
+naturalness review under `naturalness/`; their verbatim assembly is `script.spoken.en.md`. A
+separate tense-only chapter review under `tense/` produces `script.tense.en.md`, and a narrow
 whole-episode consistency pass produces `script.en.md` without restructuring or new transitions.
 Research never directly authorizes corrections, pending decisions block downstream files, and
 authoritative quotations remain exact after replacement.

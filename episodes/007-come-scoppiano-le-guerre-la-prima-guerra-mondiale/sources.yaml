@@ -1,0 +1,585 @@
+- id: SRC-001
+  author: Francis
+  title: Homily at the Military Memorial of Redipuglia
+  date: '2014-09-13'
+  original_language: it
+  identifier: null
+  url: https://www.vatican.va/content/francesco/it/homilies/2014/documents/papa-francesco_20140913_omelia-sacrario-militare-redipuglia.html
+  access_date: '2026-07-17'
+  locator: paragraph beginning 'Anche oggi, dopo il secondo fallimento di un’altra guerra mondiale'
+- id: SRC-002
+  author: Friedrich von Bernhardi
+  title: Germany and the Next War
+  date: '1914'
+  original_language: en
+  identifier: Project Gutenberg ebook 11352
+  url: https://www.gutenberg.org/cache/epub/11352/pg11352-images.html
+  access_date: '2026-07-17'
+  locator: Contents; chapters I, II, and V
+- id: SRC-003
+  author: Norman Angell
+  title: 'The Great Illusion: A Study of the Relation of Military Power to National Advantage'
+  date: '1911'
+  original_language: en
+  identifier: Project Gutenberg ebook 38535
+  url: https://www.gutenberg.org/files/38535/38535-h/38535-h.htm
+  access_date: '2026-07-17'
+  locator: Part I, chapters II-V; especially pp. 28-67 in the digitized edition
+- id: SRC-004
+  author: Ladislaus Count von Szögyény-Marich
+  title: 'The Blank Check: Report to Leopold Count von Berchtold'
+  date: '1914-07-05'
+  original_language: de
+  identifier: GHDI document 800
+  url: https://germanhistorydocs.ghi-dc.org/sub_document.cfm?document_id=800
+  access_date: '2026-07-17'
+  locator: entire diplomatic report; source note cites Österreich-Ungarns Aussenpolitik, vol. 8
+- id: SRC-005
+  author: John Paul Newman
+  title: Black Hand
+  date: '2016-09-15'
+  original_language: en
+  identifier: 1914-1918-Online article 958374
+  url: https://encyclopedia.1914-1918-online.net/article/black-hand/
+  access_date: '2026-07-17'
+  locator: section 3, Sarajevo
+- id: SRC-006
+  author: Günther Kronenbitter
+  title: Alliance System 1914
+  date: '2019-08-15'
+  original_language: en
+  identifier: 1914-1918-Online article 955084
+  url: https://encyclopedia.1914-1918-online.net/article/alliance-system-1914/
+  access_date: '2026-07-17'
+  locator: sections on the Triple Alliance, Franco-Russian Alliance, and armaments races
+- id: SRC-007
+  author: Kathi Badertscher
+  title: Social Darwinism
+  date: '2020-11-17'
+  original_language: en
+  identifier: DOI 10.15463/ie1418.11484
+  url: https://encyclopedia.1914-1918-online.net/article/social-darwinism/
+  access_date: '2026-07-17'
+  locator: sections defining the movement and discussing its alleged contribution to war
+- id: SRC-008
+  author: Helmuth von Moltke the Younger
+  title: 'The Army Intervenes in the Crisis: Memorandum to Theobald von Bethmann Hollweg'
+  date: '1914-07-29'
+  original_language: de
+  identifier: GHDI document 802
+  url: https://ghdi.ghi-dc.org/sub_document.cfm?document_id=802&language=german
+  access_date: '2026-07-17'
+  locator: pp. 1-2, memorandum 'Zur Beurteilung der politischen Lage'
+- id: SRC-010
+  author: Antonio Salandra
+  title: Speech on Italian foreign policy
+  date: '1914-10-18'
+  original_language: it
+  identifier: null
+  url: https://it.wikisource.org/wiki/Chi_l%27ha_detto%3F/Parte_seconda/80b
+  access_date: '2026-07-17'
+  locator: paragraph beginning 'Il 18 ottobre 1914'; transcription of the concluding sentence
+- id: SRC-011
+  author: Oliver Stein
+  title: Pre-war Military Planning (Germany)
+  date: '2021-06-22'
+  original_language: en
+  identifier: DOI 10.15463/ie1418.11515
+  url: https://encyclopedia.1914-1918-online.net/article/pre-war-military-planning-germany/
+  access_date: '2026-07-17'
+  locator: sections 2-4 on Schlieffen's and Moltke's operational planning; conclusion on the historiographical dispute
+- id: SRC-013
+  author: German Foreign Office
+  title: The German White Book
+  date: 1914
+  original_language: de/en
+  identifier: 'Publisher: Liebheit & Thiesen'
+  url: https://wikispooks.com/w/images/0/09/German_White_Book_-_Russia.pdf
+  access_date: '2026-07-17'
+  locator: null
+- id: SRC-014
+  author: Walther Schuecking and Max Montgelas, eds.
+  title: Die Deutschen Dokumente zum Kriegsausbruch, vol. 5
+  date: 1922
+  original_language: de
+  identifier: 'Publisher: Deutsche Verlagsgesellschaft fuer Politik und Geschichte'
+  url: https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi:document-802
+  access_date: '2026-07-17'
+  locator: null
+- id: SRC-015
+  author: Austro-Hungarian Foreign Ministry
+  title: 'Austro-Hungarian Red Book: Diplomatic Documents Leading to the Outbreak of the European War'
+  date: 1915
+  original_language: fr/de
+  identifier: 'Publisher: Imperial and Royal Court and State Printing Office'
+  url: https://www.gwpda.org/1914.html
+  access_date: '2026-07-17'
+  locator: null
+- id: SRC-016
+  author: Nicholas II and Wilhelm II
+  title: The Willy-Nicky Telegrams
+  date: 1914
+  original_language: en
+  identifier: 'Publisher: World War I Document Archive'
+  url: https://www.gwpda.org/1914/willynilly.html
+  access_date: '2026-07-17'
+  locator: null
+- id: SRC-017
+  author: Helmuth von Moltke the Younger
+  title: An Appraisal of the Political Situation, 29 July 1914
+  date: 1914
+  original_language: de
+  identifier: 'GHDI document 802; Publisher: German History in Documents and Images'
+  url: https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/ghdi:document-802
+  access_date: '2026-07-17'
+  locator: null
+- id: SRC-018
+  author: United States Department of State
+  title: 'Papers Relating to the Foreign Relations of the United States, 1914, Supplement: The World War'
+  date: 1928
+  original_language: en
+  identifier: 'FRUS 1914 Supplement; Publisher: Government Printing Office'
+  url: https://history.state.gov/historicaldocuments/frus1914Supp
+  access_date: '2026-07-17'
+  locator: null
+- id: SRC-019
+  author: John French
+  title: '1914'
+  date: 1919
+  original_language: en
+  identifier: 'Project Gutenberg 24538; Publisher: Constable'
+  url: https://www.gutenberg.org/files/24538/24538-h/24538-h.htm
+  access_date: '2026-07-17'
+  locator: null
+- id: SRC-020
+  author: The Manchester Guardian
+  title: Leading article, 30 July 1914
+  date: '1914-07-30'
+  original_language: en
+  identifier: 'Publisher: The Manchester Guardian'
+  url: null
+  access_date: null
+  locator: Issue identified; exact page image still required.
+- id: SRC-021
+  author: The National Archives (UK)
+  title: 'Cabinet and its committees: research guide'
+  date: null
+  original_language: en
+  identifier: 'TNA research guide; Publisher: The National Archives'
+  url: https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/cabinet-and-committees/
+  access_date: '2026-07-17'
+  locator: null
+- id: SRC-022
+  author: Annika Mombauer, ed.
+  title: 'The Origins of the First World War: Diplomatic and Military Documents'
+  date: 2026
+  original_language: en
+  identifier: 'DOI 10.7765/9781526185945.00014; Publisher: Manchester University Press'
+  url: https://doi.org/10.7765/9781526185945.00014
+  access_date: '2026-07-17'
+  locator: null
+- id: SRC-301
+  author: Great Britain, Foreign Office
+  title: Correspondence Respecting the European Crisis
+  date: 1914
+  original_language: en
+  identifier: 'UK Parliamentary Paper Cd. 7467; Edition: Miscellaneous No. 6 (1914), Cd. 7467; Publisher: His Majesty''s Stationery Office'
+  url: https://www.gwpda.org/gooch/firstpps.htm
+  access_date: '2026-07-17'
+  locator: Official British diplomatic papers; individual records cited by document number.
+- id: SRC-302
+  author: Belgium, Ministère des Affaires étrangères
+  title: Correspondance diplomatique relative à la guerre de 1914
+  date: 1914
+  original_language: fr
+  identifier: 'Belgian Grey Book I; Edition: Livre gris belge; Publisher: Berger-Levrault'
+  url: https://www.gwpda.org/papers/belgrey.html
+  access_date: '2026-07-17'
+  locator: Official Belgian diplomatic collection; German note is document 20.
+- id: SRC-303
+  author: Wilhelm II
+  title: Ereignisse und Gestalten aus den Jahren 1878–1918
+  date: 1922
+  original_language: de
+  identifier: 'Internet Archive ereignisseundge00will; Edition: first edition; Publisher: K. F. Koehler'
+  url: https://archive.org/details/ereignisseundge00will
+  access_date: '2026-07-17'
+  locator: Postwar memoir, used cautiously for the 1 August exchange with Moltke.
+- id: SRC-304
+  author: Hugh Gibson
+  title: A Journal from Our Legation in Belgium
+  date: 1917
+  original_language: en
+  identifier: 'Internet Archive diplomaticdiaryb00gibsiala; Edition: first edition; Publisher: Doubleday, Page & Company'
+  url: https://archive.org/details/diplomaticdiaryb00gibsiala
+  access_date: '2026-07-17'
+  locator: Contemporary diary subsequently published; dated entries supply exact locators.
+- id: SRC-305
+  author: W. E. Goschen
+  title: Despatch Respecting the Rupture of Diplomatic Relations with the German Government
+  date: 1914
+  original_language: en
+  identifier: 'UK Parliamentary Paper Cd. 7445; Edition: Miscellaneous No. 8 (1914), Cd. 7445; Publisher: His Majesty''s Stationery Office'
+  url: https://archive.org/details/truestoryofscrap00gosc
+  access_date: '2026-07-17'
+  locator: Goschen's 8 August report of his 4 August interview with Bethmann Hollweg.
+- id: SRC-306
+  author: Great Britain, Parliament, House of Commons
+  title: Statement by Sir Edward Grey
+  date: 1914-08-03
+  original_language: en
+  identifier: 'HC Deb 3 August 1914 vol. 65 cols. 1809–1832; Edition: Hansard, fifth series; Publisher: His Majesty''s Stationery Office'
+  url: https://api.parliament.uk/historic-hansard/commons/1914/aug/03/statement-by-sir-edward-grey.
+  access_date: '2026-07-17'
+  locator: Official parliamentary report of Grey's principal intervention speech.
+- id: SRC-307
+  author: Great Britain, Parliament, House of Commons
+  title: Germany and Belgium
+  date: 1914-08-03
+  original_language: en
+  identifier: 'HC Deb 3 August 1914 vol. 65 cols. 1833–1848; Edition: Hansard, fifth series; Publisher: His Majesty''s Stationery Office'
+  url: https://api.parliament.uk/historic-hansard/commons/1914/aug/03/germany-and-belgium
+  access_date: '2026-07-17'
+  locator: Official report of the evening sitting, including the Belgian note and reply.
+- id: SRC-308
+  author: France, Ministère des Affaires étrangères
+  title: 'Documents diplomatiques: la guerre européenne'
+  date: 1914
+  original_language: fr
+  identifier: 'French Yellow Book, document 147; Edition: Livre jaune français; Publisher: Imprimerie nationale'
+  url: https://archive.org/details/frenchyellowboo00fran
+  access_date: '2026-07-17'
+  locator: Official French publication containing Schoen's declaration of war, delivered 3 August at 6:45 p.m.
+- id: SRC-309
+  author: United States, Department of State
+  title: Declarations of War
+  date: 1919
+  original_language: en
+  identifier: 'Internet Archive declarationsofwa00unit; Edition: Confidential Document No. 111; Publisher: Government Printing Office'
+  url: https://archive.org/details/declarationsofwa00unit
+  access_date: '2026-07-17'
+  locator: Official compilation reproducing ultimata and declarations, with source-document references.
+- id: SRC-401
+  author: Karl Max, Prince Lichnowsky
+  title: Meine Londoner Mission 1912–1914
+  date: 1918
+  original_language: de
+  identifier: World War I Document Archive transcription
+  url: https://www.gwpda.org/1914m/lichnowy.html
+  access_date: '2026-07-17'
+  locator: Retrospective memoir; used for Lichnowsky's German report of Grey's 4 December 1912 warning, not as a verbatim English transcript.
+- id: SRC-402
+  author: Charles E. Callwell
+  title: 'Field-Marshal Sir Henry Wilson: His Life and Diaries'
+  date: 1927
+  original_language: en
+  identifier: 'Edition: volume I; Publisher: Cassell'
+  url: https://archive.org/details/in.ernet.dli.2015.209745
+  access_date: '2026-07-17'
+  locator: Posthumously edited biography/diaries; the Foch anecdote requires collation with the underlying January 1910 diary entry.
+- id: SRC-403
+  author: Anita Winkler
+  title: Meine ganze Libido gilt Österreich-Ungarn
+  date: null
+  original_language: de
+  identifier: 'Publisher: Schloß Schönbrunn Kultur- und Betriebsges.m.b.H.'
+  url: https://www.habsburger.net/de/kapitel/meine-ganze-libido-gilt-oesterreich-ungarn
+  access_date: '2026-07-17'
+  locator: Institutional historical essay; cites Peter Gay, Freud für Historiker (1994), pp. 130–131, but does not identify Freud's original letter.
+- id: SRC-404
+  author: Encyclopaedia Britannica
+  title: Francis Joseph
+  date: null
+  original_language: en
+  identifier: null
+  url: https://www.britannica.com/biography/Francis-Joseph
+  access_date: '2026-07-17'
+  locator: Authoritative reference chronology for birth, accession, and death.
+- id: SRC-405
+  author: Great Britain, Parliament, House of Commons
+  title: Steel and Pig-Iron Output (1910–1913)
+  date: '1914-06-26'
+  original_language: en
+  identifier: HC Deb 26 June 1914
+  url: https://hansard.parliament.uk/Commons/1914-06-26/debates/6e69b029-023b-409a-bf77-47b1ffb929cd/SteelAndPig-IronOutput%281910%E2%80%931913%29
+  access_date: '2026-07-17'
+  locator: Contemporary official comparative output table.
+- id: SRC-406
+  author: International Monetary Fund
+  title: 'Money Matters: Conflict and Cooperation (1871–1944)'
+  date: null
+  original_language: en
+  identifier: null
+  url: https://www.imf.org/external/np/exr/center/mm/eng/mm_cc_01.htm/mm_dt_01.htm
+  access_date: '2026-07-17'
+  locator: Institutional overview of the classical international gold standard.
+- id: SRC-407
+  author: Martin Lloyd
+  title: 'The Passport: The History of Man''s Most Travelled Document'
+  date: 2003
+  original_language: en
+  identifier: 'ISBN 9780750929646; Publisher: Sutton'
+  url: https://search.worldcat.org/title/51068203
+  access_date: '2026-07-17'
+  locator: Historical survey used for the qualified account of relaxed, not universal, pre-1914 European passport controls.
+- id: SRC-408
+  author: Winston S. Churchill
+  title: The World Crisis, 1911–1918
+  date: 1923
+  original_language: en
+  identifier: 'Project Gutenberg ebook 59794; Edition: volume I; Publisher: Charles Scribner''s Sons'
+  url: https://www.gutenberg.org/cache/epub/59794/pg59794-images.html
+  access_date: '2026-07-17'
+  locator: Retrospective participant account; checked against Admiralty chronology when assessing personal credit for fleet orders.
+- id: SRC-409
+  author: Schloß Schönbrunn Kultur- und Betriebsges.m.b.H.
+  title: The war takes over the city
+  date: 2014
+  original_language: en
+  identifier: null
+  url: https://ww1.habsburger.net/en/chapters/war-takes-over-city
+  access_date: '2026-07-17'
+  locator: Austrian institutional history documenting the 'Serbien muss sterbien' slogan and linking to a 1914 propaganda-postcard artifact.
+- id: SRC-410
+  author: Georg Alexander von Müller
+  title: Regierte der Kaiser? Kriegstagebücher, Aufzeichnungen und Briefe des Chefs des Marine-Kabinetts Admiral Georg Alexander von Müller, 1914–1918
+  date: 1959
+  original_language: de
+  identifier: 'Editor: Walter Görlitz; Publisher: Musterschmidt'
+  url: https://search.worldcat.org/title/1710554
+  access_date: '2026-07-17'
+  locator: Diary tradition behind the 8 December 1912 Moltke attribution; textual scholarship questions whether 'the sooner the better' was added later.
+- id: SRC-411
+  author: Tamara Scheer
+  title: Islam in Austria-Hungary
+  date: '2019-02-11'
+  original_language: en
+  identifier: DOI 10.15463/ie1418.11337
+  url: https://encyclopedia.1914-1918-online.net/article/islam-in-austria-hungary/
+  access_date: '2026-07-17'
+  locator: Specialist overview of Habsburg administration and Muslim institutions in Bosnia-Herzegovina; used alongside broader Balkan scholarship.
+- id: SRC-412
+  author: Thomas R. Eberle
+  title: Press/Journalism (Germany)
+  date: '2015-01-08'
+  original_language: en
+  identifier: 1914-1918-Online article
+  url: https://encyclopedia.1914-1918-online.net/article/pressjournalism-germany/
+  access_date: '2026-07-17'
+  locator: Specialist account of the German press and the false Berliner Lokal-Anzeiger mobilization report.
+- id: SRC-413
+  author: H. H. Asquith and John Morley
+  title: Contemporary accounts of the British cabinet crisis, 1–4 August 1914
+  date: 1914
+  original_language: en
+  identifier: null
+  url: https://www.dbnl.org/tekst/_gid001192901_01/_gid001192901_01_0065.php
+  access_date: '2026-07-17'
+  locator: Source trail to Asquith's 1 August letter to Venetia Stanley and Morley's Memorandum on Resignation; used for cabinet division, not a formal vote tally.
+- id: SRC-414
+  author: Christopher Clark
+  title: 'The Sleepwalkers: How Europe Went to War in 1914'
+  date: 2012
+  original_language: en
+  identifier: 'ISBN 9780713999426; Publisher: Allen Lane'
+  url: https://search.worldcat.org/title/794136319
+  access_date: '2026-07-17'
+  locator: Leading scholarly synthesis used for a stable English rendering and attribution of Wilhelm II's marginal annotation; underlying original was German.
+- id: SRC-415
+  author: Ludwig Bittner et al., eds.
+  title: Österreich-Ungarns Aussenpolitik von der Bosnischen Krise 1908 bis zum Kriegsausbruch 1914
+  date: 1930
+  original_language: de
+  identifier: 'ÖUA VIII, document 9984; Edition: Band VIII; Publisher: Österreichischer Bundesverlag'
+  url: null
+  access_date: null
+  locator: document 9984, pp. 250–252; Publishes the 2 July 1914 imperial Handschreiben from the surviving Vienna file copy and draft; the accompanying Matscheko memorandum is a distinct annex. Bibliographic and textual details supplied during editorial source review.
+- id: SRC-416
+  author: Karl Kautsky, Max Montgelas, and Walther Schücking, eds.
+  title: Die Deutschen Dokumente zum Kriegsausbruch 1914
+  date: 1919
+  original_language: de
+  identifier: 'DDK I, documents 13 and 157; Edition: Band I'
+  url: https://upload.wikimedia.org/wikipedia/commons/7/75/California_Digital_Library_%28IA_diedeutschendoku01germ%29.pdf
+  access_date: '2026-07-17'
+  locator: document 13; document 157, pp. 169–171, especially p. 170; Document 13 corroborates the Vienna textual tradition for Franz Joseph's letter. Document 157 prints Lichnowsky's telegram no. 151 of 24 July 1914 with Wilhelm II's marginal annotations. Bibliographic and textual details supplied during editorial source review.
+- id: SRC-417
+  author: Belgian Ministry of Foreign Affairs, ed.
+  title: Documents diplomatiques belges, 1905–1914
+  date: 1913
+  original_language: fr
+  identifier: 'DDB IV, document 202; Edition: Vol. IV'
+  url: null
+  access_date: null
+  locator: document 202, Baron Eugène Beyens to Jules Davignon, 8 November 1913; Contemporaneous diplomatic report following Albert I's 5–6 November visit to Berlin; supports the encounter, German warnings of war with France, and the presentation of von Kluck. Bibliographic and textual details supplied during editorial source review.
+- id: SRC-418
+  author: Eugène Beyens
+  title: Deux années à Berlin, 1912–1914
+  date: 1919
+  original_language: fr
+  identifier: 'Edition: Vol. II; Publisher: Plon-Nourrit'
+  url: null
+  access_date: null
+  locator: pp. 38–43; Postwar memoir account of the November 1913 dinner; supplies the explicit 'marcher sur Paris' recollection. Use with its retrospective character disclosed. Bibliographic and textual details supplied during editorial source review.
+- id: SRC-419
+  author: John C. G. Röhl
+  title: The Kaiser's Last Norwegian Cruise
+  date: null
+  original_language: en
+  identifier: 'Cambridge Core chapter D24F4FC3CA07534BCE8270A99806B68E; Publisher: Cambridge University Press; Container: Wilhelm II'
+  url: https://www.cambridge.org/core/books/abs/wilhelm-ii/kaisers-last-norwegian-cruise/D24F4FC3CA07534BCE8270A99806B68E
+  access_date: '2026-07-17'
+  locator: chapter 'The Kaiser's Last Norwegian Cruise'; Independent scholarly discussion of Lichnowsky's 24 July telegram and Wilhelm II's marginal response that Balkan peoples were 'simply not' Kulturvölker.
+- id: SRC-420
+  author: G. P. Gooch and Harold Temperley, eds.
+  title: British Documents on the Origins of the War, 1898–1914
+  date: 1926
+  original_language: en
+  identifier: 'BD XI, documents 293, 424, and 426; TNA FO 371/2159, paper 34734; Edition: Vol. XI, The Outbreak of War: Foreign Office Documents, June 28th–August 4th, 1914; Publisher: HMSO'
+  url: https://archive.org/details/in.ernet.dli.2015.172863
+  access_date: '2026-07-17'
+  locator: document 293, pp. 185–186; documents 424 and 426, including p. 253; Document 293 prints Goschen's telegram and Eyre Crowe's minute. Documents 424 and 426 establish Nicolson's 1 August meeting with Cambon and Grey's preceding answer, but do not contain Cambon's exclamation. The working Crowe archive reference is TNA FO 371/2159/34734.
+- id: SRC-421
+  author: Edward Goschen
+  title: 'The Diary of Edward Goschen, 1900–1914: Introduction'
+  date: null
+  original_language: en
+  identifier: 'Cambridge Core S0068690500002233; Publisher: Cambridge University Press'
+  url: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D674B65FC3A3AD3D8C5B0BC9AF2A31CE/S0068690500002233a.pdf/introduction.pdf
+  access_date: '2026-07-17'
+  locator: introduction, citation to Goschen to Grey, 29 July 1914, BD XI, no. 293; Independent scholarly-edition corroboration of the identity of Goschen's telegram.
+- id: SRC-422
+  author: Auswärtiges Amt, ed.; Karl Kautsky, compiler; Max Montgelas and Walther Schücking, eds.
+  title: Die Deutschen Dokumente zum Kriegsausbruch 1914
+  date: 1921
+  original_language: de
+  identifier: 'DD II, documents 368 and 456; Edition: 2nd ed., vol. II; Publisher: Deutsche Verlagsgesellschaft für Politik und Geschichte'
+  url: https://archive.org/download/diedeutschendoku02germ/diedeutschendoku02germ.pdf
+  access_date: '2026-07-17'
+  locator: document 368, pp. 86–89; document 456, pp. 175–180, quotation at p. 178; Document 368 prints Lichnowsky's 29 July telegram with Wilhelm II's annotations. Document 456 prints the official protocol of the Royal Prussian State Ministry meeting of 30 July from a copy supplied by that ministry.
+- id: SRC-423
+  author: Karl Kautsky
+  title: England
+  date: 1919
+  original_language: de
+  identifier: 'Container: Wie der Weltkrieg entstand'
+  url: https://www.marxists.org/deutsch/archiv/kautsky/1919/krieg/14-england.html
+  access_date: '2026-07-17'
+  locator: chapter 14, 'England'; Contemporary published discussion reproducing and contextualizing Wilhelm's reaction to Grey's warning.
+- id: SRC-424
+  author: Reinhold Zilch, ed.
+  title: Die Protokolle des Preußischen Staatsministeriums 1817–1934/38
+  date: 1999
+  original_language: de
+  identifier: 'Regest 113/1914; Edition: Acta Borussica, new series, vol. 10: 14. Juli 1909 bis 11. November 1918'
+  url: https://edoc.bbaw.de/files/405/258KAutjceXA.pdf
+  access_date: '2026-07-17'
+  locator: 'regest 113/1914, p. 114; Supplies archival provenance for the 30 July protocol: GStAPK I. HA, Rep. 90a, B III 2b Nr. 6, vol. 163, fols. 124–127v, enclosure fols. 128–129v, microfiche 971; parallel copies in Rep. 90 Nr. 2428 and Rep. 92 Nachlass Heinrichs Nr. 1.'
+- id: SRC-425
+  author: Michael Epkenhans
+  title: Der Erste Weltkrieg – Jahrestagsgedenken, neue Forschungen und Debatten
+  date: 2015
+  original_language: de
+  identifier: 'Edition: 63 (2015); Container: Vierteljahrshefte für Zeitgeschichte'
+  url: https://www.ifz-muenchen.de/heftarchiv/2015_2.pdf
+  access_date: '2026-07-17'
+  locator: p. 166 and n. 97; Modern scholarly discussion quoting the decisive words and citing the Prussian State Ministry protocol.
+- id: SRC-426
+  author: Harold Nicolson
+  title: Portrait of a Diplomatist
+  date: 1930
+  original_language: en
+  identifier: 'Internet Archive portraitofdiplom0000nico; Publisher: Houghton Mifflin'
+  url: https://archive.org/details/portraitofdiplom0000nico
+  access_date: '2026-07-17'
+  locator: p. 304; British edition, Sir Arthur Nicolson, Bart., p. 419; Harold Nicolson's biography of his father supplies Arthur Nicolson's eyewitness account and Cambon's French direct speech. The scene was published sixteen years later without an item-specific footnote; normalize the OCR's 'lacher' to 'lâcher'.
+- id: SRC-427
+  author: Stephen J. Valone
+  title: 'There Must Be Some Misunderstanding: Sir Edward Grey''s Diplomacy of August 1, 1914'
+  date: 1988
+  original_language: en
+  identifier: 'JSTOR 175713; Edition: 27, no. 4; Container: Journal of British Studies'
+  url: https://www.jstor.org/stable/175713
+  access_date: '2026-07-17'
+  locator: pp. 405–424, especially p. 421 n. 67; Modern scholarly discussion quoting Nicolson and identifying the British-edition page for the Cambon scene.
+- id: SRC-428
+  author: Alfred von Tirpitz
+  title: Erinnerungen
+  date: 1919
+  original_language: de
+  identifier: 'Internet Archive erinnerunge00tirp; Publisher: Verlag von K. F. Koehler'
+  url: https://archive.org/details/erinnerunge00tirp
+  access_date: '2026-07-17'
+  locator: pp. 240–241; related France discussion later in the same chapter; Retrospective and justificatory memoir whose preface is dated April 1919. Supplies Tirpitz's account of the 1 August Federal Council exchange and his later interpretation of Foreign Office legalism.
+- id: SRC-429
+  author: Alfred von Tirpitz
+  title: My Memoirs
+  date: 1919
+  original_language: en
+  identifier: 'Internet Archive cu31924026407969; Edition: Vol. I, authorized translation; Publisher: Dodd, Mead and Company'
+  url: https://archive.org/details/cu31924026407969
+  access_date: '2026-07-17'
+  locator: pp. 363–365; residence meeting concerning France at pp. 366–367; Authorized contemporary translation of Tirpitz's memoir; corroborates the German passage and distinguishes the Russian declaration exchange from the later meeting about France.
+- id: SRC-430
+  author: Michael Epkenhans
+  title: Tirpitz, Alfred von
+  date: null
+  original_language: en
+  identifier: '1914–1918-Online article; Container: 1914–1918-Online'
+  url: https://encyclopedia.1914-1918-online.net/article/tirpitz-alfred-von/?format=pdf
+  access_date: '2026-07-17'
+  locator: section discussing Tirpitz's postwar memoir and political self-justification; Modern scholarly profile characterizing the 1919 memoir as justificatory and strongly critical of Germany's former leadership.
+- id: SRC-431
+  author: Helmuth von Moltke the Younger
+  title: Erinnerungen, Briefe, Dokumente 1877–1916
+  date: 1922
+  original_language: de
+  identifier: 'Internet Archive erinnerungenbrie00byumolt; Edition: 2nd ed.; Editor: Eliza von Moltke; Publisher: Der Kommende Tag'
+  url: https://archive.org/stream/erinnerungenbrie00byumolt/erinnerungenbrie00byumolt_djvu.txt
+  access_date: '2026-07-17'
+  locator: pp. 18–22, especially p. 19; Primary memoir account of the 1 August palace confrontation. Records Wilhelm's rebuke, 'Ihr Onkel würde mir eine andere Antwort gegeben haben!', but nothing about George, Nicky, or Queen Victoria.
+- id: SRC-432
+  author: Walter L. Arnstein
+  title: 'Britain: Yesterday and Today'
+  date: 1966
+  original_language: en
+  identifier: 'Publisher: D. C. Heath'
+  url: null
+  access_date: null
+  locator: p. 237; Earliest securely located secondary attribution of the disputed English anecdote; its underlying source note has not been inspected.
+- id: SRC-433
+  author: Clarence B. Carson
+  title: 'The Rise and Fall of England: 14. The Decline of England'
+  date: '1969-04-01'
+  original_language: en
+  identifier: 'Container: The Freeman'
+  url: https://fee.org/articles/the-rise-and-fall-of-england-14-the-decline-of-england/
+  access_date: '2026-07-17'
+  locator: quotation and note 1, citing Arnstein, p. 237; Reproduces the two-sentence anecdote consecutively and explicitly cites Arnstein; establishes the secondary transmission, not Wilhelm's authorship.
+- id: SRC-434
+  author: Emil Ludwig
+  title: Kaiser Wilhelm II
+  date: 1927
+  original_language: en
+  identifier: Internet Archive dli.ministry.03453
+  url: https://archive.org/stream/dli.ministry.03453/8808.E13795_Kaiser_Wilhelm_II_djvu.txt
+  access_date: '2026-07-17'
+  locator: 'discussion of 1 August at pp. 393–399 of the British edition; alleged p. 453 citation checked; Negative source check: the searchable editions do not contain ''played me false,'' ''Georgie,'' or the grandmother sentence. Ludwig narrates the Moltke confrontation but not this anecdote.'
+- id: SRC-435
+  author: Herman Bernstein, ed.
+  title: The Willy–Nicky Correspondence
+  date: 1918
+  original_language: en
+  identifier: Internet Archive willynickycorres00bern
+  url: https://dn790006.ca.archive.org/0/items/willynickycorres00bern/willynickycorres00bern.pdf
+  access_date: '2026-07-17'
+  locator: correspondence throughout; signatures 'Willy' and 'Nicky'; Confirms the royal nickname convention but does not contain or authenticate Q-030.
+- id: SRC-436
+  author: James Brown Scott, ed.
+  title: Diplomatic Documents Relating to the Outbreak of the European War
+  date: 1916
+  original_language: en
+  identifier: 'Internet Archive cu31924017538715; Edition: Vol. II; Publisher: Oxford University Press, American Branch'
+  url: https://upload.wikimedia.org/wikipedia/commons/d/d7/Diplomatic_documents_relating_to_the_outbreak_of_the_European_war_%28IA_cu31924017538715%29.pdf
+  access_date: '2026-07-18'
+  locator: p. 822, Lichnowsky to the imperial chancellor, 1 August 1914; Carnegie Endowment documentary compilation reproducing the official English translation from the German White Book appendix. The telegram is followed by Wilhelm II's expanded reading of it as an offer of French neutrality guaranteed by Great Britain.

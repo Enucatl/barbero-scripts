@@ -5,15 +5,23 @@ Keep its heading, chapter coverage comment, and text. Add exactly
 `<!-- naturalness-reviewed: {chapter_id} -->` before the heading.
 
 Rewrite translated syntax, rhythm, clause boundaries, and unclear referents as needed for genuinely
-natural spoken English. Prefer contractions, direct phrasing, idiomatic verbs, shorter oral clauses,
-and historical present as the default narrative tense. Keep the past for events or conditions that
-precede the chapter's current narrative moment, and use future or conditional forms only for later
-events, expectations, counterfactuals, or genuine forward references. Do not drift into past tense
-merely because the Italian or faithful English does. You may be moderately assertive at the sentence
-level, but preserve paragraph and content order, every substantive detail, meaningful
+natural spoken English. Make the narration simple, direct, and engaging to hear: prefer familiar
+words, contractions, active constructions, idiomatic verbs, concrete subjects, shorter oral
+clauses, clean emphasis, and a confident conversational cadence. Break up translated sentence
+architecture that sounds formal, written, overloaded, or indirect when the same content can be
+spoken more clearly. Keep Barbero's wit, momentum, audience contact, and rhetorical turns alive
+without adding flourish or manufacturing excitement. Do not perform a systematic tense rewrite in
+this pass; tense normalization belongs exclusively to the later chapter-tense review. You may be
+moderately assertive at the sentence level, but preserve paragraph and content order, every
+substantive detail, meaningful
 repetition, rhetorical character, markers, and exact authoritative quotation wording. Do not add
 transitions, judgments, review commentary, factual qualifications, or new corrections; do not
 restructure a passage or edit another chapter.
+
+Adapt Barbero's deictic references to the original lecture series for the podcast format: replace
+“yesterday's conference”, or a standalone “yesterday” referring to that lecture, with “the previous
+episode”; replace “tomorrow's conference”, or an elliptical “tomorrow's”, with “the next episode.”
+Preserve “yesterday” and “tomorrow” when they refer to time within the historical narrative.
 
 Approved factual corrections and research-authorized replacements must sound like ordinary parts
 of the narration. State the more accurate fact directly and naturally. Never introduce or retain a

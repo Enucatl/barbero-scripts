@@ -1,0 +1,476 @@
+- id: C-001
+  claim: The international conditions of 1914 differed substantially from those at the time of the lecture.
+  transcript:
+  - U-00014–U-00022
+  centrality: supporting
+  supporting_sources:
+  - source_id: SRC-006
+    locator: sections on the alliance system and prewar alignments
+    note: Documents the distinctive alliance and strategic structure of 1914.
+  - source_id: SRC-406
+    locator: Money Matters, 'Conflict and Cooperation (1871–1944)'
+    note: Documents the pre-1914 monetary and financial order.
+  conflicting_sources: []
+  status: resolved
+  research_note: 'Evidence tier 3: responsible as broad framing only if the script names dimensions—alliances, empires, monetary order, nuclear deterrence, and international institutions—rather than asserting an unbounded difference.'
+- id: C-002
+  claim: The First World War's immediate crisis began with the Sarajevo assassination, carried out by Serbian terrorists with links in Serbia.
+  transcript:
+  - U-00023–U-00033
+  - U-00069–U-00073
+  centrality: central
+  supporting_sources:
+  - SRC-005
+  conflicting_sources:
+  - SRC-005
+  status: resolved
+  research_note: SRC-005 supports the assassins' links to Serbian Black Hand networks while also distinguishing those military-intelligence and nonstate connections from proof that the Serbian government ordered the attack. Preserve the Sarajevo catalyst and qualify state responsibility.
+- id: C-003
+  claim: Francis Joseph was 84, had reigned for 66 years, and died in December 1916.
+  transcript:
+  - U-00053–U-00065
+  centrality: sampled-incidental
+  supporting_sources:
+  - source_id: SRC-404
+    locator: 'Franz Joseph I, biographical summary: born 18 August 1830; emperor 2 December 1848–21 November 1916'
+    note: He was 83 at Sarajevo and turned 84 in August 1914; he had reigned about 65 years 7 months at Sarajevo, reaching 66 years in December 1914; he died 21 November, not December, 1916.
+  conflicting_sources: []
+  status: resolved
+  research_note: Barbero's age and rounded reign length fit later summer 1914, but the death month is wrong.
+- id: C-004
+  claim: Bosnia's major communities differed in their attitudes toward Habsburg rule.
+  transcript:
+  - U-00075–U-00096
+  centrality: supporting
+  supporting_sources:
+  - source_id: SRC-411
+    locator: sections on Habsburg administration, Muslim institutions, and wartime loyalties
+    note: Supports differentiated political relationships to Habsburg rule while emphasizing internal diversity.
+  conflicting_sources: []
+  status: resolved
+  research_note: 'Evidence tier 3: the substance is supported, but adaptation must describe political tendencies and institutions, not homogeneous ethnic attitudes.'
+- id: C-005
+  claim: Investigations established support or complicity in Serbia for the Sarajevo assassination.
+  transcript:
+  - U-00097–U-00108
+  centrality: central
+  supporting_sources:
+  - SRC-005
+  conflicting_sources:
+  - SRC-005
+  status: resolved
+  research_note: SRC-005 supports assistance from Serbian Black Hand and military-intelligence networks but not the lecture's implication of established Serbian governmental complicity. Distinguish network support from a state order.
+- id: C-006
+  claim: Russia's support for Serbia rested partly on shared Slavic and Orthodox identity.
+  transcript:
+  - U-00124–U-00133
+  centrality: supporting
+  supporting_sources:
+  - SRC-006
+  conflicting_sources: []
+  status: resolved
+  research_note: SRC-006 supports Slavic and Orthodox affinity as part of the relationship, alongside alliance, strategic, and great-power considerations. Preserve the identity factor without making it the sole motive.
+- id: C-007
+  claim: Europe in 1914 was a multipolar system rather than a pair of rigid blocs.
+  transcript:
+  - U-00134–U-00150
+  centrality: central
+  supporting_sources:
+  - SRC-006
+  conflicting_sources: []
+  status: resolved
+  research_note: SRC-006 supports a flexible alliance system with major commitments and uncertain participation, including Italy's position, rather than two mechanically unified blocs. Preserve the contrast but do not understate the binding alignments already in place.
+- id: C-008
+  claim: Germany had the world's strongest army and had surpassed Britain as an industrial power by 1914.
+  transcript:
+  - U-00163–U-00171
+  centrality: supporting
+  supporting_sources:
+  - source_id: SRC-405
+    locator: House of Commons answer, 26 June 1914, table 'Output of steel', 1913 row
+    note: Germany and Luxembourg produced 18.645 million tons of steel in 1913 against 7.780 million in the United Kingdom.
+  conflicting_sources: []
+  status: resolved
+  research_note: 'Evidence tier 2 for steel and tier 3 for comparative power. Split the compound claim: Germany possessed Europe''s leading continental army and exceeded Britain in steel/some manufacturing aggregates; do not turn that into an unqualified all-domain ranking.'
+- id: C-009
+  claim: The Triple Alliance included Italy, but Italy initially stayed out of the 1914 war.
+  transcript:
+  - U-00172–U-00180
+  centrality: supporting
+  supporting_sources:
+  - SRC-006
+  conflicting_sources: []
+  status: resolved
+  research_note: SRC-006 confirms Italy's Triple Alliance membership and its initial neutrality. Preserve both facts; avoid implying that membership automatically required participation in Austria-Hungary's offensive action.
+- id: C-010
+  claim: Germany gave Austria-Hungary a blank cheque on 5 July 1914 while expecting Russia not to intervene.
+  transcript:
+  - U-00203–U-00224
+  centrality: central
+  supporting_sources:
+  - SRC-004
+  conflicting_sources: []
+  status: resolved
+  research_note: SRC-004 establishes the 5 July assurance of German support even if action against Serbia produced war with Russia. Preserve the blank cheque and its timing; frame confidence in Russian nonintervention as a German wager rather than a condition limiting the assurance.
+- id: C-011
+  claim: Wilhelm committed Germany before consulting parliament and then consulted the chancellor, Moltke, and Krupp.
+  transcript:
+  - U-00224–U-00237
+  centrality: supporting
+  supporting_sources:
+  - SRC-004
+  conflicting_sources: []
+  status: resolved
+  research_note: Evidence tier 2 for the blank cheque, tier 3 for consultation chronology. Preserve that Wilhelm acted without prior parliamentary approval (which was not constitutionally required); do not repeat the unsupported neat sequence involving Moltke and Krupp.
+- id: C-012
+  claim: France and Russia had a common strategic interest in alliance because Germany bordered both.
+  transcript:
+  - U-00246–U-00272
+  centrality: supporting
+  supporting_sources:
+  - SRC-006
+  conflicting_sources: []
+  status: resolved
+  research_note: SRC-006 supports Germany's position between France and Russia as a central strategic motive for their alliance, alongside diplomatic, financial, and military considerations. Preserve geography as a concise explanation, not the whole cause.
+- id: C-013
+  claim: Prewar Europe displayed substantial economic interdependence and largely passport-free travel.
+  transcript:
+  - U-00275–U-00292
+  centrality: supporting
+  supporting_sources:
+  - source_id: SRC-003
+    locator: Part I, chapters II–V
+    note: Contemporary argument built around financial and commercial interdependence.
+  - source_id: SRC-406
+    locator: Money Matters, 'Conflict and Cooperation (1871–1944)', section on the classical gold standard
+    note: The IMF describes the gold-standard system, fixed exchange rates, London-centered finance, and exceptional international integration before 1914.
+  - source_id: SRC-407
+    locator: Passport, historical overview, section on the pre-1914 European regime
+    note: The overview documents widespread relaxation of passport controls in Europe before the war, while not implying universal legal freedom of movement.
+  conflicting_sources: []
+  status: resolved
+  research_note: 'Resolve only in qualified form: high integration and widespread relaxation of passport controls, with important geographic, legal, class, and migration-policy exceptions.'
+- id: C-014
+  claim: A simplified social-Darwinist view of competition shaped European elite thinking about states and survival.
+  transcript:
+  - U-00299–U-00319
+  centrality: central
+  supporting_sources:
+  - SRC-007
+  - SRC-002
+  conflicting_sources:
+  - SRC-007
+  status: resolved
+  research_note: SRC-002 supplies representative militarist social-Darwinist rhetoric, while SRC-007 cautions against treating it as a uniform or direct cause of war. Preserve it as an influential current in some elite discourse, not a belief shared by every governing class.
+- id: C-015
+  claim: Norman Angell's The Great Illusion circulated among political and military leaders before the war.
+  transcript:
+  - U-00340–U-00357
+  centrality: sampled-incidental
+  supporting_sources:
+  - SRC-003
+  conflicting_sources: []
+  status: resolved
+  research_note: 'Evidence tier 3: resolve the supported substance—an international bestseller influential in prewar public debate. Do not assert documented readership by unnamed political and military leaders without examples.'
+- id: C-016
+  claim: Grey described a Sarajevo-like escalation sequence to Lichnowsky in December 1912.
+  transcript:
+  - U-00361–U-00376
+  centrality: supporting
+  supporting_sources:
+  - source_id: SRC-401
+    locator: Meine Londoner Mission, chapter 'Vorgeschichte des Krieges', account dated 4 December 1912
+    note: Lichnowsky records Grey outlining Austria against Serbia, Russian movement into Galicia, German assistance, inevitable French participation, and foreseeable further consequences.
+  conflicting_sources: []
+  status: resolved
+  research_note: The forecast is established through Lichnowsky's retrospective German account; it is not a verbatim Grey transcript and Barbero compresses it.
+- id: C-017
+  claim: Reciprocal security measures drove the prewar arms race through a security dilemma.
+  transcript:
+  - U-00377–U-00408
+  centrality: central
+  supporting_sources:
+  - SRC-006
+  conflicting_sources: []
+  status: resolved
+  research_note: SRC-006 supports reciprocal armament and threat perception in the prewar alliance system. Preserve the security-dilemma interpretation as a mechanism, without presenting every armament decision as purely defensive.
+- id: C-018
+  claim: European general staffs had developed highly detailed operational plans for foreseeable wars.
+  transcript:
+  - U-00410–U-00435
+  centrality: central
+  supporting_sources:
+  - SRC-011
+  conflicting_sources: []
+  status: resolved
+  research_note: 'Resolved in qualified form for Germany: detailed planning existed, but current scholarship rejects a simple, unchanging straight line from Schlieffen''s plans to 1914 and debates their flexibility. The lecture''s all-powers generalization should be softened.'
+- id: C-019
+  claim: German military leaders believed Germany's relative position would worsen as Russia strengthened and Britain drew closer to Russia.
+  transcript:
+  - U-00442–U-00469
+  centrality: central
+  supporting_sources:
+  - SRC-006
+  - SRC-008
+  conflicting_sources: []
+  status: resolved
+  research_note: SRC-008 directly establishes Moltke's concern about Russian military growth and worsening German prospects; SRC-006 supplies the alliance context. Attribute preventive-war urgency to military leaders such as Moltke rather than to a single settled German government policy.
+- id: C-020
+  supporting_sources:
+  - source_id: SRC-015
+    locator: Austro-Hungarian note to Serbia, 23 July 1914, points 5-6; ministerial deliberations cited in Mombauer, doc. chapter pp. 110-154
+    note: Points 5-6 demanded Austro-Hungarian collaboration in suppression and judicial inquiry; deliberations envisaged demands Serbia could not fully accept.
+  conflicting_sources: []
+  status: resolved
+  claim: Austria-Hungary designed its ultimatum to Serbia to be unacceptable, including participation by Austrian officials in Serbian investigations.
+  transcript:
+  - U-00487–U-00507
+  centrality: central
+  research_note: Preserve, quoting the demands; say designed to be unacceptable rather than literally impossible.
+- id: C-021
+  claim: The British cabinet did not discuss foreign policy between the Sarajevo assassination and 24 July 1914.
+  transcript:
+  - U-00530–U-00538
+  centrality: supporting
+  supporting_sources:
+  - source_id: SRC-021
+    locator: Cabinet and its committees research guide, section on records before 1916
+    note: No formal Cabinet minutes were kept before December 1916.
+  conflicting_sources: []
+  status: resolved
+  research_note: 'Evidence tier 3: no formal minutes exist, so replace the categorical negative with the supported point that the crisis did not dominate collective cabinet deliberation until the ultimatum forced urgent engagement.'
+- id: C-022
+  supporting_sources:
+  - source_id: SRC-019
+    locator: 1914, chapter 1, pp. 8-9
+    note: French states that the general staffs had long conferred and had a mutual understanding, while arrangements remained imperfect.
+  conflicting_sources: []
+  status: resolved
+  claim: British and French general staffs had held consultations and prepared plans, but these did not bind the British cabinet or constitute an alliance.
+  transcript:
+  - U-00533–U-00536
+  centrality: supporting
+  research_note: Preserve with explicit caveat that staff conversations did not bind the Cabinet or constitute an alliance.
+- id: C-023
+  supporting_sources:
+  - source_id: SRC-015
+    locator: Austro-Hungarian ultimatum, 23 July, and Serbian reply, 25 July 1914, point-by-point texts
+    note: Serbia accepted many demands outright and qualified the intrusive participation demanded in points 5-6.
+  - source_id: SRC-018
+    locator: FRUS 1914 Supplement, document 194
+    note: Contemporary US diplomatic summary says Serbia granted everything except terms inconsistent with sovereignty.
+  conflicting_sources:
+  - source_id: SRC-015
+    locator: Austro-Hungarian official commentary on Serbian reply
+    note: Vienna characterized qualifications as evasions and the response as unsatisfactory.
+  status: resolved
+  claim: Serbia accepted almost all of Austria-Hungary's ultimatum while qualifying the clauses that intruded on Serbian sovereignty.
+  transcript:
+  - U-00588–U-00593
+  centrality: central
+  research_note: Say Serbia accepted most demands but qualified key sovereignty-invasive clauses; avoid the misleading shorthand accepted all but one.
+- id: C-024
+  claim: Churchill, on his own initiative, kept the fleet concentrated and moved it to Scapa Flow during the July crisis.
+  transcript:
+  - U-00599–U-00614
+  centrality: supporting
+  supporting_sources:
+  - source_id: SRC-408
+    locator: The World Crisis, vol. I, chapter 6, sections 'Sunday, July 26—The Fleet held together' and 'Passage of the Straits of Dover by the Fleet, July 30'
+    note: Churchill's memoir documents the decision to hold the fleet together and its movement to war stations.
+  conflicting_sources: []
+  status: resolved
+  research_note: Evidence tier 2 participant account plus institutional chronology. Preserve Churchill's major role, credit First Sea Lord Prince Louis in the operational order, and describe the staged move to war stations rather than an immediate solo order to Scapa Flow.
+- id: C-025
+  claim: German mobilization was minutely timetabled and involved 11,000 trains.
+  transcript:
+  - U-00631–U-00641
+  - U-00939–U-00958
+  centrality: supporting
+  supporting_sources:
+  - source_id: SRC-303
+    locator: Ereignisse und Gestalten, chapter 10, pp. 163–165
+    note: Wilhelm's memoir records Moltke's insistence that the deployment timetable could not simply be redirected.
+  conflicting_sources: []
+  status: resolved
+  research_note: Evidence tier 2 for detailed rail planning and tier 3 for the widely repeated 11,000-train estimate. Preserve the scale as approximately 11,000 trains, not a uniquely verified exact count.
+- id: C-026
+  supporting_sources:
+  - source_id: SRC-013
+    locator: German White Book, exhibits 10 and 24-25
+    note: German documents explicitly equated its own mobilization with war and warned Russia accordingly.
+  - source_id: SRC-022
+    locator: Documents from 1914, pp. 110-154, mobilization documents
+    note: Russian mobilization and German operational assumptions were not identical acts.
+  conflicting_sources: []
+  status: resolved
+  claim: Mobilization timetables created asymmetric pressure because Russia mobilized slowly while Germany treated mobilization as effectively initiating war.
+  transcript:
+  - U-00642–U-00679
+  centrality: central
+  research_note: 'Preserve with nuance: Russia''s slower concentration shaped incentives, but mobilization was not universally equivalent to a declaration of war.'
+- id: C-027
+  supporting_sources:
+  - source_id: SRC-014
+    locator: Die Deutschen Dokumente zum Kriegsausbruch, Wilhelm marginal note on Serbian reply, 28 July 1914
+    note: Wilhelm wrote that every reason for war fell away and proposed halt-in-Belgrade.
+  conflicting_sources: []
+  status: resolved
+  claim: Wilhelm II concluded that Serbia's reply removed the reason for war, but Austria-Hungary declared war the same day.
+  transcript:
+  - U-00680–U-00691
+  centrality: supporting
+  research_note: Preserve; distinguish Wilhelm's personal annotation from executed German policy and note Austria declared war the same day.
+- id: C-028
+  supporting_sources:
+  - source_id: SRC-016
+    locator: Telegram sequence, 29 July-1 August 1914
+    note: Nicholas and Wilhelm exchanged personal English telegrams.
+  conflicting_sources:
+  - source_id: SRC-016
+    locator: Genealogical premise implicit in correspondence
+    note: Nicholas II and George V were first cousins through the Danish royal family; Wilhelm II and George V were first cousins through Victoria; Nicholas and Wilhelm were not first cousins (their relationship was more distant and by marriage).
+  status: resolved
+  claim: Nicholas II, Wilhelm II, and George V were all first cousins and all grandchildren of Queen Victoria.
+  transcript:
+  - U-00714–U-00730
+  centrality: sampled-incidental
+  research_note: 'Correct Barbero: the three were cousins in a broad dynastic sense, but not all pairwise first cousins.'
+- id: C-029
+  supporting_sources:
+  - source_id: SRC-017
+    locator: Moltke memorandum, 29 July 1914; Schuecking/Montgelas vol. 5 p. 349
+    note: Moltke feared Russia could cast Germany as aggressor if Germany mobilized.
+  - source_id: SRC-022
+    locator: Documents from 1914, pp. 110-154, Bethmann Hollweg diplomatic instructions of 26-30 July
+    note: The documentary sequence treats Russian blame and British neutrality as explicit political concerns.
+  conflicting_sources: []
+  status: resolved
+  claim: German political leaders delayed mobilization to sustain a defensive public narrative and encourage British neutrality while military leaders pressed for speed.
+  transcript:
+  - U-00753–U-00781
+  centrality: central
+  research_note: 'Preserve: political timing sought a defensible public narrative and British neutrality, while military leaders pressed for speed.'
+- id: C-030
+  claim: German operational planning required passage through neutral Belgium.
+  transcript:
+  - U-00782–U-00812
+  centrality: central
+  supporting_sources:
+  - source_id: SRC-302
+    locator: Belgian Grey Book I, no. 20, German note of 2 August 1914
+    note: Germany formally demanded passage through Belgium as necessary self-defence.
+  - source_id: SRC-306
+    locator: HC Deb 3 August 1914 vol. 65 cols. 1820–1822
+    note: Grey reports Germany's refusal to guarantee Belgian neutrality because an answer would disclose its campaign plan.
+  conflicting_sources: []
+  status: resolved
+  research_note: The documentary evidence establishes operational intent; avoid treating military plans as physically immutable.
+- id: C-031
+  claim: Germany told Britain it might invade Belgium but promised eventual evacuation and conditional compensation.
+  transcript:
+  - U-00813–U-00835
+  centrality: central
+  supporting_sources:
+  - source_id: SRC-301
+    locator: Cd. 7467, no. 85, Goschen to Grey, 29 July 1914
+    note: Bethmann offered restoration of Belgian integrity after the war, conditional on Belgium not siding against Germany; Belgian operations depended on French action.
+  conflicting_sources: []
+  status: resolved
+  research_note: The 29 July British report is the controlling source.
+- id: C-032
+  claim: The German general staff planted a false mobilization report and pressed Austria-Hungary to mobilize.
+  transcript:
+  - U-00867–U-00877
+  centrality: supporting
+  supporting_sources:
+  - source_id: SRC-412
+    locator: section discussing the Berliner Lokal-Anzeiger false mobilization report of 30 July 1914
+    note: Verifies publication and official denial; does not establish General Staff authorship.
+  status: resolved
+  research_note: Evidence tier 2 for the false report, tier 3 for military pressure, and inadequate evidence for General Staff authorship. Split the claim and explicitly reject the planted-by-the-staff assertion as unproven.
+  conflicting_sources: []
+- id: C-033
+  claim: Grey remained in a minority in the British cabinet on 1 August despite implying he would resign.
+  transcript:
+  - U-00890–U-00915
+  centrality: central
+  supporting_sources:
+  - source_id: SRC-413
+    locator: Asquith to Venetia Stanley, 1 August 1914; Morley, 'Memorandum on Resignation, August 1914'
+    note: Supports deep cabinet division and threatened/resolved resignations, without a formal vote tally.
+  status: resolved
+  research_note: 'Evidence tier 3: preserve deep cabinet division and Grey''s position being insecure; avoid a precise majority count or verbatim resignation threat absent minutes.'
+  conflicting_sources: []
+- id: C-034
+  claim: Germany declared war on Russia after its ultimatum expired and ordered general mobilization the same day.
+  transcript:
+  - U-00916–U-00929
+  centrality: central
+  supporting_sources:
+  - source_id: SRC-309
+    locator: 'Declarations of War, pp. 19–21: German ultimatum to Russia, 31 July, and declaration, 1 August 1914'
+    note: The compilation reproduces the twelve-hour ultimatum and declaration following Russia's refusal.
+  conflicting_sources: []
+  status: resolved
+  research_note: Chronology is secure; exact local delivery/order times vary by document and should be sourced separately if retained.
+- id: C-035
+  claim: Germany's mobilization schedule could not readily be redirected from France toward Russia once train movements began.
+  transcript:
+  - U-00930–U-00958
+  centrality: central
+  supporting_sources:
+  - source_id: SRC-303
+    locator: Ereignisse und Gestalten, chapter 10, pp. 163–165
+    note: Wilhelm's memoir records Moltke insisting the deployment could no longer be changed without disorder.
+  conflicting_sources:
+  - source_id: SRC-303
+    locator: Ereignisse und Gestalten, chapter 10, pp. 163–165
+    note: The same interested memoir shows Wilhelm disputed impossibility; it is evidence of the argument, not proof of logistical impossibility.
+  status: resolved
+  research_note: The dramatic exchange is secure as memoir testimony; the stronger counterfactual operational claim remains debated.
+- id: C-036
+  claim: Germany's ultimatum to Belgium alleged an imminent French invasion and promised later evacuation if Belgium cooperated.
+  transcript:
+  - U-00960–U-00977
+  centrality: supporting
+  supporting_sources:
+  - source_id: SRC-302
+    locator: Belgian Grey Book I, no. 20, paragraphs 1–7
+    note: The note alleges French movement via Givet and Namur and promises evacuation, indemnification, and territorial integrity if Belgium adopts friendly neutrality.
+  conflicting_sources: []
+  status: resolved
+  research_note: The authoritative published text directly confirms the lecture's summary and its conditions.
+- id: C-037
+  claim: Germany's declaration of war on France relied on false reports of French aircraft attacks.
+  transcript:
+  - U-00978–U-00985
+  centrality: supporting
+  supporting_sources:
+  - source_id: SRC-308
+    locator: French Yellow Book, no. 147, Schoen to Viviani, 3 August 1914
+    note: The declaration explicitly alleges French aircraft attacks at Wesel, in the Eifel, and on railways near Karlsruhe and Nuremberg.
+  - source_id: SRC-309
+    locator: Declarations of War, pp. 15–16, declaration against France
+    note: Independent official compilation reproduces the same allegations and delivery time.
+  conflicting_sources: []
+  status: resolved
+  research_note: The declaration's dependence on the reports is primary-source secure; intentional-propaganda framing requires additional scholarship.
+- id: C-038
+  claim: Germany's invasion of Belgium enabled Grey to secure British authorization for an ultimatum and intervention.
+  transcript:
+  - U-00986–U-00998
+  centrality: central
+  supporting_sources:
+  - source_id: SRC-306
+    locator: HC Deb 3 August 1914 vol. 65 cols. 1809–1832
+    note: Grey publicly links British freedom of action to France, Channel security, and Belgian neutrality before invasion.
+  - source_id: SRC-307
+    locator: HC Deb 3 August 1914 vol. 65 cols. 1833–1848
+    note: The evening sitting records the German demand and Belgium's refusal; members debate intervention rather than granting a formal statutory authorization.
+  - source_id: SRC-305
+    locator: Cd. 7445, Goschen to Grey, 8 August 1914, pp. 3–6
+    note: Goschen reports delivery of Britain's 4 August demand and the rupture after Germany invaded Belgium.
+  conflicting_sources: []
+  status: resolved
+  research_note: Barbero's phrase 'authorization from the Commons' is constitutionally and procedurally misleading.

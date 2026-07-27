@@ -11,9 +11,11 @@ from .models import Episode
 from .render import (
     assemble_italian_script,
     assemble_naturalness_chapters,
+    assemble_tense_chapters,
     finalize_consistency,
     initialize_italian_review,
     initialize_naturalness_chapters,
+    initialize_tense_chapters,
     render_transcript,
     validate_episode,
 )
@@ -60,6 +62,10 @@ def parser() -> argparse.ArgumentParser:
         "assemble-naturalness", help="assemble reviewed naturalness chapters"
     )
     spoken.add_argument("episode_dir", type=Path)
+    tense = commands.add_parser("init-tense", help="split spoken English into tense review files")
+    tense.add_argument("episode_dir", type=Path)
+    tense_assembly = commands.add_parser("assemble-tense", help="assemble reviewed tense chapters")
+    tense_assembly.add_argument("episode_dir", type=Path)
     final = commands.add_parser(
         "finalize-consistency", help="accept the assembled script without broader rewriting"
     )
@@ -119,6 +125,17 @@ def main() -> None:
     if args.command == "assemble-naturalness":
         assemble_naturalness_chapters(args.episode_dir)
         print("Assembled script.spoken.en.md")
+        return
+    if args.command == "init-tense":
+        try:
+            initialize_tense_chapters(args.episode_dir)
+        except FileExistsError as error:
+            raise SystemExit(str(error)) from error
+        print("Created tense chapter files")
+        return
+    if args.command == "assemble-tense":
+        assemble_tense_chapters(args.episode_dir)
+        print("Assembled script.tense.en.md")
         return
     if args.command == "finalize-consistency":
         finalize_consistency(args.episode_dir)

@@ -6,7 +6,9 @@ from barbero_scripts.render import (
     _chapter_coverage,
     _validate_exact_coverage,
     assemble_italian_script,
+    assemble_tense_chapters,
     initialize_italian_review,
+    initialize_tense_chapters,
     validate_episode,
 )
 
@@ -78,7 +80,12 @@ Poi conclude.
     directory.joinpath("naturalness/CH-001.md").write_text(naturalness)
     spoken = f"# Test\n\n{naturalness.split(chr(10), 1)[1]}"
     directory.joinpath("script.spoken.en.md").write_text(spoken)
-    directory.joinpath("script.en.md").write_text(spoken)
+    tense = naturalness.replace("naturalness-reviewed", "tense-reviewed")
+    directory.joinpath("tense").mkdir()
+    directory.joinpath("tense/CH-001.md").write_text(tense)
+    tense_script = f"# Test\n\n{tense.split(chr(10), 1)[1]}"
+    directory.joinpath("script.tense.en.md").write_text(tense_script)
+    directory.joinpath("script.en.md").write_text(tense_script)
 
 
 def test_complete_italian_first_episode_fixture(tmp_path: Path) -> None:
@@ -115,6 +122,22 @@ def test_missing_naturalness_chapter_blocks_assembly(tmp_path: Path) -> None:
     _write_complete_episode(tmp_path)
     (tmp_path / "naturalness/CH-001.md").unlink()
     assert "missing naturalness output CH-001" in validate_episode(tmp_path)
+
+
+def test_missing_tense_chapter_blocks_assembly(tmp_path: Path) -> None:
+    _write_complete_episode(tmp_path)
+    (tmp_path / "tense/CH-001.md").unlink()
+    assert "missing tense output CH-001" in validate_episode(tmp_path)
+
+
+def test_tense_chapter_round_trip(tmp_path: Path) -> None:
+    _write_complete_episode(tmp_path)
+    (tmp_path / "tense/CH-001.md").unlink()
+    (tmp_path / "script.tense.en.md").unlink()
+    initialize_tense_chapters(tmp_path)
+    assemble_tense_chapters(tmp_path)
+    assert "<!-- tense-reviewed: CH-001 -->" in (tmp_path / "tense/CH-001.md").read_text()
+    assert "Authoritative words." in (tmp_path / "script.tense.en.md").read_text()
 
 
 def test_chapter_parser_rejects_reversed_range() -> None:
