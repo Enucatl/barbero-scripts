@@ -9,7 +9,8 @@ natural spoken English. Make the narration simple, direct, and engaging to hear:
 words, contractions, active constructions, idiomatic verbs, concrete subjects, shorter oral
 clauses, clean emphasis, and a confident conversational cadence. Break up translated sentence
 architecture that sounds formal, written, overloaded, or indirect when the same content can be
-spoken more clearly. Keep Barbero's wit, momentum, audience contact, and rhetorical turns alive
+spoken more clearly. When using idiomatic expressions, use American English idioms, not British
+English ones. Keep Barbero's wit, momentum, audience contact, and rhetorical turns alive
 without adding flourish or manufacturing excitement. Do not perform a systematic tense rewrite in
 this pass; tense normalization belongs exclusively to the later chapter-tense review. You may be
 moderately assertive at the sentence level, but preserve paragraph and content order, every
