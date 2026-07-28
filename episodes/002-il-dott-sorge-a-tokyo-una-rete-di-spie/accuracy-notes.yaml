@@ -1,0 +1,18 @@
+- id: N-001
+  transcript: [U-00795–U-00814]
+  claim_ids: [C-019]
+  quotation_ids: []
+  source_ids: [SRC-003]
+  category: misleading-compression
+  original_assertion: Sorge reported that Japan would attack south rather than invade Siberia, allowing Stalin to transfer Far Eastern troops west just in time to stop the Germans before Moscow in December 1941.
+  proposed_correction: By mid-September, Sorge was reporting that Japan was unlikely to attack the Soviet Union that year. His intelligence helped Moscow judge the danger in the east. Soviet formations were already moving west, and several of them would fight around Moscow. Sorge had not single-handedly saved the city—but his reports gave the Kremlin one more reason to take that calculated risk.
+  decision: apply
+- id: N-002
+  transcript: [U-00815–U-00832]
+  claim_ids: [C-020]
+  quotation_ids: []
+  source_ids: [SRC-003, SRC-008]
+  category: material-uncertainty
+  original_assertion: Ozaki contributed to Japan's decision to attack south by arguing in confidential government discussions that attacking the Soviet Union was dangerous and that attacking the Americans was preferable; the prosecutors feared the public consequences of probing this influence.
+  proposed_correction: Ozaki had unusual access to elite policy discussions and argued against war with the Soviet Union, but Japan's southern strategy emerged from a wider institutional struggle among the army, navy, cabinet, and imperial leadership; the surviving evidence does not isolate Ozaki's causal weight.
+  decision: retain-original

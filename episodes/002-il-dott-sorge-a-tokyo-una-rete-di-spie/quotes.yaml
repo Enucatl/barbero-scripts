@@ -1,0 +1,179 @@
+- id: Q-001
+  barbero_utterances:
+  - U-00025–U-00027
+  barbero_timestamp: 02:11
+  attribution: Lieutenant Colonel Saburō Aizawa at his trial
+  quotation_kind: paraphrase
+  source_id: SRC-010
+  original_language: ja
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: low
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  research_note: Verify whether a contemporary trial record preserves the one-stroke remark.
+  deferred_reason: Accessible sources confirm the surrounding episode but did not yield recoverable original-language wording with an exact primary locator.
+- id: Q-002
+  barbero_utterances:
+  - U-00100–U-00114
+  barbero_timestamp: 06:18
+  attribution: Richard Sorge, radio message to Moscow
+  quotation_kind: paraphrase
+  source_id: null
+  original_language: de
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: low
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  research_note: Identify the message protesting Soviet republication of Sorge's article.
+  deferred_reason: Accessible sources confirm the surrounding episode but did not yield recoverable original-language wording with an exact primary locator.
+- id: Q-003
+  barbero_utterances:
+  - U-00177–U-00193
+  barbero_timestamp: '11:28'
+  attribution: Christiane Gerlach
+  quotation_kind: near-direct
+  source_id: SRC-009
+  original_language: de
+  original_text: null
+  translation: He was never importunate. He did not need to pay court to people. They flocked to him, men and women.
+  locator: Learned Spies, p. 136, English publication quoting Christiane Gerlach
+  translation_notes: The accessible English source prints this translation but does not supply Gerlach's German original.
+  confidence: medium
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: unavailable
+  research_note: Locate Gerlach's recollection and verify the nickname and wording.
+- id: Q-004
+  barbero_utterances:
+  - U-00378–U-00379
+  barbero_timestamp: '25:07'
+  attribution: Richard Sorge, first report from Tokyo
+  quotation_kind: paraphrase
+  source_id: null
+  original_language: de
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: low
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  research_note: Verify the report commonly rendered as leading the Germans by the nose.
+  deferred_reason: Accessible sources confirm the surrounding episode but did not yield recoverable original-language wording with an exact primary locator.
+- id: Q-005
+  barbero_utterances:
+  - U-00661–U-00663
+  barbero_timestamp: '45:19'
+  attribution: Hanako Ishii
+  quotation_kind: near-direct
+  source_id: null
+  original_language: ja
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: low
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  research_note: Locate Ishii's memoir or interview and verify this recollection.
+  deferred_reason: Accessible sources confirm the surrounding episode but did not yield recoverable original-language wording with an exact primary locator.
+- id: Q-006
+  barbero_utterances:
+  - U-00787–U-00794
+  barbero_timestamp: '54:02'
+  attribution: Richard Sorge, recalled by Hanako Ishii
+  quotation_kind: near-direct
+  source_id: null
+  original_language: ja
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: low
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  research_note: Verify Ishii's account that Sorge answered that he was alone.
+  deferred_reason: Accessible sources confirm the surrounding episode but did not yield recoverable original-language wording with an exact primary locator.
+- id: Q-007
+  barbero_utterances:
+  - U-00829–U-00832
+  barbero_timestamp: '56:31'
+  attribution: Unnamed Japanese prosecutors speaking after the war
+  quotation_kind: near-direct
+  source_id: SRC-008
+  original_language: ja
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: low
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  research_note: Identify the postwar testimony about fear of revolution if Ozaki's influence became known.
+  deferred_reason: Accessible sources confirm the surrounding episode but did not yield recoverable original-language wording with an exact primary locator.
+- id: Q-008
+  barbero_utterances:
+  - U-00944–U-00949
+  barbero_timestamp: '64:07'
+  attribution: Max Clausen, statement to Japanese prosecutor
+  quotation_kind: paraphrase
+  source_id: SRC-008
+  original_language: de
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: low
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  research_note: Locate Clausen's custodial statement and establish its wording and context.
+  deferred_reason: Accessible sources confirm the surrounding episode but did not yield recoverable original-language wording with an exact primary locator.
+- id: Q-009
+  barbero_utterances:
+  - U-00955–U-00957
+  barbero_timestamp: '64:53'
+  attribution: Tokkō investigators' report on Hotsumi Ozaki
+  quotation_kind: paraphrase
+  source_id: SRC-008
+  original_language: ja
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: low
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  research_note: Locate the investigators' report and verify 'honorable assignment.'
+  deferred_reason: Accessible sources confirm the surrounding episode but did not yield recoverable original-language wording with an exact primary locator.
+- id: Q-010
+  barbero_utterances:
+  - U-00969–U-00974
+  barbero_timestamp: '65:47'
+  attribution: Prosecutor Mitsusada Yoshikawa
+  quotation_kind: near-direct
+  source_id: SRC-008
+  original_language: ja
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: low
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  research_note: Locate Yoshikawa's assessment of Sorge and establish the original wording.
+  deferred_reason: Accessible sources confirm the surrounding episode but did not yield recoverable original-language wording with an exact primary locator.

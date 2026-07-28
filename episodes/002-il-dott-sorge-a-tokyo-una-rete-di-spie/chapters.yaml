@@ -1,0 +1,60 @@
+- id: CH-001
+  title: The crisis inside the Japanese army and the hidden journalist
+  start: U-00001
+  end: U-00124
+  markers: [Q-001, Q-002, C-001, C-002, C-003]
+- id: CH-002
+  title: Richard Sorge from the Western Front to the Comintern
+  start: U-00125
+  end: U-00194
+  markers: [Q-003, C-004, C-005]
+- id: CH-003
+  title: Shanghai and the assignment to build a Tokyo network
+  start: U-00195
+  end: U-00299
+  markers: [C-006, C-007]
+- id: CH-004
+  title: A German journalist constructs his Nazi cover
+  start: U-00300
+  end: U-00390
+  markers: [Q-004, C-008, C-009]
+- id: CH-005
+  title: Eugen Ott and access to the German embassy
+  start: U-00391
+  end: U-00470
+  markers: [C-010, C-011]
+- id: CH-006
+  title: Hotsumi Ozaki and the Japanese agents
+  start: U-00471
+  end: U-00559
+  markers: [C-012, C-013]
+- id: CH-007
+  title: Max Clausen and the clandestine radio
+  start: U-00560
+  end: U-00638
+  markers: [C-014]
+- id: CH-008
+  title: Sorge's double life in Tokyo
+  start: U-00639
+  end: U-00702
+  markers: [Q-005, C-015]
+- id: CH-009
+  title: The Anti-Comintern Pact and the war in Mongolia
+  start: U-00703
+  end: U-00770
+  markers: [C-016, C-017]
+- id: CH-010
+  title: Warnings of Barbarossa and the decision to strike south
+  start: U-00771
+  end: U-00843
+  markers: [Q-006, Q-007, C-018, C-019, C-020]
+- id: CH-011
+  title: The Tokyo ring is uncovered
+  start: U-00844
+  end: U-00910
+  markers: [Q-004, C-021, C-022]
+- id: CH-012
+  title: Trial, execution, and postwar memory
+  start: U-00911
+  end: U-00975
+  markers: [Q-008, Q-009, Q-010, C-023, C-024]

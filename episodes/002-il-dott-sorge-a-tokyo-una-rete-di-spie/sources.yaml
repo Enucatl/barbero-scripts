@@ -1,0 +1,99 @@
+- id: SRC-001
+  author: Peter Herde
+  title: Sorge, Richard (Codename Ramsay)
+  date: '2010'
+  original_language: de
+  identifier: Neue Deutsche Biographie 24, pp. 600–601
+  url: https://www.deutsche-biographie.de/gnd118615734.html#ndbcontent
+  access_date: '2026-07-28'
+  locator: Biographical entry, lines 165–180 in online edition
+- id: SRC-002
+  author: Nippon.com Editors
+  title: 'Tokyo Espionage: Legendary Soviet Spy Richard Sorge'
+  date: '2018-08-17'
+  original_language: en
+  identifier: Nippon.com history feature
+  url: https://www.nippon.com/en/nipponblog/m00143/tokyo-espionage-legendary-soviet-spy-richard-sorge.html
+  access_date: '2026-07-28'
+  locator: Sections Mother Russia through Left in the Cold
+- id: SRC-003
+  author: Shimizu Ryotaro
+  title: 'Undecided Decision: Japan’s Northbound and Richard Sorge Spy Ring in 1941'
+  date: '2025'
+  original_language: en
+  identifier: NIDS–ZMSBw Joint Research Series No. 19, chapter 6
+  url: https://www.nids.mod.go.jp/english/publication/joint_research/series19/pdf/chapter06.pdf
+  access_date: '2026-07-28'
+  locator: pp. 121–131, especially pp. 123–131
+- id: SRC-004
+  author: James D. J. Brown
+  title: The Sorge-Ozaki Spy Ring
+  date: '2025'
+  original_language: en
+  identifier: DOI 10.1093/oso/9780197829837.003.0009
+  url: https://academic.oup.com/book/61826/chapter/546886270
+  access_date: '2026-07-28'
+  locator: Cracking the Crab, chapter 8, pp. 185–226; abstract and metadata accessible
+- id: SRC-005
+  author: John W. M. Chapman
+  title: Richard Sorge, the GRU and the Pacific War
+  date: '2020'
+  original_language: en
+  identifier: Amsterdam University Press; ISBN 9789463721844
+  url: https://www.cambridge.org/core/books/richard-sorge-the-gru-and-the-pacific-war/EB45F1EEAE10CC4BE95956CE765A350B
+  access_date: '2026-07-28'
+  locator: Introduction pp. xi–xviii and documentary appendices listing
+- id: SRC-006
+  author: Central Intelligence Agency, Center for the Study of Intelligence
+  title: Review of An Impeccable Spy
+  date: '2019'
+  original_language: en
+  identifier: Studies in Intelligence 63, no. 3
+  url: https://www.cia.gov/resources/csi/static/Intel-Officers-Bookshelf-63.3.pdf
+  access_date: '2026-07-28'
+  locator: pp. 81–82
+- id: SRC-007
+  author: Nippon.com Editors
+  title: 'A Fresh Look at a Legendary Spy: New Japanese Translation of Richard Sorge’s Reports from Tokyo'
+  date: '2023-07-21'
+  original_language: en
+  identifier: Review of Andrey Fesyun documentary edition
+  url: https://www.nippon.com/en/japan-topics/bg900461/
+  access_date: '2026-07-28'
+  locator: Paragraphs 22–32; quotations from reports of 28 December 1940, 18 April 1941, and 30 May 1941
+- id: SRC-008
+  author: U.S. House Committee on Un-American Activities
+  title: Hearings on American Aspects of the Richard Sorge Spy Case
+  date: '1951'
+  original_language: en
+  identifier: 82nd Congress, 1st session, August 9, 22, and 23, 1951
+  url: https://www.govinfo.gov/app/details/GOVPUB-Y1_2-95fb0b265f322a8b928324f638aec1d3
+  access_date: '2026-07-28'
+  locator: Testimony of Mitsusada Yoshikawa and Charles A. Willoughby; translated Japanese case records
+- id: SRC-009
+  author: Michael Smith
+  title: Stealing Secrets, Telling Lies
+  date: '2010'
+  original_language: en
+  identifier: Potomac Books, ISBN 9781612342078
+  url: https://dokumen.pub/stealing-secrets-telling-lies-how-spies-and-codebreakers-helped-shape-the-twentieth-century-9781612342078-1612342078.html
+  access_date: '2026-07-28'
+  locator: Chapter 'Learned Spies,' pp. 133–137, quoting Christiane Gerlach
+- id: SRC-010
+  author: Time
+  title: 'Japan: Blood & Tears'
+  date: '1936-02-10'
+  original_language: en
+  identifier: Contemporary report on the Aizawa trial
+  url: https://time.com/archive/6755036/japan-blood-tears/
+  access_date: '2026-07-28'
+  locator: Trial report and reported courtroom dialogue
+- id: SRC-011
+  author: G. F. Krivosheev, ed.
+  title: 'Russia and the USSR in the Wars of the Twentieth Century: A Statistical Study'
+  date: '2001'
+  original_language: ru
+  identifier: Chapter on Khalkhin Gol, tables 87–89
+  url: https://statehistory.ru/books/pod-red--G-F--Krivosheeva_Rossiya-i-SSSR-v-voynakh-XX-veka--Statisticheskoe-issledovanie/23
+  access_date: '2026-07-28'
+  locator: Narrative and table 88

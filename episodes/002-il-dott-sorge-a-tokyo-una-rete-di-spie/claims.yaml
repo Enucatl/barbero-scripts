@@ -1,0 +1,263 @@
+- id: C-001
+  claim: The Aizawa murder and February 26 Incident reflected generational, social, and factional conflict in the Japanese army.
+  transcript:
+  - U-00015–U-00073
+  centrality: supporting
+  supporting_sources:
+  - SRC-010
+  conflicting_sources: []
+  status: resolved
+  research_note: Tier 2 institutional or specialist evidence supports the substance and chronology; fine-grained dialogue or anecdotal details remain dependent on later case histories.
+- id: C-002
+  claim: Sorge's analysis of the February 26 Incident was unusually influential and was republished by Pravda.
+  transcript:
+  - U-00074–U-00114
+  centrality: supporting
+  supporting_sources:
+  - SRC-004
+  - SRC-006
+  conflicting_sources: []
+  status: resolved
+  research_note: Tier 2 institutional or specialist evidence supports the substance and chronology; fine-grained dialogue or anecdotal details remain dependent on later case histories.
+- id: C-003
+  claim: The Sorge ring influenced the outcome of the Second World War more directly than almost any other spy network.
+  transcript:
+  - U-00115–U-00124
+  centrality: central
+  supporting_sources:
+  - SRC-004
+  - SRC-006
+  conflicting_sources:
+  - SRC-003
+  status: resolved
+  research_note: Strong scholarship confirms exceptional penetration and high-value reporting, but 'more directly than almost any network' is an unrankable rhetorical judgment. Treat as disputed rather than a measurable fact.
+- id: C-004
+  claim: Sorge's First World War experience preceded his Communist conversion, doctorate, and move to Moscow in 1925.
+  transcript:
+  - U-00127–U-00169
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  - SRC-002
+  conflicting_sources: []
+  status: resolved
+  research_note: Tier 2 institutional or specialist evidence supports the substance and chronology; fine-grained dialogue or anecdotal details remain dependent on later case histories.
+- id: C-005
+  claim: Christiane Gerlach was Sorge's partner and later recalled his charisma and nickname Ika.
+  transcript:
+  - U-00170–U-00193
+  centrality: sampled-incidental
+  supporting_sources:
+  - SRC-009
+  conflicting_sources: []
+  status: resolved
+  research_note: Tier 2 institutional or specialist evidence supports the substance and chronology; fine-grained dialogue or anecdotal details remain dependent on later case histories.
+- id: C-006
+  claim: Red Army intelligence recruited Sorge in 1929 and sent him to build a network in Shanghai.
+  transcript:
+  - U-00195–U-00241
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  - SRC-005
+  conflicting_sources: []
+  status: resolved
+  research_note: Tier 2 institutional or specialist evidence supports the substance and chronology; fine-grained dialogue or anecdotal details remain dependent on later case histories.
+- id: C-007
+  claim: Sorge's Tokyo mission was created to discover Japanese intentions toward the Soviet Far East and test whether a network could operate there.
+  transcript:
+  - U-00242–U-00299
+  centrality: central
+  supporting_sources:
+  - SRC-002
+  - SRC-003
+  conflicting_sources: []
+  status: resolved
+  research_note: Tier 2 institutional or specialist evidence supports the substance and chronology; fine-grained dialogue or anecdotal details remain dependent on later case histories.
+- id: C-008
+  claim: Karl Haushofer supplied Sorge with introductions useful for the Tokyo mission and had close ties to Rudolf Hess.
+  transcript:
+  - U-00317–U-00370
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  conflicting_sources: []
+  status: resolved
+  research_note: Tier 2 institutional or specialist evidence supports the substance and chronology; fine-grained dialogue or anecdotal details remain dependent on later case histories.
+- id: C-009
+  claim: German police failed to connect Sorge's Communist record to his passport application and Nazi Party enrollment.
+  transcript:
+  - U-00371–U-00390
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  conflicting_sources: []
+  status: resolved
+  research_note: Tier 2 institutional or specialist evidence supports the substance and chronology; fine-grained dialogue or anecdotal details remain dependent on later case histories.
+- id: C-010
+  claim: Sorge's friendship with Eugen Ott gave him extensive access to confidential German embassy material.
+  transcript:
+  - U-00391–U-00449
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-002
+  conflicting_sources: []
+  status: resolved
+  research_note: Tier 2 institutional or specialist evidence supports the substance and chronology; fine-grained dialogue or anecdotal details remain dependent on later case histories.
+- id: C-011
+  claim: Sorge joined the Nazi Party as cover but avoided formal embassy and party leadership posts.
+  transcript:
+  - U-00438–U-00468
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  conflicting_sources: []
+  status: resolved
+  research_note: Tier 2 institutional or specialist evidence supports the substance and chronology; fine-grained dialogue or anecdotal details remain dependent on later case histories.
+- id: C-012
+  claim: Hotsumi Ozaki's journalism and advisory roles gave the ring access to senior Japanese policy circles and Kwantung Army-connected information.
+  transcript:
+  - U-00510–U-00533
+  centrality: central
+  supporting_sources:
+  - SRC-002
+  - SRC-003
+  conflicting_sources: []
+  status: resolved
+  research_note: Tier 2 institutional or specialist evidence supports the substance and chronology; fine-grained dialogue or anecdotal details remain dependent on later case histories.
+- id: C-013
+  claim: The ring recruited Japanese Communists, including returnees from California, who worked primarily from conviction rather than for money.
+  transcript:
+  - U-00534–U-00543
+  centrality: supporting
+  supporting_sources:
+  - SRC-003
+  conflicting_sources: []
+  status: resolved
+  research_note: Tier 2 institutional or specialist evidence supports the substance and chronology; fine-grained dialogue or anecdotal details remain dependent on later case histories.
+- id: C-014
+  claim: Max Clausen built a portable Tokyo radio transmitter while maintaining a successful industrial cover.
+  transcript:
+  - U-00572–U-00638
+  centrality: supporting
+  supporting_sources:
+  - SRC-002
+  - SRC-003
+  conflicting_sources: []
+  status: resolved
+  research_note: Tier 2 institutional or specialist evidence supports the substance and chronology; fine-grained dialogue or anecdotal details remain dependent on later case histories.
+- id: C-015
+  claim: After Sorge's drunken motorcycle crash, Clausen removed compromising material before German officials entered Sorge's home.
+  transcript:
+  - U-00686–U-00702
+  centrality: sampled-incidental
+  supporting_sources:
+  - SRC-006
+  conflicting_sources: []
+  status: resolved
+  research_note: Tier 2 institutional or specialist evidence supports the substance and chronology; fine-grained dialogue or anecdotal details remain dependent on later case histories.
+- id: C-016
+  claim: Sorge learned of the secret Anti-Comintern Pact negotiations through the German embassy before normal diplomatic channels were informed.
+  transcript:
+  - U-00703–U-00725
+  centrality: central
+  supporting_sources:
+  - SRC-002
+  - SRC-003
+  conflicting_sources: []
+  status: resolved
+  research_note: Tier 2 institutional or specialist evidence supports the substance and chronology; fine-grained dialogue or anecdotal details remain dependent on later case histories.
+- id: C-017
+  claim: Sorge and Ozaki gave Moscow intelligence that assisted Soviet preparation for the 1939 Khalkhin Gol conflict, after which Japan's northern faction lost influence.
+  transcript:
+  - U-00726–U-00770
+  centrality: central
+  supporting_sources:
+  - SRC-003
+  - SRC-011
+  conflicting_sources: []
+  status: resolved
+  research_note: The ring reported Japanese military information, but the Soviet victory resulted from many operational factors. The Japanese defeat affected later strategy; it did not by itself settle the 1941 choice.
+- id: C-018
+  claim: Sorge warned Moscow of Operation Barbarossa at least a month in advance, but Stalin refused to believe the warning.
+  transcript:
+  - U-00771–U-00786
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-003
+  - SRC-007
+  conflicting_sources: []
+  status: resolved
+  research_note: Documentary reports confirm repeated and sometimes specific warnings, including a 30 May report placing invasion in the latter half of June. Sorge was one among more than one hundred warning streams and Moscow judged parts of his reporting doubtful.
+- id: C-019
+  claim: Sorge's report that Japan would strike south enabled Stalin to transfer Far Eastern forces that helped save Moscow in December 1941.
+  transcript:
+  - U-00795–U-00814
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-002
+  conflicting_sources:
+  - SRC-003
+  status: resolved
+  research_note: Traditional accounts credit the September report with freeing Far Eastern formations. NIDS's source-based reassessment finds no proof of causal effect and no grand-scale relocation before winter; Soviet transfers had multiple intelligence and force-planning inputs.
+- id: C-020
+  claim: Ozaki actively influenced Japanese leaders toward a southern attack rather than war with the Soviet Union.
+  transcript:
+  - U-00815–U-00832
+  centrality: central
+  supporting_sources:
+  - SRC-003
+  conflicting_sources:
+  - SRC-003
+  status: resolved
+  research_note: Ozaki informed Sorge from elite circles, but NIDS describes Japanese policy as undecided and finds no proof that his advocacy caused the southern decision. Barbero's causal claim exceeds the evidence.
+- id: C-021
+  claim: Japanese police reached the ring through Chiyo Kitabayashi and Yotoku Miyagi, arresting Ozaki on October 15 and Sorge three days later.
+  transcript:
+  - U-00844–U-00872
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  - SRC-002
+  - SRC-004
+  conflicting_sources: []
+  status: resolved
+  research_note: Tier 2 institutional or specialist evidence supports the substance and chronology; fine-grained dialogue or anecdotal details remain dependent on later case histories.
+- id: C-022
+  claim: German authorities had rediscovered Sorge's Communist past but trusted him enough that the embassy initially protested his arrest.
+  transcript:
+  - U-00873–U-00910
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  - SRC-005
+  conflicting_sources: []
+  status: resolved
+  research_note: Tier 2 institutional or specialist evidence supports the substance and chronology; fine-grained dialogue or anecdotal details remain dependent on later case histories.
+- id: C-023
+  claim: Sorge and Ozaki underwent a lengthy, formal prosecutorial investigation and probably were not tortured, although other ring members were.
+  transcript:
+  - U-00911–U-00939
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  - SRC-005
+  - SRC-008
+  conflicting_sources: []
+  status: resolved
+  research_note: Justice Ministry jurisdiction and the extensive case record support a formal inquiry and make severe military-police torture of Sorge less likely. Absence of torture cannot be proved, and other defendants experienced coercion and lethal custody conditions.
+- id: C-024
+  claim: Sorge and Ozaki alone were executed on November 7, 1944, while surviving ring members were later released and both men acquired respectful postwar reputations.
+  transcript:
+  - U-00940–U-00975
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  - SRC-002
+  - SRC-005
+  conflicting_sources: []
+  status: resolved
+  research_note: Tier 2 institutional or specialist evidence supports the substance and chronology; fine-grained dialogue or anecdotal details remain dependent on later case histories.
