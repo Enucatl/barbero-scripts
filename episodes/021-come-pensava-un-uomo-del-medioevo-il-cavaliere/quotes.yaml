@@ -2,6 +2,9 @@
   barbero_utterances: [U-00023–U-00025]
   barbero_timestamp: "02:28"
   attribution: "Medieval chivalric ideal; closely paralleled by Ramon Llull"
+  quotation_kind: paraphrase
+  verdict: confirmed-in-substance
+  source_replacement: not-applicable
   source_id: SRC-001
   original_language: ca
   original_text: "D'on, enaxí con totes aquestas usanses demunt dites pertanyen a cavayler quant al cors, enaxí justícia, saviesa, caritat, leyaltat, veritat, humilitat, fortitudo, sperança e spertesa, e les altres virtuts semblants a aquestas, pertanyen a cavayler quant a la ànima. [...] Offici de cavaller és mantenir vídues, òrfens, hòmens despoderats."
@@ -10,12 +13,14 @@
   translation_notes: "Direct translation from Llull's medieval Catalan. The ellipsis separates two passages. Barbero does not name Llull and is not quoting him verbatim: he summarizes a broad clerically shaped chivalric commonplace and loosely calls its vehicles 'romances.' Llull's didactic treatise, written c. 1274–1276 and close to Joinville's world, independently supplies both components—humility and protection of widows and orphans—but cannot be established as Barbero's specific source."
   confidence: high
   status: resolved
-  script_treatment: paraphrase
   research_note: "Confirmed in substance as a medieval chivalric prescription, not as a recoverable quotation from one romance. Evidence tier 1 for Llull's wording (critical Catalan edition); the link between this particular work and Barbero's formulation remains inferential. Script should present the ideal as a commonplace and may use Llull as a representative witness, not attribute Barbero's sentence directly to him."
 - id: Q-002
   barbero_utterances: [U-00072–U-00096]
   barbero_timestamp: "06:15"
   attribution: "Jean de Joinville"
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "A une ylle venimes que on appelle la Lempiouse, là où nous preimes tout plein de connins; et trouvâmes un hermitaige ancien dedans les roches, et trouvâmes le courtil que li hermite qui y demeurèrent anciennement avoient fait: oliviers, figuiers, seps de vingne et autres arbres y avoit. Li rus de la fonteinne couroit parmi le courtil. Li roys et nous alames jusques au chief dou courtil, et trouvâmes un oratour, en la première voûte, blanchi de chaus, et une croiz vermeille de terre. En la seconde voûte entrâmes, et trouvâmes dous cors de gens mors, dont la chars estoit toute pourrie; les costes se tenoient encore toutes ensemble, et li os des mains estoient sur lour piz; et estoient couché contre orient, en la manière que l'on met les cors en terre. Au requeillir que nous feismes en notre nef, il nous failli un de nos mariniers; dont li maistres de la nef cuida que il fust là demourez pour estre hermite; et pour ce, Nicholas de Soisi, qui estoit maistres serjans le roy, lessa trois saz de becuiz sur la rive, pour ce que cil les trouvast et en vequist."
@@ -24,12 +29,14 @@
   translation_notes: "Direct translation from the Old French text in Natalis de Wailly's edition; names and punctuation are normalized in English. Barbero follows the episode closely but makes several small narrative inferences: Joinville calls the remains two dead people, not explicitly the two former hermits; the shipmaster only supposed that the missing sailor had stayed to become a hermit; and Nicholas of Soissons, rather than an unnamed collective, left exactly three sacks (not crates) of biscuit. The bodies still had decayed flesh and articulated ribs, so 'two skeletons' is a simplification."
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: "Confirmed in Joinville's eyewitness memoir. Evidence tier 1: accessible Old French scholarly edition, with the same section numbering used by the modern Monfrin critical edition. The work was completed around 1309; its principal early witness, BnF fr. 13568, was produced c. 1330–1340. Preserve the scene while retaining Joinville's reported uncertainty about both the bodies' identity and the missing sailor's intention."
 - id: Q-003
   barbero_utterances: [U-00102–U-00117]
   barbero_timestamp: "08:31"
   attribution: "Jean de Joinville, reporting the squire of Dragonet of Montauban"
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "Une des galies le roy le queilli et l'aporta en nostre nef, là où il nous conta comment ce li estoit avenu. Je li demandai comment ce estoit que il ne metoit conseil en li garantir, ne par noer ne par autre manière. Il me respondi que il n'estoit nul mestier ne besoing que il meist conseil en li; car si tost comme il commença à cheoir, il se commenda à Nostre Dame de Vauvert, et elle le soustint par les espaules dès que il chei, jusques à tant que la galie le roy le requeilli. En l'onour de ce miracle, je l'ai fait peindre à Joinville en ma chapelle, et es verrières de Blehecourt."
@@ -38,12 +45,14 @@
   translation_notes: "Direct translation from the Old French text in Natalis de Wailly's edition. Barbero preserves the episode's point but alters details: the man was a squire belonging to Dragonet of Montauban, not a sailor; he fell while trying to cover an opening in a ship about a league ahead; a royal galley recovered him and brought him to the king's ship. Joinville saw the motionless figure from a distance and questioned him after the rescue, but does not claim to have seen the fall. Most importantly, the squire says he commended himself to Our Lady of Vauvert and that she supported his shoulders; he does not say that the Virgin visibly appeared. Joinville says he commissioned representations at both sites, not that either artwork survived."
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: "Confirmed in Joinville's account and corroborated by modern scholarship citing section 651. Evidence tier 1 for the Old French text and Joinville's statement that he commissioned the images. Preserve Joinville's miracle claim as reported belief, correct the rescued man's status to squire, and do not add a visible apparition absent from the source."
 - id: Q-004
   barbero_utterances: [U-00120–U-00145]
   barbero_timestamp: "10:19"
   attribution: "Louis IX, as reported by Jean de Joinville, recounting an anecdote set at Cluny"
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "Il me conta que il ot une grant desputaison de clers et de Juis ou moustier de Clygni. Là ot un chevalier à qui li abbes avoit donnei le pain leens pour Dieu; et requist à l'abbei que il li lessast dire la première parole, et on li otria à peinne. Et lors il se leva et s'apuia sur sa croce, et dist que l'on li feist venir le plus grant clerc et le plus grant maistre des Juis; et si firent-il. Et li fist une demande qui fu teix: «Maistre, fist li chevaliers, je vous demant se vous créez que la Vierge Marie, qui Dieu porta en ses flans et en ses bras, enfantast vierge, et que elle soit mère de Dieu.» Et li Juis respondi que de tout ce ne creoit-il riens. Et li chevaliers li respondi que moût avoit fait que fous, quant il ne la creoit ne ne l'amoit, et estoit entrez en son moustier et en sa maison. «Et vraiement, fist li chevaliers, vous le comparrez.» Et lors il hauça sa potence, et feri le Juif lès l'oye, et le porta par terre. Et li Juif tournèrent en fuie, et emportèrent lour maistre tout blecié: et ainsi demeura la desputaisons."
@@ -52,12 +61,14 @@
   translation_notes: "Direct translation from the Old French in Natalis de Wailly's edition. The opening pronoun refers to Louis IX: the king told Joinville a story about a disputation at Cluny. Joinville does not say that he himself had recently heard it while visiting Cluny, nor does he identify a witness, date, Jewish scholar, or cleric. The knight is maintained charitably by the abbey and leans on a staff or crutch, but the Old French does not explicitly call him old. His reply is not the mild 'you are doing very wrong': he calls the Jewish scholar a fool for entering Mary's house and says 'you will pay for it' before striking him beside the ear and knocking him down. The abbot then calls the act foolish; the knight answers that convening the disputation was the greater folly."
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: "Confirmed as an anecdote in Joinville's text, but only as a story Louis IX told Joinville, not an independently documented Cluny event or Joinville eyewitness account. Evidence tier 1 for Joinville's wording and transmission; evidence tier 3 for the underlying event. Preserve the double-reported framing and the violence without presenting the scene as a documented public disputation."
 - id: Q-005
   barbero_utterances: [U-00145–U-00148]
   barbero_timestamp: "12:34"
   attribution: "Louis IX, as reported by Jean de Joinville"
+  quotation_kind: direct
+  verdict: confirmed
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "«Aussi vous di-je, fist li roys, que nulz, se il n'est très-bons clers, ne doit desputer à aus; mais li hom lays, quant il ot mesdire de la loy crestienne, ne doit pas desfendre la loy crestienne, ne mais de l'espée, de quoy il doit donner parmi le ventre dedens, tant comme elle y puet entrer.»"
@@ -66,12 +77,14 @@
   translation_notes: "Direct translation from the Old French in Natalis de Wailly's edition. 'Aus' ('them') refers specifically to the Jews in Louis's Cluny anecdote, rather than generically to all unbelievers. Louis is already the teller of the anecdote; Joinville does not describe a later discussion in which the two men explicitly agree that the knight acted well. Barbero accurately gives the distinction between learned clerics and laypeople, but supplies an explanatory rationale about Christians being confused that the preceding knight, not Louis, states in the source. Barbero also greatly softens the violent conclusion: Louis does not merely say that laypeople should draw their swords, but that they should drive one into the belly as far as it will go."
   confidence: high
   status: resolved
-  script_treatment: preserve
   research_note: "Confirmed as Louis IX's direct speech in Joinville's memoir, immediately after the Cluny anecdote. Evidence tier 1 for Joinville's transmitted wording; it remains a recollected saying written down decades after Louis's death, not a contemporary royal act or stenographic record. Preserve the reported-speech frame and do not sanitize the sentence, since the precise violence is material to Barbero's argument."
 - id: Q-006
   barbero_utterances: [U-00158–U-00192]
   barbero_timestamp: "13:51"
   attribution: "Jean de Joinville, an unnamed emir, and the papal legate"
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "Tandis que nous mangiens, il fist venir un bourgois de Paris devant nous. Quant li bourgois fu venus, il me dist: «Sire, que faites-vous? — Que faiz-je donc?» feiz-je. — «En non Dieu, fist-il, vous mangiez char au vendredi!» Quant j'oï ce, je boutai m'escuele arieres. Et il demanda à mon Sarrazin pourquoy je avoie ce faist, et il li dist; et li amiraus li respondi que jà Diex ne m'en sauroit mal grei, puisque je ne l'avoie fait à escient. Et sachiez que cette response me fist li legas, quant nous fumes hors de prison; et pour ce ne lessai-je pas que je ne jeûnasse touz les vendredis de quaresme après, en pain et en yaue: dont li legas se courrouça moût forment à moy, pour ce que il n'avoit demourei avec le roy de riches homes que moy."
@@ -80,12 +93,14 @@
   translation_notes: "Direct translation from the Old French in Natalis de Wailly's edition. The Muslim official is the 'great admiral of the galleys,' who had summoned Joinville and asked about his supposed kinship to Frederick II; the source does not stage a freely offered luncheon invitation or extended cheerful genealogical conversation. A Parisian bourgeois notices the violation. Communication with the admiral passes through the helper Joinville calls 'my Saracen.' Both the admiral and, later, the papal legate say only that God will not hold an unknowing act against him. Joinville does not say he disbelieved them or explicitly describe purification. His voluntary penance is every Friday in Lent thereafter, not every Friday without qualification, and the legate angrily objects because Joinville is the only great lord remaining with the king, implying concern for his fitness and health."
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: "Confirmed in Joinville's first-person captivity narrative. Evidence tier 1 for the transmitted Old French account. Preserve the striking agreement between the Muslim admiral and papal legate, but qualify Barbero's dramatized dialogue and state the penance precisely as bread and water on every Friday of Lent thereafter."
 - id: Q-007
   barbero_utterances: [U-00198–U-00210]
   barbero_timestamp: "16:51"
   attribution: "Jean de Joinville"
+  quotation_kind: composite
+  verdict: composite
+  source_replacement: not-applicable
   source_id: SRC-002
   original_language: fro
   original_text: "Li bons cuens de Soissons [...] se moquoit à moy et me disoit: «Seneschaus, lessons huer ceste chiennaille; que par la Quoife Dieu! (ainsi comme il juroit) encore en parlerons-nous, entre vous et moi, de ceste journée es chambres des dames.» [...] Je fu bien vint-dous ans en sa compaignie, que onques Dieu ne li oy jurer, ne sa mère, ne ses sains; et quant il vouloit aucune chose affermer, il disoit: «Vraiement il fu ainsi», ou: «Vraiement il est ainsi.» Onques ne ly oy nommer le dyable, se ce ne fu en aucun livre là où il l'afferoit à nommer, ou en la vie des sains de quoi li livres parloit. Et c'est grans honte au royaume de France et au roy quant il le souffre, que à peinne puet l'on parler que on ne die: «Que dyables y ait part!» [...] En l'ostel de Joinville, qui dit tel parole, il doit la bufe ou la paumelle, et y est cis mauvais languaiges presque touz abatus."
@@ -94,12 +109,14 @@
   translation_notes: "Direct translation from distinct passages in the Old French Wailly edition. Barbero correctly reports the idiosyncratic oath 'by God's cap' and Joinville's contrast between widespread speech habits and Louis's restraint. The examples 'by God's head' and 'by God's wounds' are genuine medieval oath types but are not examples Joinville identifies in these passages; 'Tête-Dieu' is first attested later in the fourteenth century. Joinville does not say Louis never mentioned God: he says he never heard Louis swear by God, Mary, or the saints, and that Louis used 'truly' to affirm statements. Likewise, the household sanction is not an unspecified pledge or penance: 'la bufe ou la paumelle' means a cuff or slap. Joinville explicitly condemns casual invocation of the devil; the surrounding chapter also condemns dishonorable oaths involving God or Mary."
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: "Composite but confirmed in substance from three Joinville passages. Evidence tier 1 for Joinville's wording; general oath examples require separate linguistic evidence and should not be attributed to Joinville. Preserve 'by God's cap,' Louis's twenty-two-year abstention from oaths, the devil formula, and the concrete household punishment, while correcting Barbero's conflations."
 - id: Q-008
   barbero_utterances: [U-00211–U-00235]
   barbero_timestamp: "18:00"
   attribution: "Jean de Joinville and the papal legate"
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: not-applicable
   source_id: SRC-002
   original_language: fro
   original_text: "Li autres chevaliers qui m'avoit prise la place devant, sailli sus touz effraez, et li dist tout haut : « Vous estes trop hardis quant vous parlés de chose que je face. » Et il sailli sus et le prist par les cheveus. Et jo sailli sus et le feri dou poing entre les dous espaules, et il le lessa; et je li dis : « Or hors de mon hostel; car (si m'aïst Diex !) avec moy ne serez-vous jamais. » [...] Et je respondi que je ne l'i remenroie pas, se li legas ne me absoloit de mon sairement. Au légat en alerent et li contèrent le fait; et li legas lour respondi que il n'avoit pooir de moy absoudre, pour ce que li sairemens estoit raisonnables; car li chevaliers l'avoit moût bien deservi. Et ces choses vous moustré-je, pour ce que vous vous gardés de faire sairement que il ne couviengne faire par raison; car, ce dit li Saiges : « Qui volentiers jure, volentiers se parjure. »"
@@ -108,12 +125,14 @@
   translation_notes: "Direct translation from the Old French in Natalis de Wailly's edition; the ellipsis omits the knight's departure and Giles le Brun's initial plea but does not join separate episodes. Barbero preserves the episode's logic while modernizing it. Joinville's oath is literally that the offender will never again be 'with me' in his household, not that he will never enter Joinville's house. Joinville himself punches the offender between the shoulder blades to make him release the other knight. The intermediary is specifically Giles le Brun, constable of France: the knight departs in great distress and is described as repentant, but the source does not explicitly say that he leaves crying or personally returns to beg. The legate's ruling is stronger than a general reluctance to dispense oaths: he says he has no power to absolve Joinville because this oath is reasonable and the knight has deserved the punishment. Joinville explicitly draws the moral and quotes a proverb; the text does not separately narrate the knight's permanent exclusion afterward."
   confidence: high
   status: resolved
-  script_treatment: qualify
-  research_note: "Confirmed in Joinville's first-person account. Evidence tier 1 for the transmitted Old French text, though this remains a memoir composed decades later rather than a contemporaneous judicial record. Preserve the oath's exact household meaning, the named intervention of Giles le Brun, and the legate's legal-religious reasoning rather than reducing the scene to a generic warning to mind one's words."
+  research_note: "Confirmed in Joinville's first-person account. Evidence tier 1 for the transmitted Old French text, though this remains a memoir composed decades later rather than a contemporaneous judicial record. Preserve Barbero's full narration because his comments on the quarrel, the knight's appeal, and the lesson are integral to the chapter; replace only the two directly recoverable spoken lines ('You are very bold...' and 'Out of my household now...') with the authoritative wording."
 - id: Q-009
   barbero_utterances: [U-00246–U-00253]
   barbero_timestamp: "20:29"
   attribution: "Jean de Joinville, describing a belief he attributes to Bedouins"
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "Lour créance est teix, que nus ne puet morir que à son jour, et pour ce ne se veulent-il armer; et quant il maudient lour enfans, si lour dient : « Ainsi soies-tu maudis, comme li Frans qui s'arme pour poour de mort ! » [...] J'ai veu en cest pais, puis que je reving d'outre mer, aucuns desloiaus crestiens qui tenoient la loy des Beduyns, et disoient que nulz ne pouoit morir qu'à son jour; et lour créance est si desloiaus, qu'il vaut autant dire comme Diex n'ait pouoir de nous aidier. Car il seroient fol cil qui serviroient Dieu, se nous ne cuidiens que il eust pooir de nous eslongier nos vies et de nous garder de mal et de mescheance; et en li devons-nous croire, que il est poissans de toutes choses faire. [...] Li autres poins si est teix, que il croient que nulz ne puet mourir que jusques au jour que il li est jugié; et ce ne doit nulz croire, car Diex a pooir d'alongier nos vies et d'acourcir. Et en cesti point croient li Beduin; et pour ce ne se weulent armer quant il vont es batailles, car il cuideroient faire contre le commandemant de lour loy."
@@ -122,12 +141,14 @@
   translation_notes: "Direct translation from three closely related passages in Natalis de Wailly's Old French edition; the ellipses mark Joinville's repetition of the claim in distinct sections. Barbero accurately captures Joinville's attribution of a fixed day of death to Bedouins and his Christian objection that this would deny God's power to help or prolong life. The image of each person carrying his death 'written on his forehead' does not occur in Joinville and should be treated as Barbero's explanatory embellishment. Joinville does not say that named Bedouins personally explained the doctrine to him; he presents it in his own ethnographic description and later says that he had encountered Christians in France who adopted what he calls the Bedouins' law. His text says an appointed or adjudged day, not necessarily a calendar date revealed in advance. The claim describes Joinville's medieval representation and should not be generalized into an uncomplicated statement of Muslim theology or universal Bedouin belief."
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: "Confirmed in substance and stated three times by Joinville. Evidence tier 1 for Joinville's wording in the accessible Old French scholarly edition; evidence tier 2 scholarship independently identifies sections 249–253 and 461 as his representation of Bedouin fatalism. Preserve Joinville's theological reaction, omit or identify the forehead image as Barbero's metaphor, and frame the belief explicitly as Joinville's attribution rather than an established description of all Bedouins or Muslims."
 - id: Q-010
   barbero_utterances: [U-00254–U-00262]
   barbero_timestamp: "21:13"
   attribution: "Jean de Joinville"
+  quotation_kind: direct
+  verdict: confirmed
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "J'ai veu en cest pais, puis que je reving d'outre mer, aucuns desloiaus crestiens qui tenoient la loy des Beduyns, et disoient que nulz ne pouoit morir qu'à son jour; et lour créance est si desloiaus, qu'il vaut autant dire comme Diex n'ait pouoir de nous aidier. Car il seroient fol cil qui serviroient Dieu, se nous ne cuidiens que il eust pooir de nous eslongier nos vies et de nous garder de mal et de mescheance; et en li devons-nous croire, que il est poissans de toutes choses faire."
@@ -136,12 +157,14 @@
   translation_notes: "Direct translation from Natalis de Wailly's Old French edition. Barbero's central sentence follows Joinville very closely: Joinville really does say that those who serve God would be fools unless they believed God could prolong their lives and protect them from harm and misfortune. The source presents this as a declarative conditional argument, not a rhetorical question, and speaks of protection from harm rather than specifically of aid on a battlefield. Barbero's 'it is for that reason that we serve him' sharpens the logical implication but is defensible as an explanation of the conditional. His description of a 'contract with God' is an illuminating modern interpretation, not Joinville's word or an explicit contractual formulation in this passage. Joinville concludes more broadly that one must believe in God because God can do all things."
   confidence: high
   status: resolved
-  script_treatment: preserve
   research_note: "Confirmed almost verbatim in Joinville section 253. Evidence tier 1 for the Old French text, independently quoted and discussed in scholarship on Joinville's representation of Bedouin fatalism. Preserve the striking foolish-to-serve-God argument and its practical benefits; clearly identify the 'contract' label as Barbero's interpretation rather than medieval source language."
 - id: Q-011
   barbero_utterances: [U-00270–U-00283]
   barbero_timestamp: "22:07"
   attribution: "Jean de Joinville"
+  quotation_kind: direct
+  verdict: confirmed
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "Cis abbes de Cheminon si me donna m'escharpe et mon bourdon : et lors je me parti de Joinville, sans rentrer ou chastel jusques à ma revenue, à pié, deschaus et en langes; et ainsi alai à Blehecourt et à Saint-Urbain, et autres cors sains qui là sont. Et endementieres que je aloie à Blehecourt et à Saint-Urbain, je ne voz onques retourner mes yex vers Joinville, pour ce que li cuers ne me attendrisist dou biau chastel que je lessoie et de mes dous enfans."
@@ -150,12 +173,14 @@
   translation_notes: "Direct translation from Natalis de Wailly's Old French edition. Barbero follows the departure scene closely: the abbot of Cheminon gives Joinville the pilgrim's scrip and staff; Joinville leaves on foot and barefoot, visits Blécourt, Saint-Urbain, and other local holy relics, and deliberately does not look back toward Joinville. Joinville says he feared becoming tender-hearted over his fine castle and his two children; he does not mention his wife in this sentence. Nor does he simply say that he made a circuit of nearby churches: the text names two destinations and 'other holy relics.' 'En langes' indicates woolen clothing, not by itself a fully specified pilgrim costume. Joinville separately describes the crusading pilgrimage as six years in Louis IX's company, so Barbero's six-year framing is supported, although it is not part of the quoted departure sentence."
   confidence: high
   status: resolved
-  script_treatment: preserve
   research_note: "Confirmed directly in Joinville section 122 and consistently quoted in scholarship on crusading departure and pilgrimage. Evidence tier 1 for Joinville's transmitted wording; the account was written decades after the departure rather than recorded in 1248. Preserve the scene and its emotional restraint, while naming the two children rather than adding his wife to Joinville's explicit list."
 - id: Q-012
   barbero_utterances: [U-00292–U-00307]
   barbero_timestamp: "23:38"
   attribution: "Jean de Joinville, reporting his cellarer and the company"
+  quotation_kind: direct
+  verdict: confirmed
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "Ne tarda gueres que nous veismes venir quatre galies dou soudanc, là où il avoit bien mil homes. Lors j'appelai mes chevaliers et ma gent, et lour demandai que il vouloient que nous feissiens, ou de nous rendre aus galies le soudanc, ou de nous rendre à cens qui estoient à terre. Nous acordames tuit que nous amiens miex que nous nous rendissiens aus galies le soudanc, pour ce que il nous tenroient touz ensemble, que ce que nous nous rendissiens à cens qui estoient à terre, pour ce que il nous esparpilleroient et venderoient aus Beduyns. Lors dist uns miens celeriers, qui estoit nés de Doulevens : « Sire, je ne m'acort pas à cest consoil. » Je li demandai auquel il s'acordoit, et il me dist : « Je m'acort que nous nous lessons touz tuer; si nous en irons tuit en paradis. » Mais nous ne le creumes pas."
@@ -164,12 +189,14 @@
   translation_notes: "Direct translation from Natalis de Wailly's Old French edition. The core anecdote and its dry conclusion are genuine. The dissenter is specifically one of Joinville's cellarers, a household officer from Doullens, rather than a knight. He does not raise his hand in the text. Four sultanic galleys carrying about a thousand men are approaching Joinville's vessel, but the decision facing the company is not initially surrender versus resistance: everyone has agreed that surrender is unavoidable and is choosing between the sultan's galleys, which may keep them together, and the forces on shore, which may scatter them and sell them to Bedouins. The cellarer alone proposes that they instead let themselves be killed so that all will go to paradise. 'Mais nous ne le creumes pas' literally means 'But we did not believe him'; in context, Barbero's 'we did not listen to him' correctly conveys that they rejected his advice. The source says paradise, not explicitly 'straight to paradise.'"
   confidence: high
   status: resolved
-  script_treatment: preserve
   research_note: "Confirmed directly in Joinville sections 318–319 and quoted consistently in scholarship on crusading martyrdom. Evidence tier 1 for Joinville's transmitted wording; the scene remains a memoir recollection rather than a contemporary shipboard record. Preserve the lone cellarer's proposal and Joinville's terse rejection, while retaining the practical reason the rest preferred surrender to the galleys."
 - id: Q-013
   barbero_utterances: [U-00310–U-00334]
   barbero_timestamp: "25:17"
   attribution: "Louis IX, Philippe de Nemours, and Jean de Joinville"
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "Lors dist mes sires Phelipes de Nemoes au roy que on avoit forcontei aus Sarrazins une balance de dix mille livres. Et li roys se courouça trop fort, et dist que il vouloit que on lour rendist les dix mille livres, pour ce que il lour avoit couvent à paier les dous cens mille livres, avant que il partisist dou flum. Et lors je passai mon signour Phelipe sus le pié, et dis au roy qu'il ne le creust pas, car il ne disoit pas voir; car li Sarrazin estoient li plus saige conteour qui fussent ou monde. Et mes sires Phelippes dist que je disoie voir, car il ne le disoit que par moquerie. Et li roys dist que maie encontre eust teix moquerie; « Et vous commant, dist li roys à mon signour Phelippe, sur la foy que me devez comme mes hom que vous estes, que se les dix milles livres ne sont paies, que vous les facez paier sans nulle faute. » Moût de gens avoient louei au roy que il se traisist en sa nef, qui l'atendoit en mer, pour li oster des mains aus Sarrazins. Onques li roys ne vont nullui croire; ainçois disoit que il ne partiroit dou flum, aussi comme il l'avoit couvent, tant que il lour eust paie dous cens mille livres."
@@ -178,12 +205,14 @@
   translation_notes: "Direct translation from Natalis de Wailly's Old French edition. Barbero reproduces the comic exchange with unusual fidelity: Philippe de Nemours claims a ten-thousand-livre undercount, Louis becomes angry, Joinville treads on Philippe's foot and invokes the Saracens' skill at counting, Philippe retreats to the claim that he was joking, and Louis orders him on his fealty to ensure payment. Louis does not merely say that the joke was stupid: he curses such a joke. Nor does he say that he personally will go and inspect the accounts; he charges Philippe to make good any shortfall and refuses to leave the river until the installment is paid. The financial framing needs qualification. Two hundred thousand livres was the immediate installment due before Louis left the river, not the whole negotiated ransom: Joinville earlier gives four hundred thousand livres for the prisoners after the sultan's reduction, with Damietta exchanged for the king's person. The money was weighed in balance-loads worth ten thousand livres over Saturday and Sunday; the royal party was initially thirty thousand livres short and obtained the balance from funds held aboard a Templar vessel. The source does not say Philippe arrives cheerfully or that everyone else celebrates the supposed trick."
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: "Confirmed directly in Joinville sections 386–388, with payment context in sections 378 and 380–385. Evidence tier 1 for Joinville's transmitted eyewitness account; scholarship on Templar finance independently uses the same passage and immediate 200,000-livre installment. Preserve the dialogue and Louis's insistence on honoring his promise, but correct the episode's total-ransom framing and do not invent an inspection by Louis himself."
 - id: Q-014
   barbero_utterances: [U-00342–U-00361]
   barbero_timestamp: "27:43"
   attribution: "Jean de Joinville to Louis IX"
+  quotation_kind: direct
+  verdict: confirmed
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "Par nos journées, venimes ou sablon d'Acre, là où li roys et li os nous lojames. Illec au lieu vint à moy uns grans peuples de la Grant Hermenie qui aloit en pelerinaige en Jérusalem, par grant treu rendant aus Sarrazins qui les conduisoient. A un latimier qui savoit lour languaige et le nostre, il me firent prier que je lour monstrasse le saint roy. Je alai au roy là où il se seoit en un paveillon, apuiez à l'estache dou paveillon; et seoit ou sablon, sans tapiz et sans nulle autre chose desouz li. Je li dis : « Sire, il a là hors un grant peuple de la Grant Hermenie qui vont en Jérusalem, et me proient, sire, que je lour face moustrer le saint roy; mais je ne bé jà à baisier vos os. » Et il rist moût clerement, et me dist que je les alasse querre; et si fis-je. Et quant il orent veu le roy, il le commandèrent à Dieu, et li roys aus."
@@ -192,12 +221,14 @@
   translation_notes: "Direct translation from Natalis de Wailly's Old French edition. Barbero's account is close to the source, including the bare sand beneath Louis, the request to see the 'holy king,' Joinville's remark about kissing his bones, and Louis's clear laughter. The pilgrims are described as a large company from Greater Armenia traveling to Jerusalem. They address Joinville through an interpreter and pay a heavy tribute to the Saracens conducting them; Joinville does not explicitly frame the moment as a formal truce or say merely that they traveled with Saracen permission. The scene occurs on the sands of Acre while Louis's army is marching from Jaffa toward Sidon, not in an unspecified static crusader camp. 'Je ne bé jà' gives the joke its important temporal force: Joinville has no intention of kissing Louis's bones yet. Louis laughs and orders him to bring the pilgrims, who see the king and exchange commendations to God with him."
   confidence: high
   status: resolved
-  script_treatment: preserve
   research_note: "Confirmed verbatim in Joinville sections 565–566 and repeatedly discussed in scholarship as evidence of Joinville's affectionate resistance to treating his living friend as a relic. Evidence tier 1 for the transmitted Old French eyewitness account. Preserve the joke and Louis's laughter; retain 'yet,' which carries the relic-veneration implication without requiring it to be overexplained."
 - id: Q-015
   barbero_utterances: [U-00373–U-00397]
   barbero_timestamp: "29:58"
   attribution: "Jean de Joinville"
+  quotation_kind: composite
+  verdict: composite
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "Pour ce que je n'en vouloie porter nulz deniers à tort, je alai lessier à Metz en Lorreinne grant foison de ma terre en gaige. Et sachiez que, au jour que je parti de nostre pais pour aler en la Terre sainte, je ne tenoie pas mil livrées de terre; car ma dame ma mere vivoit encore : et si y alai, moy disiesme de chevaliers et moy tiers de bannières. Et ces choses vous ramantoif-je, pour ce que se Diex ne m'eust aidié, qui onques ne me failli, je l'eusse souffert à peinne par si lonc temps comme par l'espace de six ans que je demourai en Terre sainte. [...] Je, qui n'avoie pas mil livrées de terre, me charjai, quant j'alai outre mer, de moy disiesme de chevaliers et de dous chevaliers banieres portans; et m'avint ainsi que, quant je arivai en Cypre, il ne me fu demourei de remenant que douze vins livres de tournois, ma nef paie; dont aucun de mes chevaliers me mandèrent que se je ne me pourveoie de deniers, que il me lairoient. Et Diex, qui onques ne me failli, me pourveut en tel manière que li roys, qui estoit à Nichocie, m'envoia querre et me retint, et me mist huit cens livres en mes cofres; et lors oz-je plus de deniers que il ne me couvenoit."
@@ -206,12 +237,14 @@
   translation_notes: "Direct translation from two related passages in Natalis de Wailly's Old French edition. Barbero correctly identifies the episode as evidence that a crusading lord had to finance and retain a mounted company and could in turn enter royal paid service. The numerical details need precision. Joinville says his landed estate then yielded less than one thousand livres annually; a 'livrée de terre' is an income valuation, not simply cash he says he earned. He departs with a company of ten knights including himself—not ten knights in addition to himself—and there are three bannerets in the company, Joinville plus two others. He says he mortgaged much of his land, reached Cyprus with only 240 livres tournois after paying for the ship, and faced desertion by some knights unless he found funds. Louis summoned and 'retained' him and placed 800 livres in his coffers. Joinville does not give a total figure for what it originally cost to hire the nine other knights, nor do these passages themselves document Barbero's broader 'nine times out of ten,' universal-contract, or end-of-unpaid-feudal-service claims. The 800 livres may safely be described as royal paid retention or support, but the surviving sentence does not set out a full written contract."
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: "Composite but confirmed in substance from Joinville sections 112 and 136. Evidence tier 1 for the Old French figures and wording; modern military scholarship independently reads the episode as evidence of the financial strain of maintaining a knightly retinue and royal subsidization. Preserve the under-1,000 income, ten-knight company, 240 livres remaining, threat of departure, and 800-livre royal retention, while omitting the nonexistent total hiring cost and reserving broad claims about paid service for the claims ledger."
 - id: Q-016
   barbero_utterances: [U-00399–U-00419]
   barbero_timestamp: "31:39"
   attribution: "Jean de Joinville to Louis IX"
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "Tandis que li roys fermoit Cezaire, j'alai en sa héberge pour le veoir. Maintenant que il me vit entrer en sa chambre, là où il parloit au légat, il se leva et me trait d'une part, et me dist : « Vous savez, fist li roys, que je ne vous reting que jusques à Pasques; si vous pri que vous me dites que je vous donrai pour estre avecques moy de Pasques en un an. » Et je li dis que je ne vouloie que il me donnast plus de ses deniers que ce que il m'avoit donnei; mais je vouloie faire un autre marchié à li. « Pour ce, fis-je, que vous vous courouciés quant l'on vous requiert aucune chose, si vueil-je que vous m'aies convenant, que se je vous requier aucune chose toute ceste année, que vous ne vous courouciés pas; et se vous me refusés, je ne me couroucerai pas. » Quant il oy ce, si commença à rire moût clerement, et me dist que il me retenoit par tel convenant; et me prist par la main, et me mena par devers le légat et vers son consoil, et lour recorda le marchié que nous aviens fait; et en furent mout lié, pour ce que je estoie li plus riches qui fust en l'ost."
@@ -220,12 +253,14 @@
   translation_notes: "Direct translation from Natalis de Wailly's Old French edition. Barbero preserves the delightful anger bargain and the king's laughter, but materially changes its financial terms and duration. The renewed engagement runs from Easter for one full year, not six months. Joinville does not offer to serve unpaid: he says he wants no more money than Louis had given him under the previous engagement, while adding a different nonfinancial condition. That condition is reciprocal and narrower than 'never become angry with me': Louis must not become angry when Joinville asks for something during the year, and Joinville promises not to become angry if Louis refuses. Louis initiates the renewal and asks what he should pay; the text does not say he is penniless or warns Joinville not to ask too much. Louis laughs, accepts, takes Joinville by the hand, and tells the legate and council. Their pleasure is explicitly explained by Joinville's being the richest man in the army, not by a recorded judgment that he has proved himself no merchant."
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: "Confirmed as a genuine bargain in Joinville sections 499–500, but Barbero's six-month unpaid-service version is contradicted by the source. Evidence tier 1 for the Old French text and evidence tier 2 for scholarship quoting it as a renewed paid engagement. Preserve the humor, reciprocal anger clause, laughter, and public retelling; correct the term to one year and retain the previous level of pay."
 - id: Q-017
   barbero_utterances: [U-00426–U-00438]
   barbero_timestamp: "34:02"
   attribution: "Louis IX, as reported by Jean de Joinville"
+  quotation_kind: direct
+  verdict: confirmed
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "Lors dist li roys : « Signour, j'ai oy vostre avis et l'avis de ma gent; or vous redirai-je le mien, qui est teix, que se je descent de la nef, que il a céans tiex cinc cens persones et plus qui demorront en l'ille de Cypre, pour la poour dou péril de lour cors (car il n'i a celi qui autant n'aint sa vie comme je faiz la mienne), et qui jamais, par avanture, en lour païz ne renterront. Dont j'aim miex mon cors et ma femme et mes enfants mettre en la main Dieu, que je feisse tel doumaige à si grant peuple comme il a céans. »"
@@ -234,12 +269,14 @@
   translation_notes: "Direct translation from Natalis de Wailly's Old French edition. The central line is genuine, including Louis's frank statement that he loves his own life as much as the other passengers love theirs. Barbero substantially generalizes the setting, however. This is one specific event on the 1254 return voyage from the Holy Land: Louis's ship struck a sandbank near Cyprus and suffered serious damage, and the shipmasters advised Louis, his wife, and their children to transfer to another vessel. Louis did not ask whether the entire expedition could be brought home; he reasoned that if he abandoned the damaged ship, more than five hundred people aboard might likewise refuse to sail in it, become stranded on Cyprus, and perhaps never reach their countries. His concern is therefore immediately for the passengers on this vessel, not in the quoted passage for everyone in the army, though the following section underscores the plight of poorer travelers unable to pay for another passage. Louis explicitly chooses to place himself, his wife, and his children in God's hands rather than cause that harm."
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: "Confirmed verbatim in Joinville section 628. Evidence tier 1 for Joinville's transmitted Old French eyewitness account. Preserve the memorable comparison between Louis's love of his life and everyone else's, but restore the concrete 1254 shipboard setting near Cyprus, the five hundred-plus passengers, and the inclusion of his wife and children; do not recast it as a general refusal to abandon a collapsing crusade."
 - id: Q-018
   barbero_utterances: [U-00439–U-00448]
   barbero_timestamp: "34:56"
   attribution: "Louis IX and Jean de Joinville"
+  quotation_kind: direct
+  verdict: confirmed
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "« Or vous demant-je, fist-il, lequel vous ameries miex, ou que vous fussiés mesiaus, ou que vous eussiés fait un pechié mortel? » Et je, qui onques ne li menti, li respondi que je en ameroie miex avoir fait trente que estre mesiaus. Et quant li frère s'en furent parti, il m'appela tout seul, et me fist seoir à ses piez et me dist : « Comment me deistes-vous hier ce? » Et je li diz que encore li disoie-je. Et il me dist : « Vous déistes comme hastis musarz; car vous devez savoir que nulle si laide mezelerie n'est comme d'estre en pechié mortel, pour ce que l'ame qui est en pechié mortel est semblable au dyable : par quoy nulle si laide meselerie ne puet estre. Et bien est voirs que quant li hom meurt, il est guéris de la meselerie dou cors; mais quant li hom qui a fait le pechié mortel meurt, il ne sait pas ne n'est certeins que il ait eu en sa vie tel repentance que Diex li ait pardonnei : par quoy grant poour doit avoir que celle mezelerie li dure tant comme Diex yert en paradis. Si vous pri, fist-il, tant comme je puis, que vous metés votre cuer à ce, pour l'amour de Dieu et de moy, que vous amissiez miex que touz meschiez avenist au cors, de mezelerie et de toute maladie, que ce que li pechiés mortex venist à l'ame de vous. »"
@@ -248,12 +285,14 @@
   translation_notes: "Direct translation from Natalis de Wailly's Old French edition. Barbero accurately preserves Louis's choice between being a leper and having committed one mortal sin, Joinville's emphatic preference for thirty mortal sins, and the memorable rebuke. The answer is immediate, but the admonition is not: the exchange begins before two friars whom Louis has summoned, and only after they leave does Louis call Joinville aside. Louis's words 'Comment me deistes-vous hier ce?' indicate that the private correction occurs the next day. Joinville does not capitulate immediately; when challenged he repeats that he still holds the same view. Louis calls him a 'hastis musarz,' approximately a rash or thoughtless fool, then argues that bodily leprosy ends at death whereas mortal sin may remain unforgiven and imperil the soul eternally. The memoir gives no date or place for this conversation, so it should not be assigned specifically to the crusade merely because other famous dialogues occurred overseas."
   confidence: high
   status: resolved
-  script_treatment: preserve
   research_note: "Confirmed verbatim in Joinville sections 27–28, with the number thirty explicit. Evidence tier 1 for Joinville's transmitted Old French first-person account, independently quoted and analyzed in modern scholarship on medieval leprosy and penitential imagery. Preserve the comic force and ensuing lecture; if expanding the scene, note the friars, the delayed private rebuke, and Joinville's stubborn repetition of his answer."
 - id: Q-019
   barbero_utterances: [U-00449–U-00458]
   barbero_timestamp: "35:34"
   attribution: "Louis IX and Jean de Joinville"
+  quotation_kind: direct
+  verdict: confirmed
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "Il me demanda se je lavoie les piez aus povres le jour dou grant jeudi : « Sire, dis-je, en maleur! les piez de ces vilains ne laverai-je jà. — Vraiement, fist-il, ce fu mal dit; car vous ne devez mie avoir en desdaing ce que Diex fist pour nostre enseignement. Si vous pri-je, pour l'amour de Dieu premier, et pour l'amour de moy, que vous les acoustumez à laver. »"
@@ -262,12 +301,14 @@
   translation_notes: "Direct translation from Natalis de Wailly's Old French edition. The core exchange is genuine and explicitly concerns washing poor people's feet on 'grant jeudi,' Maundy or Holy Thursday, in imitation of Christ's exemplary act. Barbero accurately conveys Joinville's blunt class contempt and Louis's disapproval, but dramatizes the wording. Louis asks whether Joinville washes the poor's feet; Joinville does not first watch the king perform the rite in this passage, nor does Louis deliver Barbero's conversational preamble about what a beautiful thing it is. Joinville says 'en maleur!', an emphatic refusal best rendered 'God forbid!' or 'certainly not,' rather than swearing 'by the faith I owe God.' His 'ces vilains' contrasts the aristocratic speaker with low-status common people and here refers back to the poor; 'those peasants' is possible as rhetorical English but is more socially specific than the Old French requires. Louis says Joinville spoke badly, explains that he must not disdain what God did for human instruction, and asks him to make a habit of washing their feet. The text records no response or compliance from Joinville."
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: "Confirmed verbatim in Joinville section 29 and independently treated in scholarship as a Maundy Thursday scene patterned on Christ's washing of the disciples' feet. Evidence tier 1 for Joinville's transmitted first-person Old French account. Preserve Joinville's forceful refusal and Louis's correction, but do not invent an oath or a witnessed royal ceremony; translate 'vilains' broadly enough to retain its class contempt without silently narrowing the poor to agricultural peasants."
 - id: Q-020
   barbero_utterances: [U-00474–U-00494]
   barbero_timestamp: "37:20"
   attribution: "Robert de Sorbon and Jean de Joinville"
+  quotation_kind: direct
+  verdict: confirmed
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "Là me vint querre maistres Roberz de Sorbon, et me prist par le cor de mon mantel, et me mena au roy; et tuit li autre chevalier vindrent après nous. Lors demandai-je à maistre Robert : « Maistre Roberz, que me voulez vous? » Et me dist : « Je vous veil demander se li roys se seoit en cest prael, et vous vous allez seoir sur son banc plus haut que li, se on vous en deveroit bien blasmer. » Et je li diz que oil. Et il me dist : « Dont faites vous bien à blasmer, quant vous estes plus noblement vestus que li roys; car vous vous vestez de vair et de vert, ce que li roys ne fait pas. » Et je li diz : « Maistre Roberz, sauve vostre grâce, je ne faiz mie à blasmer se je me vest de vert et de vair; car cest abit me lessa mes pères et ma mère. Mais vous faites à blâmer; car vous estes fiz de vilain et de vilainne, et avez lessié l'abit vostre père et vostre mère, et estes vestus de plus riche camelin que li roys n'est. » Et lors je pris le pan de son seurcot et dou seurcot le roy, et li diz : « Or esgardez se je di voir. » Et lors li roys emprist à deffendre maistre Robert de paroles, de tout son pooir."
@@ -276,12 +317,14 @@
   translation_notes: "Direct translation from Natalis de Wailly's Old French edition. The scene occurs at Corbeil during Pentecost, after dinner, with eighty knights present; Louis is in the small meadow below the chapel speaking with the count of Brittany. Robert takes Joinville by the hem of his cloak and leads him to the king, while the knights follow. Before criticizing the clothes, Robert constructs an analogy: just as Joinville would be blameworthy for sitting higher than the king on the same bench, he is blameworthy for dressing more nobly. The named materials are vair—a prestigious squirrel fur, not ermine—and green cloth. Joinville says that his father and mother 'left' him this habit or mode of dress. That may invoke inherited aristocratic status and its proper clothing rather than identify the garment itself as a literal bequest, so Barbero's 'this garment was left to me as an inheritance by my father' is too narrow and omits his mother. Joinville calls Robert the son of both a 'vilain' and a 'vilainne,' says he abandoned his parents' dress, and physically compares Robert's richer camelin surcoat with the king's. Here the social insult means low-born or non-noble parentage; it need not establish that Robert's father was specifically an agricultural peasant. Louis does intervene and vigorously defends Robert, but Joinville reports no formal pronouncement ending the dispute."
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: "Confirmed verbatim in Joinville sections 35–36 and widely cited in scholarship on Robert de Sorbon, medieval social mobility, and clothing as a marker of rank. Evidence tier 1 for Joinville's transmitted first-person Old French account. Preserve the confrontation, Robert's bench analogy, the fur and green cloth, Joinville's attack on Robert's parentage, the comparison of hems, and Louis's defense; qualify the supposed literal inheritance and avoid narrowing 'vilain' to a documented peasant occupation."
 - id: Q-021
   barbero_utterances: [U-00495–U-00506]
   barbero_timestamp: "38:57"
   attribution: "Louis IX to Jean de Joinville"
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "Et lors me dist que il nous avoit appelez pour li confesser à moy de ce que à tort avoit deffendu maistre Robert encontre moy. « Mais, fist-il, je le vi si esbahi que il avoit bien mestier que je li aidasse. Et toutes voiz ne vous tenez pas à chose que je en deisse pour maistre Robert deffendre; car, aussi comme li seneschaus dist, vous vous devez bien vestir et nettement, pour ce que vos femmes vous en ameront miex, et vostre gent vous en priseront plus. Car, ce dit li saiges, on se doit assemer en robes et en armes en tel manière que li preudome de cest siècle ne dient que on en face trop, ne les joenes gens de cest siècle ne dient que on en face pou. »"
@@ -290,12 +333,14 @@
   translation_notes: "Direct translation from Natalis de Wailly's Old French edition. Louis does acknowledge that he defended Robert wrongly and says he intervened because Robert looked so bewildered that he needed help. Joinville presents this as Louis 'confessing' the wrong to him, not as the exact apology 'I must apologize,' though that is a fair modern description. The meeting is discreet but not literally one-to-one: Louis calls his son Philip and King Thibaut as well as Joinville, seats them very close at the door of his oratory so that others cannot hear, and then makes the admission. Most importantly, Barbero adds a class doctrine not spoken by Louis. Louis does not say that nobles should wear fur because their fathers and grandfathers did, nor that a newly rich commoner must not dress at their level. He endorses Joinville's right to dress well and neatly, saying wives will love such men more and their people will esteem them more, then recommends a mean in clothing and arms: not so much that worthy or sober men criticize the excess, and not so little that young people find it inadequate. The inherited-parental dress and Robert's low birth belong to Joinville's earlier retort, not to Louis's concluding rule."
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: "Confirmed in Joinville section 38, but composite in Barbero's telling. Evidence tier 1 for the transmitted first-person Old French account. Preserve Louis's admission that he defended Robert wrongly out of compassion for his embarrassment and his practical endorsement of dignified dress; remove the purported royal statement about inherited noble fur and parvenus, which transfers Joinville's preceding class insult into Louis's mouth and exaggerates the king's actual balanced rule."
 - id: Q-022
   barbero_utterances: [U-00514–U-00531]
   barbero_timestamp: "40:18"
   attribution: "Henry I of Champagne to Artaud de Nogent, as reported by Jean de Joinville"
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "Ertaus de Nogent fu li bourgois dou monde que li cuens creoit plus; et fu si riches que il fist le chastel de Nogent-l'Ertaut de ses deniers. [...] Aus piez des degrez vint au devant de li uns povres chevaliers, qui s'agenoilla devant li, et li dist ainsi : « Sire, je vous pri pour Dieu que vous me donnés dou vostre, par quoy je puisse marier mes dous filles, que vous veez ci. » Ertaus, qui aloit dariere li, dist au povre chevalier : « Sire chevaliers, vous ne faites pas que courtois de demander à mon signour; car il a tant donnei que il n'a mais que donner. » Li larges cuens se tourna devers Ertaut, et li dist : « Sire vilains, vous ne dites mie voir, de ce que vous dites que je n'ai mais que donner : si, ai vous-meismes. — Et tenez, sire chevaliers, car je le vous doing, et si le vous garantirai. » Li chevaliers ne fu pas esbahiz, ainçois le prist par la chape, et li dist que il ne le lairoit jusques à tant que il averoit finei à li. Et avant que il li eschapast, ot Ertaus finei à li de cinq cens livres."
@@ -304,12 +349,14 @@
   translation_notes: "Direct translation from Natalis de Wailly's Old French edition. The count is Henry I of Champagne, called Henry the Liberal or the Generous, who ruled from 1152 to 1181. The burgess's name in Joinville is Ertaus or Ertaut, conventionally modernized as Artaud de Nogent, not Érard. Joinville calls him the count's most trusted burgess and rich enough to build Nogent-l'Artaud castle with his own money. The scene is set at Troyes on Pentecost as Henry descends from his hall to hear Mass at Saint-Étienne. The poor knight kneels and asks for a gift to marry his two daughters, who are present. Artaud calls the request discourteous and says the count has nothing left. Henry calls him 'sire vilains,' gives Artaud himself to the knight, and promises to guarantee the gift. Contrary to Barbero's physical staging, the count does not grab or throw Artaud: the knight promptly seizes him by his cloak and refuses release until Artaud settles for five hundred livres. Joinville does not say that news then circulates through France or that knights rejoice; he introduces the tale as proof of Henry's worldly generosity. Because Joinville was born around 1224, more than forty years after Henry died, he could not have witnessed it. Parallel thirteenth-century exemplary versions in Jacques de Vitry and Stephen of Bourbon confirm that a story of this type circulated, while their variant details show that this is anecdotal tradition rather than a verbatim record of twelfth-century speech."
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: "Confirmed as an anecdote in Joinville sections 89–91, with corroborating but variant medieval transmissions. Evidence tier 1 for what Joinville's Old French text says and evidence tier 2 for the underlying event as a widely transmitted exemplary story. Correct Érard to Artaud, identify Henry the Liberal and the Troyes Pentecost setting, retain the two daughters and five-hundred-livre settlement, and make the poor knight—not the count—seize Artaud. Do not present Joinville as an eyewitness or the reported dialogue as stenographic speech."
 - id: Q-023
   barbero_utterances: [U-00533–U-00549]
   barbero_timestamp: "41:49"
   attribution: "Le Goulu, a royal sergeant, as reported by Jean de Joinville"
+  quotation_kind: direct
+  verdict: confirmed
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "Li tiers jugemens que je vi rendre à Cezaire si fu teix, que uns serjans le roy, qui avoit à non le Goulu, mist main à un chevalier de ma bataille. Je m'en alai pleindre au roy. Li roys me dist que je m'en pooie bien souffrir, ce li sembloit; que il ne l'avoit fait que bouter. Et je li dis que je ne m'en soufferroie jà; et se il ne m'en fesoit droit, je lairoie son servise, puisque sui serjant boutoient les chevaliers. Il me fist faire droit, et li drois fu teix, selonc les usaiges dou pais, que li serjans vint en ma herberge deschaus, en chemise et en braies, sanz pluz, une espée toute nue en sa main, et s'agenoilla devant le chevalier, print l'espée par la pointe et tendi le plommel au chevalier, et li dist : « Sire, je vous ament ce que je mis main à vous; et vous ai aportée ceste espée pour ce que vous me copez le poing, se il vous plait. » Et je priai au chevalier que il li pardonaast son maltalent; et si fist-il."
@@ -318,12 +365,14 @@
   translation_notes: "Direct translation from Natalis de Wailly's Old French edition. Joinville says he personally witnessed this judgment at Caesarea while Louis was staying there. The royal sergeant is named Le Goulu. He 'laid hands' on a knight in Joinville's contingent; Louis initially minimizes the act as only a shove, but Joinville threatens to leave royal service if no justice is done. The text calls the resulting procedure a judgment 'according to the customs of the country,' meaning the local Caesarea or eastern setting; it should not be universalized as an ordinary rule throughout medieval Europe. The sergeant comes to Joinville's quarters barefoot and wearing only a shirt and braies or under-breeches. He does not extend his hand for cutting. He carries a bare sword, kneels, grips it by the point, and offers the pommel to the knight so that the knight may cut off his fist if he wishes. His formula makes amends for laying hands on the knight; it is not Barbero's generalized plea for pardon. Joinville then personally asks his knight to forgive the sergeant's hostility or offense, and the knight agrees. The source neither says that the custom was never enforced nor reports a crowd repeatedly urging pardon. Its structure plainly creates an opportunity for mercy, but Joinville does not explain whether mutilation was a regularly executed penalty or a formal symbolic threat."
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: "Confirmed verbatim in Joinville sections 509–510 and analyzed in scholarship as one of the local judgments he witnessed at Caesarea. Evidence tier 1 for Joinville's transmitted eyewitness account of the proceeding. Preserve the status conflict, Joinville's threat to resign, the barefoot and minimally clothed penitent, the naked sword, and the pardon; name Le Goulu, make him offer the sword rather than his hand, and avoid claiming either a universal medieval law or a documented rule that the threatened mutilation was never carried out."
 - id: Q-024
   barbero_utterances: [U-00563–U-00567]
   barbero_timestamp: "44:17"
   attribution: "Thomasin von Zerklaere, Der Wälsche Gast"
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
   source_id: SRC-004
   original_language: gmh
   original_text: "Swer ungeriten herzuo gât / daz er zwelf jâr in schuole stât, / der tought her nâch ze rîterschaft / niht wol: er hât dâ zuo niht kraft. / er ist nien wan ze pfaffen guot / der ungeriten schuolære tuot."
@@ -332,12 +381,14 @@
   translation_notes: "Barbero preserves the authentic saddle-versus-clergy contrast but changes twelve years to eight and omits the decisive school context. Thomasin's didactic verse is the identifiable medieval source; it is better described as a literary maxim than an anonymous folk proverb. Marc Bloch later condensed it in La société féodale as the saying of a German poet, helping turn it into a generalized 'medieval proverb.' Barbero likely conflates Thomasin's twelve-year deadline with the well-supported observation that aristocratic riding education often began around seven or eight. Rodrigues (SRC-003) supports that earlier training age but not Barbero's wording."
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: "Additional deep research supplied by the user identified Thomasin's lines 9155–9160; follow-up checking confirmed the work, date, digital scholarly edition, and line locator. Preserve the vivid contrast but correct the threshold to twelve and restore the warning against remaining in school without learning to ride. Explain only if useful that riding normally began earlier, often around seven or eight; do not present Barbero's age-eight wording as the medieval text."
 - id: Q-025
   barbero_utterances: [U-00574–U-00586]
   barbero_timestamp: "45:09"
   attribution: "Jean de Joinville"
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "Quant li roys oy dire que l'enseigne Saint-Denis estoit à terre, il en ala grant pas par mi son vessel, ne onques pour le légat qui estoit avec li, ne la vout lessier, et sailli en la mer, dont il fu en yaue jusques aus esseles. Et ala l'escu au col, et le heaume en la teste, et le glaive en la main, jusques à sa gent qui estoient sur la rive de la mer. Quant il vint à terre et il choisi les Sarrazins, il demanda quex gent c'estoient; et on li dist que c'estoient Sarrazin; et il mist le glaive desous s'esselle et l'escu devant li, et eust couru sus aus Sarrazins, se sui preudome, qui estoient avec li, li eussent souffert. [...] Mais onques si bel armei ne vi; car il paroit desur toute sa gent dès les espaules en amont, un heaume dorei en son chief, une espée d'Alemaingne en sa main."
@@ -346,12 +397,14 @@
   translation_notes: "Direct translation from Natalis de Wailly's Old French edition. The landing scene is genuine and even more physically vivid than Barbero's version: Louis jumps into water reaching his armpits while fully armed, with shield, helmet, and lance, then prepares to charge the Saracens until his companions prevent him. But Barbero combines details from distinct moments. Louis is on foot during the landing, not mounted; Joinville says the king and the army mount only later, after the Saracens abandon Damietta and a Te Deum is sung. The standard of Saint-Denis and other troops are already ashore when Louis leaps, although Joinville's introductory summary calls him 'one of the first' to land. Louis asks what people he sees, not 'Where are the Turks?' The helmet at Damietta is not described as gilded. Joinville's famous gilded-helmet portrait occurs months later during the fighting at Mansurah, when Louis arrives mounted with his battle division and carries a German sword. The Old French 'glaive' in the landing passage means a lance, as shown when Louis couches it under his armpit. Joinville participated in the landing and frames it as one of four occasions on which Louis risked his body to spare his people, making this a first-person crusade narrative, though the work was composed decades later and its detailed calendar contains known errors."
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: "Confirmed in substance from Joinville sections 162–163, but Barbero's image is composite. Evidence tier 1 for Joinville's transmitted participant account; modern scholarship independently identifies the landing passage and notes Joinville's chronological fallibility. Preserve Louis wading ashore in water up to his armpits, fully armed and eager to charge, but remove the horse and 'Where are the Turks?' dialogue. Either omit the gilded helmet or explicitly relocate it to Joinville's later Mansurah portrait in section 228."
 - id: Q-026
   barbero_utterances: [U-00589–U-00598]
   barbero_timestamp: "46:08"
   attribution: "Jean de Joinville and six unnamed knights at the burial of Hugh of Landricourt"
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: "La vegile de quaresme-pernant, vi une merveille que je vous vueil raconter; car ce jour meismes, fu mis en terre mes sires Hues de Landricourt, qui estoit avec moy à baniere. Là où il estoit en bière en ma chapelle, six de mes chevaliers estoient apuié sus plusours saz pleins d'orge; et pour ce que il parloient haut en ma chapelle et que il faisoient noise au prestre, je lour alai dire que il se teussent, et lour dis que vilaine chose estoit de chevaliers et de gentiz homes qui parloient tandis que l'on chantoit la messe. Et il me commencierent à rire, et me distrent en riant que il li remarioient sa femme. Et je les enchoisonnai et lour dis que tiex paroles n'estoient ne bones ne bêles, et que tost avoient oublié lour compaingnon. Et Diex en fist tel vengance que l'endemain fu la grans bataille dou quaresme-prenant, dont il furent mort ou navrei à mort; par quoy il couvint leur femmes remarier toutes six."
@@ -360,12 +413,14 @@
   translation_notes: "Direct translation from Natalis de Wailly's Old French edition. Joinville identifies the deceased as Hugh of Landricourt, a knight serving under his banner, and says Hugh was buried that day. He does not state here that Hugh had just been killed in combat. Hugh lies on a bier in Joinville's chapel while Mass is sung; the six knights are leaning on sacks of barley, talking loudly, and disturbing the priest. Joinville therefore first rebukes their irreverence during Mass. The knights then laugh and say 'il li remarioient sa femme,' most safely understood as arranging or discussing the remarriage of Hugh's wife. The text does not explicitly say they are competing over which of them will marry her, despite that colorful expansion in some later retellings. Joinville says their words are neither good nor proper and that they have forgotten their companion too quickly; he does not use Barbero's invented 'still warm' line. The punishment is more immediate than Barbero reports: all six are killed or mortally wounded in the great battle the next day, Shrove Tuesday, and Joinville explicitly interprets this as God's vengeance, after which all six of their own wives have to remarry. Barbero's statement that they die sometime before the crusade ends weakens and misdates the source's pointed symmetry."
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: "Confirmed verbatim in Joinville sections 297–298 and discussed in scholarship on crusading widowhood and remarriage. Evidence tier 1 for Joinville's transmitted participant account and his own providential interpretation. Preserve the chapel, funeral Mass, laughter, remarriage joke, rebuke, and reversal involving the six wives; name Hugh of Landricourt and correct the deaths to the next day's battle, while omitting the unsupported recent combat death, formal vigil, still-warm corpse, and any claim that the men were choosing which one would marry the widow."
 - id: Q-027
   barbero_utterances: [U-00604–U-00608]
   barbero_timestamp: "47:14"
   attribution: "Jean de Joinville on Louis IX, Margaret of Provence, and their children"
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: >-
@@ -401,7 +456,6 @@
     thought about women, lacked affection for Margaret, or took no interest in his family.
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: >-
     Confirmed in Joinville sections 593–594, with the concrete Sidon scene and Joinville's
     explicit moral criticism. Evidence tier 1 for Joinville's transmitted participant account.
@@ -412,6 +466,9 @@
   barbero_utterances: [U-00621–U-00631]
   barbero_timestamp: "48:17"
   attribution: "Jean de Joinville on Louis IX, Margaret of Provence, and Blanche of Castile"
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: >-
@@ -451,7 +508,6 @@
     from 1241 through 1246, rather than immediately after their 1234 marriage.
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: >-
     Confirmed in Joinville sections 606–607 and supported by Gérard Sivéry's comparison with royal
     itinerary evidence. Evidence tier 1 for Joinville's transmitted court anecdote; the room
@@ -462,6 +518,9 @@
   barbero_utterances: [U-00632–U-00649]
   barbero_timestamp: "49:19"
   attribution: "Louis IX, Margaret of Provence, and Jean de Joinville on Blanche of Castile's death"
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: >-
@@ -503,7 +562,6 @@
     late November 1252 while Louis was on crusade in the Holy Land.
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: >-
     Confirmed in Joinville sections 603–605. Evidence tier 1 for Joinville's transmitted participant
     account and reported dialogue, with independent early corroboration from Geoffrey of Beaulieu
@@ -515,6 +573,9 @@
   barbero_utterances: [U-00659–U-00670]
   barbero_timestamp: "51:11"
   attribution: "Jean de Joinville on Alphonse of Brienne, count of Eu"
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: >-
@@ -551,7 +612,6 @@
     husband of Marie, countess of Eu, who joined Louis's force as a squire and was knighted there.
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: >-
     Confirmed in Joinville section 583. Evidence tier 1 for Joinville's participant recollection;
     SRC-005 resolves the count's identity against de Wailly's obsolete note. Preserve the ingenious
@@ -562,6 +622,9 @@
   barbero_utterances: [U-00699–U-00725]
   barbero_timestamp: "54:16"
   attribution: "Jean II de Nesle, count of Soissons, to Jean de Joinville"
+  quotation_kind: direct
+  verdict: confirmed
+  source_replacement: eligible
   source_id: SRC-002
   original_language: fro
   original_text: >-
@@ -589,7 +652,6 @@
     staged pause a few metres away, teeth-baring, insults, stones, or tentative arrows.
   confidence: high
   status: resolved
-  script_treatment: qualify
   research_note: >-
     Confirmed verbatim in Joinville section 242 and consistently cited in modern crusade and
     chivalry scholarship. Evidence tier 1 for Joinville's participant recollection and reported

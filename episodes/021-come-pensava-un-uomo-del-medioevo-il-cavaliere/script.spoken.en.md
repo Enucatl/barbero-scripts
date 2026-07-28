@@ -6,7 +6,7 @@
 
 Good evening, everyone. This is our third episode in this attempt to get to know the people of the
 Middle Ages. And as I say that, I realize I haven't talked about women. That's a real problem. The
-overwhelming majority of people who write in the Middle Ages are men. There are women too, of
+overwhelming majority of people who wrote in the Middle Ages were men. There were women too, of
 course, and perhaps I should have thought of that sooner. Next year, I promise, if you'd like. But
 I've been lazy, because when we think about the Middle Ages, we tend to divide it into categories,
 don't we? That's exactly what I've done here: the friar, the knight, the merchant, the peasant.
@@ -32,13 +32,13 @@ knights value rather different things. The values Joinville shares with his vass
 war, the physical courage to risk your skin in battle, comradeship among companions in arms, and
 honor.
 
-Jean de Joinville is famous among historians, and I can tell you about him because he does something
-rather unusual for a knight: he writes a book. And he writes it for a specific reason. As I said, he
-serves the king of France for a long time, especially Louis IX—Saint Louis—the great
-thirteenth-century king who goes on two crusades and dies during the second. Joinville accompanies
-him on the first, an expedition that leaves in 1248 and returns six years later—those few who
-return, that is. Joinville doesn't join the king's second crusade. Like many survivors of the first,
-he prefers not to go. The king goes and dies there in 1270.
+Jean de Joinville is famous among historians, and I can tell you about him because he did something
+rather unusual for a knight: he wrote a book. And he wrote it for a specific reason. As I said, he
+served the king of France for a long time, especially Louis IX—Saint Louis—the great
+thirteenth-century king who went on two crusades and died during the second. Joinville accompanied
+him on the first, an expedition that left in 1248 and returned six years later—those few who
+returned, that is. Joinville didn't join the king's second crusade. Like many survivors of the
+first, he preferred not to go. The king went and died there in 1270.
 
 Joinville outlives his king by many years. By the beginning of the fourteenth century, he is an old
 man living in his castle at Joinville, during the same period when Dino Compagni—the subject of the
@@ -68,10 +68,10 @@ Joinville is simply a knight and an ordinary lord, yet even he hears one Mass a 
 day—a knight's day—begins with Mass.
 
 Religion is always present, and these people have a natural familiarity with sacred things. Dogs
-wander into medieval churches, so we certainly aren't going to let one frighten us here. Let me tell
-you an anecdote that shows how they think. They are returning from the crusade after six years away,
-having seen most of their friends die. They sail back from Egypt and stop at Lampedusa along the
-way.
+wandered into medieval churches, so we certainly aren't going to let one frighten us here. Let me
+tell you an anecdote that shows how they think. They are returning from the crusade after six years
+away, having seen most of their friends die. They sail back from Egypt and stop at Lampedusa along
+the way.
 
 Joinville recounts the episode this way: We came to an island called Lampedusa, where we caught a
 great many rabbits. We found an ancient hermitage among the rocks and the garden made by the hermits
@@ -86,12 +86,12 @@ Nicholas of Soissons, the king's master sergeant, left three sacks of ship's bis
 so that the man might find them and live on them.
 
 Just as it is normal for miracles to happen. You know, if you believe in miracles, they happen. At
-this time practically everyone believes in them, and so they happen. It is easy to be certain that
-you have witnessed a miracle. And witnessing a miracle is something important that stays with you,
-something you carry with you. Especially during a catastrophic crusade like Saint Louis's, they need
-many miracles to help the survivors return home.
+that time practically everyone believed in them, and so they happened. It was easy to be certain
+that you had witnessed a miracle. And witnessing a miracle was something important that remained
+impressed on you, that you carried with you. Especially during a catastrophic crusade like Saint
+Louis's, they needed many miracles to help the survivors return home.
 
-Joinville reports what the rescued man tells him and what he does afterward: One of the king's
+Joinville reports what the rescued man told him and what he did afterward: One of the king's
 galleys picked him up and brought him to our ship, where he told us how it had happened. I asked him
 why he had made no effort to save himself, either by swimming or in any other way. He answered that
 there was no need for him to make any effort, because, as soon as he began to fall, he commended
@@ -111,14 +111,16 @@ great fervor and great simplicity.
 <!-- chapter: CH-003; transcript: U-00119–U-00157 -->
 
 Sometimes there is even too much simplicity. Joinville recounts an episode with great approval, I
-must say. He says that at the monastery of Cluny—you know Cluny in Burgundy, the great Benedictine
-monastery—they organize a great disputation between clerics and Jews. Public intellectual
-disputations are something medieval clerics and churchmen enjoy very much—perhaps I already
-mentioned them when talking about Friar Salimbene. They relish the opportunity to demonstrate their
-skill by facing opponents and arguing with them. Their brothers who haven't become priests hold
-tournaments and prove themselves by defeating an opponent. Churchmen enjoy doing it too.
+must say. He says: once, they recently told me at the monastery of Cluny—you know Cluny in Burgundy,
+the great Benedictine monastery—at the monastery of Cluny they had organized a great disputation
+between clerics and Jews. Disputations were something—perhaps I already mentioned it when talking
+about Friar Salimbene—public intellectual disputations were something that clerics, churchmen of the
+Middle Ages, liked very much. They liked this opportunity to demonstrate how good they were by
+facing opponents and arguing with them. Their brothers who had not become priests held tournaments
+and demonstrated every day that they were the best by defeating an opponent. Churchmen liked doing
+it too.
 
-In fact, Louis IX tells Joinville the story, and Joinville records it as follows: He told me that
+In fact, Louis IX told Joinville the story, and Joinville records it as follows: He told me that
 there was a great disputation between clerics and Jews at the monastery of Cluny. There was a knight
 there to whom the abbot had given bread in the house for God's sake. He asked the abbot to let him
 speak first, and permission was granted only reluctantly. Then he rose, leaned on his staff, and
@@ -139,8 +141,8 @@ the offender's belly as far as it can go.'
 This faith is spontaneous, impetuous, sometimes violent, and intensely felt. So it shouldn't
 surprise you that it is also deeply attached to ritual and form. A simple faith means caring about
 doing the right things—observing the Friday fast and the Lenten fast—and feeling terrible when you
-fail. These practices have lost much of their importance in Christianity today, but Christians at
-the time feel powerfully bound to observe them.
+fail. These practices have lost much of their importance in Christianity today, but Christians then
+feel powerfully bound to observe them.
 
 <!-- research: [Q-004] [Q-005] [C-007] [C-008] -->
 
@@ -187,11 +189,12 @@ There is one who swears by God's cap. Constantly.
 
 And on the other hand, he says, everyone always has the devil on their lips: go to the devil, may
 the devil take you. And this, Joinville says, is an ugly thing; it is one of the tragedies of our
-fine kingdom of France. The saintly King Louis never mentions either God or the devil. I never hear
-him say these things. We, on the other hand, do. And mentioning God in this way is not actually the
-most serious thing; what is serious is mentioning the devil. In fact, Joinville says: in my
-household I establish a rule. Anyone who lets a mention of the devil slip from his lips either pays
-a forfeit or does penance, and among my servants this bad habit practically disappears.
+fine kingdom of France. The saintly King Louis never mentioned either God or the devil. I never
+heard him say these things. We, on the other hand, do. And mentioning God in this way is not
+actually the most serious thing; what is serious is mentioning the devil. In fact, Joinville says:
+in my household I established a rule. Anyone who lets a mention of the devil slip from his lips
+either pays a forfeit or does penance, and among my servants this bad habit has practically
+disappeared.
 
 Mentioning God, by contrast, is acceptable. To reinforce a statement, you call God as your witness.
 Joinville does it too, but sometimes it gets him into trouble. He tells another story from the
@@ -207,7 +210,7 @@ says, “Out of my household now; for, so help me God, you will never be with me
 
 The man leaves in tears, then comes back and begs Joinville to forgive him. He brings friends who
 plead with Joinville: come on, over something like this? Joinville says he would gladly forgive the
-man, but he has sworn an oath. He has said, so help me God, you will never enter my household again. He
+man, but he has sworn an oath. He said, so help me God, you will never enter my household again. He
 can't simply take him back as though nothing happened. If the papal legate releases him from the
 oath, Joinville will be delighted to take the knight back.
 
@@ -276,14 +279,14 @@ shall all go to paradise.' But we did not believe him.
 <!-- chapter: CH-008; transcript: U-00308–U-00361 -->
 
 —which is something that rather surprises Joinville, because, after all, keeping your word,
-certainly—but with those people? And yet it happens; he sees it himself. After their captivity they
+certainly—but with those people? And yet it happened; he saw it himself. After their captivity they
 are paying the ransom. There have been long negotiations with the Saracens who captured them, and in
 the end they have agreed on a very large sum, 200,000 livres tournois, an enormous sum, to free the
 king and the great lords. The money has arrived from France, and it has taken days and days to count
 and hand it over.
 
-Joinville records the exchange and Louis’s response: Then Sir Philippe de Nemours told the king that
-the Saracens had been undercounted by one balance-load of ten thousand livres. The king became
+Joinville records the exchange and Louis’s response: Then Sir Philippe de Nemours told the king
+that the Saracens had been undercounted by one balance-load of ten thousand livres. The king became
 extremely angry and said that he wished the ten thousand livres to be returned to them, because he
 had promised to pay them two hundred thousand livres before leaving the river. I then trod on Sir
 Philippe's foot and told the king not to believe him, because what he said was untrue: the Saracens
@@ -295,13 +298,13 @@ ship waiting at sea, to remove himself from the Saracens' hands. The king would 
 instead, he said that he would not leave the river, just as he had promised, until he had paid them
 two hundred thousand livres.
 
-So, as you can see, it is not very easy to live with this king. I began by telling you about a
+So, as you can see, it was not very easy to live with this king. I began by telling you about a
 crusading knight with a profound religiosity, but having a profound religiosity is one thing and
-living with a saintly king who pushes things to the extreme is another. Moreover, when Joinville
-writes as an old man, it is official by then: the king is a saint; he has been canonized. But when
-these things happen, when they are both young, the king already has a reputation for being a
-saint—but you understand the difference. Joinville greatly admires him and loves him very much, but
-working with him is not at all easy. Opportunities for conflict arise constantly.
+having to live with a saintly king who pushes things to the extreme is another. Moreover, when
+Joinville writes as an old man, it is official by then: the king is a saint; he has been canonized.
+But when these things happened, when they were both young, yes, the king already had this reputation
+for being a saint, but you understand the difference. Joinville greatly admired him and loved him
+very much, but working with him was not at all easy. Opportunities for conflict arose constantly.
 
 Joinville tells the episode this way: In the course of our marches we came to the sands of Acre,
 where the king and the army encamped. There a large company from Greater Armenia came to me on
@@ -339,9 +342,10 @@ overseas for a company of ten knights including myself, with two other knights b
 I arrived in Cyprus, after paying for my ship, I had only two hundred and forty livres tournois
 left. Some of my knights sent word that unless I found money, they would leave me. God, who never
 failed me, then provided for me in this way: the king, who was at Nicosia, sent for me, retained me
-in his service, and put eight hundred livres in my coffers; and then I had more money than I needed.
+in his service, and put eight hundred livres in my coffers; and then I had more money than I
+needed.
 
-When the earlier arrangement expires, Joinville and Louis make a new bargain: While the king was
+When the earlier arrangement expired, Joinville and Louis made a new bargain: While the king was
 fortifying Caesarea, I went to his quarters to see him. As soon as he saw me enter his chamber,
 where he was speaking with the legate, he rose, drew me aside, and said: 'You know,' said the king,
 'that I retained you only until Easter; so I ask you to tell me what I should give you to remain
@@ -427,7 +431,7 @@ in richer camelin cloth than the king.' Then I took the hem of his surcoat and t
 and said to him: 'Now see whether I am telling the truth.' The king then began to defend Master
 Robert verbally with all his might.
 
-Joinville says Louis later reconsiders his intervention: Then he told me that he had called us so
+Joinville says Louis later reconsidered his intervention: Then he told me that he had called us so
 that he could confess to me that he had wrongly defended Master Robert against me. 'But,' he said,
 'I saw him so bewildered that he badly needed my help. Still, do not attach importance to anything I
 said in Master Robert's defense, for, as the seneschal says, you ought to dress well and neatly, so
@@ -511,7 +515,7 @@ on his head and a German sword in his hand.
 Naturally, there are other things that are also supposed to justify their privileges. They should be
 the best mannered, most courteous and refined, the people who know how to behave. In part it is
 true: they attach importance to these things. Then the scenes Joinville recounts show us that
-reality is often different.
+reality was often different.
 
 <!-- research: [Q-024] [Q-025] [C-027] [C-028] [C-029] -->
 
@@ -540,14 +544,14 @@ had already been around him for five years, yet I had never heard him speak of t
 children, either to me or to anyone else; and it was not good conduct, as it seems to me, to be
 aloof from one's wife and children.
 
-If we wanted—well, we still have five minutes. There are reasons for this in King Louis, and he is
+If we wanted—well, we still have five minutes. There were reasons for this in King Louis, and he is
 another figure who would yield interesting results if one applied a little psychoanalysis. The king
-loses his father very young and remains for years under his mother's guardianship. Queen Blanche of
-Castile is a formidable woman of power who governs the kingdom for years while he is a child. When
-he grows up, he takes control of the kingdom himself, but Blanche of Castile, his mother, is always
-present and controls everything. The king has to marry, because a king must marry and produce heirs.
-But Blanche does not get along with her daughter-in-law and does everything she can to keep her away
-from her husband.
+lost his father very young and remained for years under his mother's guardianship. Queen Blanche of
+Castile was a formidable woman of power who governed the kingdom for years while he was a child.
+When he grew up he took control of the kingdom himself, but Blanche of Castile, his mother, was
+always present and controlled everything. The king had to marry, because a king must marry and
+produce heirs. But Blanche did not get along with her daughter-in-law and did everything she could
+to keep her away from her husband.
 
 Joinville describes the arrangement at Pontoise: Queen Blanche's harsh treatment of Queen Margaret
 went so far that, as much as she could, Blanche would not allow her son to be in his wife's company
@@ -635,7 +639,7 @@ by God's coif!—that was how he swore—you and I will yet speak of this day in
 This is one of those cases in which chivalric culture—honor and pride, but also courtly love,
 boasting, but boasting after winning, not after losing—comes together. We will win, we will return
 alive, we will remember this day, and in the ladies' chambers we will make ourselves look splendid
-by recounting our adventures. And Joinville lives so long that he does indeed manage to tell his
+by recounting our adventures. And Joinville lived so long that he did indeed manage to tell his
 adventures, and I have tried, in a small way, to tell them to you too. Thank you, thank you.
 
 <!-- research: [Q-031] [C-036] -->

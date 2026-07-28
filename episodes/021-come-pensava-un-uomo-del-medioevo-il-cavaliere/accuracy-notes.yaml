@@ -1,0 +1,135 @@
+- id: N-001
+  transcript: [U-00008–U-00022]
+  claim_ids: [C-001]
+  quotation_ids: []
+  source_ids: [SRC-002, SRC-006]
+  category: factual-error
+  original_assertion: Joinville owned several castles and, as seneschal of Champagne, served as the French king's administrator and representative in Champagne.
+  proposed_correction: Joinville was lord of Joinville and exercised seigneurial authority over his lands. He also held the hereditary office of seneschal of the county of Champagne; that office did not make him the French king's regional administrator.
+  decision: retain-original
+- id: N-002
+  transcript: [U-00063–U-00070]
+  claim_ids: [C-004]
+  quotation_ids: []
+  source_ids: [SRC-002]
+  category: misleading-compression
+  original_assertion: An ordinary knight's day began with exactly one Mass, while Louis IX attended several Masses and offices every day.
+  proposed_correction: Joinville presents daily Mass as his normal routine during the crusade, while his portrait of Louis describes an exceptionally intensive daily sequence of Masses and divine offices.
+  decision: retain-original
+- id: N-003
+  transcript: [U-00072–U-00096]
+  claim_ids: [C-005]
+  quotation_ids: [Q-002]
+  source_ids: [SRC-002, SRC-010]
+  category: material-uncertainty
+  original_assertion: The returning fleet found all of Lampedusa deserted and the two bodies were evidently the hermits who had lived there.
+  proposed_correction: On Lampedusa they found an apparently abandoned old hermitage. Joinville identifies the remains only as two dead people and does not establish either that they were the former hermits or that the whole island was uninhabited.
+  decision: retain-original
+- id: N-004
+  transcript: [U-00102–U-00117]
+  claim_ids: [C-006]
+  quotation_ids: [Q-003]
+  source_ids: [SRC-002, SRC-010]
+  category: misleading-compression
+  original_assertion: Joinville personally witnessed a sailor fall into the sea and saw the Virgin appear to hold him up.
+  proposed_correction: Joinville saw a motionless figure in the water from another ship and questioned the rescued man afterward. The man was a squire, and he said that Our Lady of Vauvert supported him by the shoulders; Joinville does not describe seeing either the fall or a visible apparition.
+  decision: retain-original
+- id: N-005
+  transcript: [U-00159–U-00192]
+  claim_ids: [C-009, C-010]
+  quotation_ids: [Q-006]
+  source_ids: [SRC-002, SRC-013]
+  category: misleading-compression
+  original_assertion: The Turks had defeated the crusaders; elite captives were always treated courteously, and an emir invited Joinville to lunch for a cheerful conversation about their family trees and mutual acquaintances.
+  proposed_correction: Egyptian forces captured the crusaders during the April 1250 retreat amid the transition from Ayyubid to Mamluk rule. Rank improved a captive's prospects of protection and ransom but did not guarantee courteous treatment. The chief admiral questioned Joinville about his claimed kinship with Frederick II while Joinville was a prisoner; the account does not describe a freely offered luncheon or a broad comparison of family trees.
+  decision: retain-original
+- id: N-006
+  transcript: [U-00198–U-00210]
+  claim_ids: [C-011]
+  quotation_ids: [Q-007]
+  source_ids: [SRC-002, SRC-014]
+  category: misleading-compression
+  original_assertion: Louis IX never mentioned either God or the devil, and Joinville punished servants who mentioned the devil with a forfeit or penance.
+  proposed_correction: Joinville says that over twenty-two years he never heard Louis swear by God, God's mother, or the saints, or name the devil except when a text required it. In a separate passage, he says that anyone using the devil formula in his own household owed a cuff or a slap.
+  decision: retain-original
+- id: N-007
+  transcript: [U-00310–U-00334]
+  claim_ids: [C-016]
+  quotation_ids: [Q-013]
+  source_ids: [SRC-002, SRC-013]
+  category: factual-error
+  original_assertion: The agreed ransom for the king and great lords was 200,000 livres tournois.
+  proposed_correction: The settlement exchanged Damietta for the king and required 400,000 livres tournois after a 100,000-livre reduction. The 200,000 livres in this episode was the first installment, which Louis insisted on paying in full.
+  decision: retain-original
+- id: N-008
+  transcript: [U-00420–U-00438]
+  claim_ids: [C-020]
+  quotation_ids: [Q-017]
+  source_ids: [SRC-002, SRC-007]
+  category: factual-error
+  original_assertion: In Africa during the summer, Louis personally began burying bodies left outside the camp and later refused a proposal to return home unless everyone could be transported with him.
+  proposed_correction: At Sidon in 1253, on the Levantine coast, Louis helped carry decomposing Christian bodies into burial trenches. In the separate 1250 episode, he refused to escape alone by galley because doing so would leave hundreds of people stranded in Cyprus.
+  decision: apply
+- id: N-009
+  transcript: [U-00474–U-00490]
+  claim_ids: [C-022]
+  quotation_ids: [Q-020]
+  source_ids: [SRC-002, SRC-020]
+  category: factual-error
+  original_assertion: Robert de Sorbon founded the College of the Sorbonne, where the University of Paris would later be based.
+  proposed_correction: Robert de Sorbon rose from a non-noble background to become a master of theology and royal cleric. He founded a theological college in 1253, royally confirmed in 1257, that became known as the Sorbonne; he did not found the University of Paris.
+  decision: apply
+- id: N-010
+  transcript: [U-00459–U-00506]
+  claim_ids: [C-023, C-024]
+  quotation_ids: []
+  source_ids: [SRC-002, SRC-021, SRC-022, SRC-023]
+  category: misleading-compression
+  original_assertion: In Joinville's world everyone who worked was a villain, and European nobles maintained an essentially unchanged belief in their intrinsic superiority until well into the nineteenth century.
+  proposed_correction: Joinville uses the term vilain flexibly and contemptuously for common, low-born, or non-noble people rather than as a fixed category for every worker. Hereditary claims of noble distinction remained influential for centuries, but revolutions, legal equality, intermarriage, ennoblement, and national differences substantially changed European nobility before and during the nineteenth century.
+  decision: retain-original
+- id: N-011
+  transcript: [U-00570–U-00573]
+  claim_ids: [C-028]
+  quotation_ids: []
+  source_ids: [SRC-002, SRC-016, SRC-017]
+  category: misleading-compression
+  original_assertion: Knights did not see infantrymen and servants, who were often the first to be killed whenever a battle went badly.
+  proposed_correction: Knightly narratives foreground mounted elites, but crusading armies also depended on infantry, crossbowmen, sergeants, sailors, servants, and other followers. Lower-status people often had less armor, mobility, and ransom value and could be especially vulnerable during collapse or captivity, although Joinville sometimes notices and praises them.
+  decision: retain-original
+- id: N-012
+  transcript: [U-00611–U-00631]
+  claim_ids: [C-030, C-031]
+  quotation_ids: [Q-028]
+  source_ids: [SRC-002, SRC-017, SRC-026]
+  category: disputed
+  original_assertion: Blanche of Castile controlled everything in her adult son's life, kept him apart from his wife, and left him emotionally stunted and uninterested in women.
+  proposed_correction: Blanche exercised exceptional political power during Louis's minority and remained a powerful familial presence afterward. Joinville's Pontoise anecdote depicts her interfering in Louis's marriage, but Louis's adult decisions and other evidence of affection for Margaret do not support a psychological diagnosis or the claim that his mother controlled everything.
+  decision: retain-original
+- id: N-013
+  transcript: [U-00650–U-00658]
+  claim_ids: [C-032]
+  quotation_ids: []
+  source_ids: [SRC-002, SRC-027, SRC-028]
+  category: misleading-compression
+  original_assertion: Medieval adults played chess, draughts, modern backgammon, blind man's buff, and hide-and-seek, and always played every game for money.
+  proposed_correction: Medieval aristocratic adults openly played and often gambled on dice, chess, and tables, a family of games related to backgammon. Louis condemned gambling, and the evidence does not establish that every game involved money or securely support the specific hide-and-seek example.
+  decision: retain-original
+- id: N-014
+  transcript: [U-00676–U-00693]
+  claim_ids: [C-034, C-035]
+  quotation_ids: []
+  source_ids: [SRC-002, SRC-013, SRC-017]
+  category: misleading-compression
+  original_assertion: Robert of Artois deliberately overtook the Templars, their competitive race destroyed almost all the Templars, and this episode caused the crusade to be lost.
+  proposed_correction: At Mansurah, Robert's division passed the Templar vanguard while pursuing the fleeing enemy. The Templars followed rather than endure the dishonor of falling behind, and the force became trapped in the city's streets; Robert and most of that Templar contingent were killed. The disaster was a major tactical loss, but later supply interdiction, hunger, disease, and the failed April withdrawal also led to the crusader army's collapse.
+  decision: retain-original
+- id: N-015
+  transcript: [U-00699–U-00725]
+  claim_ids: [C-036]
+  quotation_ids: [Q-031]
+  source_ids: [SRC-002, SRC-013]
+  category: factual-error
+  original_assertion: During the army's retreat, Joinville and the count of Soissons stood completely alone at a little bridge while the entire Christian force withdrew behind them.
+  proposed_correction: During the battle of Mansurah on February 8, 1250, Joinville and the count of Soissons helped hold a small bridge so attackers could not strike Louis's forces from front and rear. Other knights and royal sergeants were nearby, and royal crossbowmen eventually drove the attackers off; this was not the army's later April retreat.
+  decision: apply

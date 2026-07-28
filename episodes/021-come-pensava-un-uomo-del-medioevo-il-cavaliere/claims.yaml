@@ -14,7 +14,6 @@
       locator: "dedication, section 1, p. 1"
       note: "The title is seneschal of Champagne, attached to its count, not royal administrator or regional representative of the king of France."
   status: resolved
-  script_treatment: correct
   research_note: "Evidence tier 1 for Joinville's own titles and lordly responsibility, tier 3 for the office's institutional history. Preserve him as a castle-owning lord exercising seigneurial authority and as hereditary seneschal of the county of Champagne. Remove the claim that this made him the French king's local representative; avoid multiplying castles or specifying taxes without separate evidence."
 - id: C-002
   claim: "Louis IX led two crusades; Joinville joined the expedition beginning in 1248 but not the later expedition in which Louis died."
@@ -29,7 +28,6 @@
       note: "Modern crusade scholarship confirms the chronology, destinations, and Joinville's relationship to the first expedition."
   conflicting_sources: []
   status: resolved
-  script_treatment: clarify
   research_note: "Evidence tiers 1 and 3. Preserve the two expeditions: Joinville left on the crusade begun in 1248, remained through the Egyptian defeat and Louis's four years in the Latin East, and returned in 1254. He refused Louis's 1270 expedition to Tunis, where Louis died on 25 August. Say 'in 1270,' not the vague 'in the Seventy'; conventional crusade numbering can be omitted."
 - id: C-003
   claim: "In old age after Louis IX's canonization, Joinville wrote a commissioned life of the king that functions substantially as his own crusade memoir."
@@ -47,7 +45,6 @@
       note: "Scholarly assessment treats the work as a many-sided life whose unusually extensive crusade narrative is grounded in Joinville's personal memories."
   conflicting_sources: []
   status: resolved
-  script_treatment: clarify
   research_note: "Evidence tiers 1–3. Louis was canonized in 1297. Jeanne of Navarre commissioned the book before her death in 1305; Joinville completed and dedicated it in October 1309 to her son Louis, future Louis X. It is formally a book of the saint's words and deeds, but its long central crusade narrative is intensely autobiographical. Composition in layers remains debated, and the presentation manuscript is lost; avoid saying Joinville simply decided on his own to write a memoir."
 - id: C-004
   claim: "Louis IX attended several masses and divine offices daily, while Joinville ordinarily attended one daily mass."
@@ -59,7 +56,6 @@
       note: "Joinville gives Louis a daily sequence of sung hours, an unsung requiem mass, the sung mass of the day or saint, the office of the dead, vespers, and compline; overseas, Joinville's chaplains arranged his own mass around dawn before he went to the king."
   conflicting_sources: []
   status: resolved
-  script_treatment: qualify
   research_note: "Evidence tier 1, but from Joinville's saintly portrait rather than an administrative schedule. Preserve Louis's unusually intensive daily devotions. Joinville also presents daily mass as his normal crusading routine, but this proves the practice in his organized overseas household, not that every ordinary knight everywhere necessarily heard exactly one mass every day."
 - id: C-005
   claim: "Joinville's returning fleet stopped at Lampedusa and encountered a deserted hermitage where a sailor chose to remain."
@@ -77,7 +73,6 @@
       locator: "sections 638–639, pp. 268–269"
       note: "The captain only supposed the missing mariner had stayed to become a hermit; Joinville does not establish his intention, identify the two bodies as hermits, or call them bare skeletons."
   status: resolved
-  script_treatment: qualify
   research_note: "Evidence tier 1 for Joinville's report and tier 3 for context. Preserve the Lampedusa stop on the return from the eastern Mediterranean, but keep the source's uncertainty: a mariner was missing when they re-embarked, the shipmaster guessed he had remained as a hermit, and Nicholas of Soissons left three sacks of biscuit. The island contained an apparently abandoned old hermitage, not proof that the whole island was empty."
 - id: C-006
   claim: "Joinville had the sailor's rescue by the Virgin depicted in his chapel at Joinville and in church windows at Blécourt."
@@ -95,7 +90,6 @@
       locator: "section 651, p. 274"
       note: "The rescued man was a squire, not a sailor; the text says Joinville had the scene 'painted' in his chapel and in the glazing at Blécourt, but does not securely establish a surviving fresco in a village church."
   status: resolved
-  script_treatment: correct
   research_note: "Evidence tier 1 for the commission and tier 3 for interpretation. Say Joinville commissioned depictions of the squire's rescue in his chapel at Joinville and in stained-glass windows at Blécourt. Do not assert that either survives, that the first was necessarily a fresco, or that the rescued person was one of the sailors."
 - id: C-007
   claim: "Public theological disputations between Christian clerics and rabbis formed part of medieval clerical culture, and Joinville locates one such story at Cluny."
@@ -113,7 +107,6 @@
       locator: "sections 51–53, pp. 21–23"
       note: "Joinville did not witness or locate the event chronologically: he explicitly presents it as a story Louis told him, and its lesson is hostile to lay disputation rather than a neutral public exchange."
   status: resolved
-  script_treatment: qualify
   research_note: "Evidence tier 1 for Joinville's reported anecdote and tier 3 for its cultural setting. Preserve that formally staged Christian-Jewish disputations belonged to thirteenth-century clerical and royal polemic. Label the Cluny scene as a story Louis told Joinville, not as independently verified proceedings; its violence and coercive Christian framing are essential context."
 - id: C-008
   claim: "Friday and Lenten fasting rules were experienced as strongly binding by thirteenth-century lay Christians such as Joinville."
@@ -131,7 +124,6 @@
       locator: "section 328, p. 137"
       note: "The legate was angry at Joinville's severe compensatory bread-and-water fast because he was the only important lay lord remaining with Louis, so that penance was personal rigor rather than the ordinary required rule."
   status: resolved
-  script_treatment: clarify
   research_note: "Evidence tiers 1 and 3. Preserve how binding Friday abstinence felt to Joinville. Distinguish abstinence from meat from fasting: his bread-and-water fast on later Lenten Fridays was self-imposed compensation, not the baseline rule, and the legate considered it imprudent in the circumstances."
 - id: C-009
   claim: "After the crusaders' defeat, high-status captives could receive courteous treatment and be held for ransom while vulnerable ordinary prisoners faced much greater danger."
@@ -149,7 +141,6 @@
       locator: "sections 320–330 and 351–354, pp. 133–137 and 146–148"
       note: "Rank improved a captive's value but did not guarantee courtesy: Joinville was repeatedly threatened with death, and the imprisoned nobles were threatened during negotiations."
   status: resolved
-  script_treatment: qualify
   research_note: "Evidence tiers 1 and 3. The April 1250 defeat and retreat from al-Mansurah ended in capture by Egyptian forces amid the Ayyubid-to-Mamluk transition, not simply 'the Turks.' Preserve the stark hierarchy: valuable elite captives had better prospects of protection and ransom, while sick and low-value prisoners were acutely vulnerable. Replace 'always treated courteously' with a probabilistic formulation."
 - id: C-010
   claim: "Joinville considered himself related to Emperor Frederick II and discussed that connection with a Muslim emir."
@@ -164,7 +155,6 @@
       locator: "section 326, p. 136"
       note: "The cautious wording 'I understood' reports Joinville's belief, not a demonstrated pedigree; the conversation is a direct question from his captor, not a cheerful comparison of family trees and mutual acquaintances."
   status: resolved
-  script_treatment: qualify
   research_note: "Evidence tier 1 for what Joinville claimed. Frederick II was still alive during Joinville's capture in April 1250 and was prestigious to his captors. Preserve the encounter as Joinville's reported understanding that his mother, Béatrice d'Auxonne, was Frederick's first cousin; no reliable pedigree located establishes that exact degree, so do not state the kinship as independently proven or identify the unnamed chief admiral more precisely."
 - id: C-011
   claim: "A layman's oath invoking God could bind him permanently, and the papal legate would not necessarily dispense him from it."
@@ -182,7 +172,6 @@
       locator: "II–II, q. 89, arts. 7 and 9"
       note: "Medieval theology did not make every spoken oath permanently immutable: lawfulness, possibility, harm, authority, release by a beneficiary, and dispensation all mattered."
   status: resolved
-  script_treatment: qualify
   research_note: "Evidence tier 1 for both the episode and a contemporary theological framework. Preserve the legate's refusal in this case, including his stated reason that the oath was reasonable. Do not generalize it into inability to dispense any oath or say that merely uttering 'so help me God' always bound a person forever; Joinville himself presents the story as a warning against swearing rashly."
 - id: C-012
   claim: "Joinville's reasoning presents service to God as justified in part by expectations of practical protection and longer life."
@@ -197,7 +186,6 @@
       locator: "section 461, p. 193"
       note: "The passage does not say that Christians serve God in exchange for longer life, nor does Joinville call the relationship a contract; those are Barbero's interpretive conclusions."
   status: resolved
-  script_treatment: correct
   research_note: "Evidence tier 1. Preserve Joinville's concrete expectation that providence can alter danger and lifespan. Recast the supposed 'contract with God' as Barbero's interpretive gloss: Joinville argues for divine freedom against fatalism, but the cited text does not explicitly reduce service to God to a bargain for practical protection."
 - id: C-013
   claim: "Joinville attributed to Bedouins a fatalistic belief that each person's date of death was predetermined."
@@ -215,7 +203,6 @@
       locator: "pp. 143–146, comparison with Jacques de Vitry's varying Bedouin groups and descriptions"
       note: "The report belongs to a Latin-Christian ethnographic and literary tradition whose classifications of Bedouins, Muslims, and the 'law of Ali' are inaccurate and internally unstable."
   status: resolved
-  script_treatment: qualify
   research_note: "Evidence tiers 1 and 3 for what Joinville wrote, not for a universal historical Bedouin or Muslim doctrine. Preserve the attribution as Joinville's report and his link between predestination and armor. Remove the unsupported image of a death date written on the forehead, and avoid presenting his account as proof of a single timeless 'Muslim fatalism.'"
 - id: C-014
   claim: "Before leaving for the crusade, Joinville made a humble walking pilgrimage around nearby churches and then remained away from his family and castle for six years."
@@ -230,7 +217,6 @@
       locator: "sections 122–123, pp. 53–54"
       note: "Joinville says he left two children and deliberately did not look back at his castle; the text describes named holy places and relics, not a generic circuit around nearby churches."
   status: resolved
-  script_treatment: clarify
   research_note: "Evidence tier 1. Preserve the vivid departure ritual: after receiving scrip and staff, Joinville walked barefoot in a pilgrim's shirt to Blécourt, Saint-Urbain, and other holy places, then avoided looking back at his castle and two children. His own prologue calls his time with Louis overseas six years, a rounded description of the 1248–1254 absence."
 - id: C-015
   claim: "When Saracen galleys surrounded Joinville's vessel, he and his company chose surrender over an isolated proposal to seek martyrdom."
@@ -248,7 +234,6 @@
       locator: "sections 318–320, pp. 132–133"
       note: "The company chose capture by the galleys because it offered better odds than capture ashore, not from an abstract rejection of martyrdom; the lone dissenter is described as a cellarer from Doulevant."
   status: resolved
-  script_treatment: qualify
   research_note: "Evidence tiers 1 and 3. Preserve the sharp exchange and their pragmatic surrender, but locate it on the Nile during the April 1250 retreat. Four galleys approached; the group preferred staying together as captives to being dispersed and sold ashore. Present the martyrdom proposal as one man's view, not proof of a general opposition between rational knights and religious fanatics."
 - id: C-016
   claim: "Louis IX's ransom agreement required payment of 200,000 livres tournois, and he insisted that the captors receive the full promised sum."
@@ -266,7 +251,6 @@
       locator: "sections 342–343 and 378, pp. 142–143 and 157"
       note: "Two hundred thousand livres was the immediate installment required before departure, not the whole ransom: Joinville says the monetary total was reduced from 500,000 to 400,000 livres, with Damietta exchanged for Louis himself."
   status: resolved
-  script_treatment: correct
   research_note: "Evidence tiers 1 and 3. Correct the accounting while keeping the anecdote: the settlement comprised Damietta and 400,000 livres tournois after a 100,000-livre discount. The 200,000 livres in Joinville's story was the first installment. Louis angrily ordered a reported shortfall paid and remained on the river until the full installment was delivered."
 - id: C-017
   claim: "Armenian Christian pilgrims passed through the crusader camp under Muslim permission and asked to see Louis IX as a holy king."
@@ -281,7 +265,6 @@
       locator: "sections 565–566, pp. 237–238"
       note: "The account says the pilgrims were conducted by Saracens for a large payment, not merely traveling under an abstract permission; Joinville, rather than the pilgrims, makes the joke about kissing Louis's bones."
   status: resolved
-  script_treatment: clarify
   research_note: "Evidence tier 1. Preserve the encounter at the Acre camp on 29 June 1253. Describe the visitors as pilgrims from Greater Armenia en route to Jerusalem, escorted by Muslims after paying a substantial tribute. They asked to see 'the holy king'; Joinville's joke about not kissing Louis's bones plays on treating a living saint as a future relic."
 - id: C-018
   claim: "By Joinville's time, extended knightly service—especially overseas crusading service—was normally contracted and paid rather than rendered without compensation under feudal obligation."
@@ -299,7 +282,6 @@
       locator: "chapters 4–6 and 10"
       note: "The evidence does not support saying that unpaid service had disappeared or that nine knights out of ten universally demanded wages; legal obligation and social or devotional motives remained important alongside contracts."
   status: resolved
-  script_treatment: qualify
   research_note: "Evidence tiers 1 and 3. Joinville supplies unusually concrete proof that prolonged overseas service was negotiated and paid: Louis retained men for money, and Joinville both contracted with the king and paid knights beneath his banner. Recast 'nobody serves for free anymore' as an oral exaggeration. In the thirteenth century pay was fundamental to sustaining such an expedition, but feudal, household, chivalric, and religious bonds still operated."
 - id: C-019
   claim: "Louis IX's crusade required extensive finance for recruitment, knightly contingents, horses, attendants, and ships."
@@ -320,7 +302,6 @@
       locator: "sections 123 and 440–441, pp. 54 and 183–184"
       note: "Joinville initially says he took nine knights, not ten; his later 2,000-livre agreement retained a differently constituted contingent. The source describes hiring and loading shipping, not royal fabrication of an entire fleet."
   status: resolved
-  script_treatment: clarify
   research_note: "Evidence tiers 1 and 3. Preserve the central point that crusading on this scale demanded enormous organized expenditure: recruiting and retaining fighters, their horses, arms, attendants, food, transport, ships, and stores. Use Joinville's 2,000-livre contract as a vivid individual example, while distinguishing it from his original nine-knight company and saying ships were contracted or hired rather than simply 'built.'"
 - id: C-020
   claim: "Louis IX personally began burying unburied battlefield corpses and later refused to leave the expedition unless the others could also be brought home."
@@ -338,7 +319,6 @@
       locator: "sections 9–10, 419–437, and 582, pp. 3–4, 175–182, and 244–245"
       note: "Barbero fuses separate episodes: the burial occurred at Sidon, while the explicit refusal to leave his people concerns galley evacuation during the 1250 retreat. Joinville does not report Louis asking whether transport existed to bring everyone home."
   status: resolved
-  script_treatment: correct
   research_note: "Evidence tiers 1 and 3, with strong hagiographic shaping. Keep the two memorable actions but separate them. During the April 1250 Nile retreat Louis refused to escape alone by galley and shared his army's capture. At Sidon in 1253 he helped carry unburied, decomposing Christian corpses into trenches. Do not relocate Sidon to Africa or turn the refusal into a literal dialogue about transporting everyone home."
 - id: C-021
   claim: "Louis IX washed poor people's feet on Maundy Thursday and encouraged Joinville to imitate him."
@@ -356,7 +336,6 @@
       locator: "section 29, pp. 11–12"
       note: "Joinville does not say in this passage that he first watched Louis wash feet, nor does he record whether he obeyed; the scene is a conversation about Joinville's practice."
   status: resolved
-  script_treatment: clarify
   research_note: "Evidence tier 1 for Louis's instruction and tier 3 for his own practice as reconstructed from hagiographical sources. Preserve Maundy Thursday as the ritual setting and the imitation of Christ as Louis's stated reason. Louis did perform foot washing, but Barbero's immediate scene should remain a question and rebuke, not be staged as Joinville watching the king or agreeing to comply."
 - id: C-022
   claim: "Robert de Sorbon rose from a non-noble background, served as a royal cleric, and founded the college later associated with the Sorbonne and University of Paris."
@@ -374,7 +353,6 @@
       locator: "institutional history, paragraphs on the University of Paris and Robert's college"
       note: "Robert did not found the University of Paris: he founded a small secular theological college within it; the college's name only later acquired the broader institutional meaning 'the Sorbonne.'"
   status: resolved
-  script_treatment: clarify
   research_note: "Evidence tiers 1 and 3. Preserve Robert's striking rise from a non-noble background to master of theology and royal cleric. Say he founded the theological college in 1253, with royal confirmation in 1257, which became known as the Sorbonne; do not say he founded the University of Paris. Joinville's insult establishes perceived low birth, but not a securely documented parental occupation."
 - id: C-023
   claim: "In Joinville's aristocratic worldview, the category of vilains could include peasants, merchants, financiers, and other non-nobles."
@@ -392,7 +370,6 @@
       locator: "entry 'vilain,' earliest senses and semantic development"
       note: "Vilain retained specifically rural and peasant senses as well as the broader roturier and contemptuous senses; it is not a precise universal synonym for every merchant, financier, or non-noble."
   status: resolved
-  script_treatment: qualify
   research_note: "Evidence tiers 1 and 3. The broad aristocratic opposition Barbero hears is real in these passages: Joinville can use vilain contemptuously for poor commoners, low-born parents, and the rich burgess Artaud. Translate by context—common people, low-born, non-noble, or villein—rather than always 'peasant' or modern English 'villain.' Do not turn this flexible insult into a fixed legal category encompassing every profession."
 - id: C-024
   claim: "European nobles retained a belief in their intrinsic hereditary superiority into the nineteenth century."
@@ -410,7 +387,6 @@
       locator: "introduction and conclusion"
       note: "Nineteenth-century nobility survived in a transformed post-revolutionary society without the uniform legal privileges of the old estate, and nobles varied by country, wealth, politics, and family strategy."
   status: resolved
-  script_treatment: qualify
   research_note: "Evidence tier 3. Hereditary claims of noble distinction plainly survived into modern Europe, and the point is defensible for eighteenth-century aristocratic ideology and nineteenth-century French noble identity. Narrow Barbero's continent-wide continuity claim: revolutions, legal equality, ennoblement, intermarriage, and national differences changed what nobility meant. Use it as a long-lived family ideology, not an unchanged belief held by every European noble through 1900."
 - id: C-025
   claim: "At the count of Champagne's court, the wealthy commoner Érard de Nogent was handed to a poor knight to be held until he paid ransom."
@@ -425,7 +401,6 @@
       locator: "sections 89–91, pp. 39–40"
       note: "The man is Artaud, not Érard; Henry the Liberal died decades before Joinville's birth, and Joinville frames the story as proof of the count's generosity rather than recording a witnessed judicial precedent."
   status: resolved
-  script_treatment: correct
   research_note: "Evidence tier 1 for the transmitted thirteenth-century anecdote and tier 2 for the underlying twelfth-century event. Correct the names and staging: at Troyes, Henry I the Liberal gives his wealthy, trusted burgess Artaud de Nogent to a poor knight seeking dowries for two daughters; the knight, not the count, grabs Artaud and settles for 500 livres. Label it a famous exemplary story about largesse and status power, not a stenographic record or proof of an ordinary legal right to ransom burgesses."
 - id: C-026
   claim: "A customary procedure required a royal sergeant who manhandled a knight to offer his hand for amputation before receiving pardon."
@@ -440,7 +415,6 @@
       locator: "sections 509–510, pp. 213–214"
       note: "Le Goulu offers the sword's pommel, not his hand, and Joinville calls this a judgment under the customs of the country; he does not present it as universal medieval law or say mutilation was never actually imposed."
   status: resolved
-  script_treatment: qualify
   research_note: "Evidence tier 1 for Joinville's eyewitness report. Preserve the theatrical procedure and status conflict, but localize it to Caesarea. Le Goulu offers the knight the means to cut off his fist, after which Joinville asks the knight to forgive him. The ritual evidently enables mercy, but the source does not establish whether the threatened amputation was symbolic only or how often the local custom was applied."
 - id: C-027
   claim: "Knightly combat required strenuous lifelong equestrian and weapons training beginning in childhood, using armor that Barbero estimates at forty kilograms."
@@ -470,7 +444,6 @@
       locator: "pp. 19–28"
       note: "A mid-thirteenth-century knight primarily wore mail and only variable supplementary plates, so a forty-kilogram figure associated with later full plate armor is chronologically misleading."
   status: resolved
-  script_treatment: correct
   research_note: "Evidence tiers 1 and 3. Preserve the bodily expertise: aristocratic boys often began riding around seven or eight and trained repeatedly in horsemanship and weapons thereafter. Use Thomasin's actual warning that an unridden schoolboy at twelve is poorly suited to knighthood. Correct the armor claim: Joinville's contemporaries primarily used padded defenses, mail hauberk and chausses, helmet, shield, and gradually added plates. A hauberk alone was roughly 11 kilograms; a complete fighting kit varied, but forty kilograms is too high as a representative weight for thirteenth-century body armor and should not be retained as a precise figure."
 - id: C-028
   claim: "Knights' self-image obscured the infantry and servants who also fought and were often especially exposed when medieval armies were defeated."
@@ -491,7 +464,6 @@
       locator: "sections 240–245, pp. 101–103"
       note: "Joinville does not simply erase non-knights: he names sergeants and a bourgeois in the fighting and credits royal crossbowmen with driving attackers away, even while his memoir remains centered on aristocratic companions."
   status: resolved
-  script_treatment: qualify
   research_note: "Evidence tiers 1 and 3. Preserve the corrective that a crusading army was far larger and more varied than its knightly memoirists' social foreground: infantry, crossbowmen, sergeants, sailors, servants, and other followers were indispensable. Lower-status people generally lacked elite armor, horses, and ransom value and could be especially vulnerable in collapse or captivity. Frame their narrative invisibility as a matter of emphasis, however—Joinville does sometimes see, name, and praise them—and avoid an unsupported universal casualty rule for every battle."
 - id: C-029
   claim: "Louis IX was among the first to land in Egypt, entering the water armed and on horseback and showing eagerness to attack."
@@ -509,7 +481,6 @@
       locator: "sections 162–164, pp. 68–70; section 228, pp. 95–96"
       note: "Louis lands and advances on foot, not on horseback; the gilded helmet belongs to Joinville's later portrait at Mansurah, and the standard of Saint-Denis and some troops were already ashore."
   status: resolved
-  script_treatment: correct
   research_note: "Evidence tiers 1 and 3. Preserve Joinville's outstanding image of royal courage at the Damietta landing: Louis jumps into water up to his armpits fully armed, reaches shore, couches his lance, and wants to attack. Correct the composite details: he is on foot, does not ask 'Where are the Turks?', and wears the famous gilded helmet only in a later Mansurah scene. 'Among the first' is Joinville's retrospective summary rather than a literal claim that nobody preceded him."
 - id: C-030
   claim: "After his father's early death, Louis IX remained under the powerful political and familial influence of his mother, Blanche of Castile."
@@ -530,7 +501,6 @@
       locator: "chapters on Louis's majority and Blanche's political partnership"
       note: "Blanche's continuing authority was not simply domination of a passive adult son: Louis governed independently from 1234 and deliberately entrusted the kingdom to her during his crusade."
   status: resolved
-  script_treatment: qualify
   research_note: "Evidence tiers 1 and 3. Louis was twelve when Louis VIII died in November 1226. Blanche's regency through 1234 and renewed regency in 1248–1252 demonstrate exceptional political power, while Joinville's marriage anecdotes show real familial pressure. Preserve that durable influence but remove psychoanalytic claims that Louis was emotionally stunted, uninterested in women, or merely controlled by his mother; his adult decisions and evidence of affection for Margaret complicate that picture."
 - id: C-031
   claim: "At Pontoise, the rooms occupied by Louis IX, his wife, and Blanche of Castile allowed the young couple to meet by a staircase while doorkeepers warned them of Blanche's approach."
@@ -548,7 +518,6 @@
       locator: "sections 606–607, p. 255"
       note: "The warning arrangement was not a symmetrical flight by both spouses: Louis ran to his chamber when Blanche approached it, while Margaret's ushers ensured Margaret was found in hers; Joinville gives no date or confrontation scene."
   status: resolved
-  script_treatment: qualify
   research_note: "Evidence tier 1 for Joinville's court anecdote and tier 3 for context. Margaret of Provence is the wife. Preserve the highly specific Pontoise architecture, spiral stair, two sets of ushers, staffs, and warning signals. Avoid calling the couple newlyweds, inventing what Blanche did if she caught them, or making both always retreat to separate rooms; Joinville reports a recurring arrangement without dating it."
 - id: C-032
   claim: "Medieval aristocratic adults openly played board games, dice, blind man's buff, and hide-and-seek, often gambling on games."
@@ -569,7 +538,6 @@
       locator: "sections 405 and 702, pp. 169–170 and 295"
       note: "Louis condemns rather than tolerates gambling; Joinville's tables episode does not establish draughts, hide-and-seek, mixed-gender play, or that games were always played for money."
   status: resolved
-  script_treatment: qualify
   research_note: >-
     Joinville §405 (pp. 169–170) gives unusually concrete evidence for elite adult
     gaming: Louis's brother Charles of Anjou was playing tables with Walter of
@@ -602,7 +570,6 @@
       locator: "section 583, pp. 245–246"
       note: "The anecdote contains no white tablecloth, crystal, outdoor tables, tents, or identified stone ammunition."
   status: resolved
-  script_treatment: correct
   research_note: >-
     Fine tableware could function as elite display, and archaeological work supports
     glass vessels as markers of consumption and status. But Joinville's actual scene
@@ -629,7 +596,6 @@
       locator: "chapter V, pp. 63–124"
       note: "Other contemporary narratives blame Robert more directly than Joinville does; 'most Templars' can responsibly refer only to the participating contingent, not the order as a whole."
   status: resolved
-  script_treatment: qualify
   research_note: >-
     Joinville §§218–219 (pp. 91–92) confirms the planned order at Mansurah on 8
     February 1250: the Templars were to form the vanguard and Robert of Artois's
@@ -665,7 +631,6 @@
       locator: "chapters on the Egyptian campaign of 1249–1250"
       note: "The crusade's defeat cannot be reduced to chivalric competition or one premature advance."
   status: resolved
-  script_treatment: qualify
   research_note: >-
     Joinville's sequence makes honour competition operationally causal: the Templars
     followed Robert's premature pursuit because letting him precede them would be a
@@ -695,7 +660,6 @@
       locator: "sections 236–243, pp. 99–103"
       note: "Joinville and Soissons were not literally alone, the feature was a small bridge rather than a causeway, and the scene did not occur during the army's April retreat."
   status: resolved
-  script_treatment: correct
   research_note: >-
     Joinville §§236–243 (pp. 99–103; see Q-031) places the scene during the battle of
     Mansurah on 8 February 1250, not during the army's April retreat toward Damietta.

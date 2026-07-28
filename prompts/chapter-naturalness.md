@@ -13,11 +13,23 @@ spoken more clearly. When using idiomatic expressions, use American English idio
 English ones. Keep Barbero's wit, momentum, audience contact, and rhetorical turns alive
 without adding flourish or manufacturing excitement. Do not perform a systematic tense rewrite in
 this pass; tense normalization belongs exclusively to the later chapter-tense review. You may be
-moderately assertive at the sentence level, but preserve paragraph and content order, every
+moderately assertive at the sentence level, but preserve existing paragraph sequence and content
+order, every
 substantive detail, meaningful
 repetition, rhetorical character, markers, and exact authoritative quotation wording. Do not add
 transitions, judgments, review commentary, factual qualifications, or new corrections; do not
 restructure a passage or edit another chapter.
+
+Replace literal discourse calques with context-appropriate American English. In particular, do not
+use “at a certain point” as a generic rendering of Italian *a un certo punto*. Depending on its
+meaning, use natural wording such as “then,” “eventually,” “at one point,” or “there comes a point
+when,” or recast the sentence without a time phrase. Do not replace every occurrence mechanically
+with the same expression.
+
+Paragraph readability belongs to this pass. Split an excessively long paragraph at clear existing
+topic or rhetorical transitions when doing so makes the spoken script easier to read. Do not merge
+paragraphs, reorder content, invent transitions, or use paragraph breaks to restructure the
+argument.
 
 Adapt Barbero's deictic references to the original lecture series for the podcast format: replace
 “yesterday's conference”, or a standalone “yesterday” referring to that lecture, with “the previous

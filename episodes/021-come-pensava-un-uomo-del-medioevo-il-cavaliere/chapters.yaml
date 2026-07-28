@@ -1,0 +1,85 @@
+- id: CH-001
+  title: Introducing Joinville and the knight's memoir
+  start: U-00001
+  end: U-00062
+  markers: [Q-001, C-001, C-002, C-003]
+- id: CH-002
+  title: Familiar faith, Lampedusa, and a witnessed miracle
+  start: U-00063
+  end: U-00118
+  markers: [C-004, Q-002, C-005, Q-003, C-006]
+- id: CH-003
+  title: A disputation ended with a crutch
+  start: U-00119
+  end: U-00157
+  markers: [Q-004, Q-005, C-007, C-008]
+- id: CH-004
+  title: "Meat on Friday: intention versus observance"
+  start: U-00158
+  end: U-00197
+  markers: [Q-006, C-009, C-010]
+- id: CH-005
+  title: "Dangerous words: devils, oaths, and dismissal"
+  start: U-00198
+  end: U-00235
+  markers: [Q-007, Q-008, C-011]
+- id: CH-006
+  title: A practical bargain with God
+  start: U-00236
+  end: U-00269
+  markers: [Q-009, Q-010, C-012, C-013]
+- id: CH-007
+  title: Sacrifice, survival, and the lone would-be martyr
+  start: U-00270
+  end: U-00307
+  markers: [Q-011, Q-012, C-014, C-015]
+- id: CH-008
+  title: A saint keeps his word—and takes a joke
+  start: U-00308
+  end: U-00361
+  markers: [Q-013, Q-014, C-016, C-017]
+- id: CH-009
+  title: Crusading accounts and a payment in patience
+  start: U-00362
+  end: U-00419
+  markers: [Q-015, Q-016, C-018, C-019]
+- id: CH-010
+  title: The saint whom other people cannot imitate
+  start: U-00420
+  end: U-00458
+  markers: [Q-017, Q-018, Q-019, C-020, C-021]
+- id: CH-011
+  title: Noble blood against Robert de Sorbon
+  start: U-00459
+  end: U-00506
+  markers: [Q-020, Q-021, C-022, C-023, C-024]
+- id: CH-012
+  title: Putting rich commoners in their place
+  start: U-00507
+  end: U-00549
+  markers: [Q-022, Q-023, C-025, C-026]
+- id: CH-013
+  title: Why knights believe they deserve privilege
+  start: U-00550
+  end: U-00588
+  markers: [Q-024, Q-025, C-027, C-028, C-029]
+- id: CH-014
+  title: "Courtesy, women, and the mother whom Louis cannot escape"
+  start: U-00589
+  end: U-00649
+  markers: [Q-026, Q-027, Q-028, Q-029, C-030, C-031]
+- id: CH-015
+  title: Adults at play and chivalry recapitulated
+  start: U-00650
+  end: U-00675
+  markers: [Q-030, C-032, C-033]
+- id: CH-016
+  title: Honor destroys the battle plan
+  start: U-00676
+  end: U-00698
+  markers: [C-034, C-035]
+- id: CH-017
+  title: “We shall speak of this day in the ladies' chambers”
+  start: U-00699
+  end: U-00726
+  markers: [Q-031, C-036]

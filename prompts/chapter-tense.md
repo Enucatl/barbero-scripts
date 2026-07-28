@@ -5,6 +5,10 @@ heading, chapter coverage comment, paragraph and content order, and text. Add ex
 `<!-- tense-reviewed: {chapter_id} -->` before the heading.
 
 Change only verb tense and the smallest surrounding grammatical words required for agreement.
+Conjugate each verb in the context of its complete sentence; never apply mechanical word or suffix
+replacement. Preserve subject–verb agreement, valid auxiliary and participle forms, and the
+sentence's intended subject. For example, do not produce malformed constructions such as “they
+does,” “everyone want,” “has passes,” or “Italy includes” from “Italy included.”
 
 The narration must be in the historical present. This is a strict requirement, not a stylistic
 preference. Convert virtually every finite verb that narrates, describes, explains, or provides
@@ -37,6 +41,8 @@ quotation wording. Do not edit another chapter.
 Compare the result against the input chapter and the same Italian chapter. Confirm exact ordered
 transcript coverage and marker order. Then audit every finite past-tense and conditional verb in
 the output. For each one, verify that it falls under a specific exception above; if it does not,
-convert it to historical present. A chapter with general narrative paragraphs left in past tense
-has failed this review. Assembly removes only the review comment and concatenates reviewed chapters
-in order; it performs no rewrite.
+convert it to historical present. Finally, compare the input and output sentence by sentence and
+read every complete output sentence for grammaticality, especially subject–verb agreement and
+auxiliary–participle combinations. A chapter with general narrative paragraphs left in past tense
+or with malformed grammar introduced by tense conversion has failed this review. Assembly removes
+only the review comment and concatenates reviewed chapters in order; it performs no rewrite.
