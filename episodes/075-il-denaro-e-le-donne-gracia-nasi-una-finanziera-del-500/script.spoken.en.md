@@ -6,7 +6,7 @@
 
 Good evening, everyone. So, tonight we’re going to tell a story: the story of a woman, a complicated story with many intertwined threads. It really is complicated; eventually, you’ll get lost. You’ll confuse one person with another—just know that from the start—but it’s inevitable.
 
-It is a story about money, naturally, because in this series we decided to talk about economics, which in concrete terms means money. In the period we are talking about, the Renaissance, it means, very concretely indeed, sacks of gold ducats. It is a story about family and money. And, as always happens in these cases, it is also a story of conflict. When family, money, and the management of money are involved, clashes and differing opinions about what ought to be done are inevitable. It is the story of a great family capable of protecting its members, but also of dividing amid hatred and resentment.
+It is a story about money, naturally, because in this series we decided to talk about economics, which in concrete terms means money. In the period we are talking about, the Renaissance, it means, very concretely indeed, sacks of gold ducats. It is a story about family and money. And, as always happens in these cases, it is also a story of conflict. When family, money, and the management of money are involved, clashes and differing opinions about what should be done are inevitable. It is the story of a great family capable of protecting its members, but also of being torn apart by hatred and resentment.
 
 It is also a story of intolerance and persecution, and of the stubborn resistance of a people, the Jews, in the Mediterranean of the Renaissance. Contrary to what we might expect today, given the way tolerance and intolerance are distributed in the present world, this was a people that then had to face the intolerance of the Christian world and, by contrast, the tolerance of the Muslim world.
 
@@ -112,7 +112,7 @@ It was 1536. Within a couple of years, Gracia left Lisbon for Antwerp. This too 
 
 In Antwerp there was Diogo—remember him?—the brother of Gracia’s dead husband, who managed the company. Now that everybody was reunited, what could be better than a fine marriage? Diogo Mendes married Brianda. Francisco had married Gracia, and his brother Diogo married Gracia’s sister.
 
-Under Sephardic Jewish rules, when a man died his brother ought to marry his widow, especially if there were no children. But Francisco and Gracia already had a daughter, also called Reyna. It was therefore not essential for Diogo to marry his brother’s widow; he could marry the widow’s sister instead, and everything still remained in the family.
+Under Sephardic Jewish rules, when a man died his brother should marry his widow, especially if there were no children. But Francisco and Gracia already had a daughter, also called Reyna. It was therefore not essential for Diogo to marry his brother’s widow; he could marry the widow’s sister instead, and everything still remained in the family.
 
 There are extraordinary symmetries in this family’s history. Gracia had a daughter by Francisco called Anna—which itself would mean Gracia—but also officially called Reyna. Brianda, who married her brother-in-law Diogo, likewise had a daughter whom she called Gracia within the family, while in the registry she was naturally Beatriz, like her aunt. I assure you that historians too go mad over this, so do not worry too much. But notice the symmetry: two sisters married two brothers, and each couple had a daughter.
 
