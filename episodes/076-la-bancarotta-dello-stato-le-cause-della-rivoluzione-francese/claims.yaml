@@ -1,657 +1,659 @@
+---
 - id: C-001
-  claim: "The monarchy's fiscal collapse forced Louis XVI to convene the Estates-General, opening the French Revolution."
-  transcript: [U-00025–U-00044]
+  claim: The monarchy's fiscal collapse forced Louis XVI to convene the Estates-General, opening the French Revolution.
+  transcript:
+  - U-00025–U-00044
   centrality: central
   supporting_sources:
-    - source_id: SRC-017
-      locator: "pp. 61–62, 84–86; translated republication of Journal of Economic History 49 (1989), pp. 545–568"
-      note: "Reconstructs the 1780s budget crisis and identifies the loss of fiscal control and credit as the immediate institutional crisis, while rejecting a simple inevitable decline driven by the inherited debt stock."
-    - source_id: SRC-018
-      locator: "section '1788–1848 : les premières réflexions autour du suffrage,' paragraph beginning 'Le 8 août 1788'"
-      note: "The French National Assembly's institutional history explicitly links Louis XVI's 8 August 1788 convocation for May 1789 to the grave financial crisis."
-    - source_id: SRC-016
-      locator: "Archives parlementaires, vol. 8, pp. 127 and 146"
-      note: "Documents the revolutionary consequence after convocation: the deputies' assumption of national legislative authority on 17 June and refusal to disperse on 23 June 1789."
+  - source_id: SRC-017
+    locator: pp. 61–62, 84–86; translated republication of Journal of Economic History 49 (1989), pp. 545–568
+    note: Reconstructs the 1780s budget crisis and identifies the loss of fiscal control and credit as the immediate institutional crisis, while rejecting a simple inevitable decline driven by the inherited debt stock.
+  - source_id: SRC-018
+    locator: 'section ''1788–1848 : les premières réflexions autour du suffrage,'' paragraph beginning ''Le 8 août 1788'''
+    note: The French National Assembly's institutional history explicitly links Louis XVI's 8 August 1788 convocation for May 1789 to the grave financial crisis.
+  - source_id: SRC-016
+    locator: Archives parlementaires, vol. 8, pp. 127 and 146
+    note: 'Documents the revolutionary consequence after convocation: the deputies'' assumption of national legislative authority on 17 June and refusal to disperse on 23 June 1789.'
   conflicting_sources:
-    - source_id: SRC-017
-      locator: "pp. 61–62, 84–86"
-      note: "White disputes an inevitable long-run collapse and locates the irreversible breakdown in policy choices and peacetime deficits after 1781; finance explains the convocation, not by itself the Revolution's broader social and political causation."
+  - source_id: SRC-017
+    locator: pp. 61–62, 84–86
+    note: White disputes an inevitable long-run collapse and locates the irreversible breakdown in policy choices and peacetime deficits after 1781; finance explains the convocation, not by itself the Revolution's broader social and political causation.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2: strong scholarly reconstruction plus institutional documentary history. Retain the fiscal crisis as the immediate cause of convocation and convocation as the opening arena of Revolution, but do not make insolvency a sufficient cause of the Revolution or imply that the revolutionary outcome was automatic."
+  research_note: 'Evidence tier 2: strong scholarly reconstruction plus institutional documentary history. Retain the fiscal crisis as the immediate cause of convocation and convocation as the opening arena of Revolution, but do not make insolvency a sufficient cause of the Revolution or imply that the revolutionary outcome was automatic.'
 - id: C-002
-  claim: "A century of heavy expenditure and defective taxation produced the monarchy's accumulated deficit."
-  transcript: [U-00027–U-00044]
+  claim: A century of heavy expenditure and defective taxation produced the monarchy's accumulated deficit.
+  transcript:
+  - U-00027–U-00044
   centrality: central
   supporting_sources:
-    - source_id: SRC-017
-      locator: "pp. 61–62, 67–76, tables 1–3; pp. 84–86"
-      note: "Budget reconstruction shows large war borrowing and debt service, structural difficulty raising revenue, and the decisive return of a large peacetime deficit in the 1780s."
-    - source_id: SRC-023
-      locator: "pp. 2–3, 7–11; notes 12–19"
-      note: "Shows the monarchy's dependence on tax-farm credit and expensive wartime finance; reports that the General Farms supplied roughly 40 percent of tax revenue and cites an average 19 percent lease profit."
+  - source_id: SRC-017
+    locator: pp. 61–62, 67–76, tables 1–3; pp. 84–86
+    note: Budget reconstruction shows large war borrowing and debt service, structural difficulty raising revenue, and the decisive return of a large peacetime deficit in the 1780s.
+  - source_id: SRC-023
+    locator: pp. 2–3, 7–11; notes 12–19
+    note: Shows the monarchy's dependence on tax-farm credit and expensive wartime finance; reports that the General Farms supplied roughly 40 percent of tax revenue and cites an average 19 percent lease profit.
   conflicting_sources:
-    - source_id: SRC-017
-      locator: "pp. 61–62 and 84–86"
-      note: "The accounts do not show a slow, inevitable century-long decline: economies and restructuring after 1770 allowed borrowing until the mid-1780s, and White emphasizes reversal of reforms and a peacetime deficit after 1781."
+  - source_id: SRC-017
+    locator: pp. 61–62 and 84–86
+    note: 'The accounts do not show a slow, inevitable century-long decline: economies and restructuring after 1770 allowed borrowing until the mid-1780s, and White emphasizes reversal of reforms and a peacetime deficit after 1781.'
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2. Replace 'a century of mad expenditure and delirious taxation' with a differentiated account: repeated wars, costly debt service, a fragmented and politically constrained revenue system, and failed/reversed reform culminated in the 1780s crisis. Court expenditure is not established here as a primary driver."
+  research_note: 'Evidence tier 2. Replace ''a century of mad expenditure and delirious taxation'' with a differentiated account: repeated wars, costly debt service, a fragmented and politically constrained revenue system, and failed/reversed reform culminated in the 1780s crisis. Court expenditure is not established here as a primary driver.'
 - id: C-003
-  claim: "Under French absolutism the king could legislate, imprison by lettre de cachet, and impose taxes without representative approval."
-  transcript: [U-00058–U-00076]
+  claim: Under French absolutism the king could legislate, imprison by lettre de cachet, and impose taxes without representative approval.
+  transcript:
+  - U-00058–U-00076
   centrality: supporting
   supporting_sources:
-    - source_id: SRC-019
-      locator: "chapter 1, pp. 13–15 (PDF pp. 29–32), especially pp. 13–14"
-      note: "Documents royal lettres de cachet and the crown's ability to force registration, while describing provincial estates, corporations, and parlements as practical and institutional constraints."
-    - source_id: SRC-002
-      locator: "chapter 1, pp. 10–12, especially p. 11 nn. 2–4"
-      note: "Defines French absolute monarchy through contemporary legal sources while emphasizing that absolutism was a contested juridical claim rather than unlimited practical power."
+  - source_id: SRC-019
+    locator: chapter 1, pp. 13–15 (PDF pp. 29–32), especially pp. 13–14
+    note: Documents royal lettres de cachet and the crown's ability to force registration, while describing provincial estates, corporations, and parlements as practical and institutional constraints.
+  - source_id: SRC-002
+    locator: chapter 1, pp. 10–12, especially p. 11 nn. 2–4
+    note: Defines French absolute monarchy through contemporary legal sources while emphasizing that absolutism was a contested juridical claim rather than unlimited practical power.
   conflicting_sources:
-    - source_id: SRC-019
-      locator: "pp. 13–14"
-      note: "France was centralized in theory but corporatist in practice; parlements registered edicts and could remonstrate, while provincial estates retained fiscal privileges."
+  - source_id: SRC-019
+    locator: pp. 13–14
+    note: France was centralized in theory but corporatist in practice; parlements registered edicts and could remonstrate, while provincial estates retained fiscal privileges.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2. The king was the legislative source and lettres de cachet enabled detention without trial, and he did not require a standing national representative vote for ordinary taxation. But laws normally passed through registration, parlements and provincial estates could resist, and fundamental laws, privileges, custom, and administrative capacity limited action. Avoid equating absolutism with legally or practically unlimited government."
+  research_note: Evidence tier 2. The king was the legislative source and lettres de cachet enabled detention without trial, and he did not require a standing national representative vote for ordinary taxation. But laws normally passed through registration, parlements and provincial estates could resist, and fundamental laws, privileges, custom, and administrative capacity limited action. Avoid equating absolutism with legally or practically unlimited government.
 - id: C-004
-  claim: "Saint-Simon's memoirs express high-aristocratic opposition to Louis XIV's absolutism."
-  transcript: [U-00083–U-00104]
+  claim: Saint-Simon's memoirs express high-aristocratic opposition to Louis XIV's absolutism.
+  transcript:
+  - U-00083–U-00104
   centrality: supporting
   supporting_sources:
-    - source_id: SRC-020
-      locator: "chapter 4, pp. 105–128, abstract"
-      note: "Places Saint-Simon in the high-aristocratic reform current around the duc de Bourgogne, opposing Louis XIV's displacement of old institutions and the political role of the high aristocracy."
-    - source_id: SRC-021
-      locator: "BnF exhibition record, manuscript NAF 23096, fols. 84–85; descriptive paragraphs"
-      note: "Identifies the autograph manuscript, the 1739–1749 composition period, the events covered (1691–1723), and its retrospective, personally inflected character."
+  - source_id: SRC-020
+    locator: chapter 4, pp. 105–128, abstract
+    note: Places Saint-Simon in the high-aristocratic reform current around the duc de Bourgogne, opposing Louis XIV's displacement of old institutions and the political role of the high aristocracy.
+  - source_id: SRC-021
+    locator: BnF exhibition record, manuscript NAF 23096, fols. 84–85; descriptive paragraphs
+    note: Identifies the autograph manuscript, the 1739–1749 composition period, the events covered (1691–1723), and its retrospective, personally inflected character.
   conflicting_sources:
-    - source_id: SRC-021
-      locator: "descriptive paragraph beginning 'Longtemps passés au crible'"
-      note: "The BnF cautions against reducing the memoirs to transparent contemporary reportage: they are a late literary-historical construction shaped by memory, sources, personality, and disappointed ambitions."
+  - source_id: SRC-021
+    locator: descriptive paragraph beginning 'Longtemps passés au crible'
+    note: 'The BnF cautions against reducing the memoirs to transparent contemporary reportage: they are a late literary-historical construction shaped by memory, sources, personality, and disappointed ambitions.'
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2. Barbero's characterization is sound if framed as Saint-Simon's aristocratic-monarchical critique, not modern constitutional opposition. State explicitly that the surviving Mémoires were composed retrospectively in 1739–1749, decades after many narrated events."
+  research_note: Evidence tier 2. Barbero's characterization is sound if framed as Saint-Simon's aristocratic-monarchical critique, not modern constitutional opposition. State explicitly that the surviving Mémoires were composed retrospectively in 1739–1749, decades after many narrated events.
 - id: C-005
-  claim: "The defeat at Turin was a major turning point in France's Italian position during the War of the Spanish Succession."
-  transcript: [U-00105–U-00122]
+  claim: The defeat at Turin was a major turning point in France's Italian position during the War of the Spanish Succession.
+  transcript:
+  - U-00105–U-00122
   centrality: sampled-incidental
   supporting_sources:
-    - source_id: SRC-022
-      locator: "chapter 'The Primacy of the Atlantic World,' pp. 67–69, especially p. 68 and n. 46"
-      note: "Calls the relief of Turin a decisive turning point and traces it to the French retreat, fall of Spanish Milan, and subsequent Habsburg conquests in Italy."
-    - source_id: SRC-003
-      locator: "vol. 13, p. 86"
-      note: "Provides Saint-Simon's near-contemporary narrative perspective on the French defeat, useful as testimony to court interpretation rather than as sole proof of strategic consequences."
+  - source_id: SRC-022
+    locator: chapter 'The Primacy of the Atlantic World,' pp. 67–69, especially p. 68 and n. 46
+    note: Calls the relief of Turin a decisive turning point and traces it to the French retreat, fall of Spanish Milan, and subsequent Habsburg conquests in Italy.
+  - source_id: SRC-003
+    locator: vol. 13, p. 86
+    note: Provides Saint-Simon's near-contemporary narrative perspective on the French defeat, useful as testimony to court interpretation rather than as sole proof of strategic consequences.
   conflicting_sources: []
   status: resolved
-  script_treatment: retain
-  research_note: "Evidence tier 2. Scholarly synthesis supports Turin (September 1706) as a decisive turning point in the Italian theater, followed by loss of Milan and expansion of Habsburg control. Keep the scope to France's Italian position; it was one of several decisive European battles, not by itself the turning point of the entire war."
+  research_note: Evidence tier 2. Scholarly synthesis supports Turin (September 1706) as a decisive turning point in the Italian theater, followed by loss of Milan and expansion of Habsburg control. Keep the scope to France's Italian position; it was one of several decisive European battles, not by itself the turning point of the entire war.
 - id: C-006
-  claim: "Around 1710 the insolvent crown met obligations with mint notes that traded at deep discounts while specie was hoarded."
-  transcript: [U-00123–U-00176]
+  claim: Around 1710 the insolvent crown met obligations with mint notes that traded at deep discounts while specie was hoarded.
+  transcript:
+  - U-00123–U-00176
   centrality: central
   supporting_sources:
-    - source_id: SRC-004
-      locator: "recto of billet no. A000001, dated 15 June 1707, issued under declaration of 24 May 1707"
-      note: "Surviving 1,000-livre billet de monnaie confirms the instrument, denomination, date, official renewal, and mint/merchant signatures."
-    - source_id: SRC-005
-      locator: "note 8 and diplomatic transcription of billet no. 29,211"
-      note: "Documents forced acceptance and the 1707 payment promise attached to a billet de monnaie."
-    - source_id: SRC-024
-      locator: "article sections II–IV, especially discussion of the 1708–1709 crisis and Desmaretz's 1709 monetary measures"
-      note: "Scholarly reconstruction connects proliferating state paper, wartime remittance failures, the Lyon crash, and the 1709 devaluation; it shows that the instruments and monetary crisis evolved over several years."
+  - source_id: SRC-004
+    locator: recto of billet no. A000001, dated 15 June 1707, issued under declaration of 24 May 1707
+    note: Surviving 1,000-livre billet de monnaie confirms the instrument, denomination, date, official renewal, and mint/merchant signatures.
+  - source_id: SRC-005
+    locator: note 8 and diplomatic transcription of billet no. 29,211
+    note: Documents forced acceptance and the 1707 payment promise attached to a billet de monnaie.
+  - source_id: SRC-024
+    locator: article sections II–IV, especially discussion of the 1708–1709 crisis and Desmaretz's 1709 monetary measures
+    note: Scholarly reconstruction connects proliferating state paper, wartime remittance failures, the Lyon crash, and the 1709 devaluation; it shows that the instruments and monetary crisis evolved over several years.
   conflicting_sources:
-    - source_id: SRC-024
-      locator: "sections II–IV"
-      note: "The crisis involved multiple instruments and monetary operations, not a single generic wage-paying mint note; no support was located for Barbero's illustrative exchange of a 1,000-livre note for 100 livres specie."
+  - source_id: SRC-024
+    locator: sections II–IV
+    note: The crisis involved multiple instruments and monetary operations, not a single generic wage-paying mint note; no support was located for Barbero's illustrative exchange of a 1,000-livre note for 100 livres specie.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2 for the instruments and severe depreciation, tier 3 for generalized specie hoarding. Billets de monnaie originated in recoinage and became state obligations with forced circulation; they were not modern banknotes. Say they traded at heavy discounts, but omit the unsupported 90 percent example. Also correct 'francs' to livres tournois and avoid saying paper currency had not been invented."
+  research_note: Evidence tier 2 for the instruments and severe depreciation, tier 3 for generalized specie hoarding. Billets de monnaie originated in recoinage and became state obligations with forced circulation; they were not modern banknotes. Say they traded at heavy discounts, but omit the unsupported 90 percent example. Also correct 'francs' to livres tournois and avoid saying paper currency had not been invented.
 - id: C-007
-  claim: "The monarchy outsourced much tax collection to private financiers organized in the Ferme générale, who retained substantial proceeds."
-  transcript: [U-00186–U-00209]
+  claim: The monarchy outsourced much tax collection to private financiers organized in the Ferme générale, who retained substantial proceeds.
+  transcript:
+  - U-00186–U-00209
   centrality: central
   supporting_sources:
-    - source_id: SRC-023
-      locator: "pp. 2–3, 5–9 and notes 14–23"
-      note: "Explains consolidation of leases into the Company of General Farms, its collection and lending functions, approximately 40 percent share of tax revenue, lease accounting, and average profits."
-    - source_id: SRC-025
-      locator: "pp. 636–663, especially pp. 638–648 and 654–660"
-      note: "Principal-agent analysis documents fixed leases, crown monitoring, employees, borrowing advantages, and the gradual move toward government-administered collection."
+  - source_id: SRC-023
+    locator: pp. 2–3, 5–9 and notes 14–23
+    note: Explains consolidation of leases into the Company of General Farms, its collection and lending functions, approximately 40 percent share of tax revenue, lease accounting, and average profits.
+  - source_id: SRC-025
+    locator: pp. 636–663, especially pp. 638–648 and 654–660
+    note: Principal-agent analysis documents fixed leases, crown monitoring, employees, borrowing advantages, and the gradual move toward government-administered collection.
   conflicting_sources:
-    - source_id: SRC-025
-      locator: "pp. 638–648 and 654–660"
-      note: "The crown supervised and repeatedly redesigned collection, and the Farm chiefly handled indirect taxes; this conflicts with the lecture's claims of no control and collection of all taxes including direct levies and tithes."
+  - source_id: SRC-025
+    locator: pp. 638–648 and 654–660
+    note: The crown supervised and repeatedly redesigned collection, and the Farm chiefly handled indirect taxes; this conflicts with the lecture's claims of no control and collection of all taxes including direct levies and tithes.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2. Retain outsourcing to private syndicates that advanced a fixed lease price and kept residual returns, later consolidated as the Ferme générale. Qualify 'substantial proceeds' with the documented average lease profit (about 19 percent), and remove 'without any control,' 'all taxes,' and tithes: royal oversight existed and the Farm principally collected customs and indirect duties, while also lending to the crown."
+  research_note: 'Evidence tier 2. Retain outsourcing to private syndicates that advanced a fixed lease price and kept residual returns, later consolidated as the Ferme générale. Qualify ''substantial proceeds'' with the documented average lease profit (about 19 percent), and remove ''without any control,'' ''all taxes,'' and tithes: royal oversight existed and the Farm principally collected customs and indirect duties, while also lending to the crown.'
 - id: C-008
-  claim: "Desmarets proposed a proportional levy on wealth in addition to existing taxes during Louis XIV's late-war fiscal emergency."
-  transcript: [U-00210–U-00239]
+  claim: Desmarets proposed a proportional levy on wealth in addition to existing taxes during Louis XIV's late-war fiscal emergency.
+  transcript:
+  - U-00210–U-00239
   centrality: supporting
   supporting_sources:
-    - source_id: SRC-026
-      locator: "chapter III, paras. 43–47 and nn. 93–102"
-      note: "Desmarets's archival drafts and the declaration of 14 October 1710 establish a wartime levy of one tenth of income from property, introduced in addition to existing imposts."
-    - source_id: SRC-027
-      locator: "pp. 387–389"
-      note: "Characterizes the dixième as a proportional tax on personal income of property owners, created for the War of the Spanish Succession."
+  - source_id: SRC-026
+    locator: chapter III, paras. 43–47 and nn. 93–102
+    note: Desmarets's archival drafts and the declaration of 14 October 1710 establish a wartime levy of one tenth of income from property, introduced in addition to existing imposts.
+  - source_id: SRC-027
+    locator: pp. 387–389
+    note: Characterizes the dixième as a proportional tax on personal income of property owners, created for the War of the Spanish Succession.
   conflicting_sources:
-    - source_id: SRC-026
-      locator: "paras. 43–47 and nn. 93–102"
-      note: "The taxable base was annual income (revenu), including differentiated income streams, not the capital value of net wealth; 'property tax' is therefore imprecise."
+  - source_id: SRC-026
+    locator: paras. 43–47 and nn. 93–102
+    note: The taxable base was annual income (revenu), including differentiated income streams, not the capital value of net wealth; 'property tax' is therefore imprecise.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 1–2. Call the 1710 dixième a nominal ten-percent levy on declared income, especially income from property, imposed as an emergency war tax on top of existing taxes. Vauban's earlier Dîme royale was a replacement scheme, whereas Desmarets's measure was additional. Do not translate patrimoniale literally as a modern net-wealth tax; collection rules and clerical composition also prevented complete universality."
+  research_note: Evidence tier 1–2. Call the 1710 dixième a nominal ten-percent levy on declared income, especially income from property, imposed as an emergency war tax on top of existing taxes. Vauban's earlier Dîme royale was a replacement scheme, whereas Desmarets's measure was additional. Do not translate patrimoniale literally as a modern net-wealth tax; collection rules and clerical composition also prevented complete universality.
 - id: C-009
-  claim: "Saint-Simon describes Desmarets's reform as approved by a family-connected commission and a Finance Council whose consent was effectively predetermined by Louis XIV."
-  transcript: [U-00240–U-00357]
+  claim: Saint-Simon describes Desmarets's reform as approved by a family-connected commission and a Finance Council whose consent was effectively predetermined by Louis XIV.
+  transcript:
+  - U-00240–U-00357
   centrality: supporting
   supporting_sources:
-    - source_id: SRC-028
-      locator: "tome IX, chapter 1, pp. 8–25, especially pp. 8–10 and 18–22"
-      note: "Saint-Simon narrates the hand-picked bureau, Louis XIV's advance endorsement, Desmarets's uninterrupted reading, and the council's sequential assent."
-    - source_id: SRC-026
-      locator: "chapter III, paras. 43–47 and nn. 93–102"
-      note: "Archival drafts and Dangeau independently confirm Desmarets's preparation of the declaration and a royal Finance Council meeting on 14 October 1710."
+  - source_id: SRC-028
+    locator: tome IX, chapter 1, pp. 8–25, especially pp. 8–10 and 18–22
+    note: Saint-Simon narrates the hand-picked bureau, Louis XIV's advance endorsement, Desmarets's uninterrupted reading, and the council's sequential assent.
+  - source_id: SRC-026
+    locator: chapter III, paras. 43–47 and nn. 93–102
+    note: Archival drafts and Dangeau independently confirm Desmarets's preparation of the declaration and a royal Finance Council meeting on 14 October 1710.
   conflicting_sources:
-    - source_id: SRC-026
-      locator: "paras. 44–47 and nn. 93–97"
-      note: "The archival reconstruction describes several memoranda and a long examination, so Saint-Simon's nepotistic sham-commission framing cannot stand as a neutral account of the entire preparatory process."
+  - source_id: SRC-026
+    locator: paras. 44–47 and nn. 93–97
+    note: The archival reconstruction describes several memoranda and a long examination, so Saint-Simon's nepotistic sham-commission framing cannot stand as a neutral account of the entire preparatory process.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 1 for Saint-Simon's testimony and Desmarets's surviving drafts, tier 2 for the modern archival synthesis. Preserve the vivid council scene explicitly as Saint-Simon's retrospective, hostile account. Independent evidence supports prior royal approval and formal council presentation, but not every family relationship or the inference that no substantive technical study occurred. The declaration is dated 14 October, while Saint-Simon places the staged council on Tuesday 30 September; flag this chronological tension rather than harmonizing it."
+  research_note: Evidence tier 1 for Saint-Simon's testimony and Desmarets's surviving drafts, tier 2 for the modern archival synthesis. Preserve the vivid council scene explicitly as Saint-Simon's retrospective, hostile account. Independent evidence supports prior royal approval and formal council presentation, but not every family relationship or the inference that no substantive technical study occurred. The declaration is dated 14 October, while Saint-Simon places the staged council on Tuesday 30 September; flag this chronological tension rather than harmonizing it.
 - id: C-010
-  claim: "The new levy produced far less than projected and failed to reach financiers' concealed wealth."
-  transcript: [U-00358–U-00364]
+  claim: The new levy produced far less than projected and failed to reach financiers' concealed wealth.
+  transcript:
+  - U-00358–U-00364
   centrality: supporting
   supporting_sources:
-    - source_id: SRC-026
-      locator: "chapter III, para. 47 and nn. 98–102"
-      note: "Net receipts averaged roughly 22–24 million livres annually, far below pre-enactment projections near 117–120 million; Desmarets blamed false declarations."
-    - source_id: SRC-028
-      locator: "tome IX, chapter 1, pp. 23–25"
-      note: "Saint-Simon says the yield disappointed and financiers escaped through concealed portfolios while taxpayers faced intrusive assessment."
+  - source_id: SRC-026
+    locator: chapter III, para. 47 and nn. 98–102
+    note: Net receipts averaged roughly 22–24 million livres annually, far below pre-enactment projections near 117–120 million; Desmarets blamed false declarations.
+  - source_id: SRC-028
+    locator: tome IX, chapter 1, pp. 23–25
+    note: Saint-Simon says the yield disappointed and financiers escaped through concealed portfolios while taxpayers faced intrusive assessment.
   conflicting_sources:
-    - source_id: SRC-026
-      locator: "para. 47 and nn. 98–102"
-      note: "The levy still produced about 96 million net over four years and was an effective direct tax; comparing annual receipts with Vauban's theoretical yield makes 'failed' too absolute."
+  - source_id: SRC-026
+    locator: para. 47 and nn. 98–102
+    note: The levy still produced about 96 million net over four years and was an effective direct tax; comparing annual receipts with Vauban's theoretical yield makes 'failed' too absolute.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2 for reconstructed receipts, tier 1 for Saint-Simon's contemporary-world testimony. State the measured outcome: about 28 million net in 1711 and 22–23 million in each of 1712–14, roughly 96 million total, against promotional/theoretical estimates around 117–120 million per year. False declarations are documented, but the claim that financiers uniquely escaped is Saint-Simon's polemical generalization, not a demonstrated incidence study."
+  research_note: 'Evidence tier 2 for reconstructed receipts, tier 1 for Saint-Simon''s contemporary-world testimony. State the measured outcome: about 28 million net in 1711 and 22–23 million in each of 1712–14, roughly 96 million total, against promotional/theoretical estimates around 117–120 million per year. False declarations are documented, but the claim that financiers uniquely escaped is Saint-Simon''s polemical generalization, not a demonstrated incidence study.'
 - id: C-011
-  claim: "At Louis XIV's death, the Regency considered repudiating a royal debt roughly equal to ten years of revenue."
-  transcript: [U-00365–U-00390, U-00463–U-00470]
+  claim: At Louis XIV's death, the Regency considered repudiating a royal debt roughly equal to ten years of revenue.
+  transcript:
+  - U-00365–U-00390
+  - U-00463–U-00470
   centrality: central
   supporting_sources:
-    - source_id: SRC-029
-      locator: "paras. 2–4 and nn. 2–3"
-      note: "Reports 1715 net fiscal receipts of 69 million, expenditure of 146 million, total debt above 2 billion, and 90 million annual interest, while describing repudiation as one option before the Regent."
-    - source_id: SRC-030
-      locator: "pp. 213–220, especially paras. 5–15"
-      note: "Reconstructs the 1715–16 visa, forced reductions and interest cuts as selective default/debt restructuring rather than full repudiation."
+  - source_id: SRC-029
+    locator: paras. 2–4 and nn. 2–3
+    note: Reports 1715 net fiscal receipts of 69 million, expenditure of 146 million, total debt above 2 billion, and 90 million annual interest, while describing repudiation as one option before the Regent.
+  - source_id: SRC-030
+    locator: pp. 213–220, especially paras. 5–15
+    note: Reconstructs the 1715–16 visa, forced reductions and interest cuts as selective default/debt restructuring rather than full repudiation.
   conflicting_sources:
-    - source_id: SRC-031
-      locator: "pp. 19–25"
-      note: "Published estimates for debt at Louis XIV's death range from about 1.25 to 3.46 billion livres because categories and valuation dates differ; no single ten-years-of-revenue ratio is secure."
+  - source_id: SRC-031
+    locator: pp. 19–25
+    note: Published estimates for debt at Louis XIV's death range from about 1.25 to 3.46 billion livres because categories and valuation dates differ; no single ten-years-of-revenue ratio is secure.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2. The fiscal emergency and debate over bankruptcy are secure, but 'ten years' revenue' is only a rough rhetorical ratio and varies sharply with gross versus net revenue and debt definitions. Use dated figures and ranges: net receipts about 69 million in 1715, expenditures 146 million, total obligations commonly estimated above 2 billion. The Regency rejected blanket repudiation but imposed a visa, conversion of floating paper, and interest reductions—forms of partial/selective default."
+  research_note: 'Evidence tier 2. The fiscal emergency and debate over bankruptcy are secure, but ''ten years'' revenue'' is only a rough rhetorical ratio and varies sharply with gross versus net revenue and debt definitions. Use dated figures and ranges: net receipts about 69 million in 1715, expenditures 146 million, total obligations commonly estimated above 2 billion. The Regency rejected blanket repudiation but imposed a visa, conversion of floating paper, and interest reductions—forms of partial/selective default.'
 - id: C-012
-  claim: "John Law fled Britain after a duel conviction and advocated paper currency ultimately grounded in land rather than specie."
-  transcript: [U-00391–U-00434]
+  claim: John Law fled Britain after a duel conviction and advocated paper currency ultimately grounded in land rather than specie.
+  transcript:
+  - U-00391–U-00434
   centrality: supporting
   supporting_sources:
-    - source_id: SRC-032
-      locator: "Wilson v Law, 95 ER 510; report beginning 'John Law a Scot'"
-      note: "The King's Bench report records Law's Old Bailey murder conviction and death judgment after killing Edward Wilson in a duel, followed by reprieve and custody during the private appeal."
-    - source_id: SRC-008
-      locator: "Money and Trade Considered (1705), pp. 80–120, especially pp. 89–96 and proposal pp. 102–120"
-      note: "Law proposes notes issued on land security and explains their issue/retirement, while retaining coin and distinguishing money's functions from metal's use value."
+  - source_id: SRC-032
+    locator: Wilson v Law, 95 ER 510; report beginning 'John Law a Scot'
+    note: The King's Bench report records Law's Old Bailey murder conviction and death judgment after killing Edward Wilson in a duel, followed by reprieve and custody during the private appeal.
+  - source_id: SRC-008
+    locator: Money and Trade Considered (1705), pp. 80–120, especially pp. 89–96 and proposal pp. 102–120
+    note: Law proposes notes issued on land security and explains their issue/retirement, while retaining coin and distinguishing money's functions from metal's use value.
   conflicting_sources:
-    - source_id: SRC-008
-      locator: "pp. 89–96 and 102–120"
-      note: "Law did not simply advocate permanently replacing specie with notes each representing a fixed plot: his proposal used land valuation and mortgages, controlled issue, and convertibility mechanisms."
+  - source_id: SRC-008
+    locator: pp. 89–96 and 102–120
+    note: 'Law did not simply advocate permanently replacing specie with notes each representing a fixed plot: his proposal used land valuation and mortgages, controlled issue, and convertibility mechanisms.'
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 1 for the reported court judgment and Law's own 1705 treatise. Law killed Edward Wilson in a duel, was convicted of murder and sentenced to death, was reprieved, then escaped custody while a private appeal was pending and fled to the Continent. Preserve the land-security core of his Scottish proposal but not the simplified hectare-for-note mechanism; his later French bank was initially a private specie-convertible bank, not the same land bank."
+  research_note: Evidence tier 1 for the reported court judgment and Law's own 1705 treatise. Law killed Edward Wilson in a duel, was convicted of murder and sentenced to death, was reprieved, then escaped custody while a private appeal was pending and fled to the Continent. Preserve the land-security core of his Scottish proposal but not the simplified hectare-for-note mechanism; his later French bank was initially a private specie-convertible bank, not the same land bank.
 - id: C-013
-  claim: "The Regent Philippe d'Orléans authorized Law's project amid the crown's severe fiscal crisis."
-  transcript: [U-00435–U-00472]
+  claim: The Regent Philippe d'Orléans authorized Law's project amid the crown's severe fiscal crisis.
+  transcript:
+  - U-00435–U-00472
   centrality: supporting
   supporting_sources:
-    - source_id: SRC-033
-      locator: "letters patent of 2 May and regulation registered 20 May 1716, especially arts. I–VI"
-      note: "The royal letters patent issued under the Regency authorized Law and his company to establish the Banque générale for twenty years with six million livres capital."
-    - source_id: SRC-029
-      locator: "paras. 3–10 and nn. 3–8"
-      note: "Places the Regent's authorization in the severe debt and cash-flow crisis and distinguishes Law's initially rejected state-bank plan from the private bank charter granted in May 1716."
+  - source_id: SRC-033
+    locator: letters patent of 2 May and regulation registered 20 May 1716, especially arts. I–VI
+    note: The royal letters patent issued under the Regency authorized Law and his company to establish the Banque générale for twenty years with six million livres capital.
+  - source_id: SRC-029
+    locator: paras. 3–10 and nn. 3–8
+    note: Places the Regent's authorization in the severe debt and cash-flow crisis and distinguishes Law's initially rejected state-bank plan from the private bank charter granted in May 1716.
   conflicting_sources:
-    - source_id: SRC-029
-      locator: "paras. 5–10"
-      note: "Orléans did not adopt Law's complete project at once: the Regency council rejected the December 1715 state-bank proposal, and the May 1716 authorization was for a narrower private joint-stock bank."
+  - source_id: SRC-029
+    locator: paras. 5–10
+    note: 'Orléans did not adopt Law''s complete project at once: the Regency council rejected the December 1715 state-bank proposal, and the May 1716 authorization was for a narrower private joint-stock bank.'
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 1–2. Attribute authorization to the Regency government under Philippe d'Orléans and date the decisive charter to 2 May 1716 (registered/regulation 20 May). Correct the lecture's compressed sequence: Law's broader public-bank proposal met council opposition in late 1715; the Regent then permitted a private Banque générale. Fiscal crisis was essential context, but the full debt-conversion 'System' developed in later stages rather than being approved wholesale in 1716."
+  research_note: 'Evidence tier 1–2. Attribute authorization to the Regency government under Philippe d''Orléans and date the decisive charter to 2 May 1716 (registered/regulation 20 May). Correct the lecture''s compressed sequence: Law''s broader public-bank proposal met council opposition in late 1715; the Regent then permitted a private Banque générale. Fiscal crisis was essential context, but the full debt-conversion ''System'' developed in later stages rather than being approved wholesale in 1716.'
 - id: C-014
-  claim: "Law's bank issued shares and banknotes, accepted old royal paper, and benefited from government acceptance and guarantees."
-  transcript: [U-00472–U-00534]
+  claim: Law's bank issued shares and banknotes, accepted old royal paper, and benefited from government acceptance and guarantees.
+  transcript:
+  - U-00472–U-00534
   centrality: central
   supporting_sources:
-    - source_id: SRC-034
-      locator: "pp. 10–13, 22–25, especially pp. 11–12 and 22–23"
-      note: "The private Banque générale raised capital in shares (mostly payable in discounted billets d'État), issued on-demand silver-convertible notes, and gained tax acceptance for notes through decrees of 1716–17; after royalization in December 1718, its notes progressively became state-backed fiat money."
+  - source_id: SRC-034
+    locator: pp. 10–13, 22–25, especially pp. 11–12 and 22–23
+    note: The private Banque générale raised capital in shares (mostly payable in discounted billets d'État), issued on-demand silver-convertible notes, and gained tax acceptance for notes through decrees of 1716–17; after royalization in December 1718, its notes progressively became state-backed fiat money.
   conflicting_sources:
-    - source_id: SRC-034
-      locator: "pp. 11–17 and 18–22"
-      note: "Tax collectors accepted banknotes, not bank shares. The initial bank held billets d'État as subscribed assets; the later Compagnie d'Occident, whose shares were wholly payable in billets d'État, performed the debt-for-equity conversion. The lecture merges these distinct instruments and stages."
+  - source_id: SRC-034
+    locator: pp. 11–17 and 18–22
+    note: Tax collectors accepted banknotes, not bank shares. The initial bank held billets d'État as subscribed assets; the later Compagnie d'Occident, whose shares were wholly payable in billets d'État, performed the debt-for-equity conversion. The lecture merges these distinct instruments and stages.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2, based on a specialist economic reconstruction with precise decree and archival references. Separate four instruments: Banque générale shares; its silver-convertible bearer notes; depreciated state billets used to subscribe bank/company equity; and Compagnie shares. The government made banknotes acceptable for taxes in 1717 and bought the bank in December 1718, after which the crown bore the bank's gains and risks. Do not say bank shares circulated as tax payment or that the original private bank itself steadily extinguished the public debt."
+  research_note: 'Evidence tier 2, based on a specialist economic reconstruction with precise decree and archival references. Separate four instruments: Banque générale shares; its silver-convertible bearer notes; depreciated state billets used to subscribe bank/company equity; and Compagnie shares. The government made banknotes acceptable for taxes in 1717 and bought the bank in December 1718, after which the crown bore the bank''s gains and risks. Do not say bank shares circulated as tax payment or that the original private bank itself steadily extinguished the public debt.'
 - id: C-015
-  claim: "Law's financial system joined the bank to a company holding colonial trade and tax-collection monopolies."
-  transcript: [U-00535–U-00565]
+  claim: Law's financial system joined the bank to a company holding colonial trade and tax-collection monopolies.
+  transcript:
+  - U-00535–U-00565
   centrality: central
   supporting_sources:
-    - source_id: SRC-034
-      locator: "pp. 13–16, 18–22, and table 9 at p. 41"
-      note: "The Compagnie d'Occident received Louisiana and Canadian-beaver privileges in 1717, then accumulated tobacco, Senegal, East India/China, North African, mint, General Farms, and direct-tax collection rights in 1718–19; the Royal Bank merged into it in February 1720."
+  - source_id: SRC-034
+    locator: pp. 13–16, 18–22, and table 9 at p. 41
+    note: The Compagnie d'Occident received Louisiana and Canadian-beaver privileges in 1717, then accumulated tobacco, Senegal, East India/China, North African, mint, General Farms, and direct-tax collection rights in 1718–19; the Royal Bank merged into it in February 1720.
   conflicting_sources:
-    - source_id: SRC-034
-      locator: "pp. 13–16 and table 9 at p. 41"
-      note: "There was no single immediate monopoly over all colonial commerce, nor a generic sugar monopoly: privileges were acquired piecemeal, had different geographic/commodity scopes, and the General Farms covered most excises rather than literally every royal tax."
+  - source_id: SRC-034
+    locator: pp. 13–16 and table 9 at p. 41
+    note: 'There was no single immediate monopoly over all colonial commerce, nor a generic sugar monopoly: privileges were acquired piecemeal, had different geographic/commodity scopes, and the General Farms covered most excises rather than literally every royal tax.'
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2. Preserve the central claim of institutional concentration but give the sequence: Compagnie d'Occident (August 1717); tobacco and Senegal (1718); Indies/China, North Africa, mints, General Farms, and recettes générales (1719); bank merger (February 1720). By then the conglomerate collected about 90% of taxes and monopolized overseas trade in broad but legally differentiated fields. Avoid the lecture's 'all colonial trade,' sugar-monopoly, and all-taxes formulations."
+  research_note: 'Evidence tier 2. Preserve the central claim of institutional concentration but give the sequence: Compagnie d''Occident (August 1717); tobacco and Senegal (1718); Indies/China, North Africa, mints, General Farms, and recettes générales (1719); bank merger (February 1720). By then the conglomerate collected about 90% of taxes and monopolized overseas trade in broad but legally differentiated fields. Avoid the lecture''s ''all colonial trade,'' sugar-monopoly, and all-taxes formulations.'
 - id: C-016
-  claim: "The Mississippi bubble enriched speculators and coincided with the emergence of the French term 'millionnaire.'"
-  transcript: [U-00566–U-00575]
+  claim: The Mississippi bubble enriched speculators and coincided with the emergence of the French term 'millionnaire.'
+  transcript:
+  - U-00566–U-00575
   centrality: sampled-incidental
   supporting_sources:
-    - source_id: SRC-034
-      locator: "pp. 1–2, figure 4 at p. 16, and pp. 44–47"
-      note: "Treats the Mississippi episode as a canonical early bubble and documents the Compagnie des Indes share's rise from roughly 250 livres in 1718 to 10,000 in January 1720, followed by collapse."
-    - source_id: SRC-035
-      locator: "BHVF entry 'millionnaire,' attestations dated 1719 and 1720"
-      note: "Records 'nôtre Millionaire' in L'Actionnaire bigame (Nouveau Mercure, December 1719, p. 92) and 'Classe des Millionaires' in L'Heureuse surprise (July 1720, p. 42), directly tying the neologism's early print life to System-era satire."
+  - source_id: SRC-034
+    locator: pp. 1–2, figure 4 at p. 16, and pp. 44–47
+    note: Treats the Mississippi episode as a canonical early bubble and documents the Compagnie des Indes share's rise from roughly 250 livres in 1718 to 10,000 in January 1720, followed by collapse.
+  - source_id: SRC-035
+    locator: BHVF entry 'millionnaire,' attestations dated 1719 and 1720
+    note: Records 'nôtre Millionaire' in L'Actionnaire bigame (Nouveau Mercure, December 1719, p. 92) and 'Classe des Millionaires' in L'Heureuse surprise (July 1720, p. 42), directly tying the neologism's early print life to System-era satire.
   conflicting_sources: []
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2. It is safe to call the Mississippi episode one of the canonical early financial bubbles and to connect spectacular paper gains with the new social label. Replace the absolute 'first time in the history of French' with 'the earliest located print attestations date from 1719–20': lexicographical first attestations can move when earlier texts are digitized, and the evidence establishes use, not an identifiable inventor."
+  research_note: 'Evidence tier 2. It is safe to call the Mississippi episode one of the canonical early financial bubbles and to connect spectacular paper gains with the new social label. Replace the absolute ''first time in the history of French'' with ''the earliest located print attestations date from 1719–20'': lexicographical first attestations can move when earlier texts are digitized, and the evidence establishes use, not an identifiable inventor.'
 - id: C-017
-  claim: "Law converted from Protestantism to Catholicism so that he could hold high financial office in France."
-  transcript: [U-00576–U-00585]
+  claim: Law converted from Protestantism to Catholicism so that he could hold high financial office in France.
+  transcript:
+  - U-00576–U-00585
   centrality: sampled-incidental
   supporting_sources:
-    - source_id: SRC-036
-      locator: "chapter 15, pp. 213–230, especially chapter abstract; chapter 14 immediately preceding"
-      note: "Murphy places Law's appointment as contrôleur général des finances in January 1720 after his success with the Mississippi Company and treats his rise to ministerial power in the transition from chapters 14 to 15."
-    - source_id: SRC-037
-      locator: "chapter XI, pp. 150–154, especially p. 153"
-      note: "A biographical account dates Law's abjuration at the Récollets church in Melun to 17 September 1719 and states that conversion was a necessary preliminary to the high office intended for him."
+  - source_id: SRC-036
+    locator: chapter 15, pp. 213–230, especially chapter abstract; chapter 14 immediately preceding
+    note: Murphy places Law's appointment as contrôleur général des finances in January 1720 after his success with the Mississippi Company and treats his rise to ministerial power in the transition from chapters 14 to 15.
+  - source_id: SRC-037
+    locator: chapter XI, pp. 150–154, especially p. 153
+    note: A biographical account dates Law's abjuration at the Récollets church in Melun to 17 September 1719 and states that conversion was a necessary preliminary to the high office intended for him.
   conflicting_sources: []
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2–3. Law formally converted on 17 September 1719 and became contrôleur général on 5 January 1720. The chronological and political connection is strong, but the accessible exact conversion narrative is an older biography rather than the parish act or Murphy's full paywalled chapter. State that conversion removed a confessional obstacle to ministerial office; do not dramatize an evidenced Jesuit conversion campaign unless separately sourced."
+  research_note: Evidence tier 2–3. Law formally converted on 17 September 1719 and became contrôleur général on 5 January 1720. The chronological and political connection is strong, but the accessible exact conversion narrative is an older biography rather than the parish act or Murphy's full paywalled chapter. State that conversion removed a confessional obstacle to ministerial office; do not dramatize an evidenced Jesuit conversion campaign unless separately sourced.
 - id: C-018
-  claim: "Law's ministry restricted private specie holdings, authorized searches, and punished public critics of the system."
-  transcript: [U-00586–U-00611]
+  claim: Law's ministry restricted private specie holdings, authorized searches, and punished public critics of the system.
+  transcript:
+  - U-00586–U-00611
   centrality: supporting
   supporting_sources:
-    - source_id: SRC-034
-      locator: "pp. 23–25, especially decree chronology at pp. 23–24"
-      note: "Documents progressive restrictions: payment limits in December 1719; the 27 February 1720 ban on owning more than 500 livres in gold or silver coin; and the 11 March plan for surrendering specie to the mints and eliminating most private monetary metal."
+  - source_id: SRC-034
+    locator: pp. 23–25, especially decree chronology at pp. 23–24
+    note: 'Documents progressive restrictions: payment limits in December 1719; the 27 February 1720 ban on owning more than 500 livres in gold or silver coin; and the 11 March plan for surrendering specie to the mints and eliminating most private monetary metal.'
   conflicting_sources:
-    - source_id: SRC-034
-      locator: "pp. 23–25 and 30–31"
-      note: "The scholarly chronology verifies coercive legal restrictions but does not support the lecture's blanket claim that public critics were arrested and deported to colonies; it also records repeal of the specie program at the end of May and restoration of freedom to hold and use specie."
+  - source_id: SRC-034
+    locator: pp. 23–25 and 30–31
+    note: The scholarly chronology verifies coercive legal restrictions but does not support the lecture's blanket claim that public critics were arrested and deported to colonies; it also records repeal of the specie program at the end of May and restoration of freedom to hold and use specie.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2 for the decrees; enforcement detail remains tier 3/unverified. Use the exact 500-livre threshold and note the planned searches/confiscatory enforcement only if attributed to contemporary implementation evidence. Omit the categorical journalists/publicists-to-colonies claim: no reliable exact case was located in this research batch, and it may conflate criticism of the System with the separate forced recruitment/deportation used to populate Louisiana."
+  research_note: 'Evidence tier 2 for the decrees; enforcement detail remains tier 3/unverified. Use the exact 500-livre threshold and note the planned searches/confiscatory enforcement only if attributed to contemporary implementation evidence. Omit the categorical journalists/publicists-to-colonies claim: no reliable exact case was located in this research batch, and it may conflate criticism of the System with the separate forced recruitment/deportation used to populate Louisiana.'
 - id: C-019
-  claim: "Redemptions by informed princes helped trigger a bank run in which seventeen people died before payments ceased."
-  transcript: [U-00612–U-00636]
+  claim: Redemptions by informed princes helped trigger a bank run in which seventeen people died before payments ceased.
+  transcript:
+  - U-00612–U-00636
   centrality: supporting
   supporting_sources:
-    - source_id: SRC-034
-      locator: "pp. 28–33, especially pp. 29–30 and 33"
-      note: "Documents company price support, large-scale conversion of shares into notes, limited specie redemption, reopening on 9 July, and indefinite suspension after the 17 July mêlées."
-    - source_id: SRC-038
-      locator: "tome 18, chapter 2, paragraphs 69–75, especially paragraphs 70 and 74"
-      note: "Saint-Simon's retrospective eyewitness-era memoir dates the fatal bank crowd to 17 July, reports ten or twelve people suffocated, and says the next day's royal ordinance closed the bank until further order."
+  - source_id: SRC-034
+    locator: pp. 28–33, especially pp. 29–30 and 33
+    note: Documents company price support, large-scale conversion of shares into notes, limited specie redemption, reopening on 9 July, and indefinite suspension after the 17 July mêlées.
+  - source_id: SRC-038
+    locator: tome 18, chapter 2, paragraphs 69–75, especially paragraphs 70 and 74
+    note: Saint-Simon's retrospective eyewitness-era memoir dates the fatal bank crowd to 17 July, reports ten or twelve people suffocated, and says the next day's royal ordinance closed the bank until further order.
   conflicting_sources:
-    - source_id: SRC-038
-      locator: "tome 18, chapter 2, paragraphs 69–75"
-      note: "The contemporary-near account gives ten or twelve deaths, not seventeen, and places the crowd at the bank and neighboring streets; the bank then occupied the Hôtel de Nevers complex by rue Vivienne, not rue Quincampoix."
-    - source_id: SRC-034
-      locator: "pp. 29–33 and pp. 49–50"
-      note: "The collapse followed sustained overvaluation and money creation, then policy reversals; elite profit-taking is part of the background, but the study does not make a Bourbon/Conti redemption the immediate trigger of the July run. Notes were progressively restricted and demonetized rather than repudiated in one declaration refusing everyone payment."
+  - source_id: SRC-038
+    locator: tome 18, chapter 2, paragraphs 69–75
+    note: The contemporary-near account gives ten or twelve deaths, not seventeen, and places the crowd at the bank and neighboring streets; the bank then occupied the Hôtel de Nevers complex by rue Vivienne, not rue Quincampoix.
+  - source_id: SRC-034
+    locator: pp. 29–33 and pp. 49–50
+    note: The collapse followed sustained overvaluation and money creation, then policy reversals; elite profit-taking is part of the background, but the study does not make a Bourbon/Conti redemption the immediate trigger of the July run. Notes were progressively restricted and demonetized rather than repudiated in one declaration refusing everyone payment.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 1–2 for chronology and institutional outcome; tier 3 for named-prince anecdotes. Separate early-1720 court profit-taking from the 17 July crowd disaster. Use 'ten or twelve according to Saint-Simon' or 'roughly a dozen' and locate it at the Royal Bank near rue Vivienne. The windows closed indefinitely on 17–18 July; high notes lost monetary use on 1 October/1 November while conversion outlets into bonds, accounts, shares, and some specie continued. Omit the single-cause insider-trading scene and the unsupported immediate imprisonment coda."
+  research_note: Evidence tier 1–2 for chronology and institutional outcome; tier 3 for named-prince anecdotes. Separate early-1720 court profit-taking from the 17 July crowd disaster. Use 'ten or twelve according to Saint-Simon' or 'roughly a dozen' and locate it at the Royal Bank near rue Vivienne. The windows closed indefinitely on 17–18 July; high notes lost monetary use on 1 October/1 November while conversion outlets into bonds, accounts, shares, and some specie continued. Omit the single-cause insider-trading scene and the unsupported immediate imprisonment coda.
 - id: C-020
-  claim: "The collapse settlement favored smaller holders and reduced royal debt but discredited paper money in France for generations."
-  transcript: [U-00637–U-00668]
+  claim: The collapse settlement favored smaller holders and reduced royal debt but discredited paper money in France for generations.
+  transcript:
+  - U-00637–U-00668
   centrality: central
   supporting_sources:
-    - source_id: SRC-034
-      locator: "pp. 35–41, especially pp. 36–38, and pp. 49–50"
-      note: "The Visa protected claims of 500 livres or less from haircut, reduced larger claims more heavily, and converted the wreckage principally into government annuities; paper money thereafter remained in ill repute for a long period."
+  - source_id: SRC-034
+    locator: pp. 35–41, especially pp. 36–38, and pp. 49–50
+    note: The Visa protected claims of 500 livres or less from haircut, reduced larger claims more heavily, and converted the wreckage principally into government annuities; paper money thereafter remained in ill repute for a long period.
   conflicting_sources:
-    - source_id: SRC-034
-      locator: "abstract; pp. 2, 38–39, and 49–50"
-      note: "Velde finds the post-settlement public-debt burden roughly the same as in 1717, not evaporated. Even protected small claims recovered bonds whose 1722 cash value was low; protection from nominal haircut was not repayment in full."
+  - source_id: SRC-034
+    locator: abstract; pp. 2, 38–39, and 49–50
+    note: Velde finds the post-settlement public-debt burden roughly the same as in 1717, not evaporated. Even protected small claims recovered bonds whose 1722 cash value was low; protection from nominal haircut was not repayment in full.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2. The distributional claim needs precision: claims up to 500 livres suffered no Visa haircut and represented half of claimants and 40% of submitted sums, while the other 60% was cut about 39% on average. Yet liquidation certificates traded near 25% of face in 1722, so small holders were not simply made whole. Most importantly, the debt was reconstructed at roughly its pre-System burden; reject 'almost disappeared.' The failure damaged paper-money credibility for much of the eighteenth century, but 'no paper money for two centuries' is false: revolutionary assignats appeared within seventy years and later banknotes returned."
+  research_note: 'Evidence tier 2. The distributional claim needs precision: claims up to 500 livres suffered no Visa haircut and represented half of claimants and 40% of submitted sums, while the other 60% was cut about 39% on average. Yet liquidation certificates traded near 25% of face in 1722, so small holders were not simply made whole. Most importantly, the debt was reconstructed at roughly its pre-System burden; reject ''almost disappeared.'' The failure damaged paper-money credibility for much of the eighteenth century, but ''no paper money for two centuries'' is false: revolutionary assignats appeared within seventy years and later banknotes returned.'
 - id: C-021
-  claim: "Louis XV's government resumed borrowing, lost major colonial holdings in the Seven Years' War, and rebuilt the fiscal burden."
-  transcript: [U-00669–U-00689]
+  claim: Louis XV's government resumed borrowing, lost major colonial holdings in the Seven Years' War, and rebuilt the fiscal burden.
+  transcript:
+  - U-00669–U-00689
   centrality: central
   supporting_sources:
-    - source_id: SRC-039
-      locator: "pp. 228–233 and table 1"
-      note: "White's fiscal reconstruction treats the Seven Years' War and the postwar settlement as a major burden inherited by the later monarchy; it also shows the 1770 restructuring temporarily restored borrowing capacity."
-    - source_id: SRC-042
-      locator: "pp. 2–3, 7–11, and table 1"
-      note: "The market reconstruction documents repeated wartime borrowing, the high cost of new credit, and the 1770 partial default/restructuring before Louis XVI's accession."
+  - source_id: SRC-039
+    locator: pp. 228–233 and table 1
+    note: White's fiscal reconstruction treats the Seven Years' War and the postwar settlement as a major burden inherited by the later monarchy; it also shows the 1770 restructuring temporarily restored borrowing capacity.
+  - source_id: SRC-042
+    locator: pp. 2–3, 7–11, and table 1
+    note: The market reconstruction documents repeated wartime borrowing, the high cost of new credit, and the 1770 partial default/restructuring before Louis XVI's accession.
   conflicting_sources:
-    - source_id: SRC-039
-      locator: "pp. 228–233 and conclusion, pp. 250–253"
-      note: "The evidence does not support a simple uninterrupted rebuild of debt or a fiscal collapse caused by Louis XV's court alone: Terray's 1770 measures improved the short-term position, and White emphasizes the later peacetime deficit and policy reversals."
+  - source_id: SRC-039
+    locator: pp. 228–233 and conclusion, pp. 250–253
+    note: 'The evidence does not support a simple uninterrupted rebuild of debt or a fiscal collapse caused by Louis XV''s court alone: Terray''s 1770 measures improved the short-term position, and White emphasizes the later peacetime deficit and policy reversals.'
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2. The Seven Years' War was a severe fiscal and imperial defeat, and France ceded Canada in 1763. But 'expelled from India' overstates the treaty outcome: France retained five trading posts, though not its former political/military position. Frame the inheritance as war debt, constrained credit, and an unreformed revenue system—not a continuous fifty-year slide caused by royal private spending."
+  research_note: 'Evidence tier 2. The Seven Years'' War was a severe fiscal and imperial defeat, and France ceded Canada in 1763. But ''expelled from India'' overstates the treaty outcome: France retained five trading posts, though not its former political/military position. Frame the inheritance as war debt, constrained credit, and an unreformed revenue system—not a continuous fifty-year slide caused by royal private spending.'
 - id: C-022
-  claim: "Louis XVI inherited a renewed fiscal catastrophe on his accession in 1774 and sought reform through successive economists."
-  transcript: [U-00690–U-00718]
+  claim: Louis XVI inherited a renewed fiscal catastrophe on his accession in 1774 and sought reform through successive economists.
+  transcript:
+  - U-00690–U-00718
   centrality: central
   supporting_sources:
-    - source_id: SRC-039
-      locator: "pp. 228–233 and table 1"
-      note: "White identifies the legacy of the 1770 fiscal crisis and the structural revenue/debt-service problem confronting the new reign, while distinguishing it from the terminal 1780s crisis."
-    - source_id: SRC-046
-      locator: "Introduction and the 24 August 1774 letter, especially the three maxims beginning 'Point de banqueroute'"
-      note: "The contemporary document shows Turgot presenting Louis XVI with an explicit fiscal programme immediately after his appointment."
+  - source_id: SRC-039
+    locator: pp. 228–233 and table 1
+    note: White identifies the legacy of the 1770 fiscal crisis and the structural revenue/debt-service problem confronting the new reign, while distinguishing it from the terminal 1780s crisis.
+  - source_id: SRC-046
+    locator: Introduction and the 24 August 1774 letter, especially the three maxims beginning 'Point de banqueroute'
+    note: The contemporary document shows Turgot presenting Louis XVI with an explicit fiscal programme immediately after his appointment.
   conflicting_sources:
-    - source_id: SRC-039
-      locator: "pp. 228–233"
-      note: "Calling 1774 an already completed 'catastrophe' compresses the chronology: Terray's partial default and economies had created temporary room, whereas the acute insolvency that forced the Estates-General developed later."
+  - source_id: SRC-039
+    locator: pp. 228–233
+    note: 'Calling 1774 an already completed ''catastrophe'' compresses the chronology: Terray''s partial default and economies had created temporary room, whereas the acute insolvency that forced the Estates-General developed later.'
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 1–2. Louis XVI inherited a serious debt-and-credit problem and deliberately began with Turgot, an experienced administrator and political economist. Avoid presenting the later succession of ministers as a uniform parade of economists or 1774 as identical to 1788."
+  research_note: Evidence tier 1–2. Louis XVI inherited a serious debt-and-credit problem and deliberately began with Turgot, an experienced administrator and political economist. Avoid presenting the later succession of ministers as a uniform parade of economists or 1774 as identical to 1788.
 - id: C-023
-  claim: "Turgot pursued a physiocratic and liberal program of taxing land-derived wealth while freeing commerce and opposing tax farming."
-  transcript: [U-00753–U-00778]
+  claim: Turgot pursued a physiocratic and liberal program of taxing land-derived wealth while freeing commerce and opposing tax farming.
+  transcript:
+  - U-00753–U-00778
   centrality: central
   supporting_sources:
-    - source_id: SRC-047
-      locator: "§§ XIV–XV and XCIII–XCVII"
-      note: "Turgot's political economy distinguishes agricultural/productive, salaried, and proprietor classes and treats the net product of land as the relevant fiscal base; it is not a simple doctrine that all material wealth is literally land."
-    - source_id: SRC-048
-      locator: "pp. 201–219, especially pp. 203–208 and 214–217"
-      note: "Steiner situates Turgot's grain policy in the wider eighteenth-century debate over commerce, institutions, and merchant reputation."
-    - source_id: SRC-049
-      locator: "paragraphs on the March 1776 six edicts and the Mémoire sur les municipalités"
-      note: "The institutional summary identifies abolition of the corvée, suppression of guild structures, and a proposed territorial tax on landowners, including privileged owners."
+  - source_id: SRC-047
+    locator: "§§ XIV–XV and XCIII–XCVII"
+    note: Turgot's political economy distinguishes agricultural/productive, salaried, and proprietor classes and treats the net product of land as the relevant fiscal base; it is not a simple doctrine that all material wealth is literally land.
+  - source_id: SRC-048
+    locator: pp. 201–219, especially pp. 203–208 and 214–217
+    note: Steiner situates Turgot's grain policy in the wider eighteenth-century debate over commerce, institutions, and merchant reputation.
+  - source_id: SRC-049
+    locator: paragraphs on the March 1776 six edicts and the Mémoire sur les municipalités
+    note: The institutional summary identifies abolition of the corvée, suppression of guild structures, and a proposed territorial tax on landowners, including privileged owners.
   conflicting_sources:
-    - source_id: SRC-047
-      locator: "§§ XCIII–XCVII"
-      note: "Turgot did not advocate abolishing every tax on commerce and industry as a completed ministerial measure; the single land-tax programme remained a reform project, and his writings analyze capital and lending rather than simply exempting them."
+  - source_id: SRC-047
+    locator: "§§ XCIII–XCVII"
+    note: Turgot did not advocate abolishing every tax on commerce and industry as a completed ministerial measure; the single land-tax programme remained a reform project, and his writings analyze capital and lending rather than simply exempting them.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 1–2. Call Turgot a physiocratic-leaning reformer rather than an 'ultraliberal.' His program combined freer grain and labor markets with abolition of the corvée and guilds, fiscal reform aimed at owners, and administrative reform. The lecture's claim that the Ferme générale simply opposed a wholesale abolition of its taxes is too broad for this treatment."
+  research_note: Evidence tier 1–2. Call Turgot a physiocratic-leaning reformer rather than an 'ultraliberal.' His program combined freer grain and labor markets with abolition of the corvée and guilds, fiscal reform aimed at owners, and administrative reform. The lecture's claim that the Ferme générale simply opposed a wholesale abolition of its taxes is too broad for this treatment.
 - id: C-024
-  claim: "A bad harvest, grain-price rises, and subsistence riots politically undermined Turgot's grain-trade liberalization."
-  transcript: [U-00779–U-00791]
+  claim: A bad harvest, grain-price rises, and subsistence riots politically undermined Turgot's grain-trade liberalization.
+  transcript:
+  - U-00779–U-00791
   centrality: central
   supporting_sources:
-    - source_id: SRC-050
-      locator: "Arrêt du Conseil d'État, 13 September 1774; introductory note and text"
-      note: "The primary text established internal freedom of trade in grain and flour while reserving the question of foreign sales."
-    - source_id: SRC-048
-      locator: "pp. 201–219, especially pp. 209–217"
-      note: "Steiner shows the grain question was an entrenched political and institutional dispute rather than a simple technical deregulation story."
-    - source_id: SRC-051
-      locator: "pp. 473–491, especially the opening discussion and notes 1–2"
-      note: "Lenoir's later memoir attributes the 1775 disorders to unlimited liberty, but also confirms the specific policy and policing context; it is valuable contemporary-near testimony, not an uncontested causal finding."
+  - source_id: SRC-050
+    locator: Arrêt du Conseil d'État, 13 September 1774; introductory note and text
+    note: The primary text established internal freedom of trade in grain and flour while reserving the question of foreign sales.
+  - source_id: SRC-048
+    locator: pp. 201–219, especially pp. 209–217
+    note: Steiner shows the grain question was an entrenched political and institutional dispute rather than a simple technical deregulation story.
+  - source_id: SRC-051
+    locator: pp. 473–491, especially the opening discussion and notes 1–2
+    note: Lenoir's later memoir attributes the 1775 disorders to unlimited liberty, but also confirms the specific policy and policing context; it is valuable contemporary-near testimony, not an uncontested causal finding.
   conflicting_sources:
-    - source_id: SRC-048
-      locator: "pp. 209–217"
-      note: "Scholarly treatment cautions against treating liberalization as the sole cause of the Flour War: harvest shortfall, high prices, distribution, popular moral economy, and political suspicion interacted."
-    - source_id: SRC-051
-      locator: "pp. 473–491"
-      note: "Lenoir's claim that liberalization was the principal cause is an interested retrospective administrative diagnosis, not proof that Turgot's policy alone produced the crisis."
+  - source_id: SRC-048
+    locator: pp. 209–217
+    note: 'Scholarly treatment cautions against treating liberalization as the sole cause of the Flour War: harvest shortfall, high prices, distribution, popular moral economy, and political suspicion interacted.'
+  - source_id: SRC-051
+    locator: pp. 473–491
+    note: Lenoir's claim that liberalization was the principal cause is an interested retrospective administrative diagnosis, not proof that Turgot's policy alone produced the crisis.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 1–2, with a tier-3 retrospective administrative account. Turgot liberalized internal grain commerce in September 1774; poor harvest conditions and high prices preceded the Flour War of spring 1775. Say the reform became politically toxic amid the subsistence crisis and riots, not that it demonstrably caused famine or that Turgot abolished every grain tax and control."
+  research_note: Evidence tier 1–2, with a tier-3 retrospective administrative account. Turgot liberalized internal grain commerce in September 1774; poor harvest conditions and high prices preceded the Flour War of spring 1775. Say the reform became politically toxic amid the subsistence crisis and riots, not that it demonstrably caused famine or that Turgot abolished every grain tax and control.
 - id: C-025
-  claim: "Turgot rejected default, tax increases, and added borrowing, then lost office after proposing expenditure and pension cuts."
-  transcript: [U-00792–U-00816]
+  claim: Turgot rejected default, tax increases, and added borrowing, then lost office after proposing expenditure and pension cuts.
+  transcript:
+  - U-00792–U-00816
   centrality: central
   supporting_sources:
-    - source_id: SRC-046
-      locator: "24 August 1774 letter, three maxims and following discussion"
-      note: "Turgot's own programme reads: no bankruptcy, no increase of taxation, no borrowing; it calls for reducing expenditure and restoring orderly finance."
-    - source_id: SRC-049
-      locator: "paragraphs on the March 1776 edicts and the dismissal of 13 May 1776"
-      note: "The summary documents resistance to the corvée and guild edicts, forced registration in a lit de justice, and Turgot's dismissal amid wider conservative opposition."
+  - source_id: SRC-046
+    locator: 24 August 1774 letter, three maxims and following discussion
+    note: 'Turgot''s own programme reads: no bankruptcy, no increase of taxation, no borrowing; it calls for reducing expenditure and restoring orderly finance.'
+  - source_id: SRC-049
+    locator: paragraphs on the March 1776 edicts and the dismissal of 13 May 1776
+    note: The summary documents resistance to the corvée and guild edicts, forced registration in a lit de justice, and Turgot's dismissal amid wider conservative opposition.
   conflicting_sources:
-    - source_id: SRC-046
-      locator: "24 August 1774 letter"
-      note: "'No increase of taxation' was not a general anti-tax principle: the letter sets immediate fiscal constraints, while Turgot's broader programme sought a more equitable territorial contribution."
-    - source_id: SRC-049
-      locator: "paragraphs on March–May 1776"
-      note: "It is misleading to make pension and ministry cuts the sole reason for dismissal; opposition centered also on privileged orders, parlements, the corvée replacement tax, guild abolition, court politics, and the grain crisis."
+  - source_id: SRC-046
+    locator: 24 August 1774 letter
+    note: "'No increase of taxation' was not a general anti-tax principle: the letter sets immediate fiscal constraints, while Turgot's broader programme sought a more equitable territorial contribution."
+  - source_id: SRC-049
+    locator: paragraphs on March–May 1776
+    note: It is misleading to make pension and ministry cuts the sole reason for dismissal; opposition centered also on privileged orders, parlements, the corvée replacement tax, guild abolition, court politics, and the grain crisis.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 1–2. Retain the striking 'no bankruptcy, no tax increase, no borrowing' formula as Turgot's 1774 immediate programme, then explain that savings were only one part of a broader reform agenda. He was dismissed on 13 May 1776, after roughly twenty-one months, not merely because he proposed cutting pensions."
+  research_note: Evidence tier 1–2. Retain the striking 'no bankruptcy, no tax increase, no borrowing' formula as Turgot's 1774 immediate programme, then explain that savings were only one part of a broader reform agenda. He was dismissed on 13 May 1776, after roughly twenty-one months, not merely because he proposed cutting pensions.
 - id: C-026
-  claim: "Clugny de Nuits introduced a state lottery as a revenue device and died after about five months in office."
-  transcript: [U-00817–U-00854]
+  claim: Clugny de Nuits introduced a state lottery as a revenue device and died after about five months in office.
+  transcript:
+  - U-00817–U-00854
   centrality: sampled-incidental
   supporting_sources:
-    - source_id: SRC-052
-      locator: "biographical entry"
-      note: "Larousse dates Clugny's tenure May–October 1776, credits him with creating the Loterie royale to address the deficit, and notes reversal of Turgot's edicts."
-    - source_id: SRC-053
-      locator: "biographical entry, paragraph beginning 'Nommé contrôleur général'"
-      note: "The Académie de Marine dates his appointment to 21 May 1776 and the Loterie royale de France to July 1776, describing it as a deficit-reducing measure."
+  - source_id: SRC-052
+    locator: biographical entry
+    note: Larousse dates Clugny's tenure May–October 1776, credits him with creating the Loterie royale to address the deficit, and notes reversal of Turgot's edicts.
+  - source_id: SRC-053
+    locator: biographical entry, paragraph beginning 'Nommé contrôleur général'
+    note: The Académie de Marine dates his appointment to 21 May 1776 and the Loterie royale de France to July 1776, describing it as a deficit-reducing measure.
   conflicting_sources:
-    - source_id: SRC-052
-      locator: "biographical entry"
-      note: "The claim that Clugny 'invented the lottery' is false: lotteries existed before 1776. The defensible formulation is that he created/reorganized a royal lottery as a state revenue device."
+  - source_id: SRC-052
+    locator: biographical entry
+    note: 'The claim that Clugny ''invented the lottery'' is false: lotteries existed before 1776. The defensible formulation is that he created/reorganized a royal lottery as a state revenue device.'
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 3 institutional reference. Clugny held office from May to October 1776—about five months—and died in office. Call the measure the creation of the Loterie royale de France, not the invention of lotteries. The available sources support a revenue/deficit purpose but do not justify a strong quantitative claim about its fiscal impact; omit 'it did not suffice' unless separately sourced."
+  research_note: Evidence tier 3 institutional reference. Clugny held office from May to October 1776—about five months—and died in office. Call the measure the creation of the Loterie royale de France, not the invention of lotteries. The available sources support a revenue/deficit purpose but do not justify a strong quantitative claim about its fiscal impact; omit 'it did not suffice' unless separately sourced.
 - id: C-027
-  claim: "French military and financial aid was important to American victory and greatly increased the French crown's debt."
-  transcript: [U-00868–U-00895]
+  claim: French military and financial aid was important to American victory and greatly increased the French crown's debt.
+  transcript:
+  - U-00868–U-00895
   centrality: central
   supporting_sources:
-    - source_id: SRC-039
-      locator: "pp. 227–233, especially pp. 228–231 and table 1"
-      note: "White reconstructs the persistent fiscal deficit and the post-American-war debt burden, while treating the fiscal crisis as important but not monocausal in the Revolution."
-    - source_id: SRC-040
-      locator: "section 'France dans un conflit mondial (1778-1783)', especially the statement on direct support to American troops"
-      note: "The BnF's documentary overview establishes France's formal war against Britain from 1778 to 1783 and notes direct French financial support to American forces."
+  - source_id: SRC-039
+    locator: pp. 227–233, especially pp. 228–231 and table 1
+    note: White reconstructs the persistent fiscal deficit and the post-American-war debt burden, while treating the fiscal crisis as important but not monocausal in the Revolution.
+  - source_id: SRC-040
+    locator: section 'France dans un conflit mondial (1778-1783)', especially the statement on direct support to American troops
+    note: The BnF's documentary overview establishes France's formal war against Britain from 1778 to 1783 and notes direct French financial support to American forces.
   conflicting_sources:
-    - source_id: SRC-039
-      locator: "pp. 227–233 and conclusion pp. 250–253"
-      note: "The American war sharply worsened an inherited structural fiscal problem; it should not be narrated as the sole cause of either the debt crisis or the Revolution."
+  - source_id: SRC-039
+    locator: pp. 227–233 and conclusion pp. 250–253
+    note: The American war sharply worsened an inherited structural fiscal problem; it should not be narrated as the sole cause of either the debt crisis or the Revolution.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2. France covertly aided the insurgents before entering the war against Britain in 1778; French military, naval, and financial participation was important to the coalition victory, especially Yorktown, and the war was financed largely by borrowing. Keep the causal language plural: its cost greatly aggravated an already fragile fiscal system, rather than independently causing the Revolution. Avoid a single total-cost figure unless a later research pass selects and defines one consistently."
+  research_note: 'Evidence tier 2. France covertly aided the insurgents before entering the war against Britain in 1778; French military, naval, and financial participation was important to the coalition victory, especially Yorktown, and the war was financed largely by borrowing. Keep the causal language plural: its cost greatly aggravated an already fragile fiscal system, rather than independently causing the Revolution. Avoid a single total-cost figure unless a later research pass selects and defines one consistently.'
 - id: C-028
-  claim: "Necker-era life annuities were vulnerable to systematic underpricing because subscribers could designate third-party measuring lives without sufficient age differentiation; Genevan syndicates pooled selected young lives."
-  transcript: [U-00896–U-00943]
+  claim: Necker-era life annuities were vulnerable to systematic underpricing because subscribers could designate third-party measuring lives without sufficient age differentiation; Genevan syndicates pooled selected young lives.
+  transcript:
+  - U-00896–U-00943
   centrality: central
   supporting_sources:
-    - source_id: SRC-041
-      locator: "pp. 2–4, especially pp. 2–3 and nn. 5–9"
-      note: "Specialist economic-history study explains that uniform-rate life annuities let a subscriber designate a third-party life; Genevan banks selected healthy young girls, pooled thirty or fifty lives, and sold small shares. It records 105 million livres of annual life-annuity interest in 1789 against 475 million in fiscal revenues."
-    - source_id: SRC-042
-      locator: "pp. 1–3 and pp. 29–33; see also table 1"
-      note: "Quantitative study finds growing recourse to expensive life annuities in the late Old Regime and places Necker's first ministry (1776–81) within the wider debt-market chronology."
+  - source_id: SRC-041
+    locator: pp. 2–4, especially pp. 2–3 and nn. 5–9
+    note: Specialist economic-history study explains that uniform-rate life annuities let a subscriber designate a third-party life; Genevan banks selected healthy young girls, pooled thirty or fifty lives, and sold small shares. It records 105 million livres of annual life-annuity interest in 1789 against 475 million in fiscal revenues.
+  - source_id: SRC-042
+    locator: pp. 1–3 and pp. 29–33; see also table 1
+    note: Quantitative study finds growing recourse to expensive life annuities in the late Old Regime and places Necker's first ministry (1776–81) within the wider debt-market chronology.
   conflicting_sources:
-    - source_id: SRC-041
-      locator: "pp. 2–4"
-      note: "The evidence supports selection of the nominated life at subscription, not Barbero's proposed mechanism of changing that life when an annuity was resold. Transferable shares in a pool are distinct from substitution of a contract's measuring life."
-    - source_id: SRC-041
-      locator: "p. 3 and n. 9"
-      note: "Do not generalize a single 10-percent, age-blind term to every Necker issue without naming the loan: the article demonstrates the wider uniform-rate problem and its exploitation, but individual issues varied in number of nominated lives and terms."
+  - source_id: SRC-041
+    locator: pp. 2–4
+    note: The evidence supports selection of the nominated life at subscription, not Barbero's proposed mechanism of changing that life when an annuity was resold. Transferable shares in a pool are distinct from substitution of a contract's measuring life.
+  - source_id: SRC-041
+    locator: p. 3 and n. 9
+    note: 'Do not generalize a single 10-percent, age-blind term to every Necker issue without naming the loan: the article demonstrates the wider uniform-rate problem and its exploitation, but individual issues varied in number of nominated lives and terms.'
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2. Correct the legal mechanism. A rente viagere paid its owner while the specified tete lived; a resale could change the owner but did not restart or replace that measuring life. The damaging feature was that the crown allowed third-party nomination at initial subscription while offering rates insufficiently differentiated by age. Genevan syndicates selected unusually healthy young girls, pooled many nominated lives to diversify mortality risk, and sold participations. Call smallpox protection 'inoculation/variolation' for the 1770s, not Jennerian vaccination (introduced only in 1798). Retain the fiscal burden, but omit unverified claims that 530 million livres or 70 percent of Necker's borrowing took this form, and do not say annuities literally never expired."
+  research_note: Evidence tier 2. Correct the legal mechanism. A rente viagere paid its owner while the specified tete lived; a resale could change the owner but did not restart or replace that measuring life. The damaging feature was that the crown allowed third-party nomination at initial subscription while offering rates insufficiently differentiated by age. Genevan syndicates selected unusually healthy young girls, pooled many nominated lives to diversify mortality risk, and sold participations. Call smallpox protection 'inoculation/variolation' for the 1770s, not Jennerian vaccination (introduced only in 1798). Retain the fiscal burden, but omit unverified claims that 530 million livres or 70 percent of Necker's borrowing took this form, and do not say annuities literally never expired.
 - id: C-029
-  claim: "Fiscal secrecy concealed rising debt, while court expenditure represented about one percent of the royal budget."
-  transcript: [U-00944–U-00962]
+  claim: Fiscal secrecy concealed rising debt, while court expenditure represented about one percent of the royal budget.
+  transcript:
+  - U-00944–U-00962
   centrality: supporting
   supporting_sources:
-    - source_id: SRC-043
-      locator: "pp. 1–4, especially the introductory account and the ordinary/extraordinary account distinction"
-      note: "Necker's 1781 public Compte rendu was an unprecedented official disclosure of selected royal accounts and reported an ordinary surplus."
-    - source_id: SRC-039
-      locator: "pp. 229–233"
-      note: "White explains that the published accounts excluded the extraordinary war account, making the apparent ordinary surplus misleading as a statement of the overall fiscal position."
+  - source_id: SRC-043
+    locator: pp. 1–4, especially the introductory account and the ordinary/extraordinary account distinction
+    note: Necker's 1781 public Compte rendu was an unprecedented official disclosure of selected royal accounts and reported an ordinary surplus.
+  - source_id: SRC-039
+    locator: pp. 229–233
+    note: White explains that the published accounts excluded the extraordinary war account, making the apparent ordinary surplus misleading as a statement of the overall fiscal position.
   conflicting_sources:
-    - source_id: SRC-043
-      locator: "pp. 1–4"
-      note: "Barbero's assertion that only Necker knew of the rising debt is untenable: Necker himself published a widely circulated financial account in 1781, even though it excluded war finance."
-    - source_id: SRC-039
-      locator: "pp. 229–233"
-      note: "No reliable support was located for the lecture's precise claim that court expenditure was one percent of the royal budget; categories and denominators vary and must not be compressed into that figure."
+  - source_id: SRC-043
+    locator: pp. 1–4
+    note: 'Barbero''s assertion that only Necker knew of the rising debt is untenable: Necker himself published a widely circulated financial account in 1781, even though it excluded war finance.'
+  - source_id: SRC-039
+    locator: pp. 229–233
+    note: No reliable support was located for the lecture's precise claim that court expenditure was one percent of the royal budget; categories and denominators vary and must not be compressed into that figure.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 1–2. Replace a blanket secrecy/censorship narrative with a more precise one: financial information was politically managed, and Necker's 1781 Compte rendu publicized an ordinary-account surplus while omitting the extraordinary, war-financed account. Do not use the one-percent court-spending figure without a defined budget and source. The Bastille claim is not established by these sources and should be omitted here."
+  research_note: 'Evidence tier 1–2. Replace a blanket secrecy/censorship narrative with a more precise one: financial information was politically managed, and Necker''s 1781 Compte rendu publicized an ordinary-account surplus while omitting the extraordinary, war-financed account. Do not use the one-percent court-spending figure without a defined budget and source. The Bastille claim is not established by these sources and should be omitted here.'
 - id: C-030
-  claim: "Calonne encouraged conspicuous royal and public spending to project solvency and preserve access to credit."
-  transcript: [U-00963–U-00995]
+  claim: Calonne encouraged conspicuous royal and public spending to project solvency and preserve access to credit.
+  transcript:
+  - U-00963–U-00995
   centrality: central
   supporting_sources:
-    - source_id: SRC-044
-      locator: "article text, paragraph beginning 'Chargé de résoudre la crise financière'"
-      note: "Larousse describes Calonne's public-works spending as intended to restore confidence in the state so that new borrowing could succeed."
-    - source_id: SRC-045
-      locator: "pp. 1–3, especially introduction and discussion of the 1784 Flanders loan"
-      note: "Scholarly study identifies Calonne's policy of rebuilding Belgian capitalists' confidence to support new borrowing and a sinking fund."
+  - source_id: SRC-044
+    locator: article text, paragraph beginning 'Chargé de résoudre la crise financière'
+    note: Larousse describes Calonne's public-works spending as intended to restore confidence in the state so that new borrowing could succeed.
+  - source_id: SRC-045
+    locator: pp. 1–3, especially introduction and discussion of the 1784 Flanders loan
+    note: Scholarly study identifies Calonne's policy of rebuilding Belgian capitalists' confidence to support new borrowing and a sinking fund.
   conflicting_sources:
-    - source_id: SRC-045
-      locator: "pp. 1–3"
-      note: "Confidence-building through credit operations and public works is documented; the sweeping claim that Calonne simply pursued conspicuous court luxury is too narrow and obscures his later structural reform programme."
+  - source_id: SRC-045
+    locator: pp. 1–3
+    note: Confidence-building through credit operations and public works is documented; the sweeping claim that Calonne simply pursued conspicuous court luxury is too narrow and obscures his later structural reform programme.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2, with an institutional reference corroborating the interpretation. Calonne did pursue borrowing and confidence-restoration, including public works, in an effort to preserve credit; this policy deepened the deficit before he turned to broad tax and administrative reforms. Present Saint-Cloud, if retained, as a criticized royal purchase, not as proof that all fiscal policy was theatrical spending."
+  research_note: Evidence tier 2, with an institutional reference corroborating the interpretation. Calonne did pursue borrowing and confidence-restoration, including public works, in an effort to preserve credit; this policy deepened the deficit before he turned to broad tax and administrative reforms. Present Saint-Cloud, if retained, as a criticized royal purchase, not as proof that all fiscal policy was theatrical spending.
 - id: C-031
-  claim: "In 1786 debt interest consumed 51 percent of the royal budget, military costs 26 percent, and assistance and education 2 percent."
-  transcript: [U-00996–U-01012]
+  claim: In 1786 debt interest consumed 51 percent of the royal budget, military costs 26 percent, and assistance and education 2 percent.
+  transcript:
+  - U-00996–U-01012
   centrality: central
   supporting_sources:
-    - source_id: SRC-039
-      locator: "table 1 and pp. 229–233"
-      note: "White's fiscal reconstruction documents the dominant debt-service burden and the problem of comparing Old Regime accounts with shifting ordinary and extraordinary categories."
+  - source_id: SRC-039
+    locator: table 1 and pp. 229–233
+    note: White's fiscal reconstruction documents the dominant debt-service burden and the problem of comparing Old Regime accounts with shifting ordinary and extraordinary categories.
   conflicting_sources:
-    - source_id: SRC-039
-      locator: "table 1 and pp. 229–233"
-      note: "The exact 1786 allocation of 51 percent interest, 26 percent military, and 2 percent assistance/education was not located in the scholarly reconstruction; the familiar roughly half-debt-service and roughly quarter-military proportions appear in later 1788-style summaries, not as a verified 1786 Calonne account."
+  - source_id: SRC-039
+    locator: table 1 and pp. 229–233
+    note: The exact 1786 allocation of 51 percent interest, 26 percent military, and 2 percent assistance/education was not located in the scholarly reconstruction; the familiar roughly half-debt-service and roughly quarter-military proportions appear in later 1788-style summaries, not as a verified 1786 Calonne account.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2 for the broad fiscal structure; the quoted breakdown is not secure. Say that by the late 1780s debt service consumed about half of the relevant central-state expenditure/revenue measure and military spending about a quarter, but do not assign those exact percentages to Calonne's 1786 calculation or preserve the unsupported two-percent education-and-relief category. Explain that denominators differ between projected revenue, Treasury expenditure, and ordinary versus extraordinary accounts."
+  research_note: Evidence tier 2 for the broad fiscal structure; the quoted breakdown is not secure. Say that by the late 1780s debt service consumed about half of the relevant central-state expenditure/revenue measure and military spending about a quarter, but do not assign those exact percentages to Calonne's 1786 calculation or preserve the unsupported two-percent education-and-relief category. Explain that denominators differ between projected revenue, Treasury expenditure, and ordinary versus extraordinary accounts.
 - id: C-032
-  claim: "The Estates-General historically granted consent to royal taxation and had not met since 1614."
-  transcript: [U-01018–U-01050]
+  claim: The Estates-General historically granted consent to royal taxation and had not met since 1614.
+  transcript:
+  - U-01018–U-01050
   centrality: supporting
   supporting_sources:
-    - source_id: SRC-054
-      locator: "chapter 7, preview description"
-      note: "Places the 1787–89 fiscal-political crisis against the fact that an Estates-General had not been called since 1614."
-    - source_id: SRC-055
-      locator: "entry 'Les États généraux et le roi de France : l’union imparfaite', paragraphs 1–2"
-      note: "Describes the elected deputies of clergy, nobility, and Third Estate, and the eight meetings from 1484 to 1614 before the 1789 recall."
+  - source_id: SRC-054
+    locator: chapter 7, preview description
+    note: Places the 1787–89 fiscal-political crisis against the fact that an Estates-General had not been called since 1614.
+  - source_id: SRC-055
+    locator: 'entry ''Les États généraux et le roi de France : l’union imparfaite'', paragraphs 1–2'
+    note: Describes the elected deputies of clergy, nobility, and Third Estate, and the eight meetings from 1484 to 1614 before the 1789 recall.
   conflicting_sources:
-    - source_id: SRC-055
-      locator: "paragraphs 1–2"
-      note: "The Estates-General were extraordinary assemblies summoned by the king, not a standing parliament; their historical role did not amount to a uniform legal veto over every royal tax."
+  - source_id: SRC-055
+    locator: paragraphs 1–2
+    note: The Estates-General were extraordinary assemblies summoned by the king, not a standing parliament; their historical role did not amount to a uniform legal veto over every royal tax.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2. The last pre-Revolutionary meeting was 1614 and the three-order composition is secure. Retain the older language of consultation and consent to extraordinary taxation only with qualification: medieval and early-modern practices varied, and the Estates-General were not a permanent legislature nor a simple constitutional prerequisite for every levy."
+  research_note: 'Evidence tier 2. The last pre-Revolutionary meeting was 1614 and the three-order composition is secure. Retain the older language of consultation and consent to extraordinary taxation only with qualification: medieval and early-modern practices varied, and the Estates-General were not a permanent legislature nor a simple constitutional prerequisite for every levy.'
 - id: C-033
-  claim: "Public awareness of fiscal collapse and elite demands forced Louis XVI to summon the Estates-General in 1789."
-  transcript: [U-01051–U-01065]
+  claim: Public awareness of fiscal collapse and elite demands forced Louis XVI to summon the Estates-General in 1789.
+  transcript:
+  - U-01051–U-01065
   centrality: central
   supporting_sources:
-    - source_id: SRC-017
-      locator: "pp. 61–62, 84–86"
-      note: "Reconstructs the 1780s fiscal and credit breakdown and identifies the failure of fiscal policy as the immediate institutional crisis."
-    - source_id: SRC-018
-      locator: "opening section, paragraph beginning 'Le 8 août 1788'"
-      note: "Links Louis XVI's 8 August 1788 announcement of an Estates-General for May 1789 to the grave financial crisis."
-    - source_id: SRC-056
-      locator: "editorial note 4"
-      note: "Documents the 1787 Assembly of Notables, its exposure to the fiscal crisis, and its public criticism of the king and ministry."
+  - source_id: SRC-017
+    locator: pp. 61–62, 84–86
+    note: Reconstructs the 1780s fiscal and credit breakdown and identifies the failure of fiscal policy as the immediate institutional crisis.
+  - source_id: SRC-018
+    locator: opening section, paragraph beginning 'Le 8 août 1788'
+    note: Links Louis XVI's 8 August 1788 announcement of an Estates-General for May 1789 to the grave financial crisis.
+  - source_id: SRC-056
+    locator: editorial note 4
+    note: Documents the 1787 Assembly of Notables, its exposure to the fiscal crisis, and its public criticism of the king and ministry.
   conflicting_sources:
-    - source_id: SRC-017
-      locator: "pp. 61–62, 84–86"
-      note: "White rejects a simple inevitable-collapse narrative: fiscal distress was decisive for convocation, but policy choices and political resistance shaped the outcome."
+  - source_id: SRC-017
+    locator: pp. 61–62, 84–86
+    note: 'White rejects a simple inevitable-collapse narrative: fiscal distress was decisive for convocation, but policy choices and political resistance shaped the outcome.'
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2. Say that bankruptcy/credit crisis, failed reform, and opposition from notables, parlements, and a widening public political sphere made convocation the crown's exit from deadlock. Do not say that an undifferentiated 'country' forced it, or that the Estates were simply summoned in 1789: Louis announced them on 8 August 1788 and they opened on 5 May 1789."
+  research_note: 'Evidence tier 2. Say that bankruptcy/credit crisis, failed reform, and opposition from notables, parlements, and a widening public political sphere made convocation the crown''s exit from deadlock. Do not say that an undifferentiated ''country'' forced it, or that the Estates were simply summoned in 1789: Louis announced them on 8 August 1788 and they opened on 5 May 1789.'
 - id: C-034
-  claim: "The Estates-General's demand for continuing representative authority and resistance to dissolution led into the National Assembly and Bastille crisis."
-  transcript: [U-01066–U-01089]
+  claim: The Estates-General's demand for continuing representative authority and resistance to dissolution led into the National Assembly and Bastille crisis.
+  transcript:
+  - U-01066–U-01089
   centrality: central
   supporting_sources:
-    - source_id: SRC-016
-      locator: "Archives parlementaires, vol. 8, pp. 127 and 146"
-      note: "Records the 17 June adoption of the title National Assembly and the deputies' refusal to disperse after the royal session of 23 June."
-    - source_id: SRC-057
-      locator: "sections '17 juin 1789' and '23 juin 1789'"
-      note: "Institutional chronology identifies the Third Estate's declaration, the royal-session refusal, and the subsequent revolutionary sequence."
+  - source_id: SRC-016
+    locator: Archives parlementaires, vol. 8, pp. 127 and 146
+    note: Records the 17 June adoption of the title National Assembly and the deputies' refusal to disperse after the royal session of 23 June.
+  - source_id: SRC-057
+    locator: sections '17 juin 1789' and '23 juin 1789'
+    note: Institutional chronology identifies the Third Estate's declaration, the royal-session refusal, and the subsequent revolutionary sequence.
   conflicting_sources:
-    - source_id: SRC-016
-      locator: "vol. 8, pp. 127 and 146"
-      note: "The transition was not triggered by a single attempted military dissolution: the immediate dispute concerned verification and voting by order or by head; troop movements, Necker's dismissal, food anxiety, and Parisian mobilization form the context of 14 July."
+  - source_id: SRC-016
+    locator: vol. 8, pp. 127 and 146
+    note: 'The transition was not triggered by a single attempted military dissolution: the immediate dispute concerned verification and voting by order or by head; troop movements, Necker''s dismissal, food anxiety, and Parisian mobilization form the context of 14 July.'
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 1–2. Correct the order: Third-Estate deputies and some clergy declared themselves the National Assembly on 17 June; they made the Tennis Court oath on 20 June; after the 23 June royal session they refused to disperse, and the king conceded on 27 June. The Bastille was stormed on 14 July amid the Paris crisis, not because the king immediately sent the army to dissolve the Estates. The Assembly was already national before the Bastille."
+  research_note: 'Evidence tier 1–2. Correct the order: Third-Estate deputies and some clergy declared themselves the National Assembly on 17 June; they made the Tennis Court oath on 20 June; after the 23 June royal session they refused to disperse, and the king conceded on 27 June. The Bastille was stormed on 14 July amid the Paris crisis, not because the king immediately sent the army to dissolve the Estates. The Assembly was already national before the Bastille.'
 - id: C-035
-  claim: "Discovery of the king's dealings with foreign powers contributed to the royal couple's arrest and the later revolutionary violence."
-  transcript: [U-01090–U-01096]
+  claim: Discovery of the king's dealings with foreign powers contributed to the royal couple's arrest and the later revolutionary violence.
+  transcript:
+  - U-01090–U-01096
   centrality: supporting
   supporting_sources:
-    - source_id: SRC-058
-      locator: "pp. 7–8, paragraph 1"
-      note: "Documents the royal family's failed flight using the Korff passport and its interception at Varennes on 21 June 1791."
-    - source_id: SRC-059
-      locator: "opening paragraph"
-      note: "Records the 10 August 1792 capture of the Tuileries and Louis XVI's imprisonment in the Temple."
-    - source_id: SRC-060
-      locator: "letter dated 7 December 1792, paragraph beginning 'Il est vrai que la découverte'"
-      note: "Places the 20 November discovery of the armoire de fer among the evidence that reinvigorated the decision to try the deposed king."
+  - source_id: SRC-058
+    locator: pp. 7–8, paragraph 1
+    note: Documents the royal family's failed flight using the Korff passport and its interception at Varennes on 21 June 1791.
+  - source_id: SRC-059
+    locator: opening paragraph
+    note: Records the 10 August 1792 capture of the Tuileries and Louis XVI's imprisonment in the Temple.
+  - source_id: SRC-060
+    locator: letter dated 7 December 1792, paragraph beginning 'Il est vrai que la découverte'
+    note: Places the 20 November discovery of the armoire de fer among the evidence that reinvigorated the decision to try the deposed king.
   conflicting_sources:
-    - source_id: SRC-059
-      locator: "opening paragraph"
-      note: "The king was not arrested immediately when foreign dealings were 'discovered': Varennes in 1791, war and the 10 August 1792 insurrection preceded his imprisonment; the iron-safe papers were found later, in November 1792."
-    - source_id: SRC-061
-      locator: "context section"
-      note: "The Terror was a 1793–94 emergency regime amid foreign war, internal revolt, economic crisis, and political conflict, not an immediate automatic consequence of the royal couple's arrest."
+  - source_id: SRC-059
+    locator: opening paragraph
+    note: 'The king was not arrested immediately when foreign dealings were ''discovered'': Varennes in 1791, war and the 10 August 1792 insurrection preceded his imprisonment; the iron-safe papers were found later, in November 1792.'
+  - source_id: SRC-061
+    locator: context section
+    note: The Terror was a 1793–94 emergency regime amid foreign war, internal revolt, economic crisis, and political conflict, not an immediate automatic consequence of the royal couple's arrest.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 2. Replace the compressed causal chain with dated stages: failed flight to Varennes (June 1791) deeply damaged confidence; war and the 10 August 1792 insurrection brought imprisonment and the fall of monarchy; documents found in November then strengthened the case for trial. Secret royal and émigré contacts with foreign powers were real, but do not say a single discovery caused the arrest or Terror."
+  research_note: 'Evidence tier 2. Replace the compressed causal chain with dated stages: failed flight to Varennes (June 1791) deeply damaged confidence; war and the 10 August 1792 insurrection brought imprisonment and the fall of monarchy; documents found in November then strengthened the case for trial. Secret royal and émigré contacts with foreign powers were real, but do not say a single discovery caused the arrest or Terror.'
 - id: C-036
-  claim: "Twenty-eight former fermiers généraux were executed together on 8 May 1794."
-  transcript: [U-01097–U-01115]
+  claim: Twenty-eight former fermiers généraux were executed together on 8 May 1794.
+  transcript:
+  - U-01097–U-01115
   centrality: sampled-incidental
   supporting_sources:
-    - source_id: SRC-062
-      locator: "'Procès des Fermiers généraux'; AN W 362, dossier 785; opening paragraphs"
-      note: "Identifies the 19 Floréal Year II (8 May 1794) summary trial, the twenty-eight condemned, the archival case file, and the political-conspiracy verdict."
+  - source_id: SRC-062
+    locator: "'Procès des Fermiers généraux'; AN W 362, dossier 785; opening paragraphs"
+    note: Identifies the 19 Floréal Year II (8 May 1794) summary trial, the twenty-eight condemned, the archival case file, and the political-conspiracy verdict.
   conflicting_sources:
-    - source_id: SRC-062
-      locator: "opening paragraphs"
-      note: "The Ferme générale itself had already been abolished by the law of 20–27 March 1791; the 1794 prosecution was not a general trial of every surviving tax collector, and its formal charge was counter-revolutionary conspiracy, not simply past profiteering."
+  - source_id: SRC-062
+    locator: opening paragraphs
+    note: The Ferme générale itself had already been abolished by the law of 20–27 March 1791; the 1794 prosecution was not a general trial of every surviving tax collector, and its formal charge was counter-revolutionary conspiracy, not simply past profiteering.
   status: resolved
-  script_treatment: qualify
-  research_note: "Evidence tier 1–2. The date and total are secure: twenty-eight defendants, including Lavoisier, were condemned and executed on 8 May 1794 after a summary political trial. Say 'twenty-eight former fermiers généraux and associated defendants' rather than 'all the financiers still alive'; link anti-Farm resentment as context, but distinguish it from the legal charge of conspiracy to aid France's enemies."
+  research_note: 'Evidence tier 1–2. The date and total are secure: twenty-eight defendants, including Lavoisier, were condemned and executed on 8 May 1794 after a summary political trial. Say ''twenty-eight former fermiers généraux and associated defendants'' rather than ''all the financiers still alive''; link anti-Farm resentment as context, but distinguish it from the legal charge of conspiracy to aid France''s enemies.'

@@ -4,7 +4,7 @@
 
 <!-- chapter: CH-001; transcript: U-00001–U-00057 -->
 
-Good evening, everyone. Tonight, how can I put this, you're the guinea pigs for a lecture I have worked on and perhaps ought to work on a little more. You will be the judges. The thing is, the subject—the causes, the financial causes of the French Revolution—is not one of the subjects I usually deal with. But it has always intrigued me, and here, as it were, I have seized the opportunity to try to understand a little more about it. I am not entirely sure I have understood everything. But one thing is certain: when you look at why the French Revolution broke out, you realize there were many reasons, of course.
+Good evening, everyone. Tonight, how can I put it, you are the guinea pigs for a lecture I have worked on and perhaps ought to work on a little more. You will be the judges. The point is that the subject—the causes, the financial causes of the French Revolution—is not one of the subjects I usually deal with. But it has always intrigued me, and here, as it were, I have seized the opportunity to try to understand a little more about it. I am not entirely sure I have understood everything. But one thing is certain: when you look at why the French Revolution broke out, you realize there were many reasons, of course.
 
 There are books and books entitled *The Causes of the French Revolution*. They talk about the people's hatred of the privileges of the nobility and the clergy; about the wealthy business and industrial bourgeoisie emerging in France, who counted for nothing politically and wanted to count for more. Then you read that the poverty of the poor also mattered, along with bad harvests, the price of grain—and therefore bread—shooting through the roof, discontent, popular uprisings, and hunger.
 
@@ -20,9 +20,9 @@ So that is what we will try to examine. We will see how, faced with the disaster
 
 So we are in eighteenth-century France. This is an absolute monarchy. What does an absolute monarchy mean? It means that, at least in theory, the king can do whatever he wants. There is no formal step requiring him to ask anyone's approval. He can issue orders without having to justify them: by the king's will. With a note called a *lettre de cachet*, the king can have anyone he wants arrested, without explanation, and locked up in the Bastille for as long as he wants—even for life. The king can issue any laws he wants without being subject to any parliament, any minister, anything at all. He can impose taxes as he pleases.
 
-It is not like that in the Middle Ages. We will not dwell on it, but monarchies have not always been this way. For centuries, kings have had powers within the kingdom that balanced their own—the great nobility. But from the time of Louis XIV, the Sun King at least, the monarchy in France is absolute.
+It was not like that in the Middle Ages. We will not dwell on it, but monarchies have not always been this way. For centuries, kings have had powers within the kingdom that balanced their own—the great nobility. But from the time of Louis XIV, the Sun King at least, the monarchy in France is absolute.
 
-You know the Sun King: “I am the State.” What does “I am the State” mean? Of course there are advisers, secretaries, and ministers. It's not that they don't exist. But they all take their orders from the king.
+You know the Sun King: “I am the State.” What does “I am the State” mean? Of course there are advisers, secretaries, and ministers. It is not that they do not exist. But they all take their orders from the king.
 
 For the French monarchy at the beginning of the eighteenth century, the monarchy of the Sun King, we also have a fascinating account in the memoirs of a great nobleman of the period, the Duke of Saint-Simon. Saint-Simon is a nobleman who lives through the Sun King's mature years and old age, and then lives on well into the middle of the eighteenth century. He writes his memoirs, a vast, sprawling work—seven or eight volumes of a thousand pages apiece—full of gossip, anecdotes, and reflections on what it means to live under the absolute monarchy of the Sun King, Louis XIV.
 
@@ -32,7 +32,7 @@ Saint-Simon paints a terrible picture of the final years of the Sun King's reign
 
 You remember the siege of Turin in 1706? We have all heard about it, haven't we? Pietro Micca; then Prince Eugene arrives and frees the city from the French siege. Here in Turin we all know the episode, and we might think it matters to us because we are Turinese, but that in itself it is a somewhat minor, provincial affair.
 
-Saint-Simon, decades later, says that France's ruin begins with the catastrophe at Turin, when they threw us out of Italy. From that moment on, France no longer counts for anything in Italy, and that is where our ruin begins. We are in 1710.
+Saint-Simon, decades later, says that France's ruin began with the catastrophe at Turin, when they threw us out of Italy. From that moment on, France no longer counts for anything in Italy, and that is where our ruin begins. We are in 1710.
 
 <!-- research: [C-003] [Q-001] [C-004] [Q-002] [C-005] -->
 
@@ -42,17 +42,17 @@ Saint-Simon, decades later, says that France's ruin begins with the catastrophe 
 
 Four years have passed since the disaster at Turin. France is destitute. It has just emerged from the most terrible winter of the century. There is no money, the budget hole is terrifying, and the king is up to his neck in debt. So he does not pay. He does not pay his debts and he does not pay salaries. The army fighting at the front is not being paid.
 
-To tell the truth, it's not that the king doesn't pay at all. He does not pay in coin. You have to remember that this is a period when paper money—banknotes—has not yet been invented. Until yesterday, paper money was a normal, modern form of money. Now we have discovered that it is an archaic, backward form and we are moving beyond it thanks to electronic money. But until yesterday, paper money was modernity itself.
+To tell the truth, it is not that the king does not pay at all. He does not pay in coin. You have to remember that this is a period when paper money—banknotes—has not yet been invented. Until yesterday, paper money was a normal, modern form of money. Now we have discovered that it is an archaic, backward form and we are moving beyond it thanks to electronic money. But until yesterday, paper money was modernity itself.
 
 In early eighteenth-century France, paper money has not yet been invented. Money is made of metal, preferably precious metal. The money that really counts is gold or silver coin, and it circulates and people accept it because they know gold and silver have a value that nobody can ever take away from them. Of course smaller change circulates too, because you cannot go to the market, buy six eggs, and pay with a silver crown worth fifty euros. So smaller coins circulate as well, and people accept those by convention—they have to accept them. But the serious money used for important business is gold or silver.
 
 In France in 1710, that money has almost completely stopped circulating. Those who have it hold on to it tightly. And the king pays with promises. He essentially pays with bills of exchange, with IOUs. The king pays with notes printed at the mint, known as mint notes. One surviving note reads: “MINT NOTE RENEWED AND CERTIFIED pursuant to the Declaration of 24 May 1707. In the amount of [...] 1,000 livres tournois. FOR the sum of one thousand livres, which I will pay in one year to the bearer, value received in another mint note. Made at the Paris Mint on 15 June 1707.” The king puts them into circulation, and when the king gives them to you, you have to accept them.
 
-But nobody wants these bills. Nobody believes that a year later they will really be able to go to the mint and have their gold coins counted out in exchange for this piece of paper. So what happens? People try to get rid of them. I have a mint note here for one thousand francs, but if you give me one hundred francs in gold, I am happy to hand the note over to you. So those who have real money keep it hidden, while the notes circulate and continually lose value. The only people who profit are the bankers, who can sweep up these bills and then, by playing the exchange rates and having connections in government, manage to enrich themselves while everyone else is destitute.
+After that, nobody wants these bills. Nobody believes that a year later they will really be able to go to the mint and have their gold coins counted out in exchange for this piece of paper. So what happens? People try to get rid of them. I have a mint note here for one thousand francs, but if you give me one hundred francs in gold, I am happy to hand the note over to you. So those who have real money keep it hidden, while the notes circulate and continually lose value. The only people who profit are the bankers, who can sweep up these bills and then, by playing the exchange rates and having connections in government, manage to enrich themselves while everyone else is destitute.
 
 The king does not pay; on the other hand, he collects. Taxes almost double every year. Saint-Simon writes: “The capitation tax, doubled and tripled at the arbitrary will of the provincial intendants; goods and foodstuffs of every kind taxed at four times their value; taxes on the well-to-do and others of every nature and on all sorts of things—all this crushed nobles and commoners, lords and churchmen, without what reached the king being enough: he drew the blood of all his subjects without distinction, squeezed them even to the pus, and enriched an infinite army of tax contractors and employees in these various kinds of taxes, in whose hands the largest and best part remained.”
 
-Because there's something else we have to explain. Today we are used to thinking that one of the problems of the modern state is that it has too much staff, too many public employees, too much bureaucracy. That problem does not exist in eighteenth-century France. There is very little bureaucracy. So the state does not collect taxes directly; it does not have the employees to do it. The collection of taxes, duties, and levies is contracted out to private entrepreneurs, to financiers. They advance the money and then take care of collecting the taxes, duties, levies, and tithes themselves.
+Because there is something else we have to explain. Today we are used to thinking that one of the problems of the modern state is that it has too much staff, too many public employees, too much bureaucracy. That problem does not exist in eighteenth-century France. There is very little bureaucracy. So the state does not collect taxes directly; it does not have the employees to do it. The collection of taxes, duties, and levies is contracted out to private entrepreneurs, to financiers. They advance the money and then take care of collecting the taxes, duties, levies, and tithes themselves.
 
 There is a forest of completely different taxes; it is impossible to make sense of them, but the contractors know how. Once they have advanced the bare minimum to the king, they do the collecting themselves with an army of tax employees. But these are not public employees; they work for the private contractors. Eventually those contractors organize themselves into one great company, the *Ferme générale*, the General Farm: a consortium of bankers that collects taxes throughout the kingdom by its own methods and without any supervision. And so, Saint-Simon says, the king keeps raising and raising taxes, but in the end the money always remains in the contractors' pockets.
 
@@ -62,7 +62,7 @@ There is a forest of completely different taxes; it is impossible to make sense 
 
 <!-- chapter: CH-004; transcript: U-00210–U-00364 -->
 
-At this point the finance minister, Desmarets, realizes that something has to be done. He decides to propose a reform. More than once during this lecture, you'll notice that we are talking about things that sound familiar to us.
+At this point the finance minister, Desmarets, realizes that something has to be done. He decides to propose a reform. More than once during this lecture, you will notice that we are talking about things that sound familiar to us.
 
 The finance minister says: we need a wealth tax. We need a wealth tax because there are no real taxes on wealth. Most taxes are, you understand, duties on every kind of trade—practically VAT, right? Excise taxes. Whatever someone buys or sells, a share disappears in duties. Then there are taxes on wealth, but they are distributed rather casually. The municipality decides, all right, let us divide this among the inhabitants; we will make that man pay this much. Nobody has to file an income or asset declaration. There is no wealth tax truly proportional to a person's wealth. Minister Desmarets proposes introducing one.
 
@@ -76,7 +76,7 @@ So Minister Desmarets, who has had this brilliant idea of introducing a wealth t
 
 At this point the minister goes to the king and tells him: “I have here the tax-reform plan approved by the finest experts in the kingdom.”
 
-The objection Saint-Simon makes at this point is interesting. In his memoirs, he tells us what happens behind the scenes. It's interesting because it helps us understand a mentality different from our own. They are used to paying endless taxes, to being squeezed, as he says, until not only blood but pus comes out. But until now nobody has been forced to disclose their wealth. At most, it has been estimated.
+The objection Saint-Simon makes at this point is interesting. In his memoirs, he tells us what was happening behind the scenes. It is interesting because it helps us understand a mentality different from our own. They are used to paying endless taxes, to being squeezed, as he says, until not only blood but pus comes out. But until now nobody has been forced to disclose their wealth. At most, it has been estimated.
 
 This new tax, however, requires investigations and requires everyone to declare their wealth. We have grown used to that as something normal. To Saint-Simon it seems nightmarish, inconceivable. He says: “But do you understand? This will reveal every family's secrets, the things carefully kept hidden in every family. It will provoke furious quarrels between husbands and wives, between brothers. It will expose private affairs. It will destroy credit, because who will still be able to obtain credit once everyone's true wealth is known?”
 
@@ -106,7 +106,7 @@ The king tells him: “Yes, of course, you are right. There is no point in askin
 
 The council approves.
 
-“Thus this bloody affair was concluded,” Saint-Simon writes, “and immediately afterward signed, sealed, registered amid stifled sobs, and published amid general weeping.” The proceeds do not come anywhere near what they imagine in that commission of cannibals. And the king does not pay a penny more than before. Everyone, meanwhile, is squeezed once again. Only the financiers escape, because it is impossible to know what they really have in their portfolios.
+“Thus this bloody affair was concluded,” Saint-Simon writes, “and immediately afterward signed, sealed, registered amid stifled sobs, and published amid general weeping.” The proceeds do not come anywhere near what they had imagined in that commission of cannibals. And the king does not pay a penny more than he did before. Everyone, meanwhile, is squeezed once again. Only the financiers escape, because it is impossible to know what they really have in their portfolios.
 
 <!-- research: [C-008] [C-009] [Q-005] [Q-006] [C-010] -->
 
@@ -138,7 +138,7 @@ Another little flaw is that, like many people by his time, in a world that is st
 
 And yet, although he does not believe in God, one of his lifelong obsessions is that he would like to summon the devil. He has spent enormous sums paying frauds and magicians who promise to summon the devil for him. Saint-Simon writes: “The curiosity of M. le duc d’Orléans, joined to a false notion of firmness and courage, had from early on occupied him in seeking to see the devil and to make him speak. He neglected nothing, even the maddest reading, to persuade himself that there is no God, and he believed in the devil to the point of hoping to see him and converse with him. This contrast cannot be understood, and yet it is extremely common.” And so he is always surrounded by swindlers and frauds.
 
-This is the man governing France when John Law arrives in Paris with his plan. They are made for each other. The financial situation is ruinous. At that moment the national debt equals ten years of revenue. To give you a comparison, in Italy today the national debt is roughly equal, I believe, to three years of state revenue. Here it is ten times annual revenue. But John Law has the solution.
+This is the man governing France when John Law arrives in Paris with his plan. They are made to understand each other. The financial situation is ruinous. At that moment the national debt equals ten years of revenue. To give you a comparison, in Italy today the national debt is roughly equal, I believe, to three years of state revenue. Here it is ten times annual revenue. But John Law has the solution.
 
 <!-- research: [C-011] [C-012] [Q-007] [C-013] [Q-008] -->
 
@@ -160,7 +160,7 @@ Who guarantees that the bank will pay? The monarchy. The regent agrees with the 
 
 After a while they tell themselves: since the system is working so well, let us print notes. And they print notes. In theory the notes are guaranteed by the bank's capital, but eventually they begin to think it is a shame to limit themselves to that. Printing notes is wonderful. They circulate, and the national debt is falling. It is marvelous; it really is falling. They sweep up the old IOUs and put the new notes into circulation.
 
-But honestly, they can't guarantee all those banknotes with the capital in the vault. So what do they do? Law has another brilliant idea.
+But honestly, they cannot guarantee all those banknotes with the capital in the vault. So what do they do? Law has another brilliant idea.
 
 We are at the beginning of colonial expansion. At the start of the eighteenth century France thinks it can become a great colonial power. It has Canada, Louisiana, and the Antilles. It expects immense expansion in America, and people expect America to produce phenomenal riches.
 
@@ -190,9 +190,9 @@ Naturally, anonymous denunciations begin, and the police start searching people'
 
 The public becomes worried. Some people complain. Journalists and pamphleteers begin publishing complaints against the minister. This is an absolute monarchy: anyone who complains publicly is arrested and deported to the colonies. After that, public opinion officially stops protesting, but the anxiety continues to spread.
 
-Finally, after doing the sums, a major speculator who holds an enormous quantity of banknotes decides to go to the bank and have them paid out in gold. The first to do so are, curiously enough, several great nobles and princes of the blood—the Duke of Bourbon, the Prince of Conti—people with, let's say, the right instincts and the right information. We did not invent insider trading.
+Finally, after doing the sums, a major speculator who holds an enormous quantity of banknotes decides to go to the bank and have them paid out in gold. The first to do so are, curiously enough, several great nobles and princes of the blood—the Duke of Bourbon, the Prince of Conti—people with, shall we say, the right antennae and the right information. We did not invent insider trading.
 
-These people have the right information. Then one day, people see the Duke of Bourbon, the king's cousin, personally arrive at the bank with a train of lackeys carrying suitcases and exchange all his banknotes for gold coins.
+These people have the right information. Then one fine day, people see the Duke of Bourbon, the king's cousin, personally arrive at the bank with a train of lackeys carrying suitcases and exchange all his banknotes for gold coins.
 
 At that point, naturally, there is panic. The crowd rushes to the bank's offices in the rue Quincampoix in Paris, appropriately a street directly behind the stock exchange, even today, in the business district. The crowd surges forward. Seventeen people are crushed to death at the bank's doors. The bank pays for a while, then closes. The regent has no alternative but to declare the banknotes no longer legal tender. We are sorry, but we will pay no one.
 
@@ -200,7 +200,7 @@ The treasurer and the bank director whose signatures appear on the notes natural
 
 Now there are complaints everywhere and a great many ruined speculators. I have to say that the regent handles the matter decently. For example, he decrees something that, if it could be done today, would astonish everyone: with the little that remains, they will obviously manage to repay something to the defrauded savers, and they begin with the small ones. Most small savers manage to recover what they spent. Many of the large ones are ruined.
 
-But meanwhile the national debt has indeed evaporated. On the whole, the monarchy's finances are sounder than they were before. There is only one small problem. Paper money is a good idea, but for two centuries nobody in France will speak of paper money again. After the French public's experience with Law's System, it will be absolutely impossible even to mention the idea of circulating banknotes.
+But meanwhile the national debt has indeed evaporated. All things considered, the monarchy's finances are sounder than they were before. There is only one small problem. Paper money was a good idea, but for two centuries nobody in France will speak of paper money again. After the French public's experience with Law's System, it will be absolutely impossible even to mention the idea of circulating banknotes.
 
 You will say: we are a very long way from the French Revolution. When are we going to get there? We are indeed still in 1720. But in reality, the Mississippi Bubble and its collapse, with all this general chaos, ultimately leave the monarchy feeling that things are not going so badly after all. As I said, the national debt has almost disappeared. They can begin borrowing again. They can begin running up debt again. The regency ends.
 
@@ -210,7 +210,7 @@ You will say: we are a very long way from the French Revolution. When are we goi
 
 <!-- chapter: CH-008; transcript: U-00669–U-00718 -->
 
-The boy king has become a young man. He will be King Louis XV and will reign for about fifty years. He will go down in history as Louis the Beloved. In reality, historians generally agree that he is an idiot and that his reign is disastrous.
+The boy king has become a young man. He will be King Louis XV and will reign for about fifty years. He will go down in history as Louis the Beloved. In reality, historians generally agree that he was an idiot and that his reign was disastrous.
 
 Among other things, France fights and loses the most important war of the century, the Seven Years' War. This is the colonial war in which the French lose Canada and are driven out of India, making it clear that England is the great power of the future. But France hardly notices. It continues to delude itself that it is the great power—a habit the French have never entirely lost, naturally.
 
@@ -218,7 +218,7 @@ And after all, France is still the capital of the world from an intellectual poi
 
 As you see, we have moved ahead quickly. In 1774 Louis XV, the Beloved, dies. His grandson Louis XVI comes to the throne. Nobody can imagine that less than twenty years later he will leave his head on the guillotine. He is the king of an absolute monarchy that continues to consider itself the most powerful country in the world.
 
-Louis XVI is a thoroughly good man. Every report we have from his childhood teachers says he's a complete nonentity. But he is well-intentioned. He comes to the throne and wants to understand how things work. The thinkers of the Enlightenment have been talking for a long time about reforms and about an *Ancien Régime* that has to be improved. He listens to them: let us make these reforms.
+Louis XVI is a thoroughly good man. Every report we have from his teachers when he was a boy and so on says he is a complete nonentity. But he is well-intentioned. He comes to the throne and wants to understand how things work. The thinkers of the Enlightenment have been talking for a long time about reforms and about an *Ancien Régime* that has to be improved. He listens to them: let us make these reforms.
 
 Then he looks at the state of the finances. After fifty years, the finances are catastrophic once again. The national debt is terrifying.
 
@@ -230,7 +230,7 @@ At this point, the script for the remaining part of our lecture is as follows: l
 
 <!-- chapter: CH-009; transcript: U-00719–U-00816 -->
 
-The first man whom Louis XVI, full of good intentions, makes finance minister is an economist named Turgot. Louis XVI certainly has dead weights of his own: this frivolous wife, Marie Antoinette, who spends and spends. But Louis XVI truly wants to go down in history as the father of his people, as the man who genuinely tried to make the kingdom more prosperous. So he chooses an economist as finance minister.
+The first man whom Louis XVI, full of good intentions, makes finance minister is an economist named Turgot. Louis XVI certainly has burdens around his ankles too: this frivolous wife, Marie Antoinette, who spends and spends. But Louis XVI truly wants to go down in history as the father of his people, as the man who genuinely tried to make the kingdom more prosperous. So he chooses an economist as finance minister.
 
 Turgot is greatly loved by the thinkers of the Enlightenment and by the fashionable society of the Paris salons. Today people sometimes talk about the Roman salons where decisions are made, right? At the time, it is the Paris salons. Turgot is a man of absolute integrity, devoted to the public good. Everyone is certain of it and knows it; there is not the slightest doubt.
 
@@ -238,7 +238,7 @@ This is very interesting because Turgot's ministry shows us something history of
 
 Turgot becomes minister amid the enthusiasm of a public that says—here, I will read you a passage from the letter of a great lady, from the Paris salons: “Oh! This time, be assured that good will be done, and that it will be done well, because enlightenment will guide virtue and love of the public good. Never, no never, have two men more virtuous, more disinterested, more active been brought together and more powerfully animated by a greater and higher interest. You will see: their ministry will leave a profound mark on the minds of men. [...] Oh! What bad times for rogues and courtiers!” These are the hopes with which Turgot is welcomed into the ministry.
 
-Turgot is an ultraliberal. The state must intervene as little as possible: reduce taxes, above all abolish duties, and let goods circulate freely. Fundamentally, he too has an idea similar to John Law's: the true source of wealth is land. But listen to the reasoning that follows from it.
+Turgot is an ultraliberal. The state must intervene as little as possible: reduce taxes, above all abolish duties, and let goods circulate freely. At bottom, he too has an idea similar to John Law's: the true source of wealth is land. But listen to the reasoning that follows from it.
 
 The true source of wealth is land. So we have to tax wealth, which means taxing the products of the land. The land produces all existing wealth. Everything comes out of the land, whether agricultural products, metals, or minerals. Everything we have comes from the land. We will tax it there, and then tax nothing else.
 
@@ -286,7 +286,7 @@ They need to find money. Clugny de Nuits has a brilliant idea. Here too, they in
 
 So here we are with the idea of the lottery. This is eighteenth-century France, profoundly corrupt and rotten, and yet many people criticize the innovation. They say: “It is shameful for the state to enrich itself by exploiting people's desire to gamble like this.” That is more than you often hear said about it today.
 
-Beyond that—beyond that—Clugny de Nuits has no other ideas besides the lottery. It turns out the lottery is not enough. The hole in the budget keeps growing. Clugny de Nuits finds himself in trouble, but he will not have to answer to anyone, because five months after entering the ministry he suddenly dies.
+After that—after that—Clugny de Nuits has no other ideas besides the lottery. It turns out the lottery is not enough. The hole in the budget keeps growing. Clugny de Nuits finds himself in trouble, but he will not have to answer to anyone, because five months after entering the ministry he suddenly dies.
 
 The malicious—no, not the malicious, the songs: political satirical songs and *chansonniers* already exist at the time. The songs go around, and he had promised that he would die in the ministry. And indeed, speaking of the choice he had made in appointing Clugny de Nuits, Louis XVI says: “I think we have made another mistake.” Bring on the next one.
 
@@ -332,7 +332,7 @@ But Necker knows something people do not always know today. Today it is sometime
 
 In Necker's time, the court expenditure everyone sees—and that the French therefore criticize fiercely, making them hate Marie Antoinette and her courtiers—accounts for one percent of the budget. So there is not all that much to cut.
 
-Still, when it becomes clear that Necker's miraculous recipe has ultimately failed, the annuities do not work, and the hole in the budget is more terrifying than ever, Necker too is dismissed.
+The fact remains that, when it becomes clear that Necker's miraculous recipe has ultimately failed, the annuities do not work, and the hole in the budget is more terrifying than ever, Necker too is dismissed.
 
 <!-- research: [C-027] [C-028] [C-029] -->
 
@@ -342,7 +342,7 @@ Still, when it becomes clear that Necker's miraculous recipe has ultimately fail
 
 The last one arrives. His name is Calonne. Calonne has another theory: the national debt is indispensable. It is absurd to think of reducing it; we would strangle ourselves. We have to keep increasing the national debt. We have to keep borrowing money.
 
-How do we get people to lend us money? The public no longer trusts us very much, so we have to make the public trust us. No one must know that there is a terrifying hole in the budget. And to keep them from knowing, we have to show them that we are rich instead. Spend.
+How do we get people to lend us money? The public no longer trusts us very much, so we have to make the public trust us. Nobody must know that there is a terrifying hole in the budget. And to keep them from knowing, we have to show them that we are rich instead. Spend.
 
 Calonne's prescription is public spending in every field—not, as Keynes will later say in another context, to create employment. No, no: to create credit. The monarchy must appear fabulously rich so that everyone will lend to it without worrying. Heaven forbid anyone discover the true situation.
 
@@ -366,15 +366,15 @@ Louis XVI—and I am inventing this; it is not in the record—must surely have 
 
 The country demands that the king summon the Estates-General. What does summoning the Estates-General mean?
 
-The Estates-General is an ancient institution. The French kings of the Middle Ages summon it regularly, because in medieval France nobody pays a penny in taxes merely because the king announces, “I have decided to raise taxes.”
+The Estates-General is an ancient institution. The French kings of the Middle Ages summoned it regularly, because in medieval France nobody would have paid a penny in taxes merely because the king had announced, “I have decided to raise taxes.”
 
-To impose taxes, a medieval French king has to convene an assembly attended by princes, barons, and nobles; by bishops, archbishops, and the clergy; and also by the bourgeois merchants of the towns, the people who have money. These people gathered together—the nobility, the clergy, and the merchants—are also called the three estates.
+To impose taxes, a medieval French king had to convene an assembly attended by princes, barons, and nobles; by bishops, archbishops, and the clergy; and also by the bourgeois merchants of the towns, the people who had money. These people gathered together—the nobility, the clergy, and the merchants—are also called the three estates.
 
-The king and his ministers have to explain matters to everyone gathered there. “We need money.” They have to say how much money they need and why. The assembly discusses it and might then approve it. Without the Estates-General, a medieval French king cannot impose a penny in taxes.
+The king and his ministers had to explain matters to everyone gathered there. “We need money.” They had to say how much money they needed and why. The assembly discussed it and might then approve it. Without the Estates-General, a medieval French king could not impose a penny in taxes.
 
-Clearly, the kings find this control rather restrictive. We began by saying that the France of Louis XIV is an absolute monarchy. Seventeenth-century France becomes an absolute monarchy because the king is powerful enough to impose taxes without having to summon the Estates-General.
+Clearly, the kings found this control rather restrictive. We began by saying that the France of Louis XIV is an absolute monarchy. Seventeenth-century France became an absolute monarchy because the king had grown powerful enough to impose taxes without having to summon the Estates-General.
 
-They summon it for the last time in 1614. After that, for a century and a half, the kings of France govern without the assembly. But people remember that it once existed in the past. The nobles remember above all, because they count for a great deal in the Estates-General. They are the First Estate, while the clergy is the Second Estate. Everyone else is the Third Estate, which counts for little. But it has to be summoned because the merchants are the people who had the money.
+They summoned it for the last time in 1614. After that, for a century and a half, the kings of France governed without the assembly. But people remembered that it had existed in the past. The nobles remembered above all, because they counted for a great deal in the Estates-General. They were the First Estate, while the clergy was the Second Estate. Everyone else was the Third Estate, which counted for little. But it had to be summoned because the merchants were the people who had the money.
 
 And in France in 1788, people begin to say: “The Estates-General—how long has it been since we summoned them? And look where we have ended up. The king cannot go on like this. He must listen to the country.”
 
@@ -404,8 +404,8 @@ To conclude, one very last thing. Among all these beheadings, there are constant
 
 The mood is this: now all the profiteers have to answer for what they have done, because if there is not a penny left, it is because they have all been feeding at the trough. Now the people will judge them.
 
-Then one day a major trial opens against all the *fermiers généraux*: all the financiers still alive who managed tax collection under the monarchy. They are tried together, and on May 8, 1794, twenty-eight financiers, former *fermiers généraux*, go to the guillotine together.
+One fine day a great trial is opened against all the *fermiers généraux*: all the financiers still alive who managed tax collection under the monarchy. They are tried together, and on May 8, 1794, twenty-eight financiers, former *fermiers généraux*, go to the guillotine together.
 
-There are many other things to tell, but I think that by now the overall meaning of this story has escaped no one. Thank you. Thank you all, have a good evening—and until next year, then.
+There would be many other things to tell, but I think that by now the overall meaning of this story has escaped no one. Thank you. Thank you all, have a good evening—and until next year, then.
 
 <!-- research: [C-035] [C-036] -->

@@ -36,6 +36,17 @@ Adapt Barbero's deictic references to the original lecture series for the podcas
 episode”; replace “tomorrow's conference”, or an elliptical “tomorrow's”, with “the next episode.”
 Preserve “yesterday” and “tomorrow” when they refer to time within the historical narrative.
 
+Remove parenthetical pronunciation spellings and phonetic reading guides. Preserve ordinary
+parenthetical asides and substantive explanations; pronunciation data does not belong in the
+recording script.
+
+Prefer contemporary spoken American English. Avoid editorial or old-fashioned uses of “shall”;
+use “will,” “should,” or a direct present-tense construction according to meaning. When a speaker
+addresses a person, prefer idiomatic “tell” where it takes a natural indirect object, while keeping
+“say” for quoted words and constructions where “tell” would change the meaning. Prefer familiar
+modern legal phrasing such as “sentenced to death” over “condemned to death” unless reproducing an
+exact quotation.
+
 Approved factual corrections and research-authorized replacements must sound like ordinary parts
 of the narration. State the more accurate fact directly and naturally. Never introduce or retain a
 fact-checking sentence that compares the correction with Barbero's wording, explains that a claim

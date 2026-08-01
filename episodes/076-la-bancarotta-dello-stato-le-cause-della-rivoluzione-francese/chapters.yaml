@@ -1,0 +1,70 @@
+- id: CH-001
+  title: Scope and financial thesis
+  start: U-00001
+  end: U-00057
+  markers: [C-001, C-002]
+- id: CH-002
+  title: Absolutism and Saint-Simon's opposition
+  start: U-00058
+  end: U-00122
+  markers: [C-003, Q-001, C-004, Q-002, C-005]
+- id: CH-003
+  title: Wartime insolvency, money, and tax farming
+  start: U-00123
+  end: U-00209
+  markers: [C-006, Q-003, Q-004, C-007]
+- id: CH-004
+  title: Desmarets's property tax and absolutist decision-making
+  start: U-00210
+  end: U-00364
+  markers: [C-008, C-009, Q-005, Q-006, C-010]
+- id: CH-005
+  title: Regency crisis and John Law's theory
+  start: U-00365
+  end: U-00471
+  markers: [C-011, C-012, Q-007, C-013, Q-008]
+- id: CH-006
+  title: Bank, company, and Mississippi bubble
+  start: U-00472
+  end: U-00585
+  markers: [C-014, Q-009, C-015, C-016, C-017]
+- id: CH-007
+  title: Run, collapse, and the system's legacy
+  start: U-00586
+  end: U-00668
+  markers: [C-018, C-019, C-020]
+- id: CH-008
+  title: Louis XV restores the debt cycle
+  start: U-00669
+  end: U-00718
+  markers: [C-021, C-022]
+- id: CH-009
+  title: Turgot, liberal reform, grain crisis, and cuts
+  start: U-00719
+  end: U-00816
+  markers: [Q-010, C-023, C-024, C-025, Q-011]
+- id: CH-010
+  title: Clugny's lottery and brief tenure
+  start: U-00817
+  end: U-00855
+  markers: [C-026, Q-012]
+- id: CH-011
+  title: Necker, the American war, and life annuities
+  start: U-00856
+  end: U-00962
+  markers: [C-027, C-028, C-029]
+- id: CH-012
+  title: Calonne's credit strategy reaches the wall
+  start: U-00963
+  end: U-01017
+  markers: [C-030, C-031]
+- id: CH-013
+  title: The Estates-General and the transfer of sovereignty
+  start: U-01018
+  end: U-01089
+  markers: [C-032, C-033, C-034, Q-013]
+- id: CH-014
+  title: Revolution, Terror, and the tax farmers' reckoning
+  start: U-01090
+  end: U-01116
+  markers: [C-035, C-036]

@@ -20,7 +20,7 @@ So that is what we will try to examine. We will see how, faced with the disaster
 
 So we are in eighteenth-century France. This is an absolute monarchy. What does an absolute monarchy mean? It means that, at least in theory, the king can do whatever he wants. There is no formal step requiring him to ask anyone's approval. He can issue orders without having to justify them: by the king's will. With a note called a *lettre de cachet*, the king can have anyone he wants arrested, without explanation, and locked up in the Bastille for as long as he wants—even for life. The king can issue any laws he wants without being subject to any parliament, any minister, anything at all. He can impose taxes as he pleases.
 
-It is not like that in the Middle Ages. We will not dwell on it, but monarchies have not always been this way. For centuries, kings have had powers within the kingdom that balanced their own—the great nobility. But from the time of Louis XIV, the Sun King at least, the monarchy in France is absolute.
+It was not like that in the Middle Ages. We will not dwell on it, but monarchies have not always been this way. For centuries, kings have had powers within the kingdom that balanced their own—the great nobility. But from the time of Louis XIV, the Sun King at least, the monarchy in France is absolute.
 
 You know the Sun King: “I am the State.” What does “I am the State” mean? Of course there are advisers, secretaries, and ministers. It's not that they don't exist. But they all take their orders from the king.
 
@@ -32,7 +32,7 @@ Saint-Simon paints a terrible picture of the final years of the Sun King's reign
 
 You remember the siege of Turin in 1706? We have all heard about it, haven't we? Pietro Micca; then Prince Eugene arrives and frees the city from the French siege. Here in Turin we all know the episode, and we might think it matters to us because we are Turinese, but that in itself it is a somewhat minor, provincial affair.
 
-Saint-Simon, decades later, says that France's ruin begins with the catastrophe at Turin, when they threw us out of Italy. From that moment on, France no longer counts for anything in Italy, and that is where our ruin begins. We are in 1710.
+Saint-Simon, decades later, says that France's ruin began with the catastrophe at Turin, when they threw us out of Italy. From that moment on, France no longer counts for anything in Italy, and that is where our ruin begins. We are in 1710.
 
 <!-- research: [C-003] [Q-001] [C-004] [Q-002] [C-005] -->
 
@@ -76,7 +76,7 @@ So Minister Desmarets, who has had this brilliant idea of introducing a wealth t
 
 At this point the minister goes to the king and tells him: “I have here the tax-reform plan approved by the finest experts in the kingdom.”
 
-The objection Saint-Simon makes at this point is interesting. In his memoirs, he tells us what happens behind the scenes. It's interesting because it helps us understand a mentality different from our own. They are used to paying endless taxes, to being squeezed, as he says, until not only blood but pus comes out. But until now nobody has been forced to disclose their wealth. At most, it has been estimated.
+The objection Saint-Simon makes at this point is interesting. In his memoirs, he tells us what was happening behind the scenes. It's interesting because it helps us understand a mentality different from our own. They are used to paying endless taxes, to being squeezed, as he says, until not only blood but pus comes out. But until now nobody has been forced to disclose their wealth. At most, it has been estimated.
 
 This new tax, however, requires investigations and requires everyone to declare their wealth. We have grown used to that as something normal. To Saint-Simon it seems nightmarish, inconceivable. He says: “But do you understand? This will reveal every family's secrets, the things carefully kept hidden in every family. It will provoke furious quarrels between husbands and wives, between brothers. It will expose private affairs. It will destroy credit, because who will still be able to obtain credit once everyone's true wealth is known?”
 
@@ -106,7 +106,7 @@ The king tells him: “Yes, of course, you are right. There is no point in askin
 
 The council approves.
 
-“Thus this bloody affair was concluded,” Saint-Simon writes, “and immediately afterward signed, sealed, registered amid stifled sobs, and published amid general weeping.” The proceeds do not come anywhere near what they imagine in that commission of cannibals. And the king does not pay a penny more than before. Everyone, meanwhile, is squeezed once again. Only the financiers escape, because it is impossible to know what they really have in their portfolios.
+“Thus this bloody affair was concluded,” Saint-Simon writes, “and immediately afterward signed, sealed, registered amid stifled sobs, and published amid general weeping.” The proceeds do not come anywhere near what they had imagined in that commission of cannibals. And the king does not pay a penny more than he did before. Everyone, meanwhile, is squeezed once again. Only the financiers escape, because it is impossible to know what they really have in their portfolios.
 
 <!-- research: [C-008] [C-009] [Q-005] [Q-006] [C-010] -->
 
@@ -200,7 +200,7 @@ The treasurer and the bank director whose signatures appear on the notes natural
 
 Now there are complaints everywhere and a great many ruined speculators. I have to say that the regent handles the matter decently. For example, he decrees something that, if it could be done today, would astonish everyone: with the little that remains, they will obviously manage to repay something to the defrauded savers, and they begin with the small ones. Most small savers manage to recover what they spent. Many of the large ones are ruined.
 
-But meanwhile the national debt has indeed evaporated. On the whole, the monarchy's finances are sounder than they were before. There is only one small problem. Paper money is a good idea, but for two centuries nobody in France will speak of paper money again. After the French public's experience with Law's System, it will be absolutely impossible even to mention the idea of circulating banknotes.
+But meanwhile the national debt has indeed evaporated. On the whole, the monarchy's finances are sounder than they were before. There is only one small problem. Paper money was a good idea, but for two centuries nobody in France will speak of paper money again. After the French public's experience with Law's System, it will be absolutely impossible even to mention the idea of circulating banknotes.
 
 You will say: we are a very long way from the French Revolution. When are we going to get there? We are indeed still in 1720. But in reality, the Mississippi Bubble and its collapse, with all this general chaos, ultimately leave the monarchy feeling that things are not going so badly after all. As I said, the national debt has almost disappeared. They can begin borrowing again. They can begin running up debt again. The regency ends.
 
@@ -210,7 +210,7 @@ You will say: we are a very long way from the French Revolution. When are we goi
 
 <!-- chapter: CH-008; transcript: U-00669–U-00718 -->
 
-The boy king has become a young man. He will be King Louis XV and will reign for about fifty years. He will go down in history as Louis the Beloved. In reality, historians generally agree that he is an idiot and that his reign is disastrous.
+The boy king has become a young man. He will be King Louis XV and will reign for about fifty years. He will go down in history as Louis the Beloved. In reality, historians generally agree that he was an idiot and that his reign was disastrous.
 
 Among other things, France fights and loses the most important war of the century, the Seven Years' War. This is the colonial war in which the French lose Canada and are driven out of India, making it clear that England is the great power of the future. But France hardly notices. It continues to delude itself that it is the great power—a habit the French have never entirely lost, naturally.
 
@@ -366,15 +366,15 @@ Louis XVI—and I am inventing this; it is not in the record—must surely have 
 
 The country demands that the king summon the Estates-General. What does summoning the Estates-General mean?
 
-The Estates-General is an ancient institution. The French kings of the Middle Ages summon it regularly, because in medieval France nobody pays a penny in taxes merely because the king announces, “I have decided to raise taxes.”
+The Estates-General is an ancient institution. The French kings of the Middle Ages summoned it regularly, because in medieval France nobody would have paid a penny in taxes merely because the king had announced, “I have decided to raise taxes.”
 
-To impose taxes, a medieval French king has to convene an assembly attended by princes, barons, and nobles; by bishops, archbishops, and the clergy; and also by the bourgeois merchants of the towns, the people who have money. These people gathered together—the nobility, the clergy, and the merchants—are also called the three estates.
+To impose taxes, a medieval French king had to convene an assembly attended by princes, barons, and nobles; by bishops, archbishops, and the clergy; and also by the bourgeois merchants of the towns, the people who had money. These people gathered together—the nobility, the clergy, and the merchants—are also called the three estates.
 
-The king and his ministers have to explain matters to everyone gathered there. “We need money.” They have to say how much money they need and why. The assembly discusses it and might then approve it. Without the Estates-General, a medieval French king cannot impose a penny in taxes.
+The king and his ministers had to explain matters to everyone gathered there. “We need money.” They had to say how much money they needed and why. The assembly discussed it and might then approve it. Without the Estates-General, a medieval French king could not impose a penny in taxes.
 
-Clearly, the kings find this control rather restrictive. We began by saying that the France of Louis XIV is an absolute monarchy. Seventeenth-century France becomes an absolute monarchy because the king is powerful enough to impose taxes without having to summon the Estates-General.
+Clearly, the kings found this control rather restrictive. We began by saying that the France of Louis XIV is an absolute monarchy. Seventeenth-century France became an absolute monarchy because the king had grown powerful enough to impose taxes without having to summon the Estates-General.
 
-They summon it for the last time in 1614. After that, for a century and a half, the kings of France govern without the assembly. But people remember that it once existed in the past. The nobles remember above all, because they count for a great deal in the Estates-General. They are the First Estate, while the clergy is the Second Estate. Everyone else is the Third Estate, which counts for little. But it has to be summoned because the merchants are the people who had the money.
+They summoned it for the last time in 1614. After that, for a century and a half, the kings of France governed without the assembly. But people remembered that it had existed in the past. The nobles remembered above all, because they counted for a great deal in the Estates-General. They were the First Estate, while the clergy was the Second Estate. Everyone else was the Third Estate, which counted for little. But it had to be summoned because the merchants were the people who had the money.
 
 And in France in 1788, people begin to say: “The Estates-General—how long has it been since we summoned them? And look where we have ended up. The king cannot go on like this. He must listen to the country.”
 
@@ -406,6 +406,6 @@ The mood is this: now all the profiteers have to answer for what they have done,
 
 Then one day a major trial opens against all the *fermiers généraux*: all the financiers still alive who managed tax collection under the monarchy. They are tried together, and on May 8, 1794, twenty-eight financiers, former *fermiers généraux*, go to the guillotine together.
 
-There are many other things to tell, but I think that by now the overall meaning of this story has escaped no one. Thank you. Thank you all, have a good evening—and until next year, then.
+There would be many other things to tell, but I think that by now the overall meaning of this story has escaped no one. Thank you. Thank you all, have a good evening—and until next year, then.
 
 <!-- research: [C-035] [C-036] -->

@@ -1,0 +1,10 @@
+- id: N-001
+  transcript: [U-00896–U-00943]
+  claim_ids: [C-028]
+  quotation_ids: []
+  source_ids: [SRC-041, SRC-042]
+  category: factual-error
+  original_assertion: "Life annuities could be resold and registered in the names of newborn babies, changing the age used to calculate their duration."
+  proposed_correction: "A subscriber could nominate a third party as the measuring life when purchasing an annuity, but resale did not replace that life. Genevan bankers selected healthy young girls, many protected against smallpox by inoculation, pooled thirty or fifty nominated lives, and sold shares in the resulting income. Because the Crown's rates did not adequately account for the age of these carefully selected lives, the annuities proved more expensive than expected."
+  decision: apply
+  decision_note: "Approved replacement clarifies the Genevan pooling strategy and corrects the resale mechanism and vaccination anachronism."
