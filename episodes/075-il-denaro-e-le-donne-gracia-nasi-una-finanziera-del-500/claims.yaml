@@ -1,0 +1,210 @@
+- id: C-001
+  claim: "Sixteenth-century Christian states generally persecuted Jews more heavily than the Ottoman Muslim world did."
+  transcript: [U-00022–U-00044]
+  centrality: central
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Qualified: Ottoman rule afforded Jews substantially greater communal security than contemporary Iberian Christian regimes, but it imposed subordinate legal status and was not uniformly tolerant."
+- id: C-002
+  claim: "The Hebrew title Nasi signified a leader or prince and conveyed elite lineage."
+  transcript: [U-00065–U-00077]
+  centrality: supporting
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed as the family’s adopted Jewish elite name; the lecture’s biblical-title gloss is plausible but should not be used to prove Davidic descent."
+- id: C-003
+  claim: "Joseph Nasi became a wealthy, influential Ottoman courtier and controlled the Constantinople wine trade."
+  transcript: [U-00125–U-00169]
+  centrality: central
+  supporting_sources: [SRC-001, SRC-008]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed: Joseph became Duke of Naxos and a powerful court-connected financier; the Istanbul wine customs are documented, while claims about personal intimacy with Selim largely reflect hostile Western reports."
+- id: C-004
+  claim: "Commercial rivalry with Jewish intermediaries helped shape Venetian hostility and conspiracy beliefs."
+  transcript: [U-00180–U-00229]
+  centrality: central
+  supporting_sources: [SRC-001, SRC-008]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed in substance: Venetian merchants resented required Jewish intermediaries, and diplomatic language shows commercial rivalry merging with antisemitic conspiracy claims."
+- id: C-005
+  claim: "The 1492 expulsion sent many Iberian Jews to Ottoman cities and North Africa."
+  transcript: [U-00271–U-00320]
+  centrality: central
+  supporting_sources: [SRC-001, SRC-007]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed: the 1492 edict drove Sephardic migration into Ottoman and North African centers, though destinations and numbers varied and not all exiles traveled directly there."
+- id: C-006
+  claim: "Portugal forced its Jewish population to convert or leave in 1497."
+  transcript: [U-00343–U-00376]
+  centrality: central
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed with correction: Portugal’s 1496 expulsion order culminated in forced mass conversion in 1497; presenting a free choice simply to convert or depart understates royal obstruction of departure."
+- id: C-007
+  claim: "Genetic research estimates that about twenty percent of modern Spaniards have Jewish or North African ancestry."
+  transcript: [U-00323–U-00343]
+  centrality: sampled-incidental
+  supporting_sources: [SRC-002]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Qualified: Adams et al. estimated 19.8% Sephardic-Jewish and 10.6% North-African contribution to Iberian paternal Y-chromosome lineages. This is not equivalent to saying 20% of modern Spaniards as whole persons descend from Jews and Moors."
+- id: C-008
+  claim: "Francisco Mendes made his widow Gracia joint administrator of his commercial fortune."
+  transcript: [U-00432–U-00454]
+  centrality: central
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed: Francisco’s will made Gracia an administrator and protected their daughter’s interest; surviving evidence is indirect and does not establish every detail of Barbero’s formulation."
+- id: C-009
+  claim: "Antwerp was one of Renaissance Europe's largest commercial ports and a major precious-metal market."
+  transcript: [U-00455–U-00484]
+  centrality: supporting
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed in substance: Antwerp was a leading European entrepôt for Portuguese spices, textiles, and Habsburg finance; the superlative wording is contextual rather than a measurable ranking."
+- id: C-010
+  claim: "The Portuguese Inquisition was established in 1536 and operated under royal authority."
+  transcript: [U-00485–U-00529]
+  centrality: central
+  supporting_sources: [SRC-003, SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed: papal authorization established the Portuguese Inquisition in 1536. It was closely entangled with royal authority, though Barbero’s simple contrast with a uniformly moderate Roman system is too broad."
+- id: C-011
+  claim: "Diogo Mendes left Gracia administration of the entire family fortune although Brianna owned half."
+  transcript: [U-00577–U-00592]
+  centrality: central
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed: Diogo’s will gave Gracia primary administrative power with named assistants, while the later ownership and guardianship dispute with Brianda was legally more complicated than a clean half-share."
+- id: C-012
+  claim: "Gracia's banking network helped conversos escape and transfer capital into the Ottoman world."
+  transcript: [U-00593–U-00627]
+  centrality: central
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed with caution: the Mendes network aided movement of people and funds, but Birnbaum warns that post-Holocaust accounts exaggerated it into a fully documented large-scale underground railway."
+- id: C-013
+  claim: "The Mendes house made Charles V an interest-free loan of 100,000 ducats to halt an investigation."
+  transcript: [U-00628–U-00667]
+  centrality: central
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed in substance: Charles already owed the widows 100,000 ducats; further interest-free financing and a negotiated payment protected the estate. The loans were coerced accommodations or bribes, not ordinary voluntary credit."
+- id: C-014
+  claim: "Gracia covertly left Antwerp in 1544 via Aachen, Lyon, and Venice."
+  transcript: [U-00668–U-00684]
+  centrality: central
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed in substance: the family left Antwerp covertly in 1544 and traveled toward Venice; the exact itinerary and holiday pretext are reconstructed from correspondence and should be narrated as such."
+- id: C-015
+  claim: "Venice established its compulsory Jewish ghetto in 1516."
+  transcript: [U-00685–U-00699]
+  centrality: supporting
+  supporting_sources: [SRC-004]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed precisely: the Venetian Senate decree of 29 March 1516 confined Jewish residents to the Ghetto Nuovo."
+- id: C-016
+  claim: "A Venetian judgment placed half the family capital in public custody until Brianna's daughter came of age."
+  transcript: [U-00722–U-00748]
+  centrality: central
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed with qualification: Venetian litigation and negotiated settlements immobilized a large share of the estate for the younger Gracia’s dowry; the record is more complex than a single judgment handing Venice half the capital for ten years."
+- id: C-017
+  claim: "Venice ordered the expulsion of marranos in 1550, prompting Gracia's move to Ferrara."
+  transcript: [U-00771–U-00829]
+  centrality: central
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed: Venice promulgated an expulsion edict against conversos on 23 July 1550; Gracia had already secured Ferrara safe-conduct in February and moved around late 1549/1550."
+- id: C-018
+  claim: "At Ferrara Gracia publicly returned to Judaism and financed the Ferrara Bible and other Sephardic works."
+  transcript: [U-00829–U-00853]
+  centrality: central
+  supporting_sources: [SRC-001, SRC-005, SRC-009]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed: Gracia lived openly under her Jewish name in Ferrara and was honored in the Ferrara Bible tradition and Usque’s Consolaçam. Direct financing of every named edition is less securely documented than patronage and dedication."
+- id: C-019
+  claim: "The Ottoman government negotiated with Venice to permit the Nasi family and capital to leave."
+  transcript: [U-00885–U-00912]
+  centrality: central
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed in substance: Ottoman diplomatic pressure was important in securing movement and property, but the family’s departure unfolded through several settlements rather than one bilateral transfer agreement."
+- id: C-020
+  claim: "By the late 1550s the reunited family operated a leading financial house in Constantinople."
+  transcript: [U-00940–U-00979]
+  centrality: central
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed that the reunited Mendes-Nasi enterprise was exceptionally wealthy and influential in Constantinople; calling it the empire’s principal financial firm is an unquantified superlative."
+- id: C-021
+  claim: "Ottoman finance lacked banking and credit networks comparable to those of Christian Europe."
+  transcript: [U-00970–U-00978]
+  centrality: supporting
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Qualified: Sephardic immigrants brought valuable Mediterranean commercial and credit networks, but the claim that nothing comparable existed in Ottoman finance is Eurocentric and too absolute."
+- id: C-022
+  claim: "Gracia endowed synagogues, hospitals, and rabbinical schools across the Ottoman Empire."
+  transcript: [U-00979–U-00995]
+  centrality: central
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed in substance: Gracia funded synagogues and rabbinical learning and supported Jewish communal welfare. The full empire-wide list of hospitals and schools is not equally documented."
+- id: C-023
+  claim: "Paul IV arrested Ancona conversos and twenty-four were executed in 1556."
+  transcript: [U-00996–U-01040]
+  centrality: central
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed with numerical nuance: Paul IV’s campaign led to executions at Ancona in 1556; scholarship commonly records twenty-four or twenty-five victims depending on categorization and sequence."
+- id: C-024
+  claim: "Gracia attempted to organize an international Jewish commercial boycott of Ancona."
+  transcript: [U-01041–U-01046]
+  centrality: central
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed: Gracia was a leading organizer of the proposed Jewish merchant boycott of Ancona, redirected toward Pesaro; divisions among merchants caused it to fail."
+- id: C-025
+  claim: "With Süleyman's consent Gracia leased Tiberias in 1558 for Jewish resettlement."
+  transcript: [U-01047–U-01077]
+  centrality: central
+  supporting_sources: [SRC-001, SRC-006]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Corrected chronology: Ottoman documents connect Gracia to a 1560 tax-farm petition and Joseph to the 1561–63 rebuilding concession. Both participated; calling it a settled 1558 lease or modern Zionism is anachronistic."
+- id: C-026
+  claim: "Gracia died in 1569 and Joseph later obtained the Cypriot wine-export monopoly."
+  transcript: [U-01095–U-01112]
+  centrality: supporting
+  supporting_sources: [SRC-001, SRC-008]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Partly confirmed: Gracia’s death is usually dated 1569, and Joseph controlled important wine customs including Cypriot commerce. The exact timing and scope of a post-Lepanto monopoly require cautious wording."
+
+

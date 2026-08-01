@@ -1,0 +1,153 @@
+- id: N-001
+  transcript: [U-00022–U-00044]
+  claim_ids: [C-001]
+  quotation_ids: []
+  source_ids: [SRC-001]
+  category: misleading-compression
+  original_assertion: "Christian Europe was intolerant toward Jews whereas the Muslim world was tolerant."
+  proposed_correction: "In this period Iberian Christian governments subjected Jews and conversos to expulsion, forced conversion, and inquisitorial prosecution. Ottoman rule offered much greater communal security, although Jews remained legally subordinate and toleration was neither equal citizenship nor uniform practice."
+  decision: retain-original
+- id: N-002
+  transcript: [U-00257–U-00311]
+  claim_ids: [C-005]
+  quotation_ids: [Q-004]
+  source_ids: [SRC-001, SRC-007]
+  category: factual-error
+  original_assertion: "Constantinople, Salonica, Sarajevo, Smyrna, Morocco, Algeria, and Tunisia were all Ottoman destinations filled by Jews expelled in 1492."
+  proposed_correction: "Many exiles entered the broader Islamic world, including Ottoman Constantinople and Salonica and North African destinations such as Morocco. These territories did not all belong to the Ottoman Empire in 1492, and migration unfolded through several routes and later waves."
+  decision: retain-original
+- id: N-003
+  transcript: [U-00321–U-00376]
+  claim_ids: [C-006]
+  quotation_ids: []
+  source_ids: [SRC-001]
+  category: misleading-compression
+  original_assertion: "Portugal offered Jews a choice between conversion and departure in 1497."
+  proposed_correction: "Portugal’s 1496 expulsion order culminated in forced mass conversion in 1497, after the crown obstructed departure. Gracia’s family remained in Lisbon as New Christians."
+  decision: retain-original
+- id: N-004
+  transcript: [U-00323–U-00343]
+  claim_ids: [C-007]
+  quotation_ids: []
+  source_ids: [SRC-002]
+  category: factual-error
+  original_assertion: "Genetic research shows that about twenty percent of present-day Spaniards descend from converted Jews and Moors."
+  proposed_correction: "A study of paternal lineages estimated that about 20 percent were of Sephardic Jewish origin and 10 percent of North African origin."
+  decision: apply
+- id: N-005
+  transcript: [U-00485–U-00529]
+  claim_ids: [C-010]
+  quotation_ids: []
+  source_ids: [SRC-001, SRC-003]
+  category: misleading-compression
+  original_assertion: "The Spanish and Portuguese inquisitions answered directly to their kings, unlike the relatively moderate Roman system."
+  proposed_correction: "The Portuguese Inquisition was authorized in 1536 and, like its Spanish counterpart, was closely entangled with royal authority. The institutional relationships among crown, papacy, and local tribunals were more complex than a simple royal-versus-Roman division, and Roman inquisitorial practice was not uniformly moderate."
+  decision: retain-original
+- id: N-006
+  transcript: [U-00577–U-00592]
+  claim_ids: [C-011]
+  quotation_ids: []
+  source_ids: [SRC-001]
+  category: misleading-compression
+  original_assertion: "Diogo’s will left each sister ownership of exactly half the fortune while giving Gracia sole administration of everything."
+  proposed_correction: "Diogo’s will gave Gracia primary administrative authority, assisted by two named relatives, and protected several heirs’ interests. The later dispute over ownership, dowry, and guardianship was more complicated than a clean half-share managed by Gracia alone."
+  decision: retain-original
+- id: N-007
+  transcript: [U-00593–U-00627]
+  claim_ids: [C-012]
+  quotation_ids: []
+  source_ids: [SRC-001]
+  category: material-uncertainty
+  original_assertion: "Gracia created a clearly organized network that secretly moved Jewish refugees and their capital from Antwerp through Venice to Constantinople."
+  proposed_correction: "The Mendes commercial network helped conversos move people and funds toward safer territories, although its scale and organization are incompletely documented. Later accounts exaggerated it into a fully documented underground railway."
+  decision: retain-original
+- id: N-008
+  transcript: [U-00628–U-00667]
+  claim_ids: [C-013]
+  quotation_ids: []
+  source_ids: [SRC-001]
+  category: misleading-compression
+  original_assertion: "The family stopped an investigation by furnishing Charles V with a new interest-free loan of 100,000 ducats."
+  proposed_correction: "Charles V already owed the Mendes widows 100,000 ducats, while further interest-free financing and negotiated payments were used to protect the estate. Such loans were effectively coerced accommodations or bribes, and the surviving sequence is more complicated than a single new loan ending the inquiry."
+  decision: retain-original
+- id: N-009
+  transcript: [U-00668–U-00684]
+  claim_ids: [C-014]
+  quotation_ids: []
+  source_ids: [SRC-001]
+  category: material-uncertainty
+  original_assertion: "In 1544 the women covertly left Antwerp on the pretext of taking the waters at Aachen, then traveled through Lyon to Venice."
+  proposed_correction: "The family left Antwerp covertly in 1544 and traveled toward Venice through western Europe. Correspondence supports the escape, but the complete itinerary and holiday pretext are reconstructed rather than documented at every step."
+  decision: retain-original
+- id: N-010
+  transcript: [U-00722–U-00748]
+  claim_ids: [C-016]
+  quotation_ids: []
+  source_ids: [SRC-001]
+  category: misleading-compression
+  original_assertion: "A single Venetian judgment placed exactly half the family capital in state custody for ten years until Brianda’s daughter turned eighteen."
+  proposed_correction: "Venetian litigation and negotiated settlements immobilized a large share of the estate for the younger Gracia’s dowry. The settlement evolved through several proceedings, with differing ages and sums in the records, rather than one simple ten-year custodial judgment."
+  decision: retain-original
+- id: N-011
+  transcript: [U-00771–U-00829]
+  claim_ids: [C-017]
+  quotation_ids: []
+  source_ids: [SRC-001]
+  category: misleading-compression
+  original_assertion: "The Venetian expulsion of marranos in 1550 caused Gracia to find refuge in Ferrara."
+  proposed_correction: "Venice promulgated its expulsion edict on 23 July 1550, but Gracia had already obtained Ferrara safe-conduct in February and appears to have moved around late 1549 or 1550. Her precautions preceded the formal decree."
+  decision: retain-original
+- id: N-012
+  transcript: [U-00829–U-00853]
+  claim_ids: [C-018]
+  quotation_ids: [Q-005]
+  source_ids: [SRC-001, SRC-005, SRC-009]
+  category: material-uncertainty
+  original_assertion: "Gracia financed both the Ferrara Bible and Samuel Usque’s work, and each publication explicitly honored her."
+  proposed_correction: "Gracia was an important patron of Sephardic culture in Ferrara and was honored in the Ferrara Bible tradition and Usque’s dedication. Patronage and dedication are secure, while direct financing of every named edition is not equally documented."
+  decision: retain-original
+- id: N-013
+  transcript: [U-00885–U-00912]
+  claim_ids: [C-019]
+  quotation_ids: []
+  source_ids: [SRC-001]
+  category: misleading-compression
+  original_assertion: "The Ottoman and Venetian governments concluded one agreement allowing the Nasi family and most of its capital to transfer to Constantinople."
+  proposed_correction: "Ottoman pressure helped secure the family’s movement and property, but the transfer unfolded through several legal settlements, journeys, and negotiations rather than one comprehensive bilateral agreement."
+  decision: retain-original
+- id: N-014
+  transcript: [U-00970–U-00995]
+  claim_ids: [C-020, C-021, C-022]
+  quotation_ids: []
+  source_ids: [SRC-001]
+  category: misleading-compression
+  original_assertion: "The Nasi house became the Ottoman Empire’s principal financial firm because the empire lacked comparable banking, and Gracia funded synagogues, hospitals, and rabbinical schools throughout it."
+  proposed_correction: "The Mendes–Nasi enterprise became exceptionally wealthy and influential, and Sephardic immigrants brought valuable Mediterranean credit networks. Calling it the empire’s single leading firm or claiming that Ottoman finance had nothing comparable is too absolute. Gracia’s support for synagogues and rabbinical learning is well attested, while the full empire-wide list of hospitals and schools is less evenly documented."
+  decision: retain-original
+- id: N-015
+  transcript: [U-00996–U-01046]
+  claim_ids: [C-023]
+  quotation_ids: []
+  source_ids: [SRC-001]
+  category: material-uncertainty
+  original_assertion: "Exactly twenty-four Jews were burned at Ancona in 1556."
+  proposed_correction: "The Ancona persecution culminated in executions in 1556. Scholarly counts commonly give twenty-four or twenty-five victims depending on how the proceedings and deaths are categorized."
+  decision: retain-original
+- id: N-016
+  transcript: [U-01047–U-01077]
+  claim_ids: [C-025]
+  quotation_ids: []
+  source_ids: [SRC-001, SRC-006]
+  category: factual-error
+  original_assertion: "In 1558 Gracia leased Tiberias, established a refugee settlement, and thereby invented Zionism."
+  proposed_correction: "Ottoman documents connect Gracia to a 1560 tax-farm petition and Joseph Nasi to the 1561–63 rebuilding concession. Both participated in the attempt to rebuild Tiberias and attract Jewish settlers; it was an early resettlement project, not modern political Zionism."
+  decision: retain-original
+- id: N-017
+  transcript: [U-01095–U-01112]
+  claim_ids: [C-026]
+  quotation_ids: []
+  source_ids: [SRC-001, SRC-008]
+  category: material-uncertainty
+  original_assertion: "After Gracia’s death in 1569, Joseph naturally received a monopoly on Cypriot wine exports following Lepanto."
+  proposed_correction: "Gracia’s death is generally dated to 1569, and Joseph controlled important wine customs connected with Cyprus. The exact timing and scope of a post-Lepanto export monopoly are less secure than the broader commercial connection."
+  decision: retain-original

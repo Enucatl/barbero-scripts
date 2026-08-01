@@ -1,0 +1,96 @@
+- id: Q-001
+  barbero_utterances: [U-00109–U-00121]
+  barbero_timestamp: "09:59"
+  attribution: "Marcantonio Barbaro, Venetian bailo in Constantinople"
+  quotation_kind: near-direct
+  source_id: SRC-008
+  original_language: it
+  original_text: null
+  translation: null
+  locator: "Barbero, Lepanto, chapter 2, pp. 36–37; underlying Venetian dispatch not recovered in an accessible diplomatic edition"
+  translation_notes: "Barbero’s published account independently identifies João Migues/Joseph Nasi and Venetian variations of his name, but the exact sentence “al presente si chiama” was not recovered from the archival dispatch."
+  confidence: medium
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: unavailable
+  research_note: "Confirmed in substance but exact wording deferred. The identity change from João Migues to Joseph Nasi is secure; treat the lecture’s diplomatic quotation as a close paraphrase unless the Marciana manuscript or printed dispatch is consulted."
+- id: Q-002
+  barbero_utterances: [U-00151–U-00163]
+  barbero_timestamp: "12:10"
+  attribution: "Marcantonio Barbaro, Venetian bailo in Constantinople"
+  quotation_kind: near-direct
+  source_id: SRC-008
+  original_language: it
+  original_text: null
+  translation: null
+  locator: "Barbero, Lepanto, chapter 2, pp. 36–37, synthesis of Western diplomatic reports about Selim II and Joseph Nasi"
+  translation_notes: "The published synthesis confirms reports that Joseph supplied fine wines and Sephardic recipes, but does not reproduce this complete sentence as a single archival quotation."
+  confidence: medium
+  status: resolved
+  verdict: composite
+  source_replacement: unavailable
+  research_note: "Composite, confirmed in substance. Western diplomats explained Joseph’s access through Selim’s appetite and drinking; this hostile court gossip should not be presented as an established causal explanation of his influence."
+- id: Q-003
+  barbero_utterances: [U-00218–U-00224]
+  barbero_timestamp: "17:00"
+  attribution: "Venetian bailo Marcantonio Soranzo, in two diplomatic dispatches"
+  quotation_kind: composite
+  source_id: SRC-008
+  original_language: it
+  original_text: "è purtroppo grande la insolentia di questi ebrei [...] cresce ogni dì tanto l’insolentia di questa canaglia"
+  translation: "the insolence of these Jews is unfortunately great [...] the insolence of this rabble grows every day"
+  locator: "Barbero, Lepanto, chapter 2, p. 37 and note 25; dispatches of Venetian bailo Soranzo, 1566 and 1567"
+  translation_notes: "Two separate statements by Soranzo, joined with an explicit ellipsis. Barbero’s lecture repeats and slightly expands them."
+  confidence: high
+  status: resolved
+  verdict: composite
+  source_replacement: eligible
+  research_note: "Confirmed from the published Italian quotation and its diplomatic attribution. Preserve the slur only as quoted evidence of Venetian antisemitism, never as narrator language."
+- id: Q-004
+  barbero_utterances: [U-00312–U-00316]
+  barbero_timestamp: "22:38"
+  attribution: "Attributed to Ottoman sultan Bayezid II"
+  quotation_kind: near-direct
+  source_id: SRC-007
+  original_language: he
+  original_text: null
+  translation: null
+  locator: "Elijah Capsali, Seder Eliyahu Zuta, as discussed by Avigdor Levy in Belleten 56 (1992), note 8"
+  translation_notes: "The near-contemporary Jewish chronicle reports that Ottoman court circles regarded Spain’s ruler as foolish for enriching an enemy through the expulsion. Later versions turn this into a polished first-person maxim by Bayezid."
+  confidence: medium
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: unavailable
+  research_note: "Confirmed only in substance. The famous wording is transmitted through later retellings; the recoverable early evidence is Capsali’s report about court opinion, not a verbatim record of Bayezid speaking."
+- id: Q-005
+  barbero_utterances: [U-00843–U-00853]
+  barbero_timestamp: "51:40"
+  attribution: "Samuel Usque, Consolaçam às Tribulaçoens de Israel"
+  quotation_kind: near-direct
+  source_id: SRC-009
+  original_language: pt
+  original_text: "Sendo o meu primeiro yntento servir com este piqueno ramo de fruta nova a nossa nação Portuguesa, era justo offerecelo a Vossa Excelência como ao coração della."
+  translation: "Since my first intention was to serve our Portuguese nation with this small branch of new fruit, it was right to offer it to Your Excellency as the heart of that nation."
+  locator: "Samuel Usque, Consolaçam às Tribulaçoens de Israel, dedication to Gracia Nasi; quoted in Araújo, Didaskalia 35 (2005), note 6"
+  translation_notes: "Direct translation of Usque’s sixteenth-century Portuguese dedication. Barbero accurately compresses the metaphor to “the heart of our Portuguese nation.”"
+  confidence: high
+  status: resolved
+  verdict: confirmed
+  source_replacement: not-applicable
+  research_note: "Confirmed in the primary dedication as reproduced in scholarship. Human decision: retain Barbero’s shorter contextual wording because inserting the complete sentence would expand the spoken quotation."
+- id: Q-006
+  barbero_utterances: [U-01078–U-01090]
+  barbero_timestamp: "65:26"
+  attribution: "French ambassador Petremol in Constantinople"
+  quotation_kind: near-direct
+  source_id: SRC-001
+  original_language: fr
+  original_text: null
+  translation: null
+  locator: "Birnbaum, The Long Journey of Gracia Mendes, chapter 7, paragraph 122 and note 82, citing French ambassador Petremol"
+  translation_notes: "Birnbaum reports that Petremol believed Nasi wanted to become king of a Jewish state in Tiberias, but the accessible source does not reproduce the ambassador’s exact French wording."
+  confidence: medium
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: unavailable
+  research_note: "Confirmed in substance as a French diplomatic suspicion, not as evidence of Joseph’s actual intention. Retain Barbero’s framing that this belongs to the Christian diplomatic imagination."
