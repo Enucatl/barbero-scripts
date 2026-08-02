@@ -1,6 +1,6 @@
 # Final whole-episode consistency
 
-Create `{final_path}` from the verbatim tense-reviewed assembly `{tense_path}`. Limit changes to
+Create `{final_path}` from the verbatim spoken-English assembly `{spoken_path}`. Limit changes to
 terminology, names, cross-chapter references, and small accidental repetitions or joins
 introduced by chapter assembly.
 

@@ -1,0 +1,45 @@
+- id: CH-001
+  title: Slavery as a historical norm and the distinction between slaveholding and slave societies
+  start: U-00001
+  end: U-00093
+  markers: [C-001, C-002, C-003]
+- id: CH-002
+  title: Rome in 61 CE and the murder of Pedanius Secundus
+  start: U-00094
+  end: U-00175
+  markers: [C-004, C-005, Q-001]
+- id: CH-003
+  title: Cassius Longinus, collective punishment, and the execution of four hundred slaves
+  start: U-00176
+  end: U-00276
+  markers: [Q-002, C-006]
+- id: CH-004
+  title: Dionigi Carli encounters plantation slavery in seventeenth-century Brazil
+  start: U-00277
+  end: U-00343
+  markers: [C-007, Q-003]
+- id: CH-005
+  title: The Atlantic crossing and Carli's moral accommodation to the slave trade
+  start: U-00344
+  end: U-00477
+  markers: [Q-004, Q-005, C-008, Q-006]
+- id: CH-006
+  title: Joseph Knight and the judicial rejection of slavery in Scotland
+  start: U-00478
+  end: U-00647
+  markers: [Q-007, Q-008, C-009]
+- id: CH-007
+  title: Harriet Jacobs, abolitionist testimony, and childhood in slavery
+  start: U-00648
+  end: U-00753
+  markers: [Q-009, Q-010, C-010]
+- id: CH-008
+  title: Sexual coercion, resistance, escape, and Harriet Jacobs's freedom
+  start: U-00754
+  end: U-00947
+  markers: [C-011, Q-011, Q-012, Q-013, C-012, Q-014]
+- id: CH-009
+  title: Abolition as genuine moral progress
+  start: U-00948
+  end: U-00966
+  markers: [C-013]

@@ -6,8 +6,11 @@ from barbero_scripts.render import (
     _chapter_coverage,
     _validate_exact_coverage,
     assemble_italian_script,
+    assemble_naturalness_chapters,
     assemble_tense_chapters,
+    finalize_consistency,
     initialize_italian_review,
+    initialize_naturalness_chapters,
     initialize_tense_chapters,
     validate_episode,
 )
@@ -138,6 +141,40 @@ def test_tense_chapter_round_trip(tmp_path: Path) -> None:
     assemble_tense_chapters(tmp_path)
     assert "<!-- tense-reviewed: CH-001 -->" in (tmp_path / "tense/CH-001.md").read_text()
     assert "Authoritative words." in (tmp_path / "script.tense.en.md").read_text()
+
+
+def test_tense_initialization_uses_corrected_script(tmp_path: Path) -> None:
+    _write_complete_episode(tmp_path)
+    (tmp_path / "script.corrected.en.md").write_text(
+        (tmp_path / "script.corrected.en.md")
+        .read_text()
+        .replace("Authoritative words.", "Corrected source words.")
+    )
+    (tmp_path / "tense/CH-001.md").unlink()
+    initialize_tense_chapters(tmp_path)
+    assert "Corrected source words." in (tmp_path / "tense/CH-001.md").read_text()
+
+
+def test_naturalness_initialization_uses_tense_script(tmp_path: Path) -> None:
+    _write_complete_episode(tmp_path)
+    (tmp_path / "script.tense.en.md").write_text(
+        (tmp_path / "script.tense.en.md")
+        .read_text()
+        .replace("Authoritative words.", "Tense-reviewed source words.")
+    )
+    (tmp_path / "naturalness/CH-001.md").unlink()
+    (tmp_path / "script.spoken.en.md").unlink()
+    initialize_naturalness_chapters(tmp_path)
+    assemble_naturalness_chapters(tmp_path)
+    assert "Tense-reviewed source words." in (tmp_path / "naturalness/CH-001.md").read_text()
+    assert "Tense-reviewed source words." in (tmp_path / "script.spoken.en.md").read_text()
+
+
+def test_final_consistency_starts_from_spoken_script(tmp_path: Path) -> None:
+    _write_complete_episode(tmp_path)
+    (tmp_path / "script.spoken.en.md").write_text("# Test\n\nNatural spoken wording.\n")
+    finalize_consistency(tmp_path)
+    assert (tmp_path / "script.en.md").read_text() == "# Test\n\nNatural spoken wording.\n"
 
 
 def test_chapter_parser_rejects_reversed_range() -> None:

@@ -129,6 +129,4 @@ def test_validation_preserves_markers_during_polishing(tmp_path: Path) -> None:
     (tmp_path / "script.spoken.en.md").write_text("Verified words. Corrected. [Q-001] [N-001]")
     (tmp_path / "script.tense.en.md").write_text("Verified words. Corrected. [Q-001] [N-001]")
     (tmp_path / "script.en.md").write_text("Verified words. Corrected. [N-001]")
-    assert "final script does not preserve tense-reviewed quotation markers" in validate_episode(
-        tmp_path
-    )
+    assert "final script does not preserve spoken quotation markers" in validate_episode(tmp_path)

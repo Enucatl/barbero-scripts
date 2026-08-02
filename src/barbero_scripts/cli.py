@@ -55,14 +55,16 @@ def parser() -> argparse.ArgumentParser:
     review = commands.add_parser("init-italian-review", help="create approved audio checklist")
     review.add_argument("episode_dir", type=Path)
     naturalness = commands.add_parser(
-        "init-naturalness", help="split corrected English into chapter review files"
+        "init-naturalness", help="split tense-reviewed English into chapter review files"
     )
     naturalness.add_argument("episode_dir", type=Path)
     spoken = commands.add_parser(
         "assemble-naturalness", help="assemble reviewed naturalness chapters"
     )
     spoken.add_argument("episode_dir", type=Path)
-    tense = commands.add_parser("init-tense", help="split spoken English into tense review files")
+    tense = commands.add_parser(
+        "init-tense", help="split corrected English into tense review files"
+    )
     tense.add_argument("episode_dir", type=Path)
     tense_assembly = commands.add_parser("assemble-tense", help="assemble reviewed tense chapters")
     tense_assembly.add_argument("episode_dir", type=Path)

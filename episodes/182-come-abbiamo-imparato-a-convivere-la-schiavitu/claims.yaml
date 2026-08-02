@@ -1,0 +1,104 @@
+- id: C-001
+  claim: Slavery was broadly accepted until Enlightenment criticism and persisted in the Americas into the later nineteenth century.
+  transcript: [U-00001–U-00024]
+  centrality: central
+  supporting_sources: [SRC-008, SRC-011]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Evidence tiers 2 and 1: Outram traces radical institutional opposition from the mid-eighteenth-century Enlightenment, while UDHR article 4 expresses the modern universal prohibition. Barbero's 'no one before the Enlightenment' is rhetorically too absolute: earlier anti-slavery ideas existed, but organized abolitionism and generalized institutional critique emerged in the late eighteenth century. Legal abolition across the Americas extended beyond the U.S. Civil War, notably Brazil in 1888."
+- id: C-002
+  claim: Enslaved domestic workers were common in wealthy households in parts of Renaissance Italy and were supplied through Mediterranean conflict and raiding.
+  transcript: [U-00025–U-00056]
+  centrality: supporting
+  supporting_sources: [SRC-009]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Evidence tier 2: McKee confirms domestic slavery and slave commerce in Renaissance Italy, structured by ethnic and religious distinctions. Barbero's broad picture is sound, but prevalence differed sharply by city, date, and household; 'some cities were full' should remain conversational rather than become a quantified claim."
+- id: C-003
+  claim: Historians distinguish societies containing slaves from slave societies structurally dependent on enslaved labor.
+  transcript: [U-00057–U-00093]
+  centrality: central
+  supporting_sources: [SRC-005]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Evidence tier 2: Rossi traces the influential distinction to Finley and gives the canonical set as Greece, Rome, the West Indies, Brazil, and North America. The same scholarship warns that the binary can obscure other forms and purposes of slavery; use it as an analytical model, not a universal taxonomy."
+- id: C-004
+  claim: Roman enslaved people could accumulate a peculium and use it, with an owner's consent, toward manumission.
+  transcript: [U-00113–U-00133]
+  centrality: supporting
+  supporting_sources: [SRC-006]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Evidence tier 2: Buckland confirms that a peculium legally remained the master's property while being administered and treated de facto as the enslaved person's fund. Scholarship also confirms its use in negotiated self-purchase; Barbero appropriately calls the arrangement paradoxical but should not imply an enforceable right to buy freedom."
+- id: C-005
+  claim: Roman law exposed all enslaved people under a roof to execution when their owner was murdered there.
+  transcript: [U-00145–U-00175]
+  centrality: central
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Evidence tier 1: Tacitus 14.42 states that ancient custom required the entire slave household under the same roof to be led to execution after such a murder. Barbero's categorical formulation reflects Tacitus's account of the rule in this case."
+- id: C-006
+  claim: The Senate upheld collective execution after Pedanius Secundus's murder, and Nero used troops to enable the execution of four hundred enslaved people.
+  transcript: [U-00176–U-00276]
+  centrality: central
+  supporting_sources: [SRC-001]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Evidence tier 1 literary history: Tacitus 14.45 reports compassion for the number, ages, sexes, and innocence, Cassius's prevailing view, Nero's military cordon, and execution. The figure of four hundred is explicit; Cassius's speech is Tacitean historiography rather than a verbatim protocol."
+- id: C-007
+  claim: American plantation expansion and indigenous demographic collapse drove European colonists toward mass African slave trafficking.
+  transcript: [U-00277–U-00318]
+  centrality: central
+  supporting_sources: [SRC-010]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Evidence tier 2 educational synthesis: Indigenous mortality and plantation demand, especially sugar, contributed to the expansion of African trafficking. Barbero's statement that Indigenous people were simply 'not suited' to forced labor is misleadingly compressed: epidemic mortality, warfare, exploitation, legal changes, resistance, and colonial labor markets all mattered. This requires an accuracy note."
+- id: C-008
+  claim: Carli's voyage carried roughly 670 captives and lost thirty-three, which he described as unusually low mortality.
+  transcript: [U-00344–U-00453]
+  centrality: supporting
+  supporting_sources: [SRC-002]
+  conflicting_sources: [SRC-002]
+  status: resolved
+  research_note: "Evidence tier 1: the 1679 edition says 630 captives embarked, not Barbero's roughly 670. It reports 33 missing on arrival at p. 190, while OCR around p. 183 reads 53 and needs facsimile confirmation; Carli calls the low mortality miraculous and says half ordinarily died. This discrepancy requires an accuracy note."
+- id: C-009
+  claim: Knight v Wedderburn ended enforceable perpetual slavery under Scots law.
+  transcript: [U-00478–U-00647]
+  centrality: central
+  supporting_sources: [SRC-003]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Evidence tier 1 institutional archive: Knight began before Perth justices in 1774, lost, prevailed before the Sheriff Substitute and Sheriff Depute, and won in the Court of Session in 1778. The ruling rejected slavery and Wedderburn's claim to perpetual service under Scots law. Barbero's names are mistranscribed in the approved Italian and require later accuracy notes."
+- id: C-010
+  claim: Harriet Jacobs was born enslaved around 1813–1815 and published a pseudonymous autobiography in 1861 aimed partly at Northern women.
+  transcript: [U-00648–U-00753]
+  centrality: central
+  supporting_sources: [SRC-004]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Evidence tier 1 for the 1861 book, its pseudonymous narrative, stated audience, and contents. Barbero says around 1815; modern biographical consensus gives 1813. The book's authorship, once doubted, is accepted through Jean Fagan Yellin's documentary research, but a scholarly biographical source should be added during audit."
+- id: C-011
+  claim: Jacobs depicts sexual coercion and white mistresses' retaliatory jealousy as systemic consequences of slavery.
+  transcript: [U-00754–U-00827]
+  centrality: central
+  supporting_sources: [SRC-004]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Evidence tier 1: Jacobs explicitly describes the enslaver's sexual pursuit, the mistress's jealousy and rage, and the wider degradation produced by slavery. Barbero's narrative is substantially faithful while substituting real historical identities for Jacobs's pseudonyms."
+- id: C-012
+  claim: Federal fugitive-slave law allowed enslavers to pursue alleged fugitives into free states, leaving Jacobs vulnerable in New York.
+  transcript: [U-00921–U-00943]
+  centrality: supporting
+  supporting_sources: [SRC-004]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Evidence tier 1 for Jacobs's account of continued pursuit in New York and her 1852 purchase and emancipation. The lecture says the relevant law had been approved 'recently'; the heightened danger corresponds to the Fugitive Slave Act of 1850, although federal rendition authority also existed under the 1793 act. Add statutory sources during audit."
+- id: C-013
+  claim: The modern delegitimization and legal abolition of slavery represents genuine moral progress despite no general law of historical progress.
+  transcript: [U-00948–U-00966]
+  centrality: central
+  supporting_sources: [SRC-011]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Evidence tier 1: UDHR article 4 prohibits slavery, servitude, and the slave trade in all forms, strongly supporting Barbero's claim of modern normative delegitimization. This is a moral-historical interpretation, not a claim that coercive exploitation has disappeared; contemporary forced labor and trafficking remain material qualifications."

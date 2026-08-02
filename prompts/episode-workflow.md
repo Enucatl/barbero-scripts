@@ -21,13 +21,14 @@ in the episode directory.
    `pending` decision blocks all downstream output. Preserve existing human decisions and approved
    corrections when rerunning a pilot.
 6. Use `approved-corrections.md` to create `script.corrected.en.md`.
-7. Run `chapter-naturalness.md` independently for every chapter. Require one explicitly reviewed
-   `naturalness/CH-NNN.md` per chapter, then concatenate their contents in order—removing only the
-   review comments—into `script.spoken.en.md`. Do not rewrite during assembly.
-8. Run `chapter-tense.md` independently for every chapter. Require one explicitly reviewed
+7. Run `chapter-tense.md` independently for every chapter. Require one explicitly reviewed
    `tense/CH-NNN.md` per chapter, then concatenate their contents in order—removing only the review
    comments—into `script.tense.en.md`. Do not rewrite during assembly.
-9. Use `final-consistency.md` once to create `script.en.md`. Only terminology, names,
+8. Run `chapter-naturalness.md` independently for every chapter from the tense-reviewed assembly.
+   Require one explicitly reviewed `naturalness/CH-NNN.md` per chapter, then concatenate their
+   contents in order—removing only the review comments—into `script.spoken.en.md`. Do not rewrite
+   during assembly.
+9. Use `final-consistency.md` once to create `script.en.md` from `script.spoken.en.md`. Only terminology, names,
    cross-chapter references, and accidental assembly joins may change. Return material problems to
    the chapter that introduced them.
 

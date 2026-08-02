@@ -152,8 +152,8 @@ def initialize_italian_review(directory: Path) -> None:
 
 
 def initialize_naturalness_chapters(directory: Path) -> None:
-    """Split the corrected script into independently reviewable chapter files."""
-    source = (directory / "script.corrected.en.md").read_text(encoding="utf-8")
+    """Split tense-reviewed English into independently reviewable chapter files."""
+    source = (directory / "script.tense.en.md").read_text(encoding="utf-8")
     headings = list(CHAPTER_HEADING.finditer(source))
     destination = directory / "naturalness"
     destination.mkdir(exist_ok=True)
@@ -171,8 +171,8 @@ def initialize_naturalness_chapters(directory: Path) -> None:
 
 def assemble_naturalness_chapters(directory: Path) -> None:
     """Assemble reviewed naturalness chapters without rewriting them."""
-    corrected = (directory / "script.corrected.en.md").read_text(encoding="utf-8")
-    title = corrected.splitlines()[0].removesuffix(" — assembled faithful translation")
+    tense = (directory / "script.tense.en.md").read_text(encoding="utf-8")
+    title = tense.splitlines()[0].removesuffix(" — assembled faithful translation")
     chapters = _chapter_coverage((directory / "script.it.md").read_text(encoding="utf-8"), "", [])
     parts: list[str] = []
     for chapter_id, _, _ in chapters:
@@ -186,8 +186,8 @@ def assemble_naturalness_chapters(directory: Path) -> None:
 
 
 def initialize_tense_chapters(directory: Path) -> None:
-    """Split spoken English into independent chapter-level tense reviews."""
-    source = (directory / "script.spoken.en.md").read_text(encoding="utf-8")
+    """Split corrected English into independent chapter-level tense reviews."""
+    source = (directory / "script.corrected.en.md").read_text(encoding="utf-8")
     headings = list(CHAPTER_HEADING.finditer(source))
     destination = directory / "tense"
     destination.mkdir(exist_ok=True)
@@ -205,8 +205,8 @@ def initialize_tense_chapters(directory: Path) -> None:
 
 def assemble_tense_chapters(directory: Path) -> None:
     """Assemble reviewed tense chapters without rewriting them."""
-    spoken = (directory / "script.spoken.en.md").read_text(encoding="utf-8")
-    title = spoken.splitlines()[0]
+    corrected = (directory / "script.corrected.en.md").read_text(encoding="utf-8")
+    title = corrected.splitlines()[0]
     chapters = _chapter_coverage((directory / "script.it.md").read_text(encoding="utf-8"), "", [])
     parts: list[str] = []
     for chapter_id, _, _ in chapters:
@@ -221,8 +221,8 @@ def assemble_tense_chapters(directory: Path) -> None:
 
 def finalize_consistency(directory: Path) -> None:
     """Use the assembled script unchanged when no narrow consistency edits are needed."""
-    tense = (directory / "script.tense.en.md").read_text(encoding="utf-8")
-    (directory / "script.en.md").write_text(tense, encoding="utf-8")
+    spoken = (directory / "script.spoken.en.md").read_text(encoding="utf-8")
+    (directory / "script.en.md").write_text(spoken, encoding="utf-8")
 
 
 def _load_records(path: Path, label: str, errors: list[str]) -> dict[str, dict[str, Any]]:
@@ -509,9 +509,9 @@ def validate_episode(directory: Path) -> list[str]:
     if italian_first and "faithful" not in texts:
         errors.append("missing script.translation.faithful.en.md")
     legacy_final = "Legacy pre-staged adaptation" in texts.get("final", "")
-    if staged_schema and "final" in texts and not legacy_final and "tense" not in texts:
-        errors.append("final script requires script.tense.en.md")
-    for stage in ("faithful", "translation", "corrected", "spoken", "tense", "final"):
+    if staged_schema and "final" in texts and not legacy_final and "spoken" not in texts:
+        errors.append("final script requires script.spoken.en.md")
+    for stage in ("faithful", "translation", "corrected", "tense", "spoken", "final"):
         if stage not in texts or not italian_first:
             continue
         coverage = _chapter_coverage(texts[stage], f"{stage} script", errors)
@@ -532,7 +532,7 @@ def validate_episode(directory: Path) -> list[str]:
         for identifier, item in ledgers["Q"].items():
             replacement = item.get("translation")
             if item.get("source_replacement") == "eligible" and replacement:
-                for stage in ("translation", "corrected", "spoken", "tense", "final"):
+                for stage in ("translation", "corrected", "tense", "spoken", "final"):
                     if stage in texts and _normalized_wording(str(replacement)) not in (
                         _normalized_wording(texts[stage])
                     ):
@@ -545,15 +545,15 @@ def validate_episode(directory: Path) -> list[str]:
                 "faithful",
                 "translation",
                 "corrected",
-                "spoken",
                 "tense",
+                "spoken",
                 "final",
             )
             if stage in texts
         ]
         for before, after in zip(ordered_stages, ordered_stages[1:], strict=False):
             prefixes = {"SRC", "Q", "C"}
-            if before in {"corrected", "spoken", "tense"}:
+            if before in {"corrected", "tense", "spoken"}:
                 prefixes.add("N")
             if _marker_sequence(texts[before], prefixes) != _marker_sequence(
                 texts[after], prefixes
@@ -574,7 +574,7 @@ def validate_episode(directory: Path) -> list[str]:
     retained = {
         key for key, item in ledgers["N"].items() if item.get("decision") == "retain-original"
     }
-    for stage in ("corrected", "spoken", "tense", "final"):
+    for stage in ("corrected", "tense", "spoken", "final"):
         if stage not in texts:
             continue
         if stage == "final" and ("corrected" not in texts or legacy_final):
@@ -599,12 +599,12 @@ def validate_episode(directory: Path) -> list[str]:
         and not legacy_final
     ):
         for prefix, label in (("Q", "quotation"), ("C", "claim"), ("N", "correction")):
-            if _markers(texts["corrected"], {prefix}) != _markers(texts["spoken"], {prefix}):
-                errors.append(f"spoken script does not preserve {label} markers")
-            if _markers(texts["spoken"], {prefix}) != _markers(texts["tense"], {prefix}):
-                errors.append(f"tense script does not preserve spoken {label} markers")
-            if _markers(texts["tense"], {prefix}) != _markers(texts["final"], {prefix}):
-                errors.append(f"final script does not preserve tense-reviewed {label} markers")
+            if _markers(texts["corrected"], {prefix}) != _markers(texts["tense"], {prefix}):
+                errors.append(f"tense script does not preserve {label} markers")
+            if _markers(texts["tense"], {prefix}) != _markers(texts["spoken"], {prefix}):
+                errors.append(f"spoken script does not preserve tense-reviewed {label} markers")
+            if _markers(texts["spoken"], {prefix}) != _markers(texts["final"], {prefix}):
+                errors.append(f"final script does not preserve spoken {label} markers")
 
     if italian_first and "spoken" in texts:
         chapter_dir = directory / "naturalness"

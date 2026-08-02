@@ -1,6 +1,6 @@
 # Chapter-level narrative-tense review
 
-Review exactly `{chapter_id}` from `{spoken_path}` and write `tense/{chapter_id}.md`. Keep its
+Review exactly `{chapter_id}` from `{corrected_path}` and write `tense/{chapter_id}.md`. Keep its
 heading, chapter coverage comment, paragraph and content order, and text. Add exactly
 `<!-- tense-reviewed: {chapter_id} -->` before the heading.
 

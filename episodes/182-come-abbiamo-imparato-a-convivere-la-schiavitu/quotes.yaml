@@ -1,0 +1,225 @@
+- id: Q-001
+  barbero_utterances: [U-00108–U-00144]
+  barbero_timestamp: "06:12"
+  attribution: Tacitus, Annals 14
+  quotation_kind: paraphrase
+  source_id: SRC-001
+  original_language: la
+  original_text: "haud satis compertum, cui ex causis, an negata libertate, cui pretium pepigerat, sive amore exoleti et impatiens consortis"
+  translation: "It was not sufficiently established for which of these reasons: either because he had been denied the freedom for which he had bargained at a price, or from love of a male favorite and inability to endure a rival."
+  locator: Tacitus, Annals 14.42
+  translation_notes: Direct translation of Tacitus's compressed alternatives. Barbero expands both possibilities and supplies explanatory social context.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: not-applicable
+  research_note: Evidence tier 1, surviving literary narrative. Tacitus reports uncertainty and alternatives rather than trial findings; Barbero correctly presents them as possibilities but dramatizes details.
+- id: Q-002
+  barbero_utterances: [U-00187–U-00261]
+  barbero_timestamp: "12:06"
+  attribution: Cassius Longinus, as reported by Tacitus
+  quotation_kind: near-direct
+  source_id: SRC-001
+  original_language: la
+  original_text: "habes enim servos totidem, totidem inimicos ... omne magnum exemplum habet aliquid ex iniquo, quod contra singulos utilitate publica rependitur"
+  translation: "For you have as many enemies as you have slaves ... Every great exemplary punishment contains an element of injustice toward individuals, which is compensated by the public advantage."
+  locator: Tacitus, Annals 14.43–44
+  translation_notes: These are two recoverable components of a much longer speech presented by Tacitus in indirect discourse. Barbero turns the full ancient narrative into modern direct speech; it is not a verbatim senatorial transcript.
+  confidence: high
+  status: resolved
+  verdict: composite
+  source_replacement: not-applicable
+  research_note: Evidence tier 1 as literary historiography, not an official protocol. The core deterrence and exemplary-injustice arguments are confirmed; exact words cannot securely be assigned to Cassius Longinus beyond Tacitus's composition.
+- id: Q-003
+  barbero_utterances: [U-00319–U-00343]
+  barbero_timestamp: "20:14"
+  attribution: Dionigi Carli
+  quotation_kind: near-direct
+  source_id: SRC-002
+  original_language: it
+  original_text: "Ne vedessimo poi molti altri à quattro, à sei, od otto per volta incatenati, chi per il collo, chi per le mani, chi per i piedi, medicina salutare, che senza questa fuggirebbono tutti d'accordo."
+  translation: "We then saw many others, four, six, or eight at a time, chained—some by the neck, some by the hands, some by the feet—a salutary medicine, for without it they would all flee together."
+  locator: Viaggio nel regno del Congo (Bologna, 1679), p. 61
+  translation_notes: Direct translation with normalized modern spelling. The scan confirms the chained groups and "medicina salutare"; Barbero combines this with nearby plantation observations.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  research_note: Evidence tier 1, contemporary printed travel narrative. Carli's narrative voice is recoverable, though the work was shaped for publication and is not a ship's log.
+- id: Q-004
+  barbero_utterances: [U-00363–U-00376]
+  barbero_timestamp: "23:18"
+  attribution: Dionigi Carli
+  quotation_kind: near-direct
+  source_id: SRC-002
+  original_language: it
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: The searched 1679 edition confirms suicide attempts elsewhere in the voyage narrative but the specific oil belief was not securely located in the accessible OCR.
+  confidence: low
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  research_note: Deferred after focused search of the complete 1679 OCR. A different edition or passage may contain the oil story; no wording or locator is supplied without verification.
+  deferred_reason: Exact passage not located in the accessible early edition.
+- id: Q-005
+  barbero_utterances: [U-00391–U-00415]
+  barbero_timestamp: "25:04"
+  attribution: Dionigi Carli
+  quotation_kind: near-direct
+  source_id: SRC-002
+  original_language: it
+  original_text: "vi è la Scommunica il condurre Mori al Brasile, ò in altra parte, che non siano prima battezzati ... battezzavo ancora quei figliuoli, che nascevano di quando in quando da quelle donne gravide"
+  translation: "There is excommunication for taking Africans to Brazil, or elsewhere, unless they have first been baptized ... I also baptized those children who were born from time to time to the pregnant women."
+  locator: Viaggio nel regno del Congo (Bologna, 1679), p. 183
+  translation_notes: Direct translation with modernized spelling. The text confirms the rule and newborn baptisms, but not Barbero's vivid phrase that the newborns "were still steaming."
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  research_note: Evidence tier 1. Treat the "still steaming" wording as Barbero's unrecovered embellishment unless another edition establishes it.
+- id: Q-006
+  barbero_utterances: [U-00454–U-00473]
+  barbero_timestamp: "29:35"
+  attribution: Dionigi Carli
+  quotation_kind: near-direct
+  source_id: SRC-002
+  original_language: it
+  original_text: "avevano posto il suo santissimo nome ad un pezzo di corda, che adoperavano per dar alli Mori ... se chiamate con l'istesso nome la sferza, con che gli flagellate, crederanno più tosto, che noi gli burliamo"
+  translation: "They had given her most holy name to a piece of rope used to strike the Africans ... if you call the lash with which you flog them by the same name, they will sooner believe that we are mocking them."
+  locator: Viaggio nel regno del Congo (Bologna, 1679), pp. 186–188
+  translation_notes: Direct translation with modernized spelling. The same passage records a discussion of eating human flesh during the food crisis; Carli answers that God forbid a person be killed so another might live. Barbero reasonably interprets the threatened victims as the enslaved captives, but Carli's printed wording is less explicit.
+  confidence: high
+  status: resolved
+  verdict: composite
+  source_replacement: not-applicable
+  research_note: Evidence tier 1. The whip-name passage is exact; the killing proposal is a contextual reconstruction from Carli's response, so the combined target is not eligible for exact replacement.
+- id: Q-007
+  barbero_utterances: [U-00537–U-00544]
+  barbero_timestamp: "35:45"
+  attribution: Chief Justice John Holt, Smith v Brown and Cooper
+  quotation_kind: direct
+  source_id: SRC-007
+  original_language: en
+  original_text: "As soon as a negro comes into England, he becomes free; one may be a villein in England, but not a slave."
+  translation: "As soon as a negro comes into England, he becomes free; one may be a villein in England, but not a slave."
+  locator: Smith v Brown and Cooper, 2 Salk. 666, 91 ER 566; attributed to Holt in reports of the 1701–1706 litigation
+  translation_notes: Barbero closely follows the reported maxim but expands it with protection of person and property. Early reports were inconsistent, and this was not a general abolition statute.
+  confidence: medium
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  research_note: Evidence tier 2 because the wording survives through law reports and later legal discussion, not a verbatim courtroom transcript. The maxim predates Somerset and should not be conflated with Mansfield's narrower 1772 holding.
+- id: Q-008
+  barbero_utterances: [U-00579–U-00637]
+  barbero_timestamp: "38:21"
+  attribution: Scottish courts in Knight v Wedderburn
+  quotation_kind: composite
+  source_id: SRC-003
+  original_language: en
+  original_text: "the state of slavery is not recognised by the laws of this kingdom, and is inconsistent with the principles thereof: That the regulations in Jamaica, concerning slaves, do not extend to this kingdom; and repelled the defender's claim to a perpetual service"
+  translation: "the state of slavery is not recognised by the laws of this kingdom, and is inconsistent with the principles thereof: That the regulations in Jamaica, concerning slaves, do not extend to this kingdom; and repelled the defender's claim to a perpetual service"
+  locator: NRS CS235/K/2/2, process p. 34; Sheriff Substitute and Sheriff Depute ruling, later upheld by the Court of Session, 15 January 1778
+  translation_notes: Barbero combines the lower Scottish ruling with counsel's moral argument and the Court of Session result. The quoted ledger text is the recoverable lower-court formulation, not every sentence in his composite.
+  confidence: high
+  status: resolved
+  verdict: composite
+  source_replacement: not-applicable
+  research_note: Evidence tier 1, archival process and official institutional transcription. The Court of Session rejected slavery and perpetual service, but Barbero's sequential direct quotations require separate document boundaries.
+- id: Q-009
+  barbero_utterances: [U-00663–U-00668]
+  barbero_timestamp: "43:17"
+  attribution: Harriet Jacobs, Incidents in the Life of a Slave Girl
+  quotation_kind: direct
+  source_id: SRC-004
+  original_language: en
+  original_text: "Incidents in the Life of a Slave Girl. Written by Herself."
+  translation: "Incidents in the Life of a Slave Girl. Written by Herself."
+  locator: Title page, Boston first edition, 1861; edited by L. Maria Child and published for the author
+  translation_notes: Jacobs published under the narrative pseudonym Linda Brent; the title page did not print her legal name.
+  confidence: high
+  status: resolved
+  verdict: confirmed
+  source_replacement: eligible
+  research_note: Evidence tier 1, first-edition transcription.
+- id: Q-010
+  barbero_utterances: [U-00689–U-00701]
+  barbero_timestamp: "44:43"
+  attribution: Harriet Jacobs, Incidents in the Life of a Slave Girl
+  quotation_kind: composite
+  source_id: SRC-004
+  original_language: en
+  original_text: "I do earnestly desire to arouse the women of the North to a realizing sense of the condition of two millions of women at the South, still in bondage, suffering what I suffered, and most of them far worse."
+  translation: "I do earnestly desire to arouse the women of the North to a realizing sense of the condition of two millions of women at the South, still in bondage, suffering what I suffered, and most of them far worse."
+  locator: Jacobs, Incidents, Author's Preface
+  translation_notes: Barbero accurately paraphrases this explicit statement of audience and purpose.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  research_note: Evidence tier 1. The "depth of degradation" wording immediately preceding the preface is an epigraph attributed by Jacobs to "a woman of North Carolina," so Barbero's setup compresses two textual elements.
+- id: Q-011
+  barbero_utterances: [U-00783–U-00791]
+  barbero_timestamp: "52:35"
+  attribution: Dr. Flint, as reported by Harriet Jacobs
+  quotation_kind: near-direct
+  source_id: SRC-004
+  original_language: en
+  original_text: "But I now entered on my fifteenth year—a sad epoch in the life of a slave girl. My master began to whisper foul words in my ear."
+  translation: "But I now entered on my fifteenth year—a sad epoch in the life of a slave girl. My master began to whisper foul words in my ear."
+  locator: Jacobs, Incidents, chapter V, "The Trials of Girlhood"
+  translation_notes: The age and whispered words are exact. Barbero's preceding assertion "you are at my service" synthesizes Flint's conduct and later dialogue rather than quoting this sentence.
+  confidence: high
+  status: resolved
+  verdict: composite
+  source_replacement: not-applicable
+  research_note: Evidence tier 1; preserve document boundaries and do not treat all of Barbero's dramatized dialogue as one quotation.
+- id: Q-012
+  barbero_utterances: [U-00819–U-00822]
+  barbero_timestamp: "55:16"
+  attribution: Harriet Jacobs
+  quotation_kind: direct
+  source_id: SRC-004
+  original_language: en
+  original_text: "If God has bestowed beauty upon her, it will prove her greatest curse. That which commands admiration in the white woman only hastens the degradation of the female slave."
+  translation: "If God has bestowed beauty upon her, it will prove her greatest curse. That which commands admiration in the white woman only hastens the degradation of the female slave."
+  locator: Jacobs, Incidents, chapter V, "The Trials of Girlhood"
+  translation_notes: Barbero's Italian is a close contextual translation of the original.
+  confidence: high
+  status: resolved
+  verdict: confirmed
+  source_replacement: eligible
+  research_note: Evidence tier 1, first-person published text.
+- id: Q-013
+  barbero_utterances: [U-00848–U-00852]
+  barbero_timestamp: "57:36"
+  attribution: Dr. Flint, as reported by Harriet Jacobs
+  quotation_kind: paraphrase
+  source_id: SRC-004
+  original_language: en
+  original_text: "It expressed regret for the blow he had given me, and reminded me that I myself was wholly to blame for it."
+  translation: "It expressed regret for the blow he had given me, and reminded me that I myself was wholly to blame for it."
+  locator: Jacobs, Incidents, chapter VII, "The Lover"
+  translation_notes: Jacobs summarizes the note rather than reproducing it. Barbero accurately paraphrases the summary.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: not-applicable
+  research_note: Evidence tier 1, but this is Jacobs's retrospective paraphrase of a letter, not the letter's exact surviving wording.
+- id: Q-014
+  barbero_utterances: [U-00937–U-00947]
+  barbero_timestamp: "64:28"
+  attribution: Harriet Jacobs
+  quotation_kind: near-direct
+  source_id: SRC-004
+  original_language: en
+  original_text: "So I was sold at last! A human being sold in the free city of New York! ... I am deeply grateful to the generous friend who procured it, but I despise the miscreant who demanded payment for what never rightfully belonged to him or his."
+  translation: "So I was sold at last! A human being sold in the free city of New York! ... I am deeply grateful to the generous friend who procured it, but I despise the miscreant who demanded payment for what never rightfully belonged to him or his."
+  locator: Jacobs, Incidents, chapter XLI, "Free at Last"
+  translation_notes: The chapter also states that Daniel Dodge sold her for three hundred dollars. Barbero's account is close but compresses the negotiation and buyer's identity.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  research_note: Evidence tier 1, first-person published narrative.

@@ -1,0 +1,99 @@
+- id: SRC-001
+  author: Publius Cornelius Tacitus
+  title: Annals, Book XIV
+  date: c. 116
+  original_language: la
+  identifier: Annales 14.42–45
+  url: https://sacred-texts.com/cla/tac/a14040.htm
+  access_date: "2026-08-02"
+  locator: Chapters 42–45; English translation by Alfred John Church and William Jackson Brodribb (1876)
+- id: SRC-002
+  author: Dionigi Carli and Michel Angelo Guattini
+  title: Viaggio nel regno del Congo
+  date: "1679"
+  original_language: it
+  identifier: Internet Archive bub_gb_i2sLzjITfecC
+  url: https://archive.org/details/bub_gb_i2sLzjITfecC
+  access_date: "2026-08-02"
+  locator: pp. 61–63 and 182–191 (1679 Bologna edition; Google Books scan and OCR)
+- id: SRC-003
+  author: National Records of Scotland
+  title: The Joseph Knight case
+  date: "1774-1778"
+  original_language: en
+  identifier: NRS CS235/K/2/2
+  url: https://www.nrscotland.gov.uk/learning-and-events/slavery-and-scotland/the-joseph-knight-case/
+  access_date: "2026-08-02"
+  locator: Case overview; transcript and images, especially process p. 34; Court of Session decision dated 15 January 1778
+- id: SRC-004
+  author: Harriet Jacobs
+  title: Incidents in the Life of a Slave Girl, Written by Herself
+  date: "1861"
+  original_language: en
+  identifier: Project Gutenberg ebook 11030; first edition, Boston, 1861
+  url: https://www.gutenberg.org/ebooks/11030
+  access_date: "2026-08-02"
+  locator: Author's preface; chapters V, VII, and XLI
+- id: SRC-005
+  author: Benedetta Rossi
+  title: Writing the History of Slavery Between Comparatism and Global History
+  date: "2019"
+  original_language: en
+  identifier: Annales HSS 72.4; DOI 10.1017/ahsse.2019.1
+  url: https://www.cambridge.org/core/journals/annales-histoire-sciences-sociales-english-edition/article/writing-the-history-of-slavery-between-comparatism-and-global-history/AD7B0ACB24ADC8DEC29A06DF34F17D29
+  access_date: "2026-08-02"
+  locator: Section "Slavery as an Institution"; discussion of Finley's distinction
+- id: SRC-006
+  author: William Warwick Buckland
+  title: The Roman Law of Slavery
+  date: "1908"
+  original_language: en
+  identifier: Cambridge reissue ISBN 9781108009430
+  url: https://www.cambridge.org/core/books/roman-law-of-slavery/slave-as-man-cont-commercial-relations-peculium-acquisitions-alienations-etc/8E9B39DE6328EA75FB747455D6BBAE93
+  access_date: "2026-08-02"
+  locator: Chapter VIII, peculium and commercial relations
+- id: SRC-007
+  author: Court of King's Bench; Chief Justice John Holt
+  title: Smith v Brown and Cooper
+  date: "1701-1706"
+  original_language: en
+  identifier: 2 Salkeld 666; 91 ER 566
+  url: https://www.nps.gov/articles/000/slavery-and-law-in-early-ma.htm
+  access_date: "2026-08-02"
+  locator: Reported maxim attributed to Holt; note the contradictory early English rulings discussed by the National Park Service
+- id: SRC-008
+  author: Dorinda Outram
+  title: "When people are property: the problem of slavery in the Enlightenment"
+  date: "2013"
+  original_language: en
+  identifier: The Enlightenment, 3rd ed., chapter 6; Cambridge University Press
+  url: https://www.cambridge.org/core/books/abs/enlightenment/when-people-are-property-the-problem-of-slavery-in-the-enlightenment/27565DC11ABB41EE369BD3F9E77F0625
+  access_date: "2026-08-02"
+  locator: Chapter 6; radical institutional opposition from Montesquieu's 1748 critique onward
+- id: SRC-009
+  author: Sally McKee
+  title: Domestic Slavery in Renaissance Italy
+  date: "2008"
+  original_language: en
+  identifier: Slavery & Abolition 29.3; DOI 10.1080/01440390802267774
+  url: https://www.tandfonline.com/doi/abs/10.1080/01440390802267774
+  access_date: "2026-08-02"
+  locator: Full article; domestic slavery, commerce, and ethnic and religious categorization in Italy
+- id: SRC-010
+  author: OpenStax
+  title: "World History, Volume 2: The Atlantic Slave Trade"
+  date: "2022"
+  original_language: en
+  identifier: World History Volume 2, section 5.4
+  url: https://openstax.org/books/world-history-volume-2/pages/5-4-the-atlantic-slave-trade
+  access_date: "2026-08-02"
+  locator: Section 5.4; Indigenous mortality, plantation labor demand, sugar, and Atlantic trafficking
+- id: SRC-011
+  author: United Nations General Assembly
+  title: Universal Declaration of Human Rights
+  date: "1948-12-10"
+  original_language: en
+  identifier: UN General Assembly resolution 217 A (III)
+  url: https://www.un.org/en/about-us/universal-declaration-of-human-rights/
+  access_date: "2026-08-02"
+  locator: Article 4

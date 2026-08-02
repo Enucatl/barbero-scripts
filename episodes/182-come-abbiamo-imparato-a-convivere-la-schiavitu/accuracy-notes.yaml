@@ -1,0 +1,80 @@
+- id: N-001
+  transcript: [U-00007–U-00024]
+  claim_ids: [C-001]
+  quotation_ids: []
+  source_ids: [SRC-008, SRC-011]
+  category: misleading-compression
+  original_assertion: No one before the eighteenth-century Enlightenment thought slavery intrinsically wrong, and slavery disappeared definitively from the West in the later nineteenth century.
+  proposed_correction: It was only with the Enlightenment in the eighteenth century that a broad critique of slavery as an intrinsically unjust institution began to emerge, and only during the nineteenth century that legal abolition spread through the Americas.
+  decision: retain-original
+  decision_note: Earlier anti-slavery ideas existed, and legal abolition did not eliminate coercive exploitation.
+- id: N-002
+  transcript: [U-00289–U-00302]
+  claim_ids: [C-007]
+  quotation_ids: []
+  source_ids: [SRC-010]
+  category: misleading-compression
+  original_assertion: Indigenous Americans were not suited to forced labor and were decimated by disease, making imported African labor necessary.
+  proposed_correction: Indigenous populations were devastated by epidemics, warfare, exploitation, and forced labor, while expanding plantation economies drove colonists to import growing numbers of enslaved Africans.
+  decision: apply
+  decision_note: The original wording risks naturalizing a colonial explanation about Indigenous people's supposed suitability for labor.
+- id: N-003
+  transcript: [U-00344–U-00435]
+  claim_ids: [C-008]
+  quotation_ids: [Q-005]
+  source_ids: [SRC-002]
+  category: factual-error
+  original_assertion: Carli's ship carried more than 670 enslaved people, and thirty-three died during the voyage.
+  proposed_correction: Carli says the ship carried 630 enslaved people and later reports that thirty-three were missing when it reached Brazil.
+  decision: apply
+  decision_note: The 1679 edition clearly prints 630 embarked; an earlier mortality figure needs facsimile confirmation because the OCR reads fifty-three there.
+- id: N-004
+  transcript: [U-00487–U-00647]
+  claim_ids: [C-009]
+  quotation_ids: [Q-008]
+  source_ids: [SRC-003]
+  category: factual-error
+  original_assertion: Joseph Knight was owned by “Sir John Weatherbourne,” married “N. N. Thompson,” and prevailed in “Knight against Wetherburn.”
+  proposed_correction: Joseph Knight was held by Sir John Wedderburn, married Ann Thompson, and ultimately prevailed in the case known as Knight v Wedderburn.
+  decision: apply
+  decision_note: These are demonstrable speech-recognition errors in the approved Italian transcript.
+- id: N-005
+  transcript: [U-00579–U-00634]
+  claim_ids: [C-009]
+  quotation_ids: [Q-008]
+  source_ids: [SRC-003]
+  category: misleading-compression
+  original_assertion: The sheriff's ruling, counsel's moral argument, and the supreme court's judgment are presented as a single continuous sequence of direct judicial wording.
+  proposed_correction: The sheriff ruled that slavery was not recognized by Scottish law; on further appeal, counsel developed the broader moral argument, and the Court of Session upheld Knight's freedom in 1778.
+  decision: retain-original
+  decision_note: The result is sound, but the lecture compresses distinct procedural stages and documents.
+- id: N-006
+  transcript: [U-00653–U-00668]
+  claim_ids: [C-010]
+  quotation_ids: [Q-009]
+  source_ids: [SRC-004]
+  category: factual-error
+  original_assertion: Harriet Jacobs was born around 1815 and was the first Black enslaved woman to write her autobiography.
+  proposed_correction: Harriet Jacobs was born in 1813 and was the first Black enslaved woman to write her autobiography.
+  decision: apply
+  decision_note: The birth year is established;
+- id: N-007
+  transcript: [U-00921–U-00927]
+  claim_ids: [C-012]
+  quotation_ids: []
+  source_ids: [SRC-004]
+  category: misleading-compression
+  original_assertion: A recently approved controversial law allowed enslavers to recover fugitives in free states throughout Harriet Jacobs's time in New York.
+  proposed_correction: The Fugitive Slave Act of 1850, recently passed with the involvement of the South, created a federal enforcement system for the recapture of enslaved people in free states.
+  decision: apply
+  decision_note: The lecture compresses the 1793 and 1850 federal regimes.
+- id: N-008
+  transcript: [U-00961–U-00966]
+  claim_ids: [C-013]
+  quotation_ids: []
+  source_ids: [SRC-011]
+  category: material-uncertainty
+  original_assertion: Today everyone takes it for granted that slavery is unacceptable.
+  proposed_correction: Today slavery is universally prohibited in international law, even though forced labor, trafficking, and comparable forms of exploitation persist.
+  decision: retain-original
+  decision_note: The original is defensible as a statement about prevailing norms but overstates actual eradication and unanimity.
