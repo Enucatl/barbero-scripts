@@ -112,7 +112,6 @@ Still no wind. Now, this has nothing to do with slavery, but it gives us a wonde
 
 The friar disapproves. Tying up a saint isn't entirely proper. They should bring the statue up and pray to it without the violence of lashing it to the mast. Still, it works. The wind comes, the ship starts moving, and the saint has granted their request.
 
-After more trouble, the voyage finally ends. Carli reports that thirty-three people are missing when the ship reaches Brazil. Everyone is delighted, he says. It's God's grace that so few have died. Usually half die, and sometimes more.
 
 Carli says these voyages come with every problem imaginable. Slave voyages are the most painful and distressing in the world—not so much because the captives suffer, but because the whole operation is so badly organized. The ships are always overloaded. Every owner insists on sending his slaves now: the next ship doesn't leave for a month, and I can't possibly wait. But the ship also needs food and water. These aren't crates of sugar—a typical American product, right? They're living people. They eat and drink, so someone does have to feed them and give them water.
 
@@ -127,6 +126,8 @@ Then the friar slips in one small detail. He is deeply upset to learn that the s
 You see, we have to work hard not to recoil from this friar. To him, what truly matters is saving their souls. Their lives matter only so much; the next life is what counts. And he believes, with absolute sincerity, that they're saving these people's souls.
 
 They pray day and night, and all the white people confess as if they're about to die. Then a sailor suggests killing all the Moors to make sure there's enough food. Here the friar draws the line. It's a diabolical proposal, he says. You must never kill one person so another can live. If he weren't there, the crew might even do it. But he is there, and he won't allow it.
+
+After more trouble, the voyage finally ends. Carli reports that thirty-three people are missing when the ship reaches Brazil. Everyone is delighted, he says. It's God's grace that so few have died. Usually half die, and sometimes more.
 
 And here—though I promised not to comment—perhaps no comment is needed. We can simply notice what living in a society where slavery is normal seems to do to the moral sense. People stop seeing what looks obvious to us. Are we running a little late? Then we'd better speed up. The third story.
 
