@@ -121,6 +121,15 @@ def test_quote_wording_is_delayed_until_replacement(tmp_path: Path) -> None:
     assert "faithful translation prematurely uses wording for Q-001" in validate_episode(tmp_path)
 
 
+def test_faithful_translation_requires_manual_quote_review(tmp_path: Path) -> None:
+    _write_complete_episode(tmp_path)
+    path = tmp_path / "quotes.yaml"
+    path.write_text(path.read_text() + "  human_reviewed: false\n")
+    assert "faithful translation is blocked by unreviewed quotations: Q-001" in validate_episode(
+        tmp_path
+    )
+
+
 def test_missing_naturalness_chapter_blocks_assembly(tmp_path: Path) -> None:
     _write_complete_episode(tmp_path)
     (tmp_path / "naturalness/CH-001.md").unlink()

@@ -1,0 +1,128 @@
+- id: C-001
+  claim: "Educated medieval Europeans generally understood the Earth to be spherical."
+  transcript: [U-00017–U-00123]
+  centrality: central
+  supporting_sources: [SRC-001, SRC-002, SRC-003, SRC-016]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Primary medieval texts and specialist scholarship strongly support the central claim; limited late-antique dissent does not establish a medieval consensus."
+- id: C-002
+  claim: "The globus cruciger in medieval imperial imagery represents dominion over the world."
+  transcript: [U-00100–U-00122]
+  centrality: supporting
+  supporting_sources: [SRC-016]
+  conflicting_sources: []
+  status: resolved
+  research_note: "The iconographic point is sound, though 'every emperor' is rhetorical overstatement."
+- id: C-003
+  claim: "Bede explicitly described the Earth as spherical and his works circulated widely."
+  transcript: [U-00124–U-00205]
+  centrality: central
+  supporting_sources: [SRC-001, SRC-002]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Chapter 32 is explicit; manuscript circulation is well established, while 'all libraries' is rhetorical."
+- id: C-004
+  claim: "Sacrobosco's De sphaera was a standard university text and was repeatedly printed from 1472."
+  transcript: [U-00233–U-00274]
+  centrality: central
+  supporting_sources: [SRC-003, SRC-004]
+  conflicting_sources: []
+  status: resolved
+  research_note: "The substance is secure; the first printing was 1472, not 1471, and database counts do not support exactly 25 editions in thirty years without qualification."
+- id: C-005
+  claim: "Aristotle and Ptolemy gave observational arguments for a spherical Earth that remained available to medieval scholarship."
+  transcript: [U-00275–U-00355]
+  centrality: central
+  supporting_sources: [SRC-005, SRC-006, SRC-016]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Primary texts confirm the demonstrations; medieval transmission is well documented."
+- id: C-006
+  claim: "A small number of late-antique Christian authors, including Cosmas, advocated flat cosmographies."
+  transcript: [U-00356–U-00467]
+  centrality: supporting
+  supporting_sources: [SRC-001, SRC-016]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Sound if kept limited; the lecture overgeneralizes early Christian hostility toward all classical knowledge."
+- id: C-007
+  claim: "Augustine warned against scriptural interpretations that contradicted demonstrated natural knowledge."
+  transcript: [U-00468–U-00542]
+  centrality: central
+  supporting_sources: [SRC-008, SRC-009]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed; Augustine separately denied inhabited antipodes without denying a spherical world."
+- id: C-008
+  claim: "Mandeville's Travels was a highly popular vernacular work with many manuscript and early print witnesses."
+  transcript: [U-00543–U-00619]
+  centrality: supporting
+  supporting_sources: [SRC-010]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Popularity is secure; exact incunable totals vary by cataloguing rules."
+- id: C-009
+  claim: "Mandeville's Travels explains a round Earth, latitude effects, and possible circumnavigation to a broad audience."
+  transcript: [U-00620–U-00693]
+  centrality: central
+  supporting_sources: [SRC-010]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed across text witnesses, with variation among vernacular versions."
+- id: C-010
+  claim: "Ancient and medieval disagreement about antipodes concerned habitation and access rather than Earth's sphericity."
+  transcript: [U-00694–U-00766]
+  centrality: central
+  supporting_sources: [SRC-009, SRC-011]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Pliny and Augustine sharply demonstrate the distinction."
+- id: C-011
+  claim: "The torrid-zone theory, monogenesis, and estimates of a vast ocean were used against inhabited antipodes."
+  transcript: [U-00767–U-00811]
+  centrality: supporting
+  supporting_sources: [SRC-009, SRC-016]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Broadly sound; Aristotle's alleged exact one-to-ten land/water ratio was not established in the sources consulted."
+- id: C-012
+  claim: "The Spanish crown's reviewers objected to Columbus's distance estimates, not to a spherical Earth."
+  transcript: [U-00812–U-00871]
+  centrality: central
+  supporting_sources: [SRC-012, SRC-016]
+  conflicting_sources: [SRC-013]
+  status: resolved
+  research_note: "Modern scholarship supports the substance; surviving records do not permit Barbero's confident verbatim reconstruction of the commission's deliberations."
+- id: C-013
+  claim: "Columbus greatly underestimated the westward distance to Asia by combining a small globe with an overextended Asia."
+  transcript: [U-00872–U-00929]
+  centrality: central
+  supporting_sources: [SRC-012]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Secure in substance; the precise 4,500 km and 22,000 km comparison depends on endpoints and is too exact for the evidence cited."
+- id: C-014
+  claim: "Washington Irving's 1828 biography was a major source of the Salamanca flat-Earth legend."
+  transcript: [U-00930–U-00984]
+  centrality: central
+  supporting_sources: [SRC-013, SRC-014, SRC-016]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Irving demonstrably dramatized the scene and helped popularize it, though saying he single-handedly invented the entire myth is compressed intellectual history."
+- id: C-015
+  claim: "William Carpenter self-published One Hundred Proofs That the Earth Is Not a Globe in Baltimore in 1885."
+  transcript: [U-00985–U-01014]
+  centrality: supporting
+  supporting_sources: [SRC-015]
+  conflicting_sources: []
+  status: resolved
+  research_note: "Confirmed by the imprint and Library of Congress catalogue. It was not the first flat-Earth book in history; Samuel Rowbotham's Zetetic Astronomy preceded it."
+- id: C-016
+  claim: "Organized modern flat-Earth belief first emerged in the nineteenth century and persists."
+  transcript: [U-01015–U-01035]
+  centrality: sampled-incidental
+  supporting_sources: [SRC-015, SRC-016]
+  conflicting_sources: []
+  status: resolved
+  research_note: "The nineteenth-century revival is secure; the lecture incorrectly locates the movement's origin in America rather than Rowbotham's England, and current membership counts were not verified."

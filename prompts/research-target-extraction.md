@@ -25,6 +25,7 @@ or wording whose historical provenance matters:
   status: pending
   verdict: unresolved
   source_replacement: unavailable
+  human_reviewed: false
   research_note: "What must be identified or verified"
 ```
 
@@ -67,7 +68,8 @@ Before finishing:
 2. Confirm all IDs are unique, sequential, and match outline markers.
 3. Confirm every transcript reference exists.
 4. Confirm each quotation has provenance questions and each claim has an evidence question.
-5. Confirm no entry is marked resolved and no unsupported source metadata was introduced.
+5. Confirm no entry is marked resolved, every entry has `human_reviewed: false`, and no unsupported
+   source metadata was introduced.
 6. Report quotation and claim counts plus any outline inconsistencies.
 
 Edit only `{quotes_path}` and `{claims_path}` and do not create a Git commit.

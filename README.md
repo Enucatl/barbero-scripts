@@ -82,7 +82,9 @@ The authoritative spoken-content source is `script.it.md`, assembled verbatim fr
 timestamped `transcript.it.md`. Research cannot begin until a human has checked every utterance
 against audio and approved every chapter's complete ordered coverage in `italian-review.yaml`.
 
-The episode then progresses through research ledgers, a close language-model translation of each
+The episode then progresses through research ledgers, a mandatory manual review of every
+quotation's attribution, wording, translation, locator, verdict, and replacement eligibility, and
+a close language-model translation of each
 complete Italian chapter into `script.translation.faithful.en.md`, and a distinct quotation replacement
 pass producing `script.translation.en.md`. Only `source_replacement: eligible` records supply exact
 ledger wording; all other quotations retain Barbero's contextual translation. Accuracy review and

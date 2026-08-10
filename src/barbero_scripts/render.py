@@ -508,6 +508,17 @@ def validate_episode(directory: Path) -> list[str]:
                 errors.append(f"utterance translation {identifier} has no text")
     if italian_first and "faithful" not in texts:
         errors.append("missing script.translation.faithful.en.md")
+    if "faithful" in texts:
+        unreviewed_quotes = [
+            identifier
+            for identifier, item in ledgers["Q"].items()
+            if item.get("human_reviewed") is False
+        ]
+        if unreviewed_quotes:
+            errors.append(
+                "faithful translation is blocked by unreviewed quotations: "
+                + ", ".join(unreviewed_quotes)
+            )
     legacy_final = "Legacy pre-staged adaptation" in texts.get("final", "")
     if staged_schema and "final" in texts and not legacy_final and "spoken" not in texts:
         errors.append("final script requires script.spoken.en.md")

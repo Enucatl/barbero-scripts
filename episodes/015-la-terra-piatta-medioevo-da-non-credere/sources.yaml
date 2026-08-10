@@ -1,0 +1,189 @@
+- id: SRC-001
+  author: Lesley B. Cormack
+  title: "Flat Earth or Round Sphere: Misconceptions of the Shape of the Earth and the Fifteenth-Century Transformation of the World"
+  date: "1994"
+  original_language: en
+  identifier: "History of Geography 1(4), DOI 10.1177/147447409400100404"
+  url: "https://journals.sagepub.com/doi/abs/10.1177/147447409400100404"
+  access_date: "2026-08-10"
+  locator: "Article; Bede at note 6 and synthesis of fifteenth-century learned geography"
+- id: SRC-002
+  author: Bede
+  title: De temporum ratione
+  date: "0725"
+  original_language: la
+  identifier: "De temporum ratione, chapter 32"
+  url: "https://www.tha.de/homes/harsch/Chronologia/Lspost08/Bede/bed_ra32.html"
+  access_date: "2026-08-10"
+  locator: "Chapter 32, De inaequalitate dierum"
+- id: SRC-003
+  author: University of São Paulo, Group of History and Theory of Science
+  title: "Sacrobosco: Editions of the Tractatus de Sphaera"
+  date: null
+  original_language: en
+  identifier: "Sacrobosco editions database"
+  url: "https://www.ghtc.usp.br/server/Sacrobosco/Sacrobosco"
+  access_date: "2026-08-10"
+  locator: "Edition census; first printing 1472"
+- id: SRC-004
+  author: University of Oxford, Cabinet Project
+  title: "John of Sacrobosco, De Sphaera Mundi (Venice, 1490)"
+  date: null
+  original_language: en
+  identifier: "Oxford Cabinet object record"
+  url: "https://www.cabinet.ox.ac.uk/john-sacrobosco-de-sphaera-mundi-venice-1490"
+  access_date: "2026-08-10"
+  locator: "Object description and page demonstrating the round world"
+- id: SRC-005
+  author: Aristotle
+  title: On the Heavens
+  date: null
+  original_language: grc
+  identifier: "De caelo II.14, 297b–298a"
+  url: "https://classics.mit.edu/Aristotle/heavens.2.ii.html"
+  access_date: "2026-08-10"
+  locator: "Book II, chapter 14; eclipse and latitude arguments"
+- id: SRC-006
+  author: Claudius Ptolemy
+  title: Almagest
+  date: null
+  original_language: grc
+  identifier: "Almagest I.4; Toomer translation"
+  url: "https://mathshistory.st-andrews.ac.uk/Extras/Ptolemy_hypotheses/"
+  access_date: "2026-08-10"
+  locator: "Book I preliminary hypotheses and spherical-Earth demonstration"
+- id: SRC-007
+  author: United States Conference of Catholic Bishops
+  title: New American Bible, Revised Edition
+  date: "2011"
+  original_language: en
+  identifier: "Revelation 7:1; Psalm 104:2; Isaiah 40:22"
+  url: "https://bible.usccb.org/bible/revelation/7"
+  access_date: "2026-08-10"
+  locator: "Revelation 7:1, with cross-referenced Psalm 104 and Isaiah 40"
+- id: SRC-008
+  author: Augustine of Hippo
+  title: The Literal Meaning of Genesis
+  date: null
+  original_language: la
+  identifier: "De Genesi ad litteram I.19.39"
+  url: "https://archive.org/details/onliteralmeaning0000augu"
+  access_date: "2026-08-10"
+  locator: "Book I, chapter 19, section 39"
+- id: SRC-009
+  author: Augustine of Hippo
+  title: The City of God
+  date: null
+  original_language: la
+  identifier: "De civitate Dei XVI.9"
+  url: "https://www.newadvent.org/fathers/120116.htm"
+  access_date: "2026-08-10"
+  locator: "Book XVI, chapter 9"
+- id: SRC-010
+  author: "Anonymous (John Mandeville tradition)"
+  title: The Travels of Sir John Mandeville
+  date: "1900"
+  original_language: en
+  identifier: "Cotton manuscript version in modern spelling; Project Gutenberg ebook 782"
+  url: "https://www.gutenberg.org/ebooks/782"
+  access_date: "2026-08-10"
+  locator: "Chapter 20, pp. 120–123; Pole Star, spherical land and sea, circumnavigation, and antipodes"
+- id: SRC-011
+  author: Pliny the Elder
+  title: Natural History
+  date: null
+  original_language: la
+  identifier: "Naturalis historia II.64–65 (II.160–161)"
+  url: "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D2"
+  access_date: "2026-08-10"
+  locator: "Book II, chapter 65, section 161"
+- id: SRC-012
+  author: James E. Kelley Jr.
+  title: "The Presumed North America on the Waldseemüller World Map (1507)"
+  date: "2014"
+  original_language: en
+  identifier: "Imago Mundi, DOI 10.1179/0082288414Z.00000000034"
+  url: "https://www.tandfonline.com/doi/abs/10.1179/0082288414Z.00000000034"
+  access_date: "2026-08-10"
+  locator: "Discussion and note 43 on Columbus's 56⅔-mile degree and Asian extent"
+- id: SRC-013
+  author: Washington Irving
+  title: A History of the Life and Voyages of Christopher Columbus
+  date: "1828"
+  original_language: en
+  identifier: "First edition, volume I"
+  url: "https://archive.org/details/historyoflifeand01irvi"
+  access_date: "2026-08-10"
+  locator: "Book II, chapters 3–4, conference at Salamanca"
+- id: SRC-014
+  author: Library of Congress
+  title: "Columbus Doors"
+  date: null
+  original_language: en
+  identifier: "Architect of the Capitol / Capitol art documentation"
+  url: "https://www.aoc.gov/explore-capitol-campus/art/columbus-doors"
+  access_date: "2026-08-10"
+  locator: "Panel depicting Columbus before the Council of Salamanca"
+- id: SRC-015
+  author: William Carpenter
+  title: One Hundred Proofs That the Earth Is Not a Globe
+  date: "1885"
+  original_language: en
+  identifier: "Library of Congress LCCN 52055019"
+  url: "https://www.loc.gov/item/52055019/"
+  access_date: "2026-08-10"
+  locator: "Proofs 6, 17, 54, and 79; Baltimore self-publication imprint"
+- id: SRC-016
+  author: Jeffrey Burton Russell
+  title: Inventing the Flat Earth
+  date: "1991"
+  original_language: en
+  identifier: "New York: Praeger, ISBN 9780275939564"
+  url: "https://archive.org/details/inventingflatear00russ"
+  access_date: "2026-08-10"
+  locator: "Chapters 1–5 on medieval sphericity and the nineteenth-century conflict myth"
+- id: SRC-017
+  author: Walt Disney Productions
+  title: The Sword in the Stone
+  date: "1963"
+  original_language: en
+  identifier: "Supplied English subtitle file: Merlin_el_Encantador_1963_sub-english.srt"
+  url: null
+  access_date: "2026-08-10"
+  locator: "Subtitle cues 701–705, 00:51:45.487–00:52:05.006"
+- id: SRC-018
+  author: "Gossuin (Gautier) de Metz"
+  title: L'Image du monde
+  date: "ca. 1245"
+  original_language: fro
+  identifier: "O. H. Prior ed. (1913), prose recension based on BnF MS français 574"
+  url: "https://fr.wikisource.org/wiki/L%E2%80%99Image_du_monde/Texte_de_l%E2%80%99Image_du_Monde"
+  access_date: "2026-08-10"
+  locator: "Part I, chapter 11; BnF fr. 574, fols. 40v–41v; Prior pp. 60–62"
+- id: SRC-019
+  author: Miranda Griffin
+  title: "Take an Apple: Grasping the World in Manuscripts of L'Image du monde"
+  date: "2026"
+  original_language: en
+  identifier: "Interfaces 13, DOI 10.54103/interfaces-13-05"
+  url: "https://doi.org/10.54103/interfaces-13-05"
+  access_date: "2026-08-10"
+  locator: "Article on the fly-and-apple comparison, embodied circumnavigation, and manuscript diagrams"
+- id: SRC-020
+  author: William Caxton
+  title: Caxton's Mirrour of the World
+  date: "1481"
+  original_language: en
+  identifier: "O. H. Prior ed., Early English Text Society, Extra Series 110 (1913)"
+  url: "https://books.google.com/books?id=USlw9CxIcXwC"
+  access_date: "2026-08-10"
+  locator: "Part I, chapter 11; fly going around a round apple"
+- id: SRC-021
+  author: Walters Art Museum
+  title: "Gossouin of Metz, Image du Monde, Walters MS W.199"
+  date: "1489"
+  original_language: frm
+  identifier: "Walters manuscript W.199"
+  url: "https://manuscripts.thewalters.org/viewer.php?id=W.199"
+  access_date: "2026-08-10"
+  locator: "French manuscript and facsimile; fol. 42 contains the spherical-Earth diagram"

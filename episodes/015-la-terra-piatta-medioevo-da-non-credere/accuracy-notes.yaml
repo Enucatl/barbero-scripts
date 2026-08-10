@@ -1,0 +1,60 @@
+- id: N-001
+  transcript: [U-00254–U-00269]
+  claim_ids: [C-004]
+  quotation_ids: []
+  source_ids: [SRC-003, SRC-004]
+  category: factual-error
+  original_assertion: "Sacrobosco's De sphaera was first printed in 1471."
+  proposed_correction: "Sacrobosco's De sphaera was first printed in 1472."
+  decision: apply
+  decision_note: "Conservative workflow default; no human apply decision exists."
+- id: N-002
+  transcript: [U-00260–U-00268]
+  claim_ids: [C-004]
+  quotation_ids: []
+  source_ids: [SRC-003]
+  category: material-uncertainty
+  original_assertion: "Twenty-five printed editions appeared within thirty years."
+  proposed_correction: "It was repeatedly printed from 1472 onward and became one of early printing's most successful scientific textbooks."
+  decision: retain-original
+  decision_note: "Edition totals depend on bibliography and date boundary; no human apply decision exists."
+- id: N-003
+  transcript: [U-00789–U-00799]
+  claim_ids: [C-011]
+  quotation_ids: []
+  source_ids: [SRC-016]
+  category: material-uncertainty
+  original_assertion: "Aristotle said the ratio of emerged land to water was exactly one to ten."
+  proposed_correction: "Ancient and medieval authorities commonly imagined the inhabited land as a small part of a globe dominated by ocean."
+  decision: retain-original
+  decision_note: "The exact attribution and ratio were not established; no human apply decision exists."
+- id: N-004
+  transcript: [U-00842–U-00871]
+  claim_ids: [C-012]
+  quotation_ids: []
+  source_ids: [SRC-012, SRC-016]
+  category: misleading-compression
+  original_assertion: "The surviving record establishes the commission's membership, repeated deliberations, and distance objection in the precise form narrated."
+  proposed_correction: "The crown's advisers considered the westward route impracticably long; the surviving evidence does not preserve the commission's deliberations in the detailed form later narratives give them."
+  decision: retain-original
+  decision_note: "The central distance point is sound; no human apply decision exists."
+- id: N-005
+  transcript: [U-00891–U-00912]
+  claim_ids: [C-013]
+  quotation_ids: []
+  source_ids: [SRC-012]
+  category: material-uncertainty
+  original_assertion: "Columbus calculated exactly 4,500 kilometers from the Canaries to East Asia, against an actual 22,000 kilometers."
+  proposed_correction: "Columbus's combined assumptions made East Asia appear only a few thousand kilometers west of the Canaries, far short of the actual oceanic distance."
+  decision: retain-original
+  decision_note: "Exact modern conversions vary with reconstructed endpoints and units; no human apply decision exists."
+- id: N-006
+  transcript: [U-01003–U-01022]
+  claim_ids: [C-015, C-016]
+  quotation_ids: [Q-015, Q-016]
+  source_ids: [SRC-015, SRC-016]
+  category: factual-error
+  original_assertion: "Carpenter's 1885 pamphlet was the first flat-Earth book in history, and the organized modern movement began in America afterward."
+  proposed_correction: "Carpenter's 1885 pamphlet belongs to a nineteenth-century flat-Earth revival that had already developed around Samuel Rowbotham in England."
+  decision: apply
+  decision_note: "Default retain-original is valid; only a human may change this to apply."

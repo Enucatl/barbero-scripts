@@ -1,0 +1,291 @@
+- id: Q-001
+  barbero_utterances: [U-00035–U-00049]
+  barbero_timestamp: "02:18"
+  attribution: "Disney's The Sword in the Stone"
+  source_id: SRC-017
+  original_language: en
+  original_text: "If the boy goes about saying the world is round, they'll take him for a lunatic. / The world is round? / Yes, yes, that's right. And it also goes around. / You mean it'll be round someday? / No, no, no. It's round now. Man will discover this in centuries to come."
+  translation: "If the boy goes about saying the world is round, they'll take him for a lunatic. / The world is round? / Yes, yes, that's right. And it also goes around. / You mean it'll be round someday? / No, no, no. It's round now. Man will discover this in centuries to come."
+  locator: "English subtitles, 00:51:45.487–00:52:05.006"
+  translation_notes: "Exact English subtitle exchange; Barbero compresses it and reverses its comic premise by saying Merlin predicts a future discovery rather than insisting that Earth is already round."
+  confidence: high
+  status: resolved
+  research_note: "Confirmed against the supplied English subtitle file; direct English witness."
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+- id: Q-002
+  barbero_utterances: [U-00152–U-00163]
+  barbero_timestamp: "09:02"
+  attribution: Bede
+  source_id: SRC-002
+  original_language: la
+  original_text: "Terra ... non quod aequalis undique sit ... sed quod cuncta eius ambitio ... globi figuram exprimat."
+  translation: "The Earth is called a globe, not because it is equally level everywhere, but because its whole circumference presents the shape of a globe."
+  locator: "De temporum ratione, chapter 32"
+  translation_notes: "Direct translation of the relevant Latin clauses; Barbero expands the examples of uneven terrain."
+  confidence: high
+  status: resolved
+  research_note: "Confirmed from the Latin text; evidence tier 1."
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: not-applicable
+  human_reviewed: true
+- id: Q-003
+  barbero_utterances: [U-00184–U-00205]
+  barbero_timestamp: "10:34"
+  attribution: Bede
+  source_id: SRC-002
+  original_language: la
+  original_text: "Neque enim in rotunditate scuti ... sed pilae similitudinem ... aequaliter undique rotundus."
+  translation: "It is not round like a shield, but like a ball, equally round in every direction."
+  locator: "De temporum ratione, chapter 32"
+  translation_notes: "Direct translation of Bede's clarification."
+  confidence: high
+  status: resolved
+  research_note: "Confirmed from the Latin text; evidence tier 1."
+  quotation_kind: direct
+  verdict: confirmed
+  source_replacement: eligible
+  human_reviewed: true
+- id: Q-004
+  barbero_utterances: [U-00208–U-00232]
+  barbero_timestamp: "11:40"
+  attribution: "Gossuin (Gautier) de Metz, L'Image du monde, ca. 1245 (fly-and-apple component); separate ball comparison unidentified"
+  source_id: SRC-018
+  original_language: fro
+  original_text: "Se tel chose peüst avenir qu'il n'eüst riens seur terre, ne yaue, ne autre chose qui destornast la voie quel part que l'en alast, l'en pourroit aler environ toute la terre, ou homme, ou beste, sus et jus, quel part qu'il voudroit, ausi comme une mouche iroit entour une pomme reonde."
+  translation: "If it could happen that there were nothing on Earth—neither water nor anything else—to obstruct the route in whatever direction one went, a person or animal could go all around the Earth, above and below, whichever way it wished, just as a fly would go around a round apple."
+  locator: "L'Image du monde, part I, chapter 11, prose recension; BnF MS français 574, fol. 41r (Prior ed., p. 61)"
+  translation_notes: "The fly-and-apple component is exact in the French prose edition and is also transmitted by Caxton's 1481 Mirrour of the World. Barbero's adjacent claim that Earth is round like a ball remains a separate, unattributed component and must not be merged into this passage."
+  confidence: high
+  status: resolved
+  research_note: "Miranda Griffin identifies the apple model and embodied circumnavigation in L'Image du monde; the Prior French edition, Caxton English witness, BnF manuscript, and Walters W.199 facsimile establish the textual and manuscript tradition."
+  quotation_kind: composite
+  verdict: composite
+  source_replacement: not-applicable
+  human_reviewed: true
+- id: Q-005
+  barbero_utterances: [U-00300–U-00332]
+  barbero_timestamp: "17:15"
+  attribution: Aristotle
+  source_id: SRC-005
+  original_language: grc
+  original_text: "Aristotle's latitude and lunar-eclipse arguments in De caelo II.14"
+  translation: "In eclipses the outline is always curved; and, since it is the interposition of the earth that makes the eclipse, the form of this line is caused by the form of the earth's surface, which is therefore spherical."
+  locator: "On the Heavens II.14, 297b23–31"
+  translation_notes: "Public-domain English edition; Barbero combines this with the adjacent changing-stars argument."
+  confidence: high
+  status: resolved
+  research_note: "Confirmed in the primary text; evidence tier 1."
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+- id: Q-006
+  barbero_utterances: [U-00336–U-00352]
+  barbero_timestamp: "19:20"
+  attribution: Claudius Ptolemy
+  source_id: SRC-006
+  original_language: grc
+  original_text: "Almagest I.4 demonstration from the progressive appearance of mountains when sailing toward land"
+  translation: "When we sail toward mountains, their peaks appear first and their lower parts gradually come into view."
+  locator: "Almagest I.4"
+  translation_notes: "Concise direct rendering of the recoverable demonstration."
+  confidence: high
+  status: resolved
+  research_note: "Confirmed in Toomer's scholarly translation and the Ptolemaeus Arabus et Latinus witnesses."
+  quotation_kind: paraphrase
+  verdict: confirmed-in-substance
+  source_replacement: not-applicable
+  human_reviewed: true
+- id: Q-007
+  barbero_utterances: [U-00385–U-00426]
+  barbero_timestamp: "22:12"
+  attribution: "Revelation 7:1, Psalm 104:2, and Isaiah 40:22"
+  source_id: SRC-007
+  original_language: grc
+  original_text: "Biblical imagery of four corners and the heavens stretched like a tent"
+  translation: "I saw four angels standing at the four corners of the earth. ... You spread out the heavens like a tent."
+  locator: "Revelation 7:1; Psalm 104:2; Isaiah 40:22"
+  translation_notes: "Barbero combines and freely renders three passages."
+  confidence: high
+  status: resolved
+  research_note: "References confirmed against the official USCCB edition."
+  quotation_kind: composite
+  verdict: composite
+  source_replacement: not-applicable
+  human_reviewed: true
+- id: Q-008
+  barbero_utterances: [U-00468–U-00498]
+  barbero_timestamp: "26:10"
+  attribution: Augustine of Hippo
+  source_id: SRC-008
+  original_language: la
+  original_text: "De Genesi ad litteram I.19.39 warning against ignorant Christian claims about nature"
+  translation: "It is disgraceful and dangerous for a nonbeliever to hear a Christian, supposedly explaining Scripture, talk nonsense on these subjects."
+  locator: "The Literal Meaning of Genesis I.19.39"
+  translation_notes: "Barbero gives a close paraphrase of Augustine's methodological warning."
+  confidence: high
+  status: resolved
+  research_note: "Confirmed in the primary work and scholarly translation; evidence tier 1."
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+- id: Q-009
+  barbero_utterances: [U-00500–U-00522]
+  barbero_timestamp: "28:01"
+  attribution: Augustine of Hippo
+  source_id: SRC-008
+  original_language: la
+  original_text: "De Genesi ad litteram I.19.39 on reason and experience"
+  translation: "Whatever can be demonstrated by reliable arguments or proved by experience cannot be contrary to Scripture."
+  locator: "The Literal Meaning of Genesis I.19.39"
+  translation_notes: "Barbero synthesizes Augustine rather than reproducing one continuous sentence."
+  confidence: medium
+  status: resolved
+  research_note: "Confirmed in substance; exact syntax varies among English editions."
+  quotation_kind: paraphrase
+  verdict: confirmed-in-substance
+  source_replacement: not-applicable
+  human_reviewed: true
+- id: Q-010
+  barbero_utterances: [U-00523–U-00542]
+  barbero_timestamp: "29:58"
+  attribution: Augustine of Hippo
+  source_id: SRC-009
+  original_language: la
+  original_text: "City of God XVI.9 on a round and spherical world without inferentially inhabited antipodes"
+  translation: "Even if it is supposed or scientifically demonstrated that the world is round and spherical, it does not follow that the other side is inhabited."
+  locator: "The City of God XVI.9"
+  translation_notes: "Direct rendering of Augustine's distinction; the lecture correctly separates sphericity from habitation."
+  confidence: high
+  status: resolved
+  research_note: "Confirmed in the primary work; evidence tier 1."
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+- id: Q-011
+  barbero_utterances: [U-00620–U-00691]
+  barbero_timestamp: "34:44"
+  attribution: "The Travels of Sir John Mandeville, English Cotton version"
+  source_id: SRC-010
+  original_language: en
+  original_text: "For which cause men may well perceive, that the land and the sea be of round shape and form; for the part of the firmament sheweth in one country that sheweth not in another country. And men may well prove by experience and subtle compassment of wit, that if a man found passages by ships that would go to search the world, men might go by ship all about the world and above and beneath."
+  translation: "For which cause men may well perceive, that the land and the sea be of round shape and form; for the part of the firmament sheweth in one country that sheweth not in another country. And men may well prove by experience and subtle compassment of wit, that if a man found passages by ships that would go to search the world, men might go by ship all about the world and above and beneath."
+  locator: "Cotton version, chapter 20, pp. 120–121 in the 1900 Macmillan modern-spelling edition; Project Gutenberg ebook 782"
+  translation_notes: "Exact English from the Cotton-version modern-spelling edition. Barbero quotes a medieval Italian witness of the same passage; the English script uses this English witness instead."
+  confidence: high
+  status: resolved
+  research_note: "Confirmed in the English Cotton version, including the Pole Star inference, round land and sea, experience and reasoning, and possible circumnavigation; evidence tier 1 edition with its disclosed modern-spelling policy."
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+- id: Q-012
+  barbero_utterances: [U-00729–U-00757]
+  barbero_timestamp: "42:04"
+  attribution: Pliny the Elder
+  source_id: SRC-011
+  original_language: la
+  original_text: "Much debate between learned men and the common herd concerning people standing opposite foot to foot"
+  translation: "There is a great debate between learning and the common herd: people stand opposite one another, foot to foot, while ordinary people ask why those on the other side do not fall off—as if they would not wonder why we do not fall off."
+  locator: "Natural History II.65, section 161"
+  translation_notes: "Direct English edition; Barbero closely paraphrases it."
+  confidence: high
+  status: resolved
+  research_note: "Confirmed in Latin and two public-domain translations; evidence tier 1."
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+- id: Q-013
+  barbero_utterances: [U-00917–U-00929]
+  barbero_timestamp: "53:26"
+  attribution: "Unidentified sixteenth-century cosmographical treatise"
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: "The claim about less water than formerly believed is plausible but the work is unnamed."
+  confidence: low
+  status: deferred
+  deferred_reason: "The short Italian paraphrase did not identify a unique sixteenth-century source."
+  research_note: "Focused provenance searches were negative; contextual translation must be retained."
+  quotation_kind: paraphrase
+  verdict: unresolved
+  source_replacement: unavailable
+  human_reviewed: true
+- id: Q-014
+  barbero_utterances: [U-00952–U-00977]
+  barbero_timestamp: "55:09"
+  attribution: Washington Irving
+  source_id: SRC-013
+  original_language: null
+  original_text: null
+  translation: "Irving presents Columbus as confronting objections drawn from biblical imagery and the supposed impossibility of antipodes."
+  locator: "A History of the Life and Voyages of Christopher Columbus, book II, chapters 3–4"
+  translation_notes: "Barbero summarizes a scene rather than quoting a sentence."
+  confidence: high
+  status: resolved
+  research_note: "The primary book confirms the dramatization but also contains nuances often lost in retellings."
+  quotation_kind: paraphrase
+  verdict: confirmed-in-substance
+  source_replacement: not-applicable
+  human_reviewed: true
+- id: Q-015
+  barbero_utterances: [U-00988–U-01002]
+  barbero_timestamp: "57:08"
+  attribution: William Carpenter
+  source_id: SRC-015
+  original_language: en
+  original_text: "Human beings require a surface on which to live that, in its general character, shall be LEVEL; and since the Omniscient Creator must have been perfectly acquainted with the requirements of His creatures, it follows that, being an All-wise Creator, He has met them thoroughly. This is a theological proof that the Earth is not a globe."
+  translation: "Human beings require a surface on which to live that, in its general character, shall be LEVEL; and since the Omniscient Creator must have been perfectly acquainted with the requirements of His creatures, it follows that, being an All-wise Creator, He has met them thoroughly. This is a theological proof that the Earth is not a globe."
+  locator: "One Hundred Proofs, proof 17"
+  translation_notes: "English original copied exactly; Barbero paraphrases it closely."
+  confidence: high
+  status: resolved
+  research_note: "Confirmed in the 1885 primary text and LOC copy; evidence tier 1."
+  quotation_kind: near-direct
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+- id: Q-016
+  barbero_utterances: [U-01008–U-01014]
+  barbero_timestamp: "58:22"
+  attribution: William Carpenter
+  source_id: SRC-015
+  original_language: null
+  original_text: null
+  translation: "Circular discs may be seen from a balloon in the air, and this is a proof that the surface of the Earth is a plane."
+  locator: "One Hundred Proofs, proofs 6, 64, and 79"
+  translation_notes: "Barbero compresses several separate balloon and horizon arguments into one representative first proof; it is not the pamphlet's proof 1."
+  confidence: high
+  status: resolved
+  research_note: "Composite confirmed in the primary text; the lecture's numbering/compression is inaccurate."
+  quotation_kind: composite
+  verdict: composite
+  source_replacement: not-applicable
+  human_reviewed: true
+- id: Q-017
+  barbero_utterances: [U-00078–U-00093]
+  barbero_timestamp: "04:59"
+  attribution: "Altan's Columbus comic"
+  source_id: null
+  original_language: it
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: "Barbero's contextual rendition is explicitly retained because the user trusts it; no authoritative replacement is to be applied."
+  confidence: medium
+  status: deferred
+  deferred_reason: "No reliable exact edition or source wording was supplied or recovered for the Altan panel."
+  research_note: "Split from Q-001 to preserve a distinct quotation target. Retain Barbero's contextual rendition by explicit user decision."
+  quotation_kind: paraphrase
+  verdict: unresolved
+  source_replacement: unavailable
+  human_reviewed: true
