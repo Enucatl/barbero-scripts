@@ -1,0 +1,327 @@
+- id: C-001
+  claim: The Falklands War was the only post-1945 war between two major Western capitalist US allies.
+  transcript:
+  - U-00006–U-00013
+  centrality: supporting
+  supporting_sources:
+  - SRC-020
+  conflicting_sources: []
+  status: resolved
+  research_note: 'The official US history confirms that the conflict posed an exceptional crisis between two anti-communist
+    US partners, but “only,” “major,” and “Western” are undefined and cannot support a defensible global superlative. Accuracy
+    treatment: call it a rare post-1945 war between states aligned with the West, not the only one.'
+- id: C-002
+  claim: Britain took possession in 1833 and the islands' population was predominantly of British origin.
+  transcript:
+  - U-00062–U-00082
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-002
+  - SRC-007
+  conflicting_sources:
+  - SRC-014
+  status: resolved
+  research_note: 'British official sources establish continuous British administration from 1833 and a population overwhelmingly
+    British in stock and allegiance. Argentine official sources characterize 1833 as an illegal usurpation. Accuracy treatment:
+    preserve the date and population fact while presenting sovereignty as disputed, not settled by narration.'
+  legal nuance: null
+  and population description.: null
+- id: C-003
+  claim: The Malvinas claim was a deeply embedded part of Argentine schooling and popular nationalism.
+  transcript:
+  - U-00095–U-00115
+  centrality: supporting
+  supporting_sources:
+  - SRC-014
+  conflicting_sources: []
+  status: resolved
+  research_note: Official Argentine commemoration and the constitutional/public culture surrounding the Malvinas support the
+    claim’s national salience. The broad statement about what every child learned is plausible but not established by a curriculum
+    source; phrase it as a deeply embedded civic narrative rather than a universal classroom fact.
+- id: C-004
+  claim: By late 1981 Argentina's junta faced severe economic and legitimacy crises alongside pressure over the disappeared.
+  transcript:
+  - U-00120–U-00159
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-017
+  conflicting_sources:
+  - SRC-017
+  status: resolved
+  research_note: 'The Franks chronology supports the junta’s legitimacy and diplomatic pressures; World Bank/IMF series confirms
+    very high inflation. The transcript’s “600 percent” is not supported for 1981 or 1982 annual CPI (contemporary annual
+    measures are roughly in the 100–200% range depending on index). Accuracy note required: remove 600% or replace it with
+    “triple-digit inflation.”'
+  protests: null
+  and political crisis.: null
+- id: C-005
+  claim: Galtieri attended the US-run School of the Americas and received a warm US reception in 1981.
+  transcript:
+  - U-00164–U-00213
+  centrality: supporting
+  supporting_sources:
+  - SRC-013
+  - SRC-020
+  conflicting_sources: []
+  status: resolved
+  research_note: Biographical and US diplomatic sources support Galtieri’s US training, anti-communist alignment, and warm
+    1981 Washington relationship. They do not support the separate gossip that he failed the School of the Americas; keep
+    that only as explicitly unverified hearsay or omit it.
+- id: C-006
+  claim: The junta decided in December 1981 to prepare a forceful recovery, expecting domestic acclaim and no effective British
+    or US resistance.
+  transcript:
+  - U-00214–U-00232
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  conflicting_sources: []
+  status: resolved
+  research_note: The Franks Report reconstructs the December 1981 change of leadership, accelerated military planning, and
+    Argentine assumptions about British willingness and capability. Motives and expectations came from several junta actors;
+    avoid presenting every inference as a formally recorded collective decision.
+- id: C-007
+  claim: Anglo-Argentine sovereignty talks and Argentine-supported transport links had continued cordially for about fifteen
+    years.
+  transcript:
+  - U-00233–U-00257
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  - SRC-007
+  conflicting_sources: []
+  status: resolved
+  research_note: The Franks Report and Thatcher’s 3 April statement document approximately fifteen years of sovereignty negotiations,
+    islander participation, and practical communications arrangements. “Cordial” accurately describes the February meeting,
+    but cordial procedure did not mean agreement on sovereignty.
+- id: C-008
+  claim: The 2 March communiqué sharply escalated demands and the Argentine press immediately threatened further action.
+  transcript:
+  - U-00258–U-00293
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-007
+  conflicting_sources: []
+  status: resolved
+  research_note: The Franks Report records the unilateral Argentine communiqué and ensuing press threats; Hansard confirms
+    bellicose comment in late February and early March. The “ultimatum” label is interpretive, so translate it as escalation
+    and a warning of other means rather than a fixed deadline unless quoting a source.
+- id: C-009
+  claim: British diplomatic and intelligence institutions repeatedly underestimated the likelihood of invasion through March
+    1982.
+  transcript:
+  - U-00294–U-00320
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-002
+  conflicting_sources:
+  - SRC-001
+  status: resolved
+  research_note: 'The documentary record shows repeated assessments discounting immediate full-scale invasion even after warning
+    signs. The Franks committee nevertheless concluded there was no reason before 31 March to predict an invasion at the start
+    of April and attached no blame to the government. Accuracy treatment: describe underestimation and late warning, not a
+    straightforward intelligence failure proven in advance.'
+- id: C-010
+  claim: Thatcher was politically weak and widely expected to lose before the Falklands crisis.
+  transcript:
+  - U-00321–U-00361
+  centrality: supporting
+  supporting_sources:
+  - SRC-019
+  conflicting_sources: []
+  status: resolved
+  research_note: MORI’s historical series records Conservative support at about 27% in autumn 1981 and a dramatic post-victory
+    rise in Thatcher’s standing. “Certain to lose” overstates volatile polling more than a year before an election; say her
+    government was deeply unpopular and electorally vulnerable.
+  economic context: null
+  and retrospective assessments.: null
+- id: C-011
+  claim: The South Georgia scrap-metal party included Argentine military personnel under Alfredo Astiz.
+  transcript:
+  - U-00366–U-00400
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  conflicting_sources: []
+  status: resolved
+  research_note: 'The Franks chronology distinguishes Davidoff’s commercial scrap-metal party from Argentine naval personnel
+    later inserted and commanded by Alfredo Astiz. Accuracy treatment: do not imply that Astiz was simply one of the original
+    civilian workers; identify the covert/subsequent military detachment separately.'
+  command: null
+  and role of Astiz.: null
+- id: C-012
+  claim: Galtieri approved Operation Rosario on 26 March and Thatcher sent a nuclear submarine on 29 March.
+  transcript:
+  - U-00428–U-00457
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-002
+  conflicting_sources: []
+  status: resolved
+  research_note: Official review and memoir evidence support the late-March Argentine execution decision and Britain’s submarine
+    response. Exact operational dates vary by decision, order, and sailing; retain 26 and 29 March only with those distinctions,
+    and avoid implying the submarine could arrive immediately.
+- id: C-013
+  claim: US intelligence warned Britain on 31 March, and Sir Henry Leach advised Thatcher that a task force could retake the
+    islands.
+  transcript:
+  - U-00473–U-00502
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-002
+  - SRC-004
+  conflicting_sources: []
+  status: resolved
+  research_note: Official review, Thatcher’s memoir, and her contemporaneous message establish the 31 March warning and Leach’s
+    advice that a task force could be assembled within 48 hours and could retake the islands. The warning concerned fleet
+    movements and imminent invasion, not omniscient advance knowledge.
+- id: C-014
+  claim: The prime minister could order the fleet assembled without a parliamentary vote.
+  transcript:
+  - U-00503–U-00510
+  centrality: sampled-incidental
+  supporting_sources:
+  - SRC-002
+  - SRC-007
+  conflicting_sources: []
+  status: resolved
+  research_note: Thatcher authorized assembly of the task force under executive prerogative and reserved the sailing decision
+    for Cabinet. Parliament was recalled for an adjournment debate and did not enact a substantive authorization vote. Accuracy
+    note required wherever the narration says Parliament “voted” to send the fleet.
+- id: C-015
+  claim: Kirkpatrick favored neutrality toward Argentina while Haig argued against accepting the invasion.
+  transcript:
+  - U-00578–U-00597
+  centrality: supporting
+  supporting_sources:
+  - SRC-005
+  - SRC-020
+  conflicting_sources: []
+  status: resolved
+  research_note: 'Rentschler’s diary and the State Department overview document a real administration split: Kirkpatrick emphasized
+    Latin American ties and sovereignty neutrality, while Haig resisted rewarding force and led mediation. Avoid reducing
+    either position to simple personal sympathy.'
+- id: C-016
+  claim: Reagan told Thatcher US neutrality on sovereignty did not extend to Argentina's use of force.
+  transcript:
+  - U-00598–U-00621
+  centrality: central
+  supporting_sources:
+  - SRC-006
+  - SRC-021
+  conflicting_sources: []
+  status: resolved
+  research_note: Reagan’s official written reply states the neutrality distinction verbatim, after his unsuccessful call with
+    Galtieri. The message is timestamped 2 April 0245Z, though it belongs to the night of 1–2 April in the narrative.
+- id: C-017
+  claim: The British Cabinet decided on 2 April to dispatch the task force despite Foreign Office objections.
+  transcript:
+  - U-00622–U-00669
+  centrality: central
+  supporting_sources:
+  - SRC-002
+  - SRC-007
+  conflicting_sources: []
+  status: resolved
+  research_note: 'Thatcher’s memoir records Cabinet’s 2 April evening decision to send the task force and earlier Foreign
+    Office warnings about diplomatic and strategic risks. “Despite Foreign Office objections” is too categorical: the located
+    passage presents considerations and caution, not a single institutional refusal. Accuracy note required.'
+- id: C-018
+  claim: British press and political opinion framed the invasion as the worst humiliation since Suez.
+  transcript:
+  - U-00675–U-00699
+  centrality: supporting
+  supporting_sources:
+  - SRC-002
+  - SRC-007
+  conflicting_sources: []
+  status: resolved
+  research_note: The recalled Commons debate and Thatcher’s retrospective comparison to the 1956 Suez fiasco support the humiliation
+    frame. No specific contemporary newspaper front page was recovered for Barbero’s superlative; attribute it as contemporary
+    rhetoric rather than objective ranking.
+- id: C-019
+  claim: Parliament and a large majority of the British public supported retaking the islands, including by force.
+  transcript:
+  - U-00700–U-00777
+  centrality: central
+  supporting_sources:
+  - SRC-007
+  - SRC-018
+  conflicting_sources:
+  - SRC-018
+  status: resolved
+  research_note: 'The Commons gave near-unanimous political backing in an adjournment debate, not a formal authorization vote.
+    Polls show strong opposition to ceding sovereignty, but support for risking British lives was 44% on 14 April and rose
+    above 50% later. Accuracy note required: avoid claiming an immediate 80% majority for war unless a matching question and
+    poll are cited.'
+- id: C-020
+  claim: Britain fought the conflict without formally declaring war.
+  transcript:
+  - U-00778–U-00838
+  centrality: supporting
+  supporting_sources:
+  - SRC-008
+  conflicting_sources: []
+  status: resolved
+  research_note: Thatcher explicitly distinguished the military operation from a declaration of war in the 5 April ITN interview.
+    The conflict was fought without a formal declaration; avoid implying this made hostilities legally unreal or prevented
+    application of the law of armed conflict.
+- id: C-021
+  claim: Carrington resigned on 5 April because he accepted responsibility for the Foreign Office failure.
+  transcript:
+  - U-00848–U-00864
+  centrality: supporting
+  supporting_sources:
+  - SRC-008
+  conflicting_sources: []
+  status: resolved
+  research_note: Thatcher’s 5 April interview confirms Carrington’s resignation that day and publicly framed it as honourable
+    acceptance that policy had failed. This establishes her account of his reason; a resignation letter would be the stronger
+    source for his exact private formulation.
+- id: C-022
+  claim: The war ended on 14 June with 649 Argentine, 258 British, and three civilian deaths.
+  transcript:
+  - U-00892–U-00903
+  centrality: supporting
+  supporting_sources:
+  - SRC-014
+  - SRC-015
+  - SRC-016
+  - SRC-022
+  conflicting_sources: []
+  status: resolved
+  research_note: 'Official sources agree on the 14 June surrender and 649 Argentine deaths. The standard British figure is
+    255 task-force/service deaths, with three Falkland Island civilians counted separately. Accuracy note required: change
+    “258 English” to “255 British personnel”; retain the separate three civilian deaths.'
+- id: C-023
+  claim: Defeat brought down Galtieri and accelerated the junta's replacement by elected government.
+  transcript:
+  - U-00903–U-00915
+  centrality: central
+  supporting_sources:
+  - SRC-014
+  - SRC-024
+  conflicting_sources: []
+  status: resolved
+  research_note: 'Defeat precipitated Galtieri’s resignation and accelerated the military regime’s collapse and democratic
+    transition. Accuracy note required: Galtieri resigned on 17 June 1982, not 18 June; elected civilian government returned
+    in December 1983, not immediately.'
+- id: C-024
+  claim: Victory transformed Thatcher's standing and contributed materially to her 1983 landslide.
+  transcript:
+  - U-00922–U-00938
+  centrality: central
+  supporting_sources:
+  - SRC-019
+  - SRC-023
+  conflicting_sources: []
+  status: resolved
+  research_note: 'Polling documents Thatcher’s sharp postwar popularity rise, and election scholarship treats the conflict
+    as an important contributor to the 1983 landslide. The effect was not monocausal: economic recovery, Labour’s weakness,
+    and the SDP–Liberal Alliance also mattered. Preserve “contributed materially,” not “single-handedly caused.”'

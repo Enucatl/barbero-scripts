@@ -1,0 +1,45 @@
+- id: CH-001
+  title: The islands, their names, and 150 years of dispute
+  start: U-00001
+  end: U-00119
+  markers: [C-001, C-002, C-003, Q-001]
+- id: CH-002
+  title: Galtieri, the dictatorship, and the invasion gamble
+  start: U-00120
+  end: U-00232
+  markers: [C-004, C-005, Q-002, Q-003, C-006]
+- id: CH-003
+  title: Failed negotiations and Britain's blind spot
+  start: U-00233
+  end: U-00365
+  markers: [C-007, Q-004, Q-005, C-008, Q-006, C-009, C-010]
+- id: CH-004
+  title: South Georgia and the escalation of March 1982
+  start: U-00366
+  end: U-00457
+  markers: [C-011, Q-007, C-012, Q-008]
+- id: CH-005
+  title: Thatcher learns the invasion is imminent
+  start: U-00458
+  end: U-00524
+  markers: [Q-009, C-013, C-014, Q-010]
+- id: CH-006
+  title: Reagan's call and the American choice
+  start: U-00525
+  end: U-00621
+  markers: [Q-011, C-015, Q-012, C-016]
+- id: CH-007
+  title: Invasion, Cabinet, and national humiliation
+  start: U-00622
+  end: U-00712
+  markers: [C-017, Q-013, C-018]
+- id: CH-008
+  title: Parliament tests the Iron Lady
+  start: U-00713
+  end: U-00864
+  markers: [Q-014, C-019, Q-015, C-020, Q-016, C-021, Q-017]
+- id: CH-009
+  title: Defeat transforms Argentina and Thatcher
+  start: U-00865
+  end: U-00965
+  markers: [Q-018, C-022, C-023, Q-019, C-024, Q-020, Q-021]

@@ -1,0 +1,216 @@
+- id: SRC-001
+  author: Committee of Privy Counsellors chaired by Lord Franks
+  title: Falkland Islands Review (Franks Report)
+  date: "1983-01"
+  original_language: en
+  identifier: "Cmnd. 8787"
+  url: "https://archive.margaretthatcher.org/doc02/E415E0802DAA482297D889B9B43B70DE.pdf"
+  access_date: "2026-08-13"
+  locator: "paras. 13–18, 25–28, 73–74, 115–119, 135–156, 228–235, 329–339; conclusions paras. 268–339"
+- id: SRC-002
+  author: Margaret Thatcher
+  title: "The Downing Street Years: Argentina invades the Falklands"
+  date: "1993"
+  original_language: en
+  identifier: "The Downing Street Years, pp. 173–185; Margaret Thatcher Foundation document 109110"
+  url: "https://www.margaretthatcher.org/document/109110"
+  access_date: "2026-08-13"
+  locator: "Memoir extract, especially the passages beginning ‘It all began with an incident on South Georgia’ and ‘Week One’"
+- id: SRC-003
+  author: Margaret Thatcher
+  title: Annotation on UKE Buenos Aires telegram 60
+  date: "1982-03-03"
+  original_language: en
+  identifier: "TNA PREM 19/657 f. 103; Margaret Thatcher Foundation document 122482"
+  url: "https://www.margaretthatcher.org/document/122482"
+  access_date: "2026-08-13"
+  locator: "Handwritten prime-ministerial annotation: ‘We must make contingency plans.’"
+- id: SRC-004
+  author: Margaret Thatcher
+  title: Message From Prime Minister Thatcher to President Reagan
+  date: "1982-03-31"
+  original_language: en
+  identifier: "FRUS 1981–1988, vol. XIII, document 28"
+  url: "https://history.state.gov/historicaldocuments/frus1981-88v13/d28"
+  access_date: "2026-08-13"
+  locator: "London, 31 March 1982, 2025Z; complete message"
+- id: SRC-005
+  author: James Rentschler
+  title: Falklands diary entry
+  date: "1982-04-01"
+  original_language: en
+  identifier: "Rentschler diary; Margaret Thatcher Foundation document 114319"
+  url: "https://www.margaretthatcher.org/document/114319"
+  access_date: "2026-08-13"
+  locator: "Entry headed Thursday 1 April 1982, fols. 149–150; events continued into early 2 April London time"
+- id: SRC-006
+  author: Ronald Reagan
+  title: Message From President Reagan to Prime Minister Thatcher
+  date: "1982-04-02"
+  original_language: en
+  identifier: "FRUS 1981–1988, vol. XIII, document 42"
+  url: "https://history.state.gov/historicaldocuments/frus1981-88v13/d42"
+  access_date: "2026-08-13"
+  locator: "Washington, 2 April 1982, 0245Z; complete message"
+- id: SRC-007
+  author: UK House of Commons
+  title: Falkland Islands debate
+  date: "1982-04-03"
+  original_language: en
+  identifier: "HC Deb 3 April 1982, vol. 21, cc. 633–668"
+  url: "https://api.parliament.uk/historic-hansard/commons/1982/apr/03/falkland-islands"
+  access_date: "2026-08-13"
+  locator: "cc. 633–668, especially Thatcher at cc. 633–637 and Enoch Powell at c. 650"
+- id: SRC-008
+  author: Margaret Thatcher; interviewer Glyn Mathias
+  title: TV Interview for ITN (Falklands)
+  date: "1982-04-05"
+  original_language: en
+  identifier: "Thatcher MSS transcript; Margaret Thatcher Foundation document 104913"
+  url: "https://www.margaretthatcher.org/document/104913"
+  access_date: "2026-08-13"
+  locator: "Interview at 10 Downing Street, especially questions on war, dictators, and Carrington’s resignation"
+- id: SRC-009
+  author: UK House of Commons
+  title: Engagements
+  date: "1982-06-17"
+  original_language: en
+  identifier: "HC Deb 17 June 1982, Enoch Powell question to Margaret Thatcher"
+  url: "https://api.parliament.uk/historic-hansard/commons/1982/jun/17/engagements"
+  access_date: "2026-08-13"
+  locator: "Prime Minister’s Questions; Powell’s ‘public analyst’ question and Thatcher’s reply"
+- id: SRC-010
+  author: Margaret Thatcher
+  title: Speech to the Scottish Conservative Party Conference
+  date: "1982-05-14"
+  original_language: en
+  identifier: "Thatcher MSS transcript; Margaret Thatcher Foundation document 104936"
+  url: "https://www.margaretthatcher.org/document/104936"
+  access_date: "2026-08-13"
+  locator: "City Hall, Perth; unscripted return to the rostrum after the main speech"
+- id: SRC-011
+  author: Anthony Sampson
+  title: A Sense of Duty
+  date: "1983-02-14"
+  original_language: en
+  identifier: "The New Yorker profile and interview of Lord Carrington"
+  url: "https://www.newyorker.com/magazine/1983/02/14/a-sense-of-duty"
+  access_date: "2026-08-13"
+  locator: "Carrington’s answer to whether he hoped to become prime minister"
+- id: SRC-012
+  author: The Economist
+  title: Leopoldo Galtieri
+  date: "2003-01-16"
+  original_language: en
+  identifier: "Obituary"
+  url: "https://www.economist.com/obituary/2003/01/16/leopoldo-galtieri"
+  access_date: "2026-08-13"
+  locator: "Closing sentence; page is paywalled, wording corroborated by the indexed text"
+- id: SRC-013
+  author: The Guardian
+  title: General Leopoldo Galtieri
+  date: "2003-01-13"
+  original_language: en
+  identifier: "Obituary"
+  url: "https://www.theguardian.com/news/2003/jan/13/guardianobituaries.argentina"
+  access_date: "2026-08-13"
+  locator: "Biography and military training; states that Galtieri graduated as an officer in 1949"
+- id: SRC-014
+  author: Government of Argentina
+  title: Día del Veterano y de los Caídos en la Guerra de Malvinas
+  date: null
+  original_language: es
+  identifier: "Official commemoration page"
+  url: "https://www.argentina.gob.ar/node/420986"
+  access_date: "2026-08-13"
+  locator: "Historical summary and total of 649 Argentine dead"
+- id: SRC-015
+  author: Falkland Islands Government London Office
+  title: Falklands 40th
+  date: "2022"
+  original_language: en
+  identifier: "Official commemoration page"
+  url: "https://www.falklands.gov.fk/londonoffice/falklands40th"
+  access_date: "2026-08-13"
+  locator: "Timeline and remembrance section: 255 British task-force deaths and three Falkland civilian deaths"
+- id: SRC-016
+  author: UK Government
+  title: Services commemorate Falklands War anniversary
+  date: "2022-06-14"
+  original_language: en
+  identifier: "Government news release"
+  url: "https://www.gov.uk/government/news/services-commemorate-falklands-war-anniversary"
+  access_date: "2026-08-13"
+  locator: "Accepted totals of 255 British and about 650 Argentine deaths"
+- id: SRC-017
+  author: World Bank
+  title: Inflation, consumer prices (annual %) — Argentina
+  date: null
+  original_language: en
+  identifier: "World Development Indicators FP.CPI.TOTL.ZG; underlying source IMF International Financial Statistics"
+  url: "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=AR"
+  access_date: "2026-08-13"
+  locator: "Annual series for 1981–1982; compare World Bank historical country-study tables based on INDEC and IMF data"
+- id: SRC-018
+  author: Ipsos
+  title: The Falklands War — Trends
+  date: "1982"
+  original_language: en
+  identifier: "MORI contemporary polling series"
+  url: "https://www.ipsos.com/en-uk/falklands-war-trends"
+  access_date: "2026-08-13"
+  locator: "Polls of 14 April–26 May 1982 on sovereignty and willingness to accept British and islander casualties"
+- id: SRC-019
+  author: Ipsos
+  title: Margaret Thatcher (1925–2013)
+  date: "2013-04-08"
+  original_language: en
+  identifier: "Historical MORI polling summary"
+  url: "https://www.ipsos.com/en-uk/margaret-thatcher-1925-2013"
+  access_date: "2026-08-13"
+  locator: "Conservative support at 27% in autumn 1981 and Thatcher satisfaction at 59% after the June 1982 recapture"
+- id: SRC-020
+  author: United States Department of State, Office of the Historian
+  title: The South Atlantic Crisis, 1982
+  date: null
+  original_language: en
+  identifier: "Milestones in the History of U.S. Foreign Relations"
+  url: "https://history.state.gov/milestones/1981-1988/south-atlantic"
+  access_date: "2026-08-13"
+  locator: "Overview of the invasion, Haig mediation, and the eventual US tilt toward Britain"
+- id: SRC-021
+  author: United States Department of State
+  title: Memorandum of Telephone Conversation, Reagan and Galtieri
+  date: "1982-04-01"
+  original_language: en
+  identifier: "FRUS 1981–1988, vol. XIII, document 41"
+  url: "https://history.state.gov/historicaldocuments/frus1981-88v13/d41"
+  access_date: "2026-08-13"
+  locator: "Telephone conversation, 8:30–9:20 p.m. EST"
+- id: SRC-022
+  author: Falkland Islands National Archives
+  title: "1982"
+  date: null
+  original_language: en
+  identifier: "Official archival timeline and surrender documents"
+  url: "https://nationalarchives.gov.fk/1982"
+  access_date: "2026-08-13"
+  locator: "2 April invasion and 14 June instrument of surrender"
+- id: SRC-023
+  author: Oxford University Press
+  title: "Conservative Hegemony? Elections, 1983–92"
+  date: "2022"
+  original_language: en
+  identifier: "British General Elections Since 1964, chapter 6"
+  url: "https://academic.oup.com/book/42121/chapter-abstract/356146227"
+  access_date: "2026-08-13"
+  locator: "Chapter abstract: the 1983 victory was partly due to the Falklands conflict; also treats party competition and voting change"
+- id: SRC-024
+  author: The Irish Times
+  title: Galtieri, dictator and architect of Falklands debacle, dies
+  date: "2003-01-13"
+  original_language: en
+  identifier: "Obituary"
+  url: "https://www.irishtimes.com/news/galtieri-dictator-and-architect-falklands-debacle-dies-1.345156"
+  access_date: "2026-08-13"
+  locator: "Account of Galtieri’s resignation on 17 June 1982 and the junta’s collapse"

@@ -1,0 +1,454 @@
+- id: Q-001
+  barbero_utterances:
+  - U-00109–U-00110
+  barbero_timestamp: 06:53
+  attribution: Argentine sovereignty slogan
+  quotation_kind: slogan
+  source_id: SRC-014
+  original_language: es
+  original_text: Las Malvinas son argentinas.
+  translation: The Malvinas are Argentine.
+  locator: Official Argentine commemorative usage; stable national slogan rather than a single dated utterance
+  translation_notes: Direct translation. In an English adaptation, “The Falklands belong to Argentina” communicates the claim
+    more naturally, but source replacement should retain the Spanish name if presented as a slogan.
+  confidence: high
+  status: resolved
+  verdict: confirmed
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: The Spanish formula is an established Argentine sovereignty slogan and is consistent with official state
+    commemorative language. It has no single speaker or documentary occasion.
+- id: Q-002
+  barbero_utterances:
+  - U-00191–U-00196
+  barbero_timestamp: '11:41'
+  attribution: The Economist obituary of Leopoldo Galtieri
+  quotation_kind: paraphrase
+  source_id: SRC-012
+  original_language: en
+  original_text: null
+  translation: null
+  locator: The Economist obituary, 16 January 2003; alleged School of the Americas sentence not recovered
+  translation_notes: null
+  confidence: low
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  human_reviewed: true
+  research_note: The accessible obituary text confirms the closing ruthlessness/stupidity judgment (Q-019), but no reliable
+    copy supports the separate claim that Galtieri failed at the School of the Americas. Biographical sources instead describe
+    him as a graduate or attendee. Preserve Barbero’s explicit gossip caveat, but do not source-replace this paraphrase.
+  decision_note: 'Human reviewed: retain Barbero’s original wording in the English adaptation.'
+- id: Q-003
+  barbero_utterances:
+  - U-00201–U-00213
+  barbero_timestamp: '12:18'
+  attribution: Reagan administration statements about Galtieri
+  quotation_kind: paraphrase
+  source_id: SRC-020
+  original_language: en
+  original_text: null
+  translation: null
+  locator: US diplomatic relationship summarized in the State Department history; compare contemporary FRUS documents in volume
+    XIII
+  translation_notes: null
+  confidence: medium
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: not-applicable
+  human_reviewed: true
+  research_note: The Reagan administration cultivated the junta as an anti-communist regional partner and Galtieri received
+    a warm Washington reception. No primary record was located for Barbero’s exact “magnificent general” wording; a contemporary
+    American description circulated as “the majestic general.” Treat the phrase as rhetorical paraphrase, not a quotation.
+- id: Q-004
+  barbero_utterances:
+  - U-00256–U-00257
+  barbero_timestamp: '16:12'
+  attribution: February 1982 Anglo-Argentine joint communiqué
+  quotation_kind: direct
+  source_id: SRC-007
+  original_language: en
+  original_text: The meeting took place in a cordial and positive spirit.
+  translation: The meeting took place in a cordial and positive spirit.
+  locator: HC Deb 3 April 1982, vol. 21, c. 634, where Thatcher reads the agreed joint communiqué
+  translation_notes: Barbero says “cordial and friendly”; the recoverable communiqué says “cordial and positive.” Use the
+    exact English source wording.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: Thatcher read the agreed communiqué into Hansard. Her 5 April ITN interview separately recalled it as “cordial
+    and friendly,” explaining Barbero’s variant.
+- id: Q-005
+  barbero_utterances:
+  - U-00260–U-00280
+  barbero_timestamp: '16:32'
+  attribution: Argentine government communiqué of 2 March 1982
+  quotation_kind: near-direct
+  source_id: SRC-001
+  original_language: es
+  original_text: null
+  translation: null
+  locator: Franks Report, account of the unilateral Argentine communiqué following the New York talks, especially paras. 135–152
+  translation_notes: No sufficiently reliable Spanish original was recovered in this pass. Translate Barbero’s summary as
+    reported speech rather than quotation.
+  confidence: medium
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: not-applicable
+  human_reviewed: true
+  research_note: The Franks Report confirms that Argentina unilaterally publicized the talks and asserted freedom to end the
+    negotiating mechanism and choose another course if rapid progress was not achieved. Barbero dramatizes this as an ultimatum;
+    retain the substance without quotation marks.
+- id: Q-006
+  barbero_utterances:
+  - U-00294–U-00299
+  barbero_timestamp: '18:39'
+  attribution: Margaret Thatcher manuscript annotation, 3 March 1982
+  quotation_kind: direct
+  source_id: SRC-003
+  original_language: en
+  original_text: We must make contingency plans.
+  translation: We must make contingency plans.
+  locator: TNA PREM 19/657 f. 103, Thatcher’s handwritten annotation on UKE Buenos Aires telegram 60, 3 March 1982
+  translation_notes: Exact English manuscript annotation.
+  confidence: high
+  status: resolved
+  verdict: confirmed
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: The digitized telegram image and catalogue description establish the wording, author, and date.
+- id: Q-007
+  barbero_utterances:
+  - U-00415–U-00426
+  barbero_timestamp: '26:47'
+  attribution: Peter Carrington anecdote about a bus hitting Thatcher
+  quotation_kind: near-direct
+  source_id: SRC-011
+  original_language: en
+  original_text: Nor if a bus dared to run her over would I be prepared to stand.
+  translation: Nor if a bus dared to run her over would I be prepared to stand.
+  locator: Anthony Sampson, “A Sense of Duty,” The New Yorker, 14 February 1983, Carrington interview
+  translation_notes: Carrington’s published wording differs from the familiar punchline “the bus wouldn’t dare.” Use the recoverable
+    sentence if replacing the anecdote.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: A direct Carrington interview confirms the joke but phrases it as his refusal to stand even if a bus dared
+    to run Thatcher over. Barbero gives the later compressed variant.
+- id: Q-008
+  barbero_utterances:
+  - U-00450–U-00457
+  barbero_timestamp: '29:14'
+  attribution: Margaret Thatcher memoir
+  quotation_kind: direct
+  source_id: SRC-002
+  original_language: en
+  original_text: My instinct was that the time had come to show the Argentines that we meant business.
+  translation: My instinct was that the time had come to show the Argentines that we meant business.
+  locator: The Downing Street Years, memoir extract pp. 173–185, paragraph beginning “We agreed to send a nuclear-powered
+    submarine”
+  translation_notes: Exact retrospective memoir wording, published in 1993.
+  confidence: high
+  status: resolved
+  verdict: confirmed
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: The sentence follows Thatcher’s account of deciding to send one nuclear-powered submarine and prepare a second.
+- id: Q-009
+  barbero_utterances:
+  - U-00461–U-00472
+  barbero_timestamp: '29:57'
+  attribution: Margaret Thatcher memoir
+  quotation_kind: near-direct
+  source_id: SRC-002
+  original_language: en
+  original_text: However, we knew that they were unpredictable and unstable, and that a dictatorship might not behave in ways
+    we would consider rational. By now I was deeply uneasy. Yet still I do not think that any of us expected an immediate
+    invasion of the Falklands themselves.
+  translation: However, we knew that they were unpredictable and unstable, and that a dictatorship might not behave in ways
+    we would consider rational. By now I was deeply uneasy. Yet still I do not think that any of us expected an immediate
+    invasion of the Falklands themselves.
+  locator: The Downing Street Years, memoir extract pp. 173–185, account of Wednesday 31 March 1982
+  translation_notes: Exact retrospective memoir passage, published in 1993.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: Barbero closely paraphrases a continuous memoir passage while changing person and emphasis.
+- id: Q-010
+  barbero_utterances:
+  - U-00514–U-00524
+  barbero_timestamp: '33:38'
+  attribution: Margaret Thatcher telegram to Ronald Reagan, 31 March 1982
+  quotation_kind: near-direct
+  source_id: SRC-004
+  original_language: en
+  original_text: You will know about the disturbing intelligence reports which we have received indicating that the Argentine
+    Navy could be preparing to invade the Falkland Islands within the next 48 hours. [...] I am asking you to intervene with
+    President Galtieri and to seek his immediate assurance that there will be no Argentine landing on the Falkland Islands
+    and no hostilities against our troops.
+  translation: You will know about the disturbing intelligence reports which we have received indicating that the Argentine
+    Navy could be preparing to invade the Falkland Islands within the next 48 hours. [...] I am asking you to intervene with
+    President Galtieri and to seek his immediate assurance that there will be no Argentine landing on the Falkland Islands
+    and no hostilities against our troops.
+  locator: FRUS 1981–1988, vol. XIII, doc. 28, London, 31 March 1982, 2025Z
+  translation_notes: Two exact excerpts from one message, with the omission disclosed.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: The complete telegram is published in the official FRUS edition. Barbero accurately compresses its warning
+    and request.
+- id: Q-011
+  barbero_utterances:
+  - U-00532–U-00567
+  barbero_timestamp: '34:42'
+  attribution: Jim Rentschler diary, 1 April 1982
+  quotation_kind: composite
+  source_id: SRC-005
+  original_language: en
+  original_text: Reach out and touch someone. [...] The Bell System never had to deal with General Leopoldo Galtieri. [...]
+    speaking first in broken mafioso-type English [...] he sounds like a thug [...] whose machismo [...] will propel him forward
+    in whatever direction he is headed.
+  translation: Reach out and touch someone. [...] The Bell System never had to deal with General Leopoldo Galtieri. [...]
+    speaking first in broken mafioso-type English [...] he sounds like a thug [...] whose machismo [...] will propel him forward
+    in whatever direction he is headed.
+  locator: Rentschler Falklands diary, entry headed Thursday 1 April 1982, fols. 149–150
+  translation_notes: Composite of exact excerpts from one continuous diary entry; omissions are explicit. The entry heading
+    is 1 April, while the described London events continued after midnight.
+  confidence: high
+  status: resolved
+  verdict: composite
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: The diary directly supports Barbero’s Bell, gangster-English, thug, and machismo details. It is a near-contemporary
+    personal diary, not an official transcript of the call.
+- id: Q-012
+  barbero_utterances:
+  - U-00598–U-00616
+  barbero_timestamp: '39:10'
+  attribution: Ronald Reagan message to Margaret Thatcher, 1 April 1982
+  quotation_kind: near-direct
+  source_id: SRC-006
+  original_language: en
+  original_text: While we have a policy of neutrality on the sovereignty issue, we will not be neutral on the issue of Argentine
+    use of military force.
+  translation: While we have a policy of neutrality on the sovereignty issue, we will not be neutral on the issue of Argentine
+    use of military force.
+  locator: FRUS 1981–1988, vol. XIII, doc. 42, Washington, 2 April 1982, 0245Z
+  translation_notes: Exact sentence from Reagan’s written reply; dated 2 April in Washington transmission records, though
+    the crisis narrative begins on 1 April.
+  confidence: high
+  status: resolved
+  verdict: confirmed
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: Official FRUS text confirms the distinction exactly.
+- id: Q-013
+  barbero_utterances:
+  - U-00646–U-00669
+  barbero_timestamp: '42:16'
+  attribution: Margaret Thatcher memoir
+  quotation_kind: composite
+  source_id: SRC-002
+  original_language: en
+  original_text: I was presented with the dangers of a backlash against the British expatriates in Argentina, problems about
+    getting support in the UN Security Council, the lack of reliance we could place on the European Community or the United
+    States, the risk of the Soviets becoming involved, the disadvantage of being looked at as a colonial power. [...] That
+    a common or garden dictator should rule over the Queen’s subjects and prevail by fraud and violence? Not while I was Prime
+    Minister.
+  translation: I was presented with the dangers of a backlash against the British expatriates in Argentina, problems about
+    getting support in the UN Security Council, the lack of reliance we could place on the European Community or the United
+    States, the risk of the Soviets becoming involved, the disadvantage of being looked at as a colonial power. [...] That
+    a common or garden dictator should rule over the Queen’s subjects and prevail by fraud and violence? Not while I was Prime
+    Minister.
+  locator: The Downing Street Years, memoir extract pp. 173–185, account of Foreign Office advice received Friday 2 April
+  translation_notes: Composite of exact excerpts from one memoir passage; omissions are explicit. Retrospective memoir evidence,
+    published in 1993.
+  confidence: high
+  status: resolved
+  verdict: composite
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: Every component is recoverable in one disclosed memoir passage. Barbero’s list is close but not verbatim.
+- id: Q-014
+  barbero_utterances:
+  - U-00713–U-00718
+  barbero_timestamp: '46:03'
+  attribution: Margaret Thatcher, House of Commons, 3 April 1982
+  quotation_kind: near-direct
+  source_id: SRC-007
+  original_language: en
+  original_text: I am sure that the whole House will join me in condemning totally this unprovoked aggression by the Government
+    of Argentina against British territory. It has not a shred of justification and not a scrap of legality.
+  translation: I am sure that the whole House will join me in condemning totally this unprovoked aggression by the Government
+    of Argentina against British territory. It has not a shred of justification and not a scrap of legality.
+  locator: HC Deb 3 April 1982, vol. 21, c. 633
+  translation_notes: Exact Hansard wording.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: Barbero condenses two adjacent sentences from Thatcher’s opening statement.
+- id: Q-015
+  barbero_utterances:
+  - U-00742–U-00768
+  barbero_timestamp: '47:47'
+  attribution: Enoch Powell, House of Commons, 3 April 1982
+  quotation_kind: near-direct
+  source_id: SRC-007
+  original_language: en
+  original_text: The Prime Minister, shortly after she came into office, received a soubriquet as the “Iron Lady”. [...] In
+    the next week or two this House, the nation and the right hon. Lady herself will learn of what metal she is made.
+  translation: The Prime Minister, shortly after she came into office, received a soubriquet as the “Iron Lady”. [...] In
+    the next week or two this House, the nation and the right hon. Lady herself will learn of what metal she is made.
+  locator: HC Deb 3 April 1982, vol. 21, Enoch Powell speech at c. 650
+  translation_notes: Two exact excerpts from one speech, with an omission disclosed.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: Hansard confirms Powell’s challenge and its metallurgy metaphor.
+- id: Q-016
+  barbero_utterances:
+  - U-00817–U-00838
+  barbero_timestamp: '52:23'
+  attribution: Margaret Thatcher interview, 5 April 1982
+  quotation_kind: composite
+  source_id: SRC-008
+  original_language: en
+  original_text: Our objective is to recover the Falkland islands. We have to do what is necessary. [...] I wouldn’t talk
+    in terms of war. A declaration of war is something different. [...] When you stop a dictator there are always risks but
+    there are great risks in not stopping a dictator. My generation learned that a long time ago.
+  translation: Our objective is to recover the Falkland islands. We have to do what is necessary. [...] I wouldn’t talk in
+    terms of war. A declaration of war is something different. [...] When you stop a dictator there are always risks but there
+    are great risks in not stopping a dictator. My generation learned that a long time ago.
+  locator: ITN interview at 10 Downing Street, 5 April 1982, answers to Glyn Mathias on military objectives, war, and risk
+  translation_notes: Composite of exact excerpts from separate answers in one interview; boundaries and omissions are disclosed.
+  confidence: high
+  status: resolved
+  verdict: composite
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: The interview transcript supports each component, but Barbero combines distinct answers into one dramatic
+    sequence.
+- id: Q-017
+  barbero_utterances:
+  - U-00849–U-00864
+  barbero_timestamp: '54:09'
+  attribution: Peter Carrington resignation and Margaret Thatcher response
+  quotation_kind: composite
+  source_id: SRC-008
+  original_language: en
+  original_text: He felt that the policy had failed and therefore it was a matter of honour that he should go. [...] It is
+    rather a wonderful thing in politics to have people who feel strongly about honour and who resign.
+  translation: He felt that the policy had failed and therefore it was a matter of honour that he should go. [...] It is rather
+    a wonderful thing in politics to have people who feel strongly about honour and who resign.
+  locator: ITN interview at 10 Downing Street, 5 April 1982, Thatcher’s answer about Carrington’s resignation
+  translation_notes: Two exact excerpts from one answer, with an omission disclosed.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: This is Thatcher’s public characterization of Carrington’s reasoning, not Carrington’s own resignation letter.
+- id: Q-018
+  barbero_utterances:
+  - U-00868–U-00890
+  barbero_timestamp: '55:43'
+  attribution: Unnamed Argentine politician in a US intelligence report
+  quotation_kind: paraphrase
+  source_id: null
+  original_language: en
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: low
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  human_reviewed: true
+  research_note: No identifiable politician, intelligence report, or stable original wording was recovered for the claim that
+    “a serious country does not go to war over two little islands.” The attribution is too vague for source replacement; retain
+    only as an explicitly anonymous reported judgment or omit in adaptation.
+  decision_note: 'Human reviewed: retain Barbero’s original wording in the English adaptation.'
+- id: Q-019
+  barbero_utterances:
+  - U-00915–U-00921
+  barbero_timestamp: '58:31'
+  attribution: The Economist obituary of Leopoldo Galtieri
+  quotation_kind: near-direct
+  source_id: SRC-012
+  original_language: en
+  original_text: He might have been forgiven by at least some of his fellow Argentines for his ruthlessness, but not for his
+    stupidity.
+  translation: He might have been forgiven by at least some of his fellow Argentines for his ruthlessness, but not for his
+    stupidity.
+  locator: The Economist, “Leopoldo Galtieri,” 16 January 2003, closing sentence
+  translation_notes: Exact indexed English wording. Direct page access is paywalled, which should be disclosed if reproduced.
+  confidence: medium
+  status: resolved
+  verdict: confirmed
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: The exact closing sentence is consistently indexed and cited, although the publisher page was not fully accessible
+    in this research environment.
+- id: Q-020
+  barbero_utterances:
+  - U-00929–U-00937
+  barbero_timestamp: '59:18'
+  attribution: Enoch Powell, postwar House of Commons remark
+  quotation_kind: near-direct
+  source_id: SRC-009
+  original_language: en
+  original_text: It shows that the substance under test consisted of ferrous matter of the highest quality, that it is of
+    exceptional tensile strength, is highly resistant to wear and tear and to stress, and may be used with advantage for all
+    national purposes.
+  translation: It shows that the substance under test consisted of ferrous matter of the highest quality, that it is of exceptional
+    tensile strength, is highly resistant to wear and tear and to stress, and may be used with advantage for all national
+    purposes.
+  locator: HC Deb 17 June 1982, Prime Minister’s Questions, Enoch Powell
+  translation_notes: Exact Hansard sentence. Thatcher replied, “I think that I am very grateful indeed. I agree with every
+    word.”
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: Barbero accurately paraphrases Powell’s elaborate callback to the Iron Lady challenge.
+- id: Q-021
+  barbero_utterances:
+  - U-00940–U-00955
+  barbero_timestamp: '60:04'
+  attribution: Margaret Thatcher postwar speech
+  quotation_kind: near-direct
+  source_id: SRC-010
+  original_language: en
+  original_text: What really thrilled me, having spent so much of my lifetime in Parliament, and talking about things like
+    inflation, Social Security benefits, housing problems, environmental problems and so on, is that when it really came to
+    the test, what’s thrilled people wasn’t those things, what thrilled people was once again being able to serve a great
+    cause, the cause of liberty.
+  translation: What really thrilled me, having spent so much of my lifetime in Parliament, and talking about things like inflation,
+    Social Security benefits, housing problems, environmental problems and so on, is that when it really came to the test,
+    what’s thrilled people wasn’t those things, what thrilled people was once again being able to serve a great cause, the
+    cause of liberty.
+  locator: Scottish Conservative Party Conference, City Hall, Perth, 14 May 1982; unscripted remarks after Thatcher returned
+    to the rostrum
+  translation_notes: Exact transcript sentence. This was spoken during the war, not after victory; Argentine forces surrendered
+    one month later.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: Barbero accurately conveys the sentence but misplaces it after the war. The primary transcript dates it 14
+    May 1982, while combat was ongoing.

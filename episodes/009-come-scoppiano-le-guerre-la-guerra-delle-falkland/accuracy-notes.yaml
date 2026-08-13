@@ -1,0 +1,108 @@
+- id: N-001
+  transcript: [U-00006–U-00013]
+  claim_ids: [C-001]
+  quotation_ids: []
+  source_ids: [SRC-020]
+  category: material-uncertainty
+  original_assertion: The Falklands War was the only post-1945 war between two major Western capitalist US allies.
+  proposed_correction: The Falklands War is a rare post-1945 war between two countries aligned with the West and friendly with the United States.
+  decision: retain-original
+- id: N-002
+  transcript: [U-00127–U-00134]
+  claim_ids: [C-004]
+  quotation_ids: []
+  source_ids: [SRC-017]
+  category: factual-error
+  original_assertion: Argentine inflation was 600 percent in late 1981.
+  proposed_correction: Argentina is suffering from triple-digit inflation, widespread poverty, and daily union protests.
+  decision: retain-original
+- id: N-003
+  transcript: [U-00377–U-00396]
+  claim_ids: [C-011]
+  quotation_ids: []
+  source_ids: [SRC-001, SRC-007]
+  category: misleading-compression
+  original_assertion: Some of the scrap-metal workers landing on South Georgia were commandos led by Alfredo Astiz.
+  proposed_correction: The civilian scrap-metal expedition is followed and reinforced by Argentine naval personnel, including a detachment commanded by Alfredo Astiz.
+  decision: apply
+- id: N-004
+  transcript: [U-00493–U-00510]
+  claim_ids: [C-014]
+  quotation_ids: []
+  source_ids: [SRC-002, SRC-007]
+  category: misleading-compression
+  original_assertion: Thatcher could order the fleet assembled without a parliamentary vote because this was not yet war.
+  proposed_correction: Thatcher can authorize the fleet’s assembly under executive authority; she gives Leach that authority and reserves the decision to sail for Cabinet.
+  decision: retain-original
+- id: N-005
+  transcript: [U-00642–U-00669]
+  claim_ids: [C-017]
+  quotation_ids: [Q-013]
+  source_ids: [SRC-002]
+  category: misleading-compression
+  original_assertion: Cabinet dispatched the task force despite institutional opposition from the Foreign Office.
+  proposed_correction: Cabinet dispatches the task force after considering the diplomatic and strategic risks raised by the Foreign Office.
+  decision: retain-original
+- id: N-006
+  transcript: [U-00713–U-00739]
+  claim_ids: [C-019]
+  quotation_ids: [Q-014]
+  source_ids: [SRC-007]
+  category: factual-error
+  original_assertion: Parliament voted in favor of sending the fleet.
+  proposed_correction: In a recalled adjournment debate, the Commons gives the government’s decision to send the fleet nearly unanimous political backing, without holding a substantive authorization vote on the deployment.
+  decision: retain-original
+- id: N-007
+  transcript: [U-00769–U-00784]
+  claim_ids: [C-019]
+  quotation_ids: []
+  source_ids: [SRC-018]
+  category: factual-error
+  original_assertion: Polls showed 80 percent wanted the Falklands retaken and a majority immediately favored force.
+  proposed_correction: Polls show strong opposition to transferring sovereignty to Argentina, while support for risking British service members’ lives starts below half in mid-April and rises above half as the campaign continues.
+  decision: apply
+- id: N-008
+  transcript: [U-00892–U-00903]
+  claim_ids: [C-022]
+  quotation_ids: []
+  source_ids: [SRC-014, SRC-015, SRC-016, SRC-022]
+  category: factual-error
+  original_assertion: The war killed 649 Argentines, 258 English people, and three Falkland civilians.
+  proposed_correction: The war costs 649 Argentine lives and 255 British task-force lives, as well as the lives of three Falkland Island civilians.
+  decision: apply
+- id: N-009
+  transcript: [U-00902–U-00915]
+  claim_ids: [C-023]
+  quotation_ids: []
+  source_ids: [SRC-014, SRC-024]
+  category: factual-error
+  original_assertion: Galtieri resigned on 18 June, four days after the surrender, and the dictatorship then ended.
+  proposed_correction: Galtieri resigns on June 17, three days after the surrender; another general takes over, but defeat accelerates the junta’s collapse and Argentina returns to elected civilian government in December 1983.
+  decision: apply
+- id: N-010
+  transcript: [U-00921–U-00938]
+  claim_ids: [C-024]
+  quotation_ids: []
+  source_ids: [SRC-019, SRC-023]
+  category: misleading-compression
+  original_assertion: The Falklands War created Thatcher and directly produced her 1983 landslide.
+  proposed_correction: The victory transforms Thatcher’s standing and contributes substantially to her 1983 landslide, alongside economic recovery, Labour’s weakness, and the split opposition.
+  decision: retain-original
+- id: N-011
+  transcript: [U-00943–U-00956]
+  claim_ids: []
+  quotation_ids: [Q-021]
+  source_ids: [SRC-010]
+  category: factual-error
+  original_assertion: Thatcher delivered the “great cause, the cause of liberty” passage a few weeks after the war ended.
+  proposed_correction: During the war, at the Scottish Conservative Party Conference on May 14, Thatcher says that people are thrilled to serve “a great cause, the cause of liberty.”
+  decision: apply
+- id: N-012
+  transcript: [U-00300–U-00320]
+  claim_ids: [C-009]
+  quotation_ids: []
+  source_ids: [SRC-001, SRC-002]
+  category: disputed
+  original_assertion: British intelligence failed throughout March because it was convinced Argentina was bluffing.
+  proposed_correction: British assessments repeatedly discount an immediate full-scale invasion through March, although the Franks inquiry later concludes that there was no clear reason before March 31 to expect an invasion at the start of April.
+  decision: retain-original
