@@ -34,6 +34,15 @@ markers, approved corrections, and exact authoritative quotation wording. You ma
 rebuild individual sentences and paragraphs, but do not reorder episodes, remove an argument, add a
 transition or judgment, introduce new facts or qualifications, or edit another chapter.
 
+Treat an authoritative quotation and Barbero's adjacent comments as a single spoken unit. Preserve
+the input's alternation when source excerpts are separated by his explanation; do not reunite the
+excerpts and move the explanation after them. Do not restore a contextual translation, summary, or
+representation from the Italian when the authoritative wording in the input has already replaced
+it. Remove an accidental adjacent echo only when the source wording fully carries the same content;
+retain commentary that interprets, reacts to, or develops the quotation. Read each such unit aloud
+and confirm that the listener hears every point once and receives each explanation immediately
+after the words it explains.
+
 Replace literal discourse calques with context-appropriate American English. In particular, do not
 use “at a certain point” as a generic rendering of Italian *a un certo punto*. Depending on its
 meaning, use natural wording such as “then,” “eventually,” “at one point,” or “there comes a point

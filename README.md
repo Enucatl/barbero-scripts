@@ -87,8 +87,9 @@ quotation's attribution, wording, translation, locator, verdict, and replacement
 a close language-model translation of each
 complete Italian chapter into `script.translation.faithful.en.md`, and a distinct quotation replacement
 pass producing `script.translation.en.md`. Only `source_replacement: eligible` records supply exact
-ledger wording; all other quotations retain Barbero's contextual translation. Accuracy review and
-human decisions produce `script.corrected.en.md`. A tense-only chapter review under `tense/`
+ledger wording; it replaces the corresponding contextual rendering and may remain split around
+Barbero's original interspersed commentary. All other quotations retain Barbero's contextual
+translation. Accuracy review and human decisions produce `script.corrected.en.md`. A tense-only chapter review under `tense/`
 produces `script.tense.en.md`. Each tense-reviewed chapter then receives an assertive spoken-English
 review under `naturalness/`; their verbatim assembly is `script.spoken.en.md`. A narrow whole-episode
 consistency pass produces `script.en.md` without restructuring or new transitions.

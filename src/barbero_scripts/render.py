@@ -364,6 +364,36 @@ def _normalized_wording(text: str) -> str:
     return " ".join(text.split())
 
 
+def _word_tokens(text: str) -> list[str]:
+    """Return comparable lexical tokens while ignoring quote-boundary typography."""
+    return [
+        token.casefold() for token in re.findall(r"[^\W_]+(?:['’][^\W_]+)*", text, flags=re.UNICODE)
+    ]
+
+
+def _contains_authoritative_wording(authoritative: str, candidate: str) -> bool:
+    """Accept exact source wording either continuously or split at clause boundaries."""
+    if _normalized_wording(authoritative) in _normalized_wording(candidate):
+        return True
+
+    candidate_tokens = _word_tokens(candidate)
+    segments = [
+        tokens
+        for clause in re.split(r"[,;:.!?]+", authoritative)
+        if (tokens := _word_tokens(clause))
+    ]
+    cursor = 0
+    for segment in segments:
+        limit = len(candidate_tokens) - len(segment) + 1
+        for start in range(cursor, limit):
+            if candidate_tokens[start : start + len(segment)] == segment:
+                cursor = start + len(segment)
+                break
+        else:
+            return False
+    return bool(segments)
+
+
 def validate_episode(directory: Path) -> list[str]:
     errors: list[str] = []
     transcript_path = directory / "transcript.it.md"
@@ -544,8 +574,8 @@ def validate_episode(directory: Path) -> list[str]:
             replacement = item.get("translation")
             if item.get("source_replacement") == "eligible" and replacement:
                 for stage in ("translation", "corrected", "tense", "spoken", "final"):
-                    if stage in texts and _normalized_wording(str(replacement)) not in (
-                        _normalized_wording(texts[stage])
+                    if stage in texts and not _contains_authoritative_wording(
+                        str(replacement), texts[stage]
                     ):
                         errors.append(f"{stage} does not use eligible wording for {identifier}")
     if italian_first:

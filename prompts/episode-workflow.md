@@ -19,8 +19,11 @@ in the episode directory.
 4. Use `faithful-assembly.md` to translate `script.it.md` directly, chapter by chapter, into
    `script.translation.faithful.en.md`. Do not translate isolated utterances or use Google
    Translate. Translate Barbero's quotations contextually; do not use recovered source wording yet.
+   Preserve any alternation between quoted fragments and Barbero's commentary.
 5. Use `quotation-replacement.md` as a separate pass to create `script.translation.en.md`.
-   Substitute exact ledger wording only for `source_replacement: eligible`.
+   Substitute ledger wording only for `source_replacement: eligible`. Replace the corresponding
+   contextual rendering instead of duplicating it, and split a long replacement at matching clause
+   boundaries when that preserves Barbero's interspersed explanation.
 6. Run `accuracy-review.md`. Human gate: every note must be `apply` or `retain-original`; any
    `pending` decision blocks all downstream output. Preserve existing human decisions and approved
    corrections when rerunning a pilot.

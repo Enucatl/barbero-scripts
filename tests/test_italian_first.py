@@ -4,6 +4,7 @@ import yaml
 
 from barbero_scripts.render import (
     _chapter_coverage,
+    _contains_authoritative_wording,
     _validate_exact_coverage,
     assemble_italian_script,
     assemble_naturalness_chapters,
@@ -14,6 +15,19 @@ from barbero_scripts.render import (
     initialize_tense_chapters,
     validate_episode,
 )
+
+
+def test_authoritative_wording_may_be_split_around_commentary() -> None:
+    authoritative = "First source clause, then the second source clause."
+    interleaved = "“First source clause.” Commentary on it. “Then the second source clause.”"
+
+    assert _contains_authoritative_wording(authoritative, interleaved)
+    assert not _contains_authoritative_wording(
+        authoritative, "“Then the second source clause.” Commentary. “First source clause.”"
+    )
+    assert not _contains_authoritative_wording(
+        authoritative, "“First source clause.” Commentary without the second clause."
+    )
 
 
 def test_exact_coverage_rejects_gap_overlap_reversal_and_duplicate() -> None:
