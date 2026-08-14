@@ -1,0 +1,198 @@
+- id: SRC-001
+  author: Ildefonso Falcones
+  title: La catedral del mar
+  date: "2006"
+  original_language: es
+  identifier: "Barcelona: Grijalbo, ISBN 9788425340031; text checked in supplied Titivillus ePub base r1.2 (19 February 2018)"
+  url: "https://books.google.com.ni/books?id=Xyk9AAAACAAJ"
+  access_date: "2026-08-14"
+  locator: "Primera parte, Siervos de la tierra, chapter 1; Llorenç de Bellera at Bernat Estanyol and Francesca's wedding in Navarcles"
+- id: SRC-002
+  author: Randall Wallace
+  title: Braveheart screenplay
+  date: "1995"
+  original_language: en
+  identifier: "Screenplay for the 1995 film directed by Mel Gibson"
+  url: "https://imsdb.com/scripts/Braveheart.html"
+  access_date: "2026-08-14"
+  locator: "Longshanks's council scene introducing primae noctis"
+- id: SRC-003
+  author: Anonymous Burgundian compiler
+  title: Les Cent Nouvelles nouvelles
+  date: "1464–1467"
+  original_language: frm
+  identifier: "Arlima work record; manuscript and edition census"
+  url: "https://www.arlima.net/ad/cent_nouvelles_nouvelles.html"
+  access_date: "2026-08-14"
+  locator: "Nouvelles XXIV (La Botte à demi) and XXXII (Les Dames dismées)"
+- id: SRC-004
+  author: Anonymous monk of Mont-Saint-Michel
+  title: Dit des vilains de Verson
+  date: "ca. 1270"
+  original_language: fro
+  identifier: "Léopold Delisle, Études sur la condition de la classe agricole, 1851"
+  url: "https://upload.wikimedia.org/wikipedia/commons/0/09/Bulletin_de_la_Soci%C3%A9t%C3%A9_de_l%27histoire_de_France_%28IA_BulletinDeLaSocieteDeLHistoireDeFrance1857%29.pdf"
+  access_date: "2026-08-14"
+  locator: "Bulletin de la Société de l'histoire de France (1857), p. 425; lines beginning 'Se vilain sa fille marie'"
+- id: SRC-005
+  author: Giovan Francesco Rebaccini
+  title: Cronica loci Cunei
+  date: "1484"
+  original_language: it
+  identifier: "Piero Camilla ed., La più antica cronaca di Cuneo (1981)"
+  url: "https://www.cuneodice.it/cultura/cuneo-e-valli/ius-primae-noctis-nacque-a-cuneo-la-leggenda-nera-del-medioevo_27087.html"
+  access_date: "2026-08-14"
+  locator: "Passage listing seigneurial abuses near the conclusion of the foundation narrative"
+- id: SRC-006
+  author: Alain Boureau
+  title: Le droit de cuissage. La fabrication d'un mythe (XIIIe–XXe siècle)
+  date: "1995"
+  original_language: fr
+  identifier: "Paris: Albin Michel, ISBN 9782226076342"
+  url: "https://www.albin-michel.fr/le-droit-de-cuissage-9782226076342"
+  access_date: "2026-08-14"
+  locator: "Whole monograph; bibliography pp. 291–305 and index"
+- id: SRC-007
+  author: Francisco López de Gómara
+  title: Historia de las Indias
+  date: "1552"
+  original_language: es
+  identifier: "Casa de Velázquez digital scholarly edition"
+  url: "https://books.openedition.org/cvz/39243?lang=en"
+  access_date: "2026-08-14"
+  locator: "Editorial history; royal order withdrawing the book"
+- id: SRC-008
+  author: Bartolomé de las Casas
+  title: Historia de las Indias
+  date: "1875–1876"
+  original_language: es
+  identifier: "First printed edition of the sixteenth-century manuscript"
+  url: "https://es.wikisource.org/wiki/Historia_de_las_Indias"
+  access_date: "2026-08-14"
+  locator: "Criticism of Gómara as Cortés's dependent and for calumniating Indigenous peoples"
+- id: SRC-009
+  author: John Fletcher and Philip Massinger
+  title: The Custom of the Country
+  date: "ca. 1619–1620"
+  original_language: en
+  identifier: "Folger Early Modern English Drama, Wing B1581 / ESTC R22900"
+  url: "https://emed.folger.edu/cc"
+  access_date: "2026-08-14"
+  locator: "Act I; Clodio's claim over Zenocia; first printed in the 1647 Beaumont and Fletcher folio"
+- id: SRC-010
+  author: John Fletcher and Philip Massinger
+  title: The Custom of the Country
+  date: "ca. 1619–1620"
+  original_language: en
+  identifier: "Project Gutenberg ebook 12039, Glover edition"
+  url: "https://www.gutenberg.org/ebooks/12039"
+  access_date: "2026-08-14"
+  locator: "Act I, opening conflict among Clodio, Zenocia, Arnoldo, and Charino"
+- id: SRC-011
+  author: Hector Boece
+  title: Scotorum Historia a prima gentis origine
+  date: "1527"
+  original_language: la
+  identifier: "University of Birmingham Philological Museum critical digital edition"
+  url: "https://philological.cal.bham.ac.uk/boece/3lat.html"
+  access_date: "2026-08-14"
+  locator: "Book III, sections 16–17, especially lines 82–83"
+- id: SRC-012
+  author: Charles du Fresne Du Cange et al.
+  title: Glossarium mediae et infimae latinitatis
+  date: "1883–1887"
+  original_language: la
+  identifier: "Favre revised edition; first edition 1678"
+  url: "https://ducange.enc.sorbonne.fr/"
+  access_date: "2026-08-14"
+  locator: "Entries Marcheta/Marchetum and Culagium; later edition incorporates dependent references"
+- id: SRC-013
+  author: Jörg Wettlaufer
+  title: Das Herrenrecht der ersten Nacht
+  date: "1999"
+  original_language: de
+  identifier: "Frankfurt/New York: Campus, ISBN 9783593362465"
+  url: "https://www.heimatgilde-frohsinn.de/_downloads/Wettlaufer_Herrenrecht.pdf"
+  access_date: "2026-08-14"
+  locator: "Marriage dues and culagium pp. 122–123; Boece and Scottish merchet discussion"
+- id: SRC-014
+  author: Giulio Cesare Cordara
+  title: Il fodero o sia il jus sulle spose degli antichi signori
+  date: "1788"
+  original_language: it
+  identifier: "First edition under the pseudonym Veridico Colombo Giulio; second edition Turin 1789"
+  url: "https://it.wikisource.org/wiki/Poemetti_italiani%2C_vol._II/Memorie_dell%27Abate_Cordara"
+  access_date: "2026-08-14"
+  locator: "Twelve-canto mock-heroic poem on the legendary foundation of Nizza della Paglia"
+- id: SRC-015
+  author: "A. Vacandard"
+  title: "Droit du seigneur"
+  date: "1911"
+  original_language: fr
+  identifier: "Dictionnaire apologétique de la foi catholique"
+  url: "https://fr.wikisource.org/wiki/Dictionnaire_apolog%C3%A9tique_de_la_foi_catholique/Droit_du_seigneur"
+  access_date: "2026-08-14"
+  locator: "Amiens/Abbeville section quoting Parlement decisions of 1398, 1401, 1409, and 1501"
+- id: SRC-016
+  author: George Orwell
+  title: Nineteen Eighty-Four
+  date: "1949"
+  original_language: en
+  identifier: "Part One, chapter 7"
+  url: "https://george-orwell.org/1984/6.html"
+  access_date: "2026-08-14"
+  locator: "Part One, chapter 7; Winston reflects on the children's history textbook"
+- id: SRC-017
+  author: Larousse
+  title: "Cuissage (droit de), Dictionnaire de l'Histoire de France"
+  date: "2005"
+  original_language: fr
+  identifier: "Larousse historical dictionary archive"
+  url: "https://www.larousse.fr/archives/histoire_de_france/page/332"
+  access_date: "2026-08-14"
+  locator: "Entry on Verson, later medieval declarations, and the historiographical myth"
+- id: SRC-018
+  author: Anonymous Burgundian compiler, formerly attributed to Antoine de la Sale
+  title: The Hundred Tales (Les Cent Nouvelles Nouvelles)
+  date: "1960"
+  original_language: en
+  identifier: "Rossell Hope Robbins trans.; New York: Bonanza Books; LCCN 60-15389; Internet Archive hundredtaleslesc00robb"
+  url: "https://archive.org/details/hundredtaleslesc00robb"
+  access_date: "2026-08-14"
+  locator: "Tale XXIV, The Boot, pp. 93–96; Tale XXXII, The Women Who Paid Tithes, pp. 136–144"
+- id: SRC-019
+  author: Alain Boureau
+  title: "The Lord's First Night: The Myth of the Droit de Cuissage"
+  date: "1998"
+  original_language: en
+  identifier: "Lydia G. Cochrane trans.; Chicago: University of Chicago Press; ISBN 0-226-06742-4 and 0-226-06743-2"
+  url:
+  access_date: "2026-08-14"
+  locator: "Chapter 1, pp. 21–25; notes pp. 245–246; chronological bibliography pp. 278–279"
+- id: SRC-020
+  author: Alvise Cadamosto
+  title: The Voyages of Cadamosto and Other Documents on Western Africa in the Second Half of the Fifteenth Century
+  date: "1937"
+  original_language: en
+  identifier: "G. R. Crone trans. and ed.; Hakluyt Society, Second Series 80; London"
+  url: "https://webspace.science.uu.nl/~gent0113/downloads/hs2/Secondary%20Literature/AngularUnits/Cadamosto/Crone/the_voyages_of_cadamosto_000_014.pdf"
+  access_date: "2026-08-14"
+  locator: "Chapters VII–VIII, pp. 11–14; Tenerife marriage report p. 13 and Cadamosto's itinerary p. 14"
+- id: SRC-021
+  author: Laura Sabina González Carracedo
+  title: El mito de las Afortunadas y la colonialidad de género. Cambios y pervivencias en las representaciones de las mujeres canarias
+  date: "2023"
+  original_language: es
+  identifier: "Cliocanarias 5, DOI 10.53335/cliocanarias.2023.5.00"
+  url: "https://cliocanarias.com/wp-content/uploads/2023/08/3_carracedo_MITO_AFORTUNADAS.pdf"
+  access_date: "2026-08-14"
+  locator: "Discussion of Cadamosto's Tenerife marriage report and its colonial gender framing"
+- id: SRC-022
+  author: Bonifacio Vannozzi
+  title: Della suppellettile degli avvertimenti politici, morali e christiani, volume secondo
+  date: "1610"
+  original_language: it
+  identifier: "Bologna: eredi di Giovanni Rossi; Google Books/Play ID LF-6BVLFVhkC"
+  url: "https://play.google.com/store/books/details?id=LF-6BVLFVhkC"
+  access_date: "2026-08-14"
+  locator: "Printed p. 253, immediately before avvertimento 530; Cardinal Hieronimo della Rovere and the burned privilege"

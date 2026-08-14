@@ -1,0 +1,277 @@
+---
+- id: Q-001
+  barbero_utterances:
+  - U-00053–U-00058
+  barbero_timestamp: '02:04'
+  attribution: Ildefonso Falcones, La catedral del mar
+  quotation_kind: near-direct
+  source_id: SRC-001
+  original_language: es
+  original_text: >-
+    En uso del derecho que como señor tuyo me corresponde, he decidido yacer con tu mujer en su primera noche. […] Ahora te toca a ti. […] ¡Cumple como un buen esposo cristiano!
+  translation: >-
+    In exercise of the right that belongs to me as your lord, I have decided to lie with your wife on her first night. […] Now it is your turn. […] Do your duty as a good Christian husband!
+  locator: >-
+    Primera parte, Siervos de la tierra, chapter 1 ("Año 1320, Masía de Bernat Estanyol, Navarcles, Principado de Cataluña"); Llorenç de Bellera's announcement and his words after returning downstairs
+  translation_notes: >-
+    Direct translation of two discontinuous dialogue excerpts from the supplied Spanish e-text. Barbero translates them closely while compressing the intervening narration; the bracketed ellipses mark omitted source text.
+  confidence: high
+  status: resolved
+  verdict: confirmed
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: >-
+    The supplied full text confirms the setting, narrative sequence, explicit invocation of a seigneurial right, and both lines rendered by Barbero. Witness: Titivillus ePub base r1.2 (19 February 2018), which has no stable print pagination.
+- id: Q-002
+  barbero_utterances:
+  - U-00085–U-00102
+  barbero_timestamp: '03:44'
+  attribution: King Edward I in Braveheart
+  quotation_kind: paraphrase
+  source_id: SRC-002
+  original_language: en
+  original_text: Perhaps the time has come to reinstitute an old custom. Grant them primae noctis. First night.
+  translation: Perhaps the time has come to reinstitute an old custom. Grant them primae noctis. First night.
+  locator: Screenplay, Longshanks's council scene, before the decree is announced in Edinburgh
+  translation_notes: Barbero preserves the old-custom and breed-out logic but compresses and rearranges the screenplay dialogue.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: not-applicable
+  human_reviewed: true
+  research_note: Direct English screenplay witness; Barbero's passage is a paraphrase, not one continuous quotation.
+- id: Q-003
+  barbero_utterances:
+  - U-00205–U-00242
+  barbero_timestamp: '12:52'
+  attribution: Les Cent Nouvelles nouvelles, tale 24
+  quotation_kind: paraphrase
+  source_id: SRC-018
+  original_language: frm
+  original_text:
+  translation: >-
+    In regard to his lordship, the count, she was, saving his honor, one who wanted to obey him, respect him, and serve him in all things. But what he would seek of her was against her virtue, which she held as dear as her life. […] “Since I must obey you,” said she, “I ask that you do me the honor not to dirty me with your dirty riding boots, which are covered with mud and dung, and then I'll satisfy you as to the rest.” […] She purposely pulled it at a wrong angle so that it stuck about halfway off. Then she ran away as fast as her legs could carry her.
+  locator: >-
+    Tale XXIV, “The Boot,” printed pp. 93–96 (PDF pp. 123–126), especially pp. 93–95
+  translation_notes: >-
+    Exact excerpts from Rossell Hope Robbins's 1960 English translation, joined with bracketed omissions. The Middle French text was not supplied. Barbero accurately summarizes the scene but changes the tight-fitting riding boot into trousers or breeches and omits that the intermediary is a doctor.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: not-applicable
+  human_reviewed: true
+  research_note: >-
+    Robbins confirms the proposal, the maiden's defense of her honor, the encounter while she cuts grass, the half-removed boot trick, her escape, and the count's later arrangement of a favorable marriage at considerable expense. Retain Barbero's contextual translation because he summarizes an extended narrative rather than quoting one clean passage.
+- id: Q-004
+  barbero_utterances:
+  - U-00265–U-00275
+  barbero_timestamp: '16:30'
+  attribution: Les Cent Nouvelles nouvelles, tale about Franciscans in Girona
+  quotation_kind: paraphrase
+  source_id: SRC-018
+  original_language: frm
+  original_text:
+  translation: >-
+    Just as you render to the lord of the manor a tenth part of such and such, and to your parish and curé a tithe of this and that other, so to us friars must you pay a tenth of the number of times you have intercourse with your husbands. […] “Indeed, it's been going on for a mighty long time,” she said, “a tenth of our nights together.” […] The last and final decision they took was to go and set fire to the monastery and burn both friars and establishment together.
+  locator: >-
+    Tale XXXII, “The Women Who Paid Tithes,” printed pp. 136, 138–139, and 144 (PDF pp. 166, 168–169, and 174)
+  translation_notes: >-
+    Exact excerpts from Rossell Hope Robbins's 1960 English translation, joined with bracketed omissions. The Middle French text was not supplied. The tale is set in Hostalrich, Catalonia, not Girona, and the friars do not invoke papal authorization.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: not-applicable
+  human_reviewed: true
+  research_note: >-
+    Robbins confirms the Observant Franciscans' invented sexual tithe of one encounter in ten, its distribution among several friars, its discovery by the husbands, and the burning of the monastery with the friars inside. Barbero preserves the main plot but relocates it to Girona and adds papal authorization. Retain contextual translation because the passage is an extended paraphrase.
+- id: Q-005
+  barbero_utterances:
+  - U-00395–U-00403
+  barbero_timestamp: '27:20'
+  attribution: La Complainte des vilains de Verson
+  quotation_kind: near-direct
+  source_id: SRC-004
+  original_language: fro
+  original_text: Jadis advint que le vilein ballout sa fille par la mein et la livrout a son seignor.
+  translation: Long ago it happened that the peasant took his daughter by the hand and delivered her to his lord.
+  locator: Dit des vilains de Verson, lines following the three-sou culage stanza; Delisle transcription, Bulletin (1857), p. 425
+  translation_notes: Barbero closely paraphrases the poem's retrospective claim and adds the surrounding alternatives of rent, chattel, or inheritance.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: Primary Old French transcription. The poem was written ca. 1270 after a 1247 compilation; it is not itself securely dated 1247.
+- id: Q-006
+  barbero_utterances:
+  - U-00454–U-00464
+  barbero_timestamp: '31:46'
+  attribution: Giovan Francesco Rebaccini, Cronica loci Cunei
+  quotation_kind: direct
+  source_id: SRC-005
+  original_language: it
+  original_text: Sottomettendo la ragion alla libidine e sensualità, defloravano le figlie de sudditi e parimenti le spose.
+  translation: Submitting reason to lust and sensuality, they deflowered their subjects' daughters and likewise their brides.
+  locator: Cronica loci Cunei (1484), seigneurial-abuses passage; Camilla ed., La più antica cronaca di Cuneo
+  translation_notes: The recovered clause matches Barbero's archaizing Italian closely; his quotation continues with the lords' assertion of ancient privilege.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: not-applicable
+  human_reviewed: true
+  research_note: Direct Italian witness in a modern edition quotation; partial source wording is recovered, so contextual translation should remain for the whole passage.
+- id: Q-007
+  barbero_utterances:
+  - U-00513–U-00522
+  barbero_timestamp: '34:54'
+  attribution: Cadamosto, López de Gómara, and Montaigne on Tenerife and Cuba
+  quotation_kind: composite
+  source_id: SRC-020
+  original_language:
+  original_text:
+  translation: |-
+    Cadamosto, translated by G. R. Crone: Their women are not held in common: but it is lawful for each to take as many as he wishes. They do not marry virgins, unless they have first lain one night with the lord, which is held to be a great honour.
+
+    Montaigne, translated by Jacob Zeitlin: And in another place, if it is a merchant who marries, all the merchants invited to the wedding go to bed with the bride before him; and the greater their number, the greater is her honour and her reputation for strength and capacity; and if an officer marry, it is the same; the same if it is a nobleman, and so of all others except labourers or men of mean condition, for then it is the lord's privilege; and yet a severe loyalty during marriage is strictly enjoined.
+  locator: >-
+    Cadamosto, The Voyages of Cadamosto, chapters VII–VIII, printed pp. 11–14, especially p. 13; Boureau, The Lord's First Night, chapter 1, printed pp. 21–23 and notes 30 and 33 at p. 245
+  translation_notes: >-
+    The two English excerpts have explicit source boundaries. The first is G. R. Crone's translation of Cadamosto; the second is Jacob Zeitlin's translation of Montaigne as quoted by Lydia G. Cochrane's English Boureau. Boureau traces Montaigne's addition to Gómara's Cuban account through Martin Fumée's French translation. No original Italian, French, or Spanish wording was recovered.
+  confidence: high
+  status: resolved
+  verdict: composite
+  source_replacement: not-applicable
+  human_reviewed: true
+  research_note: >-
+    Cadamosto reports the alleged custom in his description of Tenerife, but explicitly bases his knowledge on reports circulating through the Christian-controlled islands and captives; he says he personally visited Gomera and El Hierro and passed Palma, not Tenerife. Barbero turns this secondhand account into a visit. Boureau separately traces the Cuban component from Gómara to Montaigne's transformed social hierarchy and treats the tradition as ideological construction rather than reliable ethnography.
+- id: Q-008
+  barbero_utterances:
+  - U-00539–U-00543
+  barbero_timestamp: '36:39'
+  attribution: Bartolomé de las Casas on Francisco López de Gómara
+  quotation_kind: paraphrase
+  source_id: SRC-008
+  original_language: es
+  original_text: calumniar a los indios
+  translation: to calumniate the Indians
+  locator: Historia de las Indias; criticism of Gómara discussed in the Casa de Velázquez editorial history
+  translation_notes: Barbero expands a documented criticism into modern direct speech. Las Casas was a Dominican friar and bishop, not a Jesuit.
+  confidence: medium
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: not-applicable
+  human_reviewed: true
+  research_note: Las Casas did accuse Gómara of dependence on Cortés and calumniating Indigenous people. Influence on the royal prohibition remains unproved.
+- id: Q-009
+  barbero_utterances:
+  - U-00579–U-00584
+  barbero_timestamp: '38:08'
+  attribution: Beaumont and Fletcher, The Custom of the Country
+  quotation_kind: paraphrase
+  source_id: SRC-009
+  original_language: en
+  original_text: The Governour, he that commands in chief, must have her Maiden-head, or Ransom it for mony at his pleasure.
+  translation: The Governour, he that commands in chief, must have her Maiden-head, or Ransom it for mony at his pleasure.
+  locator: Act I, opening scene, Arnoldo explaining the custom; Project Gutenberg ebook 12039, lines 134–142
+  translation_notes: The play confirms the custom and governor. Modern attribution is Fletcher and Massinger; Beaumont's name came from the 1647 collected folio.
+  confidence: high
+  status: resolved
+  verdict: misattributed
+  source_replacement: not-applicable
+  human_reviewed: true
+  research_note: The substance is confirmed, but Barbero repeats the traditional Beaumont-and-Fletcher attribution and calls the setting Italy more explicitly than the opening text does.
+- id: Q-010
+  barbero_utterances:
+  - U-00657–U-00674
+  barbero_timestamp: '42:12'
+  attribution: Hector Boece, Historia Gentis Scotorum
+  quotation_kind: paraphrase
+  source_id: SRC-011
+  original_language: la
+  original_text: Nobilibus plebeiorum uxores communes essent, ac virginis novae nuptae loci dominus primam libandi pudicitiam potestatem haberet.
+  translation: Commoners' wives were to be shared by nobles, and the local lord had power to take the first taste of a new bride's chastity.
+  locator: Scotorum Historia, book III, section 16, lines 82–83 in the Birmingham digital edition
+  translation_notes: Boece attributes the law to the legendary Evenus III and says Malcolm Canmore abolished it at Margaret's urging by substituting a gold marriage payment.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: not-applicable
+  human_reviewed: true
+  research_note: Primary Latin witness. The first edition is 1527, not 1526; Boece's early kings are legendary and his source tradition is discredited.
+- id: Q-011
+  barbero_utterances:
+  - U-00685–U-00688
+  barbero_timestamp: '44:34'
+  attribution: Du Cange, Glossarium, entry concerning the Scottish king Evenus
+  quotation_kind: paraphrase
+  source_id: SRC-012
+  original_language: la
+  original_text:
+  translation:
+  locator: Glossarium, Marcheta/Marchetum entry and dependent discussion of Boece's Evenus story
+  translation_notes: The glossary tradition transmitted the Scottish story, but the reader's wording is not a quotation and later editions combine Du Cange with additions and related lexicographers.
+  confidence: medium
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: not-applicable
+  human_reviewed: true
+  research_note: The reported chain of transmission is sound in substance; exact edition dependence remains bibliographically compressed.
+- id: Q-012
+  barbero_utterances:
+  - U-00795–U-00803
+  barbero_timestamp: '52:39'
+  attribution: Bonifacio Vannozzi reporting Cardinal Hieronimo della Rovere
+  quotation_kind: near-direct
+  source_id: SRC-022
+  original_language: it
+  original_text: >-
+    Cotal costume, da Pagani, & da Gentili, fù già in Piemonte, & il Cardinale Illustrissimo Hieronimo della Rovere mi diceva, haver egli stesso, abbruciato il privilegio, che havea di ciò la sua Casa.
+  translation: >-
+    Such a custom formerly existed in Piedmont among pagans and gentiles, and the Most Illustrious Cardinal Hieronimo della Rovere told me that he himself had burned the privilege that his house possessed concerning it.
+  locator: >-
+    Della suppellettile degli avvertimenti politici, morali e christiani, vol. 2 (1610), printed p. 253, paragraph immediately preceding avvertimento 530
+  translation_notes: >-
+    Direct translation of the supplied OCR, which modernizes long s but otherwise preserves historical spelling. The surrounding paragraph defines the custom as a bride surrendering her virginity to the local lord and describes a written privilege authorizing defloration. The reading “Illustrissimo” was checked visually against the scan.
+  confidence: high
+  status: resolved
+  verdict: confirmed
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: >-
+    Vannozzi explicitly presents the statement as a personal conversation with Cardinal Hieronimo della Rovere and says the cardinal himself burned his family's privilege. This confirms Barbero's attribution and paraphrase, but Vannozzi's anecdote does not independently prove that the alleged charter or custom historically existed.
+- id: Q-013
+  barbero_utterances:
+  - U-00820–U-00825
+  barbero_timestamp: '54:34'
+  attribution: Five late medieval and early modern seigneurial declarations
+  quotation_kind: composite
+  source_id: SRC-017
+  original_language:
+  original_text:
+  translation:
+  locator: Larousse cuissage entry; four later medieval declarations dated 1419–1538 summarized after Verson
+  translation_notes: Barbero deliberately creates representative direct speech from multiple legal declarations; it is not one recoverable document.
+  confidence: medium
+  status: resolved
+  verdict: composite
+  source_replacement: not-applicable
+  human_reviewed: true
+  research_note: Scholarship supports a tiny group of retrospective declarations after the myth began circulating, but the lecture's exact count and century distribution need caution.
+- id: Q-014
+  barbero_utterances:
+  - U-00896–U-00903
+  barbero_timestamp: '60:06'
+  attribution: George Orwell, Nineteen Eighty-Four
+  quotation_kind: direct
+  source_id: SRC-016
+  original_language: en
+  original_text: It was the law by which every capitalist had the right to sleep with any woman working in one of his factories.
+  translation: It was the law by which every capitalist had the right to sleep with any woman working in one of his factories.
+  locator: Nineteen Eighty-Four, Part One, chapter 7
+  translation_notes: Exact English sentence. Barbero's immediately preceding sentence about children's textbooks also closely follows Orwell.
+  confidence: high
+  status: resolved
+  verdict: confirmed
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: Direct English original; replace the matching contextual sentence without duplicating it.

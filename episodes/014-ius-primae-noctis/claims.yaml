@@ -1,0 +1,214 @@
+---
+- id: C-001
+  claim: The alleged right of the first night remains common in modern historical fiction and popular images of the Middle Ages.
+  transcript:
+  - U-00015–U-00108
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  - SRC-002
+  conflicting_sources: []
+  status: resolved
+  research_note: Both cited modern works use the alleged right as an inciting oppression. They establish the examples, not a quantitative prevalence claim.
+- id: C-002
+  claim: Numerous Italian local traditions explain rebellion or civic ritual through an alleged lord's sexual claim.
+  transcript:
+  - U-00109–U-00135
+  centrality: sampled-incidental
+  supporting_sources:
+  - SRC-005
+  - SRC-014
+  conflicting_sources: []
+  status: resolved
+  research_note: Cuneo and Nizza provide documented late foundation legends. The other named local traditions were not individually dated, so they remain folklore examples rather than medieval evidence.
+- id: C-003
+  claim: Medieval novelle, fabliaux, and sexual comic stories do not attest an enforceable right of the first night.
+  transcript:
+  - U-00147–U-00190
+  centrality: central
+  supporting_sources:
+  - SRC-006
+  - SRC-017
+  conflicting_sources: []
+  status: resolved
+  research_note: Boureau's source survey supports the negative finding. It is a corpus-level argument from silence, not proof that every surviving tale was checked in this episode audit.
+- id: C-004
+  claim: Les Cent Nouvelles nouvelles contains the two contrasting sexual-power tales summarized in the lecture.
+  transcript:
+  - U-00193–U-00277
+  centrality: supporting
+  supporting_sources:
+  - SRC-003
+  - SRC-018
+  conflicting_sources: []
+  status: resolved
+  research_note: >-
+    The two tales are nouvelle XXIV, La Botte à demi, and nouvelle XXXII, Les Dames dismées. The collection dates to ca. 1464–1467, and Robbins's complete English translation confirms both plots in substance. Barbero changes the boot to trousers in XXIV; in XXXII he substitutes Girona for Hostalrich and adds papal authorization absent from the translation.
+- id: C-005
+  claim: Medieval records extensively document, contest, redeem, and litigate peasants' seigneurial obligations.
+  transcript:
+  - U-00281–U-00328
+  centrality: central
+  supporting_sources:
+  - SRC-004
+  - SRC-013
+  conflicting_sources: []
+  status: resolved
+  research_note: The Verson compilation and comparative legal history exemplify detailed labor services, dues, marriage payments, and their documentary recording.
+- id: C-006
+  claim: The right's absence from detailed grievance and obligation records is strong, though not logically conclusive, negative evidence.
+  transcript:
+  - U-00325–U-00349
+  centrality: central
+  supporting_sources:
+  - SRC-006
+  - SRC-013
+  - SRC-017
+  - SRC-022
+  conflicting_sources: []
+  status: resolved
+  research_note: Modern specialist treatments find no normative medieval institution. A few late retrospective declarations are evidence for the developing myth, not for an earlier generally enforceable right.
+- id: C-007
+  claim: A thirteenth-century Verson record and complaint describe a three-sou payment when a daughter married outside the lordship.
+  transcript:
+  - U-00353–U-00403
+  centrality: supporting
+  supporting_sources:
+  - SRC-004
+  - SRC-013
+  conflicting_sources: []
+  status: resolved
+  research_note: The three-sou payment for marrying a daughter outside the lordship is explicit. The 1247 compilation and ca. 1270 poem must be chronologically distinguished.
+- id: C-008
+  claim: The Verson passage resembles the later myth only retrospectively and presents sex as an alternative to a heavy payment, not a legal entitlement.
+  transcript:
+  - U-00403–U-00419
+  centrality: central
+  supporting_sources:
+  - SRC-004
+  - SRC-006
+  - SRC-017
+  conflicting_sources: []
+  status: resolved
+  research_note: The poem places the surrender of a daughter in an undefined past as an alternative to property or payment; it does not formulate a current sexual entitlement.
+- id: C-009
+  claim: The recognizable legend first circulates in late medieval and Renaissance civic accounts of oppressive former lords.
+  transcript:
+  - U-00420–U-00487
+  centrality: central
+  supporting_sources:
+  - SRC-005
+  - SRC-006
+  - SRC-017
+  conflicting_sources: []
+  status: resolved
+  research_note: Rebaccini's 1484 Cuneo chronicle is an early clear Italian attestation framed as ancestral oppression. 'First' should remain qualified because Verson and a small number of earlier retrospective texts complicate the chronology.
+- id: C-010
+  claim: European travel and conquest literature attributed analogous customs to peoples represented as savage, while Las Casas challenged such denigration.
+  transcript:
+  - U-00489–U-00544
+  centrality: supporting
+  supporting_sources:
+  - SRC-007
+  - SRC-008
+  - SRC-019
+  - SRC-020
+  - SRC-021
+  conflicting_sources:
+  - SRC-007
+  status: resolved
+  research_note: >-
+    Cadamosto's Tenerife passage and the Gómara–Montaigne Cuban transmission are recovered. Both belong to colonial representations of Indigenous sexuality, not independent proof of the alleged customs. Cadamosto did not visit Tenerife, and Barbero compresses his secondhand report into a visit. Las Casas's polemic against Gómara is secure, but his role in the royal prohibition remains hypothetical.
+- id: C-011
+  claim: Beaumont and Fletcher's 1619 play locates a right-of-first-night custom in an Italian setting.
+  transcript:
+  - U-00554–U-00593
+  centrality: sampled-incidental
+  supporting_sources:
+  - SRC-009
+  - SRC-010
+  conflicting_sources: []
+  status: resolved
+  research_note: The custom and governor are explicit in Act I. Folger dates first performance to ca. 1619–1620 and attributes the play to Fletcher and Massinger, not Beaumont and Fletcher; the Italian setting is conventional scholarly identification rather than explicit opening exposition.
+- id: C-012
+  claim: Sixteenth-century jurists inferred an earlier sexual service from surviving marriage payments.
+  transcript:
+  - U-00599–U-00644
+  centrality: central
+  supporting_sources:
+  - SRC-006
+  - SRC-013
+  conflicting_sources: []
+  status: resolved
+  research_note: Boureau and Wettlaufer document the early-modern conversion of ambiguous marriage dues and learned etymology into proof of a prior sexual service.
+- id: C-013
+  claim: Hector Boece's 1526 Scottish history made the Evenus story part of a fabricated national past involving Malcolm and Margaret.
+  transcript:
+  - U-00645–U-00689
+  centrality: supporting
+  supporting_sources:
+  - SRC-011
+  - SRC-012
+  - SRC-013
+  conflicting_sources: []
+  status: resolved
+  research_note: Boece's Latin directly contains Evenus, Malcolm, Margaret, and the substituted payment. The work was first printed in 1527, not 1526, and the early royal sequence is legendary.
+- id: C-014
+  claim: Misreadings of coillage/culagium and fodro helped turn ordinary dues into apparent sexual evidence.
+  transcript:
+  - U-00690–U-00735
+  centrality: central
+  supporting_sources:
+  - SRC-012
+  - SRC-013
+  - SRC-014
+  conflicting_sources: []
+  status: resolved
+  research_note: Culagium/cullage/coillage is documented as a marriage payment with disputed but non-probative etymology. Cordara's Fodero is a satirical foundation poem first printed in 1788; the lecture's account of the folk etymology is sound in substance.
+- id: C-015
+  claim: A late-fourteenth-century Amiens marriage payment arose from commutation of three nights' continence and was later misread as evidence of the alleged right.
+  transcript:
+  - U-00736–U-00784
+  centrality: supporting
+  supporting_sources:
+  - SRC-006
+  - SRC-015
+  conflicting_sources: []
+  status: resolved
+  research_note: The Amiens/Abbeville record explicitly concerns permission to waive first-, second-, and third-night continence. The surviving decisions span 1398, 1401, 1409, and 1501, so the lecture's single sixteen-year process is an over-compression.
+- id: C-016
+  claim: Only after the legend circulated did a handful of lords retrospectively claim that marriage dues commuted an ancestral sexual right.
+  transcript:
+  - U-00785–U-00830
+  centrality: central
+  supporting_sources:
+  - SRC-006
+  - SRC-013
+  - SRC-017
+  conflicting_sources: []
+  status: resolved
+  research_note: >-
+    Specialist surveys identify only a tiny cluster of late retrospective declarations, often framed as commutation. Vannozzi's 1610 text confirms that he reported Cardinal Hieronimo della Rovere personally claiming to have burned his family's privilege; it remains testimony to a retrospective belief, not proof that the alleged charter or sexual custom existed. Barbero's exact total and distribution are approximate.
+- id: C-017
+  claim: Public wedding payments, roadblocks, banquet precedence, and bride-escort rituals supplied a social context for later reinterpretation.
+  transcript:
+  - U-00831–U-00862
+  centrality: supporting
+  supporting_sources:
+  - SRC-013
+  - SRC-017
+  conflicting_sources: []
+  status: resolved
+  research_note: Comparative legal history documents marriage payments and community roadblock/redemption customs. The banquet and bride-escort examples are plausible contextual customs but were not individually sourced here.
+- id: C-018
+  claim: Real sexual exploitation under unequal power must be distinguished from an enforceable legal right, whose invention marks the past as barbaric.
+  transcript:
+  - U-00863–U-00913
+  centrality: central
+  supporting_sources:
+  - SRC-006
+  - SRC-013
+  - SRC-017
+  conflicting_sources: []
+  status: resolved
+  research_note: 'The central conclusion matches modern specialist historiography: sexual coercion and abuse of power are historically real but do not establish the alleged normative legal right. Orwell supplies an exact modern example of invented legal history.'
