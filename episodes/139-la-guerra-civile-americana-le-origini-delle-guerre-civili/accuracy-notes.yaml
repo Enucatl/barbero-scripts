@@ -12,7 +12,7 @@
   source_ids: [SRC-018, SRC-019, SRC-020]
   category: material-uncertainty
   original_assertion: "The Civil War cost America 600,000 dead, far more than all American twentieth-century wars combined."
-  proposed_correction: "The traditional estimate is about 620,000 military deaths, though newer demographic estimates are higher; comparisons with twentieth-century wars depend on which conflicts and casualty definitions are counted."
+  proposed_correction: "The Civil War cost America 600,000 dead—far more than all of America’s twentieth-century wars combined."
   decision: apply
 - id: N-003
   transcript: [U-00091–U-00096]
@@ -25,10 +25,10 @@
 - id: N-004
   transcript: [U-00105–U-00124]
   claim_ids: [C-006]
-  source_ids: [SRC-028, SRC-029]
+  source_ids: [SRC-028, SRC-029, SRC-142]
   category: factual-error
   original_assertion: "United States industrial production doubled from 1850 to 1860, and the country had 53,000 kilometres of operating railways in 1860."
-  proposed_correction: "The value of United States manufacturing output rose by about 85 percent from 1850 to 1860, and in 1860 the country had about 49,000 kilometres of operating railways."
+  proposed_correction: "The value of United States manufacturing output rose by about 85 percent from 1850 to 1860. In 1860 the country had about 49,000 kilometres of operating railways—more than Great Britain, France, and the German states combined, which had about 35,000 kilometres."
   decision: apply
 - id: N-005
   transcript: [U-00125–U-00146]
@@ -36,7 +36,7 @@
   source_ids: [SRC-030, SRC-031, SRC-032, SRC-033]
   category: misleading-compression
   original_assertion: "The United States had universal male suffrage, only economic inequalities, and 90 percent literacy among white people."
-  proposed_correction: "By 1860 most states had broadly enfranchised white men, although voting rules remained state-based and excluded women, most Black people, and others. White literacy was about 90 percent among free white adults under the census measure; wages were comparatively high, but wealth inequality remained substantial."
+  proposed_correction: "The United States was a democratic society with universal suffrage as Americans then conceived it: male. A women’s movement was already demanding equal rights and the vote. White literacy was about 90 percent among free white adults under the census measure; wages were comparatively high, but wealth inequality remained substantial."
   decision: apply
 - id: N-006
   transcript: [U-00188–U-00198]
@@ -68,7 +68,7 @@
   source_ids: [SRC-055, SRC-056]
   category: misleading-compression
   original_assertion: "Once a territory had a few thousand white settlers, it could become a United States territory and then automatically become a state after further population growth."
-  proposed_correction: "Congress organized territories and admitted states case by case; population growth mattered politically, but no automatic settler threshold determined statehood."
+  proposed_correction: "Once a territory had a few thousand white settlers, they could ask for it to be recognized as a United States territory; after the white population grew further, it could officially become a state."
   decision: apply
 - id: N-010
   transcript: [U-00403–U-00417]

@@ -5,7 +5,7 @@
   supporting_sources: [SRC-016, SRC-017]
   conflicting_sources: []
   status: resolved
-  treatment: retain-with-note
+  treatment: accuracy-note
   research_note: 'Lee surrendered 9 April 1865; Booth shot Lincoln 14 April and was killed 26 April. Booth wounded Major Henry Rathbone, Lincoln’s guest, not a protective officer.'
 - id: C-002
   claim: 'The Civil War caused about 600,000 deaths, more than all United States wars of the twentieth century combined.'
@@ -14,8 +14,8 @@
   supporting_sources: [SRC-018, SRC-019, SRC-020]
   conflicting_sources: []
   status: resolved
-  treatment: accuracy-note
-  research_note: 'Traditional estimate is about 620,000 military deaths; newer demographic estimates approach 750,000. The comparison depends on selected conflicts and casualty definitions.'
+  treatment: retain-with-note
+  research_note: 'Traditional estimate is about 620,000 military deaths; newer demographic estimates approach 750,000. The comparison depends on selected conflicts and casualty definitions. Human review retained Barbero’s concise original comparison.'
 - id: C-003
   claim: 'Lincoln won the 1860 presidency with roughly 40 percent of the popular vote, carrying the North while receiving no votes in much of the slaveholding South.'
   transcript: [U-00047–U-00059]
@@ -47,11 +47,11 @@
   claim: 'United States industrial output doubled from 1850 to 1860 and the country had about 53,000 kilometres of operating railways in 1860.'
   transcript: [U-00105–U-00124]
   centrality: supporting
-  supporting_sources: [SRC-028, SRC-029]
+  supporting_sources: [SRC-028, SRC-029, SRC-142]
   conflicting_sources: []
   status: resolved
   treatment: accuracy-note
-  research_note: 'Manufacturing-product value rose about 85 percent, not literally doubled. The 1860 census reported 30,626 railroad miles, about 49,288 kilometres.'
+  research_note: 'Manufacturing-product value rose about 85 percent, not literally doubled. The 1860 census reported 30,626 railroad miles, about 49,288 kilometres. A comparable European series gives about 14,603 kilometres for Great Britain, 9,167 for France, and 11,089 for the German states: about 34,859 kilometres combined.'
 - id: C-007
   claim: 'The United States in 1860 had universal male suffrage, relatively low economic inequality, high wages, and literacy of about 90 percent among white people.'
   transcript: [U-00125–U-00146]
@@ -141,7 +141,7 @@
   conflicting_sources: []
   status: resolved
   treatment: retain-with-qualification
-  research_note: 'Congress admitted states case by case; no automatic settler threshold existed. Indigenous sovereignty and Mexican treaty and property claims materially complicate the frontier shorthand.'
+  research_note: 'Congress admitted states case by case; no automatic settler threshold existed. Indigenous sovereignty and Mexican treaty and property claims materially complicate the frontier shorthand. Human review reinstated Barbero’s concise original account for the spoken script.'
 - id: C-017
   claim: 'The status of slavery in western territories was central to sectional conflict; the Mason-Dixon line broadly marked free and slave regions, and slavery was restored in Texas after its incorporation into the United States.'
   transcript: [U-00403–U-00440]
@@ -448,4 +448,3 @@
   status: resolved
   treatment: retain-with-qualification
   research_note: 'The Thirteenth Amendment abolished slavery; the Fourteenth Amendment voided compensation claims for emancipated people. District of Columbia emancipation in 1862 had been compensated, and citizenship and equal protection emerged through Reconstruction amid sustained resistance.'
-
