@@ -1,0 +1,350 @@
+- id: C-001
+  claim: Charles I was executed at Whitehall on 30 January 1649 after a legal trial for high treason.
+  transcript:
+  - U-00021–U-00054
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-012
+  conflicting_sources: []
+  status: resolved
+  research_note: The scaffold speech and parliamentary collection establish execution and regicide; the legality and novelty
+    of the court require careful qualification.
+  treatment: retain-with-qualification
+- id: C-002
+  claim: The civil wars preceding Charles I’s execution lasted six years.
+  transcript:
+  - U-00055
+  centrality: supporting
+  supporting_sources:
+  - SRC-012
+  conflicting_sources: []
+  status: resolved
+  research_note: From the standard-raising in August 1642 to execution in January 1649 is roughly six and a half years; the
+    wider Wars of the Three Kingdoms continued.
+  treatment: retain-with-note
+- id: C-003
+  claim: England remained outside the Thirty Years’ War in 1637 and celebrated peace in an Inns of Court masque.
+  transcript:
+  - U-00060–U-00077
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: deferred
+  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
+  treatment: retain-pending-review
+  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+- id: C-004
+  claim: English court etiquette and royal-touching ritual isolated Charles from ordinary subjects.
+  transcript:
+  - U-00082–U-00104
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: deferred
+  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
+  treatment: retain-pending-review
+  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+- id: C-005
+  claim: Buckingham sold offices and maintained a sexual relationship with James I.
+  transcript:
+  - U-00123–U-00141
+  centrality: supporting
+  supporting_sources:
+  - SRC-003
+  conflicting_sources: []
+  status: resolved
+  research_note: The surviving intimate letters support a sexual/romantic interpretation, though categories and patronage
+    details require period-sensitive wording.
+  treatment: retain-with-qualification
+- id: C-006
+  claim: Henrietta Maria’s Catholicism and court culture intensified country hostility to the crown.
+  transcript:
+  - U-00151–U-00179
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: deferred
+  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
+  treatment: retain-pending-review
+  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+- id: C-007
+  claim: The established Church of England combined Protestant doctrine with episcopal hierarchy and authoritarian discipline.
+  transcript:
+  - U-00180–U-00203
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: deferred
+  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
+  treatment: retain-pending-review
+  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+- id: C-008
+  claim: Puritan dissent joined lay Bible reading and anti-episcopacy to religious intolerance and hostility toward recreation.
+  transcript:
+  - U-00204–U-00244
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: deferred
+  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
+  treatment: retain-pending-review
+  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+- id: C-009
+  claim: Laud’s conformity campaign imposed ceremonial changes and punished dissenting clergy.
+  transcript:
+  - U-00247–U-00332
+  centrality: central
+  supporting_sources:
+  - SRC-009
+  conflicting_sources: []
+  status: resolved
+  research_note: UK Parliament confirms that religious innovations and the 1637 Scottish Prayer Book built opposition.
+  treatment: retain
+- id: C-010
+  claim: Laudian persecution drove a substantial Puritan migration to New England.
+  transcript:
+  - U-00333–U-00341
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: deferred
+  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
+  treatment: retain-pending-review
+  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+- id: C-011
+  claim: William Prynne was twice pilloried and mutilated for polemical publications while imprisoned.
+  transcript:
+  - U-00371–U-00419
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: deferred
+  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
+  treatment: retain-pending-review
+  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+- id: C-012
+  claim: English Catholic priests faced capital statutes that Charles enforced leniently.
+  transcript:
+  - U-00427–U-00443
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: deferred
+  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
+  treatment: retain-pending-review
+  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+- id: C-013
+  claim: Fear of popery made Charles’s Spanish policy and the queen’s Catholic household politically explosive.
+  transcript:
+  - U-00422–U-00457
+  centrality: central
+  supporting_sources:
+  - SRC-009
+  - SRC-013
+  conflicting_sources: []
+  status: resolved
+  research_note: Contemporary London grievances joined religious innovations, papist fears, non-parliamentary revenue, and
+    monopolies.
+  treatment: retain
+- id: C-014
+  claim: English parliamentary consent to taxation had medieval roots reinforced by Magna Carta.
+  transcript:
+  - U-00458–U-00516
+  centrality: central
+  supporting_sources:
+  - SRC-009
+  - SRC-013
+  conflicting_sources: []
+  status: resolved
+  research_note: Medieval parliamentary development is supported institutionally; the lecture over-compresses Magna Carta
+    into a general promise to summon Parliament.
+  treatment: retain-with-qualification
+- id: C-015
+  claim: Charles governed without Parliament from 1629 for eleven years.
+  transcript:
+  - U-00517–U-00547
+  centrality: central
+  supporting_sources:
+  - SRC-009
+  - SRC-010
+  conflicting_sources: []
+  status: resolved
+  research_note: Personal Rule ran from March 1629 to April 1640.
+  treatment: retain
+- id: C-016
+  claim: The crown’s licenses, monopolies, fines, and soap monopoly produced broad economic resentment.
+  transcript:
+  - U-00548–U-00600
+  centrality: supporting
+  supporting_sources:
+  - SRC-010
+  - SRC-013
+  conflicting_sources: []
+  status: resolved
+  research_note: National Archives sources document monopolies, patents, customs, and trade grievances; the soap anecdote
+    remains separately unverified.
+  treatment: retain
+- id: C-017
+  claim: Charles extended Ship Money inland in 1635 and Hampden’s case divided the judges.
+  transcript:
+  - U-00601–U-00649
+  centrality: central
+  supporting_sources:
+  - SRC-007
+  - SRC-009
+  - SRC-010
+  conflicting_sources: []
+  status: resolved
+  research_note: Ship Money was extended inland and Hampden lost in 1637 by seven judges to five; Berkeley supplied the rex-is-lex
+    wording.
+  treatment: retain
+- id: C-018
+  claim: The English Revolution was bourgeois chiefly because it defended private property rather than seeking social equality.
+  transcript:
+  - U-00650–U-00658
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: deferred
+  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
+  treatment: retain-pending-review
+  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+- id: C-019
+  claim: The Scottish Prayer Book introduced in July 1637 triggered an Edinburgh riot and government retreat.
+  transcript:
+  - U-00659–U-00706
+  centrality: central
+  supporting_sources:
+  - SRC-009
+  conflicting_sources: []
+  status: resolved
+  research_note: UK Parliament confirms the 1637 Prayer Book imposition and Covenanter resistance; the corrected 23 July date
+    matches the standard chronology.
+  treatment: retain
+- id: C-020
+  claim: The National Covenant mobilized Scottish elites and ordinary subscribers in mass resistance.
+  transcript:
+  - U-00707–U-00749
+  centrality: central
+  supporting_sources:
+  - SRC-009
+  conflicting_sources: []
+  status: resolved
+  research_note: The Covenant is documented as a mass Scottish resistance instrument, though individual subscription scenes
+    need primary diary support.
+  treatment: retain-with-qualification
+- id: C-021
+  claim: Covenanter coercion caused elite fear that religious rebellion could become social revolution.
+  transcript:
+  - U-00762–U-00793
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: deferred
+  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
+  treatment: retain-pending-review
+  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+- id: C-022
+  claim: Charles’s military and financial weakness in the First Bishops’ War forced him to summon Parliament.
+  transcript:
+  - U-00794–U-00837
+  centrality: central
+  supporting_sources:
+  - SRC-009
+  conflicting_sources: []
+  status: resolved
+  research_note: The Bishops’ War, poor English support, and need for supply forced the April 1640 Parliament.
+  treatment: retain
+- id: C-023
+  claim: The Short Parliament met in April 1640 and was dissolved after refusing supply before redress.
+  transcript:
+  - U-00838–U-00871
+  centrality: central
+  supporting_sources:
+  - SRC-009
+  conflicting_sources: []
+  status: resolved
+  research_note: The Short Parliament met in April 1640 and was dissolved after refusing supply before redress.
+  treatment: retain
+- id: C-024
+  claim: Scottish invasion and occupation in 1640 forced Charles to summon the Long Parliament.
+  transcript:
+  - U-00872–U-00950
+  centrality: central
+  supporting_sources:
+  - SRC-009
+  conflicting_sources: []
+  status: resolved
+  research_note: The Scots invaded to Newcastle and the October settlement required daily payments, forcing the November Parliament.
+  treatment: retain
+- id: C-025
+  claim: Strafford proposed using an Irish army to reduce “this kingdom,” an ambiguity used against him.
+  transcript:
+  - U-00872–U-00937
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: deferred
+  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
+  treatment: retain-pending-review
+  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+- id: C-026
+  claim: The 1640 election produced unusually strong popular mobilization and a small court party.
+  transcript:
+  - U-00951–U-00980
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: deferred
+  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
+  treatment: retain-pending-review
+  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+- id: C-027
+  claim: Strafford was condemned by attainder after the treason case faltered, and Charles assented despite promising his
+    safety.
+  transcript:
+  - U-01034–U-01064
+  centrality: central
+  supporting_sources: []
+  conflicting_sources: []
+  status: deferred
+  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
+  treatment: retain-pending-review
+  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+- id: C-028
+  claim: Charles’s attempt to arrest five members, the Hull confrontation, and the Nottingham standard marked the road to
+    war.
+  transcript:
+  - U-01095–U-01119
+  centrality: central
+  supporting_sources:
+  - SRC-011
+  conflicting_sources: []
+  status: resolved
+  research_note: UK Parliament documents the failed five-members arrest, Charles’s departure, and competing military mobilization;
+    Hull and Nottingham need additional sourcing.
+  treatment: retain
+- id: C-029
+  claim: Royalist parliamentarians and peers were on average younger than parliamentarian supporters.
+  transcript:
+  - U-01120–U-01140
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: deferred
+  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
+  treatment: retain-pending-review
+  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+- id: C-030
+  claim: Parliamentary victory and regicide did not produce social levelling; the army suppressed Leveller challenges.
+  transcript:
+  - U-01141–U-01182
+  centrality: central
+  supporting_sources:
+  - SRC-012
+  conflicting_sources: []
+  status: resolved
+  research_note: Parliamentary victory and regicide are secure, but the lecture inaccurately treats Levellers as economic
+    levelers; that programme is more characteristic of the Diggers/True Levellers.
+  treatment: accuracy-note

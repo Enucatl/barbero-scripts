@@ -348,6 +348,9 @@ def _validate_italian_wording(transcript: str, script: str, errors: list[str]) -
         if any(identifier not in utterances for identifier in identifiers):
             continue
         expected = " ".join(utterances[identifier] for identifier in identifiers)
+        # A reviewed source-audio duplication may remain as an audit-only HTML comment while
+        # contributing no spoken wording to the assembled script.
+        expected = re.sub(r"<!--.*?-->", "", expected, flags=re.DOTALL).strip()
         limit = headings[index + 1].start() if index + 1 < len(headings) else len(script)
         actual = re.sub(r"<!--.*?-->", "", script[coverage.end() : limit], flags=re.DOTALL).strip()
         if actual != expected:

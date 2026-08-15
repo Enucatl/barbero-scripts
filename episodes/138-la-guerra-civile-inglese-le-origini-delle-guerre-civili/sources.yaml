@@ -1,0 +1,117 @@
+- id: SRC-001
+  author: Charles I
+  title: King Charls his speech made upon the scaffold at Whitehall-Gate
+  date: '1649'
+  original_language: en
+  identifier: EEBO-TCP A74820
+  url: https://quod.lib.umich.edu/e/eebo2/A74820.0001.001/1:2
+  access_date: '2026-08-15'
+  locator: pp. 9–10
+- id: SRC-002
+  author: Historic Royal Palaces
+  title: 'Charles I: Execution of an English King in 1649'
+  date: n.d.
+  original_language: en
+  identifier: Banqueting House historical article
+  url: https://www.hrp.org.uk/banqueting-house/history-and-stories/the-execution-of-charles-i/
+  access_date: '2026-08-15'
+  locator: A horrifying deed section
+- id: SRC-003
+  author: English Heritage
+  title: 'The king and his favourite: James I and George Villiers'
+  date: n.d.
+  original_language: en
+  identifier: English Heritage historical article
+  url: https://www.english-heritage.org.uk/learn/histories/lgbtq-history/James_I_and_Villiers/
+  access_date: '2026-08-15'
+  locator: letter excerpt dated 25 April 1623
+- id: SRC-004
+  author: Thomas Hobbes
+  title: 'Behemoth: The History of the Causes of the Civil Wars of England'
+  date: '1662'
+  original_language: en
+  identifier: David M. Hart transcription
+  url: https://www.davidmhart.com/liberty/OtherWorks/Hobbes/Behemoth/Hobbes_Behemoth.html
+  access_date: '2026-08-15'
+  locator: Dialogue I, Bible-translation discussion
+- id: SRC-005
+  author: William Laud
+  title: The history of the troubles and tryal ... vol. 1, with diary
+  date: '1695'
+  original_language: en
+  identifier: EEBO-TCP A67908
+  url: https://quod.lib.umich.edu/e/eebo/A67908.0001.001/1:7
+  access_date: '2026-08-15'
+  locator: diary
+- id: SRC-006
+  author: James VI and I
+  title: The true law of free monarchy
+  date: '1598'
+  original_language: en
+  identifier: EEBO-TCP A78586
+  url: https://quod.lib.umich.edu/e/eebo2/A78586.0001.001/1:3
+  access_date: '2026-08-15'
+  locator: opening constitutional argument
+- id: SRC-007
+  author: Justice Robert Berkeley
+  title: Opinion in Hampden’s Case of Ship Money
+  date: '1637'
+  original_language: en
+  identifier: Sources of English Constitutional History, chapter 94
+  url: https://constitution.org/1-History/sech/sech_094.htm
+  access_date: '2026-08-15'
+  locator: Berkeley opinion
+- id: SRC-008
+  author: Thomas Goodwin
+  title: Zerubbabels encouragement to finish the temple
+  date: '1642'
+  original_language: en
+  identifier: EEBO-TCP A85443
+  url: https://quod.lib.umich.edu/e/eebo/A85443.0001.001/1:3
+  access_date: '2026-08-15'
+  locator: sermon before Commons, 27 April 1642
+- id: SRC-009
+  author: UK Parliament
+  title: The Personal Rule of Charles I
+  date: n.d.
+  original_language: en
+  identifier: Living Heritage
+  url: https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/civilwar/overview/personal-rule/
+  access_date: '2026-08-15'
+  locator: main text
+- id: SRC-010
+  author: The National Archives
+  title: 'Civil War person: Charles I'
+  date: n.d.
+  original_language: en
+  identifier: education resource
+  url: https://www.nationalarchives.gov.uk/education/resources/civil-war-people/civil-war-person-charles-i/
+  access_date: '2026-08-15'
+  locator: Personal Rule and Ship Money sections
+- id: SRC-011
+  author: UK Parliament
+  title: The breakdown of 1641–2
+  date: n.d.
+  original_language: en
+  identifier: Living Heritage
+  url: https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/civilwar/overview/the-breakdown/
+  access_date: '2026-08-15'
+  locator: main text
+- id: SRC-012
+  author: UK Parliament
+  title: The Civil War
+  date: n.d.
+  original_language: en
+  identifier: Living Heritage
+  url: https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/civilwar/
+  access_date: '2026-08-15'
+  locator: overview and documentary collection
+- id: SRC-013
+  author: The National Archives
+  title: Petition to Charles I
+  date: '1640-09-24'
+  original_language: en
+  identifier: Rushworth, Historical Collections III, p. 1263
+  url: https://www.nationalarchives.gov.uk/education/resources/civil-war-people/civil-war-person-charles-i/petition-to-charles-i/
+  access_date: '2026-08-15'
+  locator: petition text

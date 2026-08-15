@@ -1,0 +1,376 @@
+- id: Q-001
+  barbero_utterances:
+  - U-00027–U-00030
+  barbero_timestamp: 05:00
+  attribution: Charles I
+  quotation_kind: direct
+  source_id: SRC-001
+  original_language: en
+  original_text: And truly I desire their Liberty and Freedom, as much as any Body whomsoever; but I must tell you, That their
+    Liberty and their Freedom consists in having of Government; those Laws, by which their Life and their Goods, may be most
+    their own. It is not for having share in Government (Sir) that is nothing pertaining to them.
+  translation: And truly I desire their Liberty and Freedom, as much as any Body whomsoever; but I must tell you, That their
+    Liberty and their Freedom consists in having of Government; those Laws, by which their Life and their Goods, may be most
+    their own. It is not for having share in Government (Sir) that is nothing pertaining to them.
+  locator: King Charls his speech, pp. 9–10
+  translation_notes: English original; translation reproduces the researched wording.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: false
+  research_note: Barbero closely translates the contemporary printed scaffold speech but compresses its wording.
+- id: Q-002
+  barbero_utterances:
+  - U-00038–U-00042
+  barbero_timestamp: 05:43
+  attribution: Philip Henry or another execution witness
+  quotation_kind: direct
+  source_id: SRC-002
+  original_language: en
+  original_text: There was such a groan by the thousands then present as I never heard before and desire I may never hear
+    again.
+  translation: There was such a groan by the thousands then present as I never heard before and desire I may never hear again.
+  locator: Historic Royal Palaces, A horrifying deed section
+  translation_notes: English original; translation reproduces the researched wording.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: false
+  research_note: Institutional history attributes the wording to a witness; the pass did not recover a contemporary manuscript
+    locator, so the transmission remains weaker than Q-001.
+- id: Q-003
+  barbero_utterances:
+  - U-00133–U-00136
+  barbero_timestamp: '11:44'
+  attribution: James VI and I, letter to George Villiers
+  quotation_kind: direct
+  source_id: SRC-003
+  original_language: en
+  original_text: And so God bless you, my sweet child and wife, and grant that ye may ever be a comfort to your dear dad and
+    husband …
+  translation: And so God bless you, my sweet child and wife, and grant that ye may ever be a comfort to your dear dad and
+    husband …
+  locator: English Heritage, letter excerpt dated 25 April 1623
+  translation_notes: English original; translation reproduces the researched wording.
+  confidence: high
+  status: resolved
+  verdict: confirmed
+  source_replacement: eligible
+  human_reviewed: false
+  research_note: The institutional article reproduces the letter excerpt and identifies its date and facsimile source.
+- id: Q-004
+  barbero_utterances:
+  - U-00163–U-00179
+  barbero_timestamp: '14:05'
+  attribution: Lawrence Stone
+  quotation_kind: direct
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  human_reviewed: false
+  research_note: Locate the country-versus-court catalogue and recover exact English. Exact provenance remains unresolved;
+    retain Barbero’s contextual rendering and do not substitute source wording.
+  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
+    in this pass.
+- id: Q-005
+  barbero_utterances:
+  - U-00239–U-00244
+  barbero_timestamp: '18:57'
+  attribution: Thomas Hobbes
+  quotation_kind: direct
+  source_id: SRC-004
+  original_language: en
+  original_text: For after the Bible was translated into English, every man, nay, every boy and wench, that could read English,
+    thought they spoke with God Almighty, and understood what he said, when by a certain number of chapters a day they had
+    read the Scriptures once or twice over.
+  translation: For after the Bible was translated into English, every man, nay, every boy and wench, that could read English,
+    thought they spoke with God Almighty, and understood what he said, when by a certain number of chapters a day they had
+    read the Scriptures once or twice over.
+  locator: Behemoth, Dialogue I
+  translation_notes: English original; translation reproduces the researched wording.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: false
+  research_note: Barbero translates and shortens the sentence.
+- id: Q-006
+  barbero_utterances:
+  - U-00264–U-00271
+  barbero_timestamp: '20:44'
+  attribution: Unnamed Elizabethan archbishop
+  quotation_kind: direct
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  human_reviewed: false
+  research_note: Identify author and source of tamquam excrementa mundi. Exact provenance remains unresolved; retain Barbero’s
+    contextual rendering and do not substitute source wording.
+  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
+    in this pass.
+- id: Q-007
+  barbero_utterances:
+  - U-00293–U-00299
+  barbero_timestamp: '22:48'
+  attribution: William Laud, diary
+  quotation_kind: near-direct
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  human_reviewed: false
+  research_note: Locate dream entry and Laud’s recorded reaction. Exact provenance remains unresolved; retain Barbero’s contextual
+    rendering and do not substitute source wording.
+  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
+    in this pass.
+- id: Q-008
+  barbero_utterances:
+  - U-00489–U-00496
+  barbero_timestamp: '33:47'
+  attribution: James VI and I
+  quotation_kind: composite
+  source_id: SRC-006
+  original_language: en
+  original_text: Kings are called Gods by the propheticall King David, because they sit upon God his Throne in the earth,
+    and have the count of their administration to give unto him.
+  translation: Kings are called Gods by the propheticall King David, because they sit upon God his Throne in the earth, and
+    have the count of their administration to give unto him.
+  locator: The True Law of Free Monarchies, opening argument
+  translation_notes: English original; translation reproduces the researched wording.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: false
+  research_note: Barbero extracts the central divine-right proposition from James’s treatise.
+- id: Q-009
+  barbero_utterances:
+  - U-00587–U-00594
+  barbero_timestamp: '40:06'
+  attribution: Contemporary anti-royalist speech or pamphlet
+  quotation_kind: direct
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  human_reviewed: false
+  research_note: Identify complaint about poor London tradespeople and royal corporations. Exact provenance remains unresolved;
+    retain Barbero’s contextual rendering and do not substitute source wording.
+  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
+    in this pass.
+- id: Q-010
+  barbero_utterances:
+  - U-00630–U-00634
+  barbero_timestamp: '42:58'
+  attribution: Ship Money judges or contemporary legal slogan
+  quotation_kind: slogan
+  source_id: SRC-007
+  original_language: en
+  original_text: I never read nor heard that Lex was Rex; but it is common and most true that Rex is Lex, for he is a living,
+    a speaking, an acting law.
+  translation: I never read nor heard that Lex was Rex; but it is common and most true that Rex is Lex, for he is a living,
+    a speaking, an acting law.
+  locator: Berkeley opinion in Hampden’s Case
+  translation_notes: English original; translation reproduces the researched wording.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: false
+  research_note: The slogan is documented in Justice Berkeley’s Ship Money opinion, not merely lecture shorthand.
+- id: Q-011
+  barbero_utterances:
+  - U-00682–U-00685
+  barbero_timestamp: '46:29'
+  attribution: Unnamed Scottish lord
+  quotation_kind: direct
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  human_reviewed: false
+  research_note: Identify speaker and source for whore of Babylon remark. Exact provenance remains unresolved; retain Barbero’s
+    contextual rendering and do not substitute source wording.
+  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
+    in this pass.
+- id: Q-012
+  barbero_utterances:
+  - U-00736–U-00740
+  barbero_timestamp: '48:46'
+  attribution: Edinburgh lawyer or diarist
+  quotation_kind: direct
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  human_reviewed: false
+  research_note: Identify diary and exact national marriage/Covenant wording. Exact provenance remains unresolved; retain
+    Barbero’s contextual rendering and do not substitute source wording.
+  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
+    in this pass.
+- id: Q-013
+  barbero_utterances:
+  - U-00774–U-00791
+  barbero_timestamp: '51:32'
+  attribution: William Drummond of Hawthornden
+  quotation_kind: direct
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  human_reviewed: false
+  research_note: Locate warning about bellum servile and exact wording. Exact provenance remains unresolved; retain Barbero’s
+    contextual rendering and do not substitute source wording.
+  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
+    in this pass.
+- id: Q-014
+  barbero_utterances:
+  - U-00845–U-00851
+  barbero_timestamp: '55:59'
+  attribution: Lord Keeper John Finch or royal spokesman
+  quotation_kind: near-direct
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  human_reviewed: false
+  research_note: Identify Short Parliament opening speech and exact praise/redress wording. Exact provenance remains unresolved;
+    retain Barbero’s contextual rendering and do not substitute source wording.
+  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
+    in this pass.
+- id: Q-015
+  barbero_utterances:
+  - U-00964–U-00967
+  barbero_timestamp: '62:35'
+  attribution: Unnamed peer
+  quotation_kind: direct
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  human_reviewed: false
+  research_note: Identify source of complaint about shirtless voters. Exact provenance remains unresolved; retain Barbero’s
+    contextual rendering and do not substitute source wording.
+  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
+    in this pass.
+- id: Q-016
+  barbero_utterances:
+  - U-00971–U-00975
+  barbero_timestamp: '62:55'
+  attribution: Unnamed Puritan preacher
+  quotation_kind: direct
+  source_id: SRC-008
+  original_language: en
+  original_text: You that are of the meaner rank, common people, be not discouraged, for God intends to make use of the common
+    people in the great work of proclaiming the kingdom of his dear Son.
+  translation: You that are of the meaner rank, common people, be not discouraged, for God intends to make use of the common
+    people in the great work of proclaiming the kingdom of his dear Son.
+  locator: Zerubbabels encouragement to finish the temple, sermon text
+  translation_notes: English original; translation reproduces the researched wording.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: false
+  research_note: Thomas Goodwin preached the sermon before the Commons on 27 April 1642; Barbero modernizes and compresses
+    it.
+- id: Q-017
+  barbero_utterances:
+  - U-01083–U-01094
+  barbero_timestamp: '71:16'
+  attribution: Charles I or royal declaration
+  quotation_kind: near-direct
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  human_reviewed: false
+  research_note: Identify warning about liberty, equality, independence, rights, and property. Exact provenance remains unresolved;
+    retain Barbero’s contextual rendering and do not substitute source wording.
+  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
+    in this pass.
+- id: Q-018
+  barbero_utterances:
+  - U-01146–U-01153
+  barbero_timestamp: '75:23'
+  attribution: Unnamed parliamentary MP
+  quotation_kind: direct
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: null
+  confidence: null
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  human_reviewed: false
+  research_note: Identify letter fearing loss of property and popular levelling. Exact provenance remains unresolved; retain
+    Barbero’s contextual rendering and do not substitute source wording.
+  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
+    in this pass.

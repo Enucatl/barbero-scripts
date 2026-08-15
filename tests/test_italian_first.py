@@ -6,6 +6,7 @@ from barbero_scripts.render import (
     _chapter_coverage,
     _contains_authoritative_wording,
     _validate_exact_coverage,
+    _validate_italian_wording,
     assemble_italian_script,
     assemble_naturalness_chapters,
     assemble_tense_chapters,
@@ -42,6 +43,36 @@ def test_exact_coverage_rejects_gap_overlap_reversal_and_duplicate() -> None:
         errors: list[str] = []
         _validate_exact_coverage(chapters, expected, "stage", errors)
         assert errors
+
+
+def test_italian_wording_ignores_audit_only_omission_comments() -> None:
+    transcript = """# Test — Italian transcript
+
+## U-00001 · original 00:01
+
+Prima.
+
+## U-00002 · original 00:02
+
+<!-- omitted: confirmed source-audio duplication -->
+
+## U-00003 · original 00:03
+
+Dopo.
+"""
+    script = """# Test — copione italiano
+
+## 1. Test
+
+<!-- chapter: CH-001; transcript: U-00001–U-00003 -->
+
+Prima. <!-- omitted: confirmed source-audio duplication --> Dopo.
+"""
+    errors: list[str] = []
+
+    _validate_italian_wording(transcript, script, errors)
+
+    assert errors == []
 
 
 def _write_complete_episode(directory: Path) -> None:
