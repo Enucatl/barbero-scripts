@@ -28,23 +28,32 @@
   transcript:
   - U-00060–U-00077
   centrality: supporting
-  supporting_sources: []
+  supporting_sources:
+  - SRC-017
+  - SRC-029
   conflicting_sources: []
-  status: deferred
-  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
-  treatment: retain-pending-review
-  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+  status: resolved
+  research_note: >-
+    England was not a formal belligerent in the Thirty Years’ War in 1637, although English and Scottish subjects served
+    abroad and the crown had earlier pursued continental interventions. The Inns of Court masque was The Triumph of Peace,
+    performed at Whitehall on 3 February 1634 (1633/4 Old Style), not 1637. Retain the neutrality and peace imagery only
+    with the date corrected and without calling England the only major country uninvolved.
+  treatment: accuracy-note
 - id: C-004
   claim: English court etiquette and royal-touching ritual isolated Charles from ordinary subjects.
   transcript:
   - U-00082–U-00104
   centrality: sampled-incidental
-  supporting_sources: []
+  supporting_sources:
+  - SRC-030
+  - SRC-014
   conflicting_sources: []
-  status: deferred
-  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
-  treatment: retain-pending-review
-  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+  status: resolved
+  research_note: >-
+    Court ceremonial and access rules made ordinary contact with Charles rare and highly mediated by courtiers. The royal
+    touch for scrofula was nevertheless a public ritual that brought subjects into direct contact with the monarch, so
+    “isolated” should be understood as socially and institutionally separated, not literally unseen except twice yearly.
+  treatment: retain-with-qualification
 - id: C-005
   claim: Buckingham sold offices and maintained a sexual relationship with James I.
   transcript:
@@ -62,34 +71,47 @@
   transcript:
   - U-00151–U-00179
   centrality: central
-  supporting_sources: []
+  supporting_sources:
+  - SRC-031
+  - SRC-032
   conflicting_sources: []
-  status: deferred
-  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
-  treatment: retain-pending-review
-  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+  status: resolved
+  research_note: >-
+    Henrietta Maria’s Catholicism, French identity, household, and court patronage were repeatedly used in anti-popish and
+    anti-court polemic and could intensify distrust of the crown. Recent scholarship cautions that anti-Catholicism was not
+    uniformly a powerful collective force throughout the 1630s; its political use sharpened during the crisis of 1640–42.
+  treatment: retain-with-qualification
 - id: C-007
   claim: The established Church of England combined Protestant doctrine with episcopal hierarchy and authoritarian discipline.
   transcript:
   - U-00180–U-00203
   centrality: central
-  supporting_sources: []
+  supporting_sources:
+  - SRC-009
+  - SRC-041
   conflicting_sources: []
-  status: deferred
-  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
-  treatment: retain-pending-review
-  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+  status: resolved
+  research_note: >-
+    The Church of England was Protestant, episcopally governed, and established under royal supremacy. Laudian policy in the
+    1630s emphasized uniformity, ceremonial worship, altarwise communion, and disciplinary enforcement. “Authoritarian” is an
+    interpretive description of that enforcement, not a neutral institutional label.
+  treatment: retain-with-qualification
 - id: C-008
   claim: Puritan dissent joined lay Bible reading and anti-episcopacy to religious intolerance and hostility toward recreation.
   transcript:
   - U-00204–U-00244
   centrality: central
-  supporting_sources: []
+  supporting_sources:
+  - SRC-041
+  - SRC-042
   conflicting_sources: []
-  status: deferred
-  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
-  treatment: retain-pending-review
-  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+  status: resolved
+  research_note: >-
+    Puritan currents emphasized Scripture, preaching, anti-popery, and opposition to episcopal control; important strands also
+    promoted sabbatarian discipline and opposed theatre and other recreation. Puritanism was internally diverse, however, and
+    many conforming “godly” Protestants used the Prayer Book, so the claim should not describe every Puritan as equally
+    intolerant or anti-recreational.
+  treatment: retain-with-qualification
 - id: C-009
   claim: Laud’s conformity campaign imposed ceremonial changes and punished dissenting clergy.
   transcript:
@@ -106,34 +128,47 @@
   transcript:
   - U-00333–U-00341
   centrality: supporting
-  supporting_sources: []
+  supporting_sources:
+  - SRC-038
+  - SRC-041
   conflicting_sources: []
-  status: deferred
-  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
-  treatment: retain-pending-review
-  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+  status: resolved
+  research_note: >-
+    The 1630s Great Migration to New England was substantial, commonly estimated at roughly 15,000–20,000 people (with
+    lower estimates in some demographic studies). Laudian conformity pressure and the ejection or silencing of ministers were
+    important motives, but migration began before the harshest phase and also reflected commercial, familial, and religious
+    community motives. “Driven” should therefore be qualified rather than treated as a single-cause explanation.
+  treatment: retain-with-qualification
 - id: C-011
   claim: William Prynne was twice pilloried and mutilated for polemical publications while imprisoned.
   transcript:
   - U-00371–U-00419
   centrality: supporting
-  supporting_sources: []
+  supporting_sources:
+  - SRC-033
   conflicting_sources: []
-  status: deferred
-  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
-  treatment: retain-pending-review
-  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+  status: resolved
+  research_note: >-
+    Gardiner’s Camden Society edition documents Prynne’s Star Chamber proceedings in 1634 and 1637. He was imprisoned,
+    fined, pilloried and mutilated in the first case, then sentenced again in 1637 with the remaining ear stumps removed and
+    his cheeks branded. “Twice pilloried and mutilated” is substantially accurate, though the two sentences differed in the
+    precise injuries and dates.
+  treatment: retain
 - id: C-012
   claim: English Catholic priests faced capital statutes that Charles enforced leniently.
   transcript:
   - U-00427–U-00443
   centrality: supporting
-  supporting_sources: []
+  supporting_sources:
+  - SRC-034
   conflicting_sources: []
-  status: deferred
-  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
-  treatment: retain-pending-review
-  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+  status: resolved
+  research_note: >-
+    The 1585 statute made the presence of seminary priests and Jesuits in England a capital treason offence. Charles I
+    largely suspended executions under it during 1625–40, amounting to a contested quasi-toleration, but capital enforcement
+    resumed during the parliamentary crisis and early civil war. The claim is sound only with this chronology and with
+    “leniently” understood as selective non-enforcement, not repeal of the statutes.
+  treatment: retain-with-qualification
 - id: C-013
   claim: Fear of popery made Charles’s Spanish policy and the queen’s Catholic household politically explosive.
   transcript:
@@ -204,12 +239,19 @@
   transcript:
   - U-00650–U-00658
   centrality: central
-  supporting_sources: []
+  supporting_sources:
+  - SRC-014
+  - SRC-016
+  - SRC-039
   conflicting_sources: []
-  status: deferred
-  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
-  treatment: retain-pending-review
-  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+  status: resolved
+  research_note: >-
+    The claim expresses the classic Marxist/social interpretation associated with Hill and related historians: the revolution
+    transferred political power toward propertied interests and protected property, while radical egalitarian programmes were
+    defeated. Revisionist and post-revisionist historians dispute the idea of a unified bourgeois class or a chiefly economic
+    cause, and Levellers and Diggers did articulate competing egalitarian or communal programmes. Present this as a
+    historiographical interpretation, not settled fact.
+  treatment: retain-with-qualification
 - id: C-019
   claim: The Scottish Prayer Book introduced in July 1637 triggered an Edinburgh riot and government retreat.
   transcript:
@@ -239,12 +281,18 @@
   transcript:
   - U-00762–U-00793
   centrality: supporting
-  supporting_sources: []
+  supporting_sources:
+  - SRC-022
+  - SRC-034
+  - SRC-044
   conflicting_sources: []
-  status: deferred
-  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
-  treatment: retain-pending-review
-  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+  status: resolved
+  research_note: >-
+    The Covenanter movement mobilized broad support, created an alternative governing structure, and pursued a coercive
+    programme of religious uniformity and a “godly society.” Contemporary and later observers could therefore fear that
+    resistance might escape elite control and become social disorder. The precise extent of elite fear of social revolution is
+    interpretive and varied by faction; retain the claim with that qualification rather than as a documented consensus.
+  treatment: retain-with-qualification
 - id: C-022
   claim: Charles’s military and financial weakness in the First Bishops’ War forced him to summon Parliament.
   transcript:
@@ -283,35 +331,50 @@
   transcript:
   - U-00872–U-00937
   centrality: central
-  supporting_sources: []
+  supporting_sources:
+  - SRC-035
+  - SRC-036
   conflicting_sources: []
-  status: deferred
-  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
-  treatment: retain-pending-review
-  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+  status: resolved
+  research_note: >-
+    Parliamentary testimony and the subsequent attainder record Strafford’s reported advice that the King had an army in
+    Ireland with which he might “reduce this kingdom.” The wording was genuinely ambiguous between Scotland and England;
+    opponents presented it as a plan to subdue England, while Strafford’s defence placed it in the Scottish war. The claim
+    should retain the ambiguity and avoid asserting his intent as proved.
+  treatment: retain-with-qualification
 - id: C-026
   claim: The 1640 election produced unusually strong popular mobilization and a small court party.
   transcript:
   - U-00951–U-00980
   centrality: supporting
-  supporting_sources: []
+  supporting_sources:
+  - SRC-037
+  - SRC-040
   conflicting_sources: []
-  status: deferred
-  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
-  treatment: retain-pending-review
-  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+  status: resolved
+  research_note: >-
+    The 1640 elections were unusually contested and politically organized after the Personal Rule: opposition leaders
+    canvassed constituencies, petitions and popular demonstrations fed directly into parliamentary politics, and very few of
+    the King’s ministers were returned. The exact “eleven percent” court-party calculation and the generalization from
+    artisans and shopkeepers require a defined dataset; retain the broader mobilization claim with a statistical caveat.
+  treatment: retain-with-qualification
 - id: C-027
   claim: Strafford was condemned by attainder after the treason case faltered, and Charles assented despite promising his
     safety.
   transcript:
   - U-01034–U-01064
   centrality: central
-  supporting_sources: []
+  supporting_sources:
+  - SRC-035
+  - SRC-036
   conflicting_sources: []
-  status: deferred
-  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
-  treatment: retain-pending-review
-  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+  status: resolved
+  research_note: >-
+    Strafford’s impeachment failed after his defence before the Lords, so Parliament adopted a bill of attainder declaring him
+    guilty without a further trial. Charles eventually granted royal assent under intense political and personal pressure.
+    His earlier assurance of protection to Strafford is reported in the surrounding contemporary narrative but is not itself
+    contained in the attainder; describe it as an assurance or promise, not as a legally binding guarantee.
+  treatment: retain-with-qualification
 - id: C-028
   claim: Charles’s attempt to arrest five members, the Hull confrontation, and the Nottingham standard marked the road to
     war.
@@ -330,12 +393,17 @@
   transcript:
   - U-01120–U-01140
   centrality: sampled-incidental
-  supporting_sources: []
+  supporting_sources:
+  - SRC-040
+  - SRC-046
   conflicting_sources: []
-  status: deferred
-  research_note: Additional focused scholarly or primary-source research is needed before changing the script.
-  treatment: retain-pending-review
-  deferred_reason: The available institutional and primary-source batch did not directly establish this claim’s full scope.
+  status: resolved
+  research_note: >-
+    Brunton and Pennington’s prosopographical work, together with regional university-matriculation evidence, supports a
+    younger average age among Royalist than Parliamentarian MPs; one contemporary analysis estimates the difference at about
+    ten years. The evidence is strongest for parliamentary and military samples, not every peer or every supporter, and age is
+    a correlation rather than proof that youthful political experience caused Royalism. Retain with that scope limitation.
+  treatment: retain-with-qualification
 - id: C-030
   claim: Parliamentary victory and regicide did not produce social levelling; the army suppressed Leveller challenges.
   transcript:

@@ -223,3 +223,174 @@
   url: https://en.wikisource.org/wiki/Cassell%27s_Illustrated_History_of_England/Volume_3/Chapter_3
   access_date: '2026-08-15'
   locator: 'discussion of 13 April 1640: praise of Charles, Scottish rebellion, supply before grievances'
+- id: SRC-026
+  author: Royal Commission on Historical Manuscripts
+  title: Seventh Report, Part I, Appendix (Lowndes MSS)
+  date: '1879'
+  original_language: en
+  identifier: H.M.C. Seventh Report, Part I, Appendix, p. 549
+  url: https://books.google.com/books?id=HORJgWOLmcUC&pg=PA549
+  access_date: '2026-08-15'
+  locator: 'Item no. 498: W. Maynard to [Sir Thomas Barrington], 19 March 1639, Eaton'
+- id: SRC-027
+  author: Charles I
+  title: His Majesties Answer to the Nineteen Propositions of Both Houses of Parliament
+  date: '1642'
+  original_language: en
+  identifier: Printed by R. Barker; royal answer dated 18 June 1642
+  url: https://constitution.org/1-History/eng/nineteen_propositions_1642.html
+  access_date: '2026-08-15'
+  locator: 'Final section beginning “Since as great an one in the Church...”'
+- id: SRC-028
+  author: Sir Simonds D’Ewes
+  title: The Autobiography and Correspondence of Sir Simonds D’Ewes, Bart.
+  date: '1845'
+  original_language: en
+  identifier: Edited by J. O. Halliwell, vol. II, p. 278; underlying BL Harleian MS 163, fol. 153r
+  url: https://books.google.com/books?id=HjQJAAAAQAAJ&pg=PA278
+  access_date: '2026-08-15'
+  locator: 'Diary entry, 8 June 1642; BL Harleian MS 163, fol. 153r'
+- id: SRC-029
+  author: James Shirley
+  title: The Triumph of Peace
+  date: '1634'
+  original_language: en
+  identifier: EEBO-TCP B07101; masque performed at Whitehall on 3 February 1633/4
+  url: https://quod.lib.umich.edu/e/eebo2/B07101.0001.001?view=toc
+  access_date: '2026-08-15'
+  locator: 'Title page and masque text; performance date 3 February 1633/4'
+- id: SRC-030
+  author: David L. Smith
+  title: 'The King’s Evil Without the King: The Royal Touch during the Interregnum'
+  date: '2025'
+  original_language: en
+  identifier: Journal of Religious History, DOI 10.1111/1467-9809.13158
+  url: https://onlinelibrary.wiley.com/doi/10.1111/1467-9809.13158
+  access_date: '2026-08-15'
+  locator: discussion of Charles I’s regular royal touch and the 1634 liturgy
+- id: SRC-031
+  author: William J. Bulman
+  title: 'The Practice of Politics: The English Civil War and the “Resolution” of Henrietta Maria and Charles I'
+  date: '2010'
+  original_language: en
+  identifier: Past & Present 206, no. 1, pp. 43–79; DOI 10.1093/pastj/gtp042
+  url: https://academic.oup.com/past/article/206/1/43/1496510
+  access_date: '2026-08-15'
+  locator: 'Analysis of Henrietta Maria’s political influence, Catholic identity, and anti-Catholic representations'
+- id: SRC-032
+  author: Dagmar Freist
+  title: 'Popery in perfection? The experience of Catholicism: Henrietta Maria between private practice and public discourse'
+  date: '2011'
+  original_language: en
+  identifier: In The Experience of Revolution in Stuart Britain and Ireland, chapter 2
+  url: https://www.cambridge.org/core/books/experience-of-revolution-in-stuart-britain-and-ireland/popery-in-perfection-the-experience-of-catholicism-henrietta-maria-between-private-practice-and-public-discourse/D756FC68B7EA14AD51B66113543DF9DF
+  access_date: '2026-08-15'
+  locator: 'Discussion of anti-Catholicism and Henrietta Maria’s public representation'
+- id: SRC-033
+  author: Samuel Rawson Gardiner, ed.
+  title: Documents relating to the proceedings against William Prynne, in 1634 and 1637
+  date: '1877'
+  original_language: en
+  identifier: Camden Society, New Series XVIII, 121 pp.
+  url: https://archive.org/details/documentsrelatin00gardrich
+  access_date: '2026-08-15'
+  locator: 'Proceedings and sentences of 1634 and 1637, pp. 1–28 and 100–121'
+- id: SRC-034
+  author: Lucy Underwood
+  title: 'Law, Nationhood and Religion: Trial Defences of English Priests, 1585–c.1640'
+  date: '2024'
+  original_language: en
+  identifier: The English Historical Review 138, nos. 594–595, pp. 1223–1254; DOI 10.1093/ehr/cead211
+  url: https://academic.oup.com/ehr/article/138/594-595/1223/7633888
+  access_date: '2026-08-15'
+  locator: 'Discussion of the 1585 statute and Charles I’s cessation of executions, especially pp. 1245–1246'
+- id: SRC-035
+  author: UK Parliament
+  title: The Long Parliament
+  date: n.d.
+  original_language: en
+  identifier: Living Heritage
+  url: https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/civilwar/overview/longparliament/
+  access_date: '2026-08-15'
+  locator: 'Fall of Strafford: impeachment, attainder, and royal assent'
+- id: SRC-036
+  author: John Rushworth, ed.
+  title: The Tryal of Thomas, Earl of Strafford
+  date: '1680'
+  original_language: en
+  identifier: EEBO-TCP A57925; parliamentary proceedings 1640–1641
+  url: https://llds.ling-phil.ox.ac.uk/llds/xmlui/handle/20.500.14106/A57925?show=full
+  access_date: '2026-08-15'
+  locator: 'Impeachment and attainder proceedings, including the “reduce this kingdom” allegation'
+- id: SRC-037
+  author: Ellen Paterson
+  title: 'Contemporary Parliamentary History and Petitioners in the Long Parliament, c. 1640–1642'
+  date: '2026'
+  original_language: en
+  identifier: The Historical Journal 69, no. 2, pp. 245–265; DOI 10.1017/S0018246X25101283
+  url: https://www.cambridge.org/core/journals/historical-journal/article/contemporary-parliamentary-history-and-petitioners-in-the-long-parliament-c-16401642/59059B25E4588F8B53A17DC847F69B39
+  access_date: '2026-08-15'
+  locator: 'Opening months of the Long Parliament: petitions, committees, and popular political coordination'
+- id: SRC-038
+  author: Avihu Zakai
+  title: 'The Gospel of Reformation: The Origins of the Great Puritan Migration'
+  date: '1986'
+  original_language: en
+  identifier: Journal of Ecclesiastical History 37, no. 4, pp. 584–602; DOI 10.1017/S0022046900022041
+  url: https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/abs/gospel-of-reformation-the-origins-of-the-great-puritan-migration/EC802096E47E01C62B178CE3D6CBC845
+  access_date: '2026-08-15'
+  locator: 'Competing explanations of the 1630–1640 migration and its ecclesiastical causes'
+- id: SRC-039
+  author: John Morrill, ed.
+  title: 'What Does the English Revolution Mean? Recent Historiographical Interpretations of Mid-Seventeenth-Century England'
+  date: '1993'
+  original_language: en
+  identifier: Albion 25, no. 4; Cambridge Core
+  url: https://www.cambridge.org/core/journals/albion/article/what-does-the-english-revolution-mean-recent-historiographical-interpretations-of-mid-seventeenth-century-england/423FDC7615062744449901559DD19DDD
+  access_date: '2026-08-15'
+  locator: 'Review of social/Marxist and revisionist interpretations of the English Revolution'
+- id: SRC-040
+  author: Douglas Brunton and Donald H. Pennington
+  title: Members of the Long Parliament
+  date: '1954'
+  original_language: en
+  identifier: Allen & Unwin, 256 pp.
+  url: https://books.google.com/books?id=_LwGAAAAMAAJ
+  access_date: '2026-08-15'
+  locator: 'Prosopographical tables on members’ age, education, and alignment'
+- id: SRC-041
+  author: The National Archives
+  title: 'Civil War person: Bishop'
+  date: n.d.
+  original_language: en
+  identifier: Education resource
+  url: https://www.nationalarchives.gov.uk/education/resources/civil-war-people/civil-war-person-bishop/
+  access_date: '2026-08-15'
+  locator: 'Charles and Laud’s ceremonial and disciplinary changes in the 1630s'
+- id: SRC-042
+  author: Isaac Stephens
+  title: 'Confessional Identity in Early Stuart England: The “Prayer Book Puritanism” of Elizabeth Isham'
+  date: '2011'
+  original_language: en
+  identifier: Journal of British Studies 50, no. 1, pp. 24–47; DOI 10.1086/656675
+  url: https://www.cambridge.org/core/journals/journal-of-british-studies/article/confessional-identity-in-early-stuart-england-the-prayer-book-puritanism-of-elizabeth-isham/20F5948CB7D938BA04A7CA91D9B9CA76
+  access_date: '2026-08-15'
+  locator: 'Discussion of Puritan diversity, Scripture, Prayer Book use, and godly practice'
+- id: SRC-044
+  author: John R. Young
+  title: The Scottish Covenanters and the drive for a godly society, 1639–1651
+  date: '2001'
+  original_language: en
+  identifier: University of Strathclyde research record
+  url: https://pureportal.strath.ac.uk/en/publications/the-scottish-covenanters-and-the-drive-for-a-godly-society-1639-1/
+  access_date: '2026-08-15'
+  locator: 'Covenanter state-building and religious discipline, 1639–1651'
+- id: SRC-046
+  author: John Henry Burgess
+  title: The social structure of Bedfordshire and Northamptonshire 1524–1674
+  date: '1978'
+  original_language: en
+  identifier: PhD thesis, University of York, EthosID uk.bl.ethos.450215
+  url: https://etheses.whiterose.ac.uk/id/eprint/11033/
+  access_date: '2026-08-15'
+  locator: 'Vol. I, p. 160 and Table XLI: relative ages of Royalist and Parliamentarian university men'
