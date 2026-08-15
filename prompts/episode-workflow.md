@@ -4,6 +4,16 @@ Run `{episode_directory}` in strict sequence. Preserve stable IDs and human deci
 provider responses, corrections, and logs remain in external `work_dir`; reviewed artifacts belong
 in the episode directory.
 
+## Agent execution policy
+
+Run every language-model editorial and review pass with native Codex agents in the current Codex
+session. Use native Codex sub-agents for independent, non-overlapping work when delegation is
+authorized; otherwise run the pass with the primary Codex agent. Never send these passes through
+OpenRouter, Gemini, another external model API or CLI, or an external model fallback. If native
+Codex capacity is temporarily unavailable, wait or ask the user how to proceed instead of changing
+providers. This restriction does not prohibit the source-research and transcription services
+explicitly required elsewhere in the workflow.
+
 1. Prepare/select audio and transcribe. Use `transcript-correction.md`, rerender, and then use
    `italian-source.md` to create chapter metadata, `script.it.md`, and `italian-review.yaml`.
    A human must compare every utterance with audio and approve every chapter's exact ordered
@@ -28,10 +38,12 @@ in the episode directory.
    `pending` decision blocks all downstream output. Preserve existing human decisions and approved
    corrections when rerunning a pilot.
 7. Use `approved-corrections.md` to create `script.corrected.en.md`.
-8. Run `chapter-tense.md` independently for every chapter. Require one explicitly reviewed
-   `tense/CH-NNN.md` per chapter, then concatenate their contents in order—removing only the review
-   comments—into `script.tense.en.md`. Do not rewrite during assembly.
-9. Run `chapter-naturalness.md` independently for every chapter from the tense-reviewed assembly.
+8. Run `chapter-tense.md` independently for every chapter with native Codex agents. Require one
+   explicitly reviewed `tense/CH-NNN.md` per chapter, then concatenate their contents in
+   order—removing only the review comments—into `script.tense.en.md`. Do not rewrite during
+   assembly.
+9. Run `chapter-naturalness.md` independently for every chapter with native Codex agents, using the
+   tense-reviewed assembly as the source.
    Require one explicitly reviewed `naturalness/CH-NNN.md` per chapter, then concatenate their
    contents in order—removing only the review comments—into `script.spoken.en.md`. Do not rewrite
    during assembly.

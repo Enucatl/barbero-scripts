@@ -1,0 +1,451 @@
+- id: C-001
+  claim: 'Lincoln was assassinated by John Wilkes Booth, a prominent actor and Confederate sympathizer, shortly after Lee’s surrender; Booth escaped after attacking Lincoln’s companion and was later killed while fleeing.'
+  transcript: [U-00003–U-00035]
+  centrality: supporting
+  supporting_sources: [SRC-016, SRC-017]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-note
+  research_note: 'Lee surrendered 9 April 1865; Booth shot Lincoln 14 April and was killed 26 April. Booth wounded Major Henry Rathbone, Lincoln’s guest, not a protective officer.'
+- id: C-002
+  claim: 'The Civil War caused about 600,000 deaths, more than all United States wars of the twentieth century combined.'
+  transcript: [U-00036–U-00042]
+  centrality: supporting
+  supporting_sources: [SRC-018, SRC-019, SRC-020]
+  conflicting_sources: []
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'Traditional estimate is about 620,000 military deaths; newer demographic estimates approach 750,000. The comparison depends on selected conflicts and casualty definitions.'
+- id: C-003
+  claim: 'Lincoln won the 1860 presidency with roughly 40 percent of the popular vote, carrying the North while receiving no votes in much of the slaveholding South.'
+  transcript: [U-00047–U-00059]
+  centrality: supporting
+  supporting_sources: [SRC-021, SRC-022]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-note
+  research_note: 'Lincoln won 39.8 percent in a four-candidate contest and recorded no popular votes in nine slave states with popular presidential voting. South Carolina appointed electors legislatively.'
+- id: C-004
+  claim: 'The Civil War resulted primarily from territorially rooted and incompatible models of economic development, society, and political ideology rather than electoral polarization alone.'
+  transcript: [U-00069–U-00084]
+  centrality: central
+  supporting_sources: [SRC-023, SRC-024]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-qualification
+  research_note: 'A defensible structural interpretation only if slavery, racial order, and slavery’s territorial expansion remain central rather than becoming merely one economic interest among others.'
+- id: C-005
+  claim: 'In 1860 the United States had 31 million inhabitants, up from 23 million in 1850, making its population larger than Britain’s and slightly smaller than France’s.'
+  transcript: [U-00086–U-00104]
+  centrality: sampled-incidental
+  supporting_sources: [SRC-025, SRC-026, SRC-027]
+  conflicting_sources: []
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'United States population was 31,443,321 in 1860 and 23,191,876 in 1850; it exceeded the United Kingdom’s 1861 total but was nearly six million below France’s, not merely slightly below it.'
+- id: C-006
+  claim: 'United States industrial output doubled from 1850 to 1860 and the country had about 53,000 kilometres of operating railways in 1860.'
+  transcript: [U-00105–U-00124]
+  centrality: supporting
+  supporting_sources: [SRC-028, SRC-029]
+  conflicting_sources: []
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'Manufacturing-product value rose about 85 percent, not literally doubled. The 1860 census reported 30,626 railroad miles, about 49,288 kilometres.'
+- id: C-007
+  claim: 'The United States in 1860 had universal male suffrage, relatively low economic inequality, high wages, and literacy of about 90 percent among white people.'
+  transcript: [U-00125–U-00146]
+  centrality: sampled-incidental
+  supporting_sources: [SRC-030, SRC-031, SRC-032]
+  conflicting_sources: [SRC-033]
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'White male suffrage was broad but state-governed and non-universal. Wages were comparatively high but variable; nationwide wealth inequality was high. About 90 percent is defensible only for free white adults under the census measure.'
+- id: C-008
+  claim: 'The North contained about three quarters of the population and nearly all industry, whereas the South was an agricultural cotton economy based on about four million enslaved people and British textile demand.'
+  transcript: [U-00147–U-00176]
+  centrality: central
+  supporting_sources: [SRC-034, SRC-035, SRC-036]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-qualification
+  research_note: 'The census counted 3,953,760 enslaved people and northern states produced about 90 percent of manufacturing output. Regional shares vary by definition, and the South also had cities, commerce, railways, and manufacturing.'
+- id: C-009
+  claim: 'Before Lincoln, nine of fifteen presidents came from southern states and eight of those nine were slaveholders, reflecting southern planter influence over national politics.'
+  transcript: [U-00177–U-00198]
+  centrality: supporting
+  supporting_sources: [SRC-037, SRC-038]
+  conflicting_sources: []
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'Nine of the first fifteen presidents were southern-born, and all nine were slaveholders at some point. Birthplace alone does not fully measure planter influence.'
+- id: C-010
+  claim: 'Antebellum political economy was tripartite: an industrial-commercial North, a slaveholding plantation South, and a western society of white settlers and small farmers receiving land from the federal government.'
+  transcript: [U-00199–U-00247]
+  centrality: central
+  supporting_sources: [SRC-039, SRC-034, SRC-040, SRC-041]
+  conflicting_sources: [SRC-042]
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'The typology is useful but omits internal diversity and Indigenous, Mexican, Black, and migrant communities. Federal land was commonly sold or claimed under varied laws; general homesteading began in 1862.'
+- id: C-011
+  claim: 'The Mexican-American War brought Texas, New Mexico, and California under United States control and was politically driven by an alliance of southern planters and western settlers.'
+  transcript: [U-00250–U-00262]
+  centrality: supporting
+  supporting_sources: [SRC-043, SRC-044]
+  conflicting_sources: []
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'Texas was annexed and admitted in 1845 before the 1846–1848 war. The war confirmed the Texas boundary and ceded Alta California and New Mexico; multiple causes and constituencies were involved.'
+- id: C-012
+  claim: 'The nineteenth-century Democratic Party represented southern planters and western small proprietors, while the South’s later shift toward the Republican Party occurred in the twentieth century.'
+  transcript: [U-00263–U-00276]
+  centrality: supporting
+  supporting_sources: [SRC-045, SRC-046, SRC-047]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-qualification
+  research_note: 'Planters and western expansionists were important Democratic constituencies, but the party also included northern urban and immigrant voters. Southern Republican realignment was prolonged, not a single Reagan-era event.'
+- id: C-013
+  claim: 'Conflict over protective tariffs exposed opposing northern industrial and southern cotton-export interests and became a major sectional political dispute.'
+  transcript: [U-00277–U-00308]
+  centrality: supporting
+  supporting_sources: [SRC-048, SRC-049]
+  conflicting_sources: [SRC-050]
+  status: resolved
+  treatment: retain-with-qualification
+  research_note: 'Tariff politics was sectional, but British retaliation was a southern fear rather than established policy. Tariffs did not have the later-crisis centrality of slavery and its expansion.'
+- id: C-014
+  claim: 'In the Nullification Crisis of 1832, South Carolina declared a federal tariff null within the state, raising a conflict over state sovereignty and federal authority.'
+  transcript: [U-00309–U-00327]
+  centrality: supporting
+  supporting_sources: [SRC-051, SRC-049]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain
+  research_note: 'South Carolina’s 24 November 1832 ordinance nullified the 1828 and 1832 tariffs; the crisis ended through the Compromise Tariff and Force Bill, not recognition of a nullification right.'
+- id: C-015
+  claim: 'Calhoun’s theory treated states as sovereign and the federal government as their agent; the Civil War can be interpreted as the forceful transformation of the United States into a nation.'
+  transcript: [U-00328–U-00364]
+  centrality: central
+  supporting_sources: [SRC-052, SRC-053, SRC-054]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-qualification
+  research_note: 'Calhoun’s compact theory is documented. Nation-making by force is a valid historiographical interpretation but should remain marked as interpretive.'
+- id: C-016
+  claim: 'United States expansion proceeded through white settler colonization, territorial organization, and eventual statehood on lands claimed by Indigenous peoples and Mexico.'
+  transcript: [U-00365–U-00402]
+  centrality: supporting
+  supporting_sources: [SRC-055, SRC-056, SRC-043, SRC-039]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-qualification
+  research_note: 'Congress admitted states case by case; no automatic settler threshold existed. Indigenous sovereignty and Mexican treaty and property claims materially complicate the frontier shorthand.'
+- id: C-017
+  claim: 'The status of slavery in western territories was central to sectional conflict; the Mason-Dixon line broadly marked free and slave regions, and slavery was restored in Texas after its incorporation into the United States.'
+  transcript: [U-00403–U-00440]
+  centrality: central
+  supporting_sources: [SRC-057, SRC-060]
+  conflicting_sources: [SRC-058, SRC-059]
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'The territorial issue was central, but the relevant territorial line was the Missouri Compromise line at 36°30′, not Mason-Dixon. Slavery was protected in the Republic of Texas from 1836, before annexation.'
+- id: C-018
+  claim: 'Equal state representation in the Senate made the admission of new free or slave states politically decisive, as illustrated by the Missouri Compromise pairing Missouri with Maine.'
+  transcript: [U-00441–U-00477]
+  centrality: supporting
+  supporting_sources: [SRC-061, SRC-062, SRC-060, SRC-063]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-note
+  research_note: 'Maine entered free in 1820 and Missouri slaveholding in 1821, preserving Senate parity. The compromise also restricted slavery north of 36°30′ in the remaining Louisiana Purchase territory except Missouri.'
+- id: C-019
+  claim: 'By 1846, debate over anticipated Mexican territorial acquisitions had linked restrictions on slaveholding expansion to secession threats, including one attributed to Robert Toombs.'
+  transcript: [U-00478–U-00509]
+  centrality: supporting
+  supporting_sources: [SRC-044, SRC-002, SRC-064]
+  conflicting_sources: [SRC-065, SRC-043]
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'The Wilmot Proviso made the issue immediate in 1846, but Toombs’s documented disunion statement was in December 1849 as a representative, concerning California and New Mexico. New Mexico was not statutorily declared slave-free.'
+- id: C-020
+  claim: 'Western farmers increasingly aligned with the North because railways, eastern markets, and northern agricultural machinery integrated the Midwest economically with the industrial North.'
+  transcript: [U-00510–U-00553]
+  centrality: central
+  supporting_sources: [SRC-066, SRC-067, SRC-068, SRC-021]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-qualification
+  research_note: 'Economic integration and Republican development policies mattered, but free-soil politics, Kansas-Nebraska, religion, ethnicity, settlement, and local political diversity also shaped the alignment.'
+- id: C-021
+  claim: 'Slavery was the central issue dividing the United States, but the conflict should not be reduced to a simple moral struggle between humanitarian abolitionists and proslavery defenders.'
+  transcript: [U-00554–U-00581]
+  centrality: central
+  supporting_sources: [SRC-024, SRC-023, SRC-069, SRC-070]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-qualification
+  research_note: 'Slavery and the status of Black Americans were central to secession and war. Northerners were neither uniformly abolitionist nor free of racism, but this qualification must not displace slavery from causal centrality.'
+- id: C-022
+  claim: 'Northern abolition of slavery was driven chiefly by white workers’ and sailors’ resistance to competition from enslaved labor rather than by widespread humanitarianism.'
+  transcript: [U-00582–U-00609]
+  centrality: central
+  supporting_sources: [SRC-005]
+  conflicting_sources: [SRC-024, SRC-069]
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'Adams supplies one retrospective explanation for Massachusetts. It cannot establish a chief cause across the North, where law, antislavery principle, Black activism, Quaker activism, revolutionary politics, labor interests, and racial exclusion varied.'
+- id: C-023
+  claim: 'Northern and western states imposed extensive racial restrictions on free Black people, including Illinois restrictions on Black entry into the state.'
+  transcript: [U-00610–U-00621]
+  centrality: supporting
+  supporting_sources: [SRC-070, SRC-071, SRC-024]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-note
+  research_note: 'Illinois’s 1853 act criminalized entry and ten-day intended residence by Black or mulatto persons and authorized coercive labor sale for unpaid penalties.'
+- id: C-024
+  claim: 'In the early nineteenth-century South, political elites debated emancipation, and the Virginia legislature considered but narrowly rejected an abolition proposal in 1832.'
+  transcript: [U-00622–U-00668]
+  centrality: supporting
+  supporting_sources: [SRC-072, SRC-073, SRC-074, SRC-075]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-note
+  research_note: 'Upper-South debate existed but was often tied to compensation, colonization, and white security. Virginia’s House rejected Preston’s gradual colonization-linked proposal 58–73 on 25 January 1832.'
+- id: C-025
+  claim: 'The United States abolished the transatlantic slave trade during Jefferson’s presidency; in 1860 about 4.5 million Black people lived in the country, about four million enslaved, and Washington expressed moral repugnance toward slavery.'
+  transcript: [U-00631–U-00660]
+  centrality: supporting
+  supporting_sources: [SRC-076, SRC-077, SRC-078, SRC-006]
+  conflicting_sources: []
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'Congress prohibited importation in 1807, effective 1 January 1808. The 1860 totals were 4,441,830 Black people and 3,953,760 enslaved people. Washington’s recovered wording concerns purchasing more enslaved people.'
+- id: C-026
+  claim: 'Southern emancipation proposals were constrained by the capital value of enslaved people, the cost of compensation, and white resistance to multiracial citizenship.'
+  transcript: [U-00668–U-00680]
+  centrality: central
+  supporting_sources: [SRC-072, SRC-074, SRC-070, SRC-079]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-qualification
+  research_note: 'Property value, compensation, racial exclusion, security fears, constitutional protections, and political power constrained emancipation. Absolute claims that nobody imagined multiracial citizenship erase Black communities and antislavery advocates.'
+- id: C-027
+  claim: 'Colonization societies established Liberia, with Monroe associated with the project and the name Monrovia; approximately 15,000 emancipated Black Americans were transferred there and Americo-Liberians later dominated Indigenous populations.'
+  transcript: [U-00681–U-00702]
+  centrality: supporting
+  supporting_sources: [SRC-080, SRC-081, SRC-082, SRC-083, SRC-084]
+  conflicting_sources: [SRC-085]
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'The ACS helped establish the colony in 1822; Liberia became independent in 1847 and Monrovia honored Monroe. Totals near 15,000–16,000 vary by dates and inclusion. Americo-Liberian domination is documented, but a simple statement that settlers enslaved Indigenous people is imprecise.'
+- id: C-028
+  claim: 'Industrial demand for cotton made slave-based cotton production highly profitable and increased the market value of enslaved people before the Civil War.'
+  transcript: [U-00708–U-00745]
+  centrality: central
+  supporting_sources: [SRC-086, SRC-079, SRC-087, SRC-088]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-qualification
+  research_note: 'World textile demand, land, credit, expansion, and domestic slave trading contributed. A $1,000 slave sale and an $8 monthly wage are plausible illustrations, not stable national equivalents.'
+- id: C-029
+  claim: 'The illegal Atlantic slave trade continued after the federal ban, including through ships associated with northern ports such as Boston and New York.'
+  transcript: [U-00726–U-00736]
+  centrality: supporting
+  supporting_sources: [SRC-089, SRC-090, SRC-091, SRC-092, SRC-093]
+  conflicting_sources: []
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'Illegal importation persisted and New York links are well documented. Northern connections may concern registration, finance, purchase, outfitting, or departure; routine Boston–New York clandestine landings are not established.'
+- id: C-030
+  claim: 'Northern abolitionism emerged after the 1820s and 1830s as a religiously inflected movement for immediate uncompensated abolition and helped make southern criticism of slavery politically untenable.'
+  transcript: [U-00746–U-00804]
+  centrality: central
+  supporting_sources: [SRC-094, SRC-095, SRC-096, SRC-024, SRC-072]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-qualification
+  research_note: 'Earlier Black, Quaker, and gradual-emancipation traditions predated the 1820s. An immediatist movement rose in the 1830s and hardened southern politics, but was not the sole cause of proslavery consolidation.'
+- id: C-031
+  claim: 'Southern proslavery ideology developed religious, racial, paternalist, and comparative labor arguments that defended slavery as beneficial to enslaved people and superior to northern wage labor.'
+  transcript: [U-00805–U-00839]
+  centrality: central
+  supporting_sources: [SRC-097, SRC-010]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-note
+  research_note: 'Representative proslavery texts deploy biblical, racial-hierarchical, paternalist, and anti-wage-labor arguments. They are ideological justifications, not neutral descriptions of enslaved people’s experience.'
+- id: C-032
+  claim: 'Proslavery ideology won support from many non-slaveholding white southerners by presenting slavery as the foundation of white equality, liberty, social order, and freedom from class conflict.'
+  transcript: [U-00840–U-00887]
+  centrality: central
+  supporting_sources: [SRC-098, SRC-099, SRC-010]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-qualification
+  research_note: 'Slaveholders were a minority of white southern households, varying by locality. Ideology supported white solidarity but cannot alone explain political behavior or Confederate service.'
+- id: C-033
+  claim: 'Southern extremism included proposals to expand slaveholding power into Cuba and Latin America, reopen the transatlantic slave trade, and invoke the doctrine that cotton’s importance made the South secure.'
+  transcript: [U-00888–U-00913]
+  centrality: supporting
+  supporting_sources: [SRC-100, SRC-101, SRC-010]
+  conflicting_sources: [SRC-101]
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'Filibustering, reopening agitation, and King Cotton ideology are documented. Gregg advocated reopening the trade, but the reviewed evidence does not securely establish the alleged specific legislative motion.'
+- id: C-034
+  claim: 'Northern fear of a Slave Power conspiracy, reciprocal sectional stereotypes, and divisions among Protestant denominations intensified the sense that North and South were separate nations.'
+  transcript: [U-00914–U-00959]
+  centrality: central
+  supporting_sources: [SRC-102, SRC-103, SRC-104]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-qualification
+  research_note: 'Slave Power rhetoric and denominational schisms are documented. Conspiracy language was political rhetoric, not proof of a centrally directed cabal.'
+- id: C-035
+  claim: 'The 1850 southern convention and the congressional crisis over California brought secession into open discussion, while Calhoun proposed separate northern and southern federations before the Compromise of 1850 was adopted.'
+  transcript: [U-00960–U-00983]
+  centrality: supporting
+  supporting_sources: [SRC-105, SRC-104, SRC-065]
+  conflicting_sources: [SRC-104]
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'The Nashville Convention made conditional disunion open debate. Calhoun’s final speech contemplated peaceful separation if settlement failed but did not provide a formal blueprint for two linked federations.'
+- id: C-036
+  claim: 'The strengthened federal fugitive-slave regime authorized pursuit and capture of alleged fugitives in free states and radicalized northern opinion against slaveholding power.'
+  transcript: [U-00984–U-00997]
+  centrality: central
+  supporting_sources: [SRC-065, SRC-106, SRC-107]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-note
+  research_note: 'The 1850 act enabled seizure, summary commissioner proceedings, marshals, deputies, compelled assistance, and removal. It was not a modern federal police force, and radicalization was uneven.'
+- id: C-037
+  claim: 'The Underground Railroad assisted people escaping slavery, and Harriet Beecher Stowe’s 1852 novel Uncle Tom’s Cabin became a major bestseller that shaped northern views despite its partial fictionalization.'
+  transcript: [U-00998–U-01018]
+  centrality: supporting
+  supporting_sources: [SRC-108, SRC-109, SRC-110]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-note
+  research_note: 'The Underground Railroad was decentralized resistance, not one centrally managed organization. Uncle Tom’s Cabin was serialized in 1851–1852, published in book form in 1852, and sold more than 300,000 copies in its first year.'
+- id: C-038
+  claim: 'The Kansas-Nebraska conflict’s popular sovereignty system prompted proslavery and antislavery migration and violence, including the sack of Lawrence and the Pottawatomie massacre in May 1856.'
+  transcript: [U-01019–U-01077]
+  centrality: central
+  supporting_sources: [SRC-057, SRC-111, SRC-112]
+  conflicting_sources: []
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'Lawrence was attacked on 21 May 1856 and five settlers were killed at Pottawatomie on the night of 24–25 May. Kansas lay north of 36°30′, not north of the Mason-Dixon Line.'
+- id: C-039
+  claim: 'John Brown led the Pottawatomie killings with a band including relatives and associates and believed armed action could destroy slavery and inspire an enslaved uprising.'
+  transcript: [U-01056–U-01069]
+  centrality: supporting
+  supporting_sources: [SRC-112, SRC-113, SRC-114]
+  conflicting_sources: [SRC-115, SRC-116]
+  status: resolved
+  treatment: retain-with-qualification
+  research_note: 'The prevailing account identifies Brown as organizer and leader. Evidence about individual blows needs care; John Brown Jr. and Jason were not participants. Later plans establish armed-liberation aims, not proof of an imminent mass rising.'
+- id: C-040
+  claim: 'Dred Scott sued for freedom after residence in free jurisdictions, and the Supreme Court ruled that he could not sue as a citizen and that Congress could not prohibit slavery in the territories.'
+  transcript: [U-01078–U-01124]
+  centrality: central
+  supporting_sources: [SRC-117]
+  conflicting_sources: []
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'Scott had lived in Illinois and Wisconsin Territory. The Court denied Article III federal citizenship and invalidated the Missouri Compromise territorial restriction; it did not deny a state’s authority to prohibit slavery.'
+- id: C-041
+  claim: 'In 1859 John Brown seized the federal arsenal at Harpers Ferry in an attempt to arm an enslaved uprising; federal forces under Robert E. Lee captured him, and he was executed on 2 December.'
+  transcript: [U-01130–U-01165]
+  centrality: supporting
+  supporting_sources: [SRC-118, SRC-114]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-note
+  research_note: 'Brown led 21 raiders on 16 October 1859. Lee commanded the federal operation; Brown was captured 18 October, convicted in Virginia, and executed 2 December.'
+- id: C-042
+  claim: 'The Republican Party built a northern industrial and western agricultural coalition against southern political dominance and entered the 1860 election with a program of economic development and restriction of slavery’s expansion.'
+  transcript: [U-01166–U-01206]
+  centrality: central
+  supporting_sources: [SRC-119, SRC-068, SRC-120]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-qualification
+  research_note: 'The platform opposed territorial extension of slavery and supported tariffs, homesteads, internal improvements, and a Pacific railroad; it did not commit the party to immediate abolition, Black suffrage, or full racial equality.'
+- id: C-043
+  claim: 'The Kansas constitution invoked in the lecture excluded free Black people from entering the state even though it rejected slavery.'
+  transcript: [U-01207–U-01216]
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: [SRC-121, SRC-122, SRC-123]
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'Contradicted. The operative antislavery Wyandotte Constitution prohibited slavery and limited suffrage to white male citizens, but did not bar free Black residence. The exclusion clause was proposed and defeated; the lecture conflates Wyandotte with Lecompton.'
+- id: C-044
+  claim: 'Before the 1860 election, Lincoln opposed immediate interference with slavery in existing states, entertained colonization, rejected social and political equality, opposed nullification and secession, and supported federal economic development.'
+  transcript: [U-01217–U-01243]
+  centrality: central
+  supporting_sources: [SRC-014, SRC-068, SRC-124, SRC-125]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-qualification
+  research_note: 'Peoria documents colonization and rejection of social and political equality in 1854, not a complete 1860 program. Lincoln denied a purpose or lawful right to interfere with slavery in existing states while opposing slavery’s expansion.'
+- id: C-045
+  claim: 'Lincoln won regionally in 1860 without votes in nine southern states; public voting practices, partisan ballots, and intimidation contributed to his absence from southern returns.'
+  transcript: [U-01244–U-01255]
+  centrality: supporting
+  supporting_sources: [SRC-126, SRC-021, SRC-120]
+  conflicting_sources: []
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'Lincoln recorded no popular votes in nine southern states with popular presidential voting; South Carolina held none. Party-printed tickets and absent or weak Republican organization explain much of the result. Generalized lethal-intimidation claims are not established.'
+- id: C-046
+  claim: 'South Carolina seceded on 20 December 1860, six additional states left before Lincoln’s inauguration, and these states formed the Confederate States of America.'
+  transcript: [U-01256–U-01260]
+  centrality: supporting
+  supporting_sources: [SRC-127, SRC-128, SRC-129]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain
+  research_note: 'Mississippi, Florida, Alabama, Georgia, Louisiana, and Texas followed before 4 March 1861. The seven formed a provisional Confederate government at Montgomery in February.'
+- id: C-047
+  claim: 'In his First Inaugural Address, Lincoln combined a promise not to interfere with slavery where it existed with a constitutional rejection of secession and a defense of the perpetual Union.'
+  transcript: [U-01261–U-01312]
+  centrality: central
+  supporting_sources: [SRC-015, SRC-130]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-note
+  research_note: 'The address is conciliatory about slavery in existing states but firm on perpetual Union, enforcement of federal law, and federal installations.'
+- id: C-048
+  claim: 'Secessionist authorities seized most federal property, but after South Carolina bombarded Fort Sumter on 12 April 1861 and its garrison surrendered the next day, Lincoln called for 70,000 volunteers for three months.'
+  transcript: [U-01313–U-01331]
+  centrality: supporting
+  supporting_sources: [SRC-127, SRC-131, SRC-132, SRC-133]
+  conflicting_sources: []
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'Confederate fire began 12 April; surrender was agreed 13 April and evacuation followed 14 April. Lincoln’s 15 April proclamation called for 75,000 militia for 90 days, not 70,000.'
+- id: C-049
+  claim: 'Lincoln was assassinated four years and one day after the surrender of Fort Sumter, by which time the Civil War had ended.'
+  transcript: [U-01332–U-01333]
+  centrality: sampled-incidental
+  supporting_sources: [SRC-131, SRC-134]
+  conflicting_sources: [SRC-135, SRC-136]
+  status: resolved
+  treatment: accuracy-note
+  research_note: 'Lincoln was shot 14 April 1865, four years and one day after Sumter’s surrender agreement, and died 15 April. Major Confederate surrenders continued after Appomattox.'
+- id: C-050
+  claim: 'The war ended slavery without compensation to enslavers, displaced colonization as a policy option, and ultimately required recognition of Black Americans’ citizenship and equal rights despite widespread white resistance whose effects persisted.'
+  transcript: [U-01334–U-01348]
+  centrality: central
+  supporting_sources: [SRC-137, SRC-138, SRC-139, SRC-140, SRC-141]
+  conflicting_sources: []
+  status: resolved
+  treatment: retain-with-qualification
+  research_note: 'The Thirteenth Amendment abolished slavery; the Fourteenth Amendment voided compensation claims for emancipated people. District of Columbia emancipation in 1862 had been compensated, and citizenship and equal protection emerged through Reconstruction amid sustained resistance.'
+

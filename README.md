@@ -99,6 +99,11 @@ authoritative quotations remain exact after replacement.
 The complete supervised sequence is defined in
 [`prompts/episode-workflow.md`](prompts/episode-workflow.md). It assigns non-overlapping agent work,
 sets human approval gates, gives the validation commands, and keeps external artifacts out of Git.
+Every language-model editorial and review pass runs through native Codex agents. The workflow
+forbids OpenRouter, Gemini, other external model APIs or CLIs, and external model fallbacks; if
+native Codex capacity is unavailable, the workflow waits or asks the user instead of switching
+providers. This restriction does not apply to the explicitly required research and transcription
+services.
 After individual research tasks finish, [`prompts/research-audit.md`](prompts/research-audit.md)
 checks evidence standards, discrepancies, deferrals, and source consistency across the episode.
 No pronunciation data or separate recording copy is generated; record directly from `script.en.md`

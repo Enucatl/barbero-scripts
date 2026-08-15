@@ -1,0 +1,276 @@
+- id: N-001
+  transcript: [U-00027–U-00029]
+  claim_ids: [C-001]
+  source_ids: [SRC-016, SRC-017]
+  category: factual-error
+  original_assertion: "An officer tried to stop Booth, and Booth stabbed him before escaping."
+  proposed_correction: "Lincoln’s guest, Major Henry Rathbone, tried to stop Booth; Booth stabbed Rathbone and escaped."
+  decision: apply
+- id: N-002
+  transcript: [U-00036–U-00042]
+  claim_ids: [C-002]
+  source_ids: [SRC-018, SRC-019, SRC-020]
+  category: material-uncertainty
+  original_assertion: "The Civil War cost America 600,000 dead, far more than all American twentieth-century wars combined."
+  proposed_correction: "The traditional estimate is about 620,000 military deaths, though newer demographic estimates are higher; comparisons with twentieth-century wars depend on which conflicts and casualty definitions are counted."
+  decision: apply
+- id: N-003
+  transcript: [U-00091–U-00096]
+  claim_ids: [C-005]
+  source_ids: [SRC-025, SRC-026, SRC-027]
+  category: factual-error
+  original_assertion: "The United States had more inhabitants than Great Britain and only a little fewer than France."
+  proposed_correction: "The United States had more inhabitants than Great Britain, though France’s population was nearly six million larger."
+  decision: apply
+- id: N-004
+  transcript: [U-00105–U-00124]
+  claim_ids: [C-006]
+  source_ids: [SRC-028, SRC-029]
+  category: factual-error
+  original_assertion: "United States industrial production doubled from 1850 to 1860, and the country had 53,000 kilometres of operating railways in 1860."
+  proposed_correction: "The value of United States manufacturing output rose by about 85 percent from 1850 to 1860, and in 1860 the country had about 49,000 kilometres of operating railways."
+  decision: apply
+- id: N-005
+  transcript: [U-00125–U-00146]
+  claim_ids: [C-007]
+  source_ids: [SRC-030, SRC-031, SRC-032, SRC-033]
+  category: misleading-compression
+  original_assertion: "The United States had universal male suffrage, only economic inequalities, and 90 percent literacy among white people."
+  proposed_correction: "By 1860 most states had broadly enfranchised white men, although voting rules remained state-based and excluded women, most Black people, and others. White literacy was about 90 percent among free white adults under the census measure; wages were comparatively high, but wealth inequality remained substantial."
+  decision: apply
+- id: N-006
+  transcript: [U-00188–U-00198]
+  claim_ids: [C-009]
+  source_ids: [SRC-037, SRC-038]
+  category: factual-error
+  original_assertion: "Of the nine presidents from Southern states before Lincoln, eight were slaveowners."
+  proposed_correction: "Of the nine presidents born in Southern states before Lincoln, all nine had at some point held people in slavery."
+  decision: apply
+- id: N-007
+  transcript: [U-00227–U-00231]
+  claim_ids: [C-010]
+  source_ids: [SRC-039, SRC-040, SRC-041, SRC-042]
+  category: factual-error
+  original_assertion: "The federal government distributed western land free of charge to settlers who built cabins and cultivated it."
+  proposed_correction: "Settlers acquired or claimed western land under several federal and state systems, commonly involving purchase or pre-emption; the federal Homestead Act providing free homesteads came only in 1862."
+  decision: apply
+- id: N-008
+  transcript: [U-00250–U-00262]
+  claim_ids: [C-011]
+  source_ids: [SRC-043, SRC-044]
+  category: factual-error
+  original_assertion: "The Mexican-American War brought Texas, New Mexico, and California under United States control."
+  proposed_correction: "Texas had already been annexed and admitted to the United States in 1845; the Mexican-American War confirmed the Texas boundary and brought New Mexico and California under United States control."
+  decision: apply
+- id: N-009
+  transcript: [U-00386–U-00402]
+  claim_ids: [C-016]
+  source_ids: [SRC-055, SRC-056]
+  category: misleading-compression
+  original_assertion: "Once a territory had a few thousand white settlers, it could become a United States territory and then automatically become a state after further population growth."
+  proposed_correction: "Congress organized territories and admitted states case by case; population growth mattered politically, but no automatic settler threshold determined statehood."
+  decision: apply
+- id: N-010
+  transcript: [U-00403–U-00417]
+  claim_ids: [C-017]
+  source_ids: [SRC-057, SRC-060]
+  category: factual-error
+  original_assertion: "The Mason-Dixon Line ran across the country and separated free states in the North from slave states in the South."
+  proposed_correction: "The free-slave divide was not marked by a single line across the continent: the Mason-Dixon Line had eastern significance, while in the western territories the crucial boundary was the Missouri Compromise line at 36°30′."
+  decision: apply
+- id: N-011
+  transcript: [U-00429–U-00435]
+  claim_ids: [C-017]
+  source_ids: [SRC-058, SRC-059]
+  category: factual-error
+  original_assertion: "After Americans conquered Texas from Mexico, they reintroduced slavery there."
+  proposed_correction: "Mexico had abolished slavery, but Anglo-Texan rebels protected slavery after Texas declared independence in 1836, and Texas entered the United States as a slave state in 1845."
+  decision: apply
+- id: N-012
+  transcript: [U-00478–U-00509]
+  claim_ids: [C-019]
+  quotation_ids: [Q-002]
+  source_ids: [SRC-002, SRC-043, SRC-044, SRC-065]
+  category: factual-error
+  original_assertion: "In 1846 Senator Toombs of Georgia threatened secession if slaveholders were driven from Texas and New Mexico; the resulting compromise left New Mexico without slaves."
+  proposed_correction: "During the Mexican-American War, the Wilmot Proviso of 1846 raised whether slavery would be excluded from territory acquired from Mexico. In December 1849 Representative Robert Toombs of Georgia declared: “I do not, then, hesitate to avow before this House and the country, and in the presence of the living God, that if by your legislation you seek to drive us from the territories of California and New Mexico, purchased by the common blood and treasure of the whole people, and to abolish slavery in this District, thereby attempting to fix a national degradation upon half the States of this Confederacy, I am for disunion; and if my physical courage be equal to the maintenance of my convictions of right and duty, I will devote all I am and all I have on earth to its consummation.” The Compromise of 1850 admitted California free and organized Utah and New Mexico without a statutory prohibition of slavery."
+  decision: apply
+- id: N-013
+  transcript: [U-00582–U-00609]
+  claim_ids: [C-022]
+  quotation_ids: [Q-004]
+  source_ids: [SRC-005, SRC-024, SRC-069]
+  category: misleading-compression
+  original_assertion: "The North abolished slavery chiefly because white workers and sailors refused competition from enslaved labor."
+  proposed_correction: "White workers’ hostility to enslaved labor was one factor, but northern abolition reflected varied state laws, antislavery principle, Black and Quaker activism, revolutionary politics, labor interests, and racial exclusion."
+  decision: apply
+- id: N-014
+  transcript: [U-00631–U-00642]
+  claim_ids: [C-025]
+  source_ids: [SRC-076]
+  category: factual-error
+  original_assertion: "The abolition of the slave trade was decided under Jefferson’s presidency."
+  proposed_correction: "Congress passed the Act to Prohibit the Importation of Slaves in 1807, during Jefferson’s presidency; it took effect on 1 January 1808."
+  decision: apply
+- id: N-015
+  transcript: [U-00652–U-00656]
+  claim_ids: [C-025]
+  quotation_ids: [Q-005]
+  source_ids: [SRC-006]
+  category: misleading-compression
+  original_assertion: "George Washington said that slavery itself was repugnant to him."
+  proposed_correction: "Washington wrote that he had “great repugnance to encreasing my Slaves by purchase,” while elsewhere expressing gradual-emancipation sympathies."
+  decision: apply
+- id: N-016
+  transcript: [U-00657–U-00660]
+  quotation_ids: [Q-006]
+  source_ids: [SRC-007, SRC-008]
+  category: misleading-compression
+  original_assertion: "Unnamed popular Southern politicians publicly described slavery as an abominable practice and a cancer."
+  proposed_correction: "In a private 1773 letter, Patrick Henry wrote: “What adds to the wonder is, that this abominable practice has been introduced in the most enlightened ages.” In a Senate speech in 1826, John Randolph of Roanoke said: “It is a cancer on your face, and must not be tampered with by quacks, who never saw the disease or the patient, and prescribe across the Atlantic.”"
+  decision: apply
+- id: N-017
+  transcript: [U-00681–U-00702]
+  claim_ids: [C-027]
+  source_ids: [SRC-080, SRC-081, SRC-082, SRC-083, SRC-084, SRC-085]
+  category: misleading-compression
+  original_assertion: "Colonization societies bought a vast African territory, and freed Black settlers in Liberia created plantations and reduced Indigenous people to slavery."
+  proposed_correction: "The American Colonization Society established Liberia in 1822 through agreements and coercive expansion; Americo-Liberian settlers later dominated Indigenous populations through unequal political authority, coerced labor, and systems of dependency."
+  decision: apply
+- id: N-018
+  transcript: [U-00726–U-00736]
+  claim_ids: [C-029]
+  source_ids: [SRC-089, SRC-090, SRC-091, SRC-092, SRC-093]
+  category: misleading-compression
+  original_assertion: "Northern ships from Boston and New York continued routinely to bring enslaved Africans and unload them clandestinely."
+  proposed_correction: "Illegal importation continued after the federal ban, with documented links to New York and other northern commercial networks."
+  decision: apply
+- id: N-019
+  transcript: [U-00755–U-00777]
+  claim_ids: [C-030]
+  source_ids: [SRC-094, SRC-095, SRC-096]
+  category: misleading-compression
+  original_assertion: "Abolitionism was born after the 1820s and 1830s as a Puritan religious movement."
+  proposed_correction: "Earlier Black, Quaker, and gradual-emancipation antislavery traditions long predated the 1830s; a new immediatist abolitionist movement expanded in that decade and demanded immediate, uncompensated abolition."
+  decision: apply
+- id: N-020
+  transcript: [U-00785–U-00795]
+  quotation_ids: [Q-007]
+  source_ids: [SRC-009, SRC-072, SRC-075]
+  category: factual-error
+  original_assertion: "A Virginia politician who had supported abolition in 1832 later became governor and told a Northern friend that abolitionists had made antislavery speech politically impossible in the South."
+  proposed_correction: 'James McDowell, who had supported gradual emancipation in Virginia in 1832, later became governor and stopped raising the issue. John H. Pleasants blamed “the fanatics of the North [who] have taken the most effective means not to leave a single friend of emancipation in the Southern States.”'
+  decision: apply
+- id: N-021
+  transcript: [U-00824–U-00828]
+  quotation_ids: [Q-016]
+  source_ids: [SRC-010, SRC-097]
+  category: material-uncertainty
+  original_assertion: "The claims about Africa, paganism, Christian civilization, and Black self-government continue the identified quotation about enslaved people’s supposed happiness."
+  proposed_correction: "Other proslavery writers argued that enslavement brought Africans Christianity and civilization and denied that Black people could govern themselves."
+  decision: apply
+- id: N-022
+  transcript: [U-00874–U-00887]
+  claim_ids: [C-032]
+  quotation_ids: [Q-009]
+  source_ids: [SRC-011]
+  category: factual-error
+  original_assertion: "Four years before the Civil War, Senator Toombs described conditions in the South in the quoted words."
+  proposed_correction: "In a Boston lecture in January 1856, more than five years before Fort Sumter, Robert Toombs described conditions in the South: “Stability, progress, order, peace, content, prosperity, reign throughout our borders. Not a single soldier is to be found in our widely-extended domain to overawe or protect society. The desire for organic change nowhere manifests itself.”"
+  decision: apply
+- id: N-023
+  transcript: [U-00892–U-00897]
+  claim_ids: [C-033]
+  source_ids: [SRC-100, SRC-101]
+  category: material-uncertainty
+  original_assertion: "Maxcy Gregg introduced a specific motion in the South Carolina legislature to reopen the transatlantic slave trade."
+  proposed_correction: "Maxcy Gregg was an advocate of reopening the transatlantic slave trade during the late-1850s agitation in South Carolina."
+  decision: apply
+- id: N-024
+  transcript: [U-00907–U-00911]
+  quotation_ids: [Q-010]
+  source_ids: [SRC-012]
+  category: factual-error
+  original_assertion: "The governor of South Carolina said in the Senate that cotton was king."
+  proposed_correction: "In 1858, Senator James Henry Hammond of South Carolina, a former governor of the state, declared: “No, you dare not make war on cotton. No power on earth dares to make war upon it. Cotton is king.”"
+  decision: apply
+- id: N-025
+  transcript: [U-00964–U-00981]
+  claim_ids: [C-035]
+  source_ids: [SRC-104, SRC-105]
+  category: factual-error
+  original_assertion: "A convention of delegates from all Southern states met in 1850, and Calhoun proposed two linked and friendly federations."
+  proposed_correction: "In 1850 the Nashville Convention brought delegates from several Southern states into open discussion of conditional disunion. In his final speech, Calhoun contemplated peaceful separation if no settlement could be reached, rather than offering a formal plan for two linked federations."
+  decision: apply
+- id: N-026
+  transcript: [U-00984–U-00992]
+  claim_ids: [C-036]
+  source_ids: [SRC-065, SRC-106, SRC-107]
+  category: factual-error
+  original_assertion: "Federal police in Northern states would hunt down and arrest fugitive slaves."
+  proposed_correction: "The Fugitive Slave Act empowered federal marshals, commissioners, deputies, and compelled local assistance to seize alleged fugitives and return them to enslavement."
+  decision: apply
+- id: N-027
+  transcript: [U-01022–U-01030]
+  claim_ids: [C-038]
+  source_ids: [SRC-057, SRC-060, SRC-111, SRC-112]
+  category: factual-error
+  original_assertion: "Kansas lay north of the Mason-Dixon Line."
+  proposed_correction: "Kansas lay north of the Missouri Compromise line at 36°30′, whose restriction on slavery the Kansas-Nebraska Act had repealed."
+  decision: apply
+- id: N-028
+  transcript: [U-01101–U-01122]
+  claim_ids: [C-040]
+  source_ids: [SRC-117]
+  category: factual-error
+  original_assertion: "The Dred Scott decision held that Congress could not prohibit slavery in a state and that only individual states could do so."
+  proposed_correction: "The Dred Scott decision held that Congress could not prohibit slavery in the federal territories, invalidating the Missouri Compromise restriction; it did not deny a state’s authority to prohibit slavery."
+  decision: apply
+- id: N-029
+  transcript: [U-01207–U-01216]
+  claim_ids: [C-043]
+  source_ids: [SRC-121, SRC-122, SRC-123]
+  category: factual-error
+  original_assertion: "Kansas adopted a free-state constitution that prohibited any Black person, including a free person, from entering the state."
+  proposed_correction: "The antislavery Wyandotte Constitution prohibited slavery and restricted suffrage to white male citizens, but it did not bar free Black people from residing in Kansas; the proposed exclusion clause was defeated."
+  decision: apply
+- id: N-030
+  transcript: [U-01244–U-01253]
+  claim_ids: [C-045]
+  source_ids: [SRC-021, SRC-120, SRC-126]
+  category: misleading-compression
+  original_assertion: "Lincoln received no votes in Alabama and elsewhere because public voting meant that neighbors would probably kill anyone who voted for him."
+  proposed_correction: "Lincoln received no popular votes in nine Southern states where presidential voting occurred because Republican tickets were often unavailable and the party had little or no organization there; public voting and local pressure could also discourage open support."
+  decision: apply
+- id: N-031
+  transcript: [U-01317–U-01328]
+  claim_ids: [C-048]
+  source_ids: [SRC-131, SRC-132, SRC-133]
+  category: factual-error
+  original_assertion: "After Fort Sumter surrendered, Lincoln decided to enlist 70,000 men for three months."
+  proposed_correction: "After Fort Sumter’s surrender was agreed on 13 April and the garrison evacuated on 14 April, Lincoln’s 15 April proclamation called for 75,000 militia volunteers for ninety days."
+  decision: apply
+- id: N-032
+  transcript: [U-01332–U-01333]
+  claim_ids: [C-049]
+  source_ids: [SRC-131, SRC-134, SRC-135, SRC-136]
+  category: misleading-compression
+  original_assertion: "When Lincoln was assassinated four years and one day after Fort Sumter’s surrender, the Civil War was over."
+  proposed_correction: "Lincoln was shot on 14 April 1865, four years and one day after Fort Sumter’s surrender agreement; Lee had surrendered, but major Confederate forces elsewhere would surrender in the following weeks and months."
+  decision: apply
+- id: N-033
+  transcript: [U-01334–U-01347]
+  claim_ids: [C-050]
+  source_ids: [SRC-137, SRC-138, SRC-139, SRC-140, SRC-141]
+  category: misleading-compression
+  original_assertion: "The abolition of slavery itself allowed Black Americans to remain with the same rights as other citizens."
+  proposed_correction: "The Thirteenth Amendment abolished slavery without compensation to enslavers; citizenship and equal protection were established through Reconstruction, especially the Fourteenth Amendment, amid sustained white resistance."
+  decision: apply
+- id: N-034
+  transcript: [U-00343–U-00351]
+  quotation_ids: [Q-001]
+  source_ids: [SRC-001, SRC-052]
+  category: material-uncertainty
+  original_assertion: "The quoted formulation is presented as a direct Calhoun declaration from the nullification debate."
+  proposed_correction: "In a memoir published decades later, Oliver Dyer recalled Calhoun as saying: “I never use the word Nation in speaking of the United States; I always use the word Union, or Confederacy. We are not a nation, but a Union, a confederacy of equal and sovereign States. England is a nation, Austria is a nation, Russia is a nation, but the United States are not a nation.”"
+  decision: apply

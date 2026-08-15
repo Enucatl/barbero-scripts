@@ -1,0 +1,304 @@
+- id: Q-001
+  barbero_utterances: [U-00343–U-00351]
+  barbero_timestamp: '00:21:17–00:21:32 (original audio)'
+  attribution: 'John C. Calhoun, transmitted by Oliver Dyer in a later personal recollection'
+  quotation_kind: near-direct
+  document_type: 'memoir recollection of a private conversation'
+  date_context: 'Dyer dates the conversation to 1 January 1849; memoir published 1889'
+  source_id: SRC-001
+  original_language: en
+  original_text: 'I never use the word Nation in speaking of the United States; I always use the word Union, or Confederacy. We are not a nation, but a Union, a confederacy of equal and sovereign States. England is a nation, Austria is a nation, Russia is a nation, but the United States are not a nation.'
+  translation: 'I never use the word Nation in speaking of the United States; I always use the word Union, or Confederacy. We are not a nation, but a Union, a confederacy of equal and sovereign States. England is a nation, Austria is a nation, Russia is a nation, but the United States are not a nation.'
+  locator: 'Oliver Dyer, Great Senators of the United States Forty Years Ago, 1889, pp. 152–153, chapter III.ii.'
+  translation_notes: 'English original; translation exactly reproduces original_text. The evidence is a later memoir, not a contemporary Calhoun transcript.'
+  confidence: medium-high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: 'The wording is recoverable in Dyer, but should be labelled as memoir evidence. Calhoun’s contemporaneous constitutional writings corroborate the compact-theory substance but not this exact private-conversation wording.'
+- id: Q-002
+  barbero_utterances: [U-00488–U-00497]
+  barbero_timestamp: null
+  attribution: 'Robert Toombs'
+  quotation_kind: direct
+  document_type: 'speech in the U.S. House of Representatives'
+  date_context: '13 December 1849; Toombs was then a Georgia representative'
+  source_id: SRC-002
+  original_language: en
+  original_text: 'I do not, then, hesitate to avow before this House and the country, and in the presence of the living God, that if by your legislation you seek to drive us from the territories of California and New Mexico, purchased by the common blood and treasure of the whole people, and to abolish slavery in this District, thereby attempting to fix a national degradation upon half the States of this Confederacy, I am for disunion; and if my physical courage be equal to the maintenance of my convictions of right and duty, I will devote all I am and all I have on earth to its consummation.'
+  translation: 'I do not, then, hesitate to avow before this House and the country, and in the presence of the living God, that if by your legislation you seek to drive us from the territories of California and New Mexico, purchased by the common blood and treasure of the whole people, and to abolish slavery in this District, thereby attempting to fix a national degradation upon half the States of this Confederacy, I am for disunion; and if my physical courage be equal to the maintenance of my convictions of right and duty, I will devote all I am and all I have on earth to its consummation.'
+  locator: 'Congressional Globe, 31st Congress, 1st Session, House, 13 December 1849, pp. 61–63.'
+  translation_notes: 'English original; translation exactly reproduces original_text.'
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: 'Barbero changes California to Texas, moves the statement from 1849 to 1846, and calls Toombs a senator. The source says disunion rather than the narrower legal term secession.'
+- id: Q-003
+  barbero_utterances: [U-00565–U-00569]
+  barbero_timestamp: 'cleaned 32:43–32:58; original 34:24–34:39'
+  attribution: 'Alexis de Tocqueville'
+  quotation_kind: direct
+  document_type: 'published political treatise'
+  date_context: 'De la démocratie en Amérique, volume II, published 1835'
+  source_id: SRC-003
+  original_language: fr
+  original_text: 'Le plus redoutable de tous les maux qui menacent l’avenir des États-Unis naît de la présence des noirs sur leur sol.'
+  translation: 'The most formidable of all the evils that threaten the future of the United States arises from the presence of Blacks on their soil.'
+  locator: 'De la démocratie en Amérique, vol. II, deuxième partie, chap. X, subsection Position qu’occupe la race noire aux États-Unis; dangers que sa présence fait courir aux blancs, p. 346.'
+  translation_notes: 'English translation follows the Nolla–Schleifer historical-critical edition, SRC-004. Noirs is Tocqueville’s period terminology.'
+  confidence: high
+  status: resolved
+  verdict: confirmed
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: 'The sentence is authorial prose in the 1835 publication. The lecture’s dating joins Tocqueville’s 1831–1832 American journey to a text published in 1835.'
+- id: Q-004
+  barbero_utterances: [U-00593–U-00606]
+  barbero_timestamp: '00:36:03–00:36:33 (original audio)'
+  attribution: 'John Adams'
+  quotation_kind: direct
+  document_type: 'private letter'
+  date_context: 'Letter to Jeremy Belknap, Quincy, 21 March 1795'
+  source_id: SRC-005
+  original_language: en
+  original_text: 'argument might have some Weight, in the Abolition of Slavery in the Massachusetts, but the real Cause was the multiplication of labouring White People, who, would no longer suffer the Rich to employ these Sable Rivals, so much to their Injury. This Principle has kept Negro Slavery out of France England and other Parts of Europe. The common People would not suffer, the Labour by which alone they could obtain a subsistance to be done by Slaves. If the Gentlemen had been permitted by Law to hold Slaves, the common white People would have put the Negroes to Death and their Masters too perhaps.'
+  translation: 'argument might have some Weight, in the Abolition of Slavery in the Massachusetts, but the real Cause was the multiplication of labouring White People, who, would no longer suffer the Rich to employ these Sable Rivals, so much to their Injury. This Principle has kept Negro Slavery out of France England and other Parts of Europe. The common People would not suffer, the Labour by which alone they could obtain a subsistance to be done by Slaves. If the Gentlemen had been permitted by Law to hold Slaves, the common white People would have put the Negroes to Death and their Masters too perhaps.'
+  locator: 'John Adams to Jeremy Belknap, 21 March 1795, Founders Online Adams/06-21-02-0284, lines 36–41; Papers of John Adams, vol. 21, pp. 387–388.'
+  translation_notes: 'English original; translation exactly reproduces original_text. Period racial terminology is retained only as documentary text.'
+  confidence: high
+  status: resolved
+  verdict: confirmed
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: 'A private letter written while Adams was vice president, not a presidential statement. It concerns enslaved labor and white laborers, not competition from free Black workers.'
+- id: Q-005
+  barbero_utterances: [U-00652–U-00656]
+  barbero_timestamp: 'cleaned 37:38; original 39:31'
+  attribution: 'George Washington'
+  quotation_kind: paraphrase
+  document_type: 'private letter'
+  date_context: 'Letter to John Francis Mercer, Mount Vernon, 6 November 1786'
+  source_id: SRC-006
+  original_language: en
+  original_text: 'Altho’ I have great repugnance to encreasing my Slaves by purchase'
+  translation: 'Altho’ I have great repugnance to encreasing my Slaves by purchase'
+  locator: 'George Washington to John Francis Mercer, 6 November 1786, opening paragraph; Founders Online Washington/04-04-02-0302; Papers of George Washington, Confederation Series, vol. 4, p. 336.'
+  translation_notes: 'English original; translation exactly reproduces original_text. The wording concerns increasing Washington’s enslaved workforce by purchase.'
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: not-applicable
+  human_reviewed: true
+  research_note: 'The transcript broadens a purchase-specific statement into an unqualified declaration that slavery itself repugned Washington. Separate letters support gradual-emancipation sympathies but cannot be silently merged into a direct quote.'
+- id: Q-006
+  barbero_utterances: [U-00657–U-00660]
+  barbero_timestamp: 'original 00:39:35–00:39:58'
+  attribution: 'Patrick Henry and John Randolph of Roanoke; composite compressed by Barbero as unnamed southern politicians'
+  quotation_kind: composite
+  document_type: 'private letter; U.S. Senate debate'
+  date_context: 'Henry letter conventionally dated 18 January 1773; Randolph Senate speech, 2 March 1826'
+  source_id: SRC-007
+  original_language: en
+  original_text: 'Patrick Henry: What adds to the wonder is, that this abominable practice has been introduced in the most enlightened ages. John Randolph of Roanoke: It is a cancer on your face, and must not be tampered with by quacks, who never saw the disease or the patient, and prescribe across the Atlantic.'
+  translation: 'Patrick Henry: What adds to the wonder is, that this abominable practice has been introduced in the most enlightened ages. John Randolph of Roanoke: It is a cancer on your face, and must not be tampered with by quacks, who never saw the disease or the patient, and prescribe across the Atlantic.'
+  locator: 'Henry letter printed in Friends’ Intelligencer, vol. 17, 21 July 1860, p. 303, SRC-007; Randolph, Register of Debates in Congress, vol. 2, Senate, 2 March 1826, p. 117, SRC-008.'
+  translation_notes: 'English originals; translation exactly reproduces original_text. The component boundaries are retained.'
+  confidence: medium-high
+  status: resolved
+  verdict: composite
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: 'Abominable practice is Henry’s language; cancer on your face is Randolph’s. The latter is embedded in an argument against outside intervention and must not be presented as part of a single unidentified quotation.'
+- id: Q-007
+  barbero_utterances: [U-00790–U-00795]
+  barbero_timestamp: 'original 46:44–46:59'
+  attribution: 'James McDowell supplies the biographical frame; John H. Pleasants supplies the documented statement'
+  quotation_kind: composite
+  document_type: 'biographical synthesis plus newspaper-published editorial letter'
+  date_context: 'Pleasants letter published 18 February 1840 and reprinted 12 March 1840; McDowell had become Virginia governor in 1843'
+  source_id: SRC-009
+  original_language: en
+  original_text: 'What my opinions now are, upon that, and the whole subject of slavery, is immaterial to the issue. Perhaps I have seen fit to change them, like many others. Certainly the fanatics of the North have taken the most effective means not to leave a single friend of emancipation in the Southern States.'
+  translation: 'What my opinions now are, upon that, and the whole subject of slavery, is immaterial to the issue. Perhaps I have seen fit to change them, like many others. Certainly the fanatics of the North have taken the most effective means not to leave a single friend of emancipation in the Southern States.'
+  locator: 'Richmond Enquirer, 12 March 1840, image 1, reprinting John H. Pleasants’s 18 February 1840 letter.'
+  translation_notes: 'English original; translation exactly reproduces original_text. The approved script treatment uses a shorter excerpt with an editorial [who] to join it grammatically to the Pleasants attribution.'
+  confidence: high for the separate McDowell biography and Pleasants wording; no support for the alleged conversation
+  status: resolved
+  verdict: composite
+  source_replacement: not-applicable
+  human_reviewed: true
+  research_note: 'Human-approved accuracy treatment: “James McDowell, who had supported gradual emancipation in Virginia in 1832, later became governor and stopped raising the issue. John H. Pleasants blamed ‘the fanatics of the North [who] have taken the most effective means not to leave a single friend of emancipation in the Southern States.’” This deliberately separates McDowell’s biography from Pleasants’s documented words and removes the unsupported northern-friend conversation.'
+- id: Q-008
+  barbero_utterances: [U-00819–U-00823]
+  barbero_timestamp: 'original 48:23–48:34; cleaned 46:12–46:24'
+  attribution: 'James Henry Hammond'
+  quotation_kind: near-direct
+  document_type: 'U.S. Senate speech'
+  date_context: 'Hammond Senate speech on Kansas under the Lecompton Constitution, 4 March 1858'
+  source_id: SRC-010
+  original_language: en
+  original_text: 'Our slaves are black, of another and inferior race. [...] They are happy, content, unaspiring, and utterly incapable, from intellectual weakness, ever to give us any trouble by their aspirations.'
+  translation: 'Our slaves are black, of another and inferior race. [...] They are happy, content, unaspiring, and utterly incapable, from intellectual weakness, ever to give us any trouble by their aspirations.'
+  locator: 'Appendix to the Congressional Globe, 35th Congress, 1st Session, Hammond speech, 4 March 1858, p. 71.'
+  translation_notes: 'English original; translation exactly reproduces the two source excerpts in their original order. The bracketed ellipsis marks omitted intervening sentences.'
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: 'Human-approved split: this record ends with Hammond’s recoverable racial-hierarchy, happiness, and intellectual-incapacity wording. The broader Africa, paganism, Christian-civilization, and self-government paraphrase is now Q-016.'
+- id: Q-009
+  barbero_utterances: [U-00874–U-00887]
+  barbero_timestamp: '00:51:29–00:51:57 (original audio)'
+  attribution: 'Robert Toombs'
+  quotation_kind: direct
+  document_type: 'public lecture'
+  date_context: 'Tremont Temple, Boston, 24 January 1856'
+  source_id: SRC-011
+  original_language: en
+  original_text: 'Stability, progress, order, peace, content, prosperity, reign throughout our borders. Not a single soldier is to be found in our widely-extended domain to overawe or protect society. The desire for organic change nowhere manifests itself.'
+  translation: 'Stability, progress, order, peace, content, prosperity, reign throughout our borders. Not a single soldier is to be found in our widely-extended domain to overawe or protect society. The desire for organic change nowhere manifests itself.'
+  locator: 'Robert A. Toombs, Slavery—Its Constitutional Status—Its Influence on the African Race and Society, Boston lecture, 24 January 1856, final unnumbered leaf after printed p. 16.'
+  translation_notes: 'English original; translation exactly reproduces original_text.'
+  confidence: high
+  status: resolved
+  verdict: confirmed
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: 'The source is a Boston lecture, not a Senate speech. It was delivered nearly six years before Fort Sumter, not four.'
+- id: Q-010
+  barbero_utterances: [U-00907–U-00911]
+  barbero_timestamp: '00:53:07–00:53:20'
+  attribution: 'James Henry Hammond, U.S. senator from South Carolina and former South Carolina governor'
+  quotation_kind: direct
+  document_type: 'U.S. Senate speech'
+  date_context: 'Speech on Kansas under the Lecompton Constitution, 4 March 1858'
+  source_id: SRC-012
+  original_language: en
+  original_text: 'No, you dare not make war on cotton. No power on earth dares to make war upon it. Cotton is king.'
+  translation: 'No, you dare not make war on cotton. No power on earth dares to make war upon it. Cotton is king.'
+  locator: 'James H. Hammond, Speech on the Admission of Kansas under the Lecompton Constitution, U.S. Senate, 4 March 1858, p. 13; Congressional Globe, 35th Congress, 1st Session, p. 961.'
+  translation_notes: 'English original; translation exactly reproduces original_text.'
+  confidence: high
+  status: resolved
+  verdict: confirmed
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: 'Hammond was a former governor, but a sitting U.S. senator when he made the statement.'
+- id: Q-011
+  barbero_utterances: [U-01154–U-01160]
+  barbero_timestamp: 'original audio 67:35–67:50'
+  attribution: 'John Brown'
+  quotation_kind: direct
+  document_type: 'autograph note written before execution'
+  date_context: 'Charlestown, Virginia, 2 December 1859'
+  source_id: SRC-013
+  original_language: en
+  original_text: 'I John Brown am now quite certain that the crimes of this guilty land: will never be purged away; but with Blood. I had as I now think: vainly flattered myself that without very much bloodshed; it might be done.'
+  translation: 'I John Brown am now quite certain that the crimes of this guilty land: will never be purged away; but with Blood. I had as I now think: vainly flattered myself that without very much bloodshed; it might be done.'
+  locator: 'Autograph note, Charlestown, Virginia, 2 December 1859; Ross facsimile in Library of Congress rbpe01.01803800, image 2.'
+  translation_notes: 'English original; translation exactly reproduces original_text, including capitalization and punctuation.'
+  confidence: high
+  status: resolved
+  verdict: confirmed
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: 'This is a written note before Brown’s execution, not a verified report of final scaffold words.'
+- id: Q-012
+  barbero_utterances: [U-01218–U-01229]
+  barbero_timestamp: 'original audio 71:02–71:47'
+  attribution: 'Abraham Lincoln'
+  quotation_kind: composite
+  document_type: 'reported public speech'
+  date_context: 'Peoria, Illinois, 16 October 1854; newspaper report published 23 October 1854'
+  source_id: SRC-014
+  original_language: en
+  original_text: 'If all earthly power were given me, I should not know what to do, as to the existing institution. My first impulse would be to free all the slaves, and send them to Liberia,---to their own native land. But a moment’s reflection would convince me, that whatever of high hope, as I think there is, there may be in this, in the long run, its sudden execution is impossible. [...] What next? Free them, and make them politically and socially, our equals? My own feelings will not admit of this; and if mine would, we well know that those of the great mass of white people will not.'
+  translation: 'If all earthly power were given me, I should not know what to do, as to the existing institution. My first impulse would be to free all the slaves, and send them to Liberia,---to their own native land. But a moment’s reflection would convince me, that whatever of high hope, as I think there is, there may be in this, in the long run, its sudden execution is impossible. [...] What next? Free them, and make them politically and socially, our equals? My own feelings will not admit of this; and if mine would, we well know that those of the great mass of white people will not.'
+  locator: 'Abraham Lincoln, Speech at Peoria, 16 October 1854; Illinois Daily Journal, 23 October 1854, p. 2, cols. 3–5; Collected Works, vol. 2, pp. 255–256.'
+  translation_notes: 'English original; translation exactly reproduces original_text. Ellipsis marks omitted material from the same speech.'
+  confidence: high
+  status: resolved
+  verdict: composite
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: 'The lecture changes Liberia to Africa, omits Lincoln’s intermediate alternatives, and compresses the sequence. All retained components are in one recoverable document.'
+- id: Q-013
+  barbero_utterances: [U-01263–U-01287]
+  barbero_timestamp: '71:22–72:35'
+  attribution: 'Abraham Lincoln, First Inaugural Address'
+  quotation_kind: composite
+  document_type: 'presidential inaugural address'
+  date_context: 'Washington, D.C., 4 March 1861'
+  source_id: SRC-015
+  original_language: en
+  original_text: 'I have no purpose, directly or indirectly, to interfere with the institution of slavery in the States where it exists. I believe I have no lawful right to do so, and I have no inclination to do so. [...] I hold, that in contemplation of universal law, and of the Constitution, the Union of these States is perpetual. [...] no State, upon its own mere motion, can lawfully get out of the Union. [...] I therefore consider that, in view of the Constitution and the laws, the Union is unbroken; and, to the extent of my ability, I shall take care [...] that the laws of the Union be faithfully executed in all the States. [...] Plainly, the central idea of secession, is the essence of anarchy. A majority, held in restraint by constitutional checks, and limitations [...] is the only true sovereign of a free people. Whoever rejects it, does, of necessity, fly to anarchy or to despotism.'
+  translation: 'I have no purpose, directly or indirectly, to interfere with the institution of slavery in the States where it exists. I believe I have no lawful right to do so, and I have no inclination to do so. [...] I hold, that in contemplation of universal law, and of the Constitution, the Union of these States is perpetual. [...] no State, upon its own mere motion, can lawfully get out of the Union. [...] I therefore consider that, in view of the Constitution and the laws, the Union is unbroken; and, to the extent of my ability, I shall take care [...] that the laws of the Union be faithfully executed in all the States. [...] Plainly, the central idea of secession, is the essence of anarchy. A majority, held in restraint by constitutional checks, and limitations [...] is the only true sovereign of a free people. Whoever rejects it, does, of necessity, fly to anarchy or to despotism.'
+  locator: 'Abraham Lincoln, First Inaugural Address—Final Text, 4 March 1861, Library of Congress mal0773800, manuscript pp. 2–6; Collected Works, vol. 4, pp. 263–265, 268.'
+  translation_notes: 'English original; translation exactly reproduces original_text. Brackets mark separated excerpts retained in source order.'
+  confidence: high
+  status: resolved
+  verdict: composite
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: 'Every component is in the inaugural address, but Barbero compresses separated passages and omits qualifications, including universal law, void ordinances, and the changing character of majority opinion.'
+- id: Q-014
+  barbero_utterances: [U-01288–U-01294]
+  barbero_timestamp: 'original audio 01:15:35–01:15:54'
+  attribution: 'Abraham Lincoln, First Inaugural Address'
+  quotation_kind: direct
+  document_type: 'presidential inaugural address'
+  date_context: 'Washington, D.C., 4 March 1861'
+  source_id: SRC-015
+  original_language: en
+  original_text: 'Physically speaking, we cannot separate. We cannot remove our respective sections from each other, nor build an impassable wall between them. A husband and wife may be divorced, and go out of the presence, and beyond the reach of each other; but the different parts of our country cannot do this.'
+  translation: 'Physically speaking, we cannot separate. We cannot remove our respective sections from each other, nor build an impassable wall between them. A husband and wife may be divorced, and go out of the presence, and beyond the reach of each other; but the different parts of our country cannot do this.'
+  locator: 'Abraham Lincoln, First Inaugural Address—Final Text, paragraph beginning Physically speaking; Library of Congress mal0773800, manuscript p. 6; Collected Works, vol. 4, p. 269.'
+  translation_notes: 'English original; translation exactly reproduces original_text.'
+  confidence: high
+  status: resolved
+  verdict: confirmed
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: 'Continuous passage. The lecture stops before the following sentence that the sections must remain face to face.'
+- id: Q-015
+  barbero_utterances: [U-01298–U-01312]
+  barbero_timestamp: 'original audio 76:14–76:52'
+  attribution: 'Abraham Lincoln, First Inaugural Address'
+  quotation_kind: composite
+  document_type: 'presidential inaugural address'
+  date_context: 'Washington, D.C., 4 March 1861'
+  source_id: SRC-015
+  original_language: en
+  original_text: 'In your hands, my dissatisfied fellow countrymen, and not in mine, is the momentous issue of civil war. The government will not assail you. You can have no conflict, without being yourselves the aggressors. You have no oath registered in Heaven to destroy the government, while I shall have the most solemn one to preserve, protect and defend it. [...] I am loth to close. We are not enemies, but friends. We must not be enemies.'
+  translation: 'In your hands, my dissatisfied fellow countrymen, and not in mine, is the momentous issue of civil war. The government will not assail you. You can have no conflict, without being yourselves the aggressors. You have no oath registered in Heaven to destroy the government, while I shall have the most solemn one to preserve, protect and defend it. [...] I am loth to close. We are not enemies, but friends. We must not be enemies.'
+  locator: 'Abraham Lincoln, First Inaugural Address—Final Text, final section; Library of Congress mal0773800, final leaf; Collected Works, vol. 4, p. 271.'
+  translation_notes: 'English original; translation exactly reproduces original_text. Brackets mark omitted material within the same closing section.'
+  confidence: high
+  status: resolved
+  verdict: composite
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: 'The first and final sentences are separated by omitted language in the address. The lecture modernizes I shall have and loosely renders I am loth to close.'
+- id: Q-016
+  barbero_utterances: [U-00824–U-00828]
+  barbero_timestamp: 'original 48:34–48:47; cleaned 46:24–46:36'
+  attribution: 'Unidentified proslavery rhetoric paraphrased by Barbero; not recovered in Hammond’s speech'
+  quotation_kind: paraphrase
+  document_type: null
+  date_context: 'Antebellum proslavery argument; exact speaker, document, and date unresolved'
+  source_id: null
+  original_language: null
+  original_text: null
+  translation: null
+  locator: null
+  translation_notes: 'The Africa, paganism, Christian-civilization, and self-government material was not found in Hammond’s verified March 4, 1858 speech. Retain Barbero’s contextual English rendering and close the Hammond quotation before this passage.'
+  confidence: low
+  status: deferred
+  verdict: unresolved
+  source_replacement: unavailable
+  human_reviewed: true
+  research_note: 'Human-approved split from Q-008. This passage remains an attributed paraphrase because no single original-language source was recovered. Its lack of source replacement must not prevent the preceding Hammond wording from being replaced exactly.'
