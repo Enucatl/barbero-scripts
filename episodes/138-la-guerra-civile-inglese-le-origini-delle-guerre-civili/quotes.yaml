@@ -18,7 +18,7 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: false
+  human_reviewed: true
   research_note: Barbero closely translates the contemporary printed scaffold speech but compresses its wording.
 - id: Q-002
   barbero_utterances:
@@ -37,7 +37,7 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: false
+  human_reviewed: true
   research_note: Institutional history attributes the wording to a witness; the pass did not recover a contemporary manuscript
     locator, so the transmission remains weaker than Q-001.
 - id: Q-003
@@ -58,7 +58,7 @@
   status: resolved
   verdict: confirmed
   source_replacement: eligible
-  human_reviewed: false
+  human_reviewed: true
   research_note: The institutional article reproduces the letter excerpt and identifies its date and facsimile source.
 - id: Q-004
   barbero_utterances:
@@ -107,7 +107,7 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: false
+  human_reviewed: true
   research_note: Barbero translates and shortens the sentence.
 - id: Q-006
   barbero_utterances:
@@ -171,7 +171,7 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: false
+  human_reviewed: true
   research_note: Barbero extracts the central divine-right proposition from James’s treatise.
 - id: Q-009
   barbero_utterances:
@@ -217,7 +217,7 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: false
+  human_reviewed: true
   research_note: The slogan is documented in Justice Berkeley’s Ship Money opinion, not merely lecture shorthand.
 - id: Q-011
   barbero_utterances:

@@ -1,0 +1,64 @@
+- id: N-001
+  transcript: [U-00021–U-00054]
+  claim_ids: [C-001]
+  quotation_ids: [Q-001, Q-002]
+  source_ids: [SRC-001, SRC-012]
+  category: disputed
+  original_assertion: "Charles I was the first European king to die after being legally tried and sentenced to death for high treason."
+  proposed_correction: "Charles I was the first European king to be tried by a specially constituted High Court of Justice and sentenced to death for high treason."
+  decision: apply
+  decision_note: "Apply: this preserves the unprecedented judicial proceeding without treating the contested court's legality as settled."
+- id: N-002
+  transcript: [U-00055]
+  claim_ids: [C-002]
+  source_ids: [SRC-012]
+  category: misleading-compression
+  original_assertion: "The civil war that ended with Charles I's execution lasted six years."
+  proposed_correction: "The fighting from Charles's raising of the royal standard to his execution lasted about six and a half years, while the wider Wars of the Three Kingdoms continued."
+  decision: retain-original
+  decision_note: "Retain: six years is an acceptable spoken rounding within a lecture focused on the road to the English Civil War."
+- id: N-003
+  transcript: [U-00060–U-00077]
+  claim_ids: [C-003]
+  source_ids: [SRC-017, SRC-029]
+  category: factual-error
+  original_assertion: "In 1637, while England was the only major country outside the Thirty Years' War, the London lawyers' corporation staged a masque called The Triumph of Peace."
+  proposed_correction: "While England was not a formal belligerent in the Thirty Years' War, the Inns of Court staged the masque The Triumph of Peace at Whitehall on 3 February 1634."
+  decision: apply
+  decision_note: "Apply: the performance date is demonstrably wrong, and the exclusive neutrality claim is too broad."
+- id: N-004
+  transcript: [U-00333–U-00341]
+  claim_ids: [C-010]
+  source_ids: [SRC-038, SRC-041]
+  category: misleading-compression
+  original_assertion: "The Pilgrim Fathers arrived on the Mayflower and founded New England's Puritan colonies during the years of Charles I and Archbishop Laud."
+  proposed_correction: "The Pilgrim Fathers arrived on the Mayflower in 1620, before Charles I's reign; under Charles and Archbishop Laud, many thousands more Puritans joined the Great Migration to New England."
+  decision: apply
+  decision_note: "Apply: the lecture conflates the 1620 Plymouth voyage with the larger migration of the 1630s."
+- id: N-005
+  transcript: [U-00489–U-00516]
+  claim_ids: [C-014]
+  source_ids: [SRC-009, SRC-013]
+  category: factual-error
+  original_assertion: "Magna Carta was the king's undertaking to summon Parliament whenever he had to make an important decision."
+  proposed_correction: "Magna Carta reinforced the principle that the king was constrained by law and that certain taxation required common counsel, although Parliament developed only later."
+  decision: apply
+  decision_note: "Apply: Magna Carta neither created Parliament nor required its summons for every important royal decision."
+- id: N-006
+  transcript: [U-00650–U-00658]
+  claim_ids: [C-018]
+  source_ids: [SRC-014, SRC-016, SRC-039]
+  category: disputed
+  original_assertion: "The English Revolution was the first great bourgeois revolution because it sought to guarantee private property rather than change society."
+  proposed_correction: "In the classic Marxist interpretation, the English Revolution was the first great bourgeois revolution because it chiefly secured propertied interests; other historians dispute both that class label and such a single purpose."
+  decision: apply
+  decision_note: "Apply: the claim is a recognizable historiographical interpretation, not an uncontested factual classification."
+- id: N-007
+  transcript: [U-01141–U-01182]
+  claim_ids: [C-030]
+  source_ids: [SRC-012]
+  category: factual-error
+  original_assertion: "The Levellers wanted to level everyone by abolishing the distinction between rich and poor."
+  proposed_correction: "The Levellers sought political and legal equality while generally defending private property; economic levelling and common ownership were associated more closely with the Diggers, or True Levellers."
+  decision: apply
+  decision_note: "Apply: the lecture assigns the Diggers' economic programme to the Levellers."
