@@ -6,4 +6,8 @@ __pycache__/
 
 # Generated working data belongs outside this repository.
 data/
-
+.podcast-preview-token
+cloudflare-terraform/*.tfvars
+cloudflare-terraform/.terraform/
+cloudflare-terraform/*.tfstate*
+secrets/

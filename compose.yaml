@@ -1,0 +1,36 @@
+services:
+  caddy:
+    image: caddy:2.10.2-alpine
+    restart: unless-stopped
+    read_only: true
+    cap_drop: [ALL]
+    cap_add: [NET_BIND_SERVICE]
+    security_opt: [no-new-privileges:true]
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - /scratch/archive/barbero-english/published:/srv/published:ro
+    networks: [podcast_internal]
+    tmpfs: [/config, /data]
+
+  cloudflared:
+    image: cloudflare/cloudflared:2025.8.0
+    restart: unless-stopped
+    read_only: true
+    user: "0:0"
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    environment:
+      TUNNEL_TOKEN_FILE: /run/secrets/cloudflare_tunnel_token
+    command: tunnel --no-autoupdate run
+    secrets: [cloudflare_tunnel_token]
+    networks: [podcast_internal, internet]
+    depends_on: [caddy]
+
+secrets:
+  cloudflare_tunnel_token:
+    file: ./secrets/cloudflare-tunnel-token
+
+networks:
+  podcast_internal:
+    internal: true
+  internet:

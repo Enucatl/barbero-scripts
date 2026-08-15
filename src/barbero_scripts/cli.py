@@ -8,6 +8,7 @@ import yaml
 
 from .audio import prepare, speaker_totals
 from .models import Episode
+from .publish import publish_preview
 from .render import (
     assemble_italian_script,
     assemble_naturalness_chapters,
@@ -72,6 +73,18 @@ def parser() -> argparse.ArgumentParser:
         "finalize-consistency", help="accept the assembled script without broader rewriting"
     )
     final.add_argument("episode_dir", type=Path)
+    publication = commands.add_parser("publish-preview", help="build the unlisted podcast preview")
+    publication.add_argument("--config", type=Path, default=Path("podcast.yaml"))
+    publication.add_argument("--episodes-root", type=Path, default=Path("episodes"))
+    publication.add_argument(
+        "--audio-root", type=Path, default=Path("/scratch/archive/barbero-english")
+    )
+    publication.add_argument(
+        "--output-root",
+        type=Path,
+        default=Path("/scratch/archive/barbero-english/published"),
+    )
+    publication.add_argument("--token-file", type=Path, default=Path(".podcast-preview-token"))
     return result
 
 
@@ -83,6 +96,19 @@ def set_selected_speaker(path: Path, speaker: str) -> None:
 
 def main() -> None:
     args = parser().parse_args()
+    if args.command == "publish-preview":
+        try:
+            destination = publish_preview(
+                args.config,
+                args.episodes_root,
+                args.audio_root,
+                args.output_root,
+                args.token_file,
+            )
+        except (OSError, ValueError, RuntimeError) as error:
+            raise SystemExit(str(error)) from error
+        print(f"Published preview to {destination}")
+        return
     if args.command == "init":
         try:
             destination = scaffold_episode(
