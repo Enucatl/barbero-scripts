@@ -36,13 +36,13 @@
   locator: Dialogue I, Bible-translation discussion
 - id: SRC-005
   author: William Laud
-  title: The history of the troubles and tryal ... vol. 1, with diary
+  title: The History of the Troubles and Tryal ... Volume 1, with the Diary of His Own Life
   date: '1695'
   original_language: en
-  identifier: EEBO-TCP A67908
-  url: https://quod.lib.umich.edu/e/eebo/A67908.0001.001/1:7
+  identifier: EEBO-TCP A67908; Google Books hMNQAAAAcAAJ
+  url: https://books.google.com/books?id=hMNQAAAAcAAJ
   access_date: '2026-08-15'
-  locator: diary
+  locator: Diary entry for 12 February 1638/9, p. 56
 - id: SRC-006
   author: James VI and I
   title: The true law of free monarchy
@@ -115,3 +115,111 @@
   url: https://www.nationalarchives.gov.uk/education/resources/civil-war-people/civil-war-person-charles-i/petition-to-charles-i/
   access_date: '2026-08-15'
   locator: petition text
+- id: SRC-014
+  author: Lawrence Stone
+  title: The Causes of the English Revolution 1529–1642
+  date: '2002'
+  original_language: en
+  identifier: Routledge second edition, ISBN 978-0-415-26673-4
+  url: https://books.google.com/books?id=2ctPut3Pj_gC
+  access_date: '2026-08-15'
+  locator: Chapter 3, section 2, pp. 105–106 (PDF pp. 119–120)
+- id: SRC-015
+  author: Claire Cross
+  title: 'The Economic Problems of the See of York: Decline and Recovery in the Sixteenth Century'
+  date: '1970'
+  original_language: en
+  identifier: 'Land, Church, and People: Essays Presented to H. P. R. Finberg'
+  url: https://www.bahs.org.uk/AGHR/PDFs/Finberg/Finberg_Land_Church_And_People.pdf
+  access_date: '2026-08-15'
+  locator: p. 75 and n. 3, citing John Strype, Annals of the Reformation, vol. III, pp. 550–551
+- id: SRC-016
+  author: Christopher Hill
+  title: 'The World Turned Upside Down: Radical Ideas During the English Revolution'
+  date: '2019'
+  original_language: en
+  identifier: Penguin Books ebook, ISBN 978-0-14-192632-2
+  url: https://www.penguin.co.uk/books/25328/the-world-turned-upside-down-by-christopher-hill/9780141926322
+  access_date: '2026-08-15'
+  locator: Chapter 2, pp. 8–9 and note 12; citing Robert Wharton, A Declaration to Great Britain and Ireland (1649), p. 3
+- id: SRC-017
+  author: C. V. Wedgwood
+  title: 'The King’s Peace, 1637–1641'
+  date: '1955'
+  original_language: en
+  identifier: Internet Archive kingspeace1637160000cvwe
+  url: https://archive.org/details/kingspeace1637160000cvwe
+  access_date: '2026-08-15'
+  locator: p. 118
+- id: SRC-018
+  author: Anonymous
+  title: A Precisian, in Sir Thomas Overbury’s Characters
+  date: '1615'
+  original_language: en
+  identifier: Character Writings of the Seventeenth Century, Project Gutenberg 10699
+  url: https://www.gutenberg.org/ebooks/10699
+  access_date: '2026-08-15'
+  locator: A Precisian
+- id: SRC-019
+  author: Charles R. Pigden
+  title: Hume, Motivation and “the Moral Problem”
+  date: '2007'
+  original_language: en
+  identifier: Rivista di Storia della Filosofia 62.3, pp. 199–221
+  url: https://philarchive.org/rec/PIGHMA
+  access_date: '2026-08-15'
+  locator: p. 214 and n. 22, citing Wedgwood, The King’s Peace, p. 118
+- id: SRC-020
+  author: Anonymous (possibly Thomas Forrester)
+  title: Satire on the General Assembly at Glasgow, 1638
+  date: '1638'
+  original_language: en
+  identifier: 'James Maidment, ed., A Book of Scotish Pasquils, 1568–1715 (1868)'
+  url: https://archive.org/details/bookofscotishpas00maid
+  access_date: '2026-08-15'
+  locator: p. 42
+- id: SRC-021
+  author: Sir Archibald Johnston of Wariston
+  title: Diary of Sir Archibald Johnston of Wariston, 1632–1639
+  date: '1911'
+  original_language: sco
+  identifier: Scottish History Society, second series, vol. 61; edited by George Morison Paul
+  url: https://archive.org/details/diaryofsirarchib01warr
+  access_date: '2026-08-15'
+  locator: Diary entry, 28 February 1638, p. 322; letter to Lady Loudoun drafted 19 April 1638, pp. 339–344
+- id: SRC-022
+  author: William Drummond of Hawthornden
+  title: The Magical Mirror, with appended Queries of State
+  date: '1639'
+  original_language: en
+  identifier: The Works of William Drummond of Hawthornden (1711), pp. 177–178
+  url: https://books.google.com/books?id=J2AJAAAAQAAJ
+  access_date: '2026-08-15'
+  locator: Query beginning “Whether these great commotions and discords”
+- id: SRC-023
+  author: David Masson
+  title: 'Drummond of Hawthornden: The Story of His Life and Writings'
+  date: '1873'
+  original_language: en
+  identifier: Macmillan and Company, p. 306
+  url: https://upload.wikimedia.org/wikipedia/commons/c/cd/Drummond_of_Hawthornden-_the_story_of_his_life_and_writings_%28IA_cu31924013120781%29.pdf
+  access_date: '2026-08-15'
+  locator: pp. 303–306, discussion and transcription of The Magical Mirror and appended Queries of State
+- id: SRC-024
+  author: John Finch
+  title: Speech at the opening of the Short Parliament
+  date: '1640'
+  original_language: en
+  identifier: Text reproduced in Frederick G. Marcham, On Teaching
+  url: https://ecommons.cornell.edu/bitstream/handle/1813/3452/Marcham1_On_Teaching_s.pdf?sequence=1
+  access_date: '2026-08-15'
+  locator: speech excerpt beginning “My lords, and you, the knights, citizens, and burgesses” (pp. 42–43 PDF pagination)
+- id: SRC-025
+  author: Cassell’s Illustrated History of England
+  title: History of the Short Parliament and Lord Keeper Finch’s opening speech
+  date: '1861'
+  original_language: en
+  identifier: Volume 3, chapter 3
+  url: https://en.wikisource.org/wiki/Cassell%27s_Illustrated_History_of_England/Volume_3/Chapter_3
+  access_date: '2026-08-15'
+  locator: 'discussion of 13 April 1640: praise of Charles, Scottish rebellion, supply before grievances'

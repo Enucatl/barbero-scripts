@@ -3124,7 +3124,7 @@ servile.
 
 ## U-00781 · cleaned 47:12 · original 51:39
 
-Avete presente? Sparta con le rivolte degli schiavi,
+Avete presente? Spartaco con le rivolte degli schiavi,
 
 ## U-00782 · cleaned 47:16 · original 51:42
 

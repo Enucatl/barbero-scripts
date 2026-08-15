@@ -66,21 +66,27 @@
   barbero_timestamp: '14:05'
   attribution: Lawrence Stone
   quotation_kind: direct
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: deferred
-  verdict: unresolved
-  source_replacement: unavailable
-  human_reviewed: false
-  research_note: Locate the country-versus-court catalogue and recover exact English. Exact provenance remains unresolved;
-    retain Barbero’s contextual rendering and do not substitute source wording.
-  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
-    in this pass.
+  source_id: SRC-014
+  original_language: en
+  original_text: The Country was virtuous, the Court wicked; the Country was thrifty, the Court extravagant; the Country
+    was honest, the Court corrupt; the Country was chaste and heterosexual, the Court promiscuous and homosexual; the Country
+    was sober, the Court drunken; the Country was nationalist, the Court xenophile; … the Country was solidly Protestant,
+    even Puritan, the Court was deeply tainted by popish leanings.
+  translation: The Country was virtuous, the Court wicked; the Country was thrifty, the Court extravagant; the Country was
+    honest, the Court corrupt; the Country was chaste and heterosexual, the Court promiscuous and homosexual; the Country
+    was sober, the Court drunken; the Country was nationalist, the Court xenophile; … the Country was solidly Protestant,
+    even Puritan, the Court was deeply tainted by popish leanings.
+  locator: Chapter 3, section 2, pp. 105–106 (PDF pp. 119–120)
+  translation_notes: English original; translation reproduces the clauses selected by Barbero. The ellipsis marks three
+    intervening contrasts in Stone that Barbero omits.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: Barbero translates Stone’s catalogue in sequence, omitting the healthy/diseased, outspoken/sycophantic,
+    and old-liberties/administrative-novelties contrasts. His patriotic/foreign-friendly and dangerously pro-papist renderings
+    are contextual translations of nationalist/xenophile and deeply tainted by popish leanings.
 - id: Q-005
   barbero_utterances:
   - U-00239–U-00244
@@ -106,45 +112,47 @@
 - id: Q-006
   barbero_utterances:
   - U-00264–U-00271
-  barbero_timestamp: '20:44'
-  attribution: Unnamed Elizabethan archbishop
+  barbero_timestamp: '20:27'
+  attribution: Edwin Sandys, Archbishop of York
   quotation_kind: direct
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: deferred
-  verdict: unresolved
-  source_replacement: unavailable
-  human_reviewed: false
-  research_note: Identify author and source of tamquam excrementa mundi. Exact provenance remains unresolved; retain Barbero’s
-    contextual rendering and do not substitute source wording.
-  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
-    in this pass.
+  source_id: SRC-015
+  original_language: en-la
+  original_text: The messengers of Christ … are esteemed tanquam excrementa mundi.
+  translation: The messengers of Christ … are esteemed as the filth of the world.
+  locator: Cross, p. 75 and n. 3, citing Strype, Annals of the Reformation, vol. III, pp. 550–551
+  translation_notes: Mixed English and Latin; direct English rendering. The ellipsis marks Sandys’s intervening statement
+    that the ministers had become contemptible to all the people, which Barbero omits.
+  confidence: medium
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: Claire Cross transcribes the sentence from Sandys to Burghley and traces it to Strype’s edition. Brett Usher
+    independently attributes the phrase to Edwin Sandys’s last letter to Burghley. The original letter or Usher’s footnote
+    24 was not inspected, so the precise letter date and manuscript shelfmark remain unrecovered. Barbero accurately translates
+    the selected clause but calls the biblical phrase “the excrement of the world” rather than “the filth of the world.”
 - id: Q-007
   barbero_utterances:
   - U-00293–U-00299
-  barbero_timestamp: '22:48'
+  barbero_timestamp: '21:51'
   attribution: William Laud, diary
   quotation_kind: near-direct
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: deferred
-  verdict: unresolved
-  source_replacement: unavailable
-  human_reviewed: false
-  research_note: Locate dream entry and Laud’s recorded reaction. Exact provenance remains unresolved; retain Barbero’s contextual
-    rendering and do not substitute source wording.
-  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
-    in this pass.
+  source_id: SRC-005
+  original_language: en
+  original_text: I dreamed, that K. C. was to be Married to a Minister’s Widow. And that I was called upon to do it. No Service-Book
+    could be found; and in my own Book, which I had, I could not find the Order for Marriage.
+  translation: I dreamed, that K. C. was to be Married to a Minister’s Widow. And that I was called upon to do it. No Service-Book
+    could be found; and in my own Book, which I had, I could not find the Order for Marriage.
+  locator: Diary entry for 12 February 1638/9, p. 56
+  translation_notes: English original; translation reproduces the researched wording. K. C. denotes King Charles.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: Barbero closely translates Laud’s dream but adds that Laud woke wondering what divine message it contained;
+    the diary entry records no such reaction. The entry is dated 12 February 1638 in the Old Style diary sequence, or 12
+    February 1639 in modern year numbering.
 - id: Q-008
   barbero_utterances:
   - U-00489–U-00496
@@ -168,24 +176,29 @@
 - id: Q-009
   barbero_utterances:
   - U-00587–U-00594
-  barbero_timestamp: '40:06'
-  attribution: Contemporary anti-royalist speech or pamphlet
-  quotation_kind: direct
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: deferred
-  verdict: unresolved
-  source_replacement: unavailable
-  human_reviewed: false
-  research_note: Identify complaint about poor London tradespeople and royal corporations. Exact provenance remains unresolved;
-    retain Barbero’s contextual rendering and do not substitute source wording.
-  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
-    in this pass.
+  barbero_timestamp: '39:58'
+  attribution: Robert Wharton
+  quotation_kind: composite
+  source_id: SRC-016
+  original_language: en
+  original_text: How many poor apple-women and broom-men, rag-merchants and people of all sorts, sold and pawned their bedding
+    and their clothes to buy themselves the freedom of the new royal incorporation of the suburbs of London? And when all
+    was done, it proved a cheat; thus was the king’s coffers filled with oppression.
+  translation: How many poor apple-women and broom-men, rag-merchants and people of all sorts, sold and pawned their bedding
+    and their clothes to buy themselves the freedom of the new royal incorporation of the suburbs of London? And when all
+    was done, it proved a cheat; thus was the king’s coffers filled with oppression.
+  locator: Chapter 2, pp. 8–9 and note 12; citing Wharton pamphlet, p. 3
+  translation_notes: English source passage; translation reproduces the researched wording. Hill quotes the clauses through
+    “their clothes” and from “And when all was done”, while supplying the connecting incorporation clause in his own narration.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: Hill’s passage closely matches Barbero and identifies the source as Robert Wharton, A Declaration to Great
+    Britain and Ireland (1649), p. 3. The EPUB was inspected directly. Hill is accepted here as the authoritative transcription;
+    the original pamphlet page was not inspected. Barbero presents Hill’s combination of direct quotation and linking prose
+    as a single quotation, hence the composite classification.
 - id: Q-010
   barbero_utterances:
   - U-00630–U-00634
@@ -209,91 +222,131 @@
 - id: Q-011
   barbero_utterances:
   - U-00682–U-00685
-  barbero_timestamp: '46:29'
-  attribution: Unnamed Scottish lord
-  quotation_kind: direct
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: deferred
-  verdict: unresolved
-  source_replacement: unavailable
-  human_reviewed: false
-  research_note: Identify speaker and source for whore of Babylon remark. Exact provenance remains unresolved; retain Barbero’s
-    contextual rendering and do not substitute source wording.
-  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
-    in this pass.
+  barbero_timestamp: '45:58'
+  attribution: Unnamed Scottish nobleman (anecdotal tradition)
+  quotation_kind: near-direct
+  source_id: SRC-017
+  original_language: en
+  original_text: If I have lain with never so many whores, I’ll never lie with the whore of Babylon.
+  translation: If I have lain with never so many whores, I’ll never lie with the whore of Babylon.
+  locator: The King's Peace, p. 118; independently transcribed by Pigden, p. 214 and n. 22
+  translation_notes: English wording as transmitted by Wedgwood and quoted by Pigden. Barbero closely translates it, changing
+    the conditional “If I have lain with never so many” into a declarative past statement.
+  confidence: medium
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: >-
+    C. V. Wedgwood presents this as the remark of an unnamed Scottish nobleman who opposed the Anglican Book of Common Prayer;
+    Charles R. Pigden reproduces the exact sentence and cites Wedgwood, p. 118. No contemporary record or speaker identification
+    was recovered. The punchline predates the Scottish crisis: the anonymous character sketch “A Precisian,” published among
+    the additions to Sir Thomas Overbury's Characters by 1615, says that a hypocritical Puritan can “lie with any whore save
+    the whore of Babylon.” A 1638 anti-Covenanter satire likewise says its targets reject no whore “except the whore of Babylone.”
+    The nobleman's saying is therefore best treated as an anecdotal adaptation of a circulating satirical formula, not a
+    recoverable verbatim utterance.
 - id: Q-012
   barbero_utterances:
   - U-00736–U-00740
-  barbero_timestamp: '48:46'
-  attribution: Edinburgh lawyer or diarist
-  quotation_kind: direct
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: deferred
-  verdict: unresolved
-  source_replacement: unavailable
-  human_reviewed: false
-  research_note: Identify diary and exact national marriage/Covenant wording. Exact provenance remains unresolved; retain
-    Barbero’s contextual rendering and do not substitute source wording.
-  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
-    in this pass.
+  barbero_timestamp: '49:10'
+  attribution: Sir Archibald Johnston of Wariston
+  quotation_kind: composite
+  source_id: SRC-021
+  original_language: sco
+  original_text: >-
+    Upon Wedensday, 28 Februar, that glorious mariage day of the Kingdome with God, … ye wil find a verrie near
+    paralel betuixt Izrael and this churche, the only tuo suorne nations to the Lord, betuixt our tuo caises in our
+    voyages.
+  translation: >-
+    On Wednesday, 28 February, that glorious marriage day of the Kingdom with God, … you will find a very close
+    parallel between Israel and this church—the only two nations sworn to the Lord—between our two cases in our
+    journeys.
+  locator: Diary entry, 28 February 1638, p. 322; letter to Lady Loudoun drafted 19 April 1638, pp. 339–344 (second quoted phrase on p. 344)
+  translation_notes: >-
+    The ellipsis marks a boundary between two documents written seven weeks apart, not an omission from one continuous
+    quotation. Barbero changes “Kingdome” to “nation” and “this churche” to “we,” while accurately conveying the sense.
+  confidence: high
+  status: resolved
+  verdict: composite
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: >-
+    Evidence tier 1, an edition transcribed from Wariston’s original manuscript. The first passage describes the initial
+    signing of the National Covenant at Greyfriars on 28 February 1638. The second occurs in a letter/reflection drafted
+    for Lady Loudoun on 19 April. Barbero combines two genuine passages by the same author into a single diary quotation.
 - id: Q-013
   barbero_utterances:
   - U-00774–U-00791
   barbero_timestamp: '51:32'
   attribution: William Drummond of Hawthornden
-  quotation_kind: direct
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: deferred
-  verdict: unresolved
-  source_replacement: unavailable
-  human_reviewed: false
-  research_note: Locate warning about bellum servile and exact wording. Exact provenance remains unresolved; retain Barbero’s
-    contextual rendering and do not substitute source wording.
-  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
-    in this pass.
+  quotation_kind: composite
+  source_id: SRC-023
+  original_language: en
+  original_text: >-
+    Whether these great commotions and discords may not dissolve in bellum servile, and peasants, clowns, farmers, base
+    people, all in arms, may not swallow the nobles and gentry, invest their possessions, adhere together by a new Covenant,
+    and follow our example.
+  translation: >-
+    Whether these great commotions and discords may not dissolve in bellum servile, and peasants, clowns, farmers, base
+    people, all in arms, may not swallow the nobles and gentry, invest their possessions, adhere together by a new Covenant,
+    and follow our example.
+  locator: The Magical Mirror, with appended Queries of State, quoted in Masson, Drummond of Hawthornden, p. 306; first printed in Works (1711), pp. 177–178
+  translation_notes: >-
+    English original. Barbero closely translates the query, rendering “dissolve in” as “turn into” and “invest their
+    possessions” as seizing their goods. His Spartacus/slave-revolt explanation and the final repetition of “as we have done”
+    are contextual additions, so the broadcast wording is composite rather than a continuous translation.
+  confidence: high
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: >-
+    Evidence tier 2 for the wording: Masson transcribes the passage from Drummond’s prose papers and identifies it as one
+    of the Queries of State appended to The Magical Mirror, a tract dated 1 April 1639. Christopher Hill independently
+    reproduces the same sentence and cites Masson, p. 306. The query is a warning by a royalist-leaning conservative about
+    the social consequences of the Covenant, not a prediction made by the Covenanters themselves.
 - id: Q-014
   barbero_utterances:
   - U-00845–U-00851
-  barbero_timestamp: '55:59'
-  attribution: Lord Keeper John Finch or royal spokesman
-  quotation_kind: near-direct
-  source_id: null
-  original_language: null
-  original_text: null
-  translation: null
-  locator: null
-  translation_notes: null
-  confidence: null
-  status: deferred
-  verdict: unresolved
-  source_replacement: unavailable
-  human_reviewed: false
-  research_note: Identify Short Parliament opening speech and exact praise/redress wording. Exact provenance remains unresolved;
-    retain Barbero’s contextual rendering and do not substitute source wording.
-  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
-    in this pass.
+  barbero_timestamp: '55:41'
+  attribution: John Finch, Lord Keeper of the Great Seal
+  quotation_kind: composite
+  source_id: SRC-024
+  original_language: en
+  original_text: >-
+    My lords, and you, the knights, citizens, and burgesses of the House of Commons: I doubt not but you rejoice at this
+    day’s meeting ...; and good reason you have so to do, and with all humbleness of heart to acknowledge the great
+    goodness of his majesty who, sequestering the memory of all former discouragements in preceding assemblies, is now,
+    out of a fatherly affection to his people and a confidence that they will not be failing in their duty to him, pleased
+    graciously to invite you and all his loving subjects to a sacred unity of hearts and affection in the service of him and
+    of the commonwealth.
+  translation: >-
+    My lords, and you, the knights, citizens, and burgesses of the House of Commons: I doubt not but you rejoice at this
+    day’s meeting ...; and good reason you have so to do, and with all humbleness of heart to acknowledge the great
+    goodness of his majesty who, sequestering the memory of all former discouragements in preceding assemblies, is now,
+    out of a fatherly affection to his people and a confidence that they will not be failing in their duty to him, pleased
+    graciously to invite you and all his loving subjects to a sacred unity of hearts and affection in the service of him and
+    of the commonwealth.
+  locator: Finch’s opening speech at the Short Parliament, 13 April 1640; excerpt reproduced in Marcham, On Teaching, pp. 42–43 (PDF pagination)
+  translation_notes: >-
+    Barbero compresses Finch’s praise of the king and his appeal for supply before redress, and adds an explicit virtuous
+    queen, wicked Scots, and “all wrongs” formulation not recovered verbatim in the inspected excerpt. The broadcast
+    wording is therefore a composite paraphrase, not a continuous quotation.
+  confidence: medium
+  status: resolved
+  verdict: confirmed-in-substance
+  source_replacement: eligible
+  human_reviewed: true
+  research_note: >-
+    John Finch delivered the King’s opening message at the Short Parliament on 13 April 1640. The recovered excerpt is
+    tier-2 evidence from a modern scholarly reproduction of the speech; contemporary histories corroborate its broad
+    context: fulsome praise of Charles, denunciation of the Scottish rebellion, a demand for supply, and a promise to
+    consider grievances afterward. Barbero’s sequence reverses that conditional order (“if money, then redress”) and
+    folds several contextual details into Finch’s wording.
 - id: Q-015
   barbero_utterances:
   - U-00964–U-00967
-  barbero_timestamp: '62:35'
+  barbero_timestamp: '62:45'
   attribution: Unnamed peer
   quotation_kind: direct
   source_id: null
@@ -307,10 +360,16 @@
   verdict: unresolved
   source_replacement: unavailable
   human_reviewed: false
-  research_note: Identify source of complaint about shirtless voters. Exact provenance remains unresolved; retain Barbero’s
-    contextual rendering and do not substitute source wording.
-  deferred_reason: Targeted web and digitized-book searches did not recover sufficiently reliable exact wording and locator
-    in this pass.
+  research_note: >-
+    The episode’s wording is confirmed in the transcript, but targeted searches of Long Parliament histories, contemporary
+    memoirs, and digitized books did not recover a reliable English original, speaker, or locator for the “without a shirt”
+    remark. The surrounding historical claim is plausible: the November 1640 elections brought unusually mobilized artisans
+    and tradesmen into a system whose franchise was still restricted, while contemporary accounts describe the socially plain
+    appearance of some new MPs. Those parallels do not establish this sentence as a recoverable quotation.
+  deferred_reason: >-
+    Exact provenance remains unresolved after searches for variants of “without a shirt,” “shirt to his back,” and “vote as
+    much as mine” in Long Parliament histories and digitized primary texts. Keep Barbero’s wording as an unattributed anecdote;
+    a page image, bibliography note, or source title from the production research would be needed to resolve it.
 - id: Q-016
   barbero_utterances:
   - U-00971–U-00975
