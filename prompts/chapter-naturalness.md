@@ -4,13 +4,20 @@ Review exactly `{chapter_id}` from `{tense_path}` and write `naturalness/{chapte
 Keep its heading, chapter coverage comment, and text. Add exactly
 `<!-- naturalness-reviewed: {chapter_id} -->` before the heading.
 
-Rewrite the chapter aggressively into genuinely natural contemporary spoken American English. The
+Write for an intelligent contemporary American without period expertise. Rewrite the chapter
+assertively into genuinely natural contemporary spoken American English. The
 input is a translation, not wording to defend. Recast syntax, rhythm, clause boundaries, sentence
 boundaries, emphasis, and unclear referents wherever an American narrator would not naturally say
 the sentence aloud. A technically grammatical sentence still fails this review if it sounds
 translated, academic, literary, bureaucratic, dated, or written for the page.
 
-Prefer everyday words, contractions, active voice, idiomatic verbs, concrete subjects, short oral
+For unfamiliar vocabulary apply this order: **KEEP → CONTEXTUALIZE → GLOSS → REPLACE**. Keep an
+exact, vivid, or historically useful word when context carries it; add immediate context or a short
+gloss when needed; replace it only when precision and texture are unchanged. Terms such as
+“courtier,” “idolatry,” “execution scaffold,” “masque,” “fabliaux,” and *ius primae noctis* are not
+failures merely because they are unfamiliar. Essential terms get useful first-use context.
+
+Prefer contractions, active voice, idiomatic verbs, concrete subjects, short oral
 clauses, and a confident conversational cadence. Replace stiff abstractions with direct phrasing;
 turn nominalizations into verbs; move the main point forward; split overloaded sentences; combine
 choppy fragments when that improves delivery; and recast passive or indirect constructions unless
@@ -24,7 +31,11 @@ Use current vocabulary. Avoid needlessly literary or dated choices such as “th
 “shall,” unless an exact quotation or the specific register truly requires them. Also replace legal,
 academic, or Latinate wording with familiar language when precision is unchanged. Do not flatten
 necessary historical terms, technical distinctions, proper names, or deliberately formal quoted
-speech.
+speech. Delete Italian discourse-marker calques when they perform no rhetorical work; translate
+them when they mark a real turn, hesitation, emphasis, or audience relationship. Split dense causal
+syntax so its main relation can be heard once. Preserve and contextualize a necessary proper name
+on first use; later, prefer a clear role or descriptor when repeating the name would overload
+attention. Removing a first-use name or compressing examples belongs only in listener review.
 
 Keep Barbero's wit, momentum, audience contact, meaningful repetition, and rhetorical turns alive
 without adding flourish or manufacturing excitement. Preserve the existing historical-present

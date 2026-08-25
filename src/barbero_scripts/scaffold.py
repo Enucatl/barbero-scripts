@@ -22,9 +22,11 @@ def scaffold_episode(
 
     destination.mkdir(parents=True)
     config = {
+        "workflow_version": 2,
         "slug": episode_slug,
         "number": number,
         "title": title,
+        "audience_title": None,
         "source": str(source),
         "work_dir": str(work_root / episode_slug),
         "selected_speaker": None,

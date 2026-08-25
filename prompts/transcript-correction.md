@@ -1,67 +1,27 @@
-# Transcript correction and verification
+# Transcript correction and uncertainty detection
 
-Review `{transcript_path}` in full and update `{corrections_path}`. Work only from the existing
-transcription and episode-wide historical and linguistic context. Do not use or claim to have
-reviewed the audio.
+Read `{transcript_path}` in full and update `{uncertainties_path}`. Acoustic items already expose
+the relevant word text, confidence, and cleaned/original timestamps. Independently add semantic
+items for names, foreign expressions, dates, quotations, places, internal incoherence, and any
+automatic correction that may change meaning. Do not claim acoustic evidence you did not inspect.
 
-## Editorial boundary
+Correct only spelling, punctuation, historical names, dates, and obvious recognition errors.
+Preserve every utterance ID and propose complete utterance text, never a fragment. Do not rewrite
+style, smooth spoken Italian, remove meaningful repetition or disfluency, or alter claims.
 
-- Read the complete transcript so later context can inform earlier corrections.
-- Correct only spelling, punctuation, historical names, dates, and obvious speech-recognition
-  errors.
-- Preserve every utterance ID and replace complete utterance text, never a fragment.
-- Do not rewrite for style, smooth the speaker's spoken Italian, remove meaningful repetition or
-  disfluency, or alter substantive claims.
-- Use contextual judgment to resolve awkward text. Do not defer merely because audio is
-  unavailable.
-- Leave an item unresolved only when it is genuinely unintelligible or historically ambiguous and
-  choosing a reading would risk inventing content.
-
-## Pass 1: propose corrections
-
-Include only utterances that require changes. Keep proposals distinguishable from accepted text:
+Every machine-created item has `resolution.status: pending`. Agents may add reasons and a
+conservative `proposed_text` but must not resolve it. A human resolves an item by storing the
+complete resulting utterance, whether keeping current text, accepting the proposal, or editing it:
 
 ```yaml
-U-00001:
-  text: "Complete corrected Italian utterance."
-  reviewed: false
+resolution:
+  status: resolved
+  resolved_text: "Complete resulting Italian utterance."
+  note: null
 ```
 
-## Pass 2: resolve review flags
-
-Revisit every utterance carrying a review flag. The default outcome is to accept its existing text
-or make the most contextually justified minor correction. Aim to resolve essentially the entire
-queue.
-
-For unchanged text, omit `text`:
-
-```yaml
-U-00002:
-  reviewed: true
-```
-
-For corrected text, include the complete utterance:
-
-```yaml
-U-00003:
-  text: "Complete corrected Italian utterance."
-  reviewed: true
-```
-
-Preserve all previously accepted corrections when updating the file. Report any exceptional
-unresolved IDs and explain precisely why contextual resolution would risk inventing content.
-
-## Verification
-
-Before finishing:
-
-1. Parse the generated YAML.
-2. Confirm every entry ID occurs in the transcript.
-3. Confirm every entry contains `reviewed` and optionally `text`, with no other fields.
-4. Confirm every supplied `text` is non-empty and contains the complete replacement utterance.
-5. Confirm pass-one proposals use `reviewed: false` and pass-two decisions use `reviewed: true`.
-6. Report counts for proposed corrections, unchanged approvals, corrected approvals, and unresolved
-   passages.
-
-Do not edit committed transcript or research files, and do not create a Git commit.
-
+Acoustic or semantic reasons may be absent individually, but each item needs at least one. Preserve
+prior human resolutions. Before finishing, parse the YAML; verify stable IDs, exact utterance
+references, complete replacements, a fresh transcription fingerprint, and `pending` on every new
+item. Report acoustic, semantic-only, and pending counts. Do not edit committed transcript or
+research files and do not create a commit.

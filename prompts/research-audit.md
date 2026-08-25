@@ -49,7 +49,7 @@ run editorial validation, and report:
 - remaining genuine risks;
 - whether research is ready for faithful translation and accuracy review.
 
-Research readiness is not quotation approval. Preserve each quotation's `human_reviewed` value and
-stop for manual review before faithful translation.
+Research readiness is not content approval. Preserve technical replacement eligibility; human
+decisions belong only in the unified content queue after faithful translation.
 
 Do not edit the English script and do not create a Git commit.

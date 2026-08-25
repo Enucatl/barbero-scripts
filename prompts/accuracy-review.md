@@ -1,19 +1,12 @@
-# Accuracy review
+# Accuracy treatment proposals
 
-Require `{translation_path}` to exist and pass section-level coverage validation before starting.
-If it is missing or incomplete, stop: accuracy notes cannot sensibly be reviewed against a
-baseline that does not yet exist. Compare that faithful translation with the transcript and
-complete research ledgers. Write findings to `{accuracy_notes_path}`; do not edit any script.
+Compare `{faithful_translation_path}` with the Italian source and complete research ledgers. Add
+findings to `{content_corrections_path}`; do not edit a script. Record only demonstrable factual
+errors, dates, names, places, attributions, translation ambiguities, historical context needed to
+avoid error, misleading compression, disputed claims, and material uncertainty.
 
-Record only demonstrable factual errors, misleading compression, genuinely disputed claims, and
-material uncertainty. Each YAML record must contain a stable `N-001`-style ID, transcript range,
-optional `claim_ids`, `quotation_ids`, and `source_ids`, `category` (`factual-error`,
-`misleading-compression`, `disputed`, or `material-uncertainty`), `original_assertion`,
-`proposed_correction`, and `decision: retain-original`. Put the precise, minimally scoped script
-change in `proposed_correction`, written as natural replacement narration rather than a fact-checking
-note or a comparison with Barbero's assertion. Do not add a separate assessment field. This conservative default
-preserves Barbero unless a human explicitly changes the decision to `apply`; the reviewer may add
-`decision_note`.
-
-Resolve every reference, distinguish evidence from inference, and leave no research finding hidden
-in prose outside the ledger. Do not create a commit.
+Each `CC-NNN` item must contain an exact bounded passage within one chapter, the passage SHA-256,
+an exact replacement, concise reason and evidence summary, all claim/quotation/source references,
+`recommendation: apply|retain`, and `decision: pending`. The replacement must be natural narration,
+not a fact-check note. Never initialize a human decision optimistically. Consolidate any overlap
+with quotation treatments before the queue opens; application rejects overlaps and stale hashes.

@@ -25,6 +25,7 @@ which is embalmed with ointments and buried in the chapel of Windsor Castle. Now
 years earlier, many Christian emperors and kings had been murdered. Others had died in battle. The English themselves had murdered at
 least two of their kings in the Middle Ages, Edward II and Richard II. But Charles I is the first king in Europe to die after being
 legally tried and sentenced to death for high treason. The execution of Charles I is the end point of a civil war that lasted six years.
+<!-- content-correction: CC-001 -->
 
 ## 2. The Illusion of Peace and a Remote Court
 
@@ -34,8 +35,8 @@ And yet, shortly before that war broke out, England considered itself a country 
 years. In seventeenth-century England a form of entertainment they called the masque was all the rage. These were costumed performances
 combining music, singing, ballet, and scenery; they were also tremendously fashionable at court. Masques were staged in which the
 king and queen themselves rehearsed their parts for months, and the content was always allegorical, in keeping with the taste of
-the time. In 1637, when Europe is in the grip of the Thirty Years’ War, one of the most dreadful wars in its history, England is
-the only major country not involved in the war. In 1637 the London lawyers’ corporation puts on a masque in honour of the king,
+the time. In 1634, while England is the only major country outside the Thirty Years’ War, the London lawyers’ corporation stages
+a masque called *The Triumph of Peace* in honour of the king. [N-003] It is
 the most expensive ever seen up to that time, with more than two hundred participants. And its theme is the triumph of peace. That
 year Charles I is talking to his German nephews, the sons of his sister, who married a German prince—his German nephews, who come
 from a Germany devastated beyond description by the Thirty Years’ War—and in that year, in that ’37, Charles I happens to say,
@@ -55,6 +56,7 @@ to recover from this illness that everyone calls the king’s evil, the sick mus
 of a parish priest, an officer of their parish, and a justice of the peace. Charles has no idea what the country’s true feelings
 are towards him, his government, and his court. And I dwell on the court because it was not so much the king’s person at first,
 but the environment surrounding him—the court—that became the focus of the population’s, the country’s, annoyance and hostility.
+<!-- content-correction: CC-002 -->
 
 ## 3. James I, Buckingham, and the Court's Disrepute
 
@@ -83,6 +85,7 @@ the eyes of most English people, this is not a positive thing. In the English he
 that the king, the court, the royal family, the courtiers, and the ministers are a foreign body, that the court has nothing to do with
 the country. A great historian, Lawrence Stone, expressed this memorably, so I shall quote him instead of trying to put it in my own
 words. “The Country was virtuous, the Court wicked; the Country was thrifty, the Court extravagant; the Country was honest, the Court corrupt; the Country was chaste and heterosexual, the Court promiscuous and homosexual; the Country was sober, the Court drunken; the Country was nationalist, the Court xenophile; … the Country was solidly Protestant, even Puritan, the Court was deeply tainted by popish leanings.”
+<!-- content-correction: CC-003 -->
 
 ## 4. Anglican Authority and Puritan Dissent
 
@@ -115,6 +118,7 @@ Puritans consider themselves the chosen people, the new Israel, and expect God t
 new Jerusalem. And perhaps we would like that less if we had to meet them. But Puritanism nevertheless really does mean calling into
 question the obligation to obey the authorities. As one of the great thinkers of the English seventeenth century, Hobbes—Thomas
 Hobbes, who had no sympathy at all for any of this—said, and I quote Hobbes: “For after the Bible was translated into English, every man, nay, every boy and wench, that could read English, thought they spoke with God Almighty, and understood what he said, when by a certain number of chapters a day they had read the Scriptures once or twice over.”. Hobbes, of course, will side with the king during the Civil War and will be forced to flee abroad.
+<!-- content-correction: CC-004 -->
 
 ## 5. Archbishop Laud's Campaign for Conformity
 
@@ -151,6 +155,7 @@ the country. Do you all know where they go? They go to America. Do you remember 
 Pilgrim Fathers who arrive on the *Mayflower* and found the Puritan colonies of New England. And when do they go there? They go in
 the years of Charles and Archbishop Laud. So many of these Puritans go to America that instead of being pleased, the king worries
 that the country risks losing subjects. For a moment Charles thinks of banning emigration to America. Then he does not do so.
+<!-- content-correction: CC-005 -->
 
 ## 6. Print, Persecution, and Fear of Popery
 
@@ -225,8 +230,8 @@ the law. He is not limited by any law, because it is he who makes the laws and, 
 life to putting these principles into effect, which in practical terms means trying to govern without summoning Parliament. Other
 European kings do it too and eventually succeed. In England it is a particularly difficult undertaking, because England is the
 country where Parliament has gained most ground and where already in the Middle Ages kings had to swear not to govern without the
-country’s consent. You know Magna Carta. And what is Magna Carta if not the king’s undertaking to summon Parliament whenever
-he must take some important decision? Parliaments in England are—this is good, you can all picture it—the House of Lords, where
+country’s consent. You know Magna Carta. Magna Carta reinforces the principle that the king is constrained by law and that certain
+taxation requires common counsel, although Parliament develops only later. [N-005] Parliaments in England are—this is good, you can all picture it—the House of Lords, where
 the great lords and bishops sit, and they generally go where the king wishes. But the truly important house is the House of Commons,
 representing the rural aristocracy, the gentry, as the English call them, which is the social class governing the kingdom, because no
 state apparatus exists. The king can govern only insofar as the country gentlemen keep order, act as judges, and collect taxes. And
@@ -267,6 +272,7 @@ from a text from the very period in which the king was executed. “How many poo
 does not declare it, but it is—or everyone knows—that he does this to avoid having to summon Parliament. And then he attempts
 the decisive experiment. Until now these have been petty devices, but now let us try to introduce an actual new tax and see whether
 the country pays. He does it very skilfully. In Elizabeth’s time there was a tax paid by coastal areas to maintain the war fleet.
+<!-- content-correction: CC-006 -->
 
 ## 8. Ship Money and the Defence of Property
 
@@ -294,6 +300,7 @@ because the English Revolution, the Civil War, is also a revolution; both defini
 great bourgeois revolution, in the sense that it is not a revolt to change society; it is a revolt to guarantee private property. As
 you see, we are already faced with a divided country and a king heading for a collision with enormous collective interests without
 even realizing the gravity of his position. But the spark that will precipitate the Civil War is yet another matter.
+<!-- content-correction: CC-007 -->
 
 ## 9. Scotland, the Prayer Book, and the Covenant
 
@@ -327,6 +334,7 @@ printing, the Scottish Covenant is printed in a thousand clandestine presses and
 in London everyone has it in his hands. King Charles’s court jester, Armstrong—for the king naturally had court fools; he had
 a giant, Muckle John, “muckle” being dialect for large, and he had a dwarf and a jester—meets the Archbishop of Canterbury
 after this news from Scotland arrives and asks him: who is the fool now? Naturally he is immediately dismissed from his post.
+<!-- content-correction: CC-008 -->
 
 ## 10. The Covenanters and the First Bishops' War
 
@@ -354,6 +362,7 @@ Parliament. The archbishop is among the first to say so. Another who insists is 
 last half hour—no, God willing, in these final fifteen or twenty minutes—we shall mention again, because he is the protagonist
 of a dramatic episode: the Earl of Strafford, governor of Ireland, one of the king’s chief and most trusted advisers. Both Laud
 and Strafford insist that Parliament must be summoned, and the king summons it, after ten—eleven—years without doing so.
+<!-- content-correction: CC-009 -->
 
 ## 11. The Short Parliament and the Scottish Invasion
 
@@ -390,6 +399,7 @@ Strafford need not fear for his life. Remember that. Meanwhile the Protestant po
 with the Scots and regards them as liberators. Penniless and without an army, the king must sign a dishonourable agreement accepting
 Scottish occupation of northern England and promising to pay the occupiers’ expenses. The only thing left is to summon a Parliament,
 and he summons what will naturally go down in history as the Long Parliament.
+<!-- content-correction: CC-010 -->
 
 ## 12. The Long Parliament and Strafford's Fall
 
@@ -434,6 +444,7 @@ has said he will not sign anyway, so the Lords wash their hands and pass it too.
 do, consults lawyers and bishops, becomes frightened, and signs—only to regret it immediately. Too late: two days later Strafford
 is beheaded. Laud, imprisoned in the Tower, notes in his famous diary that serving that king had not been worthwhile. Up to here,
 as we approach the end, it seems like the French Revolution, where every new royal concession pushes him closer to the abyss.
+<!-- content-correction: CC-011 -->
 
 ## 13. Polarization, Civil War, and the Limits of Revolution
 
@@ -467,7 +478,8 @@ public prosecutor by the Commons, does everything to convict the archbishop: rum
 witnesses. He cannot secure a conviction. No problem: Parliament passes an act declaring the archbishop an enemy of the people and
 condemning him to death. He is beheaded four years before his king. The people’s covenant, as the Scottish poet called it, and
 social revolution will not happen. The idea that all men are equal remains confined to a few extremists’ sermons. Those who try
-to realize it—and some will; famous movements arise in mid-seventeenth-century England, the Levellers, who wanted precisely to
-level everyone, no more rich and poor—discover that Parliament’s army is entirely ready to suppress by shooting and bloodshed
+to realize it—and some will—discover that the Levellers seek political and legal equality while generally defending private
+property; economic levelling and common ownership are associated more closely with the Diggers, or True Levellers. [N-007] They discover that Parliament’s army is entirely ready to suppress by shooting and bloodshed
 those who have not understood that at a certain point one must stop. But of course this was neither the first time, nor will it be
 the last. Thank you. Thank you all; until tomorrow evening, then. Thank you, Professor. As we were saying.
+<!-- content-correction: CC-012 -->

@@ -1,7 +1,7 @@
 # Faithful English assembly
 
-Before starting, require every quotation in `quotes.yaml` to have `human_reviewed: true`. Stop if
-any quotation is explicitly unreviewed; completed research alone is not approval.
+Before starting, require quotation research and its audit to be complete. Technical replacement
+eligibility is not a human content decision; that decision occurs after faithful translation.
 
 Read `script.it.md` in full, then translate it chapter by chapter with the language model. Produce
 `script.translation.faithful.en.md` with exactly the same numbered chapters, headings, coverage

@@ -40,6 +40,8 @@ Edward II and Richard II. But Charles I is the first king in Europe to die after
 tried and sentenced to death for high treason. The execution of Charles I is the end point of
 a civil war that lasted six years.
 
+<!-- content-correction: CC-001 -->
+
 ## 2. The Illusion of Peace and a Remote Court
 
 <!-- chapter: CH-002; transcript: U-00056–U-00111 -->
@@ -76,6 +78,8 @@ certificate bearing the three signatures of a parish priest, an officer of their
 justice of the peace. Charles has no idea what the country’s true feelings are towards him,
 his government, and his court. And I dwell on the court because it is not so much the king’s person at first, but the environment surrounding him—the court—that becomes the focus of
 the population’s, the country’s, annoyance and hostility.
+
+<!-- content-correction: CC-002 -->
 
 ## 3. James I, Buckingham, and the Court's Disrepute
 
@@ -116,6 +120,8 @@ the Court extravagant; the Country was honest, the Court corrupt; the Country wa
 heterosexual, the Court promiscuous and homosexual; the Country was sober, the Court drunken;
 the Country was nationalist, the Court xenophile; … the Country was solidly Protestant,
 even Puritan, the Court was deeply tainted by popish leanings.”
+
+<!-- content-correction: CC-003 -->
 
 ## 4. Anglican Authority and Puritan Dissent
 
@@ -163,6 +169,8 @@ boy and wench, that could read English, thought they spoke with God Almighty, an
 what he said, when by a certain number of chapters a day they had read the Scriptures once or
 twice over.”. Hobbes, of course, will side with the king during the Civil War and will be
 forced to flee abroad.
+
+<!-- content-correction: CC-004 -->
 
 ## 5. Archbishop Laud's Campaign for Conformity
 
@@ -216,6 +224,8 @@ New England. And when do they go there? They go in the years of Charles and Arch
 many of these Puritans go to America that instead of being pleased, the king worries that the
 country risks losing subjects. For a moment Charles thinks of banning emigration to America. Then
 he does not do so.
+
+<!-- content-correction: CC-005 -->
 
 ## 6. Print, Persecution, and Fear of Popery
 
@@ -373,6 +383,8 @@ attempts the decisive experiment. Until now these have been petty devices, but n
 to introduce an actual new tax and see whether the country pays. He does it very skilfully. In
 Elizabeth’s time there was a tax paid by coastal areas to maintain the war fleet.
 
+<!-- content-correction: CC-006 -->
+
 ## 8. Ship Money and the Defence of Property
 
 <!-- chapter: CH-008; transcript: U-00601–U-00658 -->
@@ -409,6 +421,8 @@ revolution, in the sense that it is not a revolt to change society; it is a revo
 private property. As you see, we are already faced with a divided country and a king heading
 for a collision with enormous collective interests without even realizing the gravity of his
 position. But the spark that will precipitate the Civil War is yet another matter.
+
+<!-- content-correction: CC-007 -->
 
 ## 9. Scotland, the Prayer Book, and the Covenant
 
@@ -456,6 +470,8 @@ it in his hands. King Charles’s court jester, Armstrong—for the king natural
 and a jester—meets the Archbishop of Canterbury after this news from Scotland arrives and
 asks him: who is the fool now? Naturally he is immediately dismissed from his post.
 
+<!-- content-correction: CC-008 -->
+
 ## 10. The Covenanters and the First Bishops' War
 
 <!-- chapter: CH-010; transcript: U-00762–U-00837 -->
@@ -494,6 +510,8 @@ last half hour—no, God willing, in these final fifteen or twenty minutes—we 
 again, because he is the protagonist of a dramatic episode: the Earl of Strafford, governor of
 Ireland, one of the king’s chief and most trusted advisers. Both Laud and Strafford insist that
 Parliament must be summoned, and the king summons it, after ten—eleven—years without doing so.
+
+<!-- content-correction: CC-009 -->
 
 ## 11. The Short Parliament and the Scottish Invasion
 
@@ -548,6 +566,8 @@ north sympathizes with the Scots and regards them as liberators. Penniless and w
 the king must sign a dishonourable agreement accepting Scottish occupation of northern England
 and promising to pay the occupiers’ expenses. The only thing left is to summon a Parliament,
 and he summons what will naturally go down in history as the Long Parliament.
+
+<!-- content-correction: CC-010 -->
 
 ## 12. The Long Parliament and Strafford's Fall
 
@@ -613,6 +633,8 @@ frightened, and signs—only to regret it immediately. Too late: two days later 
 beheaded. Laud, imprisoned in the Tower, notes in his famous diary that serving that king has not been worthwhile. Up to here, as we approach the end, it seems like the French Revolution,
 where every new royal concession pushes him closer to the abyss.
 
+<!-- content-correction: CC-011 -->
+
 ## 13. Polarization, Civil War, and the Limits of Revolution
 
 <!-- chapter: CH-013; transcript: U-01067–U-01183 -->
@@ -670,3 +692,5 @@ Levellers. [N-007] They discover that Parliament’s army is entirely ready to s
 shooting and bloodshed those who have not understood that at a certain point one must stop. But
 of course this is neither the first time, nor will it be the last. Thank you. Thank you all;
 until tomorrow evening, then. Thank you, Professor. As we were saying.
+
+<!-- content-correction: CC-012 -->

@@ -1,0 +1,219 @@
+schema_version: 1
+base_script:
+  path: script.spoken.en.md
+  sha256: a41fa8191486b764f393b3038a1a9e665f2a369aeed14a1de56f8af28d2bdf84
+episode_assessment:
+  must_understand:
+  - The supposed right of the first night is a late legend, not a medieval law.
+  - The myth manufactures evidence by misreading taxes, names, and later stories.
+  must_remember:
+  - The boot trick and the friars' false tithe
+  - The false-etymology mechanism and Orwell's ending
+  experience:
+  - A historical investigation in which each expected source fails.
+  argument_or_narrative_spine: A detective search follows the alleged custom through missing medieval
+    evidence and the later stories that taught Europe to believe it.
+  strengths_to_preserve:
+  - boot trick
+  - friars' false tithe
+  - false etymologies
+  - Orwell ending
+recommendations:
+- id: ER-001
+  issue_type: title-accessibility
+  listener_need: remember
+  severity: recommended
+  outline_sections:
+  - 1
+  target:
+    kind: title
+    current_text: null
+    current_text_sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  proposed_text: 'Unbelievable Middle Ages: The Right of the First Night'
+  reason: Lead with an English description and keep specialized wording secondary.
+  preserves:
+  - immutable Italian source title
+  quotation_refs: []
+  decision: accept
+  decision_note: null
+- id: ER-002
+  issue_type: terminology
+  listener_need: understand
+  severity: recommended
+  outline_sections:
+  - 1
+  target:
+    kind: script
+    chapter_id: CH-001
+    current_text: 'Tonight''s subject may be the best-known of the three we''re covering in this series.
+      I think we all have in mind this image that we associate with the Middle Ages, the *ius primae noctis*.
+      I know, I just contradicted myself: we all know the image, but let''s define it anyway.'
+    current_text_sha256: d5fbba821d11cda1b916643ebc748ac60052efc4c40a8b897b72cff4ca46422e
+  proposed_text: This episode's subject is the so-called right of the first night—*ius primae noctis*. The
+    image is familiar, but let’s define it before using the Latin name.
+  reason: Introduce the English concept before asking listeners to retain the Latin term.
+  preserves:
+  - Barbero's opening definition
+  - the distinction between image and evidence
+  quotation_refs: []
+  decision: accept
+  decision_note: null
+- id: ER-003
+  issue_type: proper-name-hierarchy
+  listener_need: remember
+  severity: recommended
+  outline_sections:
+  - 1
+  target:
+    kind: script
+    chapter_id: CH-001
+    current_text: 'How many places have this story in their memory, in their tradition? Fiuggi; Sant''Agata
+      di Puglia; Roccascalegna in Abruzzo; several villages in Liguria, Montalto Ligure, Onzo; several
+      villages in Piedmont, Nizza Monferrato, Rocca Grimalda; even Ivrea, where the Ivrea Carnival—you
+      know, the carnival where they throw oranges—is said today to originate in an episode in which an
+      evil tyrant demands the *ius primae noctis* until a girl cleverer than the others rebels: Violetta,
+      the beautiful miller''s daughter.'
+    current_text_sha256: 2cbb276e3dffbcaef5e0cd9b2793914a8cf9303e21045278300daabff42e2321
+  proposed_text: Versions of the story appear in towns across Italy. Ivrea’s orange-throwing carnival,
+    for example, is now said to recall a clever miller’s daughter named Violetta rebelling against a tyrant
+    who demanded the *ius primae noctis*.
+  reason: Condense incidental place names while preserving the vivid Ivrea example and its later dating
+    clue.
+  preserves:
+  - Ivrea
+  - Violetta
+  - the spread of local legends
+  quotation_refs: []
+  decision: accept
+  decision_note: null
+- id: ER-004
+  issue_type: spine
+  listener_need: understand
+  severity: recommended
+  outline_sections:
+  - 2
+  target:
+    kind: script
+    chapter_id: CH-002
+    current_text: Let me quickly suggest two places to look. We have all this testimony, all these sources
+      handed down from the Middle Ages. Where should the *ius primae noctis* show up?
+    current_text_sha256: e266b412f4e5a6f69a0863726fc6c2e6f34f034ffca992c7609a599bdc1b965e
+  proposed_text: 'The investigation begins with a simple test: if this right existed, where should it
+    appear in the sources handed down from the Middle Ages? Let’s start with two places.'
+  reason: Make the detective method audible at the first major transition.
+  preserves:
+  - source-based inquiry
+  - Barbero's question
+  quotation_refs: []
+  decision: accept
+  decision_note: null
+- id: ER-005
+  issue_type: spine
+  listener_need: remember
+  severity: recommended
+  outline_sections:
+  - 6
+  target:
+    kind: script
+    chapter_id: CH-006
+    current_text: Picture one of these jurists at a desk piled high with law books. He's extremely learned,
+      but he is also ready to believe anything.
+    current_text_sha256: 107c472588f2cf83c78319d07de05dedc7d1555e24731c1cbd1d90d934a547e2
+  proposed_text: 'Now the investigation turns: the missing evidence begins to manufacture itself. Picture
+    one of these jurists at a desk piled high with law books. He’s extremely learned, but also ready to
+    believe anything.'
+  reason: Signal the mechanism by which a myth begins producing its own documentary evidence.
+  preserves:
+  - the jurist scene
+  - Barbero's irony
+  quotation_refs: []
+  decision: accept
+  decision_note: null
+- id: ER-006
+  issue_type: terminology
+  listener_need: understand
+  severity: recommended
+  outline_sections:
+  - 6
+  target:
+    kind: script
+    chapter_id: CH-006
+    current_text: Medieval taxes had all kinds of local names. In France, a tax collected on various occasions—including,
+      sometimes, marriage—could be called *coillage*. When notaries translated that word into Latin, some
+      wrote *culagium*.
+    current_text_sha256: 8816f9981d6b09ca39f00553d352f5040c7360fa08edd38f430ead30a1131df2
+  proposed_text: Medieval taxes had all kinds of local names. In France, a tax sometimes collected at
+    marriage was called *coillage*; in notarial Latin, it could become *culagium*.
+  reason: Keep *culagium* only with an immediate explanation of what the underlying tax was.
+  preserves:
+  - coillage
+  - culagium
+  - the false-etymology mechanism
+  quotation_refs: []
+  decision: reject
+  decision_note: null
+- id: ER-007
+  issue_type: terminology
+  listener_need: understand
+  severity: recommended
+  outline_sections:
+  - 6
+  target:
+    kind: script
+    chapter_id: CH-006
+    current_text: Here's another example. Medieval peasants sometimes paid a levy to feed the lord's horses—basically
+      a fodder tax. In Italy, it was called *fodro*, a word related to the English “fodder.”
+    current_text_sha256: 16b70d63512951727a21cef66deb1c2d2b7ff071aeaeaa194d511bfbcc80d7ee
+  proposed_text: Another example begins with a levy for feeding the lord’s horses—a fodder tax called
+    *fodro*, a word related to the English “fodder.”
+  reason: Keep *fodro* with its useful immediate context and make the etymological setup easier to hear.
+  preserves:
+  - fodro
+  - the horse levy
+  - the later false derivation
+  quotation_refs: []
+  decision: accept
+  decision_note: null
+- id: ER-008
+  issue_type: buried-scenes
+  listener_need: experience
+  severity: recommended
+  outline_sections:
+  - 2
+  target:
+    kind: script
+    chapter_id: CH-002
+    current_text: Once the count sits down and extends his leg, she removes his spurs and deliberately
+      pulls one boot at the wrong angle, leaving it stuck halfway off. Then she runs to safety while he
+      is unable to pursue her. [N-001]
+    current_text_sha256: 3c9762b3286e7ead6779bc29aaaca4d5941100bae2728048ccd76f3bcd29b37f
+  proposed_text: Once the count sits down and extends his leg, she deliberately
+    pulls one boot at the wrong angle, leaving it stuck halfway off. Then she runs to safety while he
+    is unable to pursue her. [N-001]
+  reason: Protect the boot trick as a foregrounded scene rather than compressing it with the surrounding
+    examples.
+  preserves:
+  - the boot trick
+  - N-001
+  quotation_refs: []
+  decision: accept
+  decision_note: null
+- id: ER-009
+  issue_type: climax-ending
+  listener_need: remember
+  severity: recommended
+  outline_sections:
+  - 9
+  target:
+    kind: script
+    chapter_id: CH-009
+    current_text: That is fantastic because Orwell has identified the mechanism exactly.
+    current_text_sha256: 97a4ae73516220f900b5b2a3081d21f9a38cbb8414a2819b14683c9ac41b9097
+  proposed_text: That is fantastic because Orwell has identified the mechanism exactly.
+  reason: Protect Orwell's ending as the final statement of how the myth manufactures a legal past.
+  preserves:
+  - Orwell's ending
+  - the invention-of-the-past mechanism
+  quotation_refs: []
+  decision: accept
+  decision_note: null

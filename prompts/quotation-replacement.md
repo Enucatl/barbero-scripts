@@ -1,29 +1,17 @@
-# Authoritative quotation replacement
+# Quotation treatment proposals
 
-Read `{faithful_translation_path}`, `script.it.md`, and `quotes.yaml`. Produce
-`{translation_path}` by replacing Barbero's rendering of each quotation whose record has
-`source_replacement: eligible` with the ledger's authoritative English `translation`. Preserve its
-`[Q-...]` marker, every chapter and coverage comment, and every unrelated word and marker.
+Read `{faithful_translation_path}`, `script.it.md`, `quotes.yaml`, and the research ledgers. Add
+quotation treatments to `{content_corrections_path}`; do not edit a script. Every `Q-NNN` record
+must appear exactly once in `references.quotations`, including `not-applicable` and `unavailable`
+no-change treatments.
 
-Treat the quotation and Barbero's immediately surrounding delivery as one spoken passage. The
-authoritative wording replaces his translation, summary, or representation of the same source; do
-not retain that wording beside the replacement and make the listener hear the same content twice.
-Remove only an adjacent rendering whose meaning is fully supplied by the source wording. Preserve
-his setup, interpretation, examples, emphasis, jokes, and conclusions.
+Each `CC-NNN` item must follow the common content-correction schema: an exact bounded
+`target.current_text` inside one chapter and its SHA-256, exact `proposed_text`, a concise reason
+and evidence summary, ledger references, `recommendation: apply|retain`, and `decision: pending`.
+Eligible authoritative wording belongs only in the proposal, never in the faithful baseline. Put
+every exact source span that must survive unchanged in `protected_quote_spans`.
 
-Preserve the original alternation between source and commentary. When Barbero quotes part of a
-longer passage, pauses to explain it, and then continues quoting, divide the ledger translation at
-the corresponding sentence or clause boundaries and put his commentary between those exact
-excerpts. Never move the complete quotation before the explanation or collect all of his comments
-after it. Across split excerpts, preserve every authoritative word in its original order; change
-only quotation marks, boundary punctuation, or boundary capitalization required by the split.
-
-For `unavailable`, `not-applicable`, paraphrased, or otherwise ineligible records, retain the
-faithful contextual translation of Barbero. Do not improve surrounding prose, correct facts, or
-perform general naturalness editing.
-
-For each eligible record, compare the input, output, and Italian passage and verify that (1) every
-authoritative word appears in order, whether continuously or in source-sized excerpts, (2) no
-adjacent contextual rendering duplicates it, and (3) every explanatory interruption remains at
-the same point in the argument. Read the complete resulting paragraph aloud. Edit only
-`{translation_path}`.
+Replace the contextual rendering rather than duplicating it. A long authoritative quotation may
+be split only at matching clause boundaries around Barbero's existing commentary; preserve every
+source word in order. Consolidate overlapping quotation and accuracy treatments before opening the
+queue. Do not improve prose, correct unrelated facts, or set a human decision.

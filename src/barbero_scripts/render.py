@@ -11,6 +11,13 @@ from .audio import load_edit_segments
 from .models import Episode
 from .transcript import apply_corrections, load_corrections, utterances_from_deepgram
 from .util import read_json, write_json
+from .workflow import (
+    initialize_transcript_uncertainties,
+    load_yaml_mapping,
+    resolve_utterances,
+    validate_transcript_uncertainties,
+    validate_v2_episode,
+)
 
 MARKER = re.compile(r"\[(SRC|Q|C|N)-(\d{3})\]")
 TRANSCRIPT_ID = re.compile(r"U-\d{5}")
@@ -65,6 +72,18 @@ def render_transcript(episode: Episode, destination: Path) -> None:
     corrected, diff = apply_corrections(
         utterances, load_corrections(episode.work_dir / "corrections.yaml")
     )
+    if episode.workflow_version == 2:
+        manifest = read_json(episode.work_dir / "transcription-manifest.json")
+        queue_path = destination.parent / "transcript-uncertainties.yaml"
+        if not queue_path.exists():
+            initialize_transcript_uncertainties(queue_path, corrected, str(manifest["fingerprint"]))
+        queue = load_yaml_mapping(queue_path)
+        errors = validate_transcript_uncertainties(queue, corrected, str(manifest["fingerprint"]))
+        if errors:
+            raise ValueError("; ".join(errors))
+        resolved, pending = resolve_utterances(corrected, queue)
+        if not pending:
+            corrected = resolved
     lines = [
         f"# {episode.title} — Italian transcript",
         "",
@@ -72,7 +91,17 @@ def render_transcript(episode: Episode, destination: Path) -> None:
         "",
     ]
     for item in corrected:
-        flags = " " + " ".join(f"[REVIEW:{flag}]" for flag in item.flags) if item.flags else ""
+        unresolved = (
+            {
+                str(entry.get("utterance_id"))
+                for entry in queue.get("items", [])
+                if entry.get("resolution", {}).get("status") == "pending"
+            }
+            if episode.workflow_version == 2
+            else set()
+        )
+        item_flags = item.flags + (("uncertainty",) if item.id in unresolved else ())
+        flags = " " + " ".join(f"[REVIEW:{flag}]" for flag in item_flags) if item_flags else ""
         lines.extend(
             [
                 f"## {item.id} · cleaned {timestamp(item.start)} · "
@@ -157,6 +186,11 @@ def initialize_naturalness_chapters(directory: Path) -> None:
     headings = list(CHAPTER_HEADING.finditer(source))
     destination = directory / "naturalness"
     destination.mkdir(exist_ok=True)
+    metadata_path = directory / "episode.yaml"
+    metadata = (
+        yaml.safe_load(metadata_path.read_text(encoding="utf-8")) if metadata_path.exists() else {}
+    )
+    version = int(metadata.get("workflow_version", 1))
     for index, heading in enumerate(headings, start=1):
         chapter_id = f"CH-{index:03d}"
         path = destination / f"{chapter_id}.md"
@@ -164,9 +198,12 @@ def initialize_naturalness_chapters(directory: Path) -> None:
             raise FileExistsError(f"naturalness chapter already exists: {path}")
         end = headings[index].start() if index < len(headings) else len(source)
         chapter_text = source[heading.start() : end].strip()
-        path.write_text(
-            f"<!-- naturalness-reviewed: {chapter_id} -->\n{chapter_text}\n", encoding="utf-8"
+        marker = (
+            f"<!-- naturalness-status: pending; chapter: {chapter_id} -->"
+            if version == 2
+            else f"<!-- naturalness-reviewed: {chapter_id} -->"
         )
+        path.write_text(f"{marker}\n{chapter_text}\n", encoding="utf-8")
 
 
 def assemble_naturalness_chapters(directory: Path) -> None:
@@ -187,7 +224,17 @@ def assemble_naturalness_chapters(directory: Path) -> None:
 
 def initialize_tense_chapters(directory: Path) -> None:
     """Split corrected English into independent chapter-level tense reviews."""
-    source = (directory / "script.corrected.en.md").read_text(encoding="utf-8")
+    metadata_path = directory / "episode.yaml"
+    metadata = (
+        yaml.safe_load(metadata_path.read_text(encoding="utf-8")) if metadata_path.exists() else {}
+    )
+    source_name = (
+        "script.content.en.md"
+        if metadata.get("workflow_version") == 2
+        else "script.corrected.en.md"
+    )
+    version = int(metadata.get("workflow_version", 1))
+    source = (directory / source_name).read_text(encoding="utf-8")
     headings = list(CHAPTER_HEADING.finditer(source))
     destination = directory / "tense"
     destination.mkdir(exist_ok=True)
@@ -198,14 +245,26 @@ def initialize_tense_chapters(directory: Path) -> None:
             raise FileExistsError(f"tense chapter already exists: {path}")
         end = headings[index].start() if index < len(headings) else len(source)
         chapter_text = source[heading.start() : end].strip()
-        path.write_text(
-            f"<!-- tense-reviewed: {chapter_id} -->\n{chapter_text}\n", encoding="utf-8"
+        marker = (
+            f"<!-- tense-status: pending; chapter: {chapter_id} -->"
+            if version == 2
+            else f"<!-- tense-reviewed: {chapter_id} -->"
         )
+        path.write_text(f"{marker}\n{chapter_text}\n", encoding="utf-8")
 
 
 def assemble_tense_chapters(directory: Path) -> None:
     """Assemble reviewed tense chapters without rewriting them."""
-    corrected = (directory / "script.corrected.en.md").read_text(encoding="utf-8")
+    metadata_path = directory / "episode.yaml"
+    metadata = (
+        yaml.safe_load(metadata_path.read_text(encoding="utf-8")) if metadata_path.exists() else {}
+    )
+    source_name = (
+        "script.content.en.md"
+        if metadata.get("workflow_version") == 2
+        else "script.corrected.en.md"
+    )
+    corrected = (directory / source_name).read_text(encoding="utf-8")
     title = corrected.splitlines()[0]
     chapters = _chapter_coverage((directory / "script.it.md").read_text(encoding="utf-8"), "", [])
     parts: list[str] = []
@@ -221,8 +280,15 @@ def assemble_tense_chapters(directory: Path) -> None:
 
 def finalize_consistency(directory: Path) -> None:
     """Use the assembled script unchanged when no narrow consistency edits are needed."""
-    spoken = (directory / "script.spoken.en.md").read_text(encoding="utf-8")
-    (directory / "script.en.md").write_text(spoken, encoding="utf-8")
+    metadata_path = directory / "episode.yaml"
+    metadata = (
+        yaml.safe_load(metadata_path.read_text(encoding="utf-8")) if metadata_path.exists() else {}
+    )
+    source_name = (
+        "script.editorial.en.md" if metadata.get("workflow_version") == 2 else "script.spoken.en.md"
+    )
+    source = (directory / source_name).read_text(encoding="utf-8")
+    (directory / "script.en.md").write_text(source, encoding="utf-8")
 
 
 def _load_records(path: Path, label: str, errors: list[str]) -> dict[str, dict[str, Any]]:
@@ -398,6 +464,11 @@ def _contains_authoritative_wording(authoritative: str, candidate: str) -> bool:
 
 
 def validate_episode(directory: Path) -> list[str]:
+    metadata_path = directory / "episode.yaml"
+    if metadata_path.exists():
+        metadata = yaml.safe_load(metadata_path.read_text(encoding="utf-8")) or {}
+        if metadata.get("workflow_version") == 2:
+            return validate_v2_episode(directory)
     errors: list[str] = []
     transcript_path = directory / "transcript.it.md"
     if not transcript_path.exists():

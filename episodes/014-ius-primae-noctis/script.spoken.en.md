@@ -16,6 +16,8 @@ A quick aside. To imagine how old this story is, you need only consider that in 
 
 So we've established our first point: in today's culture, both in local folklore and in the culture of historical novelists and screenwriters—and therefore also of all of us who watch those films and read those novels—the *ius primae noctis* is a fairly regular presence whenever the Middle Ages are discussed. The whole point of this series is to say: all right, let's check. Let's see what testimony exists in the Middle Ages for the existence of the *ius primae noctis*. Let's go look for it.
 
+<!-- content-correction: CC-001 -->
+
 ## 2. Searching medieval stories for the alleged right
 
 <!-- chapter: CH-002; transcript: U-00147–U-00280 -->
@@ -33,6 +35,8 @@ So how do they handle it? Here's an example, a fifteenth-century French tale. In
 There are medieval tales in which, every now and again, this idea of sexual performance as a kind of tax, a kind of obligation, does appear. There are a few tales, but within a completely different framework from the *ius primae noctis* as we imagine it. Here's one example. We are still in this fifteenth-century French collection. It is a tale set in Hostalrich in Catalonia, where Observant Franciscans establish themselves and build their friary. [N-002] They begin to do what friars always do, that is, talk with people, hear penitents' confessions, give good advice; and, as always happens, many people go to the Franciscans to confess. Many women too, including many pretty women, and somehow or other, after a while, the Franciscans begin to—well, there are all these beautiful penitents and the Franciscans begin to feel desire. I am still telling this fifteenth-century tale. As you can see, in the Middle Ages they have no difficulty telling stories; they are not afraid of offending anyone. Then one of the Franciscans has a brilliant idea. When a beautiful penitent comes to confess to him, he falsely claims that the Observant friars are owed a spiritual tax in return for the blessing: one out of every ten encounters between wives and their husbands. [N-002] The woman, completely convinced, pays the tax. After a while the other Franciscans discover the trick, and all the women learn that the tax on nights of love has to be paid; they are all thoroughly convinced and, with great zeal to save their souls, come to the friary to pay the tax. The tale ends badly: the husbands find out, take it rather badly, and burn down the friary with all the friars inside, and that is how it ends.
 
 It's a joke, of course. It's a story. It shows us that these people think about sex and know that there is a connection between sex and power, that sex is a complicated game, a complex social situation, that many things happen in the sexual sphere. But the *ius primae noctis* as we know it? Less than zero. So let's try another test.
+
+<!-- content-correction: CC-002 -->
 
 ## 3. Peasant obligations and the documentary silence
 
@@ -62,6 +66,8 @@ Then a monk from the abbey, apparently with time on his hands, writes a little r
 
 This is the very first mention, in a medieval text among the millions of medieval texts and documents, of something that vaguely resembles the *ius primae noctis*. Why only vaguely? Because it is not spoken of as a right, and it is spoken of as something the father does so as not to have to pay the heavy tax. But the crucial point is that already in this very first mention—as we will see, it will happen regularly afterward—the *ius primae noctis*, or something resembling it, forgive me, something resembling it, is discussed by saying: in the bad old days. And this is the key to understanding how, at the end of the Middle Ages, people begin to fantasize about what happens in the bad old days.
 
+<!-- content-correction: CC-003 -->
+
 ## 5. The legend spreads in Europe
 
 <!-- chapter: CH-005; transcript: U-00420–U-00598 -->
@@ -86,6 +92,8 @@ In England between the sixteenth and seventeenth centuries, the England of the g
 
 In short, for intellectuals, writers, and the wider public of the fifteenth and sixteenth centuries, the *ius primae noctis* has become a formidable device for describing all those worlds we do not like, which we consider barbaric, whether the distant medieval past or the present of savages or Italians, depending on the case. That is not all. At this point something else happens that helps consolidate the legend that in the bad old days the *ius primae noctis* really existed.
 
+<!-- content-correction: CC-004 -->
+
 ## 6. Jurists, marriage taxes, and false etymologies
 
 <!-- chapter: CH-006; transcript: U-00599–U-00735 -->
@@ -103,6 +111,8 @@ Medieval taxes had all kinds of local names. In France, a tax collected on vario
 Here's another example. Medieval peasants sometimes paid a levy to feed the lord's horses—basically a fodder tax. In Italy, it was called *fodro*, a word related to the English “fodder.” Centuries later, scholars had forgotten where the name came from. In Nizza Monferrato, an old legend told of peasants rebelling against a wicked lord. Then an eighteenth-century scholar named Giulio Cesare Cordara found records of a tax called *fodro*. He decided the word must be related to the Italian *fodero*, meaning “sheath.” From there he made quite a leap: the sheath must mean the vagina, and the tax must have replaced the lord's right to sleep with local brides. He even wrote a poem about it, *The Sheath, or the Ancient Lords of Nizza Monferrato's Right to Brides*.
 
 Now take one more small step. Once everyone has convinced themselves that these rights existed in the past, they go looking for further proof, and when you go looking for further proof, you find it.
+
+<!-- content-correction: CC-005 -->
 
 ## 7. The Church and the first-night marriage tax
 
@@ -132,6 +142,8 @@ The wedding banquet and the first wedding night invite the same kind of ritual c
 
 In other words, marriage sits inside a whole world of public rituals in which obligations—yes, obligations toward the community—can be woven around marriage. And it is in this context that, if scholars believe there used to be a *ius primae noctis*, well, it does not take much for someone to begin believing it in earnest too.
 
+<!-- content-correction: CC-007 -->
+
 ## 9. Power, abuse, and Orwell's invented past
 
 <!-- chapter: CH-009; transcript: U-00863–U-00913 -->
@@ -143,3 +155,5 @@ Does that mean a lord never sleeps with a village girl? No. The lord sleeps with
 So I'll close with an extraordinary passage about inventing the past. It is taken from Orwell's novel *1984*. At one point the novel shows how, under Big Brother's regime, the past is reinvented for the people. In the past, the people are taught, there are evil creatures called capitalists, and the capitalists oppress the people in every way, with every kind of abuse and oppression. I quote verbatim: there is also something called the *ius primae noctis*, which probably ought not to be mentioned in schoolbooks for children. It was the law by which every capitalist had the right to sleep with any woman working in one of his factories.
 
 That is fantastic because Orwell has identified the mechanism exactly. Something that can happen in reality, and is an act of violence and an effect of social relations, is imagined to have been a law. A society that could make such a thing legal feels utterly alien, completely barbaric by our standards. So when we rewrite the past in order to feel good about living in a much better world, the *ius primae noctis* is perfect for furnishing that past. Thank you.
+
+<!-- content-correction: CC-008 -->

@@ -7,6 +7,7 @@ from pathlib import Path
 import yaml
 
 from .audio import prepare, speaker_totals
+from .migrate import migrate_completed_episode
 from .models import Episode
 from .publish import publish_preview
 from .render import (
@@ -23,6 +24,7 @@ from .render import (
 from .scaffold import scaffold_episode
 from .transcript import transcribe
 from .util import read_json
+from .workflow import apply_content_corrections, apply_listener_review, workflow_status
 
 
 def parser() -> argparse.ArgumentParser:
@@ -51,6 +53,20 @@ def parser() -> argparse.ArgumentParser:
     rendering.add_argument("config", type=Path)
     validation = commands.add_parser("validate", help="validate editorial references")
     validation.add_argument("episode_dir", type=Path)
+    status = commands.add_parser("status", help="show the next workflow action or human queue")
+    status.add_argument("episode_dir", type=Path)
+    content = commands.add_parser(
+        "apply-content", help="apply accepted content corrections deterministically"
+    )
+    content.add_argument("episode_dir", type=Path)
+    editorial = commands.add_parser(
+        "apply-listener-review", help="apply accepted listener recommendations deterministically"
+    )
+    editorial.add_argument("episode_dir", type=Path)
+    migration = commands.add_parser(
+        "migrate-v2", help="migrate completed episode 014 or 138 to workflow v2"
+    )
+    migration.add_argument("episode_dir", type=Path)
     italian = commands.add_parser("assemble-italian", help="assemble verbatim Italian chapters")
     italian.add_argument("episode_dir", type=Path)
     review = commands.add_parser("init-italian-review", help="create approved audio checklist")
@@ -131,6 +147,30 @@ def main() -> None:
                 print(f"ERROR: {error}", file=sys.stderr)
             raise SystemExit(1)
         print("Editorial validation passed")
+        return
+    if args.command == "status":
+        print(workflow_status(args.episode_dir))
+        return
+    if args.command == "apply-content":
+        try:
+            apply_content_corrections(args.episode_dir)
+        except (OSError, ValueError) as error:
+            raise SystemExit(str(error)) from error
+        print("Created script.content.en.md")
+        return
+    if args.command == "apply-listener-review":
+        try:
+            apply_listener_review(args.episode_dir)
+        except (OSError, ValueError) as error:
+            raise SystemExit(str(error)) from error
+        print("Created script.editorial.en.md")
+        return
+    if args.command == "migrate-v2":
+        try:
+            migrate_completed_episode(args.episode_dir)
+        except (OSError, ValueError) as error:
+            raise SystemExit(str(error)) from error
+        print("Migrated episode to workflow v2")
         return
     if args.command == "assemble-italian":
         assemble_italian_script(args.episode_dir)

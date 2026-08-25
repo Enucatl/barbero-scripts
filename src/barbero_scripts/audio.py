@@ -112,6 +112,11 @@ def prepare(episode: Episode, diarization_json: Path | None = None) -> dict[str,
             payload = {"segments": [asdict(item) for item in segments]}
         write_json(episode.work_dir / "diarization.json", payload)
         totals = speaker_totals(segments)
+        if len(totals) > 1 and episode.selected_speaker is None:
+            raise ValueError(
+                "multi-speaker audio requires an explicit retained speaker; "
+                "run barbero speakers --select"
+            )
         selected = episode.selected_speaker or next(iter(totals), None)
         if not selected or selected not in totals:
             raise ValueError(f"selected speaker {selected!r} is absent from diarization")

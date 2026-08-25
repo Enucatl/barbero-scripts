@@ -17,6 +17,16 @@ from .util import file_hash, object_hash, read_json, write_json
 
 
 @dataclass(frozen=True)
+class Word:
+    text: str
+    start: float
+    end: float
+    original_start: float
+    original_end: float
+    confidence: float
+
+
+@dataclass(frozen=True)
 class Utterance:
     id: str
     start: float
@@ -26,9 +36,10 @@ class Utterance:
     text: str
     confidence: float
     flags: tuple[str, ...] = ()
+    words: tuple[Word, ...] = ()
 
 
-def deepgram_options(episode: Episode) -> dict[str, str]:
+def deepgram_options(episode: Episode) -> dict[str, Any]:
     options = {
         "model": "nova-3",
         "language": "it",
@@ -38,7 +49,9 @@ def deepgram_options(episode: Episode) -> dict[str, str]:
         "punctuate": "true",
     }
     if episode.keyterms:
-        options["keyterm"] = ":1".join(episode.keyterms) + ":1"
+        # Nova-3 accepts one plain `keyterm` parameter per term.  A list plus
+        # urlencode(doseq=True) preserves those repeated query parameters.
+        options["keyterm"] = list(episode.keyterms)
     return options
 
 
@@ -46,7 +59,9 @@ def request_deepgram(audio: Path, episode: Episode) -> dict[str, Any]:
     key = os.environ.get("DEEPGRAM_API_KEY")
     if not key:
         raise RuntimeError("DEEPGRAM_API_KEY is not set; use --response-json to import output")
-    url = "https://api.deepgram.com/v1/listen?" + urllib.parse.urlencode(deepgram_options(episode))
+    url = "https://api.deepgram.com/v1/listen?" + urllib.parse.urlencode(
+        deepgram_options(episode), doseq=True
+    )
     request = urllib.request.Request(
         url,
         data=audio.read_bytes(),
@@ -89,10 +104,24 @@ def utterances_from_deepgram(
         start, end = float(item["start"]), float(item["end"])
         confidence = float(item.get("confidence", 1.0))
         flags: list[str] = []
-        low_words = [
-            word for word in item.get("words", []) if float(word.get("confidence", 1)) < 0.8
+        words = tuple(
+            Word(
+                text=str(word.get("punctuated_word") or word.get("word") or ""),
+                start=float(word.get("start", start)),
+                end=float(word.get("end", end)),
+                original_start=cleaned_to_original(float(word.get("start", start)), edit_map),
+                original_end=cleaned_to_original(float(word.get("end", end)), edit_map),
+                confidence=float(word.get("confidence", 1.0)),
+            )
+            for word in item.get("words", [])
+        )
+        low_words = [word for word in words if word.confidence < 0.65]
+        entity_words = [
+            word
+            for index, word in enumerate(words)
+            if index > 0 and word.text[:1].isupper() and word.confidence < 0.85
         ]
-        if confidence < 0.85 or low_words:
+        if confidence < 0.80 or low_words or entity_words:
             flags.append("low-confidence")
         text = str(item["transcript"]).strip()
         if re.search(r"\b(?:1[0-9]{3}|20[0-9]{2})\b", text):
@@ -112,6 +141,7 @@ def utterances_from_deepgram(
                 text=text,
                 confidence=confidence,
                 flags=tuple(flags),
+                words=words,
             )
         )
     return result

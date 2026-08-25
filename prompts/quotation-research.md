@@ -78,7 +78,7 @@ After reporting the evidence:
 5. Update the external research audit when one exists.
 6. Parse YAML, resolve every source reference, and run editorial validation.
 
-Preserve `human_reviewed: false`. Research completion does not approve a quotation for translation;
-only the later human quotation gate may set it to `true`.
+Research completion establishes technical source-replacement eligibility but does not approve a
+content change. Human decisions belong only in the later unified content queue.
 
 Do not edit other quotation or claim records and do not create a Git commit.

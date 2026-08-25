@@ -1,122 +1,100 @@
 # Barbero Scripts
 
-Private editorial tooling for producing researched, recording-ready English translations of
-Alessandro Barbero lectures. Source audio is immutable; media and provider output live outside
-Git, while reviewed text and research ledgers are committed here.
+Private editorial tooling for researched, recording-ready English translations of Alessandro
+Barbero lectures. Source audio and provider responses live outside Git; reviewed text, decision
+queues, research ledgers, and exact patch provenance are committed.
 
-## Layout and setup
-
-- Raw audio: `~/data/barbero/raw` (read-only)
-- Working artifacts: `~/data/barbero/editorial/<episode>` (not committed)
-- Reviewed artifacts: `episodes/<episode>`
+## Setup and episode creation
 
 ```bash
 uv sync
 export DEEPGRAM_API_KEY="$(vault kv get -field=deepgram-api-key kv/puppet)"
-# Fallback for local pyannote diarization:
-export HF_TOKEN="$(vault kv get -field=huggingface-read-token kv/puppet)"
 uv run barbero init \
-  --number 21 \
-  --slug come-pensava-un-uomo-del-medioevo-il-cavaliere \
-  --title "Come pensava un uomo del Medioevo: il cavaliere" \
-  --source ~/data/barbero/raw/21_Come_pensava_un_uomo_del_Medioevo_Il_cavaliere_2011_3.mp3 \
-  --keyterm Medioevo \
-  --keyterm cavaliere
-uv run barbero prepare episodes/007-come-scoppiano-le-guerre-la-prima-guerra-mondiale/episode.yaml
-uv run barbero speakers episodes/007-come-scoppiano-le-guerre-la-prima-guerra-mondiale/episode.yaml --show
-uv run barbero speakers episodes/007-come-scoppiano-le-guerre-la-prima-guerra-mondiale/episode.yaml --select SPEAKER_00
-uv run barbero transcribe episodes/007-come-scoppiano-le-guerre-la-prima-guerra-mondiale/episode.yaml
-uv run barbero render episodes/007-come-scoppiano-le-guerre-la-prima-guerra-mondiale/episode.yaml
-uv run barbero validate episodes/007-come-scoppiano-le-guerre-la-prima-guerra-mondiale
+  --number 21 --slug il-cavaliere --title "Il cavaliere" \
+  --source ~/data/barbero/raw/21.mp3 \
+  --keyterm Medioevo --keyterm cavaliere
+uv run barbero prepare episodes/021-il-cavaliere/episode.yaml
+uv run barbero speakers episodes/021-il-cavaliere/episode.yaml --show
+uv run barbero speakers episodes/021-il-cavaliere/episode.yaml --select SPEAKER_00
+uv run barbero transcribe episodes/021-il-cavaliere/episode.yaml
+uv run barbero render episodes/021-il-cavaliere/episode.yaml
+uv run barbero status episodes/021-il-cavaliere
 ```
 
-`init` creates a minimal, versioned episode directory and refuses to overwrite an existing one. It
-does not copy audio or create generated transcript/provider artifacts.
+Raw audio defaults to `~/data/barbero/raw`; working artifacts default to
+`~/data/barbero/editorial/<episode>`; committed artifacts live in `episodes/<episode>`. `init`
+creates a `workflow_version: 2` episode and refuses overwrite.
 
-`prepare` creates a temporary 16 kHz mono PCM, obtains diarization, selects the speaker with the
-most total speech, exports that speaker's segments to FLAC, and writes a timeline edit map. It can
-consume a provider-neutral diarization JSON with `--diarization-json`; otherwise it uses Deepgram
-when `DEEPGRAM_API_KEY` is set, or `pyannote.audio` when installed and `HF_TOKEN` is set. Raw PCM
-is removed after successful export.
+`prepare` diarizes, exports retained speech to FLAC, and records the cleaned-to-original timeline.
+Single-speaker audio is selected automatically. Multi-speaker audio requires an explicit
+`speakers --select` decision before preparation can finish. `transcribe` uses Deepgram Nova-3;
+every `--keyterm` becomes a separate plain query parameter. Full provider output remains external,
+while normalized utterances preserve word text, confidence, and cleaned/original timestamps.
 
-`speakers` reports duration by speaker and records a human override. Re-run `prepare` after an
-override. `transcribe` submits the complete cleaned FLAC to Deepgram Nova-3 using
-`DEEPGRAM_API_KEY`; `--response-json` imports an existing response without network access.
+## Three human queues
 
-`render` converts the provider response to stable utterances and renders corrected Italian.
-Corrections are supplied in the working directory as `corrections.yaml`, keyed
-by utterance ID. To approve unchanged text, omit `text`:
+The internal stages remain specialized, but human review has three gates:
 
-```yaml
-U-00042:
-  reviewed: true
-U-00117:
-  text: "Testo italiano corretto."
-  reviewed: true
+1. `transcript-uncertainties.yaml`: resolve what Barbero said. Acoustic thresholds initially flag
+   words below 0.65, utterances below 0.80, and likely entities below 0.85. A contextual pass adds
+   independent semantic concerns. Every new item is `pending`; resolution stores the complete
+   utterance in `resolved_text`.
+2. `content-corrections.yaml`: accept or reject researched quotation and accuracy treatments.
+   Faithful translation remains isolated from recovered source wording. Every quotation appears
+   exactly once in this queue. `barbero apply-content` checks hashes, exact single matches,
+   overlaps, evidence, and protected quotation spans before creating `script.content.en.md`.
+3. `listener-review.yaml`: accept or reject bounded whole-episode presentation changes after tense
+   and chapter naturalness. `barbero apply-listener-review` creates `script.editorial.en.md` and
+   applies an accepted public `audience_title`. It cannot reorder chapters or change boundaries.
+
+Editing a proposal means changing its exact `proposed_text` and then setting `decision: accept`.
+Rejected items do not alter output. Accepted changes receive invisible provenance comments.
+`barbero status` identifies the next machine action or human queue.
+
+## Editorial sequence
+
+```text
+audio → transcription + uncertainty detection → TRANSCRIPTION RESOLVER
+      → exact Italian source → outline → quotation/claim research → research audit
+      → faithful chapter translation → unified content proposals → CONTENT EDITOR
+      → deterministic content application → tense → chapter naturalness
+      → whole-episode listener proposals → LISTENER EDITOR
+      → deterministic editorial application → narrow consistency → publication
 ```
 
-`validate` resolves transcript, ledger, and marker references and enforces the Italian audio gate,
-exact ordered utterance coverage, chapter identity, quotation replacement timing, chapter review,
-and human accuracy-decision gates.
+The Italian source has exact ordered utterance coverage. Quotation research stays separate because
+source boundaries, evidence tiers, locators, and transmission history need their own rules. Tense
+and naturalness also stay separate: the former protects the historical-present invariant, while the
+latter may rebuild sentences for oral English. Naturalness uses
+`KEEP → CONTEXTUALIZE → GLOSS → REPLACE`, preserving historical texture instead of flattening
+vocabulary. Whole-episode review owns attention hierarchy, orientation, callbacks, quotation
+listenability, lecture residue, and the ending, with explicit anti-podcastification constraints.
 
-The reusable two-pass, text-only correction and contextual-verification instructions are in
-[`prompts/transcript-correction.md`](prompts/transcript-correction.md). Substitute the transcript
-and working correction paths for each episode. The first pass proposes conservative corrections;
-the second resolves review flags by accepting or correcting text from full-episode context.
+The Italian `title` is immutable source metadata. For v2 episodes, `audience_title` owns the final
+H1 and published English title; `publication` still owns summary, explicitness, and publication
+time.
 
-Structural outlining and research-target extraction use
-[`prompts/episode-outline.md`](prompts/episode-outline.md) and
-[`prompts/research-target-extraction.md`](prompts/research-target-extraction.md). These passes map
-the lecture and seed pending ledgers before any external source research begins.
-Research batches use [`prompts/historical-research.md`](prompts/historical-research.md), which
-requires original-language quotation checks, exact locators, conflicting evidence, and explicit
-deferral rather than unsupported resolution.
+Reusable instructions are in `prompts/`, with the complete controller in
+[`prompts/episode-workflow.md`](prompts/episode-workflow.md). All language-model editorial work uses
+native Codex agents; transcription and cited research services are the explicit external-service
+exceptions.
 
-Quotation provenance is researched one target at a time with
-[`prompts/quotation-research.md`](prompts/quotation-research.md). The focused pass must use web
-search, follow citations into digitized books and OCR, distinguish contemporary records from later
-recollections, and accept practical evidence tiers rather than requiring an inaccessible critical
-edition. Quotations are never assigned to broad research batches.
+## Validation
 
-The authoritative spoken-content source is `script.it.md`, assembled verbatim from the stable,
-timestamped `transcript.it.md`. Research cannot begin until a human has checked every utterance
-against audio and approved every chapter's complete ordered coverage in `italian-review.yaml`.
+```bash
+uv run ruff format .
+uv run ruff check .
+uv run python -m pytest -q
+uv run barbero validate episodes/021-il-cavaliere
+```
 
-The episode then progresses through research ledgers, a mandatory manual review of every
-quotation's attribution, wording, translation, locator, verdict, and replacement eligibility, and
-a close language-model translation of each
-complete Italian chapter into `script.translation.faithful.en.md`, and a distinct quotation replacement
-pass producing `script.translation.en.md`. Only `source_replacement: eligible` records supply exact
-ledger wording; it replaces the corresponding contextual rendering and may remain split around
-Barbero's original interspersed commentary. All other quotations retain Barbero's contextual
-translation. Accuracy review and human decisions produce `script.corrected.en.md`. A tense-only chapter review under `tense/`
-produces `script.tense.en.md`. Each tense-reviewed chapter then receives an assertive spoken-English
-review under `naturalness/`; their verbatim assembly is `script.spoken.en.md`. A narrow whole-episode
-consistency pass produces `script.en.md` without restructuring or new transitions.
-Research never directly authorizes corrections, pending decisions block downstream files, and
-authoritative quotations remain exact after replacement.
+V2 validation derives progress from validated artifacts and decisions rather than file presence
+alone. It enforces hashes, exact patch matches, decision gates, chapter boundaries, coverage,
+quotation constraints, deterministic output, and title propagation. Unmigrated completed episodes
+continue through isolated legacy validation.
 
-The complete supervised sequence is defined in
-[`prompts/episode-workflow.md`](prompts/episode-workflow.md). It assigns non-overlapping agent work,
-sets human approval gates, gives the validation commands, and keeps external artifacts out of Git.
-Every language-model editorial and review pass runs through native Codex agents. The workflow
-forbids OpenRouter, Gemini, other external model APIs or CLIs, and external model fallbacks; if
-native Codex capacity is unavailable, the workflow waits or asks the user instead of switching
-providers. This restriction does not apply to the explicitly required research and transcription
-services.
-After individual research tasks finish, [`prompts/research-audit.md`](prompts/research-audit.md)
-checks evidence standards, discrepancies, deferrals, and source consistency across the episode.
-No pronunciation data or separate recording copy is generated; record directly from `script.en.md`
-and manually skip its annotations.
-
-The reusable microphone, Reaper, editing, processing, delivery, and minimal sound-design workflow
-is in [`docs/recording-and-sound-design.md`](docs/recording-and-sound-design.md).
-
-## Provider-neutral diarization format
+Provider-neutral diarization input is:
 
 ```json
 {"segments": [{"start": 1.2, "end": 5.7, "speaker": "SPEAKER_00"}]}
 ```
-
-All generated files include input/configuration hashes. A changed source, speaker selection, or
-transcription configuration invalidates downstream cache entries.

@@ -65,7 +65,7 @@ def discover_episodes(episodes_root: Path, audio_root: Path) -> list[PublishedEp
         publication = raw.get("publication")
         if publication is None:
             continue
-        missing = {"title", "summary", "explicit", "published_at"} - publication.keys()
+        missing = {"summary", "explicit", "published_at"} - publication.keys()
         if missing:
             raise ValueError(
                 f"{metadata_path}: missing publication fields: {', '.join(sorted(missing))}"
@@ -80,11 +80,21 @@ def discover_episodes(episodes_root: Path, audio_root: Path) -> list[PublishedEp
             raise ValueError(f"{metadata_path}: missing recorded audio {source}")
         if not script.is_file():
             raise ValueError(f"{metadata_path}: missing script.en.md")
+        workflow_version = int(raw.get("workflow_version", 1))
+        if workflow_version == 2:
+            audience_title = raw.get("audience_title")
+            if not audience_title:
+                raise ValueError(f"{metadata_path}: audience_title is required for workflow v2")
+            published_title = str(audience_title)
+        else:
+            if "title" not in publication:
+                raise ValueError(f"{metadata_path}: missing publication fields: title")
+            published_title = str(publication["title"])
         episodes.append(
             PublishedEpisode(
                 slug=slug,
                 number=int(raw["number"]),
-                title=str(publication["title"]),
+                title=published_title,
                 summary=str(publication["summary"]),
                 explicit=publication["explicit"],
                 published_at=_timestamp(publication["published_at"], metadata_path),

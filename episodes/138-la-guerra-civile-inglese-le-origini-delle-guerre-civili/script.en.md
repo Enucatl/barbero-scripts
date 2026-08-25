@@ -1,30 +1,20 @@
-# La guerra civile inglese: le origini delle guerre civili — faithful English translation
+# Civil Wars: England 1642
 
 ## 1. Charles I's Execution and the Civil War Question
 
 <!-- chapter: CH-001; transcript: U-00001–U-00055 -->
 
-All right, that’s enough. Will you let me speak? No, really, everyone, thank you—but don’t you think expectations may be running a little high? Also because, you see, this year the theme is
-origins, and I said to myself, well, how hard can it be? A few years ago we did how wars break
-out, and it turned out well, I think, and this year we’ll do civil wars; it will be more or
-less the same thing. It is not more or less the same thing, because explaining how wars break
-out—well, all right, human history: that two countries should have conflicting interests and
-not like each other very much, indeed not at all, and that eventually they decide to settle their issues through war is hardly surprising. It isn’t that difficult to
-explain how it happens. Explaining how it happens that a country where people speak the same
-language and have the same traditions suddenly splits, to such a degree that a civil war breaks
-out—well, that is much more complicated to explain. So you’ve paid for a ticket
-to a lecture that will be very demanding, longer than usual and more complex than usual. Right now you think that’s what you want. We’ll see. In any case, tonight we are talking about
-perhaps the least known of the three civil wars that we will cover in these three stages:
-the English Civil War of the seventeenth century.
+How does a country where people speak the same language and share the same traditions split so completely that civil war breaks out? That is much harder to explain than a war between rival states. This episode begins our civil-war series.
+<!-- editorial-recommendation: ER-002 -->The subject is seventeenth-century England, perhaps the least known of the civil wars in this series.
+<!-- editorial-recommendation: ER-003 -->
 
 Let us begin at the end. We are in London,
 it is 30 January 1649, and a scaffold has been erected in the center of London, at Whitehall. It
 is intended for the King of England and Scotland, Charles I, who is led there on foot from his
 palace of St James’s, which is just a stone’s throw away. On the scaffold he is allowed to
-make one final speech. The king declares: “And truly I desire their
-Liberty and Freedom, as much as any Body whomsoever; but I must tell you, That their Liberty
-and their Freedom consists in having of Government; those Laws, by which their Life and their
-Goods, may be most their own. It is not for having share in Government (Sir) that is nothing
+make one final speech. The king declares: “And truly I desire their [the people's]
+Liberty and Freedom, but I must tell you, That their Liberty
+and their Freedom consists in having of Government. It is not for having share in Government; that is nothing
 pertaining to them.”
 
 It is two in the afternoon when the king places his head on the block,
@@ -41,6 +31,8 @@ battle. The English themselves had murdered at least two of their kings in the M
 Edward II and Richard II. But Charles I is the first king in Europe to die after being legally
 tried and sentenced to death for high treason. The execution of Charles I is the end point of
 a civil war that lasted six years.
+
+<!-- content-correction: CC-001 -->
 
 ## 2. The Illusion of Peace and a Remote Court
 
@@ -62,7 +54,7 @@ Charles I lets slip, that he is the happiest king in Christendom. In reality
 that happiness is illusory and discontent is brewing in England, but the king has not the slightest suspicion of it. He has no idea because the lifestyle of a
 king of that period separates him completely from his people. Court etiquette seems designed
 expressly to isolate the king from the country and make him live in an unreal world. All courts of the period have extremely rigid etiquette that transforms the king’s daily existence into
-a kind of spectacle. The English court, though, is perhaps the most formal in Europe. The King
+a kind of reality show. The English court, though, is perhaps the most formal in Europe. The King
 of England is the only king in Europe who is served at table by courtiers, nobles, on their
 knees. And ordinary people have no contact with the king. Of course, the king always lives in public, always under somebody’s eyes, but those people are the courtiers. Ordinary people
 never see him, never meet him, except on two occasions, twice a year. There: twice a year
@@ -76,6 +68,8 @@ hope to recover from this illness that everyone calls the king’s evil, the sic
 certificate bearing the three signatures of a parish priest, an officer of their parish, and a
 justice of the peace. Charles has no idea what the country’s true feelings are towards him,
 his government, and his court. And I dwell on the court because it is not so much the king’s person at first, but the environment surrounding him—the court—that becomes the focus of the country’s resentment and hostility.
+
+<!-- content-correction: CC-002 -->
 
 ## 3. James I, Buckingham, and the Court's Disrepute
 
@@ -116,6 +110,8 @@ the Court extravagant; the Country was honest, the Court corrupt; the Country wa
 heterosexual, the Court promiscuous and homosexual; the Country was sober, the Court drunken;
 the Country was nationalist, the Court xenophile; … the Country was solidly Protestant,
 even Puritan, the Court was deeply tainted by popish leanings.”
+
+<!-- content-correction: CC-003 -->
 
 ## 4. Anglican Authority and Puritan Dissent
 
@@ -161,9 +157,11 @@ question the obligation to obey the authorities. As one of the great thinkers of
 seventeenth century, Hobbes—Thomas Hobbes, who has no sympathy at all for any of this—says,
 and I quote Hobbes: “For after the Bible was translated into English, every man, nay, every
 boy and wench, that could read English, thought they spoke with God Almighty, and understood
-what he said, when by a certain number of chapters a day they had read the Scriptures once or
-twice over.” Hobbes, of course, will side with the king during the Civil War and will be
+what he said, when they had read the Scriptures once or
+twice.” Hobbes, of course, will side with the king during the Civil War and will be
 forced to flee abroad.
+
+<!-- content-correction: CC-004 -->
 
 ## 5. Archbishop Laud's Campaign for Conformity
 
@@ -219,6 +217,8 @@ New England. And when do they go there? They go in the years of Charles and Arch
 many of these Puritans go to America that instead of being pleased, the king worries that the
 country risks losing subjects. For a moment Charles thinks of banning emigration to America. Then
 he does not do so.
+
+<!-- content-correction: CC-005 -->
 
 ## 6. Print, Persecution, and Fear of Popery
 
@@ -358,9 +358,8 @@ done, and a whole series of controls, obligations, in effect taxes on commercial
 introduced. They are introduced, and naturally the purpose is to take money, and then to monitor
 people and catch the violators and fine them.
 
-Monopolies are granted, as I was telling you. I’ll give you an example. I hesitated for a long time over whether to give this example because,
-as I told you, tonight’s lecture will be rather long. Then I decided to give it anyway, because
-one does not imagine that such things could happen in a seventeenth-century kingdom. So, the king
+Monopolies are granted, as I was telling you. I’ll give you an example. Here is one example, because it is hard to imagine such a thing happening in a seventeenth-century kingdom.
+<!-- editorial-recommendation: ER-004 --> So, the king
 grants an entrepreneur a monopoly over the manufacture of soap. The entrepreneur obviously pays
 a great deal of money to be the only person in England allowed to produce soap. All the other
 factories close, naturally, immediately creating a whole world of discontented people. The
@@ -384,6 +383,8 @@ is—or everyone knows—that he does this to avoid having to summon Parliament.
 attempts the decisive experiment. Until now these have been petty devices, but now let us try
 to introduce an actual new tax and see whether the country pays. He does it very skilfully. In
 Elizabeth’s time there was a tax paid by coastal areas to maintain the war fleet.
+
+<!-- content-correction: CC-006 -->
 
 ## 8. Ship Money and the Defence of Property
 
@@ -410,7 +411,7 @@ At last a gentleman does everything he can to be put on trial so as
 to bring the matter to a head. This gentleman is tried in London before the kingdom’s supreme
 court for inciting his dependants not to pay, and the judges of the supreme court split. Half
 say, remember what King James used to say: the king is above the law. They, who know Latin,
-put it this way, in Anglo-Latin: “I never read nor heard that Lex was Rex; but it is common
+put it this way, in Anglo-Latin: “it is common
 and most true that Rex is Lex, for he is a living, a speaking, an acting law.” And so he can
 do whatever he likes. But some of the judges, appointed by the king—some of the judges say
 no, that is not true, the king cannot go that far. Because if we were to admit that the king
@@ -427,12 +428,14 @@ private property. As you see, we are already faced with a divided country and a 
 for a collision with enormous collective interests without even realizing the gravity of his
 position. But the spark that will precipitate the Civil War is yet another matter.
 
+<!-- content-correction: CC-007 -->
+
 ## 9. Scotland, the Prayer Book, and the Covenant
 
 <!-- chapter: CH-009; transcript: U-00659–U-00761 -->
 
-It is a spark struck in the other kingdom of which Charles is king, Scotland. In the Kingdom of
-Scotland too. But Scotland is Calvinist. For the Scots—not merely an avant-garde of Puritans
+The spark that turns the English crisis into a war begins in Charles’s other kingdom: Scotland. Scotland is Calvinist.
+<!-- editorial-recommendation: ER-005 --> For the Scots—not merely an avant-garde of Puritans
 but the mass of the population—the things the archbishop likes so much, incense and holy
 images, are papist superstitions. Besides, as you can imagine, the Scots see the idea that
 their church, the kirk, should be forced to adopt the same rules as the English church as an
@@ -479,6 +482,8 @@ it in his hands. King Charles’s court jester, Armstrong—for the king natural
 and a jester—meets the Archbishop of Canterbury after this news from Scotland arrives and
 asks him: who is the fool now? Naturally, he is fired on the spot.
 
+<!-- content-correction: CC-008 -->
+
 ## 10. The Covenanters and the First Bishops' War
 
 <!-- chapter: CH-010; transcript: U-00762–U-00837 -->
@@ -520,10 +525,11 @@ if he insists, he must first summon Parliament.
 The king admits that for the moment he is not
 strong enough, and makes a truce. He really intends only to gain time, but his advisers insist
 that this is too great a matter to undertake without Parliament. The archbishop is among the
-first to say so. Another who insists is someone I have not yet mentioned but whom, in this
-last half hour—no, God willing, in these final fifteen or twenty minutes—we’ll mention again, because he is the protagonist of a dramatic episode: the Earl of Strafford, governor of
-Ireland, one of the king’s chief and most trusted advisers. Both Laud and Strafford insist that
+first to say so. Another is the Earl of Strafford, governor of Ireland and one of the king’s most trusted advisers. He will become the protagonist of a dramatic episode.
+<!-- editorial-recommendation: ER-006 --> Both Laud and Strafford insist that
 Parliament must be summoned, and the king summons it, after ten—eleven—years without doing so.
+
+<!-- content-correction: CC-009 -->
 
 ## 11. The Short Parliament and the Scottish Invasion
 
@@ -531,14 +537,8 @@ Parliament must be summoned, and the king summons it, after ten—eleven—years
 
 Parliament meets on 13 April 1640. The king attends the opening but does not deliver the speech,
 partly because he has a slight stammer. Once, speaking to someone with the same defect, Charles
-had said: I tried holding pebbles in my mouth, but it is no use. So the chancellor speaks
-for him, saying: “My lords, and you, the knights, citizens, and burgesses of the House of
-Commons: I doubt not but you rejoice at this day’s meeting ...; and good reason you have so
-to do, and with all humbleness of heart to acknowledge the great goodness of his majesty who,
-sequestering the memory of all former discouragements in preceding assemblies, is now, out of
-a fatherly affection to his people and a confidence that they will not be failing in their
-duty to him, pleased graciously to invite you and all his loving subjects to a sacred unity
-of hearts and affection in the service of him and of the commonwealth.” But Parliament
+had said: I tried holding pebbles in my mouth, but it is no use. So the chancellor speaks for him. He praises the king for setting aside earlier clashes and summoning Parliament out of “a fatherly affection to his people,” and calls for “a sacred unity of hearts and affection in the service of him and of the commonwealth.”
+<!-- editorial-recommendation: ER-008 --> But Parliament
 is flooded with petitions. This is the political mechanism: county members arrive in London
 bringing letters received from neighbors, communities, rich men, and nobles, all protesting
 against something—Ship Money, monopolies, the king’s religious policy. The Commons begins
@@ -559,7 +559,7 @@ Without Parliament there is no money. Charles is in such difficulty that he even
 Pope to ask for a loan from Italy. He confiscates deposits London merchants keep in the Royal
 Mint; you can imagine how popular that makes him. The City of London has had enough. When the king asks
 the City merchants for loans, they refuse. The king—the procedures are these—has the London
-aldermen arrested and threatens to hang them unless the money appears. But the money does not appear,
+city councillors arrested and threatens to hang them unless the money appears. But the money does not appear,
 and recruitment goes terribly. The wildest rumours spread: the recruits will supposedly be put
 aboard ships on the pretext of landing in Scotland, but actually sold as slaves in America. The
 result? The king cannot assemble a real army. Meanwhile the Scots do, and on 20 August 1640 they
@@ -586,6 +586,8 @@ the king must sign a dishonourable agreement accepting Scottish occupation of no
 and promising to pay the occupiers’ expenses. The only option left is to summon Parliament,
 and he summons what will naturally go down in history as the Long Parliament.
 
+<!-- content-correction: CC-010 -->
+
 ## 12. The Long Parliament and Strafford's Fall
 
 <!-- chapter: CH-012; transcript: U-00951–U-01066 -->
@@ -598,11 +600,8 @@ Parliament. The election campaign’s Puritan slogan against royal candidates is
 these godless courtiers, these papist priests. Poorer voters—craftsmen and shopkeepers who
 usually merely make up the numbers and vote as the local gentleman tells them—participate with
 unusual commitment. This time radicals seek election on protest programs. As a lord who will
-nevertheless side with Parliament says, “... yet I shall not easily suffer myself hereafter
-upon the provocations of others to appear in any popular assemblies where fellows without
-shirts challenge as good a voice as myself, neither will I for any respect absent myself from
-any assembly, how great soever, whither my duty to the service of my King and country doth call
-me; where they shall know and (if they desire) shall feel my authority.” Puritan preachers
+nevertheless side with Parliament says, “... yet I shall not easily suffer myself to appear in any popular assemblies where fellows without
+shirts challenge as good a voice as myself” Puritan preachers
 fan the flames and appeal to the people: “You that are of the meaner rank, common people,
 be not discouraged, for God intends to make use of the common people in the great work of
 proclaiming the kingdom of his dear Son.”
@@ -663,6 +662,8 @@ frightened, and signs—only to regret it immediately. Too late: two days later 
 beheaded. Laud, imprisoned in the Tower, notes in his famous diary that serving that king has not been worthwhile. Up to here, as we approach the end, it seems like the French Revolution,
 where every new royal concession pushes him closer to the abyss.
 
+<!-- content-correction: CC-011 -->
+
 ## 13. Polarization, Civil War, and the Limits of Revolution
 
 <!-- chapter: CH-013; transcript: U-01067–U-01183 -->
@@ -677,15 +678,8 @@ As if that were not enough,
 London has plague. Opposition leaders in the Commons receive abusive letters blaming them for
 it; one receives an envelope containing what he immediately judges to be a plague-infected rag,
 sent by an enemy. The king exploits this fear. He understands that more members are frightened
-and can be drawn to his side. He lets Parliament know that if this continues—and here I
-quote—“... at last the common people (who in the mean time must be flattered, and to whom
-license must be given in all their wild humours, how contrary soever to established law, or
-their own real good) discover this arcanum imperii, that all this was done by them, but not
-for them, grow weary of journey-work, and set up for themselves, call parity and independence
-liberty, devour that estate which had devoured the rest; destroy all rights and properties,
-all distinctions of families and merit; and by this means this splendid and excellently
-distinguished form of government end in a dark equal chaos of confusion, and the long line of
-our many noble ancestors in a Jack Cade, or a Wat Tyler.” The king knows he is touching a
+and can be drawn to his side. He warns Parliament that once common people realize the reforms were done by them but not for them, they may “set up for themselves, call parity and independence liberty” destroy “all rights and properties, all distinctions of families and merit” and reduce government to “a dark equal chaos of confusion.”
+<!-- editorial-recommendation: ER-009 --> The king knows he is touching a
 nerve because the members are all lords and gentlemen. He counts his minority at every vote,
 and it grows.
 
@@ -707,24 +701,24 @@ the merchants and money are for Parliament.
 Every analysis turns up one surprising fact: the young support the king. Royalist members and lords are on average much younger
 than Parliamentarians. This is generally explained by saying that Charles’s absolutist project is not so anachronistic, but in keeping with the times. Young people who have known only that do not necessarily reject it; older people who remember a time when the king does not claim absolute power do.
 
-Thus war begins, amid a thousand fears, because everyone wants victory but
-fears a social revolution, which nobody wants. As an anti-royalist member writes: “And there
-is no doubt that all right and property, all meum et tuum, must cease in a civil war, and we
-know not what advantage the meaner sort also may take to divide the spoils of the rich and noble
-amongst them, who begin already to allege that all being of one mould there is no reason that
+Thus war begins amid a thousand fears: everyone wants victory, but fear of social revolution now fractures the reform coalition.
+<!-- editorial-recommendation: ER-010 --> As an anti-royalist member writes: “And there
+is no doubt that all right and property, must cease in a civil war, and we
+know not what advantage the meaner sort also may take, who begin already to allege that there is no reason that
 some should have so much and others so little.”
 
 Parliament will win after six long years,
-and the rabble will gain nothing. Six years of Civil War end where we began tonight, with the
+and the rabble will gain nothing. Six years of Civil War end where we began this episode, with the
 king’s beheading at Whitehall. Laud precedes him by four years. Tried for treason in ’45,
 he is prosecuted by none other than William Prynne, the man whose ears he had cut off. Prynne,
 appointed public prosecutor by the Commons, does everything to convict the archbishop: rummages
 through his papers, reads his diary, bribes witnesses. He cannot secure a conviction. No problem:
-Parliament passes an act declaring the archbishop an enemy of the people and condemning him
+Parliament passes an act declaring the archbishop an enemy of the people and sentencing him
 to death. He is beheaded four years before his king.
 
 The people’s covenant, as the Scottish
 poet called it, and social revolution will not happen. The idea that all men are equal remains
-confined to a few extremists’ sermons. Some people do try. The Levellers seek political and legal equality while generally defending private property; economic levelling and common ownership are associated more closely with the Diggers, or True Levellers. [N-007] They soon discover that Parliament’s army is entirely ready to suppress by
-shooting and bloodshed those who have not understood that there comes a point when they have to stop. But
-of course this is neither the first time, nor will it be the last. Thank you. Thank you all. I’ll see you in the next episode. Thank you, Professor. As we were saying.
+confined to a few extremists’ sermons. Some people do try. The Levellers seek political and legal equality; the Diggers seek common ownership. [N-007] They soon discover that Parliament’s army is entirely ready to suppress by
+shooting and bloodshed those who have not understood that there comes a point when they have to stop.
+
+<!-- content-correction: CC-012 -->

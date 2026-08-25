@@ -18,7 +18,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: true
   research_note: Barbero closely translates the contemporary printed scaffold speech but compresses its wording.
 - id: Q-002
   barbero_utterances:
@@ -37,7 +36,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: true
   research_note: Institutional history attributes the wording to a witness; the pass did not recover a contemporary manuscript
     locator, so the transmission remains weaker than Q-001.
 - id: Q-003
@@ -58,7 +56,6 @@
   status: resolved
   verdict: confirmed
   source_replacement: eligible
-  human_reviewed: true
   research_note: The institutional article reproduces the letter excerpt and identifies its date and facsimile source.
 - id: Q-004
   barbero_utterances:
@@ -83,7 +80,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: true
   research_note: Barbero translates Stone’s catalogue in sequence, omitting the healthy/diseased, outspoken/sycophantic,
     and old-liberties/administrative-novelties contrasts. His patriotic/foreign-friendly and dangerously pro-papist renderings
     are contextual translations of nationalist/xenophile and deeply tainted by popish leanings.
@@ -107,7 +103,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: true
   research_note: Barbero translates and shortens the sentence.
 - id: Q-006
   barbero_utterances:
@@ -126,7 +121,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: true
   research_note: Claire Cross transcribes the sentence from Sandys to Burghley and traces it to Strype’s edition. Brett Usher
     independently attributes the phrase to Edwin Sandys’s last letter to Burghley. The original letter or Usher’s footnote
     24 was not inspected, so the precise letter date and manuscript shelfmark remain unrecovered. Barbero accurately translates
@@ -149,7 +143,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: true
   research_note: Barbero closely translates Laud’s dream but adds that Laud woke wondering what divine message it contained;
     the diary entry records no such reaction. The entry is dated 12 February 1638 in the Old Style diary sequence, or 12
     February 1639 in modern year numbering.
@@ -171,7 +164,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: true
   research_note: Barbero extracts the central divine-right proposition from James’s treatise.
 - id: Q-009
   barbero_utterances:
@@ -194,7 +186,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: true
   research_note: Hill’s passage closely matches Barbero and identifies the source as Robert Wharton, A Declaration to Great
     Britain and Ireland (1649), p. 3. The EPUB was inspected directly. Hill is accepted here as the authoritative transcription;
     the original pamphlet page was not inspected. Barbero presents Hill’s combination of direct quotation and linking prose
@@ -217,7 +208,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: true
   research_note: The slogan is documented in Justice Berkeley’s Ship Money opinion, not merely lecture shorthand.
 - id: Q-011
   barbero_utterances:
@@ -236,7 +226,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: true
   research_note: >-
     C. V. Wedgwood presents this as the remark of an unnamed Scottish nobleman who opposed the Anglican Book of Common Prayer;
     Charles R. Pigden reproduces the exact sentence and cites Wedgwood, p. 118. No contemporary record or speaker identification
@@ -269,7 +258,6 @@
   status: resolved
   verdict: composite
   source_replacement: eligible
-  human_reviewed: true
   research_note: >-
     Evidence tier 1, an edition transcribed from Wariston’s original manuscript. The first passage describes the initial
     signing of the National Covenant at Greyfriars on 28 February 1638. The second occurs in a letter/reflection drafted
@@ -299,7 +287,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: true
   research_note: >-
     Evidence tier 2 for the wording: Masson transcribes the passage from Drummond’s prose papers and identifies it as one
     of the Queries of State appended to The Magical Mirror, a tract dated 1 April 1639. Christopher Hill independently
@@ -336,7 +323,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: true
   research_note: >-
     John Finch delivered the King’s opening message at the Short Parliament on 13 April 1640. The recovered excerpt is
     tier-2 evidence from a modern scholarly reproduction of the speech; contemporary histories corroborate its broad
@@ -368,7 +354,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: true
   research_note: >-
     The H.M.C. calendar preserves the exact “fellows without shirts” sentence in a letter from W. Maynard to Sir Thomas
     Barrington. Christopher Hill independently cites this item and paraphrases the phrase as “men with no shirts.” Barbero
@@ -394,7 +379,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: true
   research_note: >-
     The EEBO-TCP text identifies Thomas Goodwin as the preacher and records the sermon as preached before the House of
     Commons at its solemn fast on 27 April 1642. Barbero closely translates the passage, including “dear Son,” but omits
@@ -427,7 +411,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: true
   research_note: >-
     The printed royal answer supplies the exact source wording. It was issued in Charles I’s name, while contemporary
     attribution identifies Sir John Colepeper and Viscount Falkland as its principal drafters. Barbero closely translates
@@ -455,9 +438,9 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: true
   research_note: >-
     Christopher Hill reproduces this passage and cites Halliwell vol. II, p. 278; the underlying manuscript locator is the
     D’Ewes diary entry of 8 June 1642. D’Ewes was an MP for Sudbury and a Parliamentarian. Barbero closely paraphrases the
     property warning, changes “meaner sort” into “marmaglia,” and omits the final comparison with Swiss and German civil wars.
     This is a diary reflection, not a verbatim parliamentary speech or letter.
+

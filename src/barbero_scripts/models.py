@@ -35,6 +35,8 @@ class Episode:
     work_dir: Path
     selected_speaker: str | None = None
     keyterms: tuple[str, ...] = ()
+    workflow_version: int = 1
+    audience_title: str | None = None
 
     @classmethod
     def load(cls, path: Path) -> Episode:
@@ -47,4 +49,6 @@ class Episode:
             work_dir=Path(raw["work_dir"]).expanduser(),
             selected_speaker=raw.get("selected_speaker"),
             keyterms=tuple(raw.get("keyterms", ())),
+            workflow_version=int(raw.get("workflow_version", 1)),
+            audience_title=raw.get("audience_title"),
         )

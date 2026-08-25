@@ -1,58 +1,42 @@
-# Episode workflow controller
+# Episode workflow controller (v2)
 
-Run `{episode_directory}` in strict sequence. Preserve stable IDs and human decisions. Audio,
-provider responses, corrections, and logs remain in external `work_dir`; reviewed artifacts belong
-in the episode directory.
+Run `{episode_directory}` in strict sequence. Preserve stable IDs, exact hashes, and human
+decisions. Audio, provider responses, corrections, and logs remain in external `work_dir`; reviewed
+artifacts belong in the episode directory.
 
 ## Agent execution policy
 
 Run every language-model editorial and review pass with native Codex agents in the current Codex
 session. Use native Codex sub-agents for independent, non-overlapping work when delegation is
-authorized; otherwise run the pass with the primary Codex agent. Never send these passes through
-OpenRouter, Gemini, another external model API or CLI, or an external model fallback. If native
-Codex capacity is temporarily unavailable, wait or ask the user how to proceed instead of changing
-providers. This restriction does not prohibit the source-research and transcription services
-explicitly required elsewhere in the workflow.
+authorized; otherwise use the primary agent. Never send these passes through OpenRouter, Gemini,
+another external model API or CLI, or an external model fallback. If native Codex capacity is
+unavailable, wait or ask the user rather than changing providers. This does not prohibit the
+explicitly required research and transcription services.
 
-1. Prepare/select audio and transcribe. Use `transcript-correction.md`, rerender, and then use
-   `italian-source.md` to create chapter metadata, `script.it.md`, and `italian-review.yaml`.
-   A human must compare every utterance with audio and approve every chapter's exact ordered
-   coverage. Validation blocks everything below until this passes.
-2. From `script.it.md`, generate `outline.md` and seed `quotes.yaml` and `claims.yaml`. Research
-   quotations individually and claims in bounded batches, maintain `sources.yaml`, and run the
-   research audit. Markers may be added only in comments or at their spoken passage; they cannot
-   change Italian wording. Research never authorizes script corrections.
-3. Human quotation gate: manually review every quotation's attribution, original wording, English
-   translation, locator, verdict, and `source_replacement` decision. Set `human_reviewed: true`
-   only after that review. Any explicit `false` blocks translation; completed research does not
-   imply approval.
-4. Use `faithful-assembly.md` to translate `script.it.md` directly, chapter by chapter, into
-   `script.translation.faithful.en.md`. Do not translate isolated utterances or use Google
-   Translate. Translate Barbero's quotations contextually; do not use recovered source wording yet.
-   Preserve any alternation between quoted fragments and Barbero's commentary.
-5. Use `quotation-replacement.md` as a separate pass to create `script.translation.en.md`.
-   Substitute ledger wording only for `source_replacement: eligible`. Replace the corresponding
-   contextual rendering instead of duplicating it, and split a long replacement at matching clause
-   boundaries when that preserves Barbero's interspersed explanation.
-6. Run `accuracy-review.md`. Human gate: every note must be `apply` or `retain-original`; any
-   `pending` decision blocks all downstream output. Preserve existing human decisions and approved
-   corrections when rerunning a pilot.
-7. Use `approved-corrections.md` to create `script.corrected.en.md`.
-8. Run `chapter-tense.md` independently for every chapter with native Codex agents. Require one
-   explicitly reviewed `tense/CH-NNN.md` per chapter, then concatenate their contents in
-   order—removing only the review comments—into `script.tense.en.md`. Do not rewrite during
-   assembly.
-9. Run `chapter-naturalness.md` independently for every chapter with native Codex agents, using the
-   tense-reviewed assembly as the source.
-   Require one explicitly reviewed `naturalness/CH-NNN.md` per chapter, then concatenate their
-   contents in order—removing only the review comments—into `script.spoken.en.md`. Do not rewrite
-   during assembly.
-10. Use `final-consistency.md` once to create `script.en.md` from `script.spoken.en.md`. Only terminology, names,
-   cross-chapter references, and accidental assembly joins may change. Return material problems to
-   the chapter that introduced them.
+1. Prepare audio. Multi-speaker audio requires an explicit retained-speaker selection; one-speaker
+   audio is automatic. Transcribe with repeated Nova-3 keyterms and retained word evidence.
+2. Run `transcript-correction.md`. Human gate 1 resolves only pending items in
+   `transcript-uncertainties.yaml`. Italian assembly is blocked until none remain.
+3. Assemble `script.it.md` with exact ordered utterance coverage. Produce the outline and research
+   targets; research quotations separately from claims and run the research audit.
+4. Translate complete chapters faithfully into `script.translation.faithful.en.md`. Research wording
+   must not enter this baseline.
+5. Run quotation-treatment and accuracy prompts into one hash-bound
+   `content-corrections.yaml`. Every quotation appears exactly once. Human gate 2 sets each decision
+   to `accept` or `reject`, editing `proposed_text` before acceptance when needed.
+6. Run `barbero apply-content`. It refuses stale hashes, pending decisions, overlaps, missing
+   evidence, or altered protected quote spans and writes `script.content.en.md` deterministically.
+7. Run tense review and chapter naturalness separately. Initial chapter files are pending; agents
+   replace the pending marker with the exact reviewed marker only after review. Assemble verbatim to
+   `script.tense.en.md` and `script.spoken.en.md`.
+8. Run `listener-review.md` on the whole spoken script plus outline. Human gate 3 accepts, rejects,
+   or edits bounded proposals. No chapter reordering or boundary changes are allowed.
+9. Run `barbero apply-listener-review` to create `script.editorial.en.md` and apply an accepted
+   audience title to top-level `episode.yaml`. Run narrow final consistency afterward.
 
-At each gate parse YAML, resolve references, verify exact ordered utterance coverage, identical
-chapter boundaries, marker order, quotation eligibility, and human decisions. Finish with:
+`barbero status {episode_directory}` reports the next machine action or one of the three human
+queues. At every gate parse YAML, verify hashes, references, exact coverage, chapter identity,
+marker order, quotation constraints, and decisions. Finish with:
 
 ```bash
 uv run ruff format .
@@ -61,5 +45,5 @@ uv run pytest -q
 uv run barbero validate {episode_directory}
 ```
 
-Legacy validation exists only to inspect unmigrated episodes. Episode 008 is the pilot. Do not
-modify other episode artifacts and do not commit unless explicitly requested.
+Legacy validation exists only for unmigrated episodes. Do not modify unrelated episode artifacts
+and do not commit unless explicitly requested.

@@ -19,7 +19,6 @@
   status: resolved
   verdict: confirmed
   source_replacement: eligible
-  human_reviewed: true
   research_note: >-
     The supplied full text confirms the setting, narrative sequence, explicit invocation of a seigneurial right, and both lines rendered by Barbero. Witness: Titivillus ePub base r1.2 (19 February 2018), which has no stable print pagination.
 - id: Q-002
@@ -38,7 +37,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: not-applicable
-  human_reviewed: true
   research_note: Direct English screenplay witness; Barbero's passage is a paraphrase, not one continuous quotation.
 - id: Q-003
   barbero_utterances:
@@ -59,7 +57,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: not-applicable
-  human_reviewed: true
   research_note: >-
     Robbins confirms the proposal, the maiden's defense of her honor, the encounter while she cuts grass, the half-removed boot trick, her escape, and the count's later arrangement of a favorable marriage at considerable expense. Retain Barbero's contextual translation because he summarizes an extended narrative rather than quoting one clean passage.
 - id: Q-004
@@ -81,7 +78,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: not-applicable
-  human_reviewed: true
   research_note: >-
     Robbins confirms the Observant Franciscans' invented sexual tithe of one encounter in ten, its distribution among several friars, its discovery by the husbands, and the burning of the monastery with the friars inside. Barbero preserves the main plot but relocates it to Girona and adds papal authorization. Retain contextual translation because the passage is an extended paraphrase.
 - id: Q-005
@@ -100,7 +96,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: eligible
-  human_reviewed: true
   research_note: Primary Old French transcription. The poem was written ca. 1270 after a 1247 compilation; it is not itself securely dated 1247.
 - id: Q-006
   barbero_utterances:
@@ -118,7 +113,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: not-applicable
-  human_reviewed: true
   research_note: Direct Italian witness in a modern edition quotation; partial source wording is recovered, so contextual translation should remain for the whole passage.
 - id: Q-007
   barbero_utterances:
@@ -141,7 +135,6 @@
   status: resolved
   verdict: composite
   source_replacement: not-applicable
-  human_reviewed: true
   research_note: >-
     Cadamosto reports the alleged custom in his description of Tenerife, but explicitly bases his knowledge on reports circulating through the Christian-controlled islands and captives; he says he personally visited Gomera and El Hierro and passed Palma, not Tenerife. Barbero turns this secondhand account into a visit. Boureau separately traces the Cuban component from Gómara to Montaigne's transformed social hierarchy and treats the tradition as ideological construction rather than reliable ethnography.
 - id: Q-008
@@ -160,7 +153,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: not-applicable
-  human_reviewed: true
   research_note: Las Casas did accuse Gómara of dependence on Cortés and calumniating Indigenous people. Influence on the royal prohibition remains unproved.
 - id: Q-009
   barbero_utterances:
@@ -178,7 +170,6 @@
   status: resolved
   verdict: misattributed
   source_replacement: not-applicable
-  human_reviewed: true
   research_note: The substance is confirmed, but Barbero repeats the traditional Beaumont-and-Fletcher attribution and calls the setting Italy more explicitly than the opening text does.
 - id: Q-010
   barbero_utterances:
@@ -196,7 +187,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: not-applicable
-  human_reviewed: true
   research_note: Primary Latin witness. The first edition is 1527, not 1526; Boece's early kings are legendary and his source tradition is discredited.
 - id: Q-011
   barbero_utterances:
@@ -214,7 +204,6 @@
   status: resolved
   verdict: confirmed-in-substance
   source_replacement: not-applicable
-  human_reviewed: true
   research_note: The reported chain of transmission is sound in substance; exact edition dependence remains bibliographically compressed.
 - id: Q-012
   barbero_utterances:
@@ -236,7 +225,6 @@
   status: resolved
   verdict: confirmed
   source_replacement: eligible
-  human_reviewed: true
   research_note: >-
     Vannozzi explicitly presents the statement as a personal conversation with Cardinal Hieronimo della Rovere and says the cardinal himself burned his family's privilege. This confirms Barbero's attribution and paraphrase, but Vannozzi's anecdote does not independently prove that the alleged charter or custom historically existed.
 - id: Q-013
@@ -255,7 +243,6 @@
   status: resolved
   verdict: composite
   source_replacement: not-applicable
-  human_reviewed: true
   research_note: Scholarship supports a tiny group of retrospective declarations after the myth began circulating, but the lecture's exact count and century distribution need caution.
 - id: Q-014
   barbero_utterances:
@@ -273,5 +260,5 @@
   status: resolved
   verdict: confirmed
   source_replacement: eligible
-  human_reviewed: true
   research_note: Direct English original; replace the matching contextual sentence without duplicating it.
+

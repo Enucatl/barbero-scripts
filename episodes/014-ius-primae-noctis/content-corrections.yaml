@@ -1,0 +1,1154 @@
+schema_version: 1
+base_script:
+  path: script.translation.faithful.en.md
+  sha256: 679e23d81250d1728d3c788e77b9d3e35f420acbafcbed5003b3507c3144a05b
+items:
+- id: CC-001
+  issue_types:
+  - quotation
+  target:
+    chapter_id: CH-001
+    transcript:
+    - U-00001
+    - U-00146
+    current_text: 'Well, good evening. So tonight''s subject is perhaps the best known of all those we
+      shall touch on here over these three evenings. I think we all have in mind this image that we associate
+      with the Middle Ages, the *ius primae noctis*. And so—I contradict myself, we all have it in mind,
+      but let us say what it is anyway. The right of the lord of the village to have the virginity of
+      all the girls in the village, or at least all those who were not noblewomen, all the female serfs
+      and peasant women, especially when they married: to sleep with them before the husband, on the first
+      wedding night. This image is extremely widespread in the way people perceive the Middle Ages today,
+      so much so that we continually come across it whenever there is a historical novel or a film set
+      in the Middle Ages. Perhaps “whenever” is saying too much, but we come across it all the time. Let
+      me give you a couple of examples, to recall things that will already be familiar to many of you.
+      I could give you a great many; let us do two. One from historical fiction. A few years ago, in 2006,
+      I believe, a historical novel came out and enjoyed immense success, by a Spanish author named Ildefonso
+      Falcones. The novel is called *The Cathedral of the Sea*. It is a grand story set in the Middle
+      Ages, in fourteenth-century Catalonia, a story of struggle for freedom and against oppression, and
+      it opens with a great scene entirely centered on the *ius primae noctis*. You know that a historical
+      novel, like every serialized novel, has to begin with a powerful scene. There has to be something
+      that catches the reader immediately; if there is a dead body, so much the better, but in any event
+      something very powerful. *The Cathedral of the Sea* opens with this extremely violent scene of the
+      *ius primae noctis*. There is a peasant wedding. There is the peasant who is to be married, and
+      they are prosperous peasants, people who work, who are doing well, respectable people. There is
+      the wedding banquet in the countryside, and at a certain point, suddenly, the lord turns up on horseback,
+      accompanied by his henchmen. Everyone is very frightened that the lord has arrived there, but obviously
+      they can do nothing. They invite him to sit down, and the lord sits at the table with the other
+      guests and begins to drink. He notices that the bride is a beautiful woman and wants her to be the
+      one who pours his wine. He forces her to come over, touches her, and then, when he has drunk his
+      fill, the lord jumps up, takes the bride by the wrist, calls the bridegroom, and tells him: by virtue
+      of the right due to me as your lord, I have decided to lie with your wife on your first wedding
+      night. After that he drags the woman inside, then comes out after a while buttoning his trousers
+      and says to the husband, come on, now it is your turn. And nobody has lifted a finger. They are
+      all dismayed, horrified by what is happening, but not one of those peasants lifts a finger, because
+      the lord has the right to do what he is doing. Then this *ius primae noctis*, so violent that it
+      is actually rape, will have enormous consequences. The whole novel starts from there, which is simply
+      to say that the *ius primae noctis* is a formidable narrative device. It sets a whole machine in
+      motion: there is the villain, there are the good people who have suffered the abuse, there is the
+      girl who loses her mind after this violence, and after a while the husband leaves the village and
+      goes to live in the city, where at least there is freedom and no lords who have to be obeyed. Let
+      me give you one more example; this one too may be superfluous, but never mind. A film many of us
+      have seen, Mel Gibson''s *Braveheart*. A great big medieval film, the story of the rebellion of
+      the Scots under the leadership of the heroic William Wallace against the wicked English rulers.
+      There too, at a certain point, the *ius primae noctis* comes into play to move the plot forward.
+      It is a most curious scene. The king of England—wicked, naturally—is talking with his barons, and
+      at a certain point he says: the problem with Scotland is that it is full of Scots, but I have found
+      the way to put an end to the Scots. The time has come to restore an old tradition. Let us grant
+      the *ius primae noctis*. From now on our nobles will have the right to sleep with Scottish girls
+      before they marry, and in this way the implication is that the race of these rebels will be mongrelized.
+      Notice that while in Falcones''s novel the author has rather courageously tried to imagine a world
+      where the *ius primae noctis* exists as something that one cannot avoid accepting—it is an obligation,
+      it is a law, and nobody rebels—in the film *Braveheart*, and you will understand later why it is
+      important to stress this aspect, the perspective is a little different. The king says: let us restore
+      an old custom. And of course the consequence, when the English begin to demand the *ius primae noctis*,
+      is that the Scots finally rise in revolt. This is a connection that we find extremely often when
+      the *ius primae noctis* is discussed. There are lots of Italian towns or villages whose tradition,
+      whose legend, includes a distant past in which an evil feudal lord oppressed the inhabitants by
+      demanding the *ius primae noctis*, until naturally a girl braver than the others, or a husband braver
+      than the others, rebelled and put an end to the tyranny. It is a long list; by looking on the Internet
+      one could add still more. How many places have this story in their memory, in their tradition? Fiuggi;
+      Sant''Agata di Puglia; Roccascalegna in Abruzzo; several villages in Liguria, Montalto Ligure, Onzo;
+      several villages in Piedmont, Nizza Monferrato, Rocca Grimalda; even Ivrea, where the Ivrea Carnival—you
+      know, the carnival where they throw oranges—is said today to have originated in an episode in which
+      an evil tyrant demanded the *ius primae noctis* until a girl cleverer than the others rebelled:
+      Violetta, the beautiful miller''s daughter. Let me open a small parenthesis. To imagine how old
+      this story is, you need only consider that in the Middle Ages they had no idea what the name Violetta
+      even was. The name Violetta became fashionable in the nineteenth century with *La traviata*. Before
+      that there was nobody called Violetta. Parenthesis closed, because I do not want to influence your
+      judgment. So it seems to me that we have established our first point: in today''s culture, both
+      in local folklore and in the culture of historical novelists and screenwriters—and therefore also
+      of all of us who watch those films and read those novels—the *ius primae noctis* is a fairly regular
+      presence whenever the Middle Ages are discussed. As you know, the wager behind these evenings of
+      ours is to say: well, let us check. Let us see what testimony exists in the Middle Ages for the
+      existence of the *ius primae noctis*. Let us go looking for it.'
+    current_text_sha256: df3758c85008d5526ca30ad7237f378a87ae43f4495572d561bbd090ff146736
+  proposed_text: 'Well, good evening. So tonight''s subject is perhaps the best known of all those we
+    shall touch on here over these three evenings. I think we all have in mind this image that we associate
+    with the Middle Ages, the *ius primae noctis*. And so—I contradict myself, we all have it in mind,
+    but let us say what it is anyway. The right of the lord of the village to have the virginity of all
+    the girls in the village, or at least all those who were not noblewomen, all the female serfs and
+    peasant women, especially when they married: to sleep with them before the husband, on the first wedding
+    night. This image is extremely widespread in the way people perceive the Middle Ages today, so much
+    so that we continually come across it whenever there is a historical novel or a film set in the Middle
+    Ages. Perhaps “whenever” is saying too much, but we come across it all the time. Let me give you a
+    couple of examples, to recall things that will already be familiar to many of you. I could give you
+    a great many; let us do two. One from historical fiction. A few years ago, in 2006, I believe, a historical
+    novel came out and enjoyed immense success, by a Spanish author named Ildefonso Falcones. The novel
+    is called *The Cathedral of the Sea*. It is a grand story set in the Middle Ages, in fourteenth-century
+    Catalonia, a story of struggle for freedom and against oppression, and it opens with a great scene
+    entirely centered on the *ius primae noctis*. You know that a historical novel, like every serialized
+    novel, has to begin with a powerful scene. There has to be something that catches the reader immediately;
+    if there is a dead body, so much the better, but in any event something very powerful. *The Cathedral
+    of the Sea* opens with this extremely violent scene of the *ius primae noctis*. There is a peasant
+    wedding. There is the peasant who is to be married, and they are prosperous peasants, people who work,
+    who are doing well, respectable people. There is the wedding banquet in the countryside, and at a
+    certain point, suddenly, the lord turns up on horseback, accompanied by his henchmen. Everyone is
+    very frightened that the lord has arrived there, but obviously they can do nothing. They invite him
+    to sit down, and the lord sits at the table with the other guests and begins to drink. He notices
+    that the bride is a beautiful woman and wants her to be the one who pours his wine. He forces her
+    to come over, touches her, and then, when he has drunk his fill, the lord jumps up, takes the bride
+    by the wrist, calls the bridegroom, and tells him: “In exercise of the right that belongs to me as
+    your lord, I have decided to lie with your wife on her first night.” After that he drags the woman
+    inside, then comes out after a while buttoning his trousers and says to the husband: “Now it is your
+    turn. […] Do your duty as a good Christian husband!”. And nobody has lifted a finger. They are all
+    dismayed, horrified by what is happening, but not one of those peasants lifts a finger, because the
+    lord has the right to do what he is doing. Then this *ius primae noctis*, so violent that it is actually
+    rape, will have enormous consequences. The whole novel starts from there, which is simply to say that
+    the *ius primae noctis* is a formidable narrative device. It sets a whole machine in motion: there
+    is the villain, there are the good people who have suffered the abuse, there is the girl who loses
+    her mind after this violence, and after a while the husband leaves the village and goes to live in
+    the city, where at least there is freedom and no lords who have to be obeyed. Let me give you one
+    more example; this one too may be superfluous, but never mind. A film many of us have seen, Mel Gibson''s
+    *Braveheart*. A great big medieval film, the story of the rebellion of the Scots under the leadership
+    of the heroic William Wallace against the wicked English rulers. There too, at a certain point, the
+    *ius primae noctis* comes into play to move the plot forward. It is a most curious scene. The king
+    of England—wicked, naturally—is talking with his barons, and at a certain point he says: the problem
+    with Scotland is that it is full of Scots, but I have found the way to put an end to the Scots. The
+    time has come to restore an old tradition. Let us grant the *ius primae noctis*. From now on our nobles
+    will have the right to sleep with Scottish girls before they marry, and in this way the implication
+    is that the race of these rebels will be mongrelized. Notice that while in Falcones''s novel the author
+    has rather courageously tried to imagine a world where the *ius primae noctis* exists as something
+    that one cannot avoid accepting—it is an obligation, it is a law, and nobody rebels—in the film *Braveheart*,
+    and you will understand later why it is important to stress this aspect, the perspective is a little
+    different. The king says: let us restore an old custom. And of course the consequence, when the English
+    begin to demand the *ius primae noctis*, is that the Scots finally rise in revolt. This is a connection
+    that we find extremely often when the *ius primae noctis* is discussed. There are lots of Italian
+    towns or villages whose tradition, whose legend, includes a distant past in which an evil feudal lord
+    oppressed the inhabitants by demanding the *ius primae noctis*, until naturally a girl braver than
+    the others, or a husband braver than the others, rebelled and put an end to the tyranny. It is a long
+    list; by looking on the Internet one could add still more. How many places have this story in their
+    memory, in their tradition? Fiuggi; Sant''Agata di Puglia; Roccascalegna in Abruzzo; several villages
+    in Liguria, Montalto Ligure, Onzo; several villages in Piedmont, Nizza Monferrato, Rocca Grimalda;
+    even Ivrea, where the Ivrea Carnival—you know, the carnival where they throw oranges—is said today
+    to have originated in an episode in which an evil tyrant demanded the *ius primae noctis* until a
+    girl cleverer than the others rebelled: Violetta, the beautiful miller''s daughter. Let me open a
+    small parenthesis. To imagine how old this story is, you need only consider that in the Middle Ages
+    they had no idea what the name Violetta even was. The name Violetta became fashionable in the nineteenth
+    century with *La traviata*. Before that there was nobody called Violetta. Parenthesis closed, because
+    I do not want to influence your judgment. So it seems to me that we have established our first point:
+    in today''s culture, both in local folklore and in the culture of historical novelists and screenwriters—and
+    therefore also of all of us who watch those films and read those novels—the *ius primae noctis* is
+    a fairly regular presence whenever the Middle Ages are discussed. As you know, the wager behind these
+    evenings of ours is to say: well, let us check. Let us see what testimony exists in the Middle Ages
+    for the existence of the *ius primae noctis*. Let us go looking for it.'
+  reason: Migrate the already reviewed quotation and accuracy treatment.
+  evidence_summary: Derived from the completed v1 quotation ledger and accuracy decisions; Git history
+    retains the pre-migration artifacts.
+  references:
+    quotations:
+    - Q-001
+    - Q-002
+    claims: []
+    sources:
+    - SRC-001
+    - SRC-002
+  recommendation: apply
+  protected_quote_spans: []
+  decision: accept
+  decision_note: Migrated from completed v1 human decisions.
+  migration_references: []
+- id: CC-002
+  issue_types:
+  - factual-error
+  - quotation
+  target:
+    chapter_id: CH-002
+    transcript:
+    - U-00147
+    - U-00280
+    current_text: 'Now I shall quickly suggest two possible paths. Let us look through the testimony,
+      through the sources that have come down to us from the Middle Ages: where is the *ius primae noctis*
+      discussed, where can we look for it? One first idea is to look in literature, in the tales, in that
+      realistic literature which depicts real situations. Tales of the kind written by Boccaccio were
+      enormously successful in the Middle Ages; people loved them and wrote lots of them. We Italians
+      know Boccaccio''s tales well, but similar literary genres exist in other countries too. There is
+      an immense production of these texts, which have the following features: they are generally very
+      realistic, they represent real situations of the period and real characters, and they are very explicit.
+      Sex is discussed a great deal, and without anyone having any difficulty about it. Sex is discussed
+      to tell stories of successful tricks, to show how the poor manage to resist the abuses of the rich.
+      Sex is discussed to show how much cleverness counts and how useful it is even in those situations.
+      There are Boccaccio''s tales, but there is another genre—let me pause on this for a second. In France,
+      even before Boccaccio, as early as the thirteenth century, there is a literary genre called the
+      *fabliaux*. They are short poems, short poems in verse, because that was the taste of the time,
+      usually very funny, which rather like our tales recount pranks, jokes, tricks, strange episodes;
+      and there too sex is discussed all the time, I repeat, realistically. There is the village priest
+      who pursues the shoemaker''s wife, and everyone knows that in the village the priest is the man
+      who has studied, the one who speaks best, the one with the most money, and therefore, well, he is
+      successful with the female parishioners. There is the passing student given a bed for the night
+      by the miller who, that night, sets his eye on the miller''s daughter, and so forth. Here too there
+      is extreme freedom, including freedom of language, in describing these situations. One would say:
+      if there is one place where some author ought to tell us about the *ius primae noctis*, surely it
+      will be in this medieval storytelling. What a subject, what a narrative device the *ius primae noctis*
+      would be! It is never found. There is not a single medieval tale, not a single medieval joke or
+      story about sex—and there are countless numbers of them—that ever speaks of the *ius primae noctis*.
+      Do they not speak of the village lord perhaps setting his eye on the girls? Of course they do, because
+      the village lord certainly does set his eye on the girls. How do they speak about it? Let me give
+      you an example, a fifteenth-century French tale. In the fifteenth century a collection of tales
+      comes out in France which is somewhat copied from the *Decameron* in its structure: there are one
+      hundred of them, and they are called *The Hundred New Tales*, *Les Cent Nouvelles nouvelles*. Tale
+      24 tells of a count who at a certain point learns that in one of his villages there is a beautiful
+      girl. The count is a good man, but, well, well, he does not pass up opportunities. So he goes to
+      take a look. The girl really is pretty, and she is his subject. At this point, what does the count
+      do? He sends her a go-between, sends one of his servants to tell her: look, the count likes you;
+      if you are clever, if you agree, your fortune is made, yours and your family''s. The girl answers:
+      I am a subject of the count; I am ready to obey any order of his except where my honor is concerned.
+      But if they mean to ask me for something contrary to my honor, which I value more highly than my
+      own life—I do not even know the count. The servant goes to the count and reports this answer. The
+      count is disappointed and, since by now he has got the idea into his head, he wanders around the
+      girl''s village. At last he finds her alone. The girl is alone, cutting grass near the wood. The
+      count arrives and begins to court her somewhat brusquely. The girl does not want to agree, and the
+      count becomes very forward and tells her: listen, keep still, because in any case you are not getting
+      away from me. At this point the girl—and the whole point of the tale, naturally, lies in the girl''s
+      device for escaping this embarrassing situation—at this point the girl tells him: all right, given
+      the situation, I agree, but listen, I ask you just one thing: take off your trousers, because they
+      hurt me. The count had been prepared simply to unbutton his trousers. Riding trousers, very tight,
+      made of leather, very difficult to pull off—he certainly was not going to take them off. But he
+      says: all right, come on, if you want me to take them off, you take them off, because I cannot manage
+      it on my own. He lies down, and the girl begins pulling at these very tight trousers. When she has
+      got them halfway off, she jumps up and says: I am leaving. The count jumps to his feet and falls
+      flat on the ground because he cannot move with his trousers caught that way. The girl gets to safety.
+      The count thinks about it for a while, begins to laugh, decides that the girl has shown spirit and,
+      since he is a good man, in fact draws a line under the matter. Indeed, at the first opportunity
+      he arranges a grand marriage with another nobleman for this girl and gives her a large dowry to
+      reward her for her spirit. With the best will in the world, if ever there was a tale where there
+      might have been a little hint that all he had to do was say, I have the right, or the *ius primae*—no,
+      nothing. There are medieval tales in which, every now and again, this idea of sexual performance
+      as a kind of tax, a kind of obligation, does appear. There are a few tales, but within a completely
+      different framework from the *ius primae noctis* as we imagine it. I shall tell you one as an example.
+      We are still in this fifteenth-century French collection. It is a tale about what happened when
+      the Franciscans first established themselves in Catalonia, in the city of Girona. They built their
+      friary and began to do what friars always do, that is, talk with people, hear penitents'' confessions,
+      give good advice; and, as always happens, many people go to the Franciscans to confess. Many women
+      too, including many pretty women, and somehow or other, after a while, the Franciscans begin to—well,
+      there are all these beautiful penitents and the Franciscans begin to feel desire. I am still telling
+      this fifteenth-century tale. As you can see, in the Middle Ages they have no difficulty telling
+      stories; they are not afraid of offending anyone. At a certain point one of the Franciscans has
+      a brilliant idea. When the beautiful penitent comes to confess to him, the Franciscan tells her:
+      my dear lady, you must know, however, that we Franciscans have rights too; the pope gave them to
+      us. You too must pay your share. I am entirely ready. What must I do? And he says: you know that
+      the tithe must be paid, yes? Certainly: you pay the tithe to the lord, you pay the tithe to the
+      parish priest, and we Franciscans too are entitled to a tithe—a tithe of all the nights of love
+      between you and your husband. So you should know, my dear, that from now on you must keep count
+      and come and pay the tithe. The parishioner, completely convinced, pays the tithe. After a while
+      the other Franciscans discover the trick, and all the female parishioners learn that the tithe on
+      nights of love has to be paid; they are all thoroughly convinced and, with great zeal to save their
+      souls, come to the friary to pay the tithe. Then, well, the tale ends badly, in the sense that the
+      husbands find out, take it rather badly, and burn down the friary with all the friars inside, and
+      that is how it ends. It is a joke, as you understand; it is a story. It shows us that these people
+      thought about sex and knew that there was a connection between sex and power, that sex is a complicated
+      game, a complex social situation, that many things happen in the sexual sphere. But with the best
+      will in the world, the *ius primae noctis* as we know it: less than zero. Let us try another check.'
+    current_text_sha256: 6e15bcaee4c3f5d62faa71c1f04979efdd9797f26f20cd23b12e2e29c2d4f2dd
+  proposed_text: 'Now I shall quickly suggest two possible paths. Let us look through the testimony, through
+    the sources that have come down to us from the Middle Ages: where is the *ius primae noctis* discussed,
+    where can we look for it? One first idea is to look in literature, in the tales, in that realistic
+    literature which depicts real situations. Tales of the kind written by Boccaccio were enormously successful
+    in the Middle Ages; people loved them and wrote lots of them. We Italians know Boccaccio''s tales
+    well, but similar literary genres exist in other countries too. There is an immense production of
+    these texts, which have the following features: they are generally very realistic, they represent
+    real situations of the period and real characters, and they are very explicit. Sex is discussed a
+    great deal, and without anyone having any difficulty about it. Sex is discussed to tell stories of
+    successful tricks, to show how the poor manage to resist the abuses of the rich. Sex is discussed
+    to show how much cleverness counts and how useful it is even in those situations. There are Boccaccio''s
+    tales, but there is another genre—let me pause on this for a second. In France, even before Boccaccio,
+    as early as the thirteenth century, there is a literary genre called the *fabliaux*. They are short
+    poems, short poems in verse, because that was the taste of the time, usually very funny, which rather
+    like our tales recount pranks, jokes, tricks, strange episodes; and there too sex is discussed all
+    the time, I repeat, realistically. There is the village priest who pursues the shoemaker''s wife,
+    and everyone knows that in the village the priest is the man who has studied, the one who speaks best,
+    the one with the most money, and therefore, well, he is successful with the female parishioners. There
+    is the passing student given a bed for the night by the miller who, that night, sets his eye on the
+    miller''s daughter, and so forth. Here too there is extreme freedom, including freedom of language,
+    in describing these situations. One would say: if there is one place where some author ought to tell
+    us about the *ius primae noctis*, surely it will be in this medieval storytelling. What a subject,
+    what a narrative device the *ius primae noctis* would be! It is never found. There is not a single
+    medieval tale, not a single medieval joke or story about sex—and there are countless numbers of them—that
+    ever speaks of the *ius primae noctis*. Do they not speak of the village lord perhaps setting his
+    eye on the girls? Of course they do, because the village lord certainly does set his eye on the girls.
+    How do they speak about it? Let me give you an example, a fifteenth-century French tale. In the fifteenth
+    century a collection of tales comes out in France which is somewhat copied from the *Decameron* in
+    its structure: there are one hundred of them, and they are called *The Hundred New Tales*, *Les Cent
+    Nouvelles nouvelles*. Tale 24 tells of a count who at a certain point learns that in one of his villages
+    there is a beautiful girl. The count is a good man, but, well, well, he does not pass up opportunities.
+    So he goes to take a look. The girl really is pretty, and she is his subject. At this point, what
+    does the count do? He sends her a go-between, sends one of his servants to tell her: look, the count
+    likes you; if you are clever, if you agree, your fortune is made, yours and your family''s. The girl
+    answers: I am a subject of the count; I am ready to obey any order of his except where my honor is
+    concerned. But if they mean to ask me for something contrary to my honor, which I value more highly
+    than my own life—I do not even know the count. The servant goes to the count and reports this answer.
+    The count is disappointed and, since by now he has got the idea into his head, he wanders around the
+    girl''s village. At last he finds her alone. The girl is alone, cutting grass near the wood. The count
+    arrives and begins to court her somewhat brusquely. The girl does not want to agree, and the count
+    becomes very forward and tells her: listen, keep still, because in any case you are not getting away
+    from me. At this point the girl—and the whole point of the tale, naturally, lies in the girl''s device
+    for escaping this embarrassing situation—says she will agree, but asks him not to soil her with his
+    mud-covered riding boots. She offers to remove them herself. The boots are extremely tight and difficult
+    to take off. Once the count sits down and extends his leg, she removes his spurs and deliberately
+    pulls one boot at the wrong angle, leaving it stuck halfway off. Then she runs to safety while he
+    is unable to pursue her. [N-001] The count thinks about it for a while, begins to laugh, decides that
+    the girl has shown spirit and, since he is a good man, in fact draws a line under the matter. Indeed,
+    at the first opportunity he arranges a grand marriage with another nobleman for this girl and gives
+    her a large dowry to reward her for her spirit. With the best will in the world, if ever there was
+    a tale where there might have been a little hint that all he had to do was say, I have the right,
+    or the *ius primae*—no, nothing. There are medieval tales in which, every now and again, this idea
+    of sexual performance as a kind of tax, a kind of obligation, does appear. There are a few tales,
+    but within a completely different framework from the *ius primae noctis* as we imagine it. I shall
+    tell you one as an example. We are still in this fifteenth-century French collection. It is a tale
+    set in Hostalrich in Catalonia, where Observant Franciscans establish themselves and build their friary.
+    [N-002] They begin to do what friars always do, that is, talk with people, hear penitents'' confessions,
+    give good advice; and, as always happens, many people go to the Franciscans to confess. Many women
+    too, including many pretty women, and somehow or other, after a while, the Franciscans begin to—well,
+    there are all these beautiful penitents and the Franciscans begin to feel desire. I am still telling
+    this fifteenth-century tale. As you can see, in the Middle Ages they have no difficulty telling stories;
+    they are not afraid of offending anyone. At a certain point one of the Franciscans has a brilliant
+    idea. When a beautiful penitent comes to confess to him, he falsely claims that the Observant friars
+    are owed a spiritual tithe in return for the Holy Sacrament: one out of every ten encounters between
+    wives and their husbands. The tale invokes no papal authorization. [N-002] The parishioner, completely
+    convinced, pays the tithe. After a while the other Franciscans discover the trick, and all the female
+    parishioners learn that the tithe on nights of love has to be paid; they are all thoroughly convinced
+    and, with great zeal to save their souls, come to the friary to pay the tithe. Then, well, the tale
+    ends badly, in the sense that the husbands find out, take it rather badly, and burn down the friary
+    with all the friars inside, and that is how it ends. It is a joke, as you understand; it is a story.
+    It shows us that these people thought about sex and knew that there was a connection between sex and
+    power, that sex is a complicated game, a complex social situation, that many things happen in the
+    sexual sphere. But with the best will in the world, the *ius primae noctis* as we know it: less than
+    zero. Let us try another check.'
+  reason: Migrate the already reviewed quotation and accuracy treatment.
+  evidence_summary: Derived from the completed v1 quotation ledger and accuracy decisions; Git history
+    retains the pre-migration artifacts.
+  references:
+    quotations:
+    - Q-003
+    - Q-004
+    claims:
+    - C-004
+    sources:
+    - SRC-018
+  recommendation: apply
+  protected_quote_spans: []
+  decision: accept
+  decision_note: Migrated from completed v1 human decisions.
+  migration_references:
+  - N-001
+  - N-002
+- id: CC-003
+  issue_types:
+  - misleading-compression
+  - quotation
+  target:
+    chapter_id: CH-004
+    transcript:
+    - U-00353
+    - U-00419
+    current_text: 'Let me cite the earliest case that has been found. It is a document from 1247. We are
+      in France. It is a list of the customary obligations of the peasants in a village. Since that village
+      belongs half to a lay lord and half to the monks of a monastery, the lord and the monks often quarrel:
+      that piece belongs to me, the other belongs to you. And so at a certain point they draw up a fine
+      written list of all the obligations. Among the obligations of the peasants of this village of Verson,
+      in thirteenth-century France, there is the following obligation. When a peasant marries off his
+      daughter, if she marries a young man from another village, he has to pay a tax. This is nothing
+      strange and nothing new. It is a very common clause in the lives of medieval peasants, and if it
+      does not bore you too much I shall also explain why this clause exists. Follow me. The peasant works
+      in the village and works the lord''s land, and pays him rent. When his daughter marries, perhaps
+      he gives her part of that land as a dowry; the son-in-law will continue to work that land and pay
+      the lord the rent, so there is no problem. But if the son-in-law is from another village, who can
+      assure the lord that he will manage to compel him to pay the rent, that he really will work, that
+      he will come to live there? Nobody can assure him of that. It is another village; there is another
+      lord. So the lord of Verson, like the lords of countless other medieval villages, is not pleased
+      if his peasants'' daughters marry a young man from another village. And so he says: if you truly
+      want to do it, you must pay me; I want payment for giving my consent. This tax, then, is extremely
+      widespread. But we are telling the specific story of the village of Verson in 1247. There is this
+      list in Latin enumerating all these obligations. At a certain point a monk of that abbey, amusing
+      himself when he had little to do, wrote a little rhyming poem in French that lists those same obligations:
+      he translates this list of obligations into French and into verse, and at a certain point he adds
+      something. When he reaches the tax that peasants have to pay when their daughter marries a young
+      man from another village, the monk says: today three *sous* are paid, but the peasants are happy
+      with that, because once it was much worse. There was a time when so much had to be paid that the
+      peasants sometimes could not manage it, and there were fathers who, rather than having to give the
+      lord a head of livestock or a vineyard or an income, brought him their daughter and said: listen,
+      do what you want, provided you forgive me the tax. This is the very first mention, in a medieval
+      text among the millions of medieval texts and documents, of something that vaguely resembles the
+      *ius primae noctis*. Why do I say vaguely? Notice: because it is not spoken of as a right, and it
+      is spoken of as something the father does so as not to have to pay the heavy tax. But above all,
+      the important thing is that already in this very first mention—as we shall see, it will happen regularly
+      afterward—the *ius primae noctis*, or something resembling it, forgive me, something resembling
+      it, is discussed by saying: in the bad old days. And this is the key to understanding how, at the
+      end of the Middle Ages, people began to fantasize about what happened in the bad old days.'
+    current_text_sha256: ceb77cbdd8a2ff01f383a6078626f2dc1738261406aeb3920376d2783691e41a
+  proposed_text: 'Let me cite the earliest case that has been found. It is a document from 1247. We are
+    in France. It is a list of the customary obligations of the peasants in a village. Since that village
+    belongs half to a lay lord and half to the monks of a monastery, the lord and the monks often quarrel:
+    that piece belongs to me, the other belongs to you. And so at a certain point they draw up a fine
+    written list of all the obligations. Among the obligations of the peasants of this village of Verson,
+    in thirteenth-century France, there is the following obligation. When a peasant marries off his daughter,
+    if she marries a young man from another village, he has to pay a tax. This is nothing strange and
+    nothing new. It is a very common clause in the lives of medieval peasants, and if it does not bore
+    you too much I shall also explain why this clause exists. Follow me. The peasant works in the village
+    and works the lord''s land, and pays him rent. When his daughter marries, perhaps he gives her part
+    of that land as a dowry; the son-in-law will continue to work that land and pay the lord the rent,
+    so there is no problem. But if the son-in-law is from another village, who can assure the lord that
+    he will manage to compel him to pay the rent, that he really will work, that he will come to live
+    there? Nobody can assure him of that. It is another village; there is another lord. So the lord of
+    Verson, like the lords of countless other medieval villages, is not pleased if his peasants'' daughters
+    marry a young man from another village. And so he says: if you truly want to do it, you must pay me;
+    I want payment for giving my consent. This tax, then, is extremely widespread. But we are telling
+    the specific story of the village of Verson in 1247. There is this list in Latin enumerating all these
+    obligations. At a certain point a monk of that abbey, amusing himself when he had little to do, wrote
+    a little rhyming poem in French that lists those same obligations: he translates this list of obligations
+    into French and into verse, and at a certain point he adds something. When he reaches the tax that
+    peasants have to pay when their daughter marries a young man from another village, the monk says:
+    today three *sous* are paid, but the peasants are happy with that, because once it was much worse.
+    There was a time when so much had to be paid that the peasants sometimes could not manage it, and
+    there were fathers who, rather than having to give the lord a head of livestock or a vineyard or an
+    income, chose the alternative recalled by the poem: “Long ago it happened that the peasant took his
+    daughter by the hand and delivered her to his lord.” This is the very first mention, in a medieval
+    text among the millions of medieval texts and documents, of something that vaguely resembles the *ius
+    primae noctis*. Why do I say vaguely? Notice: because it is not spoken of as a right, and it is spoken
+    of as something the father does so as not to have to pay the heavy tax. But above all, the important
+    thing is that already in this very first mention—as we shall see, it will happen regularly afterward—the
+    *ius primae noctis*, or something resembling it, forgive me, something resembling it, is discussed
+    by saying: in the bad old days. And this is the key to understanding how, at the end of the Middle
+    Ages, people began to fantasize about what happened in the bad old days.'
+  reason: Migrate the already reviewed quotation and accuracy treatment.
+  evidence_summary: Derived from the completed v1 quotation ledger and accuracy decisions; Git history
+    retains the pre-migration artifacts.
+  references:
+    quotations:
+    - Q-005
+    claims:
+    - C-007
+    - C-008
+    sources:
+    - SRC-004
+    - SRC-006
+  recommendation: apply
+  protected_quote_spans:
+  - Long ago it happened that the peasant took his daughter by the hand and delivered her to his lord.
+  decision: accept
+  decision_note: Migrated from completed v1 human decisions.
+  migration_references:
+  - N-003
+- id: CC-004
+  issue_types:
+  - factual-error
+  - misleading-compression
+  - quotation
+  target:
+    chapter_id: CH-005
+    transcript:
+    - U-00420
+    - U-00598
+    current_text: 'At the end of the Middle Ages, there are many places, villages, or even towns that
+      had been created centuries earlier by groups of peasants who came to an agreement, left their village,
+      said goodbye to the lord, founded a town of their own, and went to live freely in that town. It
+      is an extremely common phenomenon in the Middle Ages. In some regions it is more common than in
+      others. For various incidental reasons it is very common in Piedmont, for example, where several
+      towns, from Cuneo to Alessandria and Cherasco, came into being through this mechanism. In Cuneo
+      itself, at the end of the fifteenth century, this is what happens. Three hundred years have passed
+      since the town was founded. At the end of the fifteenth century a learned man from Cuneo, the lawyer
+      Rebaccini, decides to write Cuneo''s history and tells how Cuneo came into being: how our ancestors,
+      long ago, decided to abandon their lords, leave their villages, and go to live in a new town. And
+      the lawyer Rebaccini says they left because it was burdensome to live under the lords'' rule, and
+      he begins to list a whole series of impositions that the lords inflicted on their peasants: they
+      did not allow them to make wills; they forced them to pay whenever someone had to sell land; they
+      took the tithe, took the *taglia*; on every contract they took a share; they forced them to perform
+      unpaid labor services. The lawyer Rebaccini says: they forced them to work without discretion—because
+      if they had done it with discretion, but instead, no. And notice that all these complaints correspond
+      exactly to what documents from three hundred years earlier really tell us: these obligations and
+      this burden existed in the lordships. The lawyer Rebaccini tells and tells how bad those old days
+      were, how tyrannical those feudal lords were, and then at the very end, when everything is truly
+      finished, finally: “subordinating reason to lust and sensuality, they deflowered their subjects''
+      daughters and likewise their brides, persuading the subjects that this was their ancient right and
+      a privilege granted to them.” As with Rebaccini in Cuneo, so too in the sixteenth and seventeenth
+      centuries, in several Italian and French towns, there is some good citizen who sets about telling
+      the history of the town and begins with the time when, three hundred years earlier, four hundred
+      years earlier, their great-great-grandfathers rebelled against the wicked lords. And with many of
+      them this thing now enters circulation, does it not? Those lords really were wicked, and they even
+      claimed this. If someone did not pay, they took the girls'' virginity. In other words, once we reach
+      the fifteenth and sixteenth centuries—and therefore between the end of the Middle Ages and the Renaissance—we
+      suddenly find ourselves facing a Europe in which the tale of the *ius primae noctis* has entered
+      circulation and is beginning to resurface. And it always, always resurfaces with this characteristic:
+      it speaks of an extremely distant past. In the bad old days these things happened. No, that is not
+      true. It is not always the bad old days among us that people talk about. There is another way in
+      which the tale of the *ius primae noctis* circulates in fifteenth- and sixteenth-century Europe.
+      Not among us in the bad old days, but now among the savages. Fifteenth- and sixteenth-century Europe—let
+      us provide a little context quickly—is the Europe of the great geographical discoveries. During
+      the fifteenth century the Portuguese ventured out into the Atlantic; they crossed over, went down
+      below the Cape of Good Hope, discovered new lands everywhere, and then, of course, at the end of
+      the fifteenth century Columbus sets out and reaches America, and then in the early sixteenth century
+      the *conquistadores* go. A whole array of new worlds are discovered. Each time navigators arrive
+      in a new place, they publish reports describing what that place is like. These reports by Portuguese
+      and Spanish navigators and conquerors all resemble one another. The inhabitants of these islands
+      are savages. You cannot imagine how savage they are. They go naked, they have no morality, they
+      do the worst things. Just imagine that among them, when someone marries, the village chief has the
+      right to sleep with the girl; and sometimes not just the village chief: if a merchant marries, all
+      the merchants go; if a nobleman marries, all the noblemen; if instead he is a commoner, the master
+      goes, naturally. When the Portuguese discover the Canaries in the mid-fifteenth century, they tell
+      this story. When Alvise Cadamosto goes to Tenerife, he says that this happens in Tenerife. When
+      Cortés goes to Mexico he tells—or rather, earlier still, in Cuba—he tells that this used to happen
+      in Cuba. Is it clear why they tell these stories? Because we are reducing these savage peoples to
+      slavery, if not exterminating them. Because, God willing, we are bringing them reason and the true
+      faith, and consequently it is necessary to show that they are in great need of them: here we come
+      to bring them civilization. These savages are truly beneath the human level; they do inconceivable
+      things. It goes without saying that no Spaniard or Portuguese ever imagined that such things happened
+      in his own world, because otherwise it would not occur to him to present them as an example of strangeness.
+      But when savages are discussed, anything goes. Let us also say one thing, because matters are always
+      more complex and the world is not made entirely one way or the other. These books appear, a great
+      many appear, people believe them, and there is also someone who protests. Cortés''s report saying
+      that these wicked things happened in Cuba is published by Francisco López de Gómara in the *General
+      History of the West Indies and the New Lands Discovered*, and someone protests, because in that
+      strange Europe, after all, there is also someone who says: but none of this is true; we are wronging
+      these Indians, they must be defended, what we are doing to them is shameful. Las Casas, the Jesuit,
+      speaking precisely of this book, says: this book denigrates those peoples, none of it is true, and
+      he goes so far as to have the king ban it because it slanders the Indians. In the meantime, however,
+      it has been translated into French, Montaigne reads it, everyone reads it, and in short these stories
+      continue to circulate. So let us take stock again. In fifteenth- and sixteenth-century Europe the
+      story of the *ius primae noctis* circulates widely. There are two possibilities: did it happen among
+      us in the bad old days, or does it happen now among the savages? Among the savages, among the barbarians—because
+      everyone, after all, can have whichever barbarian they want. In England between the sixteenth and
+      seventeenth centuries, the England of the great Queen Elizabeth and of Shakespeare—Shakespeare...
+      there is a country that good English people do not consider barbarous and savage; indeed, it ought
+      to be a very civilized country, but it has become horribly barbarized. It is a country in an abyss
+      of wickedness, and it is Italy, naturally. It is Italy where, on the one hand, the pope rules—and
+      for good English Protestants papism is the worst thing in the world—and at the same time in Italy
+      there is Machiavelli, the cynic, the immoral man. There: for the English in the early seventeenth
+      century, Italy is the most immoral country in the world. In 1619 a play by two successful authors,
+      Beaumont and Fletcher, is staged in London. It is entitled *The Custom of the Country*. And it tells
+      of a country, a town so barbaric that in that town the governor demands the *ius primae noctis*
+      over all the women who marry there, until naturally a couple more energetic than the others rebels,
+      et cetera, et cetera. Where is that town? Why, in Italy, naturally. In substance, for intellectuals
+      and writers, but also for the public of the fifteenth and sixteenth centuries, the *ius primae noctis*
+      has become a formidable device for describing all those worlds we do not like, which we consider
+      barbaric, whether the distant medieval past or the present of savages or Italians, depending on
+      the case, precisely. That is not all. At this point something else happens that helps consolidate
+      the legend that in the bad old days the *ius primae noctis* really existed.'
+    current_text_sha256: f401785094e0e88dd3340318a5a962964ca22262af1ebc2d7330c38546956977
+  proposed_text: 'At the end of the Middle Ages, there are many places, villages, or even towns that had
+    been created centuries earlier by groups of peasants who came to an agreement, left their village,
+    said goodbye to the lord, founded a town of their own, and went to live freely in that town. It is
+    an extremely common phenomenon in the Middle Ages. In some regions it is more common than in others.
+    For various incidental reasons it is very common in Piedmont, for example, where several towns, from
+    Cuneo to Alessandria and Cherasco, came into being through this mechanism. In Cuneo itself, at the
+    end of the fifteenth century, this is what happens. Three hundred years have passed since the town
+    was founded. At the end of the fifteenth century a learned man from Cuneo, the lawyer Rebaccini, decides
+    to write Cuneo''s history and tells how Cuneo came into being: how our ancestors, long ago, decided
+    to abandon their lords, leave their villages, and go to live in a new town. And the lawyer Rebaccini
+    says they left because it was burdensome to live under the lords'' rule, and he begins to list a whole
+    series of impositions that the lords inflicted on their peasants: they did not allow them to make
+    wills; they forced them to pay whenever someone had to sell land; they took the tithe, took the *taglia*;
+    on every contract they took a share; they forced them to perform unpaid labor services. The lawyer
+    Rebaccini says: they forced them to work without discretion—because if they had done it with discretion,
+    but instead, no. And notice that all these complaints correspond exactly to what documents from three
+    hundred years earlier really tell us: these obligations and this burden existed in the lordships.
+    The lawyer Rebaccini tells and tells how bad those old days were, how tyrannical those feudal lords
+    were, and then at the very end, when everything is truly finished, finally: “subordinating reason
+    to lust and sensuality, they deflowered their subjects'' daughters and likewise their brides, persuading
+    the subjects that this was their ancient right and a privilege granted to them.” As with Rebaccini
+    in Cuneo, so too in the sixteenth and seventeenth centuries, in several Italian and French towns,
+    there is some good citizen who sets about telling the history of the town and begins with the time
+    when, three hundred years earlier, four hundred years earlier, their great-great-grandfathers rebelled
+    against the wicked lords. And with many of them this thing now enters circulation, does it not? Those
+    lords really were wicked, and they even claimed this. If someone did not pay, they took the girls''
+    virginity. In other words, once we reach the fifteenth and sixteenth centuries—and therefore between
+    the end of the Middle Ages and the Renaissance—we suddenly find ourselves facing a Europe in which
+    the tale of the *ius primae noctis* has entered circulation and is beginning to resurface. And it
+    always, always resurfaces with this characteristic: it speaks of an extremely distant past. In the
+    bad old days these things happened. No, that is not true. It is not always the bad old days among
+    us that people talk about. There is another way in which the tale of the *ius primae noctis* circulates
+    in fifteenth- and sixteenth-century Europe. Not among us in the bad old days, but now among the savages.
+    Fifteenth- and sixteenth-century Europe—let us provide a little context quickly—is the Europe of the
+    great geographical discoveries. During the fifteenth century the Portuguese ventured out into the
+    Atlantic; they crossed over, went down below the Cape of Good Hope, discovered new lands everywhere,
+    and then, of course, at the end of the fifteenth century Columbus sets out and reaches America, and
+    then in the early sixteenth century the *conquistadores* go. A whole array of new worlds are discovered.
+    Each time navigators arrive in a new place, they publish reports describing what that place is like.
+    These reports by Portuguese and Spanish navigators and conquerors all resemble one another. The inhabitants
+    of these islands are savages. You cannot imagine how savage they are. They go naked, they have no
+    morality, they do the worst things. Just imagine that among them, when someone marries, the village
+    chief has the right to sleep with the girl; and sometimes not just the village chief: if a merchant
+    marries, all the merchants go; if a nobleman marries, all the noblemen; if instead he is a commoner,
+    the master goes, naturally. When the Portuguese discover the Canaries in the mid-fifteenth century,
+    they tell this story. When Alvise Cadamosto goes to Tenerife, he says that this happens in Tenerife.
+    When Cortés goes to Mexico he tells—or rather, earlier still, in Cuba—he tells that this used to happen
+    in Cuba. Is it clear why they tell these stories? Because we are reducing these savage peoples to
+    slavery, if not exterminating them. Because, God willing, we are bringing them reason and the true
+    faith, and consequently it is necessary to show that they are in great need of them: here we come
+    to bring them civilization. These savages are truly beneath the human level; they do inconceivable
+    things. It goes without saying that no Spaniard or Portuguese ever imagined that such things happened
+    in his own world, because otherwise it would not occur to him to present them as an example of strangeness.
+    But when savages are discussed, anything goes. Let us also say one thing, because matters are always
+    more complex and the world is not made entirely one way or the other. These books appear, a great
+    many appear, people believe them, and there is also someone who protests. Cortés''s report saying
+    that these wicked things happened in Cuba is published by Francisco López de Gómara in the *General
+    History of the West Indies and the New Lands Discovered*, and someone protests, because in that strange
+    Europe, after all, there is also someone who says: but none of this is true; we are wronging these
+    Indians, they must be defended, what we are doing to them is shameful. Bartolomé de las Casas, a Dominican
+    friar and bishop, accuses Gómara of calumniating Indigenous peoples; the surviving evidence does not
+    establish that Las Casas personally caused the crown to prohibit the book. [N-005] In the meantime,
+    however, it has been translated into French, Montaigne reads it, everyone reads it, and in short these
+    stories continue to circulate. So let us take stock again. In fifteenth- and sixteenth-century Europe
+    the story of the *ius primae noctis* circulates widely. There are two possibilities: did it happen
+    among us in the bad old days, or does it happen now among the savages? Among the savages, among the
+    barbarians—because everyone, after all, can have whichever barbarian they want. In England between
+    the sixteenth and seventeenth centuries, the England of the great Queen Elizabeth and of Shakespeare—Shakespeare...
+    there is a country that good English people do not consider barbarous and savage; indeed, it ought
+    to be a very civilized country, but it has become horribly barbarized. It is a country in an abyss
+    of wickedness, and it is Italy, naturally. It is Italy where, on the one hand, the pope rules—and
+    for good English Protestants papism is the worst thing in the world—and at the same time in Italy
+    there is Machiavelli, the cynic, the immoral man. There: for the English in the early seventeenth
+    century, Italy is the most immoral country in the world. In 1619 a play by two successful authors,
+    Beaumont and Fletcher, is staged in London. It is entitled *The Custom of the Country*. And it tells
+    of a country, a town so barbaric that in that town the governor demands the *ius primae noctis* over
+    all the women who marry there, until naturally a couple more energetic than the others rebels, et
+    cetera, et cetera. Where is that town? Why, in Italy, naturally. In substance, for intellectuals and
+    writers, but also for the public of the fifteenth and sixteenth centuries, the *ius primae noctis*
+    has become a formidable device for describing all those worlds we do not like, which we consider barbaric,
+    whether the distant medieval past or the present of savages or Italians, depending on the case, precisely.
+    That is not all. At this point something else happens that helps consolidate the legend that in the
+    bad old days the *ius primae noctis* really existed.'
+  reason: Migrate the already reviewed quotation and accuracy treatment.
+  evidence_summary: Derived from the completed v1 quotation ledger and accuracy decisions; Git history
+    retains the pre-migration artifacts.
+  references:
+    quotations:
+    - Q-006
+    - Q-007
+    - Q-008
+    - Q-009
+    claims:
+    - C-010
+    - C-011
+    sources:
+    - SRC-005
+    - SRC-006
+    - SRC-007
+    - SRC-008
+    - SRC-009
+    - SRC-010
+    - SRC-019
+    - SRC-020
+    - SRC-021
+  recommendation: apply
+  protected_quote_spans: []
+  decision: accept
+  decision_note: Migrated from completed v1 human decisions.
+  migration_references:
+  - N-004
+  - N-005
+  - N-006
+- id: CC-005
+  issue_types:
+  - factual-error
+  - quotation
+  target:
+    chapter_id: CH-006
+    transcript:
+    - U-00599
+    - U-00735
+    current_text: 'The sixteenth century is an age of jurists. It is an age of jurists who begin, in particular,
+      to analyze the obligations of peasants, the customs of lordships, the feudal customs, as people
+      begin to call them in that period. In France, for example, these jurists are in the king''s service,
+      and the king would be very happy to cut the lords'' power down a little. In the culture of these
+      jurists, the lords'' power begins to seem like an antiquated relic, something that ought to be eliminated.
+      Let us remember that in 1789, after two and a half centuries of reasoning of this kind, finally,
+      with the French Revolution, the first thing they do is abolish the feudal regime. All this begins
+      in the sixteenth century. The sixteenth-century jurists investigate and discover that in many lordships
+      a tax is paid on marriage. Now, the sixteenth-century jurists are cultured people, how shall I put
+      it, but also fond of enjoying themselves. They too like slightly obscene tales. It is the century
+      of Aretino; it is the century of Rabelais. At the universities there is much joking and amusement,
+      and all these jurists were students before they became jurists, and, in short, they also know that
+      very often, when a peasant pays a tax, it is because there was once a service in kind and later
+      the peasant redeemed it. We have seen this mechanism. When the jurist—imagine the jurist at his
+      desk piled high with law codes—he is extremely learned, but he is also ready to believe anything.
+      He has to explain, because jurists of the period have to explain why this tax is paid. There is
+      a tax on marriages. When the peasant marries off his daughter, he has to pay. Could it be that there
+      was once a service in kind that has now been redeemed? And of course it must be so. Wherever they
+      find a marriage tax, the jurists imagine that the *ius primae noctis* existed before it. And entire
+      treatises appear in which this information is dispensed as though it were now an established fact.
+      By now it is known that this happened in the past, and the historians too, by now, read the jurists—and
+      if the jurists do not know, well then historians invent when a piece is missing. There is a book
+      that has enormous influence. It comes out in 1526; it is a history of Scotland by an author named
+      Boece, Hector Boece. To give you an idea how reliable Boece''s *History of Scotland* is—even though
+      he is a Renaissance intellectual, a learned humanist—to give you an idea how reliable it is, I shall
+      tell you that according to him Scotland was founded by a princess named Scotia who was the daughter
+      of the pharaoh, the one from Moses, the one in the Bible. In this work, whose credibility you can
+      appreciate, Boece says: among us in Scotland peasants pay a marriage tax. This tax was introduced
+      by the good King Malcolm in the eleventh century, on the advice of his wife, the saintly Queen Margaret,
+      to replace an earlier tax—no, not a tax, an earlier obligation, a wicked, filthy obligation that
+      I do not even dare tell you what it was—which had been introduced so many centuries earlier, in
+      the days of the barbarians, the Celts, by King Evenus of Scotland: the obligation whereby, indeed,
+      the girls with the lord, et cetera, et cetera, et cetera. With the best will in the world, your
+      knees really buckle, because—no, for heaven''s sake—King Malcolm existed, and his wife Margaret
+      too; obviously they never did anything of the kind. King Evenus goes hand in hand with Princess
+      Scotia, daughter of the pharaoh. He is completely made up, because when these people do not know
+      how to fill the gaps, they invent. And books circulate; everyone reads books. Ah, I was forgetting,
+      let me tell you this. I have related two or three of these things, though not the business about
+      Boece and Scotland. I discussed the *ius primae noctis* in an article that appeared in *La Stampa*
+      three or four days ago, in which I said: look, the *ius primae noctis* is a legend, and so on. This
+      morning I open my mail and a very courteous gentleman has written to me, saying: dear professor,
+      I read your article; the *ius primae noctis* certainly may be a legend, but I understand that in
+      some cases it really existed. Du Cange''s historical dictionary says that in Scotland King Evenus
+      introduced the *ius*. I read this in my mail this morning, there. So, as you can see, things circulate.
+      Jurists believe everything. It must be said that now and again the situation also helps them. The
+      taxes that peasants paid in the Middle Ages had many names. There were many, for example, whose
+      name began with the idea of the *colletta*. We all know what *colletta* means: collecting money.
+      So in many cases, when the lord made the rounds and said it was time to pay, that thing was called
+      the *colletta*. *Colletta* in Tuscan, but in the various languages of Europe it took different names.
+      In French it was often called *coillage*, for example. In the common language, a tax paid on various
+      occasions was called *coillage*. Sometimes even the marriage tax was called *coillage*. But of course
+      the people called it *coillage*, while in Latin documents the notary made an effort to translate
+      this word from the spoken language into Latin. And some notaries—perhaps precisely because they
+      too had tremendous fun making fools of the peasants and their lords, those coarse ignoramuses—some
+      notaries, when they had to transcribe the word *coillage* in Latin, wrote *culagium*. Imagine the
+      sixteenth-century jurists when they discover that a peasant, when his daughter marries, has to pay
+      the lord a tax called *culagium*. It is the end of the world. But that is not all. Another example.
+      In the Middle Ages a name for taxes is universally widespread, a word no longer used today and one
+      that many of you may never have heard: *fodro*. The word *fodro*: specialists in medieval history
+      know it very well, whereas it no longer exists in spoken language today. In fact it is a word with
+      a very clear origin. It is the same word as English *fodder*, meaning forage, food for animals.
+      A tax is paid to feed the king''s or lord''s horses: *fodro*. But after a while the scholars of
+      the sixteenth, seventeenth, and eighteenth centuries no longer know the origin of this word. The
+      *fodro* is paid—what can it possibly be? At Nizza Monferrato, then called Nizza della Paglia, in
+      Piedmont, the *fodro* is paid. In Nizza Monferrato the local legend says that the peasants founded
+      the town by rebelling against a wicked lord. In the eighteenth century a scholar arrives, Abbot
+      Giulio Cesare Cordara, who puts the two things together: at Nizza Monferrato there was the wicked
+      lord, and a tax was paid called the *fodro*. *Fodro*—what can this possibly be? *Fodero*, *fodero*—there,
+      that is where *fodero* comes from: a sheath. But what is this sheath? It must be an image, a metaphor:
+      the sheath, the scabbard, the vagina. There, that is what these poor peasants had to pay. And at
+      the end of the eighteenth century Abbot Cordara writes a poem: *The Sheath, or the Ius over Brides
+      of the Ancient Lords of Nizza Monferrato*. One little step further. Once everyone has convinced
+      themselves that these rights existed in the past, they go looking for further proof, and when you
+      go looking for further proof, you find it.'
+    current_text_sha256: 642507df51479d528194fff7cec322ddb22fe020439e0d6624fed0af17869caf
+  proposed_text: 'The sixteenth century is an age of jurists. It is an age of jurists who begin, in particular,
+    to analyze the obligations of peasants, the customs of lordships, the feudal customs, as people begin
+    to call them in that period. In France, for example, these jurists are in the king''s service, and
+    the king would be very happy to cut the lords'' power down a little. In the culture of these jurists,
+    the lords'' power begins to seem like an antiquated relic, something that ought to be eliminated.
+    Let us remember that in 1789, after two and a half centuries of reasoning of this kind, finally, with
+    the French Revolution, the first thing they do is abolish the feudal regime. All this begins in the
+    sixteenth century. The sixteenth-century jurists investigate and discover that in many lordships a
+    tax is paid on marriage. Now, the sixteenth-century jurists are cultured people, how shall I put it,
+    but also fond of enjoying themselves. They too like slightly obscene tales. It is the century of Aretino;
+    it is the century of Rabelais. At the universities there is much joking and amusement, and all these
+    jurists were students before they became jurists, and, in short, they also know that very often, when
+    a peasant pays a tax, it is because there was once a service in kind and later the peasant redeemed
+    it. We have seen this mechanism. When the jurist—imagine the jurist at his desk piled high with law
+    codes—he is extremely learned, but he is also ready to believe anything. He has to explain, because
+    jurists of the period have to explain why this tax is paid. There is a tax on marriages. When the
+    peasant marries off his daughter, he has to pay. Could it be that there was once a service in kind
+    that has now been redeemed? And of course it must be so. Wherever they find a marriage tax, the jurists
+    imagine that the *ius primae noctis* existed before it. And entire treatises appear in which this
+    information is dispensed as though it were now an established fact. By now it is known that this happened
+    in the past, and the historians too, by now, read the jurists—and if the jurists do not know, well
+    then historians invent when a piece is missing. There is a book that has enormous influence. Hector
+    Boece''s *Scotorum Historia* is first printed in 1527. [N-007] To give you an idea how reliable Boece''s
+    *History of Scotland* is—even though he is a Renaissance intellectual, a learned humanist—to give
+    you an idea how reliable it is, I shall tell you that according to him Scotland was founded by a princess
+    named Scotia who was the daughter of the pharaoh, the one from Moses, the one in the Bible. In this
+    work, whose credibility you can appreciate, Boece says: among us in Scotland peasants pay a marriage
+    tax. This tax was introduced by the good King Malcolm in the eleventh century, on the advice of his
+    wife, the saintly Queen Margaret, to replace an earlier tax—no, not a tax, an earlier obligation,
+    a wicked, filthy obligation that I do not even dare tell you what it was—which had been introduced
+    so many centuries earlier, in the days of the barbarians, the Celts, by King Evenus of Scotland: the
+    obligation whereby, indeed, the girls with the lord, et cetera, et cetera, et cetera. With the best
+    will in the world, your knees really buckle, because—no, for heaven''s sake—King Malcolm existed,
+    and his wife Margaret too; obviously they never did anything of the kind. King Evenus goes hand in
+    hand with Princess Scotia, daughter of the pharaoh. He is completely made up, because when these people
+    do not know how to fill the gaps, they invent. And books circulate; everyone reads books. Ah, I was
+    forgetting, let me tell you this. I have related two or three of these things, though not the business
+    about Boece and Scotland. I discussed the *ius primae noctis* in an article that appeared in *La Stampa*
+    three or four days ago, in which I said: look, the *ius primae noctis* is a legend, and so on. This
+    morning I open my mail and a very courteous gentleman has written to me, saying: dear professor, I
+    read your article; the *ius primae noctis* certainly may be a legend, but I understand that in some
+    cases it really existed. Du Cange''s historical dictionary says that in Scotland King Evenus introduced
+    the *ius*. I read this in my mail this morning, there. So, as you can see, things circulate. Jurists
+    believe everything. It must be said that now and again the situation also helps them. The taxes that
+    peasants paid in the Middle Ages had many names. There were many, for example, whose name began with
+    the idea of the *colletta*. We all know what *colletta* means: collecting money. So in many cases,
+    when the lord made the rounds and said it was time to pay, that thing was called the *colletta*. *Colletta*
+    in Tuscan, but in the various languages of Europe it took different names. In French it was often
+    called *coillage*, for example. In the common language, a tax paid on various occasions was called
+    *coillage*. Sometimes even the marriage tax was called *coillage*. But of course the people called
+    it *coillage*, while in Latin documents the notary made an effort to translate this word from the
+    spoken language into Latin. And some notaries—perhaps precisely because they too had tremendous fun
+    making fools of the peasants and their lords, those coarse ignoramuses—some notaries, when they had
+    to transcribe the word *coillage* in Latin, wrote *culagium*. Imagine the sixteenth-century jurists
+    when they discover that a peasant, when his daughter marries, has to pay the lord a tax called *culagium*.
+    It is the end of the world. But that is not all. Another example. In the Middle Ages a name for taxes
+    is universally widespread, a word no longer used today and one that many of you may never have heard:
+    *fodro*. The word *fodro*: specialists in medieval history know it very well, whereas it no longer
+    exists in spoken language today. In fact it is a word with a very clear origin. It is the same word
+    as English *fodder*, meaning forage, food for animals. A tax is paid to feed the king''s or lord''s
+    horses: *fodro*. But after a while the scholars of the sixteenth, seventeenth, and eighteenth centuries
+    no longer know the origin of this word. The *fodro* is paid—what can it possibly be? At Nizza Monferrato,
+    then called Nizza della Paglia, in Piedmont, the *fodro* is paid. In Nizza Monferrato the local legend
+    says that the peasants founded the town by rebelling against a wicked lord. In the eighteenth century
+    a scholar arrives, Abbot Giulio Cesare Cordara, who puts the two things together: at Nizza Monferrato
+    there was the wicked lord, and a tax was paid called the *fodro*. *Fodro*—what can this possibly be?
+    *Fodero*, *fodero*—there, that is where *fodero* comes from: a sheath. But what is this sheath? It
+    must be an image, a metaphor: the sheath, the scabbard, the vagina. There, that is what these poor
+    peasants had to pay. And at the end of the eighteenth century Abbot Cordara writes a poem: *The Sheath,
+    or the Ius over Brides of the Ancient Lords of Nizza Monferrato*. One little step further. Once everyone
+    has convinced themselves that these rights existed in the past, they go looking for further proof,
+    and when you go looking for further proof, you find it.'
+  reason: Migrate the already reviewed quotation and accuracy treatment.
+  evidence_summary: Derived from the completed v1 quotation ledger and accuracy decisions; Git history
+    retains the pre-migration artifacts.
+  references:
+    quotations:
+    - Q-010
+    - Q-011
+    claims:
+    - C-013
+    sources:
+    - SRC-011
+    - SRC-012
+    - SRC-013
+  recommendation: apply
+  protected_quote_spans: []
+  decision: accept
+  decision_note: Migrated from completed v1 human decisions.
+  migration_references:
+  - N-007
+- id: CC-006
+  issue_types:
+  - misleading-compression
+  target:
+    chapter_id: CH-007
+    transcript:
+    - U-00736
+    - U-00784
+    current_text: 'An example—an example of a document that countless scholars have cited as proof that
+      not only did the *ius primae noctis* exist in the Middle Ages, but even the Church demanded it from
+      its peasants. The starting point is a trial, a trial held before the Parlement of Paris concerning
+      the diocese of Amiens. We are at the end of the fourteenth century. What is the premise? In the
+      Middle Ages, the Church, as it does today and perhaps even more than today—indeed, often more than
+      today—made an effort to remind Christians that sex within marriage is all very well, but it has
+      to be kept under control because it is intended exclusively for procreation. Consequently, one must
+      not let oneself go too much in sex, even within marriage; indeed, it is good and right to learn
+      to keep lust under control. It happens in some medieval dioceses that bishops begin explaining to
+      their faithful that it would be a fine thing if, when they marry, they remained chaste for three
+      days, so as to show that they know how to master their lust and that they are not marrying for that.
+      In some dioceses, in one way or another, this becomes an obligation imposed by the Church. When
+      you marry, for three days you cannot consummate the marriage. After that, the late Middle Ages—the
+      early Middle Ages, before the year 1000, is a stagnant era. Not afterward: afterward everyone makes
+      money, endless amounts of money circulate, and people also become very brisk and very cynical. You
+      pay for everything. In the late Middle Ages many people begin to say: yes, all right, I am getting
+      married, I ought to observe the three days of chastity, but what if instead I made an offering to
+      the Church? And the Church says, splendid, make the offering. After a while there is nobody left
+      who observes the three days of chastity, but there are dioceses where it is normal for a person
+      who marries to have to pay a certain tax to the Church. What do they call it? Various things, but
+      mostly the tax on the first wedding night. Because that is precisely what I am paying for. At the
+      end of the fourteenth century—this too is an old story—in the diocese of Amiens people no longer
+      pay it. The bishop is annoyed and brings a lawsuit to force people to continue paying this tax.
+      The people protest; the matter goes to the Parlement of Paris; a trial ensues that lasts sixteen
+      years, and in the end I no longer even remember what the Parlement of Paris decides. But anyway,
+      in any event, this trial—you can imagine it—consists of bundles this thick, in Latin, of legal arguments
+      in Latin. When eighteenth- and nineteenth-century historians discover this trial, it is not as though
+      they sit down and read the whole thing—you really cannot understand a thing—but one thing is clear:
+      it speaks of a tax on the first night of marriage, and it was the Church that demanded the tax on
+      the first night of marriage from the peasants. It is proof that the *ius primae noctis* existed.'
+    current_text_sha256: 94272070f12705d4b7afb54867e2368a9377fe962a50707ea296150392ebbfa7
+  proposed_text: 'An example—an example of a document that countless scholars have cited as proof that
+    not only did the *ius primae noctis* exist in the Middle Ages, but even the Church demanded it from
+    its peasants. The starting point is a trial, a trial held before the Parlement of Paris concerning
+    the diocese of Amiens. We are at the end of the fourteenth century. What is the premise? In the Middle
+    Ages, the Church, as it does today and perhaps even more than today—indeed, often more than today—made
+    an effort to remind Christians that sex within marriage is all very well, but it has to be kept under
+    control because it is intended exclusively for procreation. Consequently, one must not let oneself
+    go too much in sex, even within marriage; indeed, it is good and right to learn to keep lust under
+    control. It happens in some medieval dioceses that bishops begin explaining to their faithful that
+    it would be a fine thing if, when they marry, they remained chaste for three days, so as to show that
+    they know how to master their lust and that they are not marrying for that. In some dioceses, in one
+    way or another, this becomes an obligation imposed by the Church. When you marry, for three days you
+    cannot consummate the marriage. After that, the late Middle Ages—the early Middle Ages, before the
+    year 1000, is a stagnant era. Not afterward: afterward everyone makes money, endless amounts of money
+    circulate, and people also become very brisk and very cynical. You pay for everything. In the late
+    Middle Ages many people begin to say: yes, all right, I am getting married, I ought to observe the
+    three days of chastity, but what if instead I made an offering to the Church? And the Church says,
+    splendid, make the offering. After a while there is nobody left who observes the three days of chastity,
+    but there are dioceses where it is normal for a person who marries to have to pay a certain tax to
+    the Church. What do they call it? Various things, but mostly the tax on the first wedding night. Because
+    that is precisely what I am paying for. At the end of the fourteenth century—this too is an old story—in
+    the diocese of Amiens people no longer pay it. The bishop is annoyed and brings a lawsuit to force
+    people to continue paying this tax. The people protest; the matter goes to the Parlement of Paris;
+    a trial ensues that lasts sixteen years, and in the end I no longer even remember what the Parlement
+    of Paris decides. But anyway, in any event, this trial—you can imagine it—consists of bundles this
+    thick, in Latin, of legal arguments in Latin. When eighteenth- and nineteenth-century historians discover
+    this trial, it is not as though they sit down and read the whole thing—you really cannot understand
+    a thing—but one thing is clear: it speaks of a tax on the first night of marriage, and it was the
+    Church that demanded the tax on the first night of marriage from the peasants. It is proof that the
+    *ius primae noctis* existed.'
+  reason: Migrate the already reviewed quotation and accuracy treatment.
+  evidence_summary: Derived from the completed v1 quotation ledger and accuracy decisions; Git history
+    retains the pre-migration artifacts.
+  references:
+    quotations: []
+    claims:
+    - C-015
+    sources:
+    - SRC-006
+    - SRC-015
+  recommendation: retain
+  protected_quote_spans: []
+  decision: reject
+  decision_note: Migrated from completed v1 human decisions.
+  migration_references:
+  - N-008
+- id: CC-007
+  issue_types:
+  - material-uncertainty
+  - quotation
+  target:
+    chapter_id: CH-008
+    transcript:
+    - U-00785
+    - U-00862
+    current_text: 'One last thing, the most curious if you like: between the fifteenth and sixteenth centuries,
+      more or less everyone becomes convinced that in the bad old days the *ius primae noctis* existed.
+      The lords too hear this, because lordship still exists. Until the feudal regime is abolished with
+      the French Revolution, lordship exists. The lords are less powerful than before; the king has taken
+      away a good many powers and revenues from them. Nevertheless, the peasant still always has to deal
+      with the lord and pays many taxes. The lords learn that this *ius primae noctis* existed in the
+      past. That is to say: just a moment, perhaps it existed in my lordship too. My ancestors—my ancestors
+      certainly had the right. So there are two possible reactions. A scholar from the beginning of the
+      seventeenth century tells us this story. He says: I spoke with Cardinal Gerolamo della Rovere, an
+      important cardinal, from a noble family, at the end of the sixteenth century. Cardinal Gerolamo
+      della Rovere told me that this ignoble right had also existed in his family and that he himself
+      had burned the parchment that gave the Della Rovere the right of the *ius primae noctis*. Who knows
+      what was in that parchment? A marriage tax, the *culagium*; who knows what was there. The cardinal
+      took it at face value; since he was a cardinal, he burned it. In our civilized times such things
+      are no longer done. But there are also lords who are not cardinals and who have fewer scruples.
+      There are lords who perhaps quarrel often with their peasants—indeed, lords quarrel continually
+      with peasants, because it is all very well to say these are the rights, these are the obligations;
+      people do not want to pay taxes, and so they quarrel continually and go to court. Every now and
+      then it happens that a lord is summoned by a court to state what, in his view, his rights are. Beginning
+      in the fifteenth century, a few cases have been identified, five in all as far as I know: one in
+      the fifteenth century, three in the sixteenth, one at the end of the seventeenth, still under the
+      Sun King, in various godforsaken places. A local lord, summoned by a court to declare what his rights
+      and his peasants'' obligations were, said: they pay me this, they pay me that, the lamb at Easter
+      and the pig at Christmas, ten *sous* when they buy land, twenty *sous* when they move house, five
+      *sous* when a daughter marries; and those five *sous* when a daughter marries are because I would
+      have the right to sleep with her on the first night, but my ancestors agreed to commute this right,
+      and so now I... though I could always start demanding this again if my peasants do not behave themselves.
+      So, as you can see, the fantasy becomes not exactly reality, but a kind of hypothesis of what is
+      possible. There are five among the hundreds of thousands of lords who lived in Europe who quarreled
+      so much with their peasants that they went and told them: look, if you do not stop making me angry,
+      I shall bring out the *ius primae noctis*. Perhaps it would also be worth mentioning this—we are
+      almost at the end, but we still have five minutes. Marriage in Europe at the end of the Middle Ages
+      and the beginning of the modern period is not a very private matter. On the contrary, it is a very
+      public matter, and one that is also at the center of many conflicts that people accept fairly readily,
+      even though they are conflicts and can create problems. Let me give you an example of conflict.
+      A girl from the village marries someone from another town, another village. We have already said
+      that this annoys the lord and that a payment therefore has to be made. But it also annoys the other
+      young men of the village. She is one of ours and one of those others has come to take her and is
+      carrying her away. It is normal, when one of their female companions marries and goes to live in
+      another village, for the young men of the village to have the road blocked when the wedding procession
+      is about to leave. The road is blocked, all the young men of the village are there, and they tell
+      the bridegroom: if you want to take her away, buy us a drink. And ninety-nine times out of a hundred
+      the bridegroom gives in—it is understood—and buys everyone a drink. Then they remove the barrier
+      and let him pass. One time in a hundred the bridegroom is someone who has already had a little to
+      drink, becomes angry, they fight, and someone is killed. The wedding banquet—the wedding banquet
+      and then the moment of the first wedding night are also moments of this kind. The banquet: everyone
+      comes. In the novelist Falcones''s imagination, the lord happens to turn up by chance; he did not
+      know that the peasant was getting married. Just imagine. Everyone knew about these things, and the
+      lord was usually invited to the banquet, most certainly, because it is important to keep him well
+      disposed; and he too needs to keep wealthy peasants well disposed, so he goes—he will later baptize
+      their children. He goes to the banquet and is keen to go to the banquet and sit in the place of
+      honor. Every now and again there is also some lord who quarrels with the peasants because they invited
+      him but did not give him sufficiently good wine. He was supposed to drink better wine, and he has
+      the right to drink the best wine at the banquet, not the wine they give second-class guests. And
+      then, when the bride finally goes to bed with her husband, there is an endless variety of possible
+      rituals. Generally all the male guests prepare the husband and the women prepare the wife. They
+      undress them, put their nightshirts on them, play a few jokes, make a few quips, a few obscenities,
+      and then finally shut them in the room. There are lordships where the lord says: I am the one who
+      has the right to escort the bride to the bedroom, because I am the lord of this village and it must
+      be seen. In other words, there is a whole folkloric context in which obligations—yes, obligations
+      toward the community—can be woven around marriage. And it is in this context that, if scholars believe
+      there used to be a *ius primae noctis*, well, it does not take much for someone to begin believing
+      it in earnest too. After that,'
+    current_text_sha256: 167970f1bcf193efbe0e24db054b85567b743665e3cd51d2f5dd1ef4d0df4bfc
+  proposed_text: 'One last thing, the most curious if you like: between the fifteenth and sixteenth centuries,
+    more or less everyone becomes convinced that in the bad old days the *ius primae noctis* existed.
+    The lords too hear this, because lordship still exists. Until the feudal regime is abolished with
+    the French Revolution, lordship exists. The lords are less powerful than before; the king has taken
+    away a good many powers and revenues from them. Nevertheless, the peasant still always has to deal
+    with the lord and pays many taxes. The lords learn that this *ius primae noctis* existed in the past.
+    That is to say: just a moment, perhaps it existed in my lordship too. My ancestors—my ancestors certainly
+    had the right. So there are two possible reactions. A scholar from the beginning of the seventeenth
+    century tells us this story. He writes: “Such a custom formerly existed in Piedmont among pagans and
+    gentiles, and the Most Illustrious Cardinal Hieronimo della Rovere told me that he himself had burned
+    the privilege that his house possessed concerning it.” Who knows what was in that parchment? A marriage
+    tax, the *culagium*; who knows what was there. The cardinal took it at face value; since he was a
+    cardinal, he burned it. In our civilized times such things are no longer done. But there are also
+    lords who are not cardinals and who have fewer scruples. There are lords who perhaps quarrel often
+    with their peasants—indeed, lords quarrel continually with peasants, because it is all very well to
+    say these are the rights, these are the obligations; people do not want to pay taxes, and so they
+    quarrel continually and go to court. Every now and then it happens that a lord is summoned by a court
+    to state what, in his view, his rights are. Beginning in the fifteenth century, a few cases have been
+    identified, five in all as far as I know: one in the fifteenth century, three in the sixteenth, one
+    at the end of the seventeenth, still under the Sun King, in various godforsaken places. A local lord,
+    summoned by a court to declare what his rights and his peasants'' obligations were, said: they pay
+    me this, they pay me that, the lamb at Easter and the pig at Christmas, ten *sous* when they buy land,
+    twenty *sous* when they move house, five *sous* when a daughter marries; and those five *sous* when
+    a daughter marries are because I would have the right to sleep with her on the first night, but my
+    ancestors agreed to commute this right, and so now I... though I could always start demanding this
+    again if my peasants do not behave themselves. So, as you can see, the fantasy becomes not exactly
+    reality, but a kind of hypothesis of what is possible. There are five among the hundreds of thousands
+    of lords who lived in Europe who quarreled so much with their peasants that they went and told them:
+    look, if you do not stop making me angry, I shall bring out the *ius primae noctis*. Perhaps it would
+    also be worth mentioning this—we are almost at the end, but we still have five minutes. Marriage in
+    Europe at the end of the Middle Ages and the beginning of the modern period is not a very private
+    matter. On the contrary, it is a very public matter, and one that is also at the center of many conflicts
+    that people accept fairly readily, even though they are conflicts and can create problems. Let me
+    give you an example of conflict. A girl from the village marries someone from another town, another
+    village. We have already said that this annoys the lord and that a payment therefore has to be made.
+    But it also annoys the other young men of the village. She is one of ours and one of those others
+    has come to take her and is carrying her away. It is normal, when one of their female companions marries
+    and goes to live in another village, for the young men of the village to have the road blocked when
+    the wedding procession is about to leave. The road is blocked, all the young men of the village are
+    there, and they tell the bridegroom: if you want to take her away, buy us a drink. And ninety-nine
+    times out of a hundred the bridegroom gives in—it is understood—and buys everyone a drink. Then they
+    remove the barrier and let him pass. One time in a hundred the bridegroom is someone who has already
+    had a little to drink, becomes angry, they fight, and someone is killed. The wedding banquet—the wedding
+    banquet and then the moment of the first wedding night are also moments of this kind. The banquet:
+    everyone comes. In the novelist Falcones''s imagination, the lord happens to turn up by chance; he
+    did not know that the peasant was getting married. Just imagine. Everyone knew about these things,
+    and the lord was usually invited to the banquet, most certainly, because it is important to keep him
+    well disposed; and he too needs to keep wealthy peasants well disposed, so he goes—he will later baptize
+    their children. He goes to the banquet and is keen to go to the banquet and sit in the place of honor.
+    Every now and again there is also some lord who quarrels with the peasants because they invited him
+    but did not give him sufficiently good wine. He was supposed to drink better wine, and he has the
+    right to drink the best wine at the banquet, not the wine they give second-class guests. And then,
+    when the bride finally goes to bed with her husband, there is an endless variety of possible rituals.
+    Generally all the male guests prepare the husband and the women prepare the wife. They undress them,
+    put their nightshirts on them, play a few jokes, make a few quips, a few obscenities, and then finally
+    shut them in the room. There are lordships where the lord says: I am the one who has the right to
+    escort the bride to the bedroom, because I am the lord of this village and it must be seen. In other
+    words, there is a whole folkloric context in which obligations—yes, obligations toward the community—can
+    be woven around marriage. And it is in this context that, if scholars believe there used to be a *ius
+    primae noctis*, well, it does not take much for someone to begin believing it in earnest too. After
+    that,'
+  reason: Migrate the already reviewed quotation and accuracy treatment.
+  evidence_summary: Derived from the completed v1 quotation ledger and accuracy decisions; Git history
+    retains the pre-migration artifacts.
+  references:
+    quotations:
+    - Q-012
+    - Q-013
+    claims:
+    - C-016
+    sources:
+    - SRC-006
+    - SRC-013
+    - SRC-017
+    - SRC-022
+  recommendation: apply
+  protected_quote_spans:
+  - Such a custom formerly existed in Piedmont among pagans and gentiles, and the Most Illustrious Cardinal
+    Hieronimo della Rovere told me that he himself had burned the privilege that his house possessed concerning
+    it.
+  decision: accept
+  decision_note: Migrated from completed v1 human decisions.
+  migration_references:
+  - N-009
+- id: CC-008
+  issue_types:
+  - quotation
+  target:
+    chapter_id: CH-009
+    transcript:
+    - U-00863
+    - U-00913
+    current_text: 'let us conclude. The *ius primae noctis* is an extraordinary fantasy that the Middle
+      Ages created, which arose at the end of the Middle Ages, and in which people believed so strongly
+      that there was almost a risk that someone would want to put it into practice for real, although
+      there is no indication that this ever really happened. In reality it is a fantasy; it never existed.
+      Does that mean the lord did not sometimes sleep with the village girl? No, it does not mean that.
+      The lord slept with the village girl, by fair means or foul. These are things that happen in every
+      unequal society. But there is an immense difference between a society in which it happens that the
+      rich man takes advantage and sleeps with the poor girl, and imagining instead—which is true madness—a
+      society where this is a right to which everyone must resign themselves because the law says so.
+      To say that the lord slept with the village girls is like saying that in the nineteenth century—that
+      in the nineteenth century the owner of the spinning mill or his son sometimes slept with a female
+      worker. It is as if the owner of the spinning mill sometimes slept with the female worker. There
+      were a thousand reasons why this could happen, but obviously no one would have dreamed of saying
+      it was a right. To speak of it as a law means wanting to invent a past. And so I would close with
+      a passage that I find extraordinary, which speaks precisely of the invention of the past. It is
+      taken from Orwell''s novel *1984*. At one point in Orwell''s novel it discusses how, under Big Brother''s
+      regime, the past was reinvented for the people. In the past, the people are taught, there were evil
+      creatures called capitalists, and the capitalists oppressed the people in every way, with every
+      kind of abuse and oppression. I quote verbatim: there was also something called the *ius primae
+      noctis*, which probably ought not to be mentioned in schoolbooks for children. It was the law under
+      which every capitalist had the right to sleep with every woman who worked in his factories. There.
+      I find this fantastic because Orwell has identified the mechanism exactly. Something that can happen
+      in reality, and is an act of violence and an effect of social relations, is imagined to have been
+      a law. Because imagining a society in which such a thing could be a law means imagining a society
+      truly alien and totally barbaric in relation to our values. And so, precisely, when we want to rewrite
+      the past and imagine it, and be pleased that we live in a much better world than the past, the *ius
+      primae noctis* is perfect for furnishing that past. Thank you.'
+    current_text_sha256: 283dcbad6223a67923d70a11c594842b893bbafe732cf505b0c318072c66fd2b
+  proposed_text: 'let us conclude. The *ius primae noctis* is an extraordinary fantasy that the Middle
+    Ages created, which arose at the end of the Middle Ages, and in which people believed so strongly
+    that there was almost a risk that someone would want to put it into practice for real, although there
+    is no indication that this ever really happened. In reality it is a fantasy; it never existed. Does
+    that mean the lord did not sometimes sleep with the village girl? No, it does not mean that. The lord
+    slept with the village girl, by fair means or foul. These are things that happen in every unequal
+    society. But there is an immense difference between a society in which it happens that the rich man
+    takes advantage and sleeps with the poor girl, and imagining instead—which is true madness—a society
+    where this is a right to which everyone must resign themselves because the law says so. To say that
+    the lord slept with the village girls is like saying that in the nineteenth century—that in the nineteenth
+    century the owner of the spinning mill or his son sometimes slept with a female worker. It is as if
+    the owner of the spinning mill sometimes slept with the female worker. There were a thousand reasons
+    why this could happen, but obviously no one would have dreamed of saying it was a right. To speak
+    of it as a law means wanting to invent a past. And so I would close with a passage that I find extraordinary,
+    which speaks precisely of the invention of the past. It is taken from Orwell''s novel *1984*. At one
+    point in Orwell''s novel it discusses how, under Big Brother''s regime, the past was reinvented for
+    the people. In the past, the people are taught, there were evil creatures called capitalists, and
+    the capitalists oppressed the people in every way, with every kind of abuse and oppression. I quote
+    verbatim: there was also something called the *ius primae noctis*, which probably ought not to be
+    mentioned in schoolbooks for children. It was the law by which every capitalist had the right to sleep
+    with any woman working in one of his factories. There. I find this fantastic because Orwell has identified
+    the mechanism exactly. Something that can happen in reality, and is an act of violence and an effect
+    of social relations, is imagined to have been a law. Because imagining a society in which such a thing
+    could be a law means imagining a society truly alien and totally barbaric in relation to our values.
+    And so, precisely, when we want to rewrite the past and imagine it, and be pleased that we live in
+    a much better world than the past, the *ius primae noctis* is perfect for furnishing that past. Thank
+    you.'
+  reason: Migrate the already reviewed quotation and accuracy treatment.
+  evidence_summary: Derived from the completed v1 quotation ledger and accuracy decisions; Git history
+    retains the pre-migration artifacts.
+  references:
+    quotations:
+    - Q-014
+    claims: []
+    sources:
+    - SRC-016
+  recommendation: apply
+  protected_quote_spans:
+  - It was the law by which every capitalist had the right to sleep with any woman working in one of his
+    factories.
+  decision: accept
+  decision_note: Migrated from completed v1 human decisions.
+  migration_references: []

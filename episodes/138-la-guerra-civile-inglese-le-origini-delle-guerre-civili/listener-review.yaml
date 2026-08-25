@@ -1,0 +1,275 @@
+schema_version: 1
+base_script:
+  path: script.spoken.en.md
+  sha256: a6a91cf844dabe5506c4046eb4209f09636f54cc615d70d527b1abaca3721f04
+episode_assessment:
+  must_understand:
+  - Religious and constitutional conflict made Charles I's rule ungovernable.
+  - Fear of social revolution fractured the coalition that had resisted the king.
+  must_remember:
+  - The execution scaffold frames the story.
+  - The Scottish crisis forced Charles to recall Parliament.
+  experience:
+  - Escalation from court remoteness to civil war and the return to execution.
+  argument_or_narrative_spine: A reform coalition defeats arbitrary rule, then splits when political reform
+    appears to threaten social order.
+  strengths_to_preserve:
+  - Execution opening and closing return
+  - soap-monopoly scene
+  - Scottish crowd
+  - Strafford trial
+  - social-revolution argument
+recommendations:
+- id: ER-001
+  issue_type: title-accessibility
+  listener_need: remember
+  severity: recommended
+  outline_sections:
+  - 1
+  target:
+    kind: title
+    current_text: null
+    current_text_sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  proposed_text: 'Civil Wars: England 1642'
+  reason: Lead with an English description and keep specialized wording secondary.
+  preserves:
+  - immutable Italian source title
+  quotation_refs: []
+  decision: accept
+  decision_note: null
+- id: ER-002
+  issue_type: lecture-residue
+  listener_need: experience
+  severity: recommended
+  outline_sections:
+  - 1
+  target:
+    kind: script
+    chapter_id: CH-001
+    current_text: |-
+      All right, that’s enough. Will you let me speak? No, really, everyone, thank you—but don’t you think expectations may be running a little high? Also because, you see, this year the theme is
+      origins, and I said to myself, well, how hard can it be? A few years ago we did how wars break
+      out, and it turned out well, I think, and this year we’ll do civil wars; it will be more or
+      less the same thing. It is not more or less the same thing, because explaining how wars break
+      out—well, all right, human history: that two countries should have conflicting interests and
+      not like each other very much, indeed not at all, and that eventually they decide to settle their issues through war is hardly surprising. It isn’t that difficult to
+      explain how it happens. Explaining how it happens that a country where people speak the same
+      language and have the same traditions suddenly splits, to such a degree that a civil war breaks
+      out—well, that is much more complicated to explain. So you’ve paid for a ticket
+      to a lecture that will be very demanding, longer than usual and more complex than usual. Right now you think that’s what you want. We’ll see. 
+    current_text_sha256: a0885fb331cf8230cecb8c2f8a1efc30b1f1044167eb562dcfab6603ad578980
+  proposed_text: >-
+    How does a country where people speak the same language and share the same traditions split so
+    completely that civil war breaks out? That is much harder to explain than a war between rival
+    states. This episode begins our civil-war series.
+  reason: Replace the live applause and festival preamble with the central question that drives the episode.
+  preserves:
+  - the distinction between war and civil war
+  - the civil-war series framing
+  quotation_refs: []
+  decision: accept
+  decision_note: null
+- id: ER-003
+  issue_type: lecture-residue
+  listener_need: understand
+  severity: recommended
+  outline_sections:
+  - 1
+  target:
+    kind: script
+    chapter_id: CH-001
+    current_text: 'In any case, tonight we are talking about
+
+      perhaps the least known of the three civil wars that we will cover in these three stages:
+
+      the English Civil War of the seventeenth century.'
+    current_text_sha256: 05edb3add4d8fa4e588421440bf42b2c5aca55f922acb81e3e1efa64dca29ad1
+  proposed_text: The subject is seventeenth-century England, perhaps the least known of the civil wars in this series.
+  reason: Name the episode's subject directly while retaining the series connection.
+  preserves:
+  - the immediate turn to the execution scaffold
+  quotation_refs: []
+  decision: accept
+  decision_note: actually keep the series
+- id: ER-004
+  issue_type: lecture-residue
+  listener_need: experience
+  severity: recommended
+  outline_sections:
+  - 7
+  target:
+    kind: script
+    chapter_id: CH-007
+    current_text: 'I hesitated for a long time over whether to give this example because,
+
+      as I told you, tonight’s lecture will be rather long. Then I decided to give it anyway, because
+
+      one does not imagine that such things could happen in a seventeenth-century kingdom.'
+    current_text_sha256: f8c290ad39e607f30f815bcfbff0bfa63ea08275484814365739829168f8045d
+  proposed_text: Here is one example, because it is hard to imagine such a thing happening in a seventeenth-century
+    kingdom.
+  reason: Keep the memorable soap-monopoly scene but remove obsolete lecture-length commentary.
+  preserves:
+  - the soap-monopoly scene
+  - Barbero's incredulity
+  quotation_refs: []
+  decision: accept
+  decision_note: null
+- id: ER-005
+  issue_type: orientation
+  listener_need: understand
+  severity: recommended
+  outline_sections:
+  - 9
+  target:
+    kind: script
+    chapter_id: CH-009
+    current_text: 'It is a spark struck in the other kingdom of which Charles is king, Scotland. In the
+      Kingdom of
+
+      Scotland too. But Scotland is Calvinist.'
+    current_text_sha256: 6564485476649cfdf265058b3bb4ac0626e4be5df5d50b37921d2036ab5f9cab
+  proposed_text: 'The spark that turns the English crisis into a war begins in Charles’s other kingdom:
+    Scotland. Scotland is Calvinist.'
+  reason: Reset the causal chain before the Scottish crisis and state why this theater matters.
+  preserves:
+  - Scotland as the trigger
+  - the religious contrast
+  quotation_refs: []
+  decision: accept
+  decision_note: null
+- id: ER-006
+  issue_type: lecture-residue
+  listener_need: remember
+  severity: recommended
+  outline_sections:
+  - 10
+  target:
+    kind: script
+    chapter_id: CH-010
+    current_text: 'Another who insists is someone I have not yet mentioned but whom, in this
+
+      last half hour—no, God willing, in these final fifteen or twenty minutes—we’ll mention again, because
+      he is the protagonist of a dramatic episode: the Earl of Strafford, governor of
+
+      Ireland, one of the king’s chief and most trusted advisers.'
+    current_text_sha256: f555db0b1d921849584634c65242069ee72dcb4703fdedf7c1705e2afd9d38f4
+  proposed_text: Another is the Earl of Strafford, governor of Ireland and one of the king’s 
+    most trusted advisers. He will become the protagonist of a dramatic episode.
+  reason: Introduce Strafford by role and future importance without the live running-time callback.
+  preserves:
+  - Strafford's later dramatic role
+  quotation_refs: []
+  decision: accept
+  decision_note: null
+- id: ER-007
+  issue_type: proper-name-hierarchy
+  listener_need: remember
+  severity: recommended
+  outline_sections:
+  - 12
+  target:
+    kind: script
+    chapter_id: CH-012
+    current_text: 'Meanwhile, remember William Prynne,
+
+      the Puritan printer whose ears were cut off, cheeks branded, and who was imprisoned for
+
+      life?'
+    current_text_sha256: 0a34456701886a6f0c2812aae22ea543c8837e3e2771fe31f049b48cf2a3df43
+  proposed_text: Meanwhile William Prynne returns—the Puritan printer whose ears were cut off, whose cheeks
+    were branded, and who was imprisoned for life.
+  reason: Reintroduce Prynne through the scene the listener is most likely to remember.
+  preserves:
+  - Prynne's identity
+  - the later reversal involving Laud
+  quotation_refs: []
+  decision: reject
+  decision_note: null
+- id: ER-008
+  issue_type: quotation-audio
+  listener_need: understand
+  severity: recommended
+  outline_sections:
+  - 11
+  target:
+    kind: script
+    chapter_id: CH-011
+    current_text: |-
+      So the chancellor speaks
+      for him, saying: “My lords, and you, the knights, citizens, and burgesses of the House of
+      Commons: I doubt not but you rejoice at this day’s meeting ...; and good reason you have so
+      to do, and with all humbleness of heart to acknowledge the great goodness of his majesty who,
+      sequestering the memory of all former discouragements in preceding assemblies, is now, out of
+      a fatherly affection to his people and a confidence that they will not be failing in their
+      duty to him, pleased graciously to invite you and all his loving subjects to a sacred unity
+      of hearts and affection in the service of him and of the commonwealth.”
+    current_text_sha256: 30fbe0c42f1cff47adf64410800bd3293adad61c7aa5ad540f12c6dec3c12709
+  proposed_text: >-
+    So the chancellor speaks for him. He praises the king for setting aside earlier clashes and
+    summoning Parliament out of “a fatherly affection to his people,” and calls for “a sacred unity
+    of hearts and affection in the service of him and of the commonwealth.”
+  reason: Shorten Q-014 while preserving its paternal appeal and call for political unity.
+  preserves:
+  - the king's appeal
+  - exact surviving source words
+  quotation_refs:
+  - Q-014
+  decision: accept
+  decision_note: null
+  quotation_treatment: excerpt-with-paraphrase
+- id: ER-009
+  issue_type: quotation-audio
+  listener_need: understand
+  severity: recommended
+  outline_sections:
+  - 13
+  target:
+    kind: script
+    chapter_id: CH-013
+    current_text: |-
+      He lets Parliament know that if this continues—and here I
+      quote—“... at last the common people (who in the mean time must be flattered, and to whom
+      license must be given in all their wild humours, how contrary soever to established law, or
+      their own real good) discover this arcanum imperii, that all this was done by them, but not
+      for them, grow weary of journey-work, and set up for themselves, call parity and independence
+      liberty, devour that estate which had devoured the rest; destroy all rights and properties,
+      all distinctions of families and merit; and by this means this splendid and excellently
+      distinguished form of government end in a dark equal chaos of confusion, and the long line of
+      our many noble ancestors in a Jack Cade, or a Wat Tyler.”
+    current_text_sha256: 9ab69b72cf80cae36146238e800df48cd0b45154cc5a6ac2f822310d21f22ac7
+  proposed_text: >-
+    He warns Parliament that once common people realize the reforms were done by them but not for
+    them, they may “set up for themselves, call parity and independence liberty” destroy “all rights and properties, all distinctions of families and merit” and reduce
+    government to “a dark equal chaos of confusion.”
+  reason: Shorten Q-017 while preserving its fear that popular mobilization will destroy property and hierarchy.
+  preserves:
+  - fear of popular revolution
+  - exact surviving source words
+  quotation_refs:
+  - Q-017
+  decision: accept
+  decision_note: null
+  quotation_treatment: excerpt-with-paraphrase
+- id: ER-010
+  issue_type: spine
+  listener_need: remember
+  severity: recommended
+  outline_sections:
+  - 13
+  target:
+    kind: script
+    chapter_id: CH-013
+    current_text: 'Thus war begins, amid a thousand fears, because everyone wants victory but
+
+      fears a social revolution, which nobody wants.'
+    current_text_sha256: 71383ec74cb7406e0a60737a52fbaa2d8b4195c4e7ff279fec7f597b2242706b
+  proposed_text: 'Thus war begins amid a thousand fears: everyone wants victory, but fear of social revolution
+    now fractures the reform coalition.'
+  reason: Make explicit the argument that fear of social revolution divides the king's opponents.
+  preserves:
+  - Barbero's causal claim
+  - the coalition fracture
+  quotation_refs: []
+  decision: accept
+  decision_note: null
