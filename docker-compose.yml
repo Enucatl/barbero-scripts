@@ -4,12 +4,16 @@ services:
       file: ../compose-security-baseline/hardening.yml
       service: hardened-small
     image: caddy:2.10.2-alpine
-    cap_add: [NET_BIND_SERVICE]
+    cap_add:
+      - NET_BIND_SERVICE
     volumes:
       - ./Caddyfile:/etc/caddy/Caddyfile:ro
       - /scratch/archive/barbero-english/published:/srv/published:ro
-    networks: [podcast_internal]
-    tmpfs: [/config, /data]
+    networks:
+      - podcast_internal
+    tmpfs:
+      - /config
+      - /data
 
   cloudflared:
     extends:
@@ -20,9 +24,13 @@ services:
     environment:
       TUNNEL_TOKEN_FILE: /run/secrets/cloudflare_tunnel_token
     command: tunnel --no-autoupdate run
-    secrets: [cloudflare_tunnel_token]
-    networks: [podcast_internal, internet]
-    depends_on: [caddy]
+    secrets:
+      - cloudflare_tunnel_token
+    networks:
+      - podcast_internal
+      - internet
+    depends_on:
+      - caddy
 
 secrets:
   cloudflare_tunnel_token:
