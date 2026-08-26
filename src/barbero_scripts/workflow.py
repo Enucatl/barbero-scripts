@@ -499,10 +499,9 @@ def apply_listener_review(directory: Path) -> None:
         target = item.get("target", {})
         if target.get("kind") != "title" or item.get("decision") != "accept":
             continue
-        if (
-            target.get("current_text") != metadata.get("audience_title")
-            and item.get("proposed_text") != metadata.get("audience_title")
-        ):
+        if target.get("current_text") != metadata.get("audience_title") and item.get(
+            "proposed_text"
+        ) != metadata.get("audience_title"):
             errors.append(f"{item.get('id')} title target is stale")
     if errors:
         raise ValueError("; ".join(errors))
