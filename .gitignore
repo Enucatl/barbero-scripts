@@ -11,3 +11,4 @@ cloudflare-terraform/*.tfvars
 cloudflare-terraform/.terraform/
 cloudflare-terraform/*.tfstate*
 secrets/
+.env
