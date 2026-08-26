@@ -1,11 +1,9 @@
 services:
   caddy:
+    extends:
+      file: ../compose-security-baseline/hardening.yml
+      service: hardened-small
     image: caddy:2.10.2-alpine
-    restart: unless-stopped
-    read_only: true
-    cap_drop: [ALL]
-    cap_add: [NET_BIND_SERVICE]
-    security_opt: [no-new-privileges:true]
     volumes:
       - ./Caddyfile:/etc/caddy/Caddyfile:ro
       - /scratch/archive/barbero-english/published:/srv/published:ro
@@ -13,12 +11,11 @@ services:
     tmpfs: [/config, /data]
 
   cloudflared:
+    extends:
+      file: ../compose-security-baseline/hardening.yml
+      service: hardened-small
     image: cloudflare/cloudflared:2025.8.0
-    restart: unless-stopped
-    read_only: true
     user: "0:0"
-    cap_drop: [ALL]
-    security_opt: [no-new-privileges:true]
     environment:
       TUNNEL_TOKEN_FILE: /run/secrets/cloudflare_tunnel_token
     command: tunnel --no-autoupdate run
