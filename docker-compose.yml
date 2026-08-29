@@ -19,7 +19,7 @@ services:
     extends:
       file: ../compose-security-baseline/hardening.yml
       service: hardened-small
-    image: cloudflare/cloudflared:2025.8.0
+    image: cloudflare/cloudflared:latest
     user: "0:0"
     environment:
       TUNNEL_TOKEN_FILE: /run/secrets/cloudflare_tunnel_token
