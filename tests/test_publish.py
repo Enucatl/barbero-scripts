@@ -9,6 +9,7 @@ from xml.etree import ElementTree as ET
 import pytest
 import yaml
 
+import barbero_scripts.publish as publish_module
 from barbero_scripts.publish import discover_episodes, markdown_html, publish_preview, stable_guid
 
 
@@ -169,3 +170,51 @@ def test_publish_generates_valid_feed_and_media(tmp_path: Path) -> None:
     assert (destination / "episodes/001-a-b-test/research/C-1-note.html").is_file()
     transcript = (destination / "episodes/001-a-b-test/transcript.html").read_text()
     assert "<!-- U-1 -->" in transcript
+
+
+def test_publish_reuses_media_when_source_is_unchanged(tmp_path: Path, monkeypatch) -> None:
+    config, episodes, audio, token = write_fixture(tmp_path)
+    destination = publish_preview(config, episodes, audio, tmp_path / "published", token)
+    media = next((destination / "media").glob("*.mp3"))
+
+    def fail_if_called(*args, **kwargs):
+        raise AssertionError("unchanged media should not be re-encoded")
+
+    monkeypatch.setattr(publish_module.subprocess, "run", fail_if_called)
+    rebuilt = publish_preview(config, episodes, audio, tmp_path / "published", token)
+
+    rebuilt_media = next((rebuilt / "media").glob("*.mp3"))
+    assert rebuilt_media.name == media.name
+    assert rebuilt_media.read_bytes() == media.read_bytes()
+
+
+def test_encode_reencodes_when_source_digest_changes(tmp_path: Path, monkeypatch) -> None:
+    _, episodes, audio, _ = write_fixture(tmp_path)
+    episode = discover_episodes(episodes, audio)[0]
+    previous_media = tmp_path / "previous"
+    previous_media.mkdir()
+    (previous_media / "old.mp3").write_bytes(b"old")
+    (tmp_path / "media").mkdir()
+    calls = []
+
+    def fake_run(command, **kwargs):
+        calls.append(command)
+        Path(command[-1]).write_bytes(b"new")
+
+    monkeypatch.setattr(publish_module, "_probe", lambda path: (1, 1))
+    monkeypatch.setattr(publish_module.subprocess, "run", fake_run)
+    encoded = publish_module._encode(
+        episode,
+        tmp_path / "media",
+        previous_media,
+        {
+            episode.slug: {
+                "source_sha256": "stale",
+                "media_name": "old.mp3",
+                "duration_seconds": 1,
+            }
+        },
+    )
+
+    assert encoded.media_name.endswith(".mp3")
+    assert calls and calls[0][0] == "ffmpeg"

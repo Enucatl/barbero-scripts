@@ -17,6 +17,8 @@ import markdown
 import yaml
 from jinja2 import Environment, PackageLoader, select_autoescape
 
+from .util import file_hash
+
 GUID_NAMESPACE = uuid.UUID("42ada609-8ab7-5ec5-9766-bfc59ab43d17")
 TOKEN_PATTERN = re.compile(r"[A-Za-z0-9_-]{16,128}")
 
@@ -129,7 +131,34 @@ def _probe(path: Path) -> tuple[int, int]:
     return int(payload["streams"][0]["channels"]), round(float(payload["format"]["duration"]))
 
 
-def _encode(episode: PublishedEpisode, media_dir: Path) -> PublishedEpisode:
+def _encode(
+    episode: PublishedEpisode,
+    media_dir: Path,
+    previous_media_dir: Path | None = None,
+    previous_manifest: dict[str, Any] | None = None,
+) -> PublishedEpisode:
+    source_digest = file_hash(episode.source)
+    previous = (previous_manifest or {}).get(episode.slug, {})
+    previous_name = previous.get("media_name")
+    previous_duration = previous.get("duration_seconds")
+    if (
+        previous_media_dir is not None
+        and previous.get("source_sha256") == source_digest
+        and isinstance(previous_name, str)
+        and isinstance(previous_duration, int)
+        and (previous_media_dir / previous_name).is_file()
+    ):
+        destination = media_dir / previous_name
+        shutil.copy2(previous_media_dir / previous_name, destination)
+        return PublishedEpisode(
+            **{
+                **episode.__dict__,
+                "media_name": destination.name,
+                "media_bytes": destination.stat().st_size,
+                "duration_seconds": previous_duration,
+            }
+        )
+
     channels, _ = _probe(episode.source)
     bitrate = "96k" if channels == 1 else "160k"
     temporary = media_dir / f".{episode.slug}.mp3"
@@ -163,6 +192,25 @@ def _encode(episode: PublishedEpisode, media_dir: Path) -> PublishedEpisode:
             "duration_seconds": duration,
         }
     )
+
+
+def _media_manifest(episodes: list[PublishedEpisode]) -> dict[str, dict[str, Any]]:
+    return {
+        episode.slug: {
+            "source_sha256": file_hash(episode.source),
+            "media_name": episode.media_name,
+            "duration_seconds": episode.duration_seconds,
+        }
+        for episode in episodes
+    }
+
+
+def _read_media_manifest(path: Path) -> dict[str, Any]:
+    try:
+        value = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    return value if isinstance(value, dict) else {}
 
 
 def markdown_html(path: Path) -> str:
@@ -273,10 +321,15 @@ def publish_preview(
         raise ValueError(f"missing artwork {artwork}")
     destination = output_root / token
     staging = output_root / f".{token}-{uuid.uuid4().hex}"
+    previous_media_dir = destination / "media" if destination.is_dir() else None
+    previous_manifest = _read_media_manifest(destination / "media-manifest.json")
     try:
         (staging / "media").mkdir(parents=True)
         shutil.copy2(artwork, staging / "cover.png")
-        encoded = [_encode(episode, staging / "media") for episode in episodes]
+        encoded = [
+            _encode(episode, staging / "media", previous_media_dir, previous_manifest)
+            for episode in episodes
+        ]
         base_url = f"https://{config['hostname']}/{token}"
         environment = Environment(
             loader=PackageLoader("barbero_scripts"), autoescape=select_autoescape()
@@ -317,6 +370,9 @@ def publish_preview(
                     encoding="utf-8",
                 )
         (staging / "feed.xml").write_bytes(_rss(config, encoded, base_url))
+        (staging / "media-manifest.json").write_text(
+            json.dumps(_media_manifest(encoded), indent=2) + "\n", encoding="utf-8"
+        )
         (staging / "robots.txt").write_text("User-agent: *\nDisallow: /\n", encoding="utf-8")
         output_root.mkdir(parents=True, exist_ok=True)
         previous = output_root / f".{token}-previous"
