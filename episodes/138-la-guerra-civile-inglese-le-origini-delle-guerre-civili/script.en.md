@@ -1,4 +1,4 @@
-# Civil Wars: England 1642
+# How Civil Wars Begin: The English Civil War
 
 ## 1. Charles I's Execution and the Civil War Question
 
@@ -12,9 +12,10 @@ Let us begin at the end. We are in London,
 it is 30 January 1649, and a scaffold has been erected in the center of London, at Whitehall. It
 is intended for the King of England and Scotland, Charles I, who is led there on foot from his
 palace of St James’s, which is just a stone’s throw away. On the scaffold he is allowed to
-make one final speech. The king declares: “And truly I desire their [the people's]
-Liberty and Freedom, but I must tell you, That their Liberty
-and their Freedom consists in having of Government. It is not for having share in Government; that is nothing
+make one final speech. The king declares: “And truly I desire their
+Liberty and Freedom, as much as any Body whomsoever; but I must tell you, That their Liberty
+and their Freedom consists in having of Government; those Laws, by which their Life and their
+Goods, may be most their own. It is not for having share in Government (Sir) that is nothing
 pertaining to them.”
 
 It is two in the afternoon when the king places his head on the block,
@@ -54,7 +55,7 @@ Charles I lets slip, that he is the happiest king in Christendom. In reality
 that happiness is illusory and discontent is brewing in England, but the king has not the slightest suspicion of it. He has no idea because the lifestyle of a
 king of that period separates him completely from his people. Court etiquette seems designed
 expressly to isolate the king from the country and make him live in an unreal world. All courts of the period have extremely rigid etiquette that transforms the king’s daily existence into
-a kind of reality show. The English court, though, is perhaps the most formal in Europe. The King
+a kind of spectacle. The English court, though, is perhaps the most formal in Europe. The King
 of England is the only king in Europe who is served at table by courtiers, nobles, on their
 knees. And ordinary people have no contact with the king. Of course, the king always lives in public, always under somebody’s eyes, but those people are the courtiers. Ordinary people
 never see him, never meet him, except on two occasions, twice a year. There: twice a year
@@ -157,8 +158,8 @@ question the obligation to obey the authorities. As one of the great thinkers of
 seventeenth century, Hobbes—Thomas Hobbes, who has no sympathy at all for any of this—says,
 and I quote Hobbes: “For after the Bible was translated into English, every man, nay, every
 boy and wench, that could read English, thought they spoke with God Almighty, and understood
-what he said, when they had read the Scriptures once or
-twice.” Hobbes, of course, will side with the king during the Civil War and will be
+what he said, when by a certain number of chapters a day they had read the Scriptures once or
+twice over.” Hobbes, of course, will side with the king during the Civil War and will be
 forced to flee abroad.
 
 <!-- content-correction: CC-004 -->
@@ -411,7 +412,7 @@ At last a gentleman does everything he can to be put on trial so as
 to bring the matter to a head. This gentleman is tried in London before the kingdom’s supreme
 court for inciting his dependants not to pay, and the judges of the supreme court split. Half
 say, remember what King James used to say: the king is above the law. They, who know Latin,
-put it this way, in Anglo-Latin: “it is common
+put it this way, in Anglo-Latin: “I never read nor heard that Lex was Rex; but it is common
 and most true that Rex is Lex, for he is a living, a speaking, an acting law.” And so he can
 do whatever he likes. But some of the judges, appointed by the king—some of the judges say
 no, that is not true, the king cannot go that far. Because if we were to admit that the king
@@ -559,7 +560,7 @@ Without Parliament there is no money. Charles is in such difficulty that he even
 Pope to ask for a loan from Italy. He confiscates deposits London merchants keep in the Royal
 Mint; you can imagine how popular that makes him. The City of London has had enough. When the king asks
 the City merchants for loans, they refuse. The king—the procedures are these—has the London
-city councillors arrested and threatens to hang them unless the money appears. But the money does not appear,
+aldermen arrested and threatens to hang them unless the money appears. But the money does not appear,
 and recruitment goes terribly. The wildest rumours spread: the recruits will supposedly be put
 aboard ships on the pretext of landing in Scotland, but actually sold as slaves in America. The
 result? The king cannot assemble a real army. Meanwhile the Scots do, and on 20 August 1640 they
@@ -600,8 +601,11 @@ Parliament. The election campaign’s Puritan slogan against royal candidates is
 these godless courtiers, these papist priests. Poorer voters—craftsmen and shopkeepers who
 usually merely make up the numbers and vote as the local gentleman tells them—participate with
 unusual commitment. This time radicals seek election on protest programs. As a lord who will
-nevertheless side with Parliament says, “... yet I shall not easily suffer myself to appear in any popular assemblies where fellows without
-shirts challenge as good a voice as myself” Puritan preachers
+nevertheless side with Parliament says, “... yet I shall not easily suffer myself hereafter
+upon the provocations of others to appear in any popular assemblies where fellows without
+shirts challenge as good a voice as myself, neither will I for any respect absent myself from
+any assembly, how great soever, whither my duty to the service of my King and country doth call
+me; where they shall know and (if they desire) shall feel my authority.” Puritan preachers
 fan the flames and appeal to the people: “You that are of the meaner rank, common people,
 be not discouraged, for God intends to make use of the common people in the great work of
 proclaiming the kingdom of his dear Son.”
@@ -703,22 +707,24 @@ than Parliamentarians. This is generally explained by saying that Charles’s ab
 
 Thus war begins amid a thousand fears: everyone wants victory, but fear of social revolution now fractures the reform coalition.
 <!-- editorial-recommendation: ER-010 --> As an anti-royalist member writes: “And there
-is no doubt that all right and property, must cease in a civil war, and we
-know not what advantage the meaner sort also may take, who begin already to allege that there is no reason that
+is no doubt that all right and property, all meum et tuum, must cease in a civil war, and we
+know not what advantage the meaner sort also may take to divide the spoils of the rich and noble
+amongst them, who begin already to allege that all being of one mould there is no reason that
 some should have so much and others so little.”
 
 Parliament will win after six long years,
-and the rabble will gain nothing. Six years of Civil War end where we began this episode, with the
+and the rabble will gain nothing. Six years of Civil War end where we began tonight, with the
 king’s beheading at Whitehall. Laud precedes him by four years. Tried for treason in ’45,
 he is prosecuted by none other than William Prynne, the man whose ears he had cut off. Prynne,
 appointed public prosecutor by the Commons, does everything to convict the archbishop: rummages
 through his papers, reads his diary, bribes witnesses. He cannot secure a conviction. No problem:
-Parliament passes an act declaring the archbishop an enemy of the people and sentencing him
+Parliament passes an act declaring the archbishop an enemy of the people and condemning him
 to death. He is beheaded four years before his king.
 
 The people’s covenant, as the Scottish
 poet called it, and social revolution will not happen. The idea that all men are equal remains
-confined to a few extremists’ sermons. Some people do try. The Levellers seek political and legal equality; the Diggers seek common ownership. [N-007] They soon discover that Parliament’s army is entirely ready to suppress by
-shooting and bloodshed those who have not understood that there comes a point when they have to stop.
+confined to a few extremists’ sermons. Some people do try. The Levellers seek political and legal equality while generally defending private property; economic levelling and common ownership are associated more closely with the Diggers, or True Levellers. [N-007] They soon discover that Parliament’s army is entirely ready to suppress by
+shooting and bloodshed those who have not understood that there comes a point when they have to stop. But
+of course this is neither the first time, nor will it be the last. Thank you. Thank you all. I’ll see you in the next episode. Thank you, Professor. As we were saying.
 
 <!-- content-correction: CC-012 -->

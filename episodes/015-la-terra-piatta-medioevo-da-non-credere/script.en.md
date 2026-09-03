@@ -1,4 +1,4 @@
-# The Flat Earth: An Unbelievable Middle Ages — tense-reviewed English script
+# Unbelievable Middle Ages: Flat Earth
 
 ## 1. The modern myth of a flat medieval Earth
 

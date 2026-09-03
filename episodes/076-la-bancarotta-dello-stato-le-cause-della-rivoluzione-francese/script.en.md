@@ -1,4 +1,4 @@
-# La bancarotta dello stato: le cause della Rivoluzione Francese — corrected English script
+# France Goes Bankrupt: The Road to Revolution
 
 ## 1. Scope and financial thesis
 

@@ -1,4 +1,4 @@
-# Dr. Sorge in Tokyo: A Spy Ring — corrected English translation
+# A Network of Spies: Dr. Sorge in Tokyo
 
 ## 1. The crisis inside the Japanese army and the hidden journalist
 

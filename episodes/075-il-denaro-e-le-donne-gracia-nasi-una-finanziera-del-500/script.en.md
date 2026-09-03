@@ -1,4 +1,4 @@
-# Money and Women: Gracia Nasi, a Sixteenth-Century Financier — faithful English translation
+# Money and Women: Doña Gracia, Renaissance Financier
 
 ## 1. A woman, a family, many names
 

@@ -1,4 +1,4 @@
-# How Wars Break Out: The Falklands War
+# How Wars Begin: The Falklands War
 
 ## 1. The islands, their names, and 150 years of dispute
 

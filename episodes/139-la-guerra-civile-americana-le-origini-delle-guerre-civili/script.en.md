@@ -1,4 +1,4 @@
-# La guerra civile americana: le origini delle guerre civili — faithful English translation
+# How Civil Wars Begin: The American Civil War
 
 ## 1. Lincoln’s Assassination and the Civil War Question
 

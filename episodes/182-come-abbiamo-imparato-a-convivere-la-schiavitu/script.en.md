@@ -1,4 +1,4 @@
-# Come abbiamo imparato a convivere: la schiavitù — faithful English translation
+# Living Together: Slavery
 
 ## 1. Slavery as a historical norm and the distinction between slaveholding and slave societies
 

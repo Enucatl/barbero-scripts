@@ -465,6 +465,7 @@ def _contains_authoritative_wording(authoritative: str, candidate: str) -> bool:
 
 def validate_episode(directory: Path) -> list[str]:
     metadata_path = directory / "episode.yaml"
+    metadata: dict[str, Any] = {}
     if metadata_path.exists():
         metadata = yaml.safe_load(metadata_path.read_text(encoding="utf-8")) or {}
         if metadata.get("workflow_version") == 2:
@@ -755,4 +756,12 @@ def validate_episode(directory: Path) -> list[str]:
             tense_body = texts["tense"].split("\n", 1)[1].strip()
             if "\n\n".join(assembled_parts) != tense_body:
                 errors.append("tense script is not the verbatim tense chapter assembly")
+    publication = metadata.get("publication")
+    if (
+        "final" in texts
+        and isinstance(publication, dict)
+        and publication.get("title")
+        and texts["final"].splitlines()[0] != f"# {publication['title']}"
+    ):
+        errors.append("final script H1 does not match publication.title")
     return errors

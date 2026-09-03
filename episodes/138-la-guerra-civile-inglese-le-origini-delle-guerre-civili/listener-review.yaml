@@ -30,7 +30,7 @@ recommendations:
     kind: title
     current_text: null
     current_text_sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-  proposed_text: 'Civil Wars: England 1642'
+  proposed_text: 'How Civil Wars Begin: The English Civil War'
   reason: Lead with an English description and keep specialized wording secondary.
   preserves:
   - immutable Italian source title

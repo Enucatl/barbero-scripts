@@ -1,4 +1,4 @@
-# Civil Wars: England 1642
+# How Civil Wars Begin: The English Civil War
 
 ## 1. Charles I's Execution and the Civil War Question
 

@@ -1,4 +1,4 @@
-# Come scoppiano le guerre: La prima guerra mondiale — faithful English translation
+# How Wars Begin: World War I
 
 ## 1. Sarajevo, terrorism, and the Austrian case against Serbia
 

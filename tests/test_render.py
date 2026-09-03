@@ -48,6 +48,18 @@ def test_validation_accepts_applied_correction(tmp_path: Path) -> None:
     assert validate_episode(tmp_path) == []
 
 
+def test_validation_requires_published_title_in_final_h1(tmp_path: Path) -> None:
+    write_episode(tmp_path, "apply")
+    (tmp_path / "episode.yaml").write_text(
+        "publication:\n  title: Official title\n", encoding="utf-8"
+    )
+    text = "# Stale title\n\nVerified words. Corrected. [Q-001] [N-001]"
+    for name in ("script.corrected.en.md", "script.spoken.en.md", "script.tense.en.md"):
+        (tmp_path / name).write_text(text, encoding="utf-8")
+    (tmp_path / "script.en.md").write_text(text, encoding="utf-8")
+    assert "final script H1 does not match publication.title" in validate_episode(tmp_path)
+
+
 def test_validation_blocks_downstream_scripts_while_pending(tmp_path: Path) -> None:
     write_episode(tmp_path, "pending")
     (tmp_path / "script.corrected.en.md").write_text("Draft. [Q-001]")

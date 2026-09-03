@@ -1,4 +1,4 @@
-# How Wars Break Out: The Second World War
+# How Wars Begin: World War II
 
 ## 1. Versailles, German grievances, and the double illusion
 
