@@ -45,7 +45,7 @@ resource "cloudflare_ruleset" "podcast_mp3_cache_bypass" {
     ref         = "podcast_mp3_cache_bypass"
     description = "Send podcast MP3 requests to Caddy for statistics logging"
     expression = format(
-      "http.host eq \"%s\" and http.request.uri.path matches \"^/[A-Za-z0-9_-]{16,128}/media/[^/]+-[0-9a-f]{16}\\\\.mp3$\"",
+      "http.host eq \"%s\" and http.request.uri.path matches \"^/[A-Za-z0-9_-]{16,128}/media/[^/]+-[0-9a-f]{16}\\.mp3$\"",
       var.hostname,
     )
     action = "set_cache_settings"
