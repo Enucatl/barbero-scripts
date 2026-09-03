@@ -17,18 +17,23 @@
 		Referrer-Policy "no-referrer"
 	}
 
-	@media path_regexp media ^/[A-Za-z0-9_-]{16,128}/media/[^/]+-[0-9a-f]{16}\.mp3$
+	@media path_regexp media ^/([A-Za-z0-9_-]{16,128}/)?media/[^/]+-[0-9a-f]{16}\.mp3$
 	header @media Cache-Control "public, max-age=31536000, immutable"
-	@dynamic path_regexp dynamic ^/[A-Za-z0-9_-]{16,128}/(feed\.xml|robots\.txt|cover\.png|index\.html|episodes/.*)$
+	@dynamic path_regexp dynamic ^/([A-Za-z0-9_-]{16,128}/)?(feed\.xml|robots\.txt|cover\.png|index\.html|episodes/.*)$
 	header @dynamic Cache-Control "public, max-age=0, must-revalidate"
-	@feed path_regexp feed ^/[A-Za-z0-9_-]{16,128}/feed\.xml$
+	@feed path_regexp feed ^/([A-Za-z0-9_-]{16,128}/)?feed\.xml$
 	header @feed Content-Type "application/rss+xml; charset=utf-8"
 
-	@allowed path_regexp allowed ^/[A-Za-z0-9_-]{16,128}/(feed\.xml|robots\.txt|cover\.png|index\.html|media/[^/]+-[0-9a-f]{16}\.mp3|episodes/[A-Za-z0-9_-]+/(index\.html|transcript\.html|research/[A-Za-z0-9_-]+\.html))$
+	@legacy_root path_regexp legacy_root ^/[A-Za-z0-9_-]{16,128}/?$
+	redir @legacy_root / permanent
+	@legacy path_regexp legacy ^/[A-Za-z0-9_-]{16,128}(?P<path>/(feed\.xml|robots\.txt|cover\.png|index\.html|media/[^/]+-[0-9a-f]{16}\.mp3|episodes/[A-Za-z0-9_-]+/(index\.html|transcript\.html|research/[A-Za-z0-9_-]+\.html)))$
+	redir @legacy {re.legacy.path} permanent
+
+	@allowed path_regexp allowed ^/([A-Za-z0-9_-]{16,128}/)?(feed\.xml|robots\.txt|cover\.png|index\.html|media/[^/]+-[0-9a-f]{16}\.mp3|episodes/[A-Za-z0-9_-]+/(index\.html|transcript\.html|research/[A-Za-z0-9_-]+\.html))$
 	handle @allowed {
 		file_server
 	}
-	@slash path_regexp slash ^/[A-Za-z0-9_-]{16,128}/(episodes/[A-Za-z0-9_-]+/)?$
+	@slash path_regexp slash ^/(([A-Za-z0-9_-]{16,128}/)?episodes/[A-Za-z0-9_-]+/)?$
 	handle @slash {
 		try_files {path}index.html
 		file_server

@@ -293,7 +293,11 @@ def _rss(config: dict[str, Any], episodes: list[PublishedEpisode], base_url: str
 
 
 def publish_preview(
-    config_path: Path, episodes_root: Path, audio_root: Path, output_root: Path, token_path: Path
+    config_path: Path,
+    episodes_root: Path,
+    audio_root: Path,
+    output_root: Path,
+    token_path: Path | None,
 ) -> Path:
     config = yaml.safe_load(config_path.read_text(encoding="utf-8"))
     required = {
@@ -312,15 +316,16 @@ def publish_preview(
     missing = required - config.keys()
     if missing:
         raise ValueError(f"{config_path}: missing fields: {', '.join(sorted(missing))}")
-    token = read_token(token_path)
+    token = read_token(token_path) if token_path is not None else None
     episodes = discover_episodes(episodes_root, audio_root)
     if not episodes:
         raise ValueError("no recorded episodes with publication metadata")
     artwork = config_path.parent / config["artwork"]
     if not artwork.is_file():
         raise ValueError(f"missing artwork {artwork}")
-    destination = output_root / token
-    staging = output_root / f".{token}-{uuid.uuid4().hex}"
+    destination = output_root / token if token is not None else output_root
+    staging_root = output_root if token is not None else output_root.parent
+    staging = staging_root / f".{output_root.name}-{token or 'public'}-{uuid.uuid4().hex}"
     previous_media_dir = destination / "media" if destination.is_dir() else None
     previous_manifest = _read_media_manifest(destination / "media-manifest.json")
     try:
@@ -330,7 +335,7 @@ def publish_preview(
             _encode(episode, staging / "media", previous_media_dir, previous_manifest)
             for episode in episodes
         ]
-        base_url = f"https://{config['hostname']}/{token}"
+        base_url = f"https://{config['hostname']}" + (f"/{token}" if token else "")
         environment = Environment(
             loader=PackageLoader("barbero_scripts"), autoescape=select_autoescape()
         )
@@ -375,7 +380,11 @@ def publish_preview(
         )
         (staging / "robots.txt").write_text("User-agent: *\nDisallow: /\n", encoding="utf-8")
         output_root.mkdir(parents=True, exist_ok=True)
-        previous = output_root / f".{token}-previous"
+        previous = (
+            output_root / f".{token}-previous"
+            if token is not None
+            else output_root.parent / f".{output_root.name}-previous"
+        )
         if previous.exists():
             shutil.rmtree(previous)
         if destination.exists():

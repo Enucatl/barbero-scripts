@@ -100,6 +100,9 @@ def parser() -> argparse.ArgumentParser:
         type=Path,
         default=Path("/scratch/archive/barbero-english/published"),
     )
+    publication.add_argument(
+        "--public", action="store_true", help="publish at the hostname root without a token"
+    )
     publication.add_argument("--token-file", type=Path, default=Path(".podcast-preview-token"))
     return result
 
@@ -119,7 +122,7 @@ def main() -> None:
                 args.episodes_root,
                 args.audio_root,
                 args.output_root,
-                args.token_file,
+                None if args.public else args.token_file,
             )
         except (OSError, ValueError, RuntimeError) as error:
             raise SystemExit(str(error)) from error

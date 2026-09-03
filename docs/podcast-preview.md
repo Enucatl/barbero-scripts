@@ -1,7 +1,37 @@
-# Private podcast preview
+# Podcast publication
 
-This is an unlisted preview, not authentication: anyone with the URL can use or share it. Do not
-submit this feed to Apple or other directories until redistribution rights have been confirmed.
+The public podcast is served from `https://podcast.enucatl.com/`. Publish only after redistribution
+rights have been confirmed.
+
+## Public publication
+
+Build the public tree without a URL token:
+
+```bash
+uv run barbero publish-preview --public
+```
+
+This atomically replaces `/scratch/archive/barbero-english/published` with the root publication,
+including `feed.xml`, `index.html`, episode pages, and MP3 files. The old token-prefixed tree is
+removed. Caddy redirects its old feed, page, episode, and media URLs to the equivalent root URL.
+
+The Cloudflare cache bypass for `podcast.enucatl.com` must be applied before publication so all
+content requests reach Caddy and are logged to Loki.
+
+Verify the root feed and page before announcing the podcast:
+
+```bash
+curl -I https://podcast.enucatl.com/feed.xml
+curl -I https://podcast.enucatl.com/
+```
+
+Both should reach Caddy and return successful responses. Verify an MP3 URL from the feed and check
+the corresponding Caddy request in Loki.
+
+## Private preview
+
+The tokenized preview workflow remains available when a private preview is needed. It is unlisted,
+not authentication: anyone with the URL can use or share it.
 
 ## Publish
 

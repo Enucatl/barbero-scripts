@@ -172,6 +172,19 @@ def test_publish_generates_valid_feed_and_media(tmp_path: Path) -> None:
     assert "<!-- U-1 -->" in transcript
 
 
+def test_public_publish_uses_root_urls(tmp_path: Path) -> None:
+    config, episodes, audio, _ = write_fixture(tmp_path)
+    destination = publish_preview(config, episodes, audio, tmp_path / "published", None)
+
+    assert destination == tmp_path / "published"
+    tree = ET.parse(destination / "feed.xml")
+    item = tree.find("./channel/item")
+    assert item is not None
+    enclosure = item.find("enclosure")
+    assert enclosure is not None
+    assert enclosure.attrib["url"].startswith("https://example.test/media/")
+
+
 def test_publish_reuses_media_when_source_is_unchanged(tmp_path: Path, monkeypatch) -> None:
     config, episodes, audio, token = write_fixture(tmp_path)
     destination = publish_preview(config, episodes, audio, tmp_path / "published", token)
