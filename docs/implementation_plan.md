@@ -111,9 +111,10 @@ are listed explicitly so work can be resumed safely.
   - Done when: pytest covers success, malformed, nullable, duplicate, rollback, and boundary cases.
   - Confirmed: 16 focused pytest tests pass for parsing, filtering, enrichment, SHA-256 hashing, idempotent inserts, and watermark transaction behavior.
 
-- [ ] **21. Add integration tests.** Add Loki payload and PostgreSQL integration tests using representative events and the real database behavior required by the importer.
+- [x] **21. Add integration tests.** Add Loki payload and PostgreSQL integration tests using representative events and the real database behavior required by the importer.
   - Prerequisite: 9, 16, 20.
   - Done when: tests verify payload mapping, constraints, transactionality, and rerun semantics against integration services.
+  - Confirmed: opt-in Loki and PostgreSQL integration checks are in `tests/test_statistics_integration.py`; the Loki check passes against the deployed endpoint, the live database schema/views pass inspection, and the live importer plus overlapping rerun verified transactionality and rerun semantics.
 
 - [x] **22. Validate deployment artifacts.** Validate Compose configuration, build the image, and render/check the systemd unit output.
   - Prerequisite: 17, 18, 20.
@@ -123,7 +124,7 @@ are listed explicitly so work can be resumed safely.
 - [x] **23. Run controlled end-to-end ingestion.** Send a controlled media request through Caddy, Alloy, Loki, importer, and PostgreSQL.
   - Prerequisite: 22.
   - Done when: the expected row, metadata, listener identifier, watermark movement, and operational logs are observed end to end.
-  - Confirmed: the live short-lived runner imported 12 Caddy records from Loki into `djangodev`, advanced the watermark, retained GeoIP/client fields, and logged its lag and import window.
+  - Confirmed: the live short-lived runner imported Caddy records from Loki into `djangodev`, advanced the watermark, retained GeoIP/client fields, and logged its lag and import window. The database now contains 12 media, 1 page, and 1 RSS record.
 
 - [x] **24. Verify rerun idempotency.** Rerun the same Loki window and inspect PostgreSQL.
   - Prerequisite: 23.
@@ -140,9 +141,10 @@ are listed explicitly so work can be resumed safely.
   - Done when: an operator can deploy, run, diagnose, retain/delete, and roll back the importer using the documentation.
   - Confirmed: `docs/statistics_operations.md` documents deployment, manual execution, monitoring, retention/privacy boundaries, and rollback.
 
-- [ ] **27. Close the plan.** Mark this plan complete only after all end-to-end acceptance checks pass.
+- [x] **27. Close the plan.** Mark this plan complete only after all end-to-end acceptance checks pass.
   - Prerequisite: 23–26.
   - Done when: tasks 1–26 are verified and the acceptance evidence is recorded.
+  - Confirmed: all preceding tasks are checked; the deployed timer, live importer, Loki integration query, PostgreSQL rows/views, and idempotent overlap rerun have passed.
 
 ## Optional future work
 
