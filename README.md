@@ -17,12 +17,6 @@ coordinates bounded agents around durable, reviewable episode artifacts. Python 
 transformations, hashes, validation, and status; agents own interpretation, research, translation,
 and editorial proposals.
 
-![Barbero episode production workflow](docs/barbero-episode-workflow.png)
-
-The static PNG above is generated with Archify for reliable GitHub rendering. For an interactive
-version, open the [explorable workflow diagram](docs/barbero-episode-workflow.html), or inspect the
-[Archify source specification](docs/barbero-episode-workflow.workflow.json).
-
 ### Model boundaries
 
 - **GPT-5.6 Luna** handles bounded production work: transcript uncertainty review, chapter and
