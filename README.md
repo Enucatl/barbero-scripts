@@ -17,6 +17,8 @@ coordinates bounded agents around durable, reviewable episode artifacts. Python 
 transformations, hashes, validation, and status; agents own interpretation, research, translation,
 and editorial proposals.
 
+![Episode production workflow](assets/architecture.png)
+
 ### Model boundaries
 
 - **GPT-5.6 Luna** handles bounded production work: transcript uncertainty review, chapter and
