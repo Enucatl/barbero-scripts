@@ -1,0 +1,45 @@
+<script>
+(() => {
+  const keyPrefix = "barbero-audio-position:";
+
+  document.querySelectorAll("audio[data-resume-key]").forEach((audio) => {
+    const key = keyPrefix + audio.dataset.resumeKey;
+    let saved;
+    try {
+      saved = Number(localStorage.getItem(key));
+    } catch {
+      return;
+    }
+
+    const restore = () => {
+      if (Number.isFinite(saved) && saved > 0 && saved < audio.duration) {
+        audio.currentTime = saved;
+      }
+    };
+    if (audio.readyState >= 1) {
+      restore();
+    } else {
+      audio.addEventListener("loadedmetadata", restore, { once: true });
+    }
+
+    const save = () => {
+      try {
+        if (audio.currentTime > 0) {
+          localStorage.setItem(key, String(audio.currentTime));
+        }
+      } catch {
+        // Storage may be disabled by the browser.
+      }
+    };
+    audio.addEventListener("pause", save);
+    window.addEventListener("pagehide", save);
+    audio.addEventListener("ended", () => {
+      try {
+        localStorage.removeItem(key);
+      } catch {
+        // Storage may be disabled by the browser.
+      }
+    });
+  });
+})();
+</script>

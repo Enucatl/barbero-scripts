@@ -185,6 +185,21 @@ def test_public_publish_uses_root_urls(tmp_path: Path) -> None:
     assert enclosure.attrib["url"].startswith("https://example.test/media/")
 
 
+def test_publish_adds_audio_resume_support_to_both_pages(tmp_path: Path) -> None:
+    config, episodes, audio, _ = write_fixture(tmp_path)
+    destination = publish_preview(config, episodes, audio, tmp_path / "published", None)
+
+    pages = [
+        (destination / "index.html").read_text(encoding="utf-8"),
+        (destination / "episodes/001-a-b-test/index.html").read_text(encoding="utf-8"),
+    ]
+    for page in pages:
+        assert 'data-resume-key="001-a-b-test"' in page
+        assert "localStorage.getItem(key)" in page
+        assert 'audio.addEventListener("pause", save)' in page
+        assert 'audio.addEventListener("ended"' in page
+
+
 def test_publish_reuses_media_when_source_is_unchanged(tmp_path: Path, monkeypatch) -> None:
     config, episodes, audio, token = write_fixture(tmp_path)
     destination = publish_preview(config, episodes, audio, tmp_path / "published", token)

@@ -2,7 +2,8 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
 <meta name="robots" content="noindex,nofollow"><title>{{ episode.title }} — {{ config.title }}</title><style>{% include "style.css" %}</style></head><body><main>
 <nav><a href="{{ base_url }}/">← {{ config.title }}</a></nav><h1>{{ episode.title }}</h1><p>{{ episode.summary }}</p><p>{{ duration }}</p>
-<audio controls preload="metadata" src="{{ base_url }}/media/{{ episode.media_name }}"></audio>
+<audio controls preload="metadata" data-resume-key="{{ episode.slug }}" src="{{ base_url }}/media/{{ episode.media_name }}"></audio>
 <h2>Verbatim English transcript</h2><div class="transcript">{{ transcript|safe }}</div>
 {% if articles %}<h2>In-depth research</h2><ul>{% for title, body in articles %}<li><a href="research/{{ title }}.html">{{ title|replace('-', ' ') }}</a></li>{% endfor %}</ul>{% endif %}
+{% include "audio_resume.html" %}
 </main></body></html>

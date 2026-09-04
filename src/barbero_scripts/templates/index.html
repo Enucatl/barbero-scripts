@@ -3,5 +3,6 @@
 <meta name="robots" content="noindex,nofollow"><title>{{ config.title }}</title>
 <style>{% include "style.css" %}</style></head><body><main>
 <header><img class="cover" src="cover.png" alt="{{ config.title }} cover"><div><h1>{{ config.title }}</h1><p class="subtitle">{{ config.subtitle }}</p><p>{{ config.description }}</p><p>To listen in Apple Podcasts or your favorite podcast app, copy this RSS feed URL and add it as a show: <a href="feed.xml">RSS feed URL</a></p></div></header>
-<h2>Episodes</h2>{% for episode in episodes %}<article><h3><a href="episodes/{{ episode.slug }}/">{{ episode.title }}</a></h3><p>{{ episode.summary }}</p><audio controls preload="none" src="media/{{ episode.media_name }}"></audio></article>{% endfor %}
+<h2>Episodes</h2>{% for episode in episodes %}<article><h3><a href="episodes/{{ episode.slug }}/">{{ episode.title }}</a></h3><p>{{ episode.summary }}</p><audio controls preload="none" data-resume-key="{{ episode.slug }}" src="media/{{ episode.media_name }}"></audio></article>{% endfor %}
+{% include "audio_resume.html" %}
 </main></body></html>
