@@ -52,4 +52,27 @@ run editorial validation, and report:
 Research readiness is not content approval. Preserve technical replacement eligibility; human
 decisions belong only in the unified content queue after faithful translation.
 
+Write `research-audit.yaml` as the durable checkpoint:
+
+```yaml
+schema_version: 1
+artifact_hashes:
+  script.it.md: "sha256"
+  outline.md: "sha256"
+  quotes.yaml: "sha256"
+  claims.yaml: "sha256"
+  sources.yaml: "sha256"
+verdict: ready # or blocked
+blocking_findings: []
+summary_counts:
+  quotations_resolved: 0
+  quotations_deferred: 0
+  claims_resolved: 0
+  claims_deferred: 0
+```
+
+Compute hashes from the exact UTF-8 file contents with SHA-256 after all audit edits. A `ready`
+audit has no blocking findings. Do not create a faithful translation when this checkpoint is
+missing, blocked, or stale.
+
 Do not edit the English script and do not create a Git commit.

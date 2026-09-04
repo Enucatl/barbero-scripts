@@ -2,9 +2,9 @@ from __future__ import annotations
 
 import hashlib
 import re
-from dataclasses import asdict
+from dataclasses import asdict, dataclass
 from pathlib import Path
-from typing import Any
+from typing import Any, Literal
 
 import yaml
 
@@ -58,6 +58,50 @@ QUOTATION_TREATMENTS = {"exact-excerpt", "excerpt-with-paraphrase", "paraphrase"
 CONTENT_MARKER = re.compile(r"<!-- content-correction: (CC-\d{3}) -->")
 TENSE_REVIEW = re.compile(r"<!-- tense-reviewed: (CH-\d{3}) -->\n?")
 NATURALNESS_REVIEW = re.compile(r"<!-- naturalness-reviewed: (CH-\d{3}) -->\n?")
+WORKFLOW_KINDS = {"machine", "agent", "human", "complete", "invalid"}
+RESEARCH_AUDIT_INPUTS = (
+    "script.it.md",
+    "outline.md",
+    "quotes.yaml",
+    "claims.yaml",
+    "sources.yaml",
+)
+
+
+@dataclass(frozen=True)
+class WorkflowStatus:
+    """One resumable episode workflow state."""
+
+    stage: str
+    kind: Literal["machine", "agent", "human", "complete", "invalid"]
+    next_action: str | None
+    blocking_items: tuple[str, ...] = ()
+    artifact_paths: tuple[str, ...] = ()
+
+    def to_dict(self) -> dict[str, Any]:
+        """Return the stable machine-readable status contract."""
+        return {
+            "stage": self.stage,
+            "kind": self.kind,
+            "next_action": self.next_action,
+            "blocking_items": list(self.blocking_items),
+            "artifact_paths": list(self.artifact_paths),
+        }
+
+    def render(self) -> str:
+        """Render the human-readable status from the same result."""
+        if self.kind == "complete":
+            return "workflow complete"
+        prefix = {
+            "machine": "next machine action",
+            "agent": "next agent action",
+            "human": "human queue",
+            "invalid": "invalid workflow",
+        }[self.kind]
+        detail = self.next_action or self.stage.replace("_", " ")
+        if self.blocking_items:
+            detail += ": " + ", ".join(self.blocking_items)
+        return f"{prefix}: {detail}"
 
 
 def text_hash(text: str) -> str:
@@ -146,7 +190,7 @@ def initialize_transcript_uncertainties(
         {
             "schema_version": 1,
             "transcription_fingerprint": transcription_fingerprint,
-            "detection_status": "complete",
+            "detection_status": "acoustic-complete",
             "items": items,
         },
     )
@@ -162,8 +206,8 @@ def validate_transcript_uncertainties(
         errors.append("transcript uncertainties has unsupported schema_version")
     if queue.get("transcription_fingerprint") != transcription_fingerprint:
         errors.append("transcript uncertainties has a stale transcription fingerprint")
-    if queue.get("detection_status") != "complete":
-        errors.append("transcript uncertainty detection is incomplete")
+    if queue.get("detection_status") not in {"acoustic-complete", "complete"}:
+        errors.append("transcript uncertainty detection has an invalid status")
     known = {item.id: item for item in utterances}
     seen: set[str] = set()
     for item in queue.get("items", []):
@@ -525,39 +569,346 @@ def apply_listener_review(directory: Path) -> None:
     (directory / "script.editorial.en.md").write_text(output, encoding="utf-8")
 
 
-def workflow_status(directory: Path) -> str:
-    metadata = load_yaml_mapping(directory / "episode.yaml")
-    if int(metadata.get("workflow_version", 1)) != 2:
-        return "legacy workflow: run barbero validate"
+def research_audit_hashes(directory: Path) -> dict[str, str]:
+    """Return exact hashes for every durable research-audit input."""
+    return {
+        name: text_hash((directory / name).read_text(encoding="utf-8"))
+        for name in RESEARCH_AUDIT_INPUTS
+    }
+
+
+def validate_research_audit(directory: Path) -> list[str]:
+    """Validate research readiness and bind it to the audited artifacts."""
+    path = directory / "research-audit.yaml"
+    if not path.exists():
+        return ["missing research-audit.yaml"]
+    try:
+        audit = load_yaml_mapping(path)
+    except (OSError, ValueError, yaml.YAMLError) as error:
+        return [str(error)]
+    errors: list[str] = []
+    if audit.get("schema_version") != 1:
+        errors.append("research audit has unsupported schema_version")
+    if audit.get("verdict") not in {"ready", "blocked"}:
+        errors.append("research audit has invalid verdict")
+    findings = audit.get("blocking_findings")
+    if not isinstance(findings, list):
+        errors.append("research audit blocking_findings must be a list")
+    elif audit.get("verdict") == "ready" and findings:
+        errors.append("ready research audit has blocking findings")
+    summary = audit.get("summary_counts")
+    if not isinstance(summary, dict):
+        errors.append("research audit summary_counts must be a mapping")
+    missing = [name for name in RESEARCH_AUDIT_INPUTS if not (directory / name).exists()]
+    if missing:
+        errors.append("research audit inputs are missing: " + ", ".join(missing))
+    elif audit.get("artifact_hashes") != research_audit_hashes(directory):
+        errors.append("research audit artifact hashes are stale")
+    return errors
+
+
+def _status(
+    stage: str,
+    kind: Literal["machine", "agent", "human", "complete", "invalid"],
+    action: str | None,
+    *paths: str,
+    blocking: tuple[str, ...] = (),
+) -> WorkflowStatus:
+    return WorkflowStatus(stage, kind, action, blocking, paths)
+
+
+def workflow_state(directory: Path) -> WorkflowStatus:
+    """Detect the first incomplete or invalid durable workflow stage."""
+    metadata_path = directory / "episode.yaml"
+    if not metadata_path.exists():
+        return _status("initialization", "machine", "initialize episode", "episode.yaml")
+    try:
+        metadata = load_yaml_mapping(metadata_path)
+    except (OSError, ValueError, yaml.YAMLError) as error:
+        return _status(
+            "initialization", "invalid", "repair episode metadata", blocking=(str(error),)
+        )
+    try:
+        workflow_version = int(metadata.get("workflow_version", 1))
+    except (TypeError, ValueError):
+        return _status(
+            "initialization",
+            "invalid",
+            "repair episode metadata",
+            blocking=("workflow_version must be an integer",),
+        )
+    if workflow_version != 2:
+        from .render import validate_episode
+
+        errors = validate_episode(directory)
+        if errors:
+            return _status("validation", "invalid", "repair legacy episode", blocking=tuple(errors))
+        return _status("complete", "complete", None, "script.en.md")
+
+    # Completed v2 episodes created before research-audit.yaml remain valid and are not regenerated.
+    if (directory / "script.en.md").exists() and not (directory / "research-audit.yaml").exists():
+        from .render import validate_episode
+
+        errors = validate_episode(directory)
+        if errors:
+            return _status(
+                "validation", "invalid", "repair validation errors", blocking=tuple(errors)
+            )
+        if metadata.get("preview_published") is True:
+            return _status("complete", "complete", None, "script.en.md", "episode.yaml")
+        return _status(
+            "publication", "machine", "publish unlisted preview", "script.en.md", "episode.yaml"
+        )
+
+    work_dir = Path(str(metadata.get("work_dir", ""))).expanduser()
+    edit_map = work_dir / "edit-map.json"
+    diarization = work_dir / "diarization.json"
+    if not edit_map.exists():
+        if diarization.exists() and not metadata.get("selected_speaker"):
+            return _status(
+                "speaker_selection",
+                "human",
+                "select retained speaker",
+                "episode.yaml",
+                str(diarization),
+            )
+        return _status("preparation", "machine", "prepare and diarize audio", str(edit_map))
+    if (
+        not (work_dir / "deepgram.json").exists()
+        or not (work_dir / "transcription-manifest.json").exists()
+    ):
+        return _status("transcription", "machine", "transcribe cleaned audio", str(work_dir))
     uncertainty = directory / "transcript-uncertainties.yaml"
     if not uncertainty.exists():
-        return "next machine action: render transcript and uncertainty queue"
-    queue = load_yaml_mapping(uncertainty)
-    if any(
-        item.get("resolution", {}).get("status") == "pending" for item in queue.get("items", [])
+        return _status(
+            "transcription",
+            "machine",
+            "render transcript and acoustic uncertainty queue",
+            str(uncertainty),
+        )
+    try:
+        queue = load_yaml_mapping(uncertainty)
+    except (OSError, ValueError, yaml.YAMLError) as error:
+        return _status(
+            "semantic_transcript_review",
+            "invalid",
+            "repair uncertainty queue",
+            blocking=(str(error),),
+        )
+    detection = queue.get("detection_status")
+    if detection == "acoustic-complete":
+        return _status(
+            "semantic_transcript_review",
+            "agent",
+            "run contextual transcript uncertainty scan",
+            "transcript.it.md",
+            "transcript-uncertainties.yaml",
+        )
+    if detection != "complete":
+        return _status(
+            "semantic_transcript_review",
+            "invalid",
+            "repair uncertainty detection status",
+            blocking=(str(detection),),
+        )
+    uncertainty_items = queue.get("items", [])
+    if not isinstance(uncertainty_items, list) or any(
+        not isinstance(item, dict) for item in uncertainty_items
     ):
-        return "human queue: transcription resolver (transcript-uncertainties.yaml)"
+        return _status(
+            "semantic_transcript_review",
+            "invalid",
+            "repair uncertainty queue",
+            blocking=("transcript uncertainty items must be a list of mappings",),
+        )
+    pending_uncertainties = tuple(
+        str(item.get("id"))
+        for item in uncertainty_items
+        if item.get("resolution", {}).get("status") == "pending"
+    )
+    if pending_uncertainties:
+        return _status(
+            "transcript_review",
+            "human",
+            "resolve transcript uncertainties",
+            "transcript-uncertainties.yaml",
+            blocking=pending_uncertainties,
+        )
+    transcript_path = directory / "transcript.it.md"
+    if not transcript_path.exists():
+        return _status("transcription", "machine", "render resolved transcript", "transcript.it.md")
+    if "[REVIEW:" in transcript_path.read_text(encoding="utf-8"):
+        return _status(
+            "transcript_review", "human", "resolve transcript review flags", "transcript.it.md"
+        )
+    chapters_path = directory / "chapters.yaml"
+    try:
+        chapters = yaml.safe_load(chapters_path.read_text(encoding="utf-8")) or []
+    except (OSError, yaml.YAMLError) as error:
+        return _status(
+            "italian_assembly", "invalid", "repair chapter definitions", blocking=(str(error),)
+        )
+    if not isinstance(chapters, list) or not chapters:
+        return _status(
+            "italian_assembly",
+            "agent",
+            "define Italian chapters",
+            "transcript.it.md",
+            "chapters.yaml",
+        )
     if not (directory / "script.it.md").exists():
-        return "next machine action: assemble Italian source"
+        return _status("italian_assembly", "machine", "assemble Italian source", "script.it.md")
+    if not (directory / "italian-review.yaml").exists():
+        return _status(
+            "italian_assembly", "machine", "initialize Italian checkpoint", "italian-review.yaml"
+        )
+    if not (directory / "outline.md").exists():
+        return _status("outline", "agent", "create episode outline", "outline.md")
+    ledgers = ("quotes.yaml", "claims.yaml", "sources.yaml")
+    if any(not (directory / name).exists() for name in ledgers):
+        return _status("target_extraction", "agent", "extract research targets", *ledgers)
+    pending_research: list[str] = []
+    for name in ledgers:
+        try:
+            value = yaml.safe_load((directory / name).read_text(encoding="utf-8")) or []
+        except yaml.YAMLError as error:
+            return _status("research", "invalid", f"repair {name}", name, blocking=(str(error),))
+        if not isinstance(value, list):
+            return _status(
+                "research",
+                "invalid",
+                f"repair {name}",
+                name,
+                blocking=(f"{name} must contain a list",),
+            )
+        records = value
+        if name == "sources.yaml":
+            continue
+        pending_research.extend(
+            str(item.get("id")) for item in records if item.get("status") == "pending"
+        )
+    if pending_research:
+        return _status(
+            "research",
+            "agent",
+            "research pending quotation and claim targets",
+            *ledgers,
+            blocking=tuple(pending_research),
+        )
+    audit_errors = validate_research_audit(directory)
+    audit_path = directory / "research-audit.yaml"
+    if audit_errors:
+        stale_or_invalid = audit_path.exists()
+        return _status(
+            "research_audit",
+            "agent" if not stale_or_invalid else "invalid",
+            "run research audit" if not stale_or_invalid else "refresh research audit",
+            "research-audit.yaml",
+            blocking=tuple(audit_errors),
+        )
+    audit = load_yaml_mapping(audit_path)
+    if audit.get("verdict") == "blocked":
+        findings = tuple(str(item) for item in audit.get("blocking_findings", []))
+        return _status(
+            "research_audit",
+            "agent",
+            "resolve research audit findings",
+            "research-audit.yaml",
+            blocking=findings,
+        )
+    if not (directory / "script.translation.faithful.en.md").exists():
+        return _status(
+            "translation",
+            "agent",
+            "translate Italian chapters faithfully",
+            "script.translation.faithful.en.md",
+        )
     if not (directory / "content-corrections.yaml").exists():
-        return "next machine action: research, translate, and propose content corrections"
-    content = load_yaml_mapping(directory / "content-corrections.yaml")
-    if any(item.get("decision") == "pending" for item in content.get("items", [])):
-        return "human queue: content editor (content-corrections.yaml)"
+        return _status(
+            "content_review",
+            "agent",
+            "propose unified content corrections",
+            "content-corrections.yaml",
+        )
+    try:
+        content = load_yaml_mapping(directory / "content-corrections.yaml")
+    except (ValueError, yaml.YAMLError) as error:
+        return _status("content_review", "invalid", "repair content queue", blocking=(str(error),))
+    pending_content = tuple(
+        str(item.get("id"))
+        for item in content.get("items", [])
+        if item.get("decision") == "pending"
+    )
+    if pending_content:
+        return _status(
+            "content_review",
+            "human",
+            "decide content corrections",
+            "content-corrections.yaml",
+            blocking=pending_content,
+        )
     if not (directory / "script.content.en.md").exists():
-        return "next machine action: apply content corrections"
+        return _status(
+            "content_application", "machine", "apply content corrections", "script.content.en.md"
+        )
+    if not (directory / "script.tense.en.md").exists():
+        return _status(
+            "tense", "agent", "review and assemble chapter tense", "tense", "script.tense.en.md"
+        )
     if not (directory / "script.spoken.en.md").exists():
-        return "next machine action: tense and chapter-naturalness review"
+        return _status(
+            "naturalness",
+            "agent",
+            "review and assemble chapter naturalness",
+            "naturalness",
+            "script.spoken.en.md",
+        )
     if not (directory / "listener-review.yaml").exists():
-        return "next machine action: run whole-episode listener review"
-    listener = load_yaml_mapping(directory / "listener-review.yaml")
-    if any(item.get("decision") == "pending" for item in listener.get("recommendations", [])):
-        return "human queue: listener editor (listener-review.yaml)"
+        return _status(
+            "listener_review", "agent", "run whole-episode listener review", "listener-review.yaml"
+        )
+    try:
+        listener = load_yaml_mapping(directory / "listener-review.yaml")
+    except (ValueError, yaml.YAMLError) as error:
+        return _status(
+            "listener_review", "invalid", "repair listener queue", blocking=(str(error),)
+        )
+    pending_listener = tuple(
+        str(item.get("id"))
+        for item in listener.get("recommendations", [])
+        if item.get("decision") == "pending"
+    )
+    if pending_listener:
+        return _status(
+            "listener_review",
+            "human",
+            "decide listener recommendations",
+            "listener-review.yaml",
+            blocking=pending_listener,
+        )
     if not (directory / "script.editorial.en.md").exists():
-        return "next machine action: apply listener review"
+        return _status(
+            "listener_application", "machine", "apply listener review", "script.editorial.en.md"
+        )
     if not (directory / "script.en.md").exists():
-        return "next machine action: final consistency"
-    return "workflow complete"
+        return _status(
+            "final_consistency", "agent", "verify final consistency and integrate", "script.en.md"
+        )
+    from .render import validate_episode
+
+    errors = validate_episode(directory)
+    if errors:
+        return _status("validation", "invalid", "repair validation errors", blocking=tuple(errors))
+    if metadata.get("preview_published") is True:
+        return _status("complete", "complete", None, "script.en.md", "episode.yaml")
+    return _status(
+        "publication", "machine", "publish unlisted preview", "script.en.md", "episode.yaml"
+    )
+
+
+def workflow_status(directory: Path) -> str:
+    """Return the text rendering of the typed workflow state."""
+    return workflow_state(directory).render()
 
 
 def _coverage(text: str) -> tuple[list[str], list[str]]:
@@ -591,6 +942,14 @@ def validate_v2_episode(directory: Path) -> list[str]:
     for artifact, predecessor in dependencies.items():
         if (directory / artifact).exists() and not (directory / predecessor).exists():
             errors.append(f"{artifact} requires {predecessor}")
+    faithful_path = directory / "script.translation.faithful.en.md"
+    audit_path = directory / "research-audit.yaml"
+    legacy_completed = (directory / "script.en.md").exists() and not audit_path.exists()
+    if faithful_path.exists() and not legacy_completed:
+        audit_errors = validate_research_audit(directory)
+        errors.extend(audit_errors)
+        if not audit_errors and load_yaml_mapping(audit_path).get("verdict") != "ready":
+            errors.append("faithful translation is blocked by research audit verdict")
     uncertainty_path = directory / "transcript-uncertainties.yaml"
     if not uncertainty_path.exists():
         errors.append("missing transcript-uncertainties.yaml")

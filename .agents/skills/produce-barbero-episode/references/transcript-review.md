@@ -23,5 +23,7 @@ resolution:
 Acoustic or semantic reasons may be absent individually, but each item needs at least one. Preserve
 prior human resolutions. Before finishing, parse the YAML; verify stable IDs, exact utterance
 references, complete replacements, a fresh transcription fingerprint, and `pending` on every new
-item. Report acoustic, semantic-only, and pending counts. Do not edit committed transcript or
-research files and do not create a commit.
+item. Only after that full contextual scan, change the queue's `detection_status` from
+`acoustic-complete` to `complete`; this opens the human resolution gate. Report acoustic,
+semantic-only, and pending counts. Do not edit committed transcript or research files and do not
+create a commit.

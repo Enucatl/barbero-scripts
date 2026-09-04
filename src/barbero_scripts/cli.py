@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import json
 import sys
 from pathlib import Path
 
@@ -24,7 +25,7 @@ from .render import (
 from .scaffold import scaffold_episode
 from .transcript import transcribe
 from .util import read_json
-from .workflow import apply_content_corrections, apply_listener_review, workflow_status
+from .workflow import apply_content_corrections, apply_listener_review, workflow_state
 
 
 def parser() -> argparse.ArgumentParser:
@@ -55,6 +56,7 @@ def parser() -> argparse.ArgumentParser:
     validation.add_argument("episode_dir", type=Path)
     status = commands.add_parser("status", help="show the next workflow action or human queue")
     status.add_argument("episode_dir", type=Path)
+    status.add_argument("--json", action="store_true", help="emit the workflow status as JSON")
     content = commands.add_parser(
         "apply-content", help="apply accepted content corrections deterministically"
     )
@@ -152,7 +154,8 @@ def main() -> None:
         print("Editorial validation passed")
         return
     if args.command == "status":
-        print(workflow_status(args.episode_dir))
+        state = workflow_state(args.episode_dir)
+        print(json.dumps(state.to_dict(), indent=2) if args.json else state.render())
         return
     if args.command == "apply-content":
         try:

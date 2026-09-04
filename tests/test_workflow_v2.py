@@ -28,6 +28,7 @@ def test_acoustic_uncertainty_preserves_word_evidence(tmp_path: Path) -> None:
     path = tmp_path / "transcript-uncertainties.yaml"
     initialize_transcript_uncertainties(path, [utterance], "fingerprint")
     queue = yaml.safe_load(path.read_text())
+    assert queue["detection_status"] == "acoustic-complete"
     assert queue["items"][0]["resolution"]["status"] == "pending"
     assert queue["items"][0]["reasons"][0]["words"][0]["original_start"] == 11.1
     assert validate_transcript_uncertainties(queue, [utterance], "other") == [
