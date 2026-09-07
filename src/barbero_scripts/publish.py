@@ -292,6 +292,37 @@ def _rss(config: dict[str, Any], episodes: list[PublishedEpisode], base_url: str
     return ET.tostring(rss, encoding="utf-8", xml_declaration=True)
 
 
+def _write_site_icons(artwork: Path, staging: Path) -> None:
+    subprocess.run(
+        [
+            "ffmpeg",
+            "-v",
+            "error",
+            "-y",
+            "-i",
+            str(artwork),
+            "-vf",
+            "scale=32:32",
+            str(staging / "favicon.ico"),
+        ],
+        check=True,
+    )
+    subprocess.run(
+        [
+            "ffmpeg",
+            "-v",
+            "error",
+            "-y",
+            "-i",
+            str(artwork),
+            "-vf",
+            "scale=180:180",
+            str(staging / "apple-touch-icon.png"),
+        ],
+        check=True,
+    )
+
+
 def publish_preview(
     config_path: Path,
     episodes_root: Path,
@@ -331,6 +362,7 @@ def publish_preview(
     try:
         (staging / "media").mkdir(parents=True)
         shutil.copy2(artwork, staging / "cover.png")
+        _write_site_icons(artwork, staging)
         encoded = [
             _encode(episode, staging / "media", previous_media_dir, previous_manifest)
             for episode in episodes

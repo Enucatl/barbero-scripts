@@ -170,6 +170,8 @@ def test_publish_generates_valid_feed_and_media(tmp_path: Path) -> None:
     assert (destination / "episodes/001-a-b-test/research/C-1-note.html").is_file()
     transcript = (destination / "episodes/001-a-b-test/transcript.html").read_text()
     assert "<!-- U-1 -->" in transcript
+    assert (destination / "favicon.ico").is_file()
+    assert (destination / "apple-touch-icon.png").is_file()
 
 
 def test_public_publish_uses_root_urls(tmp_path: Path) -> None:
@@ -198,17 +200,24 @@ def test_publish_adds_audio_resume_support_to_both_pages(tmp_path: Path) -> None
         assert "localStorage.getItem(key)" in page
         assert 'audio.addEventListener("pause", save)' in page
         assert 'audio.addEventListener("ended"' in page
+        assert 'rel="icon" href="https://example.test/favicon.ico"' in page
+        assert 'rel="apple-touch-icon" href="https://example.test/apple-touch-icon.png"' in page
 
 
 def test_publish_reuses_media_when_source_is_unchanged(tmp_path: Path, monkeypatch) -> None:
     config, episodes, audio, token = write_fixture(tmp_path)
     destination = publish_preview(config, episodes, audio, tmp_path / "published", token)
     media = next((destination / "media").glob("*.mp3"))
+    real_run = publish_module.subprocess.run
 
-    def fail_if_called(*args, **kwargs):
+    def fail_if_media_encode(command, **kwargs):
+        if command and command[0] == "ffmpeg" and any(
+            isinstance(part, str) and part.startswith("scale=") for part in command
+        ):
+            return real_run(command, **kwargs)
         raise AssertionError("unchanged media should not be re-encoded")
 
-    monkeypatch.setattr(publish_module.subprocess, "run", fail_if_called)
+    monkeypatch.setattr(publish_module.subprocess, "run", fail_if_media_encode)
     rebuilt = publish_preview(config, episodes, audio, tmp_path / "published", token)
 
     rebuilt_media = next((rebuilt / "media").glob("*.mp3"))

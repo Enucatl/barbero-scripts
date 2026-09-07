@@ -164,47 +164,51 @@
             "axisColorMode": "text",
             "axisLabel": "",
             "axisPlacement": "auto",
-            "barAlignment": 0,
-            "drawStyle": "line",
-            "fillOpacity": 20,
+            "fillOpacity": 80,
             "gradientMode": "none",
             "hideFrom": {"legend": false, "tooltip": false, "viz": false},
-            "insertNulls": false,
-            "lineInterpolation": "smooth",
             "lineWidth": 1,
-            "pointSize": 5,
             "scaleDistribution": {"type": "linear"},
-            "showPoints": "never",
-            "spanNulls": false,
-            "stacking": {"group": "A", "mode": "none"},
             "thresholdsStyle": {"mode": "off"}
           },
           "mappings": [],
           "thresholds": {"mode": "absolute", "steps": [{"color": "green", "value": null}]},
-          "unit": "reqps"
+          "unit": "short"
         },
         "overrides": []
       },
       "gridPos": {"h": 8, "w": 16, "x": 0, "y": 4},
       "id": 5,
+      "interval": "1d",
       "options": {
+        "barRadius": 0,
+        "barWidth": 0.8,
+        "fullHighlight": false,
+        "groupWidth": 0.7,
         "legend": {"calcs": ["sum"], "displayMode": "list", "placement": "bottom", "showLegend": true},
-        "tooltip": {"mode": "multi", "sort": "desc"}
+        "orientation": "vertical",
+        "showValue": "auto",
+        "stacking": "normal",
+        "tooltip": {"mode": "multi", "sort": "none"},
+        "xTickLabelRotation": 0,
+        "xTickLabelSpacing": 0
       },
       "pluginVersion": "10.0.0",
       "targets": [
         {
           "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
           "editorMode": "code",
-          "expr": "sum(rate({service_name=\"barbero-scripts/caddy\"} |= \"handled request\" [$__auto]))",
-          "legendFormat": "all",
+          "expr": "sum(count_over_time({service_name=\"barbero-scripts/caddy\"} |= \"handled request\" | json | request_uri=~`.*/media/.*\\.mp3.*` [$__auto]))",
+          "interval": "1d",
+          "legendFormat": "media",
           "queryType": "range",
           "refId": "A"
         },
         {
           "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
           "editorMode": "code",
-          "expr": "sum(rate({service_name=\"barbero-scripts/caddy\"} |= \"handled request\" | json | request_uri=~\".*feed\\\\.xml.*\" [$__auto]))",
+          "expr": "sum(count_over_time({service_name=\"barbero-scripts/caddy\"} |= \"handled request\" | json | request_uri=~`.*/feed\\.xml.*` [$__auto]))",
+          "interval": "1d",
           "legendFormat": "feed",
           "queryType": "range",
           "refId": "B"
@@ -212,14 +216,15 @@
         {
           "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
           "editorMode": "code",
-          "expr": "sum(rate({service_name=\"barbero-scripts/caddy\"} |= \"handled request\" | json | request_uri=~\".*/media/.*\\\\.mp3.*\" [$__auto]))",
-          "legendFormat": "media",
+          "expr": "sum(count_over_time({service_name=\"barbero-scripts/caddy\"} |= \"handled request\" | json | request_uri!~`.*/feed\\.xml.*` | request_uri!~`.*/media/.*\\.mp3.*` [$__auto]))",
+          "interval": "1d",
+          "legendFormat": "other",
           "queryType": "range",
           "refId": "C"
         }
       ],
-      "title": "Request rate",
-      "type": "timeseries"
+      "title": "Daily requests",
+      "type": "barchart"
     },
     {
       "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
@@ -248,6 +253,16 @@
           "legendFormat": "{{country_code}}",
           "queryType": "instant",
           "refId": "A"
+        }
+      ],
+      "transformations": [
+        {
+          "id": "organize",
+          "options": {"excludeByName": {"Time": true}}
+        },
+        {
+          "id": "rowsToFields",
+          "options": {"nameField": "country_code", "valueField": "Value #A"}
         }
       ],
       "title": "By country",
@@ -350,13 +365,13 @@
         {
           "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
           "editorMode": "code",
-          "expr": "topk(10, sum by (country_code) (count_over_time({service_name=\"barbero-scripts/caddy\"} |= \"handled request\" [$__range])))",
-          "legendFormat": "{{country_code}}",
+          "expr": "topk(10, sum by (episode) (count_over_time({service_name=\"barbero-scripts/caddy\"} |= \"handled request\" | json | request_uri=~`.*/media/.*\\.mp3.*` | line_format \"{{.request_uri}}\" | regexp `/media/(?P<episode>.+)-[0-9a-f]{16}\\.mp3` [$__range])))",
+          "legendFormat": "{{episode}}",
           "queryType": "instant",
           "refId": "A"
         }
       ],
-      "title": "Top countries",
+      "title": "Top episodes",
       "type": "barchart"
     },
     {
@@ -382,11 +397,12 @@
           "refId": "A"
         }
       ],
+      "timeFrom": "24h",
       "title": "Recent Caddy requests",
       "type": "logs"
     }
   ],
-  "refresh": "1m",
+  "refresh": "15m",
   "schemaVersion": 38,
   "tags": ["barbero", "podcast", "loki"],
   "templating": {
@@ -407,7 +423,7 @@
       }
     ]
   },
-  "time": {"from": "now-24h", "to": "now"},
+  "time": {"from": "now-30d", "to": "now"},
   "timepicker": {},
   "timezone": "browser",
   "title": "Barbero podcast",
