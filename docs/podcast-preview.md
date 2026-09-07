@@ -12,8 +12,8 @@ uv run barbero publish-preview --public
 ```
 
 This atomically replaces `/scratch/archive/barbero-english/published` with the root publication,
-including `feed.xml`, `index.html`, episode pages, and MP3 files. The old token-prefixed tree is
-removed. Caddy redirects its old feed, page, episode, and media URLs to the equivalent root URL.
+including `feed.xml`, `index.html`, episode pages, and MP3 files. Caddy serves only that public
+tree. Old token-prefixed preview URLs are not redirected or served.
 
 The Cloudflare cache bypass for `podcast.enucatl.com` must be applied before publication so all
 content requests reach Caddy and are logged to Loki.
@@ -30,8 +30,9 @@ the corresponding Caddy request in Loki.
 
 ## Private preview
 
-The tokenized preview workflow remains available when a private preview is needed. It is unlisted,
-not authentication: anyone with the URL can use or share it.
+The tokenized preview command still writes an unlisted tree under
+`/scratch/archive/barbero-english/published/<token>`. Caddy does not serve that prefix; use
+`--public` when the origin should be reachable.
 
 ## Publish
 
@@ -44,9 +45,7 @@ uv run barbero publish-preview
 
 The command validates metadata and source renders, encodes Opus to 48 kHz MP3 (96 kbps mono or
 160 kbps stereo), and atomically replaces only
-`/scratch/archive/barbero-english/published/<token>`. The feed URL is
-`https://podcast.enucatl.com/<token>/feed.xml`. In AntennaPod, choose **Add podcast → RSS address**
-and paste that URL.
+`/scratch/archive/barbero-english/published/<token>`. That tree is not served by Caddy.
 
 ## Deploy
 
@@ -72,8 +71,8 @@ not mounted.
 Puppet node data grants read access only to container root on this host, where Docker
 user-namespace remapping maps container UID 0 to host UID 100000.
 
-To rotate the preview URL, replace `.podcast-preview-token`, rerun publication, verify the new
-feed, and remove the old token directory only after subscribers have migrated.
+To rotate a leftover preview directory, remove the old token directory only after you no longer
+need those files.
 
 ## Rights-gated public launch
 
