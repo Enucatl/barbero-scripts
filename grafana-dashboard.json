@@ -1,0 +1,416 @@
+{
+  "annotations": {"list": []},
+  "description": "Caddy access logs for History, Told Otherwise, scraped into Loki",
+  "editable": true,
+  "fiscalYearStartMonth": 0,
+  "graphTooltip": 1,
+  "id": null,
+  "links": [],
+  "panels": [
+    {
+      "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+      "fieldConfig": {
+        "defaults": {
+          "color": {"mode": "thresholds"},
+          "mappings": [],
+          "thresholds": {"mode": "absolute", "steps": [{"color": "blue", "value": null}]},
+          "unit": "short"
+        },
+        "overrides": []
+      },
+      "gridPos": {"h": 4, "w": 6, "x": 0, "y": 0},
+      "id": 1,
+      "options": {
+        "colorMode": "value",
+        "graphMode": "none",
+        "justifyMode": "center",
+        "orientation": "auto",
+        "reduceOptions": {"calcs": ["lastNotNull"], "fields": "", "values": false},
+        "textMode": "auto"
+      },
+      "pluginVersion": "10.0.0",
+      "targets": [
+        {
+          "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+          "editorMode": "code",
+          "expr": "sum(count_over_time({service_name=\"barbero-scripts/caddy\"} |= \"handled request\" [$__range]))",
+          "legendFormat": "requests",
+          "queryType": "instant",
+          "refId": "A"
+        }
+      ],
+      "title": "Requests",
+      "type": "stat"
+    },
+    {
+      "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+      "fieldConfig": {
+        "defaults": {
+          "color": {"mode": "thresholds"},
+          "mappings": [],
+          "thresholds": {"mode": "absolute", "steps": [{"color": "green", "value": null}]},
+          "unit": "short"
+        },
+        "overrides": []
+      },
+      "gridPos": {"h": 4, "w": 6, "x": 6, "y": 0},
+      "id": 2,
+      "options": {
+        "colorMode": "value",
+        "graphMode": "none",
+        "justifyMode": "center",
+        "orientation": "auto",
+        "reduceOptions": {"calcs": ["lastNotNull"], "fields": "", "values": false},
+        "textMode": "auto"
+      },
+      "pluginVersion": "10.0.0",
+      "targets": [
+        {
+          "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+          "editorMode": "code",
+          "expr": "sum(count_over_time({service_name=\"barbero-scripts/caddy\"} |= \"handled request\" | json | request_uri=~\".*feed\\\\.xml.*\" [$__range]))",
+          "legendFormat": "feed",
+          "queryType": "instant",
+          "refId": "A"
+        }
+      ],
+      "title": "Feed",
+      "type": "stat"
+    },
+    {
+      "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+      "fieldConfig": {
+        "defaults": {
+          "color": {"mode": "thresholds"},
+          "mappings": [],
+          "thresholds": {"mode": "absolute", "steps": [{"color": "purple", "value": null}]},
+          "unit": "short"
+        },
+        "overrides": []
+      },
+      "gridPos": {"h": 4, "w": 6, "x": 12, "y": 0},
+      "id": 3,
+      "options": {
+        "colorMode": "value",
+        "graphMode": "none",
+        "justifyMode": "center",
+        "orientation": "auto",
+        "reduceOptions": {"calcs": ["lastNotNull"], "fields": "", "values": false},
+        "textMode": "auto"
+      },
+      "pluginVersion": "10.0.0",
+      "targets": [
+        {
+          "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+          "editorMode": "code",
+          "expr": "sum(count_over_time({service_name=\"barbero-scripts/caddy\"} |= \"handled request\" | json | request_uri=~\".*/media/.*\\\\.mp3.*\" [$__range]))",
+          "legendFormat": "media",
+          "queryType": "instant",
+          "refId": "A"
+        }
+      ],
+      "title": "Media",
+      "type": "stat"
+    },
+    {
+      "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+      "fieldConfig": {
+        "defaults": {
+          "color": {"mode": "thresholds"},
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {"color": "green", "value": null},
+              {"color": "red", "value": 1}
+            ]
+          },
+          "unit": "short"
+        },
+        "overrides": []
+      },
+      "gridPos": {"h": 4, "w": 6, "x": 18, "y": 0},
+      "id": 4,
+      "options": {
+        "colorMode": "value",
+        "graphMode": "none",
+        "justifyMode": "center",
+        "orientation": "auto",
+        "reduceOptions": {"calcs": ["lastNotNull"], "fields": "", "values": false},
+        "textMode": "auto"
+      },
+      "pluginVersion": "10.0.0",
+      "targets": [
+        {
+          "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+          "editorMode": "code",
+          "expr": "sum(count_over_time({service_name=\"barbero-scripts/caddy\"} |= \"handled request\" | json | status >= 400 [$__range]))",
+          "legendFormat": "errors",
+          "queryType": "instant",
+          "refId": "A"
+        }
+      ],
+      "title": "HTTP 4xx/5xx",
+      "type": "stat"
+    },
+    {
+      "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+      "fieldConfig": {
+        "defaults": {
+          "color": {"mode": "palette-classic"},
+          "custom": {
+            "axisBorderShow": false,
+            "axisCenteredZero": false,
+            "axisColorMode": "text",
+            "axisLabel": "",
+            "axisPlacement": "auto",
+            "barAlignment": 0,
+            "drawStyle": "line",
+            "fillOpacity": 20,
+            "gradientMode": "none",
+            "hideFrom": {"legend": false, "tooltip": false, "viz": false},
+            "insertNulls": false,
+            "lineInterpolation": "smooth",
+            "lineWidth": 1,
+            "pointSize": 5,
+            "scaleDistribution": {"type": "linear"},
+            "showPoints": "never",
+            "spanNulls": false,
+            "stacking": {"group": "A", "mode": "none"},
+            "thresholdsStyle": {"mode": "off"}
+          },
+          "mappings": [],
+          "thresholds": {"mode": "absolute", "steps": [{"color": "green", "value": null}]},
+          "unit": "reqps"
+        },
+        "overrides": []
+      },
+      "gridPos": {"h": 8, "w": 16, "x": 0, "y": 4},
+      "id": 5,
+      "options": {
+        "legend": {"calcs": ["sum"], "displayMode": "list", "placement": "bottom", "showLegend": true},
+        "tooltip": {"mode": "multi", "sort": "desc"}
+      },
+      "pluginVersion": "10.0.0",
+      "targets": [
+        {
+          "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+          "editorMode": "code",
+          "expr": "sum(rate({service_name=\"barbero-scripts/caddy\"} |= \"handled request\" [$__auto]))",
+          "legendFormat": "all",
+          "queryType": "range",
+          "refId": "A"
+        },
+        {
+          "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+          "editorMode": "code",
+          "expr": "sum(rate({service_name=\"barbero-scripts/caddy\"} |= \"handled request\" | json | request_uri=~\".*feed\\\\.xml.*\" [$__auto]))",
+          "legendFormat": "feed",
+          "queryType": "range",
+          "refId": "B"
+        },
+        {
+          "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+          "editorMode": "code",
+          "expr": "sum(rate({service_name=\"barbero-scripts/caddy\"} |= \"handled request\" | json | request_uri=~\".*/media/.*\\\\.mp3.*\" [$__auto]))",
+          "legendFormat": "media",
+          "queryType": "range",
+          "refId": "C"
+        }
+      ],
+      "title": "Request rate",
+      "type": "timeseries"
+    },
+    {
+      "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+      "fieldConfig": {
+        "defaults": {
+          "color": {"mode": "palette-classic"},
+          "custom": {"hideFrom": {"legend": false, "tooltip": false, "viz": false}},
+          "mappings": []
+        },
+        "overrides": []
+      },
+      "gridPos": {"h": 8, "w": 8, "x": 16, "y": 4},
+      "id": 6,
+      "options": {
+        "legend": {"displayMode": "table", "placement": "right", "showLegend": true, "values": ["value"]},
+        "pieType": "donut",
+        "reduceOptions": {"calcs": ["lastNotNull"], "fields": "", "values": false},
+        "tooltip": {"mode": "single", "sort": "none"}
+      },
+      "pluginVersion": "10.0.0",
+      "targets": [
+        {
+          "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+          "editorMode": "code",
+          "expr": "sum by (country_code) (count_over_time({service_name=\"barbero-scripts/caddy\"} |= \"handled request\" [$__range]))",
+          "legendFormat": "{{country_code}}",
+          "queryType": "instant",
+          "refId": "A"
+        }
+      ],
+      "title": "By country",
+      "type": "piechart"
+    },
+    {
+      "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+      "fieldConfig": {
+        "defaults": {
+          "color": {"mode": "palette-classic"},
+          "custom": {
+            "axisBorderShow": false,
+            "axisCenteredZero": false,
+            "axisColorMode": "text",
+            "axisLabel": "",
+            "axisPlacement": "auto",
+            "fillOpacity": 80,
+            "gradientMode": "none",
+            "hideFrom": {"legend": false, "tooltip": false, "viz": false},
+            "lineWidth": 1,
+            "scaleDistribution": {"type": "linear"},
+            "thresholdsStyle": {"mode": "off"}
+          },
+          "mappings": [],
+          "thresholds": {"mode": "absolute", "steps": [{"color": "green", "value": null}]},
+          "unit": "short"
+        },
+        "overrides": []
+      },
+      "gridPos": {"h": 8, "w": 12, "x": 0, "y": 12},
+      "id": 7,
+      "options": {
+        "barRadius": 0,
+        "barWidth": 0.8,
+        "fullHighlight": false,
+        "groupWidth": 0.7,
+        "legend": {"calcs": [], "displayMode": "list", "placement": "bottom", "showLegend": true},
+        "orientation": "horizontal",
+        "showValue": "auto",
+        "stacking": "none",
+        "tooltip": {"mode": "single", "sort": "none"},
+        "xTickLabelRotation": 0,
+        "xTickLabelSpacing": 0
+      },
+      "pluginVersion": "10.0.0",
+      "targets": [
+        {
+          "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+          "editorMode": "code",
+          "expr": "sum by (status) (count_over_time({service_name=\"barbero-scripts/caddy\"} |= \"handled request\" | json status [$__range]))",
+          "legendFormat": "{{status}}",
+          "queryType": "instant",
+          "refId": "A"
+        }
+      ],
+      "title": "By status",
+      "type": "barchart"
+    },
+    {
+      "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+      "fieldConfig": {
+        "defaults": {
+          "color": {"mode": "palette-classic"},
+          "custom": {
+            "axisBorderShow": false,
+            "axisCenteredZero": false,
+            "axisColorMode": "text",
+            "axisLabel": "",
+            "axisPlacement": "auto",
+            "fillOpacity": 80,
+            "gradientMode": "none",
+            "hideFrom": {"legend": false, "tooltip": false, "viz": false},
+            "lineWidth": 1,
+            "scaleDistribution": {"type": "linear"},
+            "thresholdsStyle": {"mode": "off"}
+          },
+          "mappings": [],
+          "thresholds": {"mode": "absolute", "steps": [{"color": "green", "value": null}]},
+          "unit": "short"
+        },
+        "overrides": []
+      },
+      "gridPos": {"h": 8, "w": 12, "x": 12, "y": 12},
+      "id": 8,
+      "options": {
+        "barRadius": 0,
+        "barWidth": 0.8,
+        "fullHighlight": false,
+        "groupWidth": 0.7,
+        "legend": {"calcs": [], "displayMode": "list", "placement": "bottom", "showLegend": false},
+        "orientation": "horizontal",
+        "showValue": "auto",
+        "stacking": "none",
+        "tooltip": {"mode": "single", "sort": "none"},
+        "xTickLabelRotation": 0,
+        "xTickLabelSpacing": 0
+      },
+      "pluginVersion": "10.0.0",
+      "targets": [
+        {
+          "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+          "editorMode": "code",
+          "expr": "topk(10, sum by (country_code) (count_over_time({service_name=\"barbero-scripts/caddy\"} |= \"handled request\" [$__range])))",
+          "legendFormat": "{{country_code}}",
+          "queryType": "instant",
+          "refId": "A"
+        }
+      ],
+      "title": "Top countries",
+      "type": "barchart"
+    },
+    {
+      "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+      "gridPos": {"h": 10, "w": 24, "x": 0, "y": 20},
+      "id": 9,
+      "options": {
+        "dedupStrategy": "none",
+        "enableLogDetails": true,
+        "prettifyLogMessage": false,
+        "showLabels": false,
+        "showTime": true,
+        "sortOrder": "Descending",
+        "wrapLogMessage": false
+      },
+      "pluginVersion": "10.0.0",
+      "targets": [
+        {
+          "datasource": {"type": "loki", "uid": "${DS_LOKI}"},
+          "editorMode": "code",
+          "expr": "{service_name=\"barbero-scripts/caddy\"} |= \"handled request\"",
+          "queryType": "range",
+          "refId": "A"
+        }
+      ],
+      "title": "Recent Caddy requests",
+      "type": "logs"
+    }
+  ],
+  "refresh": "1m",
+  "schemaVersion": 38,
+  "tags": ["barbero", "podcast", "loki"],
+  "templating": {
+    "list": [
+      {
+        "current": {},
+        "hide": 2,
+        "includeAll": false,
+        "label": "Datasource",
+        "multi": false,
+        "name": "DS_LOKI",
+        "options": [],
+        "query": "loki",
+        "refresh": 1,
+        "regex": "",
+        "skipUrlSync": true,
+        "type": "datasource"
+      }
+    ]
+  },
+  "time": {"from": "now-24h", "to": "now"},
+  "timepicker": {},
+  "timezone": "browser",
+  "title": "Barbero podcast",
+  "uid": "barbero-podcast-caddy",
+  "version": 1
+}
