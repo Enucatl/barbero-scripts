@@ -10,6 +10,7 @@
 	}
 
 	handle /healthz {
+		log_skip
 		respond 200
 	}
 
