@@ -9,6 +9,10 @@
 		format json
 	}
 
+	handle /healthz {
+		respond 200
+	}
+
 	root * /srv/published
 
 	header {

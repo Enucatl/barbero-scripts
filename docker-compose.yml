@@ -14,6 +14,12 @@ services:
     tmpfs:
       - /config
       - /data
+    healthcheck:
+      test: ["CMD", "wget", "-q", "--spider", "http://127.0.0.1:8080/healthz"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+      start_period: 5s
 
   cloudflared:
     extends:
@@ -23,6 +29,7 @@ services:
     user: "0:0"
     environment:
       TUNNEL_TOKEN_FILE: /run/secrets/cloudflare_tunnel_token
+      TUNNEL_METRICS: 127.0.0.1:20241
     command: tunnel --no-autoupdate run
     secrets:
       - cloudflare_tunnel_token
@@ -30,7 +37,14 @@ services:
       - podcast_internal
       - internet
     depends_on:
-      - caddy
+      caddy:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "cloudflared", "tunnel", "--metrics", "127.0.0.1:20241", "ready"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
 
 secrets:
   cloudflare_tunnel_token:
