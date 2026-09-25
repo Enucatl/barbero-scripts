@@ -1,13 +1,13 @@
 # Establish the Italian source
 
-Read `{transcript_path}` in full. First reconstruct the entire episode continuously, in utterance
-order, without rewriting or omitting anything. Review the reconstruction against the available
-audio and put only demonstrable recognition corrections in the external `corrections.yaml`.
-Preserve fillers, repetition, false starts, spoken grammar, jokes, and digressions.
+Begin only after the semantic transcript pass and the user's uncertainty decisions are complete.
+Rerender the resolved transcript with `barbero render` when necessary. Read `{transcript_path}` in
+full and define numbered chapters in `chapters.yaml` with complete ordered utterance coverage.
+Preserve fillers, repetition, false starts, spoken grammar, jokes, and digressions. If a new
+recognition problem appears, return it to the uncertainty queue for a user decision; do not edit
+`corrections.yaml`, resolve pending items, or silently rewrite the transcript in this stage.
 
-Resolve every pending item in `transcript-uncertainties.yaml` against audio. “Keep current,” “use
-proposal,” and “edit” all store the complete resulting utterance in `resolved_text`. After
-rerendering the resolved transcript, define numbered chapters in `chapters.yaml`, then run
+After defining chapters, run
 `barbero assemble-italian {episode_directory}`. The assembler may join utterances into continuous
 paragraphs and add punctuation already present in the transcript; it must not change the text that
 would be recited. Research markers belong in HTML comments and must not alter spoken wording.

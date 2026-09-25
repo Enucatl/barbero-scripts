@@ -1,7 +1,7 @@
 # Chapter-level spoken-English review
 
 Review exactly `{chapter_id}` from `{tense_path}` and write `naturalness/{chapter_id}.md`.
-Keep its heading, chapter coverage comment, and text. Add exactly
+Keep its heading, chapter coverage comment, and substantive content. Add exactly
 `<!-- naturalness-reviewed: {chapter_id} -->` before the heading.
 
 Write for an intelligent contemporary American without period expertise. Rewrite the chapter
@@ -88,7 +88,8 @@ approved meaning and its `[N-...]` marker, but let that marker be the only sign 
 made. Apply the same rule when historical research supplies a more accurate sentence: integrate the
 result into Barbero's narrative voice without presenting it as a review or rebuttal.
 
-Compare the result against the same Italian chapter. Confirm exact ordered transcript coverage,
+Compare the result against the same Italian chapter and accepted corrections. Where they differ,
+preserve the approved meaning in the English input. Confirm exact ordered transcript coverage,
 then read the English aloud from beginning to end. On that final read, revise every phrase that still
 sounds like a close translation or formal essay prose. Assembly removes only the review comment and
 concatenates reviewed chapters in order; it performs no rewrite.

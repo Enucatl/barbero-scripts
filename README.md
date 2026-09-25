@@ -21,13 +21,19 @@ and editorial proposals.
 
 ### Model boundaries
 
-- **GPT-5.6 Luna** handles bounded production work: transcript uncertainty review, chapter and
+- **GPT-6 Luna** handles bounded production work: transcript uncertainty review, chapter and
   outline structure, faithful translation, proposal drafting, tense, naturalness, and final
   integration.
-- **GPT-5.6 Sol** handles evidence-heavy work: individual historical research, the whole research
-  audit, and whole-episode listener synthesis.
+- **GPT-6 Sol** handles evidence-heavy work: individual historical research, the whole research
+  audit.
+- **GPT-6 Astra** handles whole-episode listener synthesis, combining the complete spoken script
+  and outline into audience-focused editorial proposals.
 - No external-model fallback is used. Sol may return a blocked finding; it may not lower the
   evidence standard.
+
+The skill specifies stage models and reasoning efforts for the Codex host; the Python CLI does
+not call or select an OpenAI model. See the [prompting review](docs/episode-prompting-review.md) for
+the GPT-6 guidance, changes, and a representative evaluation procedure.
 
 ### Artifact-gated progress
 
@@ -62,13 +68,31 @@ uv run barbero render episodes/021-il-cavaliere/episode.yaml
 uv run barbero status episodes/021-il-cavaliere --json
 ```
 
-After the three human queues are resolved, validate and publish only the tokenized, unlisted
-preview by default:
+After speaker selection and the transcript, content, and listener decisions are resolved, validate
+the final script. Once recorded audio and publication metadata are available, build the tokenized,
+unlisted preview:
 
 ```bash
 uv run barbero validate episodes/021-il-cavaliere
 uv run barbero publish-preview
 ```
+
+The publisher scans eligible episodes and does not accept a positional episode argument. Verify
+the target episode appears in the page, feed, and media output before marking `preview_published`
+in its metadata. The skill's [execution reference](.agents/skills/produce-barbero-episode/references/execution.md)
+maps intermediate stages to commands and explains resuming partial chapter work.
+This marks a local build: current Caddy configuration does not serve token-prefixed previews.
+Report its local path; a reachable private preview requires a serving change.
+
+For example, invoke the workflow with a concrete scope:
+
+```text
+$produce-barbero-episode resume episodes/021-come-pensava-un-uomo-del-medioevo-il-cavaliere
+through its unlisted preview. Preserve existing decisions and completed artifacts.
+```
+
+A request can also target analysis or one stage. The workflow continues through authorized work
+and presents concrete pending decisions when user input is needed.
 
 Public release, commits, pushes, provider changes, and overwriting an existing episode require
 separate explicit authorization.

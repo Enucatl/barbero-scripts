@@ -2,7 +2,8 @@
 
 Research exactly one quotation target: `{quotation_id}` in `{episode_directory}`.
 
-You have web search available and must use it. Read the quotation ledger entry, its passage in
+Use web search and open the supporting sources. If retrieval is unavailable, report that limitation
+and leave unsupported findings unresolved. Read the quotation ledger entry, its passage in
 `script.it.md`, and the surrounding outline chapter before searching.
 
 ## Research brief
@@ -75,7 +76,8 @@ After reporting the evidence:
 3. Preserve stable IDs and transcript references.
 4. Record exact wording, direct translation, locator, evidence limitations, confidence, status,
    plus quotation kind, verdict, and source-replacement status.
-5. Update the external research audit when one exists.
+5. Report that any existing research audit is now stale; the whole-research audit stage must review
+   the changed evidence before refreshing its verdict and hashes.
 6. Parse YAML, resolve every source reference, and run editorial validation.
 
 Research completion establishes technical source-replacement eligibility but does not approve a

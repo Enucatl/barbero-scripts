@@ -75,4 +75,7 @@ Compute hashes from the exact UTF-8 file contents with SHA-256 after all audit e
 audit has no blocking findings. Do not create a faithful translation when this checkpoint is
 missing, blocked, or stale.
 
+When refreshing a stale audit, recheck the changed evidence and cross-ledger consequences before
+issuing a new verdict. Recomputing hashes alone does not establish research readiness.
+
 Do not edit the English script and do not create a Git commit.

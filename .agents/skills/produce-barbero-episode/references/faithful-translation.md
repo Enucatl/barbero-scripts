@@ -15,5 +15,7 @@ its surrounding commentary: if Barbero quotes a clause, explains it, and resumes
 not consolidate the source material into one block. Do not insert recovered wording from
 `quotes.yaml`, fact-check, compress, naturalize strongly, or add connective prose.
 
-Verify complete ordered ID coverage and confirm that exact authoritative wording for every
-eligible quotation is absent. Edit only `script.translation.faithful.en.md`.
+Verify complete ordered ID coverage and compare quotations against the Italian to confirm that no
+researched source replacement was introduced. A faithful translation can naturally coincide with
+recovered wording, especially for a short phrase; do not distort it merely to force a mismatch.
+Edit only `script.translation.faithful.en.md`.

@@ -40,9 +40,10 @@ def test_episode_skill_model_routing_and_safety_boundary() -> None:
     )
 
     for route in (
-        "GPT-5.6 Luna, medium",
-        "GPT-5.6 Luna, high",
-        "GPT-5.6 Sol, high",
+        "GPT-6 Luna, high",
+        "GPT-6 Luna, high",
+        "GPT-6 Sol, high",
+        "GPT-6 Astra, high",
     ):
         assert route in skill
     assert "external model" in skill
