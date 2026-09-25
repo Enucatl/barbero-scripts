@@ -35,6 +35,13 @@ The skill specifies stage models and reasoning efforts for the Codex host; the P
 not call or select an OpenAI model. See the [prompting review](docs/episode-prompting-review.md) for
 the GPT-6 guidance, changes, and a representative evaluation procedure.
 
+An alternative [`$produce-barbero-episode-v2`](.agents/skills/produce-barbero-episode-v2/SKILL.md)
+trials one Astra adaptation with independent source and listener reviews and a consolidated
+editorial decision package. Invoke it with an episode path or a new episode's identity and source.
+It saves its reviewed script under `EPISODE/editorial-v2/script.en.md`, preserving the original
+workflow. The skill's v2 name is separate from the CLI's existing `workflow_version: 2`;
+trial artifacts are not yet integrated with the CLI's editorial status, validators, or publisher.
+
 ### Artifact-gated progress
 
 `barbero status EPISODE --json` reports the current `stage`, its `kind` (`machine`, `agent`,

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Produce Barbero Episode v2"
+  short_description: "Try the simplified Astra editorial workflow"
+  default_prompt: "Use $produce-barbero-episode-v2 to produce or resume this episode through a reviewed recording script in editorial-v2/."
