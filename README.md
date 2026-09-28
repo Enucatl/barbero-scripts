@@ -110,7 +110,15 @@ separate explicit authorization.
 uv run ruff format .
 uv run ruff check .
 uv run pytest -q
+node --test tests/player.test.cjs
 ```
+
+The website uses shared Jinja templates for the catalogue, episode, transcript, and research
+pages. Episode illustrations live at `episodes/<slug>/illustration.jpg`; the publisher copies
+them into the site and RSS feed, falling back to the show cover when an illustration is absent.
+The [illustration prompts](assets/episode-art-prompts.md) define the shared visual style.
+The single audio player remembers playback positions locally and restores the selected episode
+paused after navigating to another page.
 
 Source audio and provider responses stay outside Git. Reviewed text, research ledgers, decision
 queues, hashes, and patch provenance are committed under `episodes/`.

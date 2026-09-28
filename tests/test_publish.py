@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import re
+import shutil
 import subprocess
 from pathlib import Path
 from xml.etree import ElementTree as ET
@@ -196,9 +197,11 @@ def test_publish_adds_audio_resume_support_to_both_pages(tmp_path: Path) -> None
         (destination / "episodes/001-a-b-test/index.html").read_text(encoding="utf-8"),
     ]
     for page in pages:
-        assert 'data-resume-key="001-a-b-test"' in page
-        assert "localStorage.getItem(key)" in page
-        assert 'audio.addEventListener("pause", save)' in page
+        assert 'data-play="001-a-b-test"' in page
+        assert page.count('<audio id="podcast-audio"') == 1
+        assert 'const keyPrefix = "barbero-audio-position:"' in page
+        assert "localStorage.getItem(keyPrefix + selected.play)" in page
+        assert 'audio.addEventListener("pause", () => { save(); updateButtons(); })' in page
         assert 'audio.addEventListener("ended"' in page
         assert 'rel="icon" href="https://example.test/favicon.ico"' in page
         assert 'rel="apple-touch-icon" href="https://example.test/apple-touch-icon.png"' in page
@@ -211,8 +214,10 @@ def test_publish_reuses_media_when_source_is_unchanged(tmp_path: Path, monkeypat
     real_run = publish_module.subprocess.run
 
     def fail_if_media_encode(command, **kwargs):
-        if command and command[0] == "ffmpeg" and any(
-            isinstance(part, str) and part.startswith("scale=") for part in command
+        if (
+            command
+            and command[0] == "ffmpeg"
+            and any(isinstance(part, str) and part.startswith("scale=") for part in command)
         ):
             return real_run(command, **kwargs)
         raise AssertionError("unchanged media should not be re-encoded")
@@ -255,3 +260,41 @@ def test_encode_reencodes_when_source_digest_changes(tmp_path: Path, monkeypatch
 
     assert encoded.media_name.endswith(".mp3")
     assert calls and calls[0][0] == "ffmpeg"
+
+
+def test_publish_uses_episode_artwork_and_latest_first(tmp_path: Path) -> None:
+    """Publish custom artwork with a cover fallback and preserve publication order."""
+    config, episodes, audio, token = write_fixture(tmp_path)
+    older = episodes / "001-a-b-test"
+    newer = episodes / "002-newer"
+    shutil.copytree(older, newer)
+    metadata = yaml.safe_load((newer / "episode.yaml").read_text())
+    metadata.update(slug=newer.name, number=2)
+    metadata["publication"].update(title="Newest episode", published_at="2026-08-02T10:00:00Z")
+    (newer / "episode.yaml").write_text(yaml.safe_dump(metadata), encoding="utf-8")
+    shutil.copy2(tmp_path / "cover.png", newer / "illustration.jpg")
+    (audio / newer.name).mkdir()
+    shutil.copy2(
+        audio / older.name / f"{older.name}.opus", audio / newer.name / f"{newer.name}.opus"
+    )
+
+    discovered = discover_episodes(episodes, audio)
+    assert [episode.slug for episode in discovered] == [newer.name, older.name]
+    assert discovered[0].artwork_name == "episodes/002-newer/illustration.jpg"
+    assert discovered[1].artwork is None
+    assert discovered[1].artwork_name == "cover.png"
+
+    destination = publish_preview(config, episodes, audio, tmp_path / "published", token)
+    illustration = destination / discovered[0].artwork_name
+    assert illustration.read_bytes() == (newer / "illustration.jpg").read_bytes()
+    assert not (destination / "episodes" / older.name / "illustration.jpg").exists()
+    items = ET.parse(destination / "feed.xml").findall("./channel/item")
+    assert [item.findtext("title") for item in items] == ["Newest episode", "A & B <History>"]
+    images = [
+        item.find("{http://www.itunes.com/dtds/podcast-1.0.dtd}image").attrib["href"]
+        for item in items
+    ]
+    base_url = "https://example.test/valid_secret_token_123"
+    assert images == [f"{base_url}/{episode.artwork_name}" for episode in discovered]
+    index = (destination / "index.html").read_text(encoding="utf-8")
+    assert index.index("Newest episode") < index.index("A &amp; B &lt;History&gt;")

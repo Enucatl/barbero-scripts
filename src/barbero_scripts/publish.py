@@ -38,6 +38,12 @@ class PublishedEpisode:
     media_name: str = ""
     media_bytes: int = 0
     duration_seconds: int = 0
+    artwork: Path | None = None
+
+    @property
+    def artwork_name(self) -> str:
+        """Return the published illustration path, falling back to the show cover."""
+        return f"episodes/{self.slug}/illustration.jpg" if self.artwork else "cover.png"
 
 
 def stable_guid(slug: str) -> str:
@@ -76,6 +82,7 @@ def discover_episodes(episodes_root: Path, audio_root: Path) -> list[PublishedEp
             raise ValueError(f"{metadata_path}: publication.explicit must be boolean")
         slug = str(raw["slug"])
         directory = metadata_path.parent
+        artwork = directory / "illustration.jpg"
         source = audio_root / slug / f"{slug}.opus"
         script = directory / "script.en.md"
         if not source.is_file():
@@ -104,6 +111,7 @@ def discover_episodes(episodes_root: Path, audio_root: Path) -> list[PublishedEp
                 script=script,
                 articles=tuple(sorted((directory / "in-depth").glob("*.md"))),
                 guid=stable_guid(slug),
+                artwork=artwork if artwork.is_file() else None,
             )
         )
     return sorted(episodes, key=lambda episode: episode.published_at, reverse=True)
@@ -278,12 +286,15 @@ def _rss(config: dict[str, Any], episodes: list[PublishedEpisode], base_url: str
         ET.SubElement(item, f"{{{namespaces['itunes']}}}duration").text = _duration(
             episode.duration_seconds
         )
-        ET.SubElement(item, f"{{{namespaces['itunes']}}}episode").text = str(episode.number)
         ET.SubElement(item, f"{{{namespaces['itunes']}}}episodeType").text = "full"
         ET.SubElement(item, f"{{{namespaces['itunes']}}}explicit").text = str(
             episode.explicit
         ).lower()
-        ET.SubElement(item, f"{{{namespaces['itunes']}}}image", {"href": f"{base_url}/cover.png"})
+        ET.SubElement(
+            item,
+            f"{{{namespaces['itunes']}}}image",
+            {"href": f"{base_url}/{episode.artwork_name}"},
+        )
         ET.SubElement(
             item,
             f"{{{namespaces['podcast']}}}transcript",
@@ -371,15 +382,18 @@ def publish_preview(
         environment = Environment(
             loader=PackageLoader("barbero_scripts"), autoescape=select_autoescape()
         )
+        environment.filters["duration"] = _duration
         index = environment.get_template("index.html").render(
             config=config,
-            episodes=sorted(encoded, key=lambda episode: episode.number),
+            episodes=encoded,
             base_url=base_url,
         )
         (staging / "index.html").write_text(index, encoding="utf-8")
         for episode in encoded:
             directory = staging / "episodes" / episode.slug
             directory.mkdir(parents=True)
+            if episode.artwork:
+                shutil.copy2(episode.artwork, directory / "illustration.jpg")
             transcript = markdown_html(episode.script)
             articles = [(article.stem, markdown_html(article)) for article in episode.articles]
             page = environment.get_template("episode.html").render(
@@ -393,7 +407,7 @@ def publish_preview(
             (directory / "index.html").write_text(page, encoding="utf-8")
             (directory / "transcript.html").write_text(
                 environment.get_template("transcript.html").render(
-                    config=config, episode=episode, transcript=transcript
+                    config=config, episode=episode, transcript=transcript, base_url=base_url
                 ),
                 encoding="utf-8",
             )
@@ -402,7 +416,7 @@ def publish_preview(
                 research.mkdir(exist_ok=True)
                 (research / f"{title}.html").write_text(
                     environment.get_template("article.html").render(
-                        config=config, episode=episode, title=title, body=body
+                        config=config, episode=episode, title=title, body=body, base_url=base_url
                     ),
                     encoding="utf-8",
                 )

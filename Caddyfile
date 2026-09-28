@@ -29,7 +29,7 @@
 	@feed path /feed.xml
 	header @feed Content-Type "application/rss+xml; charset=utf-8"
 
-	@allowed path_regexp allowed ^/(feed\.xml|robots\.txt|cover\.png|favicon\.ico|apple-touch-icon\.png|index\.html|media/[^/]+-[0-9a-f]{16}\.mp3|episodes/[A-Za-z0-9_-]+/(index\.html|transcript\.html|research/[A-Za-z0-9_-]+\.html))$
+	@allowed path_regexp allowed ^/(feed\.xml|robots\.txt|cover\.png|favicon\.ico|apple-touch-icon\.png|index\.html|media/[^/]+-[0-9a-f]{16}\.mp3|episodes/[A-Za-z0-9_-]+/(index\.html|transcript\.html|illustration\.jpg|research/[A-Za-z0-9_-]+\.html))$
 	handle @allowed {
 		file_server
 	}

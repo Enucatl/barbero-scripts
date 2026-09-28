@@ -1,1 +1,7 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow"><title>{{ episode.title }} transcript</title>{% include "icons.html" %}<style>{% include "style.css" %}</style></head><body><main><h1>{{ episode.title }}</h1><div class="transcript">{{ transcript|safe }}</div></main></body></html>
+{% extends "base.html" %}
+{% block title %}{{ episode.title }} — Transcript{% endblock %}
+{% block content %}
+<a class="back-link" href="./">← Back to episode</a>
+<header class="reading-header"><p class="eyebrow">The verbatim English transcript</p><h1>{{ episode.title }}</h1></header>
+<div class="transcript prose standalone-prose">{{ transcript|safe }}</div>
+{% endblock %}

@@ -1,0 +1,7 @@
+{% macro play(episode, base_url, label="Listen to episode", compact=false) -%}
+<button class="{{ 'play-circle' if compact else 'button button-primary' }}" type="button" data-play="{{ episode.slug }}" data-src="{{ base_url }}/media/{{ episode.media_name }}" data-title="{{ episode.title }}" data-artwork="{{ base_url }}/{{ episode.artwork_name }}" data-url="{{ base_url }}/episodes/{{ episode.slug }}/" aria-label="{{ label }}: {{ episode.title }}" aria-pressed="false"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 4.5v15l12-7.5z"/></svg>{% if not compact %}<span>{{ label }}</span>{% endif %}</button>
+{%- endmacro %}
+
+{% macro metadata(episode) -%}
+<div class="episode-meta"><time datetime="{{ episode.published_at.isoformat() }}">{{ episode.published_at.strftime('%b %d, %Y') }}</time><span aria-hidden="true">·</span><span>{{ episode.duration_seconds|duration }}</span></div>
+{%- endmacro %}

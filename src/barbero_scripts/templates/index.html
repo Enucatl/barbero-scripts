@@ -1,8 +1,32 @@
-<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
-<meta name="robots" content="noindex,nofollow"><title>{{ config.title }}</title>
-{% include "icons.html" %}<style>{% include "style.css" %}</style></head><body><main>
-<header><img class="cover" src="cover.png" alt="{{ config.title }} cover"><div><h1>{{ config.title }}</h1><p class="subtitle">{{ config.subtitle }}</p><p>{{ config.description }}</p><p>To listen in Apple Podcasts or your favorite podcast app, copy this RSS feed URL and add it as a show: <a href="feed.xml">RSS feed URL</a></p></div></header>
-<h2>Episodes</h2>{% for episode in episodes %}<article><h3><a href="episodes/{{ episode.slug }}/">{{ episode.title }}</a></h3><p>{{ episode.summary }}</p><audio controls preload="none" data-resume-key="{{ episode.slug }}" src="media/{{ episode.media_name }}"></audio></article>{% endfor %}
-{% include "audio_resume.html" %}
-</main></body></html>
+{% extends "base.html" %}
+{% from "components.html" import play, metadata %}
+{% block content %}
+<section class="introduction" aria-labelledby="intro-title">
+  <h1 id="intro-title">History, <em>Told Otherwise</em></h1>
+  <p class="intro-description">Independently researched, translated, and narrated for an international audience.</p>
+</section>
+{% set latest = episodes[0] %}
+<section class="featured" aria-labelledby="featured-title">
+  <a class="featured-art" href="episodes/{{ latest.slug }}/" tabindex="-1" aria-hidden="true"><img src="{{ latest.artwork_name }}" alt="" width="1024" height="1024" fetchpriority="high"></a>
+  <div class="featured-copy">
+    <p class="eyebrow"><span class="latest-dot" aria-hidden="true"></span> The latest episode</p>
+    {{ metadata(latest) }}
+    <h2 id="featured-title"><a href="episodes/{{ latest.slug }}/">{{ latest.title }}</a></h2>
+    <p>{{ latest.summary }}</p>
+    <div class="actions">{{ play(latest, base_url, 'Listen now') }}<a class="text-link" href="episodes/{{ latest.slug }}/">Explore episode <span aria-hidden="true">↗</span></a></div>
+  </div>
+</section>
+<section id="episodes" class="episode-archive" aria-labelledby="archive-title">
+  <div class="section-heading"><div><p class="eyebrow">Keep exploring</p><h2 id="archive-title">The episode collection</h2></div><span class="episode-count">{{ episodes|length }} {{ 'episode' if episodes|length == 1 else 'episodes' }}</span></div>
+  <div class="episode-list">
+  {% for episode in episodes %}
+    <article class="episode-row">
+      <a class="episode-thumb" href="episodes/{{ episode.slug }}/" tabindex="-1" aria-hidden="true"><img src="{{ episode.artwork_name }}" alt="" width="160" height="160" loading="lazy"></a>
+      <div class="episode-copy">{{ metadata(episode) }}<h3><a href="episodes/{{ episode.slug }}/">{{ episode.title }}</a></h3><p>{{ episode.summary }}</p></div>
+      {{ play(episode, base_url, compact=true) }}
+    </article>
+  {% endfor %}
+  </div>
+</section>
+<noscript><p>Listen directly from an episode page, or <a href="feed.xml">subscribe with RSS</a>.</p></noscript>
+{% endblock %}

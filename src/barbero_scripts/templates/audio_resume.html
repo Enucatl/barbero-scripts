@@ -1,43 +1,109 @@
+<aside id="player" class="player" hidden aria-label="Podcast player">
+  <img class="player-art" alt="" width="56" height="56">
+  <div class="player-info"><span class="eyebrow">Now listening</span><a id="player-title" href="#"></a><span id="player-status" role="status" aria-live="polite"></span></div>
+  <audio id="podcast-audio" controls preload="none" aria-label="Episode playback"></audio>
+  <label class="player-speed" for="playback-speed">Speed <select id="playback-speed"><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option><option value="1.5">1.5×</option><option value="2">2×</option></select></label>
+  <button id="player-close" class="player-close" type="button" aria-label="Close player">×</button>
+</aside>
 <script>
 (() => {
+  const player = document.getElementById("player");
+  const audio = document.getElementById("podcast-audio");
+  const status = document.getElementById("player-status");
+  const speed = document.getElementById("playback-speed");
+  const buttons = document.querySelectorAll("button[data-play]");
   const keyPrefix = "barbero-audio-position:";
+  const sessionKey = "barbero-selected-episode";
+  let selected;
+  let ready = false;
+  let lastSaved = 0;
 
-  document.querySelectorAll("audio[data-resume-key]").forEach((audio) => {
-    const key = keyPrefix + audio.dataset.resumeKey;
-    let saved;
+  const save = () => {
+    if (!selected || !ready || audio.ended) return;
     try {
-      saved = Number(localStorage.getItem(key));
-    } catch {
-      return;
+      localStorage.setItem(keyPrefix + selected.play, String(audio.currentTime));
+    } catch { /* Listening works when browser storage is disabled. */ }
+  };
+  const updateButtons = () => buttons.forEach((button) => {
+    button.setAttribute("aria-pressed", String(button.dataset.play === selected?.play && !audio.paused));
+  });
+  const selectEpisode = (episode) => {
+    save();
+    audio.pause();
+    ready = false;
+    selected = episode;
+    audio.src = episode.src;
+    audio.load();
+    audio.playbackRate = Number(speed.value);
+    player.querySelector(".player-art").src = episode.artwork;
+    const title = document.getElementById("player-title");
+    title.textContent = episode.title;
+    title.href = episode.url;
+    status.textContent = "";
+    player.hidden = false;
+    document.body.classList.add("has-player");
+    updateButtons();
+    try { sessionStorage.setItem(sessionKey, JSON.stringify(episode)); } catch {}
+  };
+  audio.addEventListener("loadedmetadata", () => {
+    ready = true;
+    try {
+      const saved = Number(localStorage.getItem(keyPrefix + selected.play));
+      if (Number.isFinite(saved) && saved > 0 && saved < audio.duration) audio.currentTime = saved;
+    } catch {}
+  });
+  buttons.forEach((button) => button.addEventListener("click", async () => {
+    if (selected?.play !== button.dataset.play) selectEpisode({ ...button.dataset });
+    if (!audio.paused) { audio.pause(); return; }
+    status.textContent = "";
+    try { await audio.play(); }
+    catch (error) {
+      if (error.name !== "AbortError") status.textContent = "Playback could not start. Please try the player controls.";
     }
-
-    const restore = () => {
-      if (Number.isFinite(saved) && saved > 0 && saved < audio.duration) {
-        audio.currentTime = saved;
-      }
-    };
-    if (audio.readyState >= 1) {
-      restore();
-    } else {
-      audio.addEventListener("loadedmetadata", restore, { once: true });
+  }));
+  audio.addEventListener("play", () => { status.textContent = ""; updateButtons(); });
+  audio.addEventListener("pause", () => { save(); updateButtons(); });
+  audio.addEventListener("timeupdate", () => {
+    if (Date.now() - lastSaved >= 5000) { save(); lastSaved = Date.now(); }
+  });
+  audio.addEventListener("ended", () => {
+    try { localStorage.removeItem(keyPrefix + selected.play); } catch {}
+    updateButtons();
+  });
+  audio.addEventListener("error", () => { status.textContent = "This episode could not be loaded. Please try again."; });
+  window.addEventListener("pagehide", save);
+  speed.addEventListener("change", () => { audio.playbackRate = Number(speed.value); });
+  document.getElementById("player-close").addEventListener("click", () => {
+    audio.pause();
+    save();
+    player.hidden = true;
+    document.body.classList.remove("has-player");
+    const trigger = Array.from(buttons).find((button) => button.dataset.play === selected?.play) || document.querySelector(".back-link, .brand");
+    if (trigger) trigger.focus();
+    selected = undefined;
+    ready = false;
+    try { sessionStorage.removeItem(sessionKey); } catch {}
+  });
+  try {
+    const episode = JSON.parse(sessionStorage.getItem(sessionKey));
+    if (episode && ["play", "title", "src", "artwork", "url"].every((key) => typeof episode[key] === "string") &&
+        ["src", "artwork", "url"].every((key) => new URL(episode[key]).origin === location.origin)) {
+      selectEpisode(episode);
     }
+  } catch {}
 
-    const save = () => {
+  document.querySelectorAll("[data-copy-feed]").forEach((button) => {
+    const label = button.textContent;
+    button.addEventListener("click", async () => {
       try {
-        if (audio.currentTime > 0) {
-          localStorage.setItem(key, String(audio.currentTime));
-        }
+        await navigator.clipboard.writeText(button.dataset.copyFeed);
+        button.textContent = "RSS link copied";
+        setTimeout(() => { button.textContent = label; }, 2500);
       } catch {
-        // Storage may be disabled by the browser.
-      }
-    };
-    audio.addEventListener("pause", save);
-    window.addEventListener("pagehide", save);
-    audio.addEventListener("ended", () => {
-      try {
-        localStorage.removeItem(key);
-      } catch {
-        // Storage may be disabled by the browser.
+        const input = document.getElementById("feed-url");
+        input.hidden = false;
+        input.focus();
+        input.select();
       }
     });
   });

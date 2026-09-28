@@ -1,9 +1,31 @@
-<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
-<meta name="robots" content="noindex,nofollow"><title>{{ episode.title }} — {{ config.title }}</title>{% include "icons.html" %}<style>{% include "style.css" %}</style></head><body><main>
-<nav><a href="{{ base_url }}/">← {{ config.title }}</a></nav><h1>{{ episode.title }}</h1><p>{{ episode.summary }}</p><p>{{ duration }}</p>
-<audio controls preload="metadata" data-resume-key="{{ episode.slug }}" src="{{ base_url }}/media/{{ episode.media_name }}"></audio>
-<h2>Verbatim English transcript</h2><div class="transcript">{{ transcript|safe }}</div>
-{% if articles %}<h2>In-depth research</h2><ul>{% for title, body in articles %}<li><a href="research/{{ title }}.html">{{ title|replace('-', ' ') }}</a></li>{% endfor %}</ul>{% endif %}
-{% include "audio_resume.html" %}
-</main></body></html>
+{% extends "base.html" %}
+{% from "components.html" import play, metadata %}
+{% block title %}{{ episode.title }} — {{ config.title }}{% endblock %}
+{% block content %}
+<a class="back-link" href="{{ base_url }}/#episodes">← All episodes</a>
+<section class="episode-hero" aria-labelledby="episode-title">
+  <div class="episode-hero-copy">
+    <p class="eyebrow">Stories worth listening to</p>
+    {{ metadata(episode) }}
+    <h1 id="episode-title">{{ episode.title }}</h1>
+    <p class="episode-summary">{{ episode.summary }}</p>
+    <div class="actions">{{ play(episode, base_url) }}<a class="text-link" href="#transcript">Read transcript <span aria-hidden="true">↓</span></a></div>
+    <noscript><p><a href="{{ base_url }}/media/{{ episode.media_name }}">Play the audio recording</a></p></noscript>
+  </div>
+  <img class="episode-hero-art" src="{{ base_url }}/{{ episode.artwork_name }}" alt="Editorial illustration for {{ episode.title }}" width="1024" height="1024" fetchpriority="high">
+</section>
+<div class="reading-layout">
+  <section id="transcript" aria-labelledby="transcript-title">
+    <p class="eyebrow">Read along</p><h2 id="transcript-title">The full story</h2>
+    <p class="section-description">The verbatim English transcript of this episode.</p>
+    <div class="transcript prose">{{ transcript|safe }}</div>
+  </section>
+  <aside class="episode-notes" aria-label="Episode resources">
+    <p class="eyebrow">Go a little deeper</p><h2>Behind the story</h2>
+    <p>Explore the words and research behind this English adaptation.</p>
+    <a class="resource-link" href="transcript.html">Full transcript <span aria-hidden="true">↗</span></a>
+    {% if articles %}<h3>In-depth research</h3>{% for title, body in articles %}<a class="resource-link" href="research/{{ title }}.html">{{ title|replace('-', ' ') }} <span aria-hidden="true">↗</span></a>{% endfor %}{% endif %}
+    <a class="resource-link" href="{{ base_url }}/media/{{ episode.media_name }}" download>Download audio <span aria-hidden="true">↓</span></a>
+  </aside>
+</div>
+{% endblock %}

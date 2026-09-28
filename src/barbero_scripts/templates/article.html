@@ -1,1 +1,7 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow"><title>{{ title|replace('-', ' ') }} — {{ episode.title }}</title>{% include "icons.html" %}<style>{% include "style.css" %}</style></head><body><main><nav><a href="../">← {{ episode.title }}</a></nav><div class="article">{{ body|safe }}</div></main></body></html>
+{% extends "base.html" %}
+{% block title %}{{ title|replace('-', ' ') }} — {{ episode.title }}{% endblock %}
+{% block content %}
+<a class="back-link" href="../">← Back to episode</a>
+<header class="reading-header"><p class="eyebrow">In-depth research</p><p class="research-episode">{{ episode.title }}</p></header>
+<div class="article prose standalone-prose">{{ body|safe }}</div>
+{% endblock %}
