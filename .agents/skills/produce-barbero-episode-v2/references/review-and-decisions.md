@@ -146,9 +146,9 @@ already automated by the repository. Hashes should come from actual file bytes, 
 Check the applied passages against the Italian, evidence, and exact decisions. Check consequences
 across chapters, especially renamed people, earlier/later references, repeated explanations, scene
 chronology, and quotation/commentary joins. Read the final narration from beginning to end and
-record the same four audience judgments against the applied script. Reuse the existing final
-verification; this does not require another routine reviewer or full review package. If a
-repair is needed, record it in the draft/decision history and reapply with fresh verified hashes;
+record the same four audience judgments against the applied script. Reuse the existing verification
+for these checks; the separate final audience evaluation in workflow step 6 follows this stage.
+If a repair is needed, record it in the draft/decision history and reapply with fresh verified hashes;
 do not make unexplained edits only in the final. Recheck affected findings and dependencies rather
 than reflexively rerunning every investigation.
 
@@ -161,7 +161,8 @@ Record:
 - Disposition of every review finding, accepted/rejected decision totals, final English word count,
   continuity/read-aloud text review outcome, and unresolved evidence qualifications.
 - Status `ready-for-recording` only when required decisions are resolved, findings are addressed,
-  the final reflects the reviewed choices, and all applicable checks pass; otherwise `blocked`
+  the final audience evaluation and its user-directed changes are complete, the final reflects
+  the reviewed choices, and all applicable checks pass; otherwise `blocked`
   with the precise remaining work. Say whether audio/performed listening was actually assessed.
 
 Review reports retain their original input hashes. When repairs change a reviewed file, append a

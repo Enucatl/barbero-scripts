@@ -67,7 +67,14 @@ perform separate reviews and disclose that limitation; do not label self-review 
 5. **Decide, apply, verify.** Apply decisions already supplied; request only outstanding decisions.
    Apply accepted patches deterministically from the frozen draft. Verify the affected passages,
    quotations, full-episode continuity, and structural invariants. Save `script.en.md` and
-   `verification.md` with actual checks, input hashes, remaining limitations, and final status.
+   `verification.md` with actual checks, input hashes, and remaining limitations.
+6. **Final audience evaluation and user-directed edits.** Read
+   [final-audience-review.md](references/final-audience-review.md). Give a fresh `gpt-6-astra`
+   context at high reasoning the current recording script and the compiled prompt in that reference.
+   Report findings without editing, then let the user specify a custom solution for each point.
+   Apply only those instructions, verify the changes, and report exact before/after passages,
+   the issue each change fixes, and why that solution was chosen. Save `review.final.md` and
+   `changes.final.md`; update `verification.md` before declaring the episode ready for recording.
 
 Do not impose a faithful English intermediate, tense files, naturalness files, per-chapter approval
 rounds, a separate run ledger, or repeated full rewrites. A difficult passage may need a close
@@ -90,6 +97,9 @@ departures, authoritative quotation substitutions, substantive cuts/additions, a
 belong in the decision package unless explicitly authorized already. Never infer approval from
 elapsed time, a recommendation, or a research verdict. Prior episode choices are context, not
 blanket permission to make analogous cuts in a new episode.
+The final audience evaluation in step 6 has a narrower scope: report first and wait for the user's
+instructions on each finding, including routine wording changes. Resume that step from its saved
+findings and decisions rather than commissioning the same evaluation again.
 
 Complete independent authorized work while a decision is outstanding. If a required decision
 prevents further progress, present the concrete alternatives and evidence, link this skill, and
