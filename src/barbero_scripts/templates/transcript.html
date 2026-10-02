@@ -1,7 +1,8 @@
 {% extends "base.html" %}
+{% from "components.html" import title, trilogy_label %}
 {% block title %}{{ episode.title }} — Transcript{% endblock %}
 {% block content %}
 <a class="back-link" href="./">← Back to episode</a>
-<header class="reading-header"><p class="eyebrow">The verbatim English transcript</p><h1>{{ episode.title }}</h1></header>
+<header class="reading-header"><p class="eyebrow">The verbatim English transcript</p><h1>{{ title(episode) }}</h1>{{ trilogy_label(episode) }}</header>
 <div class="transcript prose standalone-prose">{{ transcript|safe }}</div>
 {% endblock %}

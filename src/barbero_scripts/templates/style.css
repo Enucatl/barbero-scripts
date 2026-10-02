@@ -57,6 +57,10 @@ p { margin: 0 0 1rem; }
 .episode-meta { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; color: var(--muted); font-size: .72rem; line-height: 1.5; }
 .featured h2 { margin-block: 16px 20px; }
 .featured h2 a, .episode-copy h3 a { color: var(--ink); text-decoration: none; }
+.trilogy-prefix, .featured h2 a .trilogy-prefix:hover, .episode-copy h3 a .trilogy-prefix:hover { color: var(--wine); }
+.trilogy-label { color: var(--muted); font-size: .73rem; line-height: 1.4; margin: -12px 0 16px; }
+.episode-copy .trilogy-label { font-size: .69rem; margin: -4px 0 10px; }
+.reading-header .trilogy-label { margin: 12px 0 0; }
 .featured h2 a:hover, .episode-copy h3 a:hover { color: var(--wine); }
 .featured-copy > p:not(.eyebrow) { color: #57584f; font-size: .93rem; }
 .actions { display: flex; align-items: center; gap: 22px; flex-wrap: wrap; margin-top: 26px; }
@@ -100,6 +104,13 @@ p { margin: 0 0 1rem; }
 .back-link { display: inline-block; font-size: .78rem; text-decoration: none; margin: 25px 0 32px; }
 .episode-hero { display: grid; grid-template-columns: 1.12fr 1fr; gap: 60px; align-items: center; padding-bottom: 76px; }
 .episode-hero h1 { font-size: clamp(2.5rem, 4.5vw, 4rem); margin: 19px 0 24px; }
+.episode-hero .trilogy-label { margin: -10px 0 24px; }
+.trilogy-nav { border-block: 1px solid #d8d2c6; padding: 28px 0; margin-bottom: 50px; }
+.trilogy-nav h2 { font-size: 1.5rem; margin-bottom: 14px; }
+.trilogy-nav ol { display: flex; flex-wrap: wrap; gap: 12px 36px; margin: 0; padding-left: 1.5rem; }
+.trilogy-nav li { padding-left: 3px; }
+.trilogy-nav a[aria-current="page"] { color: var(--ink); font-weight: 700; text-decoration: none; }
+.trilogy-nav small { display: block; color: var(--muted); font-size: .72rem; }
 .episode-hero-art { width: 100%; height: auto; aspect-ratio: 1; border-radius: 15px; }
 .episode-summary { color: var(--muted); font-size: 1rem; }
 .reading-layout { display: grid; grid-template-columns: minmax(0, 1fr) 280px; align-items: start; gap: 80px; }

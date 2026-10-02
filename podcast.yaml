@@ -12,3 +12,34 @@ explicit: false
 artwork: assets/cover.png
 hostname: podcast.enucatl.com
 copyright: Copyright 2026 Enucatl; English narration and editorial material only.
+trilogies:
+  - title: How Wars Begin
+    episodes:
+      - {number: 7, subject: World War I}
+      - {number: 8, subject: World War II}
+      - {number: 9, subject: The Falklands War}
+  - title: How Civil Wars Begin
+    episodes:
+      - {number: 138, subject: The English Civil War}
+      - {number: 139, subject: The American Civil War}
+      - {number: 140, subject: The French Civil War}
+  - title: Unbelievable Middle Ages
+    episodes:
+      - {number: 13, subject: Fear of the Year 1000}
+      - {number: 14, subject: The Right of the First Night}
+      - {number: 15, subject: Flat Earth}
+  - title: Clandestine Networks
+    episodes:
+      - {number: 2, subject: Dr. Sorge in Tokyo}
+      - {subject: 'The Red Brigades in Italy, 1970'}
+      - {subject: The GAP and the Via Rasella Attack}
+  - title: Living Together
+    episodes:
+      - {number: 182, subject: Slavery}
+      - {subject: Democracy}
+      - {subject: Totalitarianism}
+series:
+  - title: Money and Power
+    episodes:
+      - {number: 75, subject: 'Doña Gracia, Renaissance Financier'}
+      - {number: 76, subject: France Goes Bankrupt}

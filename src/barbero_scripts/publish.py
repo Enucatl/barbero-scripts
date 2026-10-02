@@ -39,6 +39,10 @@ class PublishedEpisode:
     media_bytes: int = 0
     duration_seconds: int = 0
     artwork: Path | None = None
+    series_title: str = ""
+    series_subject: str = ""
+    series_position: int = 0
+    series_size: int = 0
 
     @property
     def artwork_name(self) -> str:
@@ -334,6 +338,46 @@ def _write_site_icons(artwork: Path, staging: Path) -> None:
     )
 
 
+def _series_memberships(
+    config: dict[str, Any], episodes: list[PublishedEpisode]
+) -> dict[int, tuple[str, str, int, int]]:
+    """Validate series slots and identify their published episodes."""
+    memberships: dict[int, tuple[str, str, int, int]] = {}
+    published = {episode.number: episode for episode in episodes}
+    titles: set[str] = set()
+    for collection, size in ((config.get("trilogies", []), 3), (config.get("series", []), 2)):
+        for group in collection:
+            title = group["title"]
+            slots = group["episodes"]
+            if not isinstance(title, str) or not title or len(slots) != size:
+                raise ValueError(f"each collection needs a title and {size} episodes")
+            if title in titles:
+                raise ValueError(f"duplicate series title: {title}")
+            titles.add(title)
+            for position, slot in enumerate(slots, 1):
+                if set(slot) not in ({"subject"}, {"number", "subject"}):
+                    raise ValueError(f"{title}: invalid series episode fields")
+                number, subject = slot.get("number"), slot["subject"]
+                if (
+                    (
+                        number is not None
+                        and (not isinstance(number, int) or isinstance(number, bool))
+                    )
+                    or not isinstance(subject, str)
+                    or not subject
+                ):
+                    raise ValueError(f"{title}: invalid series episode")
+                if number is None:
+                    continue
+                if number in memberships:
+                    raise ValueError(f"episode {number} belongs to multiple series slots")
+                memberships[number] = (title, subject, position, size)
+                episode = published.get(number)
+                if episode and episode.title != f"{title}: {subject}":
+                    raise ValueError(f"episode {number} title disagrees with series catalogue")
+    return memberships
+
+
 def publish_preview(
     config_path: Path,
     episodes_root: Path,
@@ -362,6 +406,21 @@ def publish_preview(
     episodes = discover_episodes(episodes_root, audio_root)
     if not episodes:
         raise ValueError("no recorded episodes with publication metadata")
+    memberships = _series_memberships(config, episodes)
+    episodes = [
+        PublishedEpisode(
+            **{
+                **episode.__dict__,
+                "series_title": memberships[episode.number][0],
+                "series_subject": memberships[episode.number][1],
+                "series_position": memberships[episode.number][2],
+                "series_size": memberships[episode.number][3],
+            }
+        )
+        if episode.number in memberships
+        else episode
+        for episode in episodes
+    ]
     artwork = config_path.parent / config["artwork"]
     if not artwork.is_file():
         raise ValueError(f"missing artwork {artwork}")
@@ -378,6 +437,7 @@ def publish_preview(
             _encode(episode, staging / "media", previous_media_dir, previous_manifest)
             for episode in episodes
         ]
+        published_by_number = {episode.number: episode for episode in encoded}
         base_url = f"https://{config['hostname']}" + (f"/{token}" if token else "")
         environment = Environment(
             loader=PackageLoader("barbero_scripts"), autoescape=select_autoescape()
@@ -403,6 +463,12 @@ def publish_preview(
                 articles=articles,
                 base_url=base_url,
                 duration=_duration(episode.duration_seconds),
+                series_slots=[
+                    (slot["subject"], published_by_number.get(slot.get("number")))
+                    for group in config.get("trilogies", []) + config.get("series", [])
+                    if group["title"] == episode.series_title
+                    for slot in group["episodes"]
+                ],
             )
             (directory / "index.html").write_text(page, encoding="utf-8")
             (directory / "transcript.html").write_text(

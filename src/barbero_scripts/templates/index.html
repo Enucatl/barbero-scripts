@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% from "components.html" import play, metadata %}
+{% from "components.html" import play, metadata, title, trilogy_label %}
 {% block content %}
 <section class="introduction" aria-labelledby="intro-title">
   <h1 id="intro-title">History, <em>Told Otherwise</em></h1>
@@ -11,7 +11,7 @@
   <div class="featured-copy">
     <p class="eyebrow"><span class="latest-dot" aria-hidden="true"></span> The latest episode</p>
     {{ metadata(latest) }}
-    <h2 id="featured-title"><a href="episodes/{{ latest.slug }}/">{{ latest.title }}</a></h2>
+    <h2 id="featured-title"><a href="episodes/{{ latest.slug }}/">{{ title(latest) }}</a></h2>{{ trilogy_label(latest) }}
     <p>{{ latest.summary }}</p>
     <div class="actions">{{ play(latest, base_url, 'Listen now') }}<a class="text-link" href="episodes/{{ latest.slug }}/">Explore episode <span aria-hidden="true">↗</span></a></div>
   </div>
@@ -22,7 +22,7 @@
   {% for episode in episodes %}
     <article class="episode-row">
       <a class="episode-thumb" href="episodes/{{ episode.slug }}/" tabindex="-1" aria-hidden="true"><img src="{{ episode.artwork_name }}" alt="" width="160" height="160" loading="lazy"></a>
-      <div class="episode-copy">{{ metadata(episode) }}<h3><a href="episodes/{{ episode.slug }}/">{{ episode.title }}</a></h3><p>{{ episode.summary }}</p></div>
+      <div class="episode-copy">{{ metadata(episode) }}<h3><a href="episodes/{{ episode.slug }}/">{{ title(episode) }}</a></h3>{{ trilogy_label(episode) }}<p>{{ episode.summary }}</p></div>
       {{ play(episode, base_url, compact=true) }}
     </article>
   {% endfor %}

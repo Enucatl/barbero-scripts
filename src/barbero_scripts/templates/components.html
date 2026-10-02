@@ -5,3 +5,11 @@
 {% macro metadata(episode) -%}
 <div class="episode-meta"><time datetime="{{ episode.published_at.isoformat() }}">{{ episode.published_at.strftime('%b %d, %Y') }}</time><span aria-hidden="true">·</span><span>{{ episode.duration_seconds|duration }}</span></div>
 {%- endmacro %}
+
+{% macro title(episode) -%}
+{% if episode.series_title %}<span class="trilogy-prefix">{{ episode.series_title }}:</span> {{ episode.series_subject }}{% else %}{{ episode.title }}{% endif %}
+{%- endmacro %}
+
+{% macro trilogy_label(episode) -%}
+{% if episode.series_title %}<p class="trilogy-label">{{ 'Trilogy' if episode.series_size == 3 else 'Series' }} · Episode {{ episode.series_position }}/{{ episode.series_size }}</p>{% endif %}
+{%- endmacro %}

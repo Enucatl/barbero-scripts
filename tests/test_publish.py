@@ -298,3 +298,86 @@ def test_publish_uses_episode_artwork_and_latest_first(tmp_path: Path) -> None:
     assert images == [f"{base_url}/{episode.artwork_name}" for episode in discovered]
     index = (destination / "index.html").read_text(encoding="utf-8")
     assert index.index("Newest episode") < index.index("A &amp; B &lt;History&gt;")
+
+
+def test_trilogy_titles_and_navigation(tmp_path: Path) -> None:
+    config, episodes, audio, _ = write_fixture(tmp_path)
+    original = episodes / "001-a-b-test"
+    second = episodes / "002-second"
+    shutil.copytree(original, second)
+    (audio / second.name).mkdir()
+    shutil.copy2(
+        audio / original.name / f"{original.name}.opus", audio / second.name / f"{second.name}.opus"
+    )
+    for directory, number, title, date in (
+        (original, 1, "War & Peace: First <Act>", "2026-08-02T10:00:00Z"),
+        (second, 2, "War & Peace: Second Act", "2026-08-01T10:00:00Z"),
+    ):
+        path = directory / "episode.yaml"
+        data = yaml.safe_load(path.read_text())
+        data.update(slug=directory.name, number=number)
+        data["publication"].update(title=title, published_at=date)
+        path.write_text(yaml.safe_dump(data))
+    data = yaml.safe_load(config.read_text())
+    data["trilogies"] = [
+        {
+            "title": "War & Peace",
+            "episodes": [
+                {"number": 1, "subject": "First <Act>"},
+                {"number": 2, "subject": "Second Act"},
+                {"number": 3, "subject": "Third Act"},
+            ],
+        }
+    ]
+    config.write_text(yaml.safe_dump(data))
+    destination = publish_preview(config, episodes, audio, tmp_path / "published", None)
+    index = (destination / "index.html").read_text()
+    first = (destination / "episodes" / original.name / "index.html").read_text()
+    second_page = (destination / "episodes" / second.name / "index.html").read_text()
+    transcript = (destination / "episodes" / original.name / "transcript.html").read_text()
+    assert '<span class="trilogy-prefix">War &amp; Peace:</span> First &lt;Act&gt;' in index
+    assert "Trilogy · Episode 1/3" in first
+    assert "Trilogy · Episode 2/3" in second_page
+    assert "Trilogy · Episode 1/3" in transcript
+    assert (
+        first.split('<nav class="trilogy-nav"')[1].split("</nav>")[0].count('aria-current="page"')
+        == 1
+    )
+    assert f'/episodes/{original.name}/" aria-current="page"' in first
+    assert f'/episodes/{second.name}/"' in first
+    assert "Third Act</span> <small>Not yet published</small>" in first
+    assert "Third Act</a>" not in first
+    items = ET.parse(destination / "feed.xml").findall("./channel/item")
+    assert [item.findtext("title") for item in items] == [
+        "War & Peace: First <Act>",
+        "War & Peace: Second Act",
+    ]
+    assert [item.findtext("guid") for item in items] == [
+        stable_guid(original.name),
+        stable_guid(second.name),
+    ]
+    assert all(
+        item.find("enclosure").attrib["url"].startswith("https://example.test/media/")
+        for item in items
+    )
+
+
+def test_invalid_trilogy_catalogue(tmp_path: Path) -> None:
+    config, episodes, audio, _ = write_fixture(tmp_path)
+    data = yaml.safe_load(config.read_text())
+    data["trilogies"] = [
+        {
+            "title": "Series",
+            "episodes": [
+                {"number": 1, "subject": "One"},
+                {"number": 2, "subject": "Two"},
+                {"number": 3, "subject": "Three"},
+            ],
+        }
+    ]
+    config.write_text(yaml.safe_dump(data))
+    with pytest.raises(ValueError, match="title disagrees"):
+        publish_preview(config, episodes, audio, tmp_path / "published", None)
+    data["trilogies"][0]["episodes"][0]["number"] = 2
+    with pytest.raises(ValueError, match="multiple series slots"):
+        publish_module._series_memberships(data, discover_episodes(episodes, audio))
