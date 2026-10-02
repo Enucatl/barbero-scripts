@@ -42,12 +42,44 @@ Assess the episode overall and give explicit judgments on:
   a practical adaptation could make it work. An Italian subject alone is not a reason to remove it.
 
 Start with an overall judgment and the strengths worth preserving. Then list findings by stable
-ID (`FR-001`, `FR-002`, and so on), ordered by their likely effect on the audience. For each,
-give the chapter/location and exact current passage where applicable, explain the issue and its
-effect, propose a concrete solution (sample wording where useful), and explain why that solution
-fits. Identify tradeoffs or uncertainty. An episode-level removal proposal should identify the
-episode and its relevant dependencies rather than invent a single passage target. A no-change
-assessment is valid; do not manufacture issues or impose a shorter runtime.
+ID (`FR-001`, `FR-002`, and so on), ordered by their likely effect on the audience. Make each
+finding understandable and decidable on its own, without opening the script, another finding,
+or a research ledger. Use plain language and this reading order:
+
+1. **Location and context.** Name the chapter and briefly explain what is happening or being
+   argued. Identify people, references, and earlier setup needed to understand this finding.
+2. **Before.** Quote the exact current passage with enough surrounding text to show the issue
+   and its transitions. Include a preceding or following sentence when the reasoning depends
+   on it. Do not use ellipses to hide text inside an edit target.
+3. **Issue.** Explain the specific difficulty for a listener and its consequence. Ground the
+   explanation in the displayed passage; avoid references to unseen sentences or assumed context.
+4. **Proposed after.** Show the complete replacement for the displayed passage, including
+   unchanged context. Include every intended wording change, cut, addition, and transition
+   repair. For a full deletion, explicitly say “Remove this passage” and show the resulting join.
+   Instructions such as “simplify the rest” or “retain the qualification” do not substitute for
+   displaying the resulting text. Keep before/after blocks separate for easy comparison.
+5. **Why this version.** Briefly explain how the wording solves the issue, what it preserves,
+   and any meaningful tradeoff or uncertainty. If a source or prior decision constrains the
+   choice, summarize that constraint here in ordinary language; IDs and links are supporting
+   references, not explanations. Keep detailed provenance in a separate evidence note.
+6. **User instruction:** Leave an editable field, followed by **Disposition: Pending**.
+
+Keep one independently decidable change per finding. When one solution necessarily affects
+several passages, give each a labeled before/after pair and explain their connection. Split
+unrelated repairs into separate findings so the user can approve or reject them individually.
+If alternatives are useful, label them as alternatives and show the complete text for each;
+do not mix optional wording into a single proposed replacement.
+
+Before presenting the report, read the proposed replacements in their surrounding script and
+check interactions between findings. Include any resulting repetition, transition, or callback
+repairs in the displayed proposals, rather than leaving them for implementation. If findings
+overlap or depend on each other, state that dependency and provide a coherent combined replacement
+where needed. Every change advocated in the explanation must appear in a before/after pair;
+every difference in those pairs must be explained. Verify that the before text matches the script.
+
+An episode-level removal proposal should explain the episode's obstacle, what would be lost,
+and practical alternatives rather than invent a passage replacement. A no-change assessment is
+valid; do not manufacture issues or impose a shorter runtime.
 
 I will go through the findings manually, one by one, and write what I want implemented as a custom
 solution for each point. Your proposals are suggestions, not authorization to edit. Wait for my
@@ -67,7 +99,11 @@ answer one at a time or together; continue authorized work on answered points wi
 silence on the others as acceptance. This stage explicitly waits for user direction even for
 routine wording repairs.
 
-Implement the user's custom solution rather than assuming approval of the reviewer's sample.
+Implement the user's custom solution rather than assuming approval of the reviewer's proposal.
+Approval of a displayed proposal covers its complete before/after edits, not additional edits
+mentioned only in commentary. If implementation reveals a further necessary change outside the
+user's instructions, show its exact before/after and obtain direction under this stage's existing
+decision rule; do not silently extend approval to surrounding cleanup.
 Use the established draft/decision history and deterministic application procedure. Routine
 wording changes belong in the draft history; material departures belong in `decisions.yaml`
 with their explicit authorization. Resolve dependencies and overlapping instructions before
