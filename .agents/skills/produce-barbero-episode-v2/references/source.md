@@ -27,6 +27,19 @@ context unless the user asks to use it; it can be used later to compare outcomes
 
 ## New episode
 
+Original recordings live in `/scratch/archive/barbero/`. Look for the episode-number
+prefix there (for example, `19_*.mp3`) before asking for an audio path.
+
+Retrieve the Deepgram API key from Vault when running provider commands:
+
+```bash
+export DEEPGRAM_API_KEY="$(vault kv get -field deepgram-api-key kv/puppet)"
+test -n "$DEEPGRAM_API_KEY" || exit 1
+```
+
+For wake-run, include this lookup inside the detached command so the key is loaded at
+execution time. Never print the key or save it in episode files, skill files, or logs.
+
 Use the existing CLI only for source preparation:
 
 | Need | Command, prefixed by `uv run barbero` |
@@ -34,7 +47,7 @@ Use the existing CLI only for source preparation:
 | Scaffold the supplied episode identity and audio | `init --number N --slug SLUG --title TITLE --source AUDIO` |
 | Diarize/prepare, or resume after speaker selection | `prepare CONFIG` |
 | Inspect speaker choices | `speakers CONFIG --show` |
-| Apply the user's speaker selection | `speakers CONFIG --select SPEAKER_ID` |
+| Retain the speaker with the longest total duration | `speakers CONFIG --select SPEAKER_ID` |
 | Transcribe the retained audio | `transcribe CONFIG` |
 | Render transcript and acoustic uncertainty queue | `render CONFIG` |
 | Assemble the settled transcript using the chapter map | `assemble-italian EPISODE` |
@@ -43,6 +56,10 @@ Follow the repository's wake-run instructions for long commands. Preserve the ge
 `workflow_version: 2`; that field belongs to the existing CLI. Do not initialize an existing
 episode. `render` writes the transcript and external provider-derived artifacts, so use it only
 when preparing or deliberately updating the source.
+
+Select the speaker with the longest total speech duration automatically; the user has
+authorized this default for future episodes, so no human confirmation is needed.
+Use `speakers CONFIG --show` to inspect the totals and save that speaker with `--select`.
 
 After speaker selection, reuse existing diarization with
 `uv run barbero prepare CONFIG --diarization-json WORK/diarization.json`, where `WORK` is the
