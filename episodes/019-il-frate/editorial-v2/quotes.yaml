@@ -1,0 +1,1645 @@
+- id: Q-001
+  transcript:
+  - U-00106–U-00113
+  attribution: Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-003
+  original_language: Latin
+  original_text: quendam rithmum fecit in derisionem fratris Iohannis de Vincentia, cuius nec principii reminiscor
+    nec finis, quia multa tempora sunt, quod non legi ipsum, et quando legi, non bene commendavi memorie, quia
+    nec multum curabam.
+  translation: He composed a rhyme mocking Brother Giovanni of Vicenza, of which I remember neither the beginning
+    nor the end, because it has been a long time since I read it, and when I read it I did not commit it well
+    to memory, since I did not care much.
+  locator: Cantarelli I52; Bernini Pars II, Boncompagno/Giovanni passage
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: 'Target: Only eight remembered lines of a satirical song; indifference and lapse of time.
+    Selective recollection is confirmed; it does not show all medieval readers memorized everything. Intended
+    treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording substitution
+    unless an explicit decision approves it. Exact bounded original and new direct English translation are
+    recorded. Eligibility is evidence availability, not editorial approval. Source-preserving contextual rendering
+    remains draft treatment.'
+- id: Q-002
+  transcript:
+  - U-00127–U-00131
+  attribution: Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I122
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Abandoned early chronicle for lack of writing material. Poor in paper or parchment;
+    early chronicle at Ferrara in1250 reached Lombards. Original Latin not recovered. Intended treatment: contextual
+    rendering of the approved lecture, with attribution; no recovered-wording substitution unless an explicit
+    decision approves it. Null original_text/translation means no authoritative continuous original span is
+    claimed for this target; located translation supports substance only.'
+- id: Q-003
+  transcript:
+  - U-00154–U-00157
+  attribution: Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-003
+  - SRC-007
+  - SRC-008
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I77,181,326–327; Lateran IV canon2; DBI chronology
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: No longer believes Joachim’s failed predictions. Joachimist commitment and disillusion
+    supported. Pope announcement1251 differs from death1250. Authentic Joachim versus later currents and exact
+    Latin boundaries require caution; Lateran IV concerns a Trinitarian treatise and does not by itself refute
+    the lecture’s narrower claim about the predictive system. Intended treatment: contextual rendering of the
+    approved lecture, with attribution; no recovered-wording substitution unless an explicit decision approves
+    it. Null original_text/translation means no authoritative continuous original span is claimed for this
+    target; located translation supports substance only.'
+- id: Q-004
+  transcript:
+  - U-00160–U-00170
+  attribution: Joachim as presented by Barbero
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  - SRC-003
+  - SRC-007
+  - SRC-008
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I77,181,326–327; Lateran IV canon2; DBI chronology
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: deferred
+  research_note: 'Target: 1260 timetable, Antichrist and new era. Joachimist commitment and disillusion supported.
+    Pope announcement1251 differs from death1250. Authentic Joachim versus later currents and exact Latin boundaries
+    require caution; Lateran IV concerns a Trinitarian treatise and does not by itself refute the lecture’s
+    narrower claim about the predictive system. Intended treatment: contextual rendering of the approved lecture,
+    with attribution; no recovered-wording substitution unless an explicit decision approves it. Null original_text/translation
+    means no authoritative continuous original span is claimed for this target; located translation supports
+    substance only.'
+- id: Q-005
+  transcript:
+  - U-00184–U-00195
+  attribution: Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-003
+  - SRC-007
+  - SRC-008
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I77,181,326–327; Lateran IV canon2; DBI chronology
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Disbelief at Frederick’s death and collapse of prediction. Joachimist commitment
+    and disillusion supported. Pope announcement1251 differs from death1250. Authentic Joachim versus later
+    currents and exact Latin boundaries require caution; Lateran IV concerns a Trinitarian treatise and does
+    not by itself refute the lecture’s narrower claim about the predictive system. Intended treatment: contextual
+    rendering of the approved lecture, with attribution; no recovered-wording substitution unless an explicit
+    decision approves it. Null original_text/translation means no authoritative continuous original span is
+    claimed for this target; located translation supports substance only.'
+- id: Q-006
+  transcript:
+  - U-00191–U-00193
+  attribution: Pope as recalled by Salimbene
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  - SRC-003
+  - SRC-007
+  - SRC-008
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I77,181,326–327; Lateran IV canon2; DBI chronology
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Ferrara announcement of Frederick’s death; proximity on balcony. Joachimist commitment
+    and disillusion supported. Pope announcement1251 differs from death1250. Authentic Joachim versus later
+    currents and exact Latin boundaries require caution; Lateran IV concerns a Trinitarian treatise and does
+    not by itself refute the lecture’s narrower claim about the predictive system. Intended treatment: contextual
+    rendering of the approved lecture, with attribution; no recovered-wording substitution unless an explicit
+    decision approves it. Null original_text/translation means no authoritative continuous original span is
+    claimed for this target; located translation supports substance only.'
+- id: Q-007
+  transcript:
+  - U-00202–U-00210
+  attribution: Salimbene’s account of unnamed weaver
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I335–336
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Prophet’s background and residence at Fontevivo. Weaver from Verona living at Parma
+    already known/read by Salimbene; willingness to lend/circulate books confirmed. First-discovery framing
+    differs. Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-008
+  transcript:
+  - U-00216–U-00216
+  attribution: Physician friend
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I335–337
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Offer of books and news prophet is dead. Alberto Cremonella left Franciscan novitiate,
+    became physician and Cistercian. Erasure and technical learning confirmed. Salimbene elsewhere also recommends
+    burning dangerous book; source is not unqualified anti-censorship. Intended treatment: contextual rendering
+    of the approved lecture, with attribution; no recovered-wording substitution unless an explicit decision
+    approves it. Null original_text/translation means no authoritative continuous original span is claimed
+    for this target; located translation supports substance only.'
+- id: Q-009
+  transcript:
+  - U-00217–U-00227
+  attribution: Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I335–336; Cantarelli I335–337
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Asking whether prophet’s books survive; two interrupted questions. Weaver from Verona
+    living at Parma already known/read by Salimbene; willingness to lend/circulate books confirmed. First-discovery
+    framing differs. Alberto Cremonella left Franciscan novitiate, became physician and Cistercian. Erasure
+    and technical learning confirmed. Salimbene elsewhere also recommends burning dangerous book; source is
+    not unqualified anti-censorship. Intended treatment: contextual rendering of the approved lecture, with
+    attribution; no recovered-wording substitution unless an explicit decision approves it. Null original_text/translation
+    means no authoritative continuous original span is claimed for this target; located translation supports
+    substance only.'
+- id: Q-010
+  transcript:
+  - U-00218–U-00219
+  attribution: Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I335–336
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Prophet willingly publishes or circulates his works. Weaver from Verona living at
+    Parma already known/read by Salimbene; willingness to lend/circulate books confirmed. First-discovery framing
+    differs. Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-011
+  transcript:
+  - U-00229–U-00253
+  attribution: Physician friend
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I335–337
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Erasure of manuscripts, learning the craft, prevention of circulation. Alberto Cremonella
+    left Franciscan novitiate, became physician and Cistercian. Erasure and technical learning confirmed. Salimbene
+    elsewhere also recommends burning dangerous book; source is not unqualified anti-censorship. Intended treatment:
+    contextual rendering of the approved lecture, with attribution; no recovered-wording substitution unless
+    an explicit decision approves it. Null original_text/translation means no authoritative continuous original
+    span is claimed for this target; located translation supports substance only.'
+- id: Q-012
+  transcript:
+  - U-00246–U-00246
+  attribution: Old monk as quoted by physician
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I335–337
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Wish to pass on manuscript-erasing craft before death. Alberto Cremonella left Franciscan
+    novitiate, became physician and Cistercian. Erasure and technical learning confirmed. Salimbene elsewhere
+    also recommends burning dangerous book; source is not unqualified anti-censorship. Intended treatment:
+    contextual rendering of the approved lecture, with attribution; no recovered-wording substitution unless
+    an explicit decision approves it. Null original_text/translation means no authoritative continuous original
+    span is claimed for this target; located translation supports substance only.'
+- id: Q-013
+  transcript:
+  - U-00278–U-00288
+  attribution: Salimbene’s account of friar
+  quotation_kind: paraphrase
+  source_ids: []
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Exact primary passage not recovered
+  verdict: unresolved
+  source_replacement: unavailable
+  status: deferred
+  research_note: 'Target: Test possessed peasant by requiring Latin. Deferred: do not substitute different
+    good-Latin demon story at Cantarelli II134. Keep lecture’s attribution; no authoritative replacement eligible.
+    Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-014
+  transcript:
+  - U-00289–U-00289
+  attribution: Friar addressing demon
+  quotation_kind: direct
+  source_ids: []
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Exact primary passage not recovered
+  verdict: unresolved
+  source_replacement: unavailable
+  status: deferred
+  research_note: 'Target: Mockery of faulty Latin. Deferred: do not substitute different good-Latin demon story
+    at Cantarelli II134. Keep lecture’s attribution; no authoritative replacement eligible. Intended treatment:
+    contextual rendering of the approved lecture, with attribution; no recovered-wording substitution unless
+    an explicit decision approves it. Null original_text/translation means no authoritative continuous original
+    span is claimed for this target; located translation supports substance only.'
+- id: Q-015
+  transcript:
+  - U-00291–U-00292
+  attribution: Demon in peasant’s voice
+  quotation_kind: direct
+  source_ids: []
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Exact primary passage not recovered
+  verdict: unresolved
+  source_replacement: unavailable
+  status: deferred
+  research_note: 'Target: Good Latin frustrated by rustic mouth. Deferred: do not substitute different good-Latin
+    demon story at Cantarelli II134. Keep lecture’s attribution; no authoritative replacement eligible. Intended
+    treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording substitution
+    unless an explicit decision approves it. Null original_text/translation means no authoritative continuous
+    original span is claimed for this target; located translation supports substance only.'
+- id: Q-016
+  transcript:
+  - U-00297–U-00297
+  attribution: Salimbene as characterized by Barbero
+  quotation_kind: composite
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I334
+  verdict: composite
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Biblical learning means no one can fool him. Similar boast precedes fetching Bible
+    and checking Isaiah18; lecture wording is a composite characterization, not recovered single epigram. Intended
+    treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording substitution
+    unless an explicit decision approves it. Null original_text/translation means no authoritative continuous
+    original span is claimed for this target; located translation supports substance only.'
+- id: Q-017
+  transcript:
+  - U-00307–U-00315
+  attribution: Salimbene on Giovanni da Vicenza
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  - SRC-003
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I53–54; Bernini Pars II
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Self-sufficient miracles and rejected beard relics. Miracles/beard claims occur in
+    partisan Franciscan account; attribution supported, Giovanni’s private intentions not independently known.
+    Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-018
+  transcript:
+  - U-00321–U-00323
+  attribution: Salimbene on Florentines
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  - SRC-005
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I53–55; Coulton Appendix C citing MGH79
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Diotisalvi and civic reputation for cruel practical jokes. Prank and exact shout
+    recovered; preserve separate Latin excerpt boundaries. Civic stereotype belongs to narrator, not every
+    Florentine. Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-019
+  transcript:
+  - U-00326–U-00329
+  attribution: Diotisalvi
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-005
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I53–55; Coulton Appendix C citing MGH79
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Condition for staying to lunch: a relic of the saint. Prank and exact shout recovered;
+    preserve separate Latin excerpt boundaries. Civic stereotype belongs to narrator, not every Florentine.
+    Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-020
+  transcript:
+  - U-00330–U-00347
+  attribution: Salimbene
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  - SRC-005
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I53–55; Coulton Appendix C citing MGH79
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Cloth, latrine and exposure of Dominican gullibility. Prank and exact shout recovered;
+    preserve separate Latin excerpt boundaries. Civic stereotype belongs to narrator, not every Florentine.
+    Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-021
+  transcript:
+  - U-00344–U-00345
+  attribution: Diotisalvi
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-005
+  original_language: Latin
+  original_text: Heu, heu! succurrite, fratres, quia reliquias sancti requiro, quas perdidi in latrina!
+  translation: Alas, alas! Help, brothers, for I am looking for the saint’s relics, which I have lost in the
+    latrine!
+  locator: Cantarelli I53–55; Coulton Appendix C citing MGH79
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: 'Target: Help, the relic is lost in the latrine. Prank and exact shout recovered; preserve
+    separate Latin excerpt boundaries. Civic stereotype belongs to narrator, not every Florentine. Intended
+    treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording substitution
+    unless an explicit decision approves it. Exact bounded original and new direct English translation are
+    recorded. Eligibility is evidence availability, not editorial approval. Source-preserving contextual rendering
+    remains draft treatment.'
+- id: Q-022
+  transcript:
+  - U-00353–U-00365
+  attribution: Salimbene as characterized by Barbero
+  quotation_kind: composite
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I153–167, especially156
+  verdict: composite
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Franciscans are supreme; kindness to them earns forgiveness. Rivalry, insults and
+    useful-services allegations supported as polemic. Exact penitentiagite source remains deferred; no quantitative
+    alms comparison proved. Intended treatment: contextual rendering of the approved lecture, with attribution;
+    no recovered-wording substitution unless an explicit decision approves it. Null original_text/translation
+    means no authoritative continuous original span is claimed for this target; located translation supports
+    substance only.'
+- id: Q-023
+  transcript:
+  - U-00378–U-00390
+  attribution: Salimbene on Segalelli
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I153–167, especially156
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Rejected applicant imitates image of apostles. Rivalry, insults and useful-services
+    allegations supported as polemic. Exact penitentiagite source remains deferred; no quantitative alms comparison
+    proved. Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-024
+  transcript:
+  - U-00391–U-00400
+  attribution: Salimbene on Apostolics
+  quotation_kind: composite
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I153–167, especially156
+  verdict: composite
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Illiterate rivals offer no services yet win more alms. Rivalry, insults and useful-services
+    allegations supported as polemic. Exact penitentiagite source remains deferred; no quantitative alms comparison
+    proved. Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-025
+  transcript:
+  - U-00402–U-00407
+  attribution: Segalelli as represented by Salimbene
+  quotation_kind: composite
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I153–167, especially156
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: deferred
+  research_note: 'Target: Penitentiam agite contrasted with penitentiagite. Rivalry, insults and useful-services
+    allegations supported as polemic. Exact penitentiagite source remains deferred; no quantitative alms comparison
+    proved. Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-026
+  transcript:
+  - U-00429–U-00431
+  attribution: Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-002
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli II86
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Thirty-year revenge is still timely; I too am Parmesan. Proverb and Salimbene’s assent
+    supported; not quantified legal practice. Original Latin deferred. Intended treatment: contextual rendering
+    of the approved lecture, with attribution; no recovered-wording substitution unless an explicit decision
+    approves it. Null original_text/translation means no authoritative continuous original span is claimed
+    for this target; located translation supports substance only.'
+- id: Q-027
+  transcript:
+  - U-00432–U-00451
+  attribution: Salimbene’s family recollection
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  - SRC-008
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I15–20,35–36; DBI
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Two sons become friars; threatened inheritance and youthful flight. Two living legitimate
+    sons pertinent to lineage; not total offspring census. Highest aristocracy is rhetorical; exact rank requires
+    prosopography. Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-028
+  transcript:
+  - U-00458–U-00458
+  attribution: Guido de Adam as dramatized by Barbero
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-004
+  - SRC-009
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I17–18; MGH39 lines14–30
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Appeal to emperor to return son. Latin confirms emperor’s request versus Elias’s
+    consent condition. Only imperial incipit directly quoted; original letter not extant (editor n5). Separate
+    indirect documentary reports. Intended treatment: contextual rendering of the approved lecture, with attribution;
+    no recovered-wording substitution unless an explicit decision approves it. Null original_text/translation
+    means no authoritative continuous original span is claimed for this target; located translation supports
+    substance only.'
+- id: Q-029
+  transcript:
+  - U-00460–U-00463
+  attribution: Imperial instruction as attributed by Barbero
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-004
+  - SRC-009
+  original_language: Latin
+  original_text: Lectis igitur imperialibus litteris statim scripsit frater Helyas fratribus de conventu Fanensi,
+    ubi habitabam, quod, si de voluntate mea procedebat, me sine mora per obedientiam redderent patri meo,
+    alioquin, si cum patre meo ire nolebam, me karum custodirent sicut pupillam oculi sui.
+  translation: So, after reading the imperial letter, Brother Elias immediately wrote to the friars of the
+    convent at Fano, where I was living, that, if it was my wish, they were under obedience to return me to
+    my father without delay; otherwise, if I did not wish to go with my father, they were to cherish and guard
+    me like the pupil of their eye.
+  locator: Cantarelli I17–18; MGH39 lines14–30
+  verdict: misattributed
+  source_replacement: eligible
+  status: resolved
+  research_note: 'Target: Return son unless he insists on remaining; distinguish Elias’s letter. Latin confirms
+    emperor’s request versus Elias’s consent condition. Only imperial incipit directly quoted; original letter
+    not extant (editor n5). Separate indirect documentary reports. Intended treatment: contextual rendering
+    of the approved lecture, with attribution; no recovered-wording substitution unless an explicit decision
+    approves it. Recorded original is Salimbene’s indirect report of ELIAS’s instruction, not an imperial letter
+    quote. Any substitution must change attribution explicitly.'
+- id: Q-030
+  transcript:
+  - U-00468–U-00472
+  attribution: Guido de Adam
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-003
+  - SRC-005
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I18–20; Bernini I54; Coulton Appendix C / MGH40
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Demand to speak with son and appeal to inheritance. Confrontation confirmed in retrospective
+    account. Biblical answer composite; insult gloss belongs narrator. User confirmed Non credere in lecture
+    despite Latin non credas; do not override. Intended treatment: contextual rendering of the approved lecture,
+    with attribution; no recovered-wording substitution unless an explicit decision approves it. Null original_text/translation
+    means no authoritative continuous original span is claimed for this target; located translation supports
+    substance only.'
+- id: Q-031
+  transcript:
+  - U-00476–U-00477
+  attribution: Gospel as invoked by Salimbene
+  quotation_kind: composite
+  source_ids:
+  - SRC-001
+  - SRC-003
+  - SRC-005
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I18–20; Bernini I54; Coulton Appendix C / MGH40
+  verdict: composite
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Leave father and mother to follow Christ; several biblical texts. Confrontation confirmed
+    in retrospective account. Biblical answer composite; insult gloss belongs narrator. User confirmed Non
+    credere in lecture despite Latin non credas; do not override. Intended treatment: contextual rendering
+    of the approved lecture, with attribution; no recovered-wording substitution unless an explicit decision
+    approves it. Null original_text/translation means no authoritative continuous original span is claimed
+    for this target; located translation supports substance only.'
+- id: Q-032
+  transcript:
+  - U-00479–U-00479
+  attribution: Salimbene as dramatized by Barbero
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-003
+  - SRC-005
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I18–20; Bernini I54; Coulton Appendix C / MGH40
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Refusal to return with father. Confrontation confirmed in retrospective account.
+    Biblical answer composite; insult gloss belongs narrator. User confirmed Non credere in lecture despite
+    Latin non credas; do not override. Intended treatment: contextual rendering of the approved lecture, with
+    attribution; no recovered-wording substitution unless an explicit decision approves it. Null original_text/translation
+    means no authoritative continuous original span is claimed for this target; located translation supports
+    substance only.'
+- id: Q-033
+  transcript:
+  - U-00481–U-00482
+  attribution: Guido de Adam
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-003
+  - SRC-005
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I18–20; Bernini I54; Coulton Appendix C / MGH40
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Friars planted the idea; demand for private talk. Confrontation confirmed in retrospective
+    account. Biblical answer composite; insult gloss belongs narrator. User confirmed Non credere in lecture
+    despite Latin non credas; do not override. Intended treatment: contextual rendering of the approved lecture,
+    with attribution; no recovered-wording substitution unless an explicit decision approves it. Null original_text/translation
+    means no authoritative continuous original span is claimed for this target; located translation supports
+    substance only.'
+- id: Q-034
+  transcript:
+  - U-00483–U-00492
+  attribution: Salimbene
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  - SRC-003
+  - SRC-005
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I18–20; Bernini I54; Coulton Appendix C / MGH40
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Friars eavesdrop and tremble; he holds firm. Confrontation confirmed in retrospective
+    account. Biblical answer composite; insult gloss belongs narrator. User confirmed Non credere in lecture
+    despite Latin non credas; do not override. Intended treatment: contextual rendering of the approved lecture,
+    with attribution; no recovered-wording substitution unless an explicit decision approves it. Null original_text/translation
+    means no authoritative continuous original span is claimed for this target; located translation supports
+    substance only.'
+- id: Q-035
+  transcript:
+  - U-00486–U-00489
+  attribution: Guido de Adam through Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-003
+  - SRC-005
+  original_language: Latin
+  original_text: Fili dilecte, non credas istis pissintunicis
+  translation: Dear son, do not believe these piss-in-tunics
+  locator: Cantarelli I18–20; Bernini I54; Coulton Appendix C / MGH40
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: 'Target: Pissintunicis insult, Italian gloss then user-confirmed Non credere. Confrontation
+    confirmed in retrospective account. Biblical answer composite; insult gloss belongs narrator. User confirmed
+    Non credere in lecture despite Latin non credas; do not override. Intended treatment: contextual rendering
+    of the approved lecture, with attribution; no recovered-wording substitution unless an explicit decision
+    approves it. Exact bounded original and new direct English translation are recorded. Eligibility is evidence
+    availability, not editorial approval. Source-preserving contextual rendering remains draft treatment.'
+- id: Q-036
+  transcript:
+  - U-00488–U-00491
+  attribution: Salimbene’s explanatory gloss
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-003
+  - SRC-005
+  original_language: Latin
+  original_text: id est qui in tunicis mingunt
+  translation: that is, those who urinate in their tunics
+  locator: Cantarelli I18–20; Bernini I54; Coulton Appendix C / MGH40
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: 'Target: Id est qui in tunicis mingunt; distinguish gloss from father’s voice. Confrontation
+    confirmed in retrospective account. Biblical answer composite; insult gloss belongs narrator. User confirmed
+    Non credere in lecture despite Latin non credas; do not override. Intended treatment: contextual rendering
+    of the approved lecture, with attribution; no recovered-wording substitution unless an explicit decision
+    approves it. Exact bounded original and new direct English translation are recorded. Eligibility is evidence
+    availability, not editorial approval. Source-preserving contextual rendering remains draft treatment.'
+- id: Q-037
+  transcript:
+  - U-00493–U-00494
+  attribution: Guido’s curse as recalled by Salimbene
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  - SRC-003
+  - SRC-005
+  original_language: Latin
+  original_text: Comendo te mille demonibus, maledicte fili, et fratrem tuum, qui hic tecum est
+  translation: I commend you to a thousand demons, accursed son, and your brother, who is here with you
+  locator: Cantarelli I18–20; Bernini I54; Coulton Appendix C / MGH40
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: 'Target: Condemns both sons to devil and leaves. Confrontation confirmed in retrospective
+    account. Biblical answer composite; insult gloss belongs narrator. User confirmed Non credere in lecture
+    despite Latin non credas; do not override. Intended treatment: contextual rendering of the approved lecture,
+    with attribution; no recovered-wording substitution unless an explicit decision approves it. Exact bounded
+    original and new direct English translation are recorded. Eligibility is evidence availability, not editorial
+    approval. Source-preserving contextual rendering remains draft treatment.'
+- id: Q-038
+  transcript:
+  - U-00498–U-00510
+  attribution: Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I20–21
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Virgin and child dream, embraces and enduring sweetness. Dream account supports Virgin
+    offering child, embrace and sweetness; dream recollection, not external apparition verification. Intended
+    treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording substitution
+    unless an explicit decision approves it. Null original_text/translation means no authoritative continuous
+    original span is claimed for this target; located translation supports substance only.'
+- id: Q-039
+  transcript:
+  - U-00513–U-00524
+  attribution: Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-003
+  original_language: Latin
+  original_text: Quod papa non fecisset, ut puto. Forte ad solatium patris mei michi episcopatum dedisset vel
+    aliquam dignitatem.
+  translation: The pope would not have done that, I think. Perhaps to comfort my father he would have given
+    me a bishopric or some dignity.
+  locator: Cantarelli I35–36; Bernini Pars II
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: 'Target: Papal intervention and hypothetical bishopric. Hypothetical bishopric, explicitly
+    uncertain; never an actual documented offer. Intended treatment: contextual rendering of the approved lecture,
+    with attribution; no recovered-wording substitution unless an explicit decision approves it. Exact bounded
+    original and new direct English translation are recorded. Eligibility is evidence availability, not editorial
+    approval. Source-preserving contextual rendering remains draft treatment.'
+- id: Q-040
+  transcript:
+  - U-00530–U-00540
+  attribution: Salimbene
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  - SRC-004
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I26–28; Latin follow-up in supplement
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Pisa begging, avoiding Parmesan merchants and encountering compatriot. Street avoidance
+    appears within dream; Jesus/Mary/Joseph give bread into his bag. Lecture changes scene action. Requires
+    explicit factual proposal; critical Latin now confirmed in MGH45–46. Intended treatment: contextual rendering
+    of the approved lecture, with attribution; no recovered-wording substitution unless an explicit decision
+    approves it. Null original_text/translation means no authoritative continuous original span is claimed
+    for this target; located translation supports substance only. Follow-up: MGH45 places street/fondaco within
+    dream; MGH46 has Jesus/Mary/Joseph helping his begging round and filling his basket. Do not say they do
+    no begging at all.'
+- id: Q-041
+  transcript:
+  - U-00542–U-00553
+  attribution: Parmesan stranger through Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I26–28; Latin follow-up in supplement
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Noble obligations, servants’ food, tournaments, ladies and minstrels. Street avoidance
+    appears within dream; Jesus/Mary/Joseph give bread into his bag. Lecture changes scene action. Requires
+    explicit factual proposal; original Latin follow-up pending at this initial ledger write. Intended treatment:
+    contextual rendering of the approved lecture, with attribution; no recovered-wording substitution unless
+    an explicit decision approves it. Null original_text/translation means no authoritative continuous original
+    span is claimed for this target; located translation supports substance only. Specific gifts of money to
+    minstrels not established in the inspected passage; source instead has reproach involving performers and
+    women. Preserve contextual lecture wording until a separately justified decision.'
+- id: Q-042
+  transcript:
+  - U-00555–U-00557
+  attribution: Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I26–28; Latin follow-up in supplement
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Doubt at prospect of fifty more years begging. Street avoidance appears within dream;
+    Jesus/Mary/Joseph give bread into his bag. Lecture changes scene action. Requires explicit factual proposal;
+    original Latin follow-up pending at this initial ledger write. Intended treatment: contextual rendering
+    of the approved lecture, with attribution; no recovered-wording substitution unless an explicit decision
+    approves it. Null original_text/translation means no authoritative continuous original span is claimed
+    for this target; located translation supports substance only.'
+- id: Q-043
+  transcript:
+  - U-00560–U-00562
+  attribution: Salimbene’s dream as told by Barbero
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  - SRC-004
+  original_language: Latin
+  original_text: Cum autem ex parte Arni per burgum Sancti Michaelis descenderem, ecce subito prospexi et vidi,
+    quod filius Dei veniebat ab una domo et portabat panem et ponebat in sporta. Idem faciebat beata virgo,
+    et idem Ioseph, nutritius pueri, cui beata virgo fuerat desponsata. Et sic fecerunt, quousque et circa
+    completa et sporta impleta fuit.
+  translation: But as I went down through the quarter of San Michele on the Arno side, suddenly I looked and
+    saw that the Son of God was coming from a house, carrying bread and putting it into the basket. The Blessed
+    Virgin was doing the same, and so was Joseph, the child’s foster father, to whom the Blessed Virgin had
+    been betrothed. They continued in this way until the begging round was completed and the basket was filled.
+  locator: MGH46 lines7–11
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: 'Target: Virgin and Jesus begging with bags; source action requires investigation. Street
+    avoidance appears within dream; Jesus/Mary/Joseph give bread into his bag. Lecture changes scene action.
+    Requires explicit factual proposal; critical Latin now confirmed in MGH45–46. Intended treatment: contextual
+    rendering of the approved lecture, with attribution; no recovered-wording substitution unless an explicit
+    decision approves it. Follow-up: MGH45 places street/fondaco within dream; MGH46 has Jesus/Mary/Joseph
+    helping his begging round and filling his basket. Do not say they do no begging at all.'
+- id: Q-044
+  transcript:
+  - U-00564–U-00571
+  attribution: Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-002
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli II229
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: First-night feast followed by lifelong cabbage; disgust before vocation. Cabbage
+    joke confirmed; hyperbole sits beside later banquets, not literal exclusive diet. Intended treatment: contextual
+    rendering of the approved lecture, with attribution; no recovered-wording substitution unless an explicit
+    decision approves it. Null original_text/translation means no authoritative continuous original span is
+    claimed for this target; located translation supports substance only.'
+- id: Q-045
+  transcript:
+  - U-00589–U-00591
+  attribution: Salimbene on bishop of Parma
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  - SRC-003
+  original_language: Latin
+  original_text: mortuus est Mantue hereticus et maledictus
+  translation: He died at Mantua, a heretic and accursed.
+  locator: Cantarelli I42; Bernini Pars II
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: 'Target: Unbelief at death; narrated report rather than witnessed transcript. Gregorius Romanus
+    dies at Mantua refusing this faith/sacrament; source calls him heretic. Atheist is stronger modern label;
+    hostile reported deathbed dialogue. Intended treatment: contextual rendering of the approved lecture, with
+    attribution; no recovered-wording substitution unless an explicit decision approves it. Exact bounded original
+    and new direct English translation are recorded. Eligibility is evidence availability, not editorial approval.
+    Source-preserving contextual rendering remains draft treatment.'
+- id: Q-046
+  transcript:
+  - U-00592–U-00593
+  attribution: Bishop of Parma
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-003
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I42; Bernini Pars II
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Refuses sacrament; office sought for wealth and honors. Gregorius Romanus dies at
+    Mantua refusing this faith/sacrament; source calls him heretic. Atheist is stronger modern label; hostile
+    reported deathbed dialogue. Intended treatment: contextual rendering of the approved lecture, with attribution;
+    no recovered-wording substitution unless an explicit decision approves it. Null original_text/translation
+    means no authoritative continuous original span is claimed for this target; located translation supports
+    substance only.'
+- id: Q-047
+  transcript:
+  - U-00592–U-00592
+  attribution: Unnamed questioner at bishop’s deathbed
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-003
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I42; Bernini Pars II
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Why accept a bishopric without belief?. Gregorius Romanus dies at Mantua refusing
+    this faith/sacrament; source calls him heretic. Atheist is stronger modern label; hostile reported deathbed
+    dialogue. Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-048
+  transcript:
+  - U-00595–U-00595
+  attribution: Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I26 analogous wording only
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: deferred
+  research_note: 'Target: Ipse viderit; he will answer for himself. Repeated exact ipse viderit occurrences
+    not located. Deferred as claimed recurrent quotation; literal sense and Barbero’s interpretation remain
+    distinct. Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-049
+  transcript:
+  - U-00599–U-00605
+  attribution: Salimbene on Filippo of Ravenna
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I294
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: deferred
+  research_note: 'Target: Family, bribery, daughter, hospitality and personal acquaintance. Nephews/son, prebend
+    favors and generosity partly supported. Convent daughter and corner-wine vignette not recovered; cannot
+    certify those from adjacent material. Intended treatment: contextual rendering of the approved lecture,
+    with attribution; no recovered-wording substitution unless an explicit decision approves it. Null original_text/translation
+    means no authoritative continuous original span is claimed for this target; located translation supports
+    substance only.'
+- id: Q-050
+  transcript:
+  - U-00606–U-00609
+  attribution: Salimbene on Filippo of Ravenna
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I294
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: deferred
+  research_note: 'Target: Wine in each corner during divine office. Nephews/son, prebend favors and generosity
+    partly supported. Convent daughter and corner-wine vignette not recovered; cannot certify those from adjacent
+    material. Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-051
+  transcript:
+  - U-00613–U-00619
+  attribution: Salimbene on Brother Elias
+  quotation_kind: paraphrase
+  source_ids: []
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Exact primary vignette not recovered
+  verdict: unresolved
+  source_replacement: unavailable
+  status: deferred
+  research_note: 'Target: Seated on cushions, cap on, fire lit, fails to rise for visitor. Deferred seated/cushions/fire/hat
+    episode. General criticism of Elias cannot authenticate this staging. Intended treatment: contextual rendering
+    of the approved lecture, with attribution; no recovered-wording substitution unless an explicit decision
+    approves it. Null original_text/translation means no authoritative continuous original span is claimed
+    for this target; located translation supports substance only.'
+- id: Q-052
+  transcript:
+  - U-00632–U-00635
+  attribution: Salimbene’s reported anecdote
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-002
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli II242
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: English king shares scarce wine by pouring it in fountain. Unnamed English king and
+    shared fountain wine supported as exemplary anecdote; do not add identity or eyewitness claim. Intended
+    treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording substitution
+    unless an explicit decision approves it. Null original_text/translation means no authoritative continuous
+    original span is claimed for this target; located translation supports substance only.'
+- id: Q-053
+  transcript:
+  - U-00633–U-00635
+  attribution: Unnamed English king
+  quotation_kind: direct
+  source_ids:
+  - SRC-002
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli II242
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Only one flask? We will all drink together. Unnamed English king and shared fountain
+    wine supported as exemplary anecdote; do not add identity or eyewitness claim. Intended treatment: contextual
+    rendering of the approved lecture, with attribution; no recovered-wording substitution unless an explicit
+    decision approves it. Null original_text/translation means no authoritative continuous original span is
+    claimed for this target; located translation supports substance only.'
+- id: Q-054
+  transcript:
+  - U-00639–U-00643
+  attribution: Salimbene
+  quotation_kind: composite
+  source_ids:
+  - SRC-002
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli II242
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Selfish bishops; all throats are sisters. Hospitality complaint and sister-throats
+    analogy supported; original Latin deferred. Intended treatment: contextual rendering of the approved lecture,
+    with attribution; no recovered-wording substitution unless an explicit decision approves it. Null original_text/translation
+    means no authoritative continuous original span is claimed for this target; located translation supports
+    substance only.'
+- id: Q-055
+  transcript:
+  - U-00644–U-00645
+  attribution: Informants through Salimbene
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I122–125
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Burgundy produces more wine than four Italian cities combined. Burgundy observations
+    supported, but universal wine-color/class division and precise quantitative comparison not independently
+    established. Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-056
+  transcript:
+  - U-00646–U-00658
+  attribution: Salimbene and Barbero’s commentary
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I122–125
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Disbelief, Burgundy visit, vast vineyard and praises of white wine. Burgundy observations
+    supported, but universal wine-color/class division and precise quantitative comparison not independently
+    established. Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-057
+  transcript:
+  - U-00659–U-00665
+  attribution: Salimbene on French drinkers
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I125
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Red eyes, borrowed sacred washing water and excessive drinking. Bartolomeo Guiscolo
+    of Parma at Provins says the eye/wine punchline. Edition’s represented French is not standardized original.
+    Popular practice not medical validation. Intended treatment: contextual rendering of the approved lecture,
+    with attribution; no recovered-wording substitution unless an explicit decision approves it. Null original_text/translation
+    means no authoritative continuous original span is claimed for this target; located translation supports
+    substance only.'
+- id: Q-058
+  transcript:
+  - U-00665–U-00665
+  attribution: Friar heard by Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I125
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Put water in wine, not in eyes. Bartolomeo Guiscolo of Parma at Provins says the
+    eye/wine punchline. Edition’s represented French is not standardized original. Popular practice not medical
+    validation. Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-059
+  transcript:
+  - U-00665–U-00669
+  attribution: Salimbene on Franciscan France
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I123
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Eight custodies, four wine and four beer. Eight divisions/four wine/four beer supported;
+    old translator calls conventi, insufficient to correct custodie without Latin. Intended treatment: contextual
+    rendering of the approved lecture, with attribution; no recovered-wording substitution unless an explicit
+    decision approves it. Null original_text/translation means no authoritative continuous original span is
+    claimed for this target; located translation supports substance only.'
+- id: Q-060
+  transcript:
+  - U-00673–U-00686
+  attribution: Salimbene’s royal encounters as expanded by Barbero
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  - SRC-004
+  original_language: Latin
+  original_text: Et veniebat non eques, sed pedes
+  translation: And he came on foot, not on horseback
+  locator: MGH222 line23; bounded clause describes arrival, not entire journey
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: 'Target: Louis IX, pilgrimage, walking and Sens arrival. On-foot arrival at Sens confirmed;
+    later king waits to mount horse. Exclusive whole-kingdom walking contradicted in scope. Aigues-Mortes in
+    editor note, not narrated sentence. Intended treatment: contextual rendering of the approved lecture, with
+    attribution; no recovered-wording substitution unless an explicit decision approves it.'
+- id: Q-061
+  transcript:
+  - U-00687–U-00696
+  attribution: Salimbene
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I128–129
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Pike in infant bath, French taste and Tuscan bigoncia. Pike given by church treasurer;
+    infant-bath vessel and French taste supported. Bishop donor and Salimbene dislike not established by this
+    passage. Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-062
+  transcript:
+  - U-00697–U-00697
+  attribution: Louis IX as attributed by Barbero
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-004
+  original_language: Latin
+  original_text: nec petit a nobis aurum et argentum, quibus per Dei gratiam eraria sua sufficienter abundant,
+    sed postulat orationes et suffragia fratrum
+  translation: He does not ask us for gold and silver, with which, by God’s grace, his treasuries are sufficiently
+    stocked; instead he asks for the friars’ prayers and intercessions
+  locator: Cantarelli I129–130; MGH223 lines5–23
+  verdict: misattributed
+  source_replacement: eligible
+  status: resolved
+  research_note: 'Target: Asks prayers rather than money; potential speaker transfer from John of Parma. Louis
+    requests prayers in narrator’s indirect report; John of Parma then says no gold/silver in direct response.
+    Some French friars beside Salimbene weep, not all. Intended treatment: contextual rendering of the approved
+    lecture, with attribution; no recovered-wording substitution unless an explicit decision approves it. Recorded
+    original is a continuous excerpt of JOHN OF PARMA speaking about Louis in the third person (MGH223 lines17–23),
+    not Louis speaking about himself. Louis’s request is indirect report at lines5–9.'
+- id: Q-063
+  transcript:
+  - U-00698–U-00700
+  attribution: Salimbene
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  - SRC-004
+  original_language: Latin
+  original_text: Et aliqui fratres de Francia, qui erant iuxta me, ex devotione et pietate quasi inconsolabiliter
+    flebant.
+  translation: And some French friars who were beside me wept from devotion and piety, almost inconsolably.
+  locator: MGH223 lines7–9
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: 'Target: French friars weep at royal words. Louis requests prayers in narrator’s indirect
+    report; John of Parma then says no gold/silver in direct response. Some French friars beside Salimbene
+    weep, not all. Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it.'
+- id: Q-064
+  transcript:
+  - U-00704–U-00723
+  attribution: Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I130
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Royal meal: cherries through curds and fruit, preserve ordered menu. Detailed menu
+    found. Eel polpette versus pasticci requires original culinary noun; original Latin menu not recovered
+    here. Preserve whole ordered list. Intended treatment: contextual rendering of the approved lecture, with
+    attribution; no recovered-wording substitution unless an explicit decision approves it. Null original_text/translation
+    means no authoritative continuous original span is claimed for this target; located translation supports
+    substance only.'
+- id: Q-065
+  transcript:
+  - U-00730–U-00738
+  attribution: Salimbene on Aquileia patriarchs
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I166
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Forty Lenten courses diminishing to one on Holy Saturday. Forty dishes diminishing
+    to Holy Saturday found. Moral anecdote, not audited calendar/menu. Christ’s forty-day fast is scriptural
+    allusion. Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-066
+  transcript:
+  - U-00739–U-00739
+  attribution: Salimbene invoking Gospel
+  quotation_kind: composite
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I166
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Christ fasted forty days and nights; rebuke to patriarchs. Forty dishes diminishing
+    to Holy Saturday found. Moral anecdote, not audited calendar/menu. Christ’s forty-day fast is scriptural
+    allusion. Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-067
+  transcript:
+  - U-00745–U-00748
+  attribution: Salimbene / reported Norman rhetoric
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  - SRC-011
+  - SRC-015
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I245–246; Nardone citing Scalia1966 p522; Barbero2011 preview
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Southern military ineptitude and Norman conquest. Norman rhetoric and authorial insult
+    distinct; edition spellings caccareli/merdaçoli and Barbero caccarelli/merdaçòli not collapsed. No evidence
+    of inherent southern cowardice. Intended treatment: contextual rendering of the approved lecture, with
+    attribution; no recovered-wording substitution unless an explicit decision approves it. Null original_text/translation
+    means no authoritative continuous original span is claimed for this target; located translation supports
+    substance only.'
+- id: Q-068
+  transcript:
+  - U-00750–U-00751
+  attribution: Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-011
+  - SRC-015
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I245–246; Nardone citing Scalia1966 p522; Barbero2011 preview
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Sunt homines, caccarelli et merdazzoli; keep edition variants distinct. Norman rhetoric
+    and authorial insult distinct; edition spellings caccareli/merdaçoli and Barbero caccarelli/merdaçòli not
+    collapsed. No evidence of inherent southern cowardice. Intended treatment: contextual rendering of the
+    approved lecture, with attribution; no recovered-wording substitution unless an explicit decision approves
+    it. Null original_text/translation means no authoritative continuous original span is claimed for this
+    target; located translation supports substance only.'
+- id: Q-069
+  transcript:
+  - U-00752–U-00755
+  attribution: Southern speakers as imitated by Salimbene/Barbero
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-015
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I245; Barbero2011 preview
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Che vuoi? / caboli; Ke boli? in written lecture preview. Ke bulì? versus Ke boli?
+    are attested written forms. User approved retaining caboli transcript; no acoustic proof supplied by text.
+    Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-070
+  transcript:
+  - U-00760–U-00769
+  attribution: Salimbene on forms of address
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-002
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli II243
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Tu/voi, pope, child, hen, cat, wood; source variant blackbird. Tu/voi observations
+    found, but source mentions blackbird where lecture says cat. Polite Lei chronology not independently checked;
+    sociolinguistic exaggeration not survey. Intended treatment: contextual rendering of the approved lecture,
+    with attribution; no recovered-wording substitution unless an explicit decision approves it. Null original_text/translation
+    means no authoritative continuous original span is claimed for this target; located translation supports
+    substance only.'
+- id: Q-071
+  transcript:
+  - U-00775–U-00780
+  attribution: Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-002
+  - SRC-008
+  - SRC-012
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli II106 under1284; VoSLIG raviolo / Sella1937 p288
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Gourmandise and first ravioli without pasta crust at St Clare feast. Without pasta
+    wrapper supports naked ravioli. No complete recipe; lecture’s pie hypothesis explicitly uncertain. In1284
+    born1221 means62/63, not near70. Intended treatment: contextual rendering of the approved lecture, with
+    attribution; no recovered-wording substitution unless an explicit decision approves it. Null original_text/translation
+    means no authoritative continuous original span is claimed for this target; located translation supports
+    substance only.'
+- id: Q-072
+  transcript:
+  - U-00788–U-00789
+  attribution: Salimbene
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I125–126
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Northern French daylight differs by season. Seasonal daylight comparison found; no
+    exact time measurements asserted. Intended treatment: contextual rendering of the approved lecture, with
+    attribution; no recovered-wording substitution unless an explicit decision approves it. Null original_text/translation
+    means no authoritative continuous original span is claimed for this target; located translation supports
+    substance only.'
+- id: Q-073
+  transcript:
+  - U-00790–U-00794
+  attribution: Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I205
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Almond blossom at Genoa, fruit already formed in Provence. 1249 four-day voyage to
+    Hyères and almond observation found; a traveller’s report, not climate statistics. Intended treatment:
+    contextual rendering of the approved lecture, with attribution; no recovered-wording substitution unless
+    an explicit decision approves it. Null original_text/translation means no authoritative continuous original
+    span is claimed for this target; located translation supports substance only.'
+- id: Q-074
+  transcript:
+  - U-00795–U-00795
+  attribution: Salimbene at Sens
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Cantarelli I127
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: resolved
+  research_note: 'Target: Women look like servants rather than noble ladies. Sens women and noble residence
+    generalization found; comparison names Pisa/Bologna, not lecture Parma. Social stereotype, not census.
+    Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it. Null original_text/translation means no authoritative
+    continuous original span is claimed for this target; located translation supports substance only.'
+- id: Q-075
+  transcript:
+  - U-00796–U-00799
+  attribution: Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  - SRC-004
+  original_language: Latin
+  original_text: Et si rex Francie per Pisas vel per Bononiam transitum fecisset, totus flos dominarum de civitatibus
+    nominatis obvius occurrisset.
+  translation: And if the king of France had passed through Pisa or Bologna, the whole flower of the ladies
+    of the cities named would have come out to meet him.
+  locator: MGH222 lines16–17
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: 'Target: French nobles in castles; Italian city ladies would look different. Sens women and
+    noble residence generalization found; comparison names Pisa/Bologna, not lecture Parma. Social stereotype,
+    not census. Intended treatment: contextual rendering of the approved lecture, with attribution; no recovered-wording
+    substitution unless an explicit decision approves it.'
+- id: Q-076
+  transcript:
+  - U-00809–U-00813
+  attribution: Frederick’s alleged orders through Salimbene
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-004
+  - SRC-006
+  - SRC-009
+  - SRC-013
+  - SRC-014
+  original_language: Latin
+  original_text: Et ideo precepit baiulis et nutricibus, ut lac infantibus darent, ut mammas sugerent, et balnearent
+    et mundificarent eos, sed nullo modo blandirentur eis nec loquerentur.
+  translation: He therefore ordered the attendants and wet nurses to give the infants milk so that they would
+    suck at the breast, and to bathe and clean them, but in no way to caress them or speak to them.
+  locator: MGH350 lines13–24; Coulton242–243; scholarship limits
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: 'Target: Raise infants without speech or affection. Exact Latin account recovered; command/question
+    indirect, final causal statement Salimbene’s. Attribution confirmed, event historicity contested. Final
+    humane interpretation not proof of experiment. Intended treatment: contextual rendering of the approved
+    lecture, with attribution; no recovered-wording substitution unless an explicit decision approves it. Exact
+    bounded original and new direct English translation are recorded. Eligibility is evidence availability,
+    not editorial approval. Source-preserving contextual rendering remains draft treatment.'
+- id: Q-077
+  transcript:
+  - U-00814–U-00816
+  attribution: Frederick’s alleged question through Salimbene
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-004
+  - SRC-006
+  - SRC-009
+  - SRC-013
+  - SRC-014
+  original_language: Latin
+  original_text: Volebat enim cognoscere, utrum Hebream linguam haberent, que prima fuerat, an Grecam vel Latinam
+    vel Arabicam aut certe linguam parentum suorum, ex quibus nati fuissent.
+  translation: For he wished to find out whether they would have the Hebrew language, which had been the first,
+    or Greek or Latin or Arabic, or perhaps the language of their parents, from whom they had been born.
+  locator: MGH350 lines13–24; Coulton242–243; scholarship limits
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: 'Target: Which natural language: Greek, Latin, Hebrew, Arabic or parental tongue. Exact Latin
+    account recovered; command/question indirect, final causal statement Salimbene’s. Attribution confirmed,
+    event historicity contested. Final humane interpretation not proof of experiment. Intended treatment: contextual
+    rendering of the approved lecture, with attribution; no recovered-wording substitution unless an explicit
+    decision approves it. Exact bounded original and new direct English translation are recorded. Eligibility
+    is evidence availability, not editorial approval. Source-preserving contextual rendering remains draft
+    treatment.'
+- id: Q-078
+  transcript:
+  - U-00817–U-00818
+  attribution: Salimbene
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-004
+  - SRC-006
+  - SRC-009
+  - SRC-013
+  - SRC-014
+  original_language: Latin
+  original_text: Sed laborabant in cassum, quia pueri sive infantes moriebantur omnes.
+  translation: But they labored in vain, because the children, or infants, all died.
+  locator: MGH350 lines13–24; Coulton242–243; scholarship limits
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: 'Target: All infants die, so emperor wastes his time. Exact Latin account recovered; command/question
+    indirect, final causal statement Salimbene’s. Attribution confirmed, event historicity contested. Final
+    humane interpretation not proof of experiment. Intended treatment: contextual rendering of the approved
+    lecture, with attribution; no recovered-wording substitution unless an explicit decision approves it. Exact
+    bounded original and new direct English translation are recorded. Eligibility is evidence availability,
+    not editorial approval. Source-preserving contextual rendering remains draft treatment.'
+- id: Q-079
+  transcript:
+  - U-00819–U-00822
+  attribution: Salimbene
+  quotation_kind: direct
+  source_ids:
+  - SRC-004
+  - SRC-006
+  - SRC-009
+  - SRC-013
+  - SRC-014
+  original_language: Latin
+  original_text: Non enim vivere possent sine aplausu et gestu et letitia faciei et blanditiis baiularum et
+    nutricum suarum.
+  translation: For they could not live without the clapping, gestures, cheerful expressions and caresses of
+    their attendants and wet nurses.
+  locator: MGH350 lines13–24; Coulton242–243; scholarship limits
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: 'Target: Infants need smiles, clapping, caresses and nurses’ speech. Exact Latin account recovered;
+    command/question indirect, final causal statement Salimbene’s. Attribution confirmed, event historicity
+    contested. Final humane interpretation not proof of experiment. Intended treatment: contextual rendering
+    of the approved lecture, with attribution; no recovered-wording substitution unless an explicit decision
+    approves it. Exact bounded original and new direct English translation are recorded. Eligibility is evidence
+    availability, not editorial approval. Source-preserving contextual rendering remains draft treatment.'

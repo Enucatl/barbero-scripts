@@ -1,0 +1,3356 @@
+schema_version: 1
+base_script:
+  path: script.draft.en.md
+  sha256: f5ebf4ba73ec46e2c148e74d67767b12835ec4bbfc39583cc1fe3757b5d5a1fe
+input_hashes:
+  ../script.it.md: a6f9fa952c5f80354e45aca418b6c99dedc0513506f17e0baa7bf58701247c98
+  brief.md: 6a870423f815db9c013d4a3cfdc3b73698d98418e919e67a3db343a8401247ae
+  quotes.yaml: ec2a095cb430ae608b9265f2ae1784fd876472480a79efdbdd6053b8e69275d0
+  claims.yaml: 3fc0a6fc1a3a957398bd571a6b5d859a601cd5af7314dc242995a1783e276ae1
+  sources.yaml: 380909ffca102aa0cea0b5b00ba34745892e7deb7bb958ea8180db1d46f4d3a9
+items:
+- id: ED-001
+  kind: fact
+  chapter_id: CH-002
+  transcript:
+  - U-00126
+  current_text: Paper has only just been invented, and it’s expensive.
+  current_text_sha256: 58dbcc9a63b14cca8a4a667660d099836e6d833a5d956a21f3a9ddb692cf0b30
+  proposed_text: Paper is expensive.
+  reason: Remove incorrect global invention chronology while preserving the writing-material cost argument
+    and following parchment comparison. No added China/Italian chronology is needed.
+  evidence:
+  - C-006
+  - SRC-001
+  - SRC-016
+  protected_quote_spans: []
+  recommendation: apply
+  decision: reject
+  decision_note: User replied R to the ED-001 choice prompt on 2026-10-02; retain current wording.
+- id: ED-002
+  kind: fact
+  chapter_id: CH-003
+  transcript:
+  - U-00150–U-00152
+  current_text: The Church has never officially said, “Yes, that’s true.” Nor has it said, “It’s all nonsense.”
+    People are left to make up their own minds.
+  current_text_sha256: ae31b0c0eba0a2bc4ec5ba58ef5486597fbd3507001296f663ed567b6b30a46a
+  proposed_text: The Church has condemned one part of Joachim’s theology. But that doesn’t settle the
+    question of these predictions. They still attract plenty of believers.
+  reason: 'Optional context: Lateran IV condemned a Trinitarian treatise by Joachim. This does not by
+    itself disprove the lecture’s narrower claim about his predictive system. The replacement adds that
+    distinction and removes the lecture’s statement about freedom to form an opinion; it requires an editorial
+    choice.'
+  evidence:
+  - C-007
+  - Q-004
+  - SRC-007
+  - SRC-001
+  - SR-002
+  protected_quote_spans: []
+  recommendation: retain
+  decision: reject
+  decision_note: User replied R to the ED-002 choice prompt on 2026-10-02; retain current wording.
+- id: ED-003
+  kind: fact
+  chapter_id: CH-003
+  transcript:
+  - U-00191–U-00195
+  current_text: That’s 1250. Thirty years later, Salimbene says,
+  current_text_sha256: 70ef89bfa9b16bb42e81414a03dbdea6bc7a485f420c523a6c04bec954c39d04
+  proposed_text: Frederick dies in 1250; the announcement at Ferrara follows in 1251. Decades later, Salimbene
+    says,
+  reason: Distinguish imperial death from subsequent papal announcement, keeping the collapse of prophetic
+    expectations and retrospective scene.
+  evidence:
+  - C-009
+  - Q-005
+  - Q-006
+  - SRC-001
+  - SRC-008
+  protected_quote_spans: []
+  recommendation: apply
+  decision: reject
+  decision_note: User replied R to the ED-003 choice prompt on 2026-10-02; retain current wording.
+- id: ED-004
+  kind: fact
+  chapter_id: CH-003
+  transcript:
+  - U-00202–U-00216
+  current_text: 'One day people tell Salimbene that a new prophet has appeared. Who is he? A poor man
+    from Parma, Salimbene’s own city. A weaver.
+
+
+    He has begun making prophecies, and the things he says seem to come true. Eventually he retires to
+    Fontevivo, a Cistercian monastery outside Parma. The Cistercians take him in.
+
+
+    “I’ve heard so much about this man,” Salimbene says. “He spends all day shut in his room, writing.”
+
+
+    An artisan, you understand. A working man. A weaver, predicting the future.
+
+
+    Salimbene hears these stories, and eventually he can’t stand it any longer. He has to meet the man.
+
+
+    <!-- research: Q-008; Q-009; Q-010 -->
+
+
+    He sets out for Fontevivo. When he arrives, he finds a friend there, another Franciscan, who is a
+    physician. He’s staying with the Cistercians, a different religious order, because they need a doctor.'
+  current_text_sha256: b99601df2feea2df010b24f0b1e8d0978522ce112bccd54c93cb18616398e8d4
+  proposed_text: 'Salimbene hears more about a prophet whose writings he already knows. Who is he? A poor
+    weaver, originally from Verona, now living in Parma, Salimbene’s own city.
+
+
+    He has begun making prophecies, and the things he says seem to come true. Eventually he retires to
+    Fontevivo, a Cistercian monastery outside Parma. The Cistercians take him in.
+
+
+    “I’ve heard so much about this man,” Salimbene says. “He spends all day shut in his room, writing.”
+
+
+    An artisan, you understand. A working man. A weaver, predicting the future.
+
+
+    Salimbene hears these stories, and eventually he can’t stand it any longer. He has to find out more.
+
+
+    <!-- research: Q-008; Q-009; Q-010 -->
+
+
+    He sets out for Fontevivo. When he arrives, he finds a friend there, a physician who entered the Franciscans
+    with him, later left, and has now become a Cistercian.'
+  reason: Correct origin/prior acquaintance and physician’s religious affiliation, retaining the visit,
+    anticipation, manuscript-circulation digression and ensuing erasure dialogue. Based on located old
+    Italian translation; no invented original Latin wording.
+  evidence:
+  - C-011
+  - Q-007
+  - Q-008
+  - SRC-001
+  protected_quote_spans: []
+  recommendation: apply
+  decision: reject
+  decision_note: User replied R to the ED-004 choice prompt on 2026-10-02; retain current wording.
+- id: ED-005
+  kind: fact
+  chapter_id: CH-006
+  transcript:
+  - U-00460–U-00463
+  current_text: 'Frederick writes to Brother Elias, the head of the Franciscan order. In effect: “This
+    is what I’ve been told. See what you can do. Let’s get this boy back to his father, unless he absolutely
+    insists on staying.”'
+  current_text_sha256: 2334bfaf1aeb6aa94da009d8ef270d77392d6afd43ca1c0666ff32604cd60fa0
+  proposed_text: 'Frederick writes to Brother Elias, the head of the Franciscan order, asking him to return
+    the boy. Elias then writes to the friars at Fano: they must send Salimbene home if he wants to go.
+    If he refuses, they must protect him.'
+  reason: Assign the consent condition to Elias, as MGH39 does; retain emperor’s intervention, the father’s
+    leverage and the son’s choice. Present both documents as Salimbene’s reports, without inventing verbatim
+    English letters.
+  evidence:
+  - C-017
+  - Q-029
+  - SRC-004
+  - LR-011
+  protected_quote_spans: []
+  recommendation: apply
+  decision: reject
+  decision_note: User replied r to the ED-005 choice prompt on 2026-10-02; retain current wording.
+- id: ED-006
+  kind: fact
+  chapter_id: CH-007
+  transcript:
+  - U-00534–U-00540
+  - U-00560–U-00562
+  current_text: 'He is in Pisa. He belongs to the friary there, and he describes going down a particular
+    street, keeping to one side because on the other side stands the lodging house of the merchants from
+    Parma.
+
+
+    “I wanted to avoid meeting anyone from Parma. I was too ashamed to face people who knew me.”
+
+
+    But his luck runs out. He meets someone from Parma anyway.
+
+
+    “A man came up to me whom I didn’t know. But he knew me.” Salimbene comes from an important family.
+
+
+    The man grabs him by his habit.
+
+
+    “You wretched boy! What are you doing here? Look at the state you’ve got yourself into. Your father’s
+    house is full of servants who have more than enough to eat. And here you are, begging, taking bread
+    away from people poorer than you.”
+
+
+    He goes on. Salimbene reports it word for word.
+
+
+    “You ought to be in Parma, riding around on horseback, showing yourself off in tournaments, delighting
+    the people who come to watch.” Because that is what noble knights do. “You ought to be admired by
+    the ladies and handing out money to the minstrels. That’s what you should be doing. Not going barefoot
+    from door to door, begging.”
+
+
+    Salimbene pushes him away. Sends him off angrily. Quotes a few biblical passages at him.
+
+
+    But then he says, “That evening, back at the friary, I began to think about it. If I have to go on
+    like this for another fifty years. Begging.”
+
+
+    That time, he really does wonder whether he has made a terrible mistake with his life.
+
+
+    <!-- research: Q-043 -->
+
+
+    Fortunately, another dream comes that night.
+
+
+    He dreams that he is begging in Pisa. A little farther along the same street, the child Jesus is also
+    going out with a bag to beg. And the Virgin is there with a bag, begging too.'
+  current_text_sha256: de880866b748b228d7710711354d9a904cfc2132cd7c4bfaff0cb230229c196c
+  proposed_text: 'He is in Pisa. He belongs to the friary there. And one day he meets someone from Parma.
+
+
+    “A man came up to me whom I didn’t know. But he knew me.” Salimbene comes from an important family.
+
+
+    The man grabs him by his habit.
+
+
+    “You wretched boy! What are you doing here? Look at the state you’ve got yourself into. Your father’s
+    house is full of servants who have more than enough to eat. And here you are, begging, taking bread
+    away from people poorer than you.”
+
+
+    He goes on. Salimbene reports it word for word.
+
+
+    “You ought to be in Parma, riding around on horseback, showing yourself off in tournaments, delighting
+    the people who come to watch.” Because that is what noble knights do. “You ought to be admired by
+    the ladies and handing out money to the minstrels. That’s what you should be doing. Not going barefoot
+    from door to door, begging.”
+
+
+    Salimbene pushes him away. Sends him off angrily. Quotes a few biblical passages at him.
+
+
+    But then he says, “That evening, back at the friary, I began to think about it. If I have to go on
+    like this for another fifty years. Begging.”
+
+
+    That time, he really does wonder whether he has made a terrible mistake with his life.
+
+
+    <!-- research: Q-043 -->
+
+
+    Fortunately, another dream comes that night.
+
+
+    In the dream, he is begging in Pisa, keeping to one side of a street because the lodging house of
+    the merchants from Parma is on the other. He is ashamed to meet them, afraid of hearing more words
+    that might shake his resolve.
+
+
+    Then he sees Jesus carrying bread from a house and putting it into Salimbene’s basket. The Virgin
+    does the same. So does Joseph. They help him finish his begging round and fill the basket.'
+  reason: Restore dream placement of street/fondaco and all three holy figures helping fill Salimbene’s
+    collection basket. Preserve the entire stranger’s rebuke, fifty-year crisis, dream consolation and
+    shared-poverty meaning. MGH45–46 does not justify saying the holy figures do no begging at all.
+  evidence:
+  - C-019
+  - Q-040
+  - Q-041
+  - Q-042
+  - Q-043
+  - SRC-004
+  - LR-012
+  protected_quote_spans: []
+  recommendation: apply
+  decision: accept
+  decision_note: User replied a to the ED-006 choice prompt on 2026-10-02; use proposed passage.
+- id: ED-007
+  kind: fact
+  chapter_id: CH-008
+  transcript:
+  - U-00589–U-00593
+  current_text: He has even seen an atheist bishop. The bishop of Parma, on his deathbed, is offered the
+    sacraments.
+  current_text_sha256: 1625aa0f455635d0d14827c147e5d216f5ae170546fcde2c548e06b4515a8c31
+  proposed_text: He even tells of a bishop who rejects the faith. The bishop of Parma, on his deathbed,
+    is offered the sacraments.
+  reason: 'Use the narrower reported rejection of faith/sacrament and remove implied personal witnessing;
+    preserve deathbed dialogue and wealth/honors punchline. This is an evidentially cautious wording choice:
+    Barbero’s atheist label is an interpretation, not a disproven claim.'
+  evidence:
+  - C-021
+  - Q-045
+  - Q-046
+  - SRC-003
+  - SRC-001
+  protected_quote_spans: []
+  recommendation: apply
+  decision: reject
+  decision_note: User replied r to the ED-007 choice prompt on 2026-10-02; retain current wording.
+- id: ED-008
+  kind: fact
+  chapter_id: CH-010
+  transcript:
+  - U-00677–U-00727
+  current_text: 'King Louis is such a man. He sets out from northern France to embark for the crusade
+    at Aigues-Mortes in Provence. He crosses the whole kingdom on foot. Not on horseback. On foot, carrying
+    a pilgrim’s staff and bag.
+
+
+    Because going on crusade means, first of all, going on pilgrimage. Going to Jerusalem.
+
+
+    So the king of France spends months walking across his kingdom dressed as a pilgrim. He stops in towns,
+    stops at the friars’ houses, eats with them, discusses things with them, talks to them. Salimbene
+    meets him several times on this journey.
+
+
+    <!-- research: C-025; Q-061 -->
+
+
+    On one occasion, Salimbene is coming out of Sens to meet the king. As the king arrives, the bishop
+    of Sens sends him a present.
+
+
+    What do you give a king?
+
+
+    This is a simple age, in which ordinary, concrete, everyday things matter. The bishop sends the king
+    a huge live pike, in a tub full of water.
+
+
+    A gift fit for a king.
+
+
+    Salimbene says the French like pike. Evidently he doesn’t. He’s from Parma, not Mantua. But the French
+    like it.
+
+
+    The fish is in the sort of vessel used for washing babies when you take off their swaddling clothes.
+    The thing the Tuscans call a bigoncia.
+
+
+    Salimbene is very interested in language too. He is always noting how people use words.
+
+
+    So the king is given a pike, and it is a gift fit for a king.
+
+
+    <!-- research: Q-062; Q-063 -->
+
+
+    Then the king enters the Franciscan friary and speaks to the brothers. He tells them he hasn’t come
+    to ask for money. He is paying for the crusade himself. All he asks is their prayers.
+
+
+    “All the French friars were crying,” Salimbene says.
+
+
+    He is Italian, so naturally he’s a little less involved. Particularly in the matter of not being asked
+    for money. But all the French are crying.
+
+
+    Then they go to dinner with the king.
+
+
+    <!-- research: C-026; Q-064 -->
+
+
+    Let me see if I can find the menu. This is what they eat. Many decades later, Salimbene still remembers
+    what they had that day with the king.
+
+
+    People’s idea of a meal is quite different from ours. Their tastes are different. In particular, they
+    don’t have our notion of a sequence in which you begin with savory dishes and move on to sweet ones.
+    They are quite happy to mix different things together.
+
+
+    It is a meatless day, so they eat fish.
+
+
+    “A magnificent dinner,” Salimbene says, “worthy of a great king.” Yet, as you’ll see, it is no rich
+    glutton’s feast. It is worthy of a great king who is also a great saint.
+
+
+    “First that day, we ate cherries. Then they brought white bread, the whitest bread, and wine. Then
+    fresh fava beans cooked in milk. Then fish and crayfish, and eel meatballs. Then rice with almond
+    milk and powdered cinnamon. Then grilled eels with an excellent sauce. Savory tarts. Fresh curds.
+    Fruit.”
+
+
+    A great dinner. But compared with other dinners Salimbene describes, it suits a king’s magnificence
+    without contradicting the humility of a saint who is walking to his point of embarkation.'
+  current_text_sha256: 00df73f92997411326e39a6d6cee35c4e9abc3a80433a7b1ff36d908911f6935
+  proposed_text: 'King Louis is such a man. He sets out from northern France to embark for the crusade
+    at Aigues-Mortes. When Salimbene sees him arrive at Sens, the king comes on foot, carrying a pilgrim’s
+    staff and bag.
+
+
+    Because going on crusade means, first of all, going on pilgrimage. Going to Jerusalem.
+
+
+    So the king of France travels across his kingdom dressed as a pilgrim. He stops in towns, stops at
+    the friars’ houses, eats with them, discusses things with them, talks to them. Salimbene meets him
+    several times on this journey.
+
+
+    <!-- research: C-025; Q-061 -->
+
+
+    At Sens, Salimbene goes out to meet the king. As the king arrives, a gift comes for him from the treasurer
+    of the church of Sens.
+
+
+    What do you give a king?
+
+
+    This is a simple age, in which ordinary, concrete, everyday things matter. The gift is a huge live
+    pike, in a tub full of water.
+
+
+    A gift fit for a king.
+
+
+    Salimbene says the French like pike. Evidently he doesn’t. He’s from Parma, not Mantua. But the French
+    like it.
+
+
+    The fish is in the sort of vessel used for washing babies when you take off their swaddling clothes.
+    The thing the Tuscans call a bigoncia.
+
+
+    Salimbene is very interested in language too. He is always noting how people use words.
+
+
+    So the king is given a pike, and it is a gift fit for a king.
+
+
+    <!-- research: Q-062; Q-063 -->
+
+
+    Then the king enters the Franciscan friary and asks the brothers to pray for him and his companions.
+    Salimbene says that some of the French friars beside him are crying almost inconsolably.
+
+
+    When the head of the order, John of Parma, replies, he makes the point: the king isn’t asking them
+    for gold or silver. His treasury has enough of that. He is asking for their prayers.
+
+
+    Salimbene is Italian, so naturally he’s a little less involved. Particularly in the matter of not
+    being asked for money. But the French friars beside him are crying.
+
+
+    Then they go to dinner with the king.
+
+
+    <!-- research: C-026; Q-064 -->
+
+
+    Let me see if I can find the menu. This is what they eat. Many decades later, Salimbene still remembers
+    what they had that day with the king.
+
+
+    People’s idea of a meal is quite different from ours. Their tastes are different. In particular, they
+    don’t have our notion of a sequence in which you begin with savory dishes and move on to sweet ones.
+    They are quite happy to mix different things together.
+
+
+    It is a meatless day, so they eat fish.
+
+
+    “A magnificent dinner,” Salimbene says, “worthy of a great king.” Yet, as you’ll see, it is no rich
+    glutton’s feast. It is worthy of a great king who is also a great saint.
+
+
+    “First that day, we ate cherries. Then they brought white bread, the whitest bread, and wine. Then
+    fresh fava beans cooked in milk. Then fish and crayfish, and eel meatballs. Then rice with almond
+    milk and powdered cinnamon. Then grilled eels with an excellent sauce. Savory tarts. Fresh curds.
+    Fruit.”
+
+
+    A great dinner. But compared with other dinners Salimbene describes, it suits a king’s magnificence
+    without contradicting the humility of a king traveling as a pilgrim.'
+  reason: 'Consolidated royal-visit correction: limit walking to observed Sens arrival (later text mentions
+    horse), identify the gift’s sender without assuming he personally presents it, attribute money/prayers
+    contrast to John of Parma, scope tears to some nearby friars, and repair later walking callback. Preserve
+    pilgrim humility, pike/bath/language asides, Italian-distance joke and complete menu. No unrelated
+    passage or research marker removed.'
+  evidence:
+  - C-024
+  - C-025
+  - Q-060
+  - Q-061
+  - Q-062
+  - Q-063
+  - SRC-001
+  - SRC-004
+  - SR-003
+  - LR-004
+  protected_quote_spans: []
+  recommendation: apply
+  decision: reject
+  decision_note: User selected option B, ED-019, on 2026-10-02; mutually exclusive alternative rejected.
+- id: ED-009
+  kind: fact
+  chapter_id: CH-012
+  transcript:
+  - U-00775
+  current_text: Take food. Toward the end of his life, when he’s old and approaching seventy, he remarks
+    that human greed for good food really knows no limits.
+  current_text_sha256: 62aa58e4467b52947ed8c50638fda376f77e080df4b9d67361f9fca924cdb5bf
+  proposed_text: Take food. Writing in his sixties, he remarks that human greed for good food really knows
+    no limits.
+  reason: Ravioli entry is dated1284; birth1221 makes him62/63. Preserve late-life curiosity without changing
+    the user-approved approximate birth range elsewhere, or resolving the deliberately uncertain recipe.
+  evidence:
+  - C-030
+  - Q-071
+  - SRC-002
+  - SRC-008
+  protected_quote_spans: []
+  recommendation: apply
+  decision: accept
+  decision_note: User replied a to the ED-009 choice prompt on 2026-10-02; use proposed wording.
+- id: ED-010
+  kind: fact
+  chapter_id: CH-012
+  transcript:
+  - U-00796–U-00799
+  current_text: “Then I remembered that in France the gentlemen and nobles don’t live in the towns. They
+    live in their castles. It isn’t like Italy, where noble knights live in the cities. Here the cities
+    are inhabited by merchants and craftsmen. So naturally their women—well, if we’d been in Parma, the
+    ladies of Parma would have made quite a different impression.”
+  current_text_sha256: 21e1e7e3fb47252662da4b55b31cf267994688e692465107b8159961e1cd2b1a
+  proposed_text: “Then I remembered that in France the gentlemen and nobles don’t live in the towns. They
+    live on their country estates. It isn’t like Italy, where noble knights live in the cities. Here the
+    cities are inhabited by merchants and craftsmen. So naturally their women—well, if we’d been in Pisa
+    or Bologna, the ladies would have made quite a different impression.”
+  reason: Restore the comparison’s cities Pisa/Bologna and avoid turning every country residence into
+    a castle. Remains contextual rendering of Salimbene’s class prejudice, not a demographic finding or
+    authoritative word-for-word quotation.
+  evidence:
+  - C-032
+  - Q-075
+  - SRC-004
+  protected_quote_spans: []
+  recommendation: apply
+  decision: reject
+  decision_note: User replied r to the ED-010 choice prompt on 2026-10-02; retain current wording.
+- id: ED-011
+  kind: addition
+  chapter_id: CH-013
+  transcript:
+  - U-00809–U-00818
+  current_text: I’ll tell you just one story, a story Salimbene tells.
+  current_text_sha256: 2028273e4f11a1cc0e9d15dda1aeda8ef836ce2b2f1a8a51f23b27d5c7926a68
+  proposed_text: I’ll tell you just one story, a story Salimbene tells. Whether it happened as he describes
+    it is uncertain.
+  reason: Distinguish secure chronicle attribution from disputed occurrence before the climactic infant
+    scene; preserve scene, question, outcome and humane interpretation. No assertion of definite fabrication
+    or modern causal proof.
+  evidence:
+  - C-033
+  - Q-076
+  - Q-077
+  - Q-078
+  - SRC-004
+  - SRC-009
+  - SRC-013
+  - SRC-014
+  protected_quote_spans: []
+  recommendation: apply
+  decision: reject
+  decision_note: User replied r to the ED-011 choice prompt on 2026-10-02; retain current wording.
+- id: ED-012
+  kind: quotation
+  chapter_id: CH-013
+  transcript:
+  - U-00819–U-00822
+  current_text: “Of course they all died. Babies cannot live without cuddles, smiles, clapping hands,
+    caresses, the chatter of their nurses. They cannot.”
+  current_text_sha256: 25c23f9589a5868db768627b7c2d3ff7ef6e8e8ab7ddf0df899ac1f358ee241b
+  proposed_text: “For they could not live without the clapping, gestures, cheerful expressions and caresses
+    of their attendants and wet nurses.”
+  reason: Optional recovered-source excerpt gives the humane climax Salimbene’s exact bounded content
+    in a direct new translation from MGH350. Ends before the separate cradle-song sentence, so it neither
+    inserts rocking nor conflates source/commentary. English tense follows original quoted recollection.
+  evidence:
+  - Q-079
+  - C-033
+  - SRC-004
+  protected_quote_spans:
+  - For they could not live without the clapping, gestures, cheerful expressions and caresses of their
+    attendants and wet nurses.
+  recommendation: apply
+  decision: accept
+  decision_note: User replied a to the ED-012 choice prompt on 2026-10-02; use recovered-source translation.
+- id: ED-013
+  kind: addition
+  chapter_id: CH-001
+  transcript:
+  - U-00035–U-00048
+  current_text: He’s a Franciscan friar of the thirteenth century.
+  current_text_sha256: 3209be98c8ba88c9567f6e0d8fab4e25e82136a55cbf26f6831242e78899f397
+  proposed_text: He’s a Franciscan friar of the thirteenth century, a follower of Saint Francis.
+  reason: Supply brief early orientation using the lecture’s later explanation; preserve the fuller poverty
+    and order discussion.
+  evidence:
+  - LR-001
+  - C-003
+  - C-014
+  protected_quote_spans: []
+  recommendation: apply
+  decision: accept
+  decision_note: User replied a to the ED-013 choice prompt on 2026-10-02; add explanation.
+- id: ED-014
+  kind: addition
+  chapter_id: CH-002
+  transcript:
+  - U-00106–U-00113
+  current_text: At one point he quotes a little satirical song making fun of a Dominican.
+  current_text_sha256: bf1f596fca3f2961ae5edd73174afb80cb2bb0fefa4f29bf8cf537f7867a837e
+  proposed_text: At one point he quotes a little satirical song making fun of a Dominican, a friar from
+    a rival religious order.
+  reason: Identify the religious community before the rivalry drives the joke; preserve the later nuanced
+    discussion.
+  evidence:
+  - LR-001
+  - C-014
+  - Q-001
+  protected_quote_spans: []
+  recommendation: apply
+  decision: accept
+  decision_note: User replied a to the ED-014 choice prompt on 2026-10-02; add explanation.
+- id: ED-015
+  kind: addition
+  chapter_id: CH-001
+  transcript:
+  - U-00001–U-00011
+  current_text: Good evening. Good evening.
+  current_text_sha256: 8e39abed8f02a9aefdfa1dc084fb282eb7f1bd1e11ad2e55bcaa51ffdc7f9684
+  proposed_text: 'This is an English adaptation of Alessandro Barbero’s 2011 lecture, The Friar.
+
+
+    Good evening. Good evening.'
+  reason: Audible presentation frame explains the venue, our Italy and future-looking2012. This sentence
+    is outside Barbero’s greeting. Omit if another audible introduction already supplies the frame; metadata
+    alone does not.
+  evidence:
+  - LR-002
+  - C-010
+  - SRC-015
+  protected_quote_spans: []
+  recommendation: apply
+  decision: reject
+  decision_note: 'User replied r on 2026-10-02: no added introduction. Preserve the lecture’s original
+    greeting.'
+- id: ED-016
+  kind: addition
+  chapter_id: CH-004
+  transcript:
+  - U-00321–U-00324
+  current_text: We’re fifty years before Boccaccio, and it’s already a stereotype.
+  current_text_sha256: e26ad5b2505eade1213872341859a36f90deac7d88c2a37dade182c22a5dc7aa
+  proposed_text: We’re fifty years before the Italian storyteller Boccaccio, and it’s already a stereotype.
+  reason: Identify why this name matters without a literary digression; retain the source’s approximate
+    interval, which is not independently certified.
+  evidence:
+  - LR-003
+  - C-013
+  - SRC-018
+  protected_quote_spans: []
+  recommendation: apply
+  decision: reject
+  decision_note: User replied r to the ED-016 choice prompt on 2026-10-02; retain current wording.
+- id: ED-017
+  kind: addition
+  chapter_id: CH-012
+  transcript:
+  - U-00786–U-00787
+  current_text: I don’t know. We’ll have to ask Massimo Montanari how to interpret it.
+  current_text_sha256: b37b857f26af1f37b832385e63cee2ba57a871672a871c15df04a9bec4ac9a9d
+  proposed_text: I don’t know. We’ll have to ask the food historian Massimo Montanari how to interpret
+    it.
+  reason: Explain the named authority while preserving both uncertain ravioli interpretations; supplies
+    neither a recipe nor a current university appointment.
+  evidence:
+  - LR-008
+  - C-030
+  - SRC-017
+  protected_quote_spans: []
+  recommendation: apply
+  decision: accept
+  decision_note: User replied a to the ED-017 choice prompt on 2026-10-02; add role label.
+- id: ED-018
+  kind: addition
+  chapter_id: CH-013
+  transcript:
+  - U-00819–U-00823
+  current_text: Emperor Frederick, who was a genius, apparently wasn’t human enough to understand that.
+  current_text_sha256: 8ddc2f830c4930a11d46ae6c546f667bdf915890ecc07cc79b9e395692a227eb
+  proposed_text: In Salimbene’s story, Emperor Frederick, who was a genius, apparently wasn’t human enough
+    to understand that.
+  reason: Carry attribution into the final judgment so ED-011’s uncertainty is not undone. Keeps the humane
+    contrast; this can be selected independently of ED-012’s authoritative quotation.
+  evidence:
+  - LR-013
+  - C-033
+  - C-034
+  - SRC-004
+  - SRC-009
+  - SRC-013
+  - SRC-014
+  protected_quote_spans: []
+  recommendation: apply
+  decision: reject
+  decision_note: User replied r to the ED-018 choice prompt on 2026-10-02; retain current wording.
+- id: ED-019
+  kind: cut
+  chapter_id: CH-010
+  transcript:
+  - U-00677–U-00727
+  current_text: 'King Louis is such a man. He sets out from northern France to embark for the crusade
+    at Aigues-Mortes in Provence. He crosses the whole kingdom on foot. Not on horseback. On foot, carrying
+    a pilgrim’s staff and bag.
+
+
+    Because going on crusade means, first of all, going on pilgrimage. Going to Jerusalem.
+
+
+    So the king of France spends months walking across his kingdom dressed as a pilgrim. He stops in towns,
+    stops at the friars’ houses, eats with them, discusses things with them, talks to them. Salimbene
+    meets him several times on this journey.
+
+
+    <!-- research: C-025; Q-061 -->
+
+
+    On one occasion, Salimbene is coming out of Sens to meet the king. As the king arrives, the bishop
+    of Sens sends him a present.
+
+
+    What do you give a king?
+
+
+    This is a simple age, in which ordinary, concrete, everyday things matter. The bishop sends the king
+    a huge live pike, in a tub full of water.
+
+
+    A gift fit for a king.
+
+
+    Salimbene says the French like pike. Evidently he doesn’t. He’s from Parma, not Mantua. But the French
+    like it.
+
+
+    The fish is in the sort of vessel used for washing babies when you take off their swaddling clothes.
+    The thing the Tuscans call a bigoncia.
+
+
+    Salimbene is very interested in language too. He is always noting how people use words.
+
+
+    So the king is given a pike, and it is a gift fit for a king.
+
+
+    <!-- research: Q-062; Q-063 -->
+
+
+    Then the king enters the Franciscan friary and speaks to the brothers. He tells them he hasn’t come
+    to ask for money. He is paying for the crusade himself. All he asks is their prayers.
+
+
+    “All the French friars were crying,” Salimbene says.
+
+
+    He is Italian, so naturally he’s a little less involved. Particularly in the matter of not being asked
+    for money. But all the French are crying.
+
+
+    Then they go to dinner with the king.
+
+
+    <!-- research: C-026; Q-064 -->
+
+
+    Let me see if I can find the menu. This is what they eat. Many decades later, Salimbene still remembers
+    what they had that day with the king.
+
+
+    People’s idea of a meal is quite different from ours. Their tastes are different. In particular, they
+    don’t have our notion of a sequence in which you begin with savory dishes and move on to sweet ones.
+    They are quite happy to mix different things together.
+
+
+    It is a meatless day, so they eat fish.
+
+
+    “A magnificent dinner,” Salimbene says, “worthy of a great king.” Yet, as you’ll see, it is no rich
+    glutton’s feast. It is worthy of a great king who is also a great saint.
+
+
+    “First that day, we ate cherries. Then they brought white bread, the whitest bread, and wine. Then
+    fresh fava beans cooked in milk. Then fish and crayfish, and eel meatballs. Then rice with almond
+    milk and powdered cinnamon. Then grilled eels with an excellent sauce. Savory tarts. Fresh curds.
+    Fruit.”
+
+
+    A great dinner. But compared with other dinners Salimbene describes, it suits a king’s magnificence
+    without contradicting the humility of a saint who is walking to his point of embarkation.'
+  current_text_sha256: 00df73f92997411326e39a6d6cee35c4e9abc3a80433a7b1ff36d908911f6935
+  proposed_text: 'King Louis is such a man. He sets out from northern France to embark for the crusade
+    at Aigues-Mortes. When Salimbene sees him arrive at Sens, the king comes on foot, carrying a pilgrim’s
+    staff and bag.
+
+
+    Because going on crusade means, first of all, going on pilgrimage. Going to Jerusalem.
+
+
+    So the king of France travels across his kingdom dressed as a pilgrim. He stops in towns, stops at
+    the friars’ houses, eats with them, discusses things with them, talks to them. Salimbene meets him
+    several times on this journey.
+
+
+    <!-- research: C-025; Q-061 -->
+
+
+    At Sens, Salimbene goes out to meet the king. As the king arrives, a gift comes for him from the treasurer
+    of the church of Sens.
+
+
+    What do you give a king?
+
+
+    This is a simple age, in which ordinary, concrete, everyday things matter. The gift is a huge live
+    pike, in a tub full of water.
+
+
+    A gift fit for a king.
+
+
+    Salimbene says the French like pike. Evidently he doesn’t. But the French like it.
+
+
+    The fish is in the sort of vessel used for washing babies when you take off their swaddling clothes.
+    The thing the Tuscans call a bigoncia.
+
+
+    Salimbene is very interested in language too. He is always noting how people use words.
+
+
+    So the king is given a pike, and it is a gift fit for a king.
+
+
+    <!-- research: Q-062; Q-063 -->
+
+
+    Then the king enters the Franciscan friary and asks the brothers to pray for him and his companions.
+    Salimbene says that some of the French friars beside him are crying almost inconsolably.
+
+
+    When the head of the order, John of Parma, replies, he makes the point: the king isn’t asking them
+    for gold or silver. His treasury has enough of that. He is asking for their prayers.
+
+
+    Salimbene is Italian, so naturally he’s a little less involved. Particularly in the matter of not
+    being asked for money. But the French friars beside him are crying.
+
+
+    Then they go to dinner with the king.
+
+
+    <!-- research: C-026; Q-064 -->
+
+
+    Let me see if I can find the menu. This is what they eat. Many decades later, Salimbene still remembers
+    what they had that day with the king.
+
+
+    People’s idea of a meal is quite different from ours. Their tastes are different. In particular, they
+    don’t have our notion of a sequence in which you begin with savory dishes and move on to sweet ones.
+    They are quite happy to mix different things together.
+
+
+    It is a meatless day, so they eat fish.
+
+
+    “A magnificent dinner,” Salimbene says, “worthy of a great king.” Yet, as you’ll see, it is no rich
+    glutton’s feast. It is worthy of a great king who is also a great saint.
+
+
+    “First that day, we ate cherries. Then they brought white bread, the whitest bread, and wine. Then
+    fresh fava beans cooked in milk. Then fish and crayfish, and eel meatballs. Then rice with almond
+    milk and powdered cinnamon. Then grilled eels with an excellent sauce. Savory tarts. Fresh curds.
+    Fruit.”
+
+
+    A great dinner. But compared with other dinners Salimbene describes, it suits a king’s magnificence
+    without contradicting the humility of a king traveling as a pilgrim.'
+  reason: 'Alternative to ED-008, not an additional patch: make the same royal-visit corrections and omit
+    only the opaque Mantua aside. Default recommendation retains that source aside by choosing ED-008
+    instead. Choose at most one of ED-008 and ED-019; selecting this alternative requires explicit approval
+    of its complete replacement.'
+  evidence:
+  - LR-005
+  - C-024
+  - C-025
+  - Q-060
+  - Q-061
+  - Q-062
+  - Q-063
+  - SRC-001
+  - SRC-004
+  - SR-003
+  - LR-004
+  protected_quote_spans: []
+  recommendation: retain
+  decision: accept
+  decision_note: User selected option B on 2026-10-02; approve revised royal visit and Mantua aside cut.
+history:
+- base_script:
+    path: script.draft.en.md
+    sha256: 703fb237888022db058befa62ab2d375b58efeafc440b79dbe8090bb41694555
+  input_hashes:
+    ../script.it.md: a6f9fa952c5f80354e45aca418b6c99dedc0513506f17e0baa7bf58701247c98
+    brief.md: 8848cbaf55ab970dfb33b1f32cf18f96ebf8a2628045a8139fb281ce290b5ace
+    quotes.yaml: 8a9a611660d49e64e81465ac748028329a3de44bdc40079003b98bbfc70b4d10
+    claims.yaml: 350f2439e178fd031db6df9c223fedc78b10a1cb2d8f5d4c2fbe9708eba5218e
+    sources.yaml: 380909ffca102aa0cea0b5b00ba34745892e7deb7bb958ea8180db1d46f4d3a9
+  items:
+  - id: ED-001
+    kind: fact
+    chapter_id: CH-002
+    transcript:
+    - U-00126
+    current_text: Paper has only just been invented, and it’s expensive.
+    current_text_sha256: 58dbcc9a63b14cca8a4a667660d099836e6d833a5d956a21f3a9ddb692cf0b30
+    proposed_text: Paper is expensive.
+    reason: Remove incorrect global invention chronology while preserving the writing-material cost argument
+      and following parchment comparison. No added China/Italian chronology is needed.
+    evidence:
+    - C-006
+    - SRC-001
+    - SRC-016
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-002
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00150–U-00152
+    current_text: The Church has never officially said, “Yes, that’s true.” Nor has it said, “It’s all
+      nonsense.” People are left to make up their own minds.
+    current_text_sha256: ae31b0c0eba0a2bc4ec5ba58ef5486597fbd3507001296f663ed567b6b30a46a
+    proposed_text: The Church has condemned one part of Joachim’s theology. But that doesn’t settle the
+      question of these predictions. They still attract plenty of believers.
+    reason: LateranIV condemns a specific Trinitarian treatise; retain distinction from the prophetic
+      scheme instead of implying complete institutional silence or blanket condemnation of all prophecy.
+    evidence:
+    - C-007
+    - Q-004
+    - SRC-007
+    - SRC-001
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-003
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00191–U-00195
+    current_text: That’s 1250. Thirty years later, Salimbene says,
+    current_text_sha256: 70ef89bfa9b16bb42e81414a03dbdea6bc7a485f420c523a6c04bec954c39d04
+    proposed_text: Frederick dies in 1250; the announcement at Ferrara follows in 1251. Decades later,
+      Salimbene says,
+    reason: Distinguish imperial death from subsequent papal announcement, keeping the collapse of prophetic
+      expectations and retrospective scene.
+    evidence:
+    - C-009
+    - Q-005
+    - Q-006
+    - SRC-001
+    - SRC-008
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-004
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00202–U-00216
+    current_text: 'One day people tell Salimbene that a new prophet has appeared. Who is he? A poor man
+      from Parma, Salimbene’s own city. A weaver.
+
+
+      He has begun making prophecies, and the things he says seem to come true. Eventually he retires
+      to Fontevivo, a Cistercian monastery outside Parma. The Cistercians take him in.
+
+
+      “I’ve heard so much about this man,” Salimbene says. “He spends all day shut in his room, writing.”
+
+
+      An artisan, you understand. A working man. A weaver, predicting the future.
+
+
+      Salimbene hears these stories, and eventually he can’t stand it any longer. He has to meet the man.
+
+
+      <!-- research: Q-008; Q-009; Q-010 -->
+
+
+      He sets out for Fontevivo. When he arrives, he finds a friend there, another Franciscan, who is
+      a physician. He’s staying with the Cistercians, a different religious order, because they need a
+      doctor.'
+    current_text_sha256: b99601df2feea2df010b24f0b1e8d0978522ce112bccd54c93cb18616398e8d4
+    proposed_text: 'Salimbene hears more about a prophet whose writings he already knows. Who is he? A
+      poor weaver, originally from Verona, now living in Parma, Salimbene’s own city.
+
+
+      He has begun making prophecies, and the things he says seem to come true. Eventually he retires
+      to Fontevivo, a Cistercian monastery outside Parma. The Cistercians take him in.
+
+
+      “I’ve heard so much about this man,” Salimbene says. “He spends all day shut in his room, writing.”
+
+
+      An artisan, you understand. A working man. A weaver, predicting the future.
+
+
+      Salimbene hears these stories, and eventually he can’t stand it any longer. He has to find out more.
+
+
+      <!-- research: Q-008; Q-009; Q-010 -->
+
+
+      He sets out for Fontevivo. When he arrives, he finds a friend there, a physician who entered the
+      Franciscans with him, later left, and has now become a Cistercian.'
+    reason: Correct origin/prior acquaintance and physician’s religious affiliation, retaining the visit,
+      anticipation, manuscript-circulation digression and ensuing erasure dialogue. Based on located old
+      Italian translation; no invented original Latin wording.
+    evidence:
+    - C-011
+    - Q-007
+    - Q-008
+    - SRC-001
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-005
+    kind: fact
+    chapter_id: CH-006
+    transcript:
+    - U-00460–U-00463
+    current_text: 'Frederick writes to Brother Elias, the head of the Franciscan order. In effect: “This
+      is what I’ve been told. See what you can do. Let’s get this boy back to his father, unless he absolutely
+      insists on staying.”'
+    current_text_sha256: 2334bfaf1aeb6aa94da009d8ef270d77392d6afd43ca1c0666ff32604cd60fa0
+    proposed_text: 'Frederick writes to Brother Elias, the head of the Franciscan order, asking him to
+      return the boy. Elias then writes to the friars at Fano: they must send Salimbene home if he wants
+      to go. If he refuses, they must protect him.'
+    reason: Assign the consent condition to Elias, as MGH39 does; retain emperor’s intervention, the father’s
+      leverage and the son’s choice. Present both documents as Salimbene’s reports, without inventing
+      verbatim English letters.
+    evidence:
+    - C-017
+    - Q-029
+    - SRC-004
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-006
+    kind: fact
+    chapter_id: CH-007
+    transcript:
+    - U-00534–U-00540
+    - U-00560–U-00562
+    current_text: 'He is in Pisa. He belongs to the friary there, and he describes going down a particular
+      street, keeping to one side because on the other side stands the lodging house of the merchants
+      from Parma.
+
+
+      “I wanted to avoid meeting anyone from Parma. I was too ashamed to face people who knew me.”
+
+
+      But his luck runs out. He meets someone from Parma anyway.
+
+
+      “A man came up to me whom I didn’t know. But he knew me.” Salimbene comes from an important family.
+
+
+      The man grabs him by his habit.
+
+
+      “You wretched boy! What are you doing here? Look at the state you’ve got yourself into. Your father’s
+      house is full of servants who have more than enough to eat. And here you are, begging, taking bread
+      away from people poorer than you.”
+
+
+      He goes on. Salimbene reports it word for word.
+
+
+      “You ought to be in Parma, riding around on horseback, showing yourself off in tournaments, delighting
+      the people who come to watch.” Because that is what noble knights do. “You ought to be admired by
+      the ladies and handing out money to the minstrels. That’s what you should be doing. Not going barefoot
+      from door to door, begging.”
+
+
+      Salimbene pushes him away. Sends him off angrily. Quotes a few biblical passages at him.
+
+
+      But then he says, “That evening, back at the friary, I began to think about it. If I have to go
+      on like this for another fifty years. Begging.”
+
+
+      That time, he really does wonder whether he has made a terrible mistake with his life.
+
+
+      <!-- research: Q-043 -->
+
+
+      Fortunately, another dream comes that night.
+
+
+      He dreams that he is begging in Pisa. A little farther along the same street, the child Jesus is
+      also going out with a bag to beg. And the Virgin is there with a bag, begging too.'
+    current_text_sha256: de880866b748b228d7710711354d9a904cfc2132cd7c4bfaff0cb230229c196c
+    proposed_text: 'He is in Pisa. He belongs to the friary there. And one day he meets someone from Parma.
+
+
+      “A man came up to me whom I didn’t know. But he knew me.” Salimbene comes from an important family.
+
+
+      The man grabs him by his habit.
+
+
+      “You wretched boy! What are you doing here? Look at the state you’ve got yourself into. Your father’s
+      house is full of servants who have more than enough to eat. And here you are, begging, taking bread
+      away from people poorer than you.”
+
+
+      He goes on. Salimbene reports it word for word.
+
+
+      “You ought to be in Parma, riding around on horseback, showing yourself off in tournaments, delighting
+      the people who come to watch.” Because that is what noble knights do. “You ought to be admired by
+      the ladies and handing out money to the minstrels. That’s what you should be doing. Not going barefoot
+      from door to door, begging.”
+
+
+      Salimbene pushes him away. Sends him off angrily. Quotes a few biblical passages at him.
+
+
+      But then he says, “That evening, back at the friary, I began to think about it. If I have to go
+      on like this for another fifty years. Begging.”
+
+
+      That time, he really does wonder whether he has made a terrible mistake with his life.
+
+
+      <!-- research: Q-043 -->
+
+
+      Fortunately, another dream comes that night.
+
+
+      In the dream, he is begging in Pisa, keeping to one side of a street because the Parmesan merchants’
+      lodging house is on the other. He is ashamed to meet them, afraid of hearing more words that might
+      shake his resolve.
+
+
+      Then he sees Jesus carrying bread from a house and putting it into his basket. The Virgin does the
+      same. So does Joseph. They help him finish his begging round and fill the basket.'
+    reason: Restore dream placement of street/fondaco and all three holy figures helping fill Salimbene’s
+      collection basket. Preserve the entire stranger’s rebuke, fifty-year crisis, dream consolation and
+      shared-poverty meaning. MGH45–46 does not justify saying the holy figures do no begging at all.
+    evidence:
+    - C-019
+    - Q-040
+    - Q-041
+    - Q-042
+    - Q-043
+    - SRC-004
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-007
+    kind: fact
+    chapter_id: CH-008
+    transcript:
+    - U-00589–U-00593
+    current_text: He has even seen an atheist bishop. The bishop of Parma, on his deathbed, is offered
+      the sacraments.
+    current_text_sha256: 1625aa0f455635d0d14827c147e5d216f5ae170546fcde2c548e06b4515a8c31
+    proposed_text: He even tells of a bishop who rejects the faith. The bishop of Parma, on his deathbed,
+      is offered the sacraments.
+    reason: Use the narrower reported rejection of faith/sacrament and remove implied personal witnessing;
+      preserve deathbed dialogue and wealth/honors punchline without imposing the modern atheist label.
+    evidence:
+    - C-021
+    - Q-045
+    - Q-046
+    - SRC-003
+    - SRC-001
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-008
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00677–U-00727
+    current_text: 'King Louis is such a man. He sets out from northern France to embark for the crusade
+      at Aigues-Mortes in Provence. He crosses the whole kingdom on foot. Not on horseback. On foot, carrying
+      a pilgrim’s staff and bag.
+
+
+      Because going on crusade means, first of all, going on pilgrimage. Going to Jerusalem.
+
+
+      So the king of France spends months walking across his kingdom dressed as a pilgrim. He stops in
+      towns, stops at the friars’ houses, eats with them, discusses things with them, talks to them. Salimbene
+      meets him several times on this journey.
+
+
+      <!-- research: C-025; Q-061 -->
+
+
+      On one occasion they are coming out of Sens to meet the king. As the king arrives, the bishop of
+      Sens sends him a present.
+
+
+      What do you give a king?
+
+
+      This is a simple age, in which ordinary, concrete, everyday things matter. The bishop sends the
+      king a huge live pike, in a tub full of water.
+
+
+      A gift fit for a king.
+
+
+      Salimbene says the French like pike. Evidently he doesn’t. He’s from Parma, not Mantua. But the
+      French like it.
+
+
+      The fish is in the sort of vessel used for washing babies when you take off their swaddling clothes.
+      The thing the Tuscans call a bigoncia.
+
+
+      Salimbene is very interested in language too. He is always noting how people use words.
+
+
+      So the king is given a pike, and it is a gift fit for a king.
+
+
+      <!-- research: Q-062; Q-063 -->
+
+
+      Then the king enters the Franciscan friary and speaks to the brothers. He tells them he hasn’t come
+      to ask for money. He is paying for the crusade himself. All he asks is their prayers.
+
+
+      “All the French friars were crying,” Salimbene says.
+
+
+      He is Italian, so naturally he’s a little less involved. Particularly in the matter of not being
+      asked for money. But all the French are crying.
+
+
+      Then they go to dinner with the king.
+
+
+      <!-- research: C-026; Q-064 -->
+
+
+      Let me see if I can find the menu. This is what they eat. Many decades later, Salimbene still remembers
+      what they had that day with the king.
+
+
+      People’s idea of a meal is quite different from ours. Their tastes are different. In particular,
+      they don’t have our notion of a sequence in which you begin with savory dishes and move on to sweet
+      ones. They are quite happy to mix different things together.
+
+
+      It is a meatless day, so they eat fish.
+
+
+      “A magnificent dinner,” Salimbene says, “worthy of a great king.” Yet, as you’ll see, it is no rich
+      glutton’s feast. It is worthy of a great king who is also a great saint.
+
+
+      “First that day, we ate cherries. Then they brought white bread, the whitest bread, and wine. Then
+      fresh fava beans cooked in milk. Then fish and crayfish, and eel meatballs. Then rice with almond
+      milk and powdered cinnamon. Then grilled eels with an excellent sauce. Savory tarts. Fresh curds.
+      Fruit.”
+
+
+      A great dinner. But compared with other dinners Salimbene describes, it suits a king’s magnificence
+      without contradicting the humility of a saint who is walking to his point of embarkation.'
+    current_text_sha256: bdfa7a4ea10e6417b760bce22fbe7b19bfbbf99714e005a30464686dcfcf28a8
+    proposed_text: 'King Louis is such a man. He sets out from northern France to embark for the crusade
+      at Aigues-Mortes. When Salimbene sees him arrive at Sens, the king comes on foot, carrying a pilgrim’s
+      staff and bag.
+
+
+      Because going on crusade means, first of all, going on pilgrimage. Going to Jerusalem.
+
+
+      So the king of France travels across his kingdom dressed as a pilgrim. He stops in towns, stops
+      at the friars’ houses, eats with them, discusses things with them, talks to them. Salimbene meets
+      him several times on this journey.
+
+
+      <!-- research: C-025; Q-061 -->
+
+
+      On one occasion they are coming out of Sens to meet the king. As the king arrives, the treasurer
+      of the church of Sens presents him with a gift.
+
+
+      What do you give a king?
+
+
+      This is a simple age, in which ordinary, concrete, everyday things matter. The gift is a huge live
+      pike, in a tub full of water.
+
+
+      A gift fit for a king.
+
+
+      Salimbene says the French like pike. Evidently he doesn’t. He’s from Parma, not Mantua. But the
+      French like it.
+
+
+      The fish is in the sort of vessel used for washing babies when you take off their swaddling clothes.
+      The thing the Tuscans call a bigoncia.
+
+
+      Salimbene is very interested in language too. He is always noting how people use words.
+
+
+      So the king is given a pike, and it is a gift fit for a king.
+
+
+      <!-- research: Q-062; Q-063 -->
+
+
+      Then the king enters the Franciscan friary and asks the brothers to pray for him and his companions.
+      Salimbene says that some of the French friars beside him are crying almost inconsolably.
+
+
+      When the head of the order, John of Parma, replies, he makes the point: the king isn’t asking them
+      for gold or silver. His treasury has enough of that. He is asking for their prayers.
+
+
+      Salimbene is Italian, so naturally he’s a little less involved. Particularly in the matter of not
+      being asked for money. But the French friars beside him are crying.
+
+
+      Then they go to dinner with the king.
+
+
+      <!-- research: C-026; Q-064 -->
+
+
+      Let me see if I can find the menu. This is what they eat. Many decades later, Salimbene still remembers
+      what they had that day with the king.
+
+
+      People’s idea of a meal is quite different from ours. Their tastes are different. In particular,
+      they don’t have our notion of a sequence in which you begin with savory dishes and move on to sweet
+      ones. They are quite happy to mix different things together.
+
+
+      It is a meatless day, so they eat fish.
+
+
+      “A magnificent dinner,” Salimbene says, “worthy of a great king.” Yet, as you’ll see, it is no rich
+      glutton’s feast. It is worthy of a great king who is also a great saint.
+
+
+      “First that day, we ate cherries. Then they brought white bread, the whitest bread, and wine. Then
+      fresh fava beans cooked in milk. Then fish and crayfish, and eel meatballs. Then rice with almond
+      milk and powdered cinnamon. Then grilled eels with an excellent sauce. Savory tarts. Fresh curds.
+      Fruit.”
+
+
+      A great dinner. But compared with other dinners Salimbene describes, it suits a king’s magnificence
+      without contradicting the humility of a king traveling as a pilgrim.'
+    reason: 'Consolidated royal-visit correction: limit walking to observed Sens arrival (later text mentions
+      horse), identify gift presenter without assuming bishop commissioned it, attribute money/prayers
+      contrast to John of Parma, scope tears to some nearby friars, and repair later walking callback.
+      Preserve pilgrim humility, pike/bath/language asides, Italian-distance joke and complete menu. No
+      unrelated passage or research marker removed.'
+    evidence:
+    - C-024
+    - C-025
+    - Q-060
+    - Q-061
+    - Q-062
+    - Q-063
+    - SRC-001
+    - SRC-004
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-009
+    kind: fact
+    chapter_id: CH-012
+    transcript:
+    - U-00775
+    current_text: Take food. Toward the end of his life, when he’s old and approaching seventy, he remarks
+      that human greed for good food really knows no limits.
+    current_text_sha256: 62aa58e4467b52947ed8c50638fda376f77e080df4b9d67361f9fca924cdb5bf
+    proposed_text: Take food. Writing in his sixties, he remarks that human greed for good food really
+      knows no limits.
+    reason: Ravioli entry is dated1284; birth1221 makes him62/63. Preserve late-life curiosity without
+      changing the user-approved approximate birth range elsewhere, or resolving the deliberately uncertain
+      recipe.
+    evidence:
+    - C-030
+    - Q-071
+    - SRC-002
+    - SRC-008
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-010
+    kind: fact
+    chapter_id: CH-012
+    transcript:
+    - U-00796–U-00799
+    current_text: “Then I remembered that in France the gentlemen and nobles don’t live in the towns.
+      They live in their castles. It isn’t like Italy, where noble knights live in the cities. Here the
+      cities are inhabited by merchants and craftsmen. So naturally their women—well, if we’d been in
+      Parma, the ladies of Parma would have made quite a different impression.”
+    current_text_sha256: 21e1e7e3fb47252662da4b55b31cf267994688e692465107b8159961e1cd2b1a
+    proposed_text: “Then I remembered that in France the gentlemen and nobles don’t live in the towns.
+      They live on their country estates. It isn’t like Italy, where noble knights live in the cities.
+      Here the cities are inhabited by merchants and craftsmen. So naturally their women—well, if we’d
+      been in Pisa or Bologna, the ladies would have made quite a different impression.”
+    reason: Restore the comparison’s cities Pisa/Bologna and avoid turning every country residence into
+      a castle. Remains contextual rendering of Salimbene’s class prejudice, not a demographic finding
+      or authoritative word-for-word quotation.
+    evidence:
+    - C-032
+    - Q-075
+    - SRC-004
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-011
+    kind: addition
+    chapter_id: CH-013
+    transcript:
+    - U-00809–U-00818
+    current_text: I’ll tell you just one story, a story Salimbene tells.
+    current_text_sha256: 2028273e4f11a1cc0e9d15dda1aeda8ef836ce2b2f1a8a51f23b27d5c7926a68
+    proposed_text: I’ll tell you just one story, a story Salimbene tells. Whether it happened as he describes
+      it is uncertain.
+    reason: Distinguish secure chronicle attribution from disputed occurrence before the climactic infant
+      scene; preserve scene, question, outcome and humane interpretation. No assertion of definite fabrication
+      or modern causal proof.
+    evidence:
+    - C-033
+    - Q-076
+    - Q-077
+    - Q-078
+    - SRC-004
+    - SRC-009
+    - SRC-013
+    - SRC-014
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-012
+    kind: quotation
+    chapter_id: CH-013
+    transcript:
+    - U-00819–U-00822
+    current_text: “Of course they all died. Babies cannot live without cuddles, smiles, clapping hands,
+      caresses, the chatter of their nurses. They cannot.”
+    current_text_sha256: 25c23f9589a5868db768627b7c2d3ff7ef6e8e8ab7ddf0df899ac1f358ee241b
+    proposed_text: “For they could not live without the clapping, gestures, cheerful expressions and caresses
+      of their attendants and wet nurses.”
+    reason: Optional recovered-source excerpt gives the humane climax Salimbene’s exact bounded content
+      in a direct new translation from MGH350. Ends before the separate cradle-song sentence, so it neither
+      inserts rocking nor conflates source/commentary. English tense follows original quoted recollection.
+    evidence:
+    - Q-079
+    - C-033
+    - SRC-004
+    protected_quote_spans:
+    - For they could not live without the clapping, gestures, cheerful expressions and caresses of their
+      attendants and wet nurses.
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  reason: 'Superseded after independent SR/LR reviews: six authorized routine language repairs, proposal
+    joins and scoped Joachim assessment; no user historical decisions inferred.'
+- base_script:
+    path: script.draft.en.md
+    sha256: f5ebf4ba73ec46e2c148e74d67767b12835ec4bbfc39583cc1fe3757b5d5a1fe
+  input_hashes:
+    ../script.it.md: a6f9fa952c5f80354e45aca418b6c99dedc0513506f17e0baa7bf58701247c98
+    brief.md: 8848cbaf55ab970dfb33b1f32cf18f96ebf8a2628045a8139fb281ce290b5ace
+    quotes.yaml: d99bf44ae9af9027ae7d3186e5ded5b1963e86f4067665b8ac9d5dc5108644ca
+    claims.yaml: 3fc0a6fc1a3a957398bd571a6b5d859a601cd5af7314dc242995a1783e276ae1
+    sources.yaml: 380909ffca102aa0cea0b5b00ba34745892e7deb7bb958ea8180db1d46f4d3a9
+  items:
+  - id: ED-001
+    kind: fact
+    chapter_id: CH-002
+    transcript:
+    - U-00126
+    current_text: Paper has only just been invented, and it’s expensive.
+    current_text_sha256: 58dbcc9a63b14cca8a4a667660d099836e6d833a5d956a21f3a9ddb692cf0b30
+    proposed_text: Paper is expensive.
+    reason: Remove incorrect global invention chronology while preserving the writing-material cost argument
+      and following parchment comparison. No added China/Italian chronology is needed.
+    evidence:
+    - C-006
+    - SRC-001
+    - SRC-016
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-002
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00150–U-00152
+    current_text: The Church has never officially said, “Yes, that’s true.” Nor has it said, “It’s all
+      nonsense.” People are left to make up their own minds.
+    current_text_sha256: ae31b0c0eba0a2bc4ec5ba58ef5486597fbd3507001296f663ed567b6b30a46a
+    proposed_text: The Church has condemned one part of Joachim’s theology. But that doesn’t settle the
+      question of these predictions. They still attract plenty of believers.
+    reason: 'Optional context: Lateran IV condemned a Trinitarian treatise by Joachim. This does not by
+      itself disprove the lecture’s narrower claim about his predictive system. The replacement adds that
+      distinction and removes the lecture’s statement about freedom to form an opinion; it requires an
+      editorial choice.'
+    evidence:
+    - C-007
+    - Q-004
+    - SRC-007
+    - SRC-001
+    - SR-002
+    protected_quote_spans: []
+    recommendation: retain
+    decision: pending
+    decision_note: null
+  - id: ED-003
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00191–U-00195
+    current_text: That’s 1250. Thirty years later, Salimbene says,
+    current_text_sha256: 70ef89bfa9b16bb42e81414a03dbdea6bc7a485f420c523a6c04bec954c39d04
+    proposed_text: Frederick dies in 1250; the announcement at Ferrara follows in 1251. Decades later,
+      Salimbene says,
+    reason: Distinguish imperial death from subsequent papal announcement, keeping the collapse of prophetic
+      expectations and retrospective scene.
+    evidence:
+    - C-009
+    - Q-005
+    - Q-006
+    - SRC-001
+    - SRC-008
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-004
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00202–U-00216
+    current_text: 'One day people tell Salimbene that a new prophet has appeared. Who is he? A poor man
+      from Parma, Salimbene’s own city. A weaver.
+
+
+      He has begun making prophecies, and the things he says seem to come true. Eventually he retires
+      to Fontevivo, a Cistercian monastery outside Parma. The Cistercians take him in.
+
+
+      “I’ve heard so much about this man,” Salimbene says. “He spends all day shut in his room, writing.”
+
+
+      An artisan, you understand. A working man. A weaver, predicting the future.
+
+
+      Salimbene hears these stories, and eventually he can’t stand it any longer. He has to meet the man.
+
+
+      <!-- research: Q-008; Q-009; Q-010 -->
+
+
+      He sets out for Fontevivo. When he arrives, he finds a friend there, another Franciscan, who is
+      a physician. He’s staying with the Cistercians, a different religious order, because they need a
+      doctor.'
+    current_text_sha256: b99601df2feea2df010b24f0b1e8d0978522ce112bccd54c93cb18616398e8d4
+    proposed_text: 'Salimbene hears more about a prophet whose writings he already knows. Who is he? A
+      poor weaver, originally from Verona, now living in Parma, Salimbene’s own city.
+
+
+      He has begun making prophecies, and the things he says seem to come true. Eventually he retires
+      to Fontevivo, a Cistercian monastery outside Parma. The Cistercians take him in.
+
+
+      “I’ve heard so much about this man,” Salimbene says. “He spends all day shut in his room, writing.”
+
+
+      An artisan, you understand. A working man. A weaver, predicting the future.
+
+
+      Salimbene hears these stories, and eventually he can’t stand it any longer. He has to find out more.
+
+
+      <!-- research: Q-008; Q-009; Q-010 -->
+
+
+      He sets out for Fontevivo. When he arrives, he finds a friend there, a physician who entered the
+      Franciscans with him, later left, and has now become a Cistercian.'
+    reason: Correct origin/prior acquaintance and physician’s religious affiliation, retaining the visit,
+      anticipation, manuscript-circulation digression and ensuing erasure dialogue. Based on located old
+      Italian translation; no invented original Latin wording.
+    evidence:
+    - C-011
+    - Q-007
+    - Q-008
+    - SRC-001
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-005
+    kind: fact
+    chapter_id: CH-006
+    transcript:
+    - U-00460–U-00463
+    current_text: 'Frederick writes to Brother Elias, the head of the Franciscan order. In effect: “This
+      is what I’ve been told. See what you can do. Let’s get this boy back to his father, unless he absolutely
+      insists on staying.”'
+    current_text_sha256: 2334bfaf1aeb6aa94da009d8ef270d77392d6afd43ca1c0666ff32604cd60fa0
+    proposed_text: 'Frederick writes to Brother Elias, the head of the Franciscan order, asking him to
+      return the boy. Elias then writes to the friars at Fano: they must send Salimbene home if he wants
+      to go. If he refuses, they must protect him.'
+    reason: Assign the consent condition to Elias, as MGH39 does; retain emperor’s intervention, the father’s
+      leverage and the son’s choice. Present both documents as Salimbene’s reports, without inventing
+      verbatim English letters.
+    evidence:
+    - C-017
+    - Q-029
+    - SRC-004
+    - LR-011
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-006
+    kind: fact
+    chapter_id: CH-007
+    transcript:
+    - U-00534–U-00540
+    - U-00560–U-00562
+    current_text: 'He is in Pisa. He belongs to the friary there, and he describes going down a particular
+      street, keeping to one side because on the other side stands the lodging house of the merchants
+      from Parma.
+
+
+      “I wanted to avoid meeting anyone from Parma. I was too ashamed to face people who knew me.”
+
+
+      But his luck runs out. He meets someone from Parma anyway.
+
+
+      “A man came up to me whom I didn’t know. But he knew me.” Salimbene comes from an important family.
+
+
+      The man grabs him by his habit.
+
+
+      “You wretched boy! What are you doing here? Look at the state you’ve got yourself into. Your father’s
+      house is full of servants who have more than enough to eat. And here you are, begging, taking bread
+      away from people poorer than you.”
+
+
+      He goes on. Salimbene reports it word for word.
+
+
+      “You ought to be in Parma, riding around on horseback, showing yourself off in tournaments, delighting
+      the people who come to watch.” Because that is what noble knights do. “You ought to be admired by
+      the ladies and handing out money to the minstrels. That’s what you should be doing. Not going barefoot
+      from door to door, begging.”
+
+
+      Salimbene pushes him away. Sends him off angrily. Quotes a few biblical passages at him.
+
+
+      But then he says, “That evening, back at the friary, I began to think about it. If I have to go
+      on like this for another fifty years. Begging.”
+
+
+      That time, he really does wonder whether he has made a terrible mistake with his life.
+
+
+      <!-- research: Q-043 -->
+
+
+      Fortunately, another dream comes that night.
+
+
+      He dreams that he is begging in Pisa. A little farther along the same street, the child Jesus is
+      also going out with a bag to beg. And the Virgin is there with a bag, begging too.'
+    current_text_sha256: de880866b748b228d7710711354d9a904cfc2132cd7c4bfaff0cb230229c196c
+    proposed_text: 'He is in Pisa. He belongs to the friary there. And one day he meets someone from Parma.
+
+
+      “A man came up to me whom I didn’t know. But he knew me.” Salimbene comes from an important family.
+
+
+      The man grabs him by his habit.
+
+
+      “You wretched boy! What are you doing here? Look at the state you’ve got yourself into. Your father’s
+      house is full of servants who have more than enough to eat. And here you are, begging, taking bread
+      away from people poorer than you.”
+
+
+      He goes on. Salimbene reports it word for word.
+
+
+      “You ought to be in Parma, riding around on horseback, showing yourself off in tournaments, delighting
+      the people who come to watch.” Because that is what noble knights do. “You ought to be admired by
+      the ladies and handing out money to the minstrels. That’s what you should be doing. Not going barefoot
+      from door to door, begging.”
+
+
+      Salimbene pushes him away. Sends him off angrily. Quotes a few biblical passages at him.
+
+
+      But then he says, “That evening, back at the friary, I began to think about it. If I have to go
+      on like this for another fifty years. Begging.”
+
+
+      That time, he really does wonder whether he has made a terrible mistake with his life.
+
+
+      <!-- research: Q-043 -->
+
+
+      Fortunately, another dream comes that night.
+
+
+      In the dream, he is begging in Pisa, keeping to one side of a street because the lodging house of
+      the merchants from Parma is on the other. He is ashamed to meet them, afraid of hearing more words
+      that might shake his resolve.
+
+
+      Then he sees Jesus carrying bread from a house and putting it into Salimbene’s basket. The Virgin
+      does the same. So does Joseph. They help him finish his begging round and fill the basket.'
+    reason: Restore dream placement of street/fondaco and all three holy figures helping fill Salimbene’s
+      collection basket. Preserve the entire stranger’s rebuke, fifty-year crisis, dream consolation and
+      shared-poverty meaning. MGH45–46 does not justify saying the holy figures do no begging at all.
+    evidence:
+    - C-019
+    - Q-040
+    - Q-041
+    - Q-042
+    - Q-043
+    - SRC-004
+    - LR-012
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-007
+    kind: fact
+    chapter_id: CH-008
+    transcript:
+    - U-00589–U-00593
+    current_text: He has even seen an atheist bishop. The bishop of Parma, on his deathbed, is offered
+      the sacraments.
+    current_text_sha256: 1625aa0f455635d0d14827c147e5d216f5ae170546fcde2c548e06b4515a8c31
+    proposed_text: He even tells of a bishop who rejects the faith. The bishop of Parma, on his deathbed,
+      is offered the sacraments.
+    reason: 'Use the narrower reported rejection of faith/sacrament and remove implied personal witnessing;
+      preserve deathbed dialogue and wealth/honors punchline. This is an evidentially cautious wording
+      choice: Barbero’s atheist label is an interpretation, not a disproven claim.'
+    evidence:
+    - C-021
+    - Q-045
+    - Q-046
+    - SRC-003
+    - SRC-001
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-008
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00677–U-00727
+    current_text: 'King Louis is such a man. He sets out from northern France to embark for the crusade
+      at Aigues-Mortes in Provence. He crosses the whole kingdom on foot. Not on horseback. On foot, carrying
+      a pilgrim’s staff and bag.
+
+
+      Because going on crusade means, first of all, going on pilgrimage. Going to Jerusalem.
+
+
+      So the king of France spends months walking across his kingdom dressed as a pilgrim. He stops in
+      towns, stops at the friars’ houses, eats with them, discusses things with them, talks to them. Salimbene
+      meets him several times on this journey.
+
+
+      <!-- research: C-025; Q-061 -->
+
+
+      On one occasion, Salimbene is coming out of Sens to meet the king. As the king arrives, the bishop
+      of Sens sends him a present.
+
+
+      What do you give a king?
+
+
+      This is a simple age, in which ordinary, concrete, everyday things matter. The bishop sends the
+      king a huge live pike, in a tub full of water.
+
+
+      A gift fit for a king.
+
+
+      Salimbene says the French like pike. Evidently he doesn’t. He’s from Parma, not Mantua. But the
+      French like it.
+
+
+      The fish is in the sort of vessel used for washing babies when you take off their swaddling clothes.
+      The thing the Tuscans call a bigoncia.
+
+
+      Salimbene is very interested in language too. He is always noting how people use words.
+
+
+      So the king is given a pike, and it is a gift fit for a king.
+
+
+      <!-- research: Q-062; Q-063 -->
+
+
+      Then the king enters the Franciscan friary and speaks to the brothers. He tells them he hasn’t come
+      to ask for money. He is paying for the crusade himself. All he asks is their prayers.
+
+
+      “All the French friars were crying,” Salimbene says.
+
+
+      He is Italian, so naturally he’s a little less involved. Particularly in the matter of not being
+      asked for money. But all the French are crying.
+
+
+      Then they go to dinner with the king.
+
+
+      <!-- research: C-026; Q-064 -->
+
+
+      Let me see if I can find the menu. This is what they eat. Many decades later, Salimbene still remembers
+      what they had that day with the king.
+
+
+      People’s idea of a meal is quite different from ours. Their tastes are different. In particular,
+      they don’t have our notion of a sequence in which you begin with savory dishes and move on to sweet
+      ones. They are quite happy to mix different things together.
+
+
+      It is a meatless day, so they eat fish.
+
+
+      “A magnificent dinner,” Salimbene says, “worthy of a great king.” Yet, as you’ll see, it is no rich
+      glutton’s feast. It is worthy of a great king who is also a great saint.
+
+
+      “First that day, we ate cherries. Then they brought white bread, the whitest bread, and wine. Then
+      fresh fava beans cooked in milk. Then fish and crayfish, and eel meatballs. Then rice with almond
+      milk and powdered cinnamon. Then grilled eels with an excellent sauce. Savory tarts. Fresh curds.
+      Fruit.”
+
+
+      A great dinner. But compared with other dinners Salimbene describes, it suits a king’s magnificence
+      without contradicting the humility of a saint who is walking to his point of embarkation.'
+    current_text_sha256: 00df73f92997411326e39a6d6cee35c4e9abc3a80433a7b1ff36d908911f6935
+    proposed_text: 'King Louis is such a man. He sets out from northern France to embark for the crusade
+      at Aigues-Mortes. When Salimbene sees him arrive at Sens, the king comes on foot, carrying a pilgrim’s
+      staff and bag.
+
+
+      Because going on crusade means, first of all, going on pilgrimage. Going to Jerusalem.
+
+
+      So the king of France travels across his kingdom dressed as a pilgrim. He stops in towns, stops
+      at the friars’ houses, eats with them, discusses things with them, talks to them. Salimbene meets
+      him several times on this journey.
+
+
+      <!-- research: C-025; Q-061 -->
+
+
+      At Sens, Salimbene goes out to meet the king. As the king arrives, a gift comes for him from the
+      treasurer of the church of Sens.
+
+
+      What do you give a king?
+
+
+      This is a simple age, in which ordinary, concrete, everyday things matter. The gift is a huge live
+      pike, in a tub full of water.
+
+
+      A gift fit for a king.
+
+
+      Salimbene says the French like pike. Evidently he doesn’t. He’s from Parma, not Mantua. But the
+      French like it.
+
+
+      The fish is in the sort of vessel used for washing babies when you take off their swaddling clothes.
+      The thing the Tuscans call a bigoncia.
+
+
+      Salimbene is very interested in language too. He is always noting how people use words.
+
+
+      So the king is given a pike, and it is a gift fit for a king.
+
+
+      <!-- research: Q-062; Q-063 -->
+
+
+      Then the king enters the Franciscan friary and asks the brothers to pray for him and his companions.
+      Salimbene says that some of the French friars beside him are crying almost inconsolably.
+
+
+      When the head of the order, John of Parma, replies, he makes the point: the king isn’t asking them
+      for gold or silver. His treasury has enough of that. He is asking for their prayers.
+
+
+      Salimbene is Italian, so naturally he’s a little less involved. Particularly in the matter of not
+      being asked for money. But the French friars beside him are crying.
+
+
+      Then they go to dinner with the king.
+
+
+      <!-- research: C-026; Q-064 -->
+
+
+      Let me see if I can find the menu. This is what they eat. Many decades later, Salimbene still remembers
+      what they had that day with the king.
+
+
+      People’s idea of a meal is quite different from ours. Their tastes are different. In particular,
+      they don’t have our notion of a sequence in which you begin with savory dishes and move on to sweet
+      ones. They are quite happy to mix different things together.
+
+
+      It is a meatless day, so they eat fish.
+
+
+      “A magnificent dinner,” Salimbene says, “worthy of a great king.” Yet, as you’ll see, it is no rich
+      glutton’s feast. It is worthy of a great king who is also a great saint.
+
+
+      “First that day, we ate cherries. Then they brought white bread, the whitest bread, and wine. Then
+      fresh fava beans cooked in milk. Then fish and crayfish, and eel meatballs. Then rice with almond
+      milk and powdered cinnamon. Then grilled eels with an excellent sauce. Savory tarts. Fresh curds.
+      Fruit.”
+
+
+      A great dinner. But compared with other dinners Salimbene describes, it suits a king’s magnificence
+      without contradicting the humility of a king traveling as a pilgrim.'
+    reason: 'Consolidated royal-visit correction: limit walking to observed Sens arrival (later text mentions
+      horse), identify the gift’s sender without assuming he personally presents it, attribute money/prayers
+      contrast to John of Parma, scope tears to some nearby friars, and repair later walking callback.
+      Preserve pilgrim humility, pike/bath/language asides, Italian-distance joke and complete menu. No
+      unrelated passage or research marker removed.'
+    evidence:
+    - C-024
+    - C-025
+    - Q-060
+    - Q-061
+    - Q-062
+    - Q-063
+    - SRC-001
+    - SRC-004
+    - SR-003
+    - LR-004
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-009
+    kind: fact
+    chapter_id: CH-012
+    transcript:
+    - U-00775
+    current_text: Take food. Toward the end of his life, when he’s old and approaching seventy, he remarks
+      that human greed for good food really knows no limits.
+    current_text_sha256: 62aa58e4467b52947ed8c50638fda376f77e080df4b9d67361f9fca924cdb5bf
+    proposed_text: Take food. Writing in his sixties, he remarks that human greed for good food really
+      knows no limits.
+    reason: Ravioli entry is dated1284; birth1221 makes him62/63. Preserve late-life curiosity without
+      changing the user-approved approximate birth range elsewhere, or resolving the deliberately uncertain
+      recipe.
+    evidence:
+    - C-030
+    - Q-071
+    - SRC-002
+    - SRC-008
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-010
+    kind: fact
+    chapter_id: CH-012
+    transcript:
+    - U-00796–U-00799
+    current_text: “Then I remembered that in France the gentlemen and nobles don’t live in the towns.
+      They live in their castles. It isn’t like Italy, where noble knights live in the cities. Here the
+      cities are inhabited by merchants and craftsmen. So naturally their women—well, if we’d been in
+      Parma, the ladies of Parma would have made quite a different impression.”
+    current_text_sha256: 21e1e7e3fb47252662da4b55b31cf267994688e692465107b8159961e1cd2b1a
+    proposed_text: “Then I remembered that in France the gentlemen and nobles don’t live in the towns.
+      They live on their country estates. It isn’t like Italy, where noble knights live in the cities.
+      Here the cities are inhabited by merchants and craftsmen. So naturally their women—well, if we’d
+      been in Pisa or Bologna, the ladies would have made quite a different impression.”
+    reason: Restore the comparison’s cities Pisa/Bologna and avoid turning every country residence into
+      a castle. Remains contextual rendering of Salimbene’s class prejudice, not a demographic finding
+      or authoritative word-for-word quotation.
+    evidence:
+    - C-032
+    - Q-075
+    - SRC-004
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-011
+    kind: addition
+    chapter_id: CH-013
+    transcript:
+    - U-00809–U-00818
+    current_text: I’ll tell you just one story, a story Salimbene tells.
+    current_text_sha256: 2028273e4f11a1cc0e9d15dda1aeda8ef836ce2b2f1a8a51f23b27d5c7926a68
+    proposed_text: I’ll tell you just one story, a story Salimbene tells. Whether it happened as he describes
+      it is uncertain.
+    reason: Distinguish secure chronicle attribution from disputed occurrence before the climactic infant
+      scene; preserve scene, question, outcome and humane interpretation. No assertion of definite fabrication
+      or modern causal proof.
+    evidence:
+    - C-033
+    - Q-076
+    - Q-077
+    - Q-078
+    - SRC-004
+    - SRC-009
+    - SRC-013
+    - SRC-014
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-012
+    kind: quotation
+    chapter_id: CH-013
+    transcript:
+    - U-00819–U-00822
+    current_text: “Of course they all died. Babies cannot live without cuddles, smiles, clapping hands,
+      caresses, the chatter of their nurses. They cannot.”
+    current_text_sha256: 25c23f9589a5868db768627b7c2d3ff7ef6e8e8ab7ddf0df899ac1f358ee241b
+    proposed_text: “For they could not live without the clapping, gestures, cheerful expressions and caresses
+      of their attendants and wet nurses.”
+    reason: Optional recovered-source excerpt gives the humane climax Salimbene’s exact bounded content
+      in a direct new translation from MGH350. Ends before the separate cradle-song sentence, so it neither
+      inserts rocking nor conflates source/commentary. English tense follows original quoted recollection.
+    evidence:
+    - Q-079
+    - C-033
+    - SRC-004
+    protected_quote_spans:
+    - For they could not live without the clapping, gestures, cheerful expressions and caresses of their
+      attendants and wet nurses.
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-013
+    kind: addition
+    chapter_id: CH-001
+    transcript:
+    - U-00035–U-00048
+    current_text: He’s a Franciscan friar of the thirteenth century.
+    current_text_sha256: 3209be98c8ba88c9567f6e0d8fab4e25e82136a55cbf26f6831242e78899f397
+    proposed_text: He’s a Franciscan friar of the thirteenth century, a follower of Saint Francis.
+    reason: Supply brief early orientation using the lecture’s later explanation; preserve the fuller
+      poverty and order discussion.
+    evidence:
+    - LR-001
+    - C-003
+    - C-014
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-014
+    kind: addition
+    chapter_id: CH-002
+    transcript:
+    - U-00106–U-00113
+    current_text: At one point he quotes a little satirical song making fun of a Dominican.
+    current_text_sha256: bf1f596fca3f2961ae5edd73174afb80cb2bb0fefa4f29bf8cf537f7867a837e
+    proposed_text: At one point he quotes a little satirical song making fun of a Dominican, a friar from
+      a rival religious order.
+    reason: Identify the religious community before the rivalry drives the joke; preserve the later nuanced
+      discussion.
+    evidence:
+    - LR-001
+    - C-014
+    - Q-001
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-015
+    kind: addition
+    chapter_id: CH-001
+    transcript:
+    - U-00001–U-00011
+    current_text: Good evening. Good evening.
+    current_text_sha256: 8e39abed8f02a9aefdfa1dc084fb282eb7f1bd1e11ad2e55bcaa51ffdc7f9684
+    proposed_text: 'This is an English adaptation of Alessandro Barbero’s 2011 lecture, The Friar.
+
+
+      Good evening. Good evening.'
+    reason: Audible presentation frame explains the venue, our Italy and future-looking2012. This sentence
+      is outside Barbero’s greeting. Omit if another audible introduction already supplies the frame;
+      metadata alone does not.
+    evidence:
+    - LR-002
+    - C-010
+    - SRC-015
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-016
+    kind: addition
+    chapter_id: CH-004
+    transcript:
+    - U-00321–U-00324
+    current_text: We’re fifty years before Boccaccio, and it’s already a stereotype.
+    current_text_sha256: e26ad5b2505eade1213872341859a36f90deac7d88c2a37dade182c22a5dc7aa
+    proposed_text: We’re fifty years before the Italian storyteller Boccaccio, and it’s already a stereotype.
+    reason: Identify why this name matters without a literary digression; retain the source’s approximate
+      interval, which is not independently certified.
+    evidence:
+    - LR-003
+    - C-013
+    - SRC-018
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-017
+    kind: addition
+    chapter_id: CH-012
+    transcript:
+    - U-00786–U-00787
+    current_text: I don’t know. We’ll have to ask Massimo Montanari how to interpret it.
+    current_text_sha256: b37b857f26af1f37b832385e63cee2ba57a871672a871c15df04a9bec4ac9a9d
+    proposed_text: I don’t know. We’ll have to ask the food historian Massimo Montanari how to interpret
+      it.
+    reason: Explain the named authority while preserving both uncertain ravioli interpretations; supplies
+      neither a recipe nor a current university appointment.
+    evidence:
+    - LR-008
+    - C-030
+    - SRC-017
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-018
+    kind: addition
+    chapter_id: CH-013
+    transcript:
+    - U-00819–U-00823
+    current_text: Emperor Frederick, who was a genius, apparently wasn’t human enough to understand that.
+    current_text_sha256: 8ddc2f830c4930a11d46ae6c546f667bdf915890ecc07cc79b9e395692a227eb
+    proposed_text: In Salimbene’s story, Emperor Frederick, who was a genius, apparently wasn’t human
+      enough to understand that.
+    reason: Carry attribution into the final judgment so ED-011’s uncertainty is not undone. Keeps the
+      humane contrast; this can be selected independently of ED-012’s authoritative quotation.
+    evidence:
+    - LR-013
+    - C-033
+    - C-034
+    - SRC-004
+    - SRC-009
+    - SRC-013
+    - SRC-014
+    protected_quote_spans: []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-019
+    kind: cut
+    chapter_id: CH-010
+    transcript:
+    - U-00677–U-00727
+    current_text: 'King Louis is such a man. He sets out from northern France to embark for the crusade
+      at Aigues-Mortes in Provence. He crosses the whole kingdom on foot. Not on horseback. On foot, carrying
+      a pilgrim’s staff and bag.
+
+
+      Because going on crusade means, first of all, going on pilgrimage. Going to Jerusalem.
+
+
+      So the king of France spends months walking across his kingdom dressed as a pilgrim. He stops in
+      towns, stops at the friars’ houses, eats with them, discusses things with them, talks to them. Salimbene
+      meets him several times on this journey.
+
+
+      <!-- research: C-025; Q-061 -->
+
+
+      On one occasion, Salimbene is coming out of Sens to meet the king. As the king arrives, the bishop
+      of Sens sends him a present.
+
+
+      What do you give a king?
+
+
+      This is a simple age, in which ordinary, concrete, everyday things matter. The bishop sends the
+      king a huge live pike, in a tub full of water.
+
+
+      A gift fit for a king.
+
+
+      Salimbene says the French like pike. Evidently he doesn’t. He’s from Parma, not Mantua. But the
+      French like it.
+
+
+      The fish is in the sort of vessel used for washing babies when you take off their swaddling clothes.
+      The thing the Tuscans call a bigoncia.
+
+
+      Salimbene is very interested in language too. He is always noting how people use words.
+
+
+      So the king is given a pike, and it is a gift fit for a king.
+
+
+      <!-- research: Q-062; Q-063 -->
+
+
+      Then the king enters the Franciscan friary and speaks to the brothers. He tells them he hasn’t come
+      to ask for money. He is paying for the crusade himself. All he asks is their prayers.
+
+
+      “All the French friars were crying,” Salimbene says.
+
+
+      He is Italian, so naturally he’s a little less involved. Particularly in the matter of not being
+      asked for money. But all the French are crying.
+
+
+      Then they go to dinner with the king.
+
+
+      <!-- research: C-026; Q-064 -->
+
+
+      Let me see if I can find the menu. This is what they eat. Many decades later, Salimbene still remembers
+      what they had that day with the king.
+
+
+      People’s idea of a meal is quite different from ours. Their tastes are different. In particular,
+      they don’t have our notion of a sequence in which you begin with savory dishes and move on to sweet
+      ones. They are quite happy to mix different things together.
+
+
+      It is a meatless day, so they eat fish.
+
+
+      “A magnificent dinner,” Salimbene says, “worthy of a great king.” Yet, as you’ll see, it is no rich
+      glutton’s feast. It is worthy of a great king who is also a great saint.
+
+
+      “First that day, we ate cherries. Then they brought white bread, the whitest bread, and wine. Then
+      fresh fava beans cooked in milk. Then fish and crayfish, and eel meatballs. Then rice with almond
+      milk and powdered cinnamon. Then grilled eels with an excellent sauce. Savory tarts. Fresh curds.
+      Fruit.”
+
+
+      A great dinner. But compared with other dinners Salimbene describes, it suits a king’s magnificence
+      without contradicting the humility of a saint who is walking to his point of embarkation.'
+    current_text_sha256: 00df73f92997411326e39a6d6cee35c4e9abc3a80433a7b1ff36d908911f6935
+    proposed_text: 'King Louis is such a man. He sets out from northern France to embark for the crusade
+      at Aigues-Mortes. When Salimbene sees him arrive at Sens, the king comes on foot, carrying a pilgrim’s
+      staff and bag.
+
+
+      Because going on crusade means, first of all, going on pilgrimage. Going to Jerusalem.
+
+
+      So the king of France travels across his kingdom dressed as a pilgrim. He stops in towns, stops
+      at the friars’ houses, eats with them, discusses things with them, talks to them. Salimbene meets
+      him several times on this journey.
+
+
+      <!-- research: C-025; Q-061 -->
+
+
+      At Sens, Salimbene goes out to meet the king. As the king arrives, a gift comes for him from the
+      treasurer of the church of Sens.
+
+
+      What do you give a king?
+
+
+      This is a simple age, in which ordinary, concrete, everyday things matter. The gift is a huge live
+      pike, in a tub full of water.
+
+
+      A gift fit for a king.
+
+
+      Salimbene says the French like pike. Evidently he doesn’t. But the French like it.
+
+
+      The fish is in the sort of vessel used for washing babies when you take off their swaddling clothes.
+      The thing the Tuscans call a bigoncia.
+
+
+      Salimbene is very interested in language too. He is always noting how people use words.
+
+
+      So the king is given a pike, and it is a gift fit for a king.
+
+
+      <!-- research: Q-062; Q-063 -->
+
+
+      Then the king enters the Franciscan friary and asks the brothers to pray for him and his companions.
+      Salimbene says that some of the French friars beside him are crying almost inconsolably.
+
+
+      When the head of the order, John of Parma, replies, he makes the point: the king isn’t asking them
+      for gold or silver. His treasury has enough of that. He is asking for their prayers.
+
+
+      Salimbene is Italian, so naturally he’s a little less involved. Particularly in the matter of not
+      being asked for money. But the French friars beside him are crying.
+
+
+      Then they go to dinner with the king.
+
+
+      <!-- research: C-026; Q-064 -->
+
+
+      Let me see if I can find the menu. This is what they eat. Many decades later, Salimbene still remembers
+      what they had that day with the king.
+
+
+      People’s idea of a meal is quite different from ours. Their tastes are different. In particular,
+      they don’t have our notion of a sequence in which you begin with savory dishes and move on to sweet
+      ones. They are quite happy to mix different things together.
+
+
+      It is a meatless day, so they eat fish.
+
+
+      “A magnificent dinner,” Salimbene says, “worthy of a great king.” Yet, as you’ll see, it is no rich
+      glutton’s feast. It is worthy of a great king who is also a great saint.
+
+
+      “First that day, we ate cherries. Then they brought white bread, the whitest bread, and wine. Then
+      fresh fava beans cooked in milk. Then fish and crayfish, and eel meatballs. Then rice with almond
+      milk and powdered cinnamon. Then grilled eels with an excellent sauce. Savory tarts. Fresh curds.
+      Fruit.”
+
+
+      A great dinner. But compared with other dinners Salimbene describes, it suits a king’s magnificence
+      without contradicting the humility of a king traveling as a pilgrim.'
+    reason: 'Alternative to ED-008, not an additional patch: make the same royal-visit corrections and
+      omit only the opaque Mantua aside. Default recommendation retains that source aside by choosing
+      ED-008 instead. Choose at most one of ED-008 and ED-019; selecting this alternative requires explicit
+      approval of its complete replacement.'
+    evidence:
+    - LR-005
+    - C-024
+    - C-025
+    - Q-060
+    - Q-061
+    - Q-062
+    - Q-063
+    - SRC-001
+    - SRC-004
+    - SR-003
+    - LR-004
+    protected_quote_spans: []
+    recommendation: retain
+    decision: pending
+    decision_note: null
+  reason: 'Bounded SR-002 follow-up: correct residual unsupported Church-claim wording in Q-005/Q-006
+    and refresh evidence hash only; active proposal text and decisions unchanged.'
+- base_script:
+    path: script.draft.en.md
+    sha256: f5ebf4ba73ec46e2c148e74d67767b12835ec4bbfc39583cc1fe3757b5d5a1fe
+  input_hashes:
+    ../script.it.md: a6f9fa952c5f80354e45aca418b6c99dedc0513506f17e0baa7bf58701247c98
+    brief.md: 8848cbaf55ab970dfb33b1f32cf18f96ebf8a2628045a8139fb281ce290b5ace
+    quotes.yaml: ec2a095cb430ae608b9265f2ae1784fd876472480a79efdbdd6053b8e69275d0
+    claims.yaml: 3fc0a6fc1a3a957398bd571a6b5d859a601cd5af7314dc242995a1783e276ae1
+    sources.yaml: 380909ffca102aa0cea0b5b00ba34745892e7deb7bb958ea8180db1d46f4d3a9
+  items:
+  - id: ED-001
+    kind: fact
+    chapter_id: CH-002
+    transcript:
+    - U-00126
+    current_text: Paper has only just been invented, and it’s expensive.
+    current_text_sha256: 58dbcc9a63b14cca8a4a667660d099836e6d833a5d956a21f3a9ddb692cf0b30
+    proposed_text: Paper is expensive.
+    reason: Remove incorrect global invention chronology while preserving the writing-material cost argument
+      and following parchment comparison. No added China/Italian chronology is needed.
+    evidence:
+    - C-006
+    - SRC-001
+    - SRC-016
+    protected_quote_spans: []
+    recommendation: apply
+    decision: reject
+    decision_note: User replied R to the ED-001 choice prompt on 2026-10-02; retain current wording.
+  - id: ED-002
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00150–U-00152
+    current_text: The Church has never officially said, “Yes, that’s true.” Nor has it said, “It’s all
+      nonsense.” People are left to make up their own minds.
+    current_text_sha256: ae31b0c0eba0a2bc4ec5ba58ef5486597fbd3507001296f663ed567b6b30a46a
+    proposed_text: The Church has condemned one part of Joachim’s theology. But that doesn’t settle the
+      question of these predictions. They still attract plenty of believers.
+    reason: 'Optional context: Lateran IV condemned a Trinitarian treatise by Joachim. This does not by
+      itself disprove the lecture’s narrower claim about his predictive system. The replacement adds that
+      distinction and removes the lecture’s statement about freedom to form an opinion; it requires an
+      editorial choice.'
+    evidence:
+    - C-007
+    - Q-004
+    - SRC-007
+    - SRC-001
+    - SR-002
+    protected_quote_spans: []
+    recommendation: retain
+    decision: reject
+    decision_note: User replied R to the ED-002 choice prompt on 2026-10-02; retain current wording.
+  - id: ED-003
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00191–U-00195
+    current_text: That’s 1250. Thirty years later, Salimbene says,
+    current_text_sha256: 70ef89bfa9b16bb42e81414a03dbdea6bc7a485f420c523a6c04bec954c39d04
+    proposed_text: Frederick dies in 1250; the announcement at Ferrara follows in 1251. Decades later,
+      Salimbene says,
+    reason: Distinguish imperial death from subsequent papal announcement, keeping the collapse of prophetic
+      expectations and retrospective scene.
+    evidence:
+    - C-009
+    - Q-005
+    - Q-006
+    - SRC-001
+    - SRC-008
+    protected_quote_spans: []
+    recommendation: apply
+    decision: reject
+    decision_note: User replied R to the ED-003 choice prompt on 2026-10-02; retain current wording.
+  - id: ED-004
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00202–U-00216
+    current_text: 'One day people tell Salimbene that a new prophet has appeared. Who is he? A poor man
+      from Parma, Salimbene’s own city. A weaver.
+
+
+      He has begun making prophecies, and the things he says seem to come true. Eventually he retires
+      to Fontevivo, a Cistercian monastery outside Parma. The Cistercians take him in.
+
+
+      “I’ve heard so much about this man,” Salimbene says. “He spends all day shut in his room, writing.”
+
+
+      An artisan, you understand. A working man. A weaver, predicting the future.
+
+
+      Salimbene hears these stories, and eventually he can’t stand it any longer. He has to meet the man.
+
+
+      <!-- research: Q-008; Q-009; Q-010 -->
+
+
+      He sets out for Fontevivo. When he arrives, he finds a friend there, another Franciscan, who is
+      a physician. He’s staying with the Cistercians, a different religious order, because they need a
+      doctor.'
+    current_text_sha256: b99601df2feea2df010b24f0b1e8d0978522ce112bccd54c93cb18616398e8d4
+    proposed_text: 'Salimbene hears more about a prophet whose writings he already knows. Who is he? A
+      poor weaver, originally from Verona, now living in Parma, Salimbene’s own city.
+
+
+      He has begun making prophecies, and the things he says seem to come true. Eventually he retires
+      to Fontevivo, a Cistercian monastery outside Parma. The Cistercians take him in.
+
+
+      “I’ve heard so much about this man,” Salimbene says. “He spends all day shut in his room, writing.”
+
+
+      An artisan, you understand. A working man. A weaver, predicting the future.
+
+
+      Salimbene hears these stories, and eventually he can’t stand it any longer. He has to find out more.
+
+
+      <!-- research: Q-008; Q-009; Q-010 -->
+
+
+      He sets out for Fontevivo. When he arrives, he finds a friend there, a physician who entered the
+      Franciscans with him, later left, and has now become a Cistercian.'
+    reason: Correct origin/prior acquaintance and physician’s religious affiliation, retaining the visit,
+      anticipation, manuscript-circulation digression and ensuing erasure dialogue. Based on located old
+      Italian translation; no invented original Latin wording.
+    evidence:
+    - C-011
+    - Q-007
+    - Q-008
+    - SRC-001
+    protected_quote_spans: []
+    recommendation: apply
+    decision: reject
+    decision_note: User replied R to the ED-004 choice prompt on 2026-10-02; retain current wording.
+  - id: ED-005
+    kind: fact
+    chapter_id: CH-006
+    transcript:
+    - U-00460–U-00463
+    current_text: 'Frederick writes to Brother Elias, the head of the Franciscan order. In effect: “This
+      is what I’ve been told. See what you can do. Let’s get this boy back to his father, unless he absolutely
+      insists on staying.”'
+    current_text_sha256: 2334bfaf1aeb6aa94da009d8ef270d77392d6afd43ca1c0666ff32604cd60fa0
+    proposed_text: 'Frederick writes to Brother Elias, the head of the Franciscan order, asking him to
+      return the boy. Elias then writes to the friars at Fano: they must send Salimbene home if he wants
+      to go. If he refuses, they must protect him.'
+    reason: Assign the consent condition to Elias, as MGH39 does; retain emperor’s intervention, the father’s
+      leverage and the son’s choice. Present both documents as Salimbene’s reports, without inventing
+      verbatim English letters.
+    evidence:
+    - C-017
+    - Q-029
+    - SRC-004
+    - LR-011
+    protected_quote_spans: []
+    recommendation: apply
+    decision: reject
+    decision_note: User replied r to the ED-005 choice prompt on 2026-10-02; retain current wording.
+  - id: ED-006
+    kind: fact
+    chapter_id: CH-007
+    transcript:
+    - U-00534–U-00540
+    - U-00560–U-00562
+    current_text: 'He is in Pisa. He belongs to the friary there, and he describes going down a particular
+      street, keeping to one side because on the other side stands the lodging house of the merchants
+      from Parma.
+
+
+      “I wanted to avoid meeting anyone from Parma. I was too ashamed to face people who knew me.”
+
+
+      But his luck runs out. He meets someone from Parma anyway.
+
+
+      “A man came up to me whom I didn’t know. But he knew me.” Salimbene comes from an important family.
+
+
+      The man grabs him by his habit.
+
+
+      “You wretched boy! What are you doing here? Look at the state you’ve got yourself into. Your father’s
+      house is full of servants who have more than enough to eat. And here you are, begging, taking bread
+      away from people poorer than you.”
+
+
+      He goes on. Salimbene reports it word for word.
+
+
+      “You ought to be in Parma, riding around on horseback, showing yourself off in tournaments, delighting
+      the people who come to watch.” Because that is what noble knights do. “You ought to be admired by
+      the ladies and handing out money to the minstrels. That’s what you should be doing. Not going barefoot
+      from door to door, begging.”
+
+
+      Salimbene pushes him away. Sends him off angrily. Quotes a few biblical passages at him.
+
+
+      But then he says, “That evening, back at the friary, I began to think about it. If I have to go
+      on like this for another fifty years. Begging.”
+
+
+      That time, he really does wonder whether he has made a terrible mistake with his life.
+
+
+      <!-- research: Q-043 -->
+
+
+      Fortunately, another dream comes that night.
+
+
+      He dreams that he is begging in Pisa. A little farther along the same street, the child Jesus is
+      also going out with a bag to beg. And the Virgin is there with a bag, begging too.'
+    current_text_sha256: de880866b748b228d7710711354d9a904cfc2132cd7c4bfaff0cb230229c196c
+    proposed_text: 'He is in Pisa. He belongs to the friary there. And one day he meets someone from Parma.
+
+
+      “A man came up to me whom I didn’t know. But he knew me.” Salimbene comes from an important family.
+
+
+      The man grabs him by his habit.
+
+
+      “You wretched boy! What are you doing here? Look at the state you’ve got yourself into. Your father’s
+      house is full of servants who have more than enough to eat. And here you are, begging, taking bread
+      away from people poorer than you.”
+
+
+      He goes on. Salimbene reports it word for word.
+
+
+      “You ought to be in Parma, riding around on horseback, showing yourself off in tournaments, delighting
+      the people who come to watch.” Because that is what noble knights do. “You ought to be admired by
+      the ladies and handing out money to the minstrels. That’s what you should be doing. Not going barefoot
+      from door to door, begging.”
+
+
+      Salimbene pushes him away. Sends him off angrily. Quotes a few biblical passages at him.
+
+
+      But then he says, “That evening, back at the friary, I began to think about it. If I have to go
+      on like this for another fifty years. Begging.”
+
+
+      That time, he really does wonder whether he has made a terrible mistake with his life.
+
+
+      <!-- research: Q-043 -->
+
+
+      Fortunately, another dream comes that night.
+
+
+      In the dream, he is begging in Pisa, keeping to one side of a street because the lodging house of
+      the merchants from Parma is on the other. He is ashamed to meet them, afraid of hearing more words
+      that might shake his resolve.
+
+
+      Then he sees Jesus carrying bread from a house and putting it into Salimbene’s basket. The Virgin
+      does the same. So does Joseph. They help him finish his begging round and fill the basket.'
+    reason: Restore dream placement of street/fondaco and all three holy figures helping fill Salimbene’s
+      collection basket. Preserve the entire stranger’s rebuke, fifty-year crisis, dream consolation and
+      shared-poverty meaning. MGH45–46 does not justify saying the holy figures do no begging at all.
+    evidence:
+    - C-019
+    - Q-040
+    - Q-041
+    - Q-042
+    - Q-043
+    - SRC-004
+    - LR-012
+    protected_quote_spans: []
+    recommendation: apply
+    decision: accept
+    decision_note: User replied a to the ED-006 choice prompt on 2026-10-02; use proposed passage.
+  - id: ED-007
+    kind: fact
+    chapter_id: CH-008
+    transcript:
+    - U-00589–U-00593
+    current_text: He has even seen an atheist bishop. The bishop of Parma, on his deathbed, is offered
+      the sacraments.
+    current_text_sha256: 1625aa0f455635d0d14827c147e5d216f5ae170546fcde2c548e06b4515a8c31
+    proposed_text: He even tells of a bishop who rejects the faith. The bishop of Parma, on his deathbed,
+      is offered the sacraments.
+    reason: 'Use the narrower reported rejection of faith/sacrament and remove implied personal witnessing;
+      preserve deathbed dialogue and wealth/honors punchline. This is an evidentially cautious wording
+      choice: Barbero’s atheist label is an interpretation, not a disproven claim.'
+    evidence:
+    - C-021
+    - Q-045
+    - Q-046
+    - SRC-003
+    - SRC-001
+    protected_quote_spans: []
+    recommendation: apply
+    decision: reject
+    decision_note: User replied r to the ED-007 choice prompt on 2026-10-02; retain current wording.
+  - id: ED-008
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00677–U-00727
+    current_text: 'King Louis is such a man. He sets out from northern France to embark for the crusade
+      at Aigues-Mortes in Provence. He crosses the whole kingdom on foot. Not on horseback. On foot, carrying
+      a pilgrim’s staff and bag.
+
+
+      Because going on crusade means, first of all, going on pilgrimage. Going to Jerusalem.
+
+
+      So the king of France spends months walking across his kingdom dressed as a pilgrim. He stops in
+      towns, stops at the friars’ houses, eats with them, discusses things with them, talks to them. Salimbene
+      meets him several times on this journey.
+
+
+      <!-- research: C-025; Q-061 -->
+
+
+      On one occasion, Salimbene is coming out of Sens to meet the king. As the king arrives, the bishop
+      of Sens sends him a present.
+
+
+      What do you give a king?
+
+
+      This is a simple age, in which ordinary, concrete, everyday things matter. The bishop sends the
+      king a huge live pike, in a tub full of water.
+
+
+      A gift fit for a king.
+
+
+      Salimbene says the French like pike. Evidently he doesn’t. He’s from Parma, not Mantua. But the
+      French like it.
+
+
+      The fish is in the sort of vessel used for washing babies when you take off their swaddling clothes.
+      The thing the Tuscans call a bigoncia.
+
+
+      Salimbene is very interested in language too. He is always noting how people use words.
+
+
+      So the king is given a pike, and it is a gift fit for a king.
+
+
+      <!-- research: Q-062; Q-063 -->
+
+
+      Then the king enters the Franciscan friary and speaks to the brothers. He tells them he hasn’t come
+      to ask for money. He is paying for the crusade himself. All he asks is their prayers.
+
+
+      “All the French friars were crying,” Salimbene says.
+
+
+      He is Italian, so naturally he’s a little less involved. Particularly in the matter of not being
+      asked for money. But all the French are crying.
+
+
+      Then they go to dinner with the king.
+
+
+      <!-- research: C-026; Q-064 -->
+
+
+      Let me see if I can find the menu. This is what they eat. Many decades later, Salimbene still remembers
+      what they had that day with the king.
+
+
+      People’s idea of a meal is quite different from ours. Their tastes are different. In particular,
+      they don’t have our notion of a sequence in which you begin with savory dishes and move on to sweet
+      ones. They are quite happy to mix different things together.
+
+
+      It is a meatless day, so they eat fish.
+
+
+      “A magnificent dinner,” Salimbene says, “worthy of a great king.” Yet, as you’ll see, it is no rich
+      glutton’s feast. It is worthy of a great king who is also a great saint.
+
+
+      “First that day, we ate cherries. Then they brought white bread, the whitest bread, and wine. Then
+      fresh fava beans cooked in milk. Then fish and crayfish, and eel meatballs. Then rice with almond
+      milk and powdered cinnamon. Then grilled eels with an excellent sauce. Savory tarts. Fresh curds.
+      Fruit.”
+
+
+      A great dinner. But compared with other dinners Salimbene describes, it suits a king’s magnificence
+      without contradicting the humility of a saint who is walking to his point of embarkation.'
+    current_text_sha256: 00df73f92997411326e39a6d6cee35c4e9abc3a80433a7b1ff36d908911f6935
+    proposed_text: 'King Louis is such a man. He sets out from northern France to embark for the crusade
+      at Aigues-Mortes. When Salimbene sees him arrive at Sens, the king comes on foot, carrying a pilgrim’s
+      staff and bag.
+
+
+      Because going on crusade means, first of all, going on pilgrimage. Going to Jerusalem.
+
+
+      So the king of France travels across his kingdom dressed as a pilgrim. He stops in towns, stops
+      at the friars’ houses, eats with them, discusses things with them, talks to them. Salimbene meets
+      him several times on this journey.
+
+
+      <!-- research: C-025; Q-061 -->
+
+
+      At Sens, Salimbene goes out to meet the king. As the king arrives, a gift comes for him from the
+      treasurer of the church of Sens.
+
+
+      What do you give a king?
+
+
+      This is a simple age, in which ordinary, concrete, everyday things matter. The gift is a huge live
+      pike, in a tub full of water.
+
+
+      A gift fit for a king.
+
+
+      Salimbene says the French like pike. Evidently he doesn’t. He’s from Parma, not Mantua. But the
+      French like it.
+
+
+      The fish is in the sort of vessel used for washing babies when you take off their swaddling clothes.
+      The thing the Tuscans call a bigoncia.
+
+
+      Salimbene is very interested in language too. He is always noting how people use words.
+
+
+      So the king is given a pike, and it is a gift fit for a king.
+
+
+      <!-- research: Q-062; Q-063 -->
+
+
+      Then the king enters the Franciscan friary and asks the brothers to pray for him and his companions.
+      Salimbene says that some of the French friars beside him are crying almost inconsolably.
+
+
+      When the head of the order, John of Parma, replies, he makes the point: the king isn’t asking them
+      for gold or silver. His treasury has enough of that. He is asking for their prayers.
+
+
+      Salimbene is Italian, so naturally he’s a little less involved. Particularly in the matter of not
+      being asked for money. But the French friars beside him are crying.
+
+
+      Then they go to dinner with the king.
+
+
+      <!-- research: C-026; Q-064 -->
+
+
+      Let me see if I can find the menu. This is what they eat. Many decades later, Salimbene still remembers
+      what they had that day with the king.
+
+
+      People’s idea of a meal is quite different from ours. Their tastes are different. In particular,
+      they don’t have our notion of a sequence in which you begin with savory dishes and move on to sweet
+      ones. They are quite happy to mix different things together.
+
+
+      It is a meatless day, so they eat fish.
+
+
+      “A magnificent dinner,” Salimbene says, “worthy of a great king.” Yet, as you’ll see, it is no rich
+      glutton’s feast. It is worthy of a great king who is also a great saint.
+
+
+      “First that day, we ate cherries. Then they brought white bread, the whitest bread, and wine. Then
+      fresh fava beans cooked in milk. Then fish and crayfish, and eel meatballs. Then rice with almond
+      milk and powdered cinnamon. Then grilled eels with an excellent sauce. Savory tarts. Fresh curds.
+      Fruit.”
+
+
+      A great dinner. But compared with other dinners Salimbene describes, it suits a king’s magnificence
+      without contradicting the humility of a king traveling as a pilgrim.'
+    reason: 'Consolidated royal-visit correction: limit walking to observed Sens arrival (later text mentions
+      horse), identify the gift’s sender without assuming he personally presents it, attribute money/prayers
+      contrast to John of Parma, scope tears to some nearby friars, and repair later walking callback.
+      Preserve pilgrim humility, pike/bath/language asides, Italian-distance joke and complete menu. No
+      unrelated passage or research marker removed.'
+    evidence:
+    - C-024
+    - C-025
+    - Q-060
+    - Q-061
+    - Q-062
+    - Q-063
+    - SRC-001
+    - SRC-004
+    - SR-003
+    - LR-004
+    protected_quote_spans: []
+    recommendation: apply
+    decision: reject
+    decision_note: User selected option B, ED-019, on 2026-10-02; mutually exclusive alternative rejected.
+  - id: ED-009
+    kind: fact
+    chapter_id: CH-012
+    transcript:
+    - U-00775
+    current_text: Take food. Toward the end of his life, when he’s old and approaching seventy, he remarks
+      that human greed for good food really knows no limits.
+    current_text_sha256: 62aa58e4467b52947ed8c50638fda376f77e080df4b9d67361f9fca924cdb5bf
+    proposed_text: Take food. Writing in his sixties, he remarks that human greed for good food really
+      knows no limits.
+    reason: Ravioli entry is dated1284; birth1221 makes him62/63. Preserve late-life curiosity without
+      changing the user-approved approximate birth range elsewhere, or resolving the deliberately uncertain
+      recipe.
+    evidence:
+    - C-030
+    - Q-071
+    - SRC-002
+    - SRC-008
+    protected_quote_spans: []
+    recommendation: apply
+    decision: accept
+    decision_note: User replied a to the ED-009 choice prompt on 2026-10-02; use proposed wording.
+  - id: ED-010
+    kind: fact
+    chapter_id: CH-012
+    transcript:
+    - U-00796–U-00799
+    current_text: “Then I remembered that in France the gentlemen and nobles don’t live in the towns.
+      They live in their castles. It isn’t like Italy, where noble knights live in the cities. Here the
+      cities are inhabited by merchants and craftsmen. So naturally their women—well, if we’d been in
+      Parma, the ladies of Parma would have made quite a different impression.”
+    current_text_sha256: 21e1e7e3fb47252662da4b55b31cf267994688e692465107b8159961e1cd2b1a
+    proposed_text: “Then I remembered that in France the gentlemen and nobles don’t live in the towns.
+      They live on their country estates. It isn’t like Italy, where noble knights live in the cities.
+      Here the cities are inhabited by merchants and craftsmen. So naturally their women—well, if we’d
+      been in Pisa or Bologna, the ladies would have made quite a different impression.”
+    reason: Restore the comparison’s cities Pisa/Bologna and avoid turning every country residence into
+      a castle. Remains contextual rendering of Salimbene’s class prejudice, not a demographic finding
+      or authoritative word-for-word quotation.
+    evidence:
+    - C-032
+    - Q-075
+    - SRC-004
+    protected_quote_spans: []
+    recommendation: apply
+    decision: reject
+    decision_note: User replied r to the ED-010 choice prompt on 2026-10-02; retain current wording.
+  - id: ED-011
+    kind: addition
+    chapter_id: CH-013
+    transcript:
+    - U-00809–U-00818
+    current_text: I’ll tell you just one story, a story Salimbene tells.
+    current_text_sha256: 2028273e4f11a1cc0e9d15dda1aeda8ef836ce2b2f1a8a51f23b27d5c7926a68
+    proposed_text: I’ll tell you just one story, a story Salimbene tells. Whether it happened as he describes
+      it is uncertain.
+    reason: Distinguish secure chronicle attribution from disputed occurrence before the climactic infant
+      scene; preserve scene, question, outcome and humane interpretation. No assertion of definite fabrication
+      or modern causal proof.
+    evidence:
+    - C-033
+    - Q-076
+    - Q-077
+    - Q-078
+    - SRC-004
+    - SRC-009
+    - SRC-013
+    - SRC-014
+    protected_quote_spans: []
+    recommendation: apply
+    decision: reject
+    decision_note: User replied r to the ED-011 choice prompt on 2026-10-02; retain current wording.
+  - id: ED-012
+    kind: quotation
+    chapter_id: CH-013
+    transcript:
+    - U-00819–U-00822
+    current_text: “Of course they all died. Babies cannot live without cuddles, smiles, clapping hands,
+      caresses, the chatter of their nurses. They cannot.”
+    current_text_sha256: 25c23f9589a5868db768627b7c2d3ff7ef6e8e8ab7ddf0df899ac1f358ee241b
+    proposed_text: “For they could not live without the clapping, gestures, cheerful expressions and caresses
+      of their attendants and wet nurses.”
+    reason: Optional recovered-source excerpt gives the humane climax Salimbene’s exact bounded content
+      in a direct new translation from MGH350. Ends before the separate cradle-song sentence, so it neither
+      inserts rocking nor conflates source/commentary. English tense follows original quoted recollection.
+    evidence:
+    - Q-079
+    - C-033
+    - SRC-004
+    protected_quote_spans:
+    - For they could not live without the clapping, gestures, cheerful expressions and caresses of their
+      attendants and wet nurses.
+    recommendation: apply
+    decision: accept
+    decision_note: User replied a to the ED-012 choice prompt on 2026-10-02; use recovered-source translation.
+  - id: ED-013
+    kind: addition
+    chapter_id: CH-001
+    transcript:
+    - U-00035–U-00048
+    current_text: He’s a Franciscan friar of the thirteenth century.
+    current_text_sha256: 3209be98c8ba88c9567f6e0d8fab4e25e82136a55cbf26f6831242e78899f397
+    proposed_text: He’s a Franciscan friar of the thirteenth century, a follower of Saint Francis.
+    reason: Supply brief early orientation using the lecture’s later explanation; preserve the fuller
+      poverty and order discussion.
+    evidence:
+    - LR-001
+    - C-003
+    - C-014
+    protected_quote_spans: []
+    recommendation: apply
+    decision: accept
+    decision_note: User replied a to the ED-013 choice prompt on 2026-10-02; add explanation.
+  - id: ED-014
+    kind: addition
+    chapter_id: CH-002
+    transcript:
+    - U-00106–U-00113
+    current_text: At one point he quotes a little satirical song making fun of a Dominican.
+    current_text_sha256: bf1f596fca3f2961ae5edd73174afb80cb2bb0fefa4f29bf8cf537f7867a837e
+    proposed_text: At one point he quotes a little satirical song making fun of a Dominican, a friar from
+      a rival religious order.
+    reason: Identify the religious community before the rivalry drives the joke; preserve the later nuanced
+      discussion.
+    evidence:
+    - LR-001
+    - C-014
+    - Q-001
+    protected_quote_spans: []
+    recommendation: apply
+    decision: accept
+    decision_note: User replied a to the ED-014 choice prompt on 2026-10-02; add explanation.
+  - id: ED-015
+    kind: addition
+    chapter_id: CH-001
+    transcript:
+    - U-00001–U-00011
+    current_text: Good evening. Good evening.
+    current_text_sha256: 8e39abed8f02a9aefdfa1dc084fb282eb7f1bd1e11ad2e55bcaa51ffdc7f9684
+    proposed_text: 'This is an English adaptation of Alessandro Barbero’s 2011 lecture, The Friar.
+
+
+      Good evening. Good evening.'
+    reason: Audible presentation frame explains the venue, our Italy and future-looking2012. This sentence
+      is outside Barbero’s greeting. Omit if another audible introduction already supplies the frame;
+      metadata alone does not.
+    evidence:
+    - LR-002
+    - C-010
+    - SRC-015
+    protected_quote_spans: []
+    recommendation: apply
+    decision: reject
+    decision_note: 'User replied r on 2026-10-02: no added introduction. Preserve the lecture’s original
+      greeting.'
+  - id: ED-016
+    kind: addition
+    chapter_id: CH-004
+    transcript:
+    - U-00321–U-00324
+    current_text: We’re fifty years before Boccaccio, and it’s already a stereotype.
+    current_text_sha256: e26ad5b2505eade1213872341859a36f90deac7d88c2a37dade182c22a5dc7aa
+    proposed_text: We’re fifty years before the Italian storyteller Boccaccio, and it’s already a stereotype.
+    reason: Identify why this name matters without a literary digression; retain the source’s approximate
+      interval, which is not independently certified.
+    evidence:
+    - LR-003
+    - C-013
+    - SRC-018
+    protected_quote_spans: []
+    recommendation: apply
+    decision: reject
+    decision_note: User replied r to the ED-016 choice prompt on 2026-10-02; retain current wording.
+  - id: ED-017
+    kind: addition
+    chapter_id: CH-012
+    transcript:
+    - U-00786–U-00787
+    current_text: I don’t know. We’ll have to ask Massimo Montanari how to interpret it.
+    current_text_sha256: b37b857f26af1f37b832385e63cee2ba57a871672a871c15df04a9bec4ac9a9d
+    proposed_text: I don’t know. We’ll have to ask the food historian Massimo Montanari how to interpret
+      it.
+    reason: Explain the named authority while preserving both uncertain ravioli interpretations; supplies
+      neither a recipe nor a current university appointment.
+    evidence:
+    - LR-008
+    - C-030
+    - SRC-017
+    protected_quote_spans: []
+    recommendation: apply
+    decision: accept
+    decision_note: User replied a to the ED-017 choice prompt on 2026-10-02; add role label.
+  - id: ED-018
+    kind: addition
+    chapter_id: CH-013
+    transcript:
+    - U-00819–U-00823
+    current_text: Emperor Frederick, who was a genius, apparently wasn’t human enough to understand that.
+    current_text_sha256: 8ddc2f830c4930a11d46ae6c546f667bdf915890ecc07cc79b9e395692a227eb
+    proposed_text: In Salimbene’s story, Emperor Frederick, who was a genius, apparently wasn’t human
+      enough to understand that.
+    reason: Carry attribution into the final judgment so ED-011’s uncertainty is not undone. Keeps the
+      humane contrast; this can be selected independently of ED-012’s authoritative quotation.
+    evidence:
+    - LR-013
+    - C-033
+    - C-034
+    - SRC-004
+    - SRC-009
+    - SRC-013
+    - SRC-014
+    protected_quote_spans: []
+    recommendation: apply
+    decision: reject
+    decision_note: User replied r to the ED-018 choice prompt on 2026-10-02; retain current wording.
+  - id: ED-019
+    kind: cut
+    chapter_id: CH-010
+    transcript:
+    - U-00677–U-00727
+    current_text: 'King Louis is such a man. He sets out from northern France to embark for the crusade
+      at Aigues-Mortes in Provence. He crosses the whole kingdom on foot. Not on horseback. On foot, carrying
+      a pilgrim’s staff and bag.
+
+
+      Because going on crusade means, first of all, going on pilgrimage. Going to Jerusalem.
+
+
+      So the king of France spends months walking across his kingdom dressed as a pilgrim. He stops in
+      towns, stops at the friars’ houses, eats with them, discusses things with them, talks to them. Salimbene
+      meets him several times on this journey.
+
+
+      <!-- research: C-025; Q-061 -->
+
+
+      On one occasion, Salimbene is coming out of Sens to meet the king. As the king arrives, the bishop
+      of Sens sends him a present.
+
+
+      What do you give a king?
+
+
+      This is a simple age, in which ordinary, concrete, everyday things matter. The bishop sends the
+      king a huge live pike, in a tub full of water.
+
+
+      A gift fit for a king.
+
+
+      Salimbene says the French like pike. Evidently he doesn’t. He’s from Parma, not Mantua. But the
+      French like it.
+
+
+      The fish is in the sort of vessel used for washing babies when you take off their swaddling clothes.
+      The thing the Tuscans call a bigoncia.
+
+
+      Salimbene is very interested in language too. He is always noting how people use words.
+
+
+      So the king is given a pike, and it is a gift fit for a king.
+
+
+      <!-- research: Q-062; Q-063 -->
+
+
+      Then the king enters the Franciscan friary and speaks to the brothers. He tells them he hasn’t come
+      to ask for money. He is paying for the crusade himself. All he asks is their prayers.
+
+
+      “All the French friars were crying,” Salimbene says.
+
+
+      He is Italian, so naturally he’s a little less involved. Particularly in the matter of not being
+      asked for money. But all the French are crying.
+
+
+      Then they go to dinner with the king.
+
+
+      <!-- research: C-026; Q-064 -->
+
+
+      Let me see if I can find the menu. This is what they eat. Many decades later, Salimbene still remembers
+      what they had that day with the king.
+
+
+      People’s idea of a meal is quite different from ours. Their tastes are different. In particular,
+      they don’t have our notion of a sequence in which you begin with savory dishes and move on to sweet
+      ones. They are quite happy to mix different things together.
+
+
+      It is a meatless day, so they eat fish.
+
+
+      “A magnificent dinner,” Salimbene says, “worthy of a great king.” Yet, as you’ll see, it is no rich
+      glutton’s feast. It is worthy of a great king who is also a great saint.
+
+
+      “First that day, we ate cherries. Then they brought white bread, the whitest bread, and wine. Then
+      fresh fava beans cooked in milk. Then fish and crayfish, and eel meatballs. Then rice with almond
+      milk and powdered cinnamon. Then grilled eels with an excellent sauce. Savory tarts. Fresh curds.
+      Fruit.”
+
+
+      A great dinner. But compared with other dinners Salimbene describes, it suits a king’s magnificence
+      without contradicting the humility of a saint who is walking to his point of embarkation.'
+    current_text_sha256: 00df73f92997411326e39a6d6cee35c4e9abc3a80433a7b1ff36d908911f6935
+    proposed_text: 'King Louis is such a man. He sets out from northern France to embark for the crusade
+      at Aigues-Mortes. When Salimbene sees him arrive at Sens, the king comes on foot, carrying a pilgrim’s
+      staff and bag.
+
+
+      Because going on crusade means, first of all, going on pilgrimage. Going to Jerusalem.
+
+
+      So the king of France travels across his kingdom dressed as a pilgrim. He stops in towns, stops
+      at the friars’ houses, eats with them, discusses things with them, talks to them. Salimbene meets
+      him several times on this journey.
+
+
+      <!-- research: C-025; Q-061 -->
+
+
+      At Sens, Salimbene goes out to meet the king. As the king arrives, a gift comes for him from the
+      treasurer of the church of Sens.
+
+
+      What do you give a king?
+
+
+      This is a simple age, in which ordinary, concrete, everyday things matter. The gift is a huge live
+      pike, in a tub full of water.
+
+
+      A gift fit for a king.
+
+
+      Salimbene says the French like pike. Evidently he doesn’t. But the French like it.
+
+
+      The fish is in the sort of vessel used for washing babies when you take off their swaddling clothes.
+      The thing the Tuscans call a bigoncia.
+
+
+      Salimbene is very interested in language too. He is always noting how people use words.
+
+
+      So the king is given a pike, and it is a gift fit for a king.
+
+
+      <!-- research: Q-062; Q-063 -->
+
+
+      Then the king enters the Franciscan friary and asks the brothers to pray for him and his companions.
+      Salimbene says that some of the French friars beside him are crying almost inconsolably.
+
+
+      When the head of the order, John of Parma, replies, he makes the point: the king isn’t asking them
+      for gold or silver. His treasury has enough of that. He is asking for their prayers.
+
+
+      Salimbene is Italian, so naturally he’s a little less involved. Particularly in the matter of not
+      being asked for money. But the French friars beside him are crying.
+
+
+      Then they go to dinner with the king.
+
+
+      <!-- research: C-026; Q-064 -->
+
+
+      Let me see if I can find the menu. This is what they eat. Many decades later, Salimbene still remembers
+      what they had that day with the king.
+
+
+      People’s idea of a meal is quite different from ours. Their tastes are different. In particular,
+      they don’t have our notion of a sequence in which you begin with savory dishes and move on to sweet
+      ones. They are quite happy to mix different things together.
+
+
+      It is a meatless day, so they eat fish.
+
+
+      “A magnificent dinner,” Salimbene says, “worthy of a great king.” Yet, as you’ll see, it is no rich
+      glutton’s feast. It is worthy of a great king who is also a great saint.
+
+
+      “First that day, we ate cherries. Then they brought white bread, the whitest bread, and wine. Then
+      fresh fava beans cooked in milk. Then fish and crayfish, and eel meatballs. Then rice with almond
+      milk and powdered cinnamon. Then grilled eels with an excellent sauce. Savory tarts. Fresh curds.
+      Fruit.”
+
+
+      A great dinner. But compared with other dinners Salimbene describes, it suits a king’s magnificence
+      without contradicting the humility of a king traveling as a pilgrim.'
+    reason: 'Alternative to ED-008, not an additional patch: make the same royal-visit corrections and
+      omit only the opaque Mantua aside. Default recommendation retains that source aside by choosing
+      ED-008 instead. Choose at most one of ED-008 and ED-019; selecting this alternative requires explicit
+      approval of its complete replacement.'
+    evidence:
+    - LR-005
+    - C-024
+    - C-025
+    - Q-060
+    - Q-061
+    - Q-062
+    - Q-063
+    - SRC-001
+    - SRC-004
+    - SR-003
+    - LR-004
+    protected_quote_spans: []
+    recommendation: retain
+    decision: accept
+    decision_note: User selected option B on 2026-10-02; approve revised royal visit and Mantua aside
+      cut.
+  reason: Record all user approvals/rejections in the brief and refresh that documentation hash; no draft,
+    evidence, target or proposed-text change.

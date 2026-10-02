@@ -1,0 +1,196 @@
+- id: SRC-001
+  title: Cronaca di Fra Salimbene parmigiano, volume I
+  author: Salimbene de Adam; translation Carlo Cantarelli
+  date: '1882'
+  url: https://www.gutenberg.org/cache/epub/61304/pg61304-images.html
+  edition: 'Parma: Luigi Battei; translation based on 1857 edition'
+  locator: Printed pages cited per target
+  accessed: '2026-10-02'
+  evidence_type: primary-translation
+  limitations: Old Italian translation with omissions and textual weaknesses; not original Latin. Full text
+    retrieved; cited passages read by discovery researcher.
+- id: SRC-002
+  title: Cronaca di Fra Salimbene parmigiano, volume II
+  author: Salimbene de Adam; translation Carlo Cantarelli
+  date: '1882'
+  url: https://www.gutenberg.org/cache/epub/61305/pg61305-images.html
+  edition: 'Parma: Luigi Battei; translation based on 1857 edition'
+  locator: Printed pages cited per target
+  accessed: '2026-10-02'
+  evidence_type: primary-translation
+  limitations: Same translation dependence and omissions as volume I; absence is not proof a passage never
+    existed.
+- id: SRC-003
+  title: Cronica, volumes I–II
+  author: Salimbene de Adam; editor Ferdinando Bernini
+  date: '1942'
+  url: https://la.wikisource.org/wiki/Cronica_(Salimbene_de_Adam)
+  edition: 'Bari: Laterza'
+  locator: Pars I; Pars II; vol I p54 for father insult
+  accessed: '2026-10-02'
+  evidence_type: primary-critical-edition
+  limitations: Online transcription incomplete; only specified accessible sections read, not all pages.
+- id: SRC-004
+  title: Cronica fratris Salimbene de Adam
+  author: Salimbene de Adam; editor Oswald Holder-Egger
+  date: 1905–1913
+  url: https://www.dmgh.de/mgh_ss_32/index.htm
+  edition: MGH Scriptores32, Hannover/Leipzig
+  locator: MGH pp39,45–46,222–223,225,350, exact lines and direct scan links in research-latin-supplement.md
+  accessed: '2026-10-02'
+  evidence_type: primary-critical-edition
+  limitations: Original page images visually inspected by evidence worker for exact spans in research-latin-supplement.md.
+    Chronicle is retrospective testimony; direct speech is literary reporting, not stenography.
+- id: SRC-005
+  title: From St Francis to Dante, Appendix C
+  author: G. G. Coulton; original passages Salimbene
+  date: '1906'
+  url: https://elfinspell.com/MedievalMatter/Coulton/FromStFrancisToDante/AppendixC-Latin.html
+  edition: 'London: David Nutt; online transcription'
+  locator: Latin passages referring to MGH pp40,79
+  accessed: '2026-10-02'
+  evidence_type: primary-excerpt
+  limitations: Edited selection; inspect quoted boundaries, not entire surrounding chronicle.
+- id: SRC-006
+  title: 'Salimbene: Frederick II'
+  author: Salimbene; translated/paraphrased G. G. Coulton
+  date: '1906'
+  url: https://sourcebooks.fordham.edu/source/salimbene1.asp
+  edition: From St Francis to Dante pp242–243; Fordham Medieval Sourcebook
+  locator: Infant experiment excerpt
+  accessed: '2026-10-02'
+  evidence_type: primary-translation-paraphrase
+  limitations: Explicit translation plus paraphrase; do not certify its English as exact original Latin.
+- id: SRC-007
+  title: Fourth Lateran Council, canon 2
+  author: Fourth Lateran Council
+  date: '1215'
+  url: https://www.papalencyclicals.net/councils/ecum12-2.htm
+  edition: Online English council text
+  locator: Canon2 on Joachim’s Trinitarian treatise
+  accessed: '2026-10-02'
+  evidence_type: primary-document-translation
+  limitations: Condemns specific doctrine against Peter Lombard; not all Joachimist prophecy or subsequent
+    followers.
+- id: SRC-008
+  title: ADAM, Ognibene de
+  author: Raoul Manselli
+  date: '1960'
+  url: https://www.treccani.it/enciclopedia/ognibene-de-adam_(Dizionario-Biografico)/
+  edition: Dizionario Biografico degli Italiani1
+  locator: Full biographical entry
+  accessed: '2026-10-02'
+  evidence_type: scholarship
+  limitations: Used for chronology and source criticism; does not establish every anecdote independently.
+- id: SRC-009
+  title: Salimbene de Adam
+  author: null
+  date: '2005'
+  url: https://www.treccani.it/enciclopedia/salimbene-de-adam_(Federiciana)/
+  edition: Federiciana
+  locator: Frederick portrait, imperial letter, seven superstitions
+  accessed: '2026-10-02'
+  evidence_type: scholarship
+  limitations: Full entry inspected by research worker; bibliographic author remains uncaptured; hostile narrative
+    context does not prove fabrication.
+- id: SRC-010
+  title: Salimbene témoin et chroniqueur
+  author: Jacques Paul
+  date: 1977/1980
+  url: https://www.persee.fr/doc/shmes_1261-9078_1980_act_8_1_1304
+  edition: pp267–283; DOI10.3406/shmes.1977.1304
+  locator: First page only
+  accessed: '2026-10-02'
+  evidence_type: scholarship-partial
+  limitations: Only first-page text inspected. Conference/year metadata differs; no full-article claim used.
+- id: SRC-011
+  title: Il Carroccio di Cortenuova
+  author: Marina Nardone
+  date: '2013'
+  url: https://rivista-incontri.nl/issue/download/inc_28_2_2013/440
+  edition: Incontri28.2
+  locator: Article beginning p15 onward; cites Scalia1966 p522
+  accessed: '2026-10-02'
+  evidence_type: scholarship
+  limitations: Read beginning and insult citation; spelling is quoted via scholarship, not an independently
+    inspected Scalia page.
+- id: SRC-012
+  title: raviolo
+  author: Francesca Cupelloni
+  date: '2024-05-31'
+  url: https://vocabolario.atliteg.org/lemmario/raviolo/10701
+  edition: VoSLIG; DOI10.35948/ATLITEG/vocabolario/428
+  locator: Salimbene lemma via Sella1937 p288
+  accessed: '2026-10-02'
+  evidence_type: historical-lexicography
+  limitations: Naked-ravioli evidence supports possible preparation; does not supply a complete recipe or continuous
+    chronicle sentence.
+- id: SRC-013
+  title: Royal investigations of the origin of language
+  author: R. N. Campbell and R. Grieve
+  date: '1982'
+  url: https://www.benjamins.com/catalog/hl.9.1-2.04cam
+  edition: Historiographia Linguistica9.1–2,43–74; DOI10.1075/hl.9.1-2.04cam
+  locator: Publisher abstract
+  accessed: '2026-10-02'
+  evidence_type: scholarship-abstract
+  limitations: Abstract only; regards experiment as possible, not proved.
+- id: SRC-014
+  title: 'Ancient and medieval experiments on child language: A comment'
+  author: Grieve and Campbell
+  date: null
+  url: https://www.researchgate.net/profile/Robin-Campbell/publication/254092363_Ancient_and_medieval_experiments_on_child_language_A_comment_on_Bonvillian_Garber_and_Dell_1997/links/56b3ec5308ae61c4805814a4/Ancient-and-medieval-experiments-on-child-language-A-comment-on-Bonvillian_Garber_and_Dell_1997.pdf
+  edition: Six-page author PDF
+  locator: PDF p3 in particular
+  accessed: '2026-10-02'
+  evidence_type: scholarship
+  limitations: Text inspected; full bibliographic metadata incomplete. Explains possible hostile fabrication
+    and lack of court access; not a verdict that fabrication is certain.
+- id: SRC-015
+  title: Lecture preview in La Stampa
+  author: Alessandro Barbero
+  date: '2011-08-19'
+  url: https://www.festivaldellamente.it/UfficioStampa/lastampa.it___19_agosto_2011.pdf
+  edition: Three-page festival-hosted newspaper PDF
+  locator: Written southern insult and Ke boli?
+  accessed: '2026-10-02'
+  evidence_type: authorial-secondary-version
+  limitations: Source for Barbero’s written forms, not independent corroboration of historical claims or proof
+    of recorded pronunciation.
+- id: SRC-016
+  title: The History of Printing in Asia According to Library of Congress Asian Collections – Part 1
+  author: Ryan Wolfson-Ford, Southeast Asia Reference Librarian, Asian Division
+  date: '2021-06-22'
+  url: https://blogs.loc.gov/international-collections/2021/06/the-history-of-printing-in-asia-according-to-library-of-congress-asian-collections-part-1/
+  edition: Library of Congress institutional collections essay
+  locator: Paragraph beginning Another important element, paper; online line240 on access
+  accessed: '2026-10-02'
+  evidence_type: institutional-scholarship
+  limitations: Read by coordinator/root and opened by dossier writer. Establishes writing on paper in China
+    from first century and widespread use third century; does not establish Italian paper prices or exact diffusion
+    dates.
+- id: SRC-017
+  title: Temi di ricerca
+  author: Massimo Montanari / Università di Bologna
+  date: null
+  url: https://www.unibo.it/sitoweb/massimo.montanari/ricerca
+  edition: Official University of Bologna research profile
+  locator: Research paragraphs, especially lines35–43 on access
+  accessed: '2026-10-02'
+  evidence_type: institutional-biography
+  limitations: Opened by root and dossier writer. Supports food and agrarian history research, with food-history
+    publications from1979. Used only for biographical orientation, not a current job-title assertion or proof
+    of the ravioli recipe.
+- id: SRC-018
+  title: Percorso della memoria
+  author: Vittore Branca; excerpt hosted by Ente Nazionale Giovanni Boccaccio
+  date: '1998'
+  url: https://www.enteboccaccio.it/s/ente-boccaccio/page/boccaccio-biografia
+  edition: 'Excerpt from Giovanni Boccaccio, Decameron, edited by Vittore Branca, Milano: Mondadori,1998, volI,
+    ppIL–LIX as printed by host'
+  locator: 1313 birth paragraph and1348/work-history paragraphs; attribution at end
+  accessed: '2026-10-02'
+  evidence_type: institutional-scholarly-biography
+  limitations: Opened by root and dossier writer. Supports Boccaccio’s biography and narrative authorship of
+    the Decameron. Site publication date unknown;1998 is the cited edition date. Does not by itself settle
+    the lecture’s fifty-year comparison against an unspecified Salimbene anecdote date.

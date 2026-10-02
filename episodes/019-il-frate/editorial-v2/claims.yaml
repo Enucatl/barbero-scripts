@@ -1,0 +1,486 @@
+- id: C-001
+  transcript:
+  - U-00011–U-00021
+  claim: Exceptional writers reveal individuals, not a representative medieval sample
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-002
+  - SRC-008
+  conflicting_sources: []
+  status: resolved
+  research_note: The autobiographical, anecdotal chronicle supports a portrait of this particular literate
+    friar. DBI documents retrospective composition and use of other texts. The inference that readers can recover
+    a whole individual is Barbero’s interpretive purpose, not proof that Salimbene represents all medieval
+    people. Historical interventions remain unapproved.
+- id: C-002
+  transcript:
+  - U-00027–U-00029
+  claim: Chronicle occupies about 900 printed pages; edition dependence
+  centrality: sampled-incidental
+  supporting_sources: []
+  conflicting_sources: []
+  status: deferred
+  research_note: The stated approximately900 pages is edition-dependent. No specific printed edition/page count
+    has been established. Retain an approximation in the source-faithful draft, not a measured universal length.
+    Historical interventions remain unapproved.
+- id: C-003
+  transcript:
+  - U-00035–U-00048
+  claim: Salimbene de Adam of Parma, Franciscan of thirteenth century; age relative to Dante
+  centrality: supporting
+  supporting_sources:
+  - SRC-008
+  conflicting_sources: []
+  status: resolved
+  research_note: DBI identifies Salimbene/Ognibene de Adam of Parma, born1221, entering the Franciscans in1238.
+    This supports the thirteenth-century friar identity. The Dante-grandfather comparison is approximate rhetorical
+    orientation; no kinship or exact generation interval is asserted. Historical interventions remain unapproved.
+- id: C-004
+  transcript:
+  - U-00049–U-00074
+  claim: Ordered divine world and Bible as an interpretive manual
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-003
+  conflicting_sources: []
+  status: resolved
+  research_note: Scriptural appeals and the Joachimist episodes support reading Salimbene through confidence
+    in divinely meaningful order. Calling the Bible a manual for the world is Barbero’s explanatory metaphor,
+    not a recovered Salimbene phrase or a tested account of every friar’s thought. Historical interventions
+    remain unapproved.
+- id: C-005
+  transcript:
+  - U-00078–U-00123
+  claim: Extraordinary memory, public disputation, scarce books and copying costs; avoid universalization
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-003
+  conflicting_sources:
+  - SRC-001
+  status: resolved
+  research_note: The remembered-song passage (I52/ParsII) supports deliberate memorization, while poverty in
+    writing materials (I122) supports material constraints. I334 shows Salimbene fetching and consulting a
+    Bible during dispute. Claims that readers normally memorized everything or never had a book at hand exceed
+    those examples; no comparative cognitive-capacity measurement is available. Historical interventions remain
+    unapproved.
+- id: C-006
+  transcript:
+  - U-00126–U-00131
+  claim: Paper just invented, costly parchment and poverty interrupting writing
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  conflicting_sources:
+  - SRC-016
+  status: resolved
+  research_note: CantarelliI122 supports lack of writing materials. SRC-016 establishes paper used for writing
+    in China from first century and widely used there in third century, contradicting a global thirteenth-century
+    just-invented assertion. It does not establish Italian prices or diffusion; propose only dropping the unsupported
+    invention timing, retaining expense and parchment contrast. Transcript remains unchanged; historical repair
+    requires approval.
+- id: C-007
+  transcript:
+  - U-00145–U-00170
+  claim: Joachim’s system, official Church stance, 1260 and Antichrist chronology
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-007
+  conflicting_sources: []
+  status: deferred
+  research_note: Salimbene’s Joachimist interest and eventual disillusion occur in I77,181,326–327. In context,
+    the lecture’s Church statement concerns the predictive system. LateranIV canon2 condemns a particular Trinitarian
+    treatise and does not by itself disprove that narrower statement. Authentic Joachim versus later currents
+    and the1260 timetable require scoped uncertainty; the institutional response to this predictive system
+    has not been independently established. ED-002 is optional context, recommended retain, not a demonstrated
+    factual correction.
+- id: C-008
+  transcript:
+  - U-00158–U-00159
+  claim: Source birth range 1220–1230 versus established 1221; source decision settled
+  centrality: supporting
+  supporting_sources:
+  - SRC-003
+  - SRC-008
+  conflicting_sources: []
+  status: resolved
+  research_note: Bernini ParsI and DBI give birth9October1221. This lies within the user-confirmed approximate1220–1230
+    source range; no transcript correction is needed and no new exact-date substitution is approved. Historical
+    interventions remain unapproved.
+- id: C-009
+  transcript:
+  - U-00178–U-00195
+  claim: Frederick as Antichrist, death 1250 versus Ferrara proclamation chronology
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  - SRC-008
+  conflicting_sources:
+  - SRC-001
+  - SRC-008
+  status: resolved
+  research_note: Frederick dies in1250; the Ferrara papal announcement is placed in1251 in the source chronology.
+    The lecture runs these together. Salimbene’s disappointed Antichrist expectation is supported, but the
+    wording that he physically touched the pope may overstate a statement of proximity. Historical interventions
+    remain unapproved.
+- id: C-010
+  transcript:
+  - U-00199–U-00200
+  claim: 2012 GDP prediction analogy anchored to 2011 lecture, not current forecast
+  centrality: sampled-incidental
+  supporting_sources:
+  - SRC-015
+  conflicting_sources: []
+  status: resolved
+  research_note: The authorial preview establishes the2011 lecture setting, making2012 a future year in the
+    analogy. The analogy is a rhetorical comparison with prophecy, not a claim that a particular economic forecast
+    has been independently assessed. Historical interventions remain unapproved.
+- id: C-011
+  transcript:
+  - U-00202–U-00263
+  claim: Weaver/physician identities and manuscript destruction; individual versus institutional censorship
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  conflicting_sources:
+  - SRC-001
+  status: resolved
+  research_note: I335–337 identifies a Verona-born weaver resident at Parma and physician Alberto Cremonella,
+    who left the Franciscans and later became Cistercian. These differ from the lecture’s simple Parma/native
+    and Franciscan-on-loan framing. The erasure episode supports individual intervention; Salimbene’s later
+    advice to burn another book complicates blanket opposition to censorship. No institutional chronology of
+    all censorship has been proved. Historical interventions remain unapproved.
+- id: C-012
+  transcript:
+  - U-00264–U-00300
+  claim: Learned Latin identity can become presumption; demon anecdote is narrated belief
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-003
+  conflicting_sources: []
+  status: deferred
+  research_note: Latin writing, biblical argument and the pride/prank scenes support elite learned identity
+    as an interpretation. The particular bad-Latin demon incident has not been recovered; do not authenticate
+    it using the different good-Latin demon at II134. The narrative can remain explicitly Salimbene’s story,
+    with no claim of independently verified possession. Historical interventions remain unapproved.
+- id: C-013
+  transcript:
+  - U-00321–U-00339
+  claim: Florentine joke stereotype before Boccaccio; high culture and bodily comedy coexist
+  centrality: sampled-incidental
+  supporting_sources:
+  - SRC-001
+  - SRC-005
+  - SRC-018
+  conflicting_sources: []
+  status: deferred
+  research_note: I53–55 and the original prank excerpt support Salimbene’s characterization of Florentines
+    as tricksters and the coexistence of learning with bodily comedy. The precise fifty-years-before-Boccaccio
+    comparison has not been checked; retain as lecturer’s broad chronology, not independently certified arithmetic.
+    Historical interventions remain unapproved. SRC-018 verifies Boccaccio’s1313 birth and Decameron authorship;
+    the exact anecdote-to-author interval remains unestablished.
+- id: C-014
+  transcript:
+  - U-00353–U-00407
+  claim: Franciscan identity and hostility to Apostolics; polemical characterization not neutral census
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  conflicting_sources: []
+  status: resolved
+  research_note: I153–167 supports Apostolic origin story, hostile illiteracy/services catalogue and competition
+    for alms. These are partisan statements; they cannot establish that every rival was illiterate or a measured
+    balance of donations. The interpretation of identity and threatened status is supported by the rhetoric.
+    Historical interventions remain unapproved.
+- id: C-015
+  transcript:
+  - U-00408–U-00411
+  claim: Eco novel/film Salvatore repeats penitentiagite and draws on chronicle
+  centrality: supporting
+  supporting_sources: []
+  conflicting_sources: []
+  status: deferred
+  research_note: Neither the relevant Eco novel passage nor the film was retrieved. The exact penitentiagite
+    source also remains unfixed in a primary Latin locator. Preserve the lecture’s literary observation; do
+    not claim independent verification of direct textual borrowing or assign a modern edition page. Historical
+    interventions remain unapproved.
+- id: C-016
+  transcript:
+  - U-00417–U-00451
+  claim: Family knightly/aristocratic status, living legitimate sons, vocation at seventeen and lineage stakes
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-008
+  conflicting_sources: []
+  status: resolved
+  research_note: I15–20,35–36 and DBI support family opposition, two surviving legitimate sons entering religion
+    and profession in1238 at sixteen/seventeen depending date phrasing. The record includes other children;
+    two sons is a lineage simplification. Elite/knightly connections do not independently establish a technical
+    rank of highest aristocracy. Historical interventions remain unapproved.
+- id: C-017
+  transcript:
+  - U-00457–U-00477
+  claim: Frederick/Elias letters, Fano in Romagna and biblical source boundaries
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  - SRC-004
+  - SRC-005
+  conflicting_sources:
+  - SRC-004
+  status: resolved
+  research_note: MGH39 explicitly separates emperor’s request from Elias’s return-only-if-willing instruction.
+    MGH40/Coulton and I18–20 show a composite set of biblical appeals, not one exact Gospel line. Fano is the
+    reported friary; its characterization as in Romagna has not been independently audited and should not receive
+    a manufactured corrective history. Historical interventions remain unapproved.
+- id: C-018
+  transcript:
+  - U-00498–U-00529
+  claim: Dreams express sincere faith and costly separation; bishopric hypothetical, not offered
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-003
+  conflicting_sources: []
+  status: resolved
+  research_note: I20–21 supports recalled consoling dream after the rupture; I35–36/ParsII explicitly marks
+    the bishopric as a hypothetical possibility. The sincerity and psychological meaning of vocation are interpretations
+    of self-report. Dream narrative is not verification of an external apparition; a possible bishopric is
+    not an offer. Historical interventions remain unapproved.
+- id: C-019
+  transcript:
+  - U-00530–U-00562
+  claim: Pisa encounter and dream order/action differ from retrieved translation
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-004
+  conflicting_sources:
+  - SRC-004
+  status: resolved
+  research_note: 'MGH45–46 confirms the street/fondaco detail follows the explicit sleep transition. Jesus,
+    Mary and Joseph help collect bread into his basket during his round. The lecture places the street scene
+    before the dream and portrays Jesus/Mary with separate bags. Do not overcorrect by claiming the holy figures
+    do no begging: the text says they assist his begging round. Historical interventions remain unapproved.'
+- id: C-020
+  transcript:
+  - U-00564–U-00571
+  claim: Cabbage throughout life is comic retrospective exaggeration, not exclusive diet
+  centrality: supporting
+  supporting_sources:
+  - SRC-002
+  conflicting_sources: []
+  status: resolved
+  research_note: II229 confirms the first feast, subsequent cabbage and earlier refusal even of meat cooked
+    with cabbage. His numerous later banquet accounts make this comic retrospective hyperbole, not documentation
+    of an exclusively cabbage diet. Historical interventions remain unapproved.
+- id: C-021
+  transcript:
+  - U-00572–U-00621
+  claim: Courtesy/class values outweigh moral faults in judgments; atheist bishop label and Elias vignette
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-003
+  conflicting_sources: []
+  status: deferred
+  research_note: The bishop’s refusal of that faith/sacrament is recovered at I42/ParsII; calling him atheist
+    is a stronger modern inference. Ravenna’s family and hospitality are partly supported at I294, but the
+    corner-wine and Elias-seated vignettes remain unlocated. Courtesy overriding other faults is Barbero’s
+    reading, not evidence that Salimbene never condemns wrongdoing. Historical interventions remain unapproved.
+- id: C-022
+  transcript:
+  - U-00622–U-00643
+  claim: Food abundance and shared wine express status, courtesy and generosity
+  centrality: central
+  supporting_sources:
+  - SRC-002
+  conflicting_sources: []
+  status: resolved
+  research_note: II242 supports shared wine, complaints against ungenerous bishops and the sister-throats maxim.
+    These make generosity a plausible interpretive thread. The broader material-poverty model is an explanatory
+    generalization, not a measurement of medieval diets or wealth distribution. Historical interventions remain
+    unapproved.
+- id: C-023
+  transcript:
+  - U-00644–U-00669
+  claim: Burgundy wine quantity, white/red class association, eye-water practice and eight custodies
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  conflicting_sources: []
+  status: deferred
+  research_note: I122–125 supports wine observations, eye-water joke and eightfold wine/beer contrast. Exact
+    four-city production comparison and universal noble-white/peasant-red preference are not independently
+    quantified. Translator’s conventi cannot settle the underlying institutional custodie term. Retain observation
+    as attributed and bounded. Historical interventions remain unapproved.
+- id: C-024
+  transcript:
+  - U-00673–U-00686
+  claim: Louis IX pilgrimage, Sens1248, whole-kingdom walking, Aigues-Mortes in Provence
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  - SRC-004
+  conflicting_sources:
+  - SRC-004
+  status: resolved
+  research_note: MGH222 confirms arrival at Sens on foot in pilgrim dress; MGH225 explicitly mentions waiting
+    to mount his horse. Thus months exclusively walking the whole kingdom is an unsupported extension contradicted
+    by the narrative’s horse. Aigues-Mortes appears in an editor note; its source label in Provence is not
+    thereby verified. Historical interventions remain unapproved.
+- id: C-025
+  transcript:
+  - U-00687–U-00700
+  claim: Pike donor and royal/ministerial speech attribution; whom Salimbene observes weeping
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-004
+  conflicting_sources:
+  - SRC-004
+  status: resolved
+  research_note: I128–129 identifies Sens church treasurer in pike presentation. MGH223 separates Louis’s prayer
+    request, CardinalOdo’s remarks and JohnofParma’s no-gold-or-silver response. It says some French friars
+    beside Salimbene wept. Speaker, donor and scope deserve exact editorial proposals, not silent translation
+    changes. Historical interventions remain unapproved.
+- id: C-026
+  transcript:
+  - U-00704–U-00727
+  claim: Royal menu, medieval course sequence and magnificent but modest banquet
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  conflicting_sources: []
+  status: resolved
+  research_note: I130 supports the sequence of cherries, bread/wine, beans/milk, fish/crabs, eel preparations,
+    rice/almond milk/cinnamon, tarts, curds and fruit. Exact eel culinary nouns remain translation-dependent.
+    Magnificence with modesty is a moral comparison; no comprehensive history of all medieval course ordering
+    was audited. Historical interventions remain unapproved.
+- id: C-027
+  transcript:
+  - U-00730–U-00739
+  claim: Aquileia forty dishes and Lent calendar; reported moral exemplum
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  conflicting_sources: []
+  status: resolved
+  research_note: I166 reports forty Lenten dishes diminishing to one at HolySaturday and criticizes excess.
+    It is a moral anecdote, not an independently verified kitchen record or reliable arithmetic model of the
+    liturgical calendar. The source’s own wording is retained unless a decision changes it. Historical interventions
+    remain unapproved.
+- id: C-028
+  transcript:
+  - U-00740–U-00756
+  claim: Southern insults express civic/political prejudice, not validated population character
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-011
+  - SRC-015
+  conflicting_sources: []
+  status: resolved
+  research_note: I245–246 and scholarship document the insult within Norman/political narrative. This establishes
+    an utterance and a prejudice, not southern military incapacity or the actual cause of Norman conquest.
+    Barbero’s written preview supports his chosen language, not independent historical corroboration. Historical
+    interventions remain unapproved.
+- id: C-029
+  transcript:
+  - U-00759–U-00769
+  claim: Tu/voi regional usages, absence of polite Lei, northern meaning of Lombard and cat/blackbird variant
+  centrality: supporting
+  supporting_sources:
+  - SRC-002
+  conflicting_sources:
+  - SRC-002
+  status: deferred
+  research_note: II243 supports exaggerated tu/voi comparisons and gives a blackbird where the lecture says
+    cat. The later emergence of polite Lei and exact geographical generalization were not independently sourced.
+    Preserve social observation as attributed; do not treat one chronicler as a systematic linguistic survey.
+    Historical interventions remain unapproved.
+- id: C-030
+  transcript:
+  - U-00775–U-00787
+  claim: Ravioli without crust, 1284 age, naked dumplings versus Barbero’s explicitly uncertain pie hypothesis
+  centrality: supporting
+  supporting_sources:
+  - SRC-002
+  - SRC-008
+  - SRC-012
+  - SRC-017
+  conflicting_sources:
+  - SRC-002
+  - SRC-008
+  status: resolved
+  research_note: II106 dates ravioli without pasta covering to1284; birth1221 makes him62/63. VoSLIG supports
+    a naked-ravioli tradition, but neither establishes his complete recipe. Barbero expressly entertains alternatives
+    and says he does not know; that uncertainty should remain even if an optional source-based clarification
+    is proposed. Historical interventions remain unapproved. SRC-017 verifies Montanari’s food-history research
+    for the lecturer’s consultation aside; it supplies no ravioli recipe evidence.
+- id: C-031
+  transcript:
+  - U-00788–U-00794
+  claim: Seasonal daylength and almond observations during Genoa–Provence voyage
+  centrality: sampled-incidental
+  supporting_sources:
+  - SRC-001
+  conflicting_sources: []
+  status: resolved
+  research_note: I125–126 supports seasonal daylight observation; I205 gives the1249 four-day voyage toHyères
+    and differing almond stages. These are traveller observations, not measurements proving a generalized climate
+    mechanism. Historical interventions remain unapproved.
+- id: C-032
+  transcript:
+  - U-00795–U-00803
+  claim: Sens women comparison, French/Italian noble residence and claim that Salimbene rarely judges
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-004
+  conflicting_sources:
+  - SRC-004
+  status: resolved
+  research_note: MGH222 confirms Sens ladies and comparison with Pisa/Bologna, not Parma; noble residence is
+    an attributed social generalization. The claim that Salimbene rarely judges is in tension with his insults
+    and denunciations. It remains a debatable literary interpretation rather than an objectively resolved fact.
+    Historical interventions remain unapproved.
+- id: C-033
+  transcript:
+  - U-00804–U-00822
+  claim: Infant experiment securely attributed to chronicle but historicity contested; causal inference limited
+  centrality: central
+  supporting_sources:
+  - SRC-004
+  - SRC-009
+  - SRC-013
+  - SRC-014
+  conflicting_sources:
+  - SRC-009
+  - SRC-013
+  - SRC-014
+  status: resolved
+  research_note: MGH350 securely attributes the infant story and causal explanation to Salimbene; it does not
+    prove occurrence or a medically valid experiment. Scholarship permits both possible occurrence and hostile
+    invention readings. The central narrative can be responsibly drafted with source attribution, while a concise
+    explicit historicity qualification is proposed before recording. Historical interventions remain unapproved.
+- id: C-034
+  transcript:
+  - U-00823–U-00825
+  claim: Humanity as culmination of whole-person portrait; literary interpretation, not external proof
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-002
+  - SRC-004
+  conflicting_sources: []
+  status: resolved
+  research_note: The chronicle’s varied anecdotes and humane infant comment support Barbero’s chosen whole-person
+    conclusion as a literary reading. This is not an independently measurable claim that Salimbene was universally
+    tolerant or more humane than Frederick in every respect. Preserve the qualified personal judgment. Historical
+    interventions remain unapproved.
