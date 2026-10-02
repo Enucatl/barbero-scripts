@@ -1,0 +1,2 @@
+PASS: 46 recorded edits; headings/comments preserved; issue 5 applied.
+Spoken English words: 6096

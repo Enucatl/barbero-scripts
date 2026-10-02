@@ -1,0 +1,41 @@
+[
+  {
+    "chapter_id": "CH-005",
+    "issues": [
+      5
+    ],
+    "type": "editorial",
+    "before": "But whenever these ideas crop up, they're immediately silenced. They have no chance to spread or circulate, because the shepherds of the Church step in at once and stop this kind of reasoning.",
+    "after": "The churchmen in these accounts push back against the predictions. That doesn't mean nobody was anxious about the end of the world. But anxiety, or even a preacher announcing a date, is a different thing from the story of an entire society stopping work in 999.",
+    "reason": "Proposal only. This is the first strong inference from clerical opposition to the absence of circulating fears. Separate those claims so the episode's case against universal paralysis does not become a claim that anxiety never spread. This would revise wording retained after rejected ED-010 and needs a fresh user decision; it is not part of the authorized language pass. The evidence review records Abbo's widely circulating rumor (C-014, Q-019, SRC-011).",
+    "decision": "accept",
+    "decision_note": "User approved the other changes and instructed removal of the taking-sides sentence because it concerned the deleted Aristotle dispute.",
+    "applied_text": "The churchmen in these accounts push back against the predictions. That doesn't mean nobody was anxious about the end of the world. But anxiety, or even a preacher announcing a date, is a different thing from the story of an entire society stopping work in 999."
+  },
+  {
+    "chapter_id": "CH-006",
+    "issues": [
+      5
+    ],
+    "type": "editorial",
+    "before": "Let's take stock again. Throughout the Middle Ages, millenarian tensions, anxieties about the end of the world, do appear from time to time. But they have no room to spread, because the people at the top won't accept them. Let me give you an example. These things can happen quite often, but they remain contained.",
+    "after": "Let's take stock again. Throughout the Middle Ages, anxieties about the end of the world do appear from time to time. Church leaders oppose attempts to predict the date. That opposition doesn't mean the fears never spread. Let me give you an example of a prediction that attracts followers, and how the authorities respond.",
+    "reason": "Proposal only. Keep genuine expectations and institutional opposition distinct, then let the Thiota example show the response. This avoids treating suppression as proof that anxiety had no reach. It would revise wording retained after rejected ED-013 and requires a new decision; Thiota's date, followers, and other previously rejected factual corrections remain outside this proposal (C-016–017, SRC-014).",
+    "decision": "accept",
+    "decision_note": "User approved the other changes and instructed removal of the taking-sides sentence because it concerned the deleted Aristotle dispute.",
+    "applied_text": "Let's take stock again. Throughout the Middle Ages, anxieties about the end of the world do appear from time to time. Church leaders oppose attempts to predict the date. That opposition doesn't mean the fears never spread. Let me give you an example of a prediction that attracts followers, and how the authorities respond."
+  },
+  {
+    "chapter_id": "CH-010",
+    "issues": [
+      5
+    ],
+    "type": "editorial",
+    "before": "I'm not taking sides here. The terrors never happened; that's perfectly clear.",
+    "after": "I'm not taking sides in the argument over how widespread those end-times fears were. The story of a whole society coming to a halt in 999 is a legend; that's perfectly clear.",
+    "reason": "Proposal only. Clarify that the narrator withholds judgment on the extent of medieval end-times anxiety while rejecting the universal shutdown legend defined in chapter 1. This is a fresh, plainer alternative to previously rejected ED-034, offered because issue 5 explicitly requests proposals; the applied revision retains the existing sentence unchanged.",
+    "decision": "accept_with_user_revision",
+    "decision_note": "User approved the other changes and instructed removal of the taking-sides sentence because it concerned the deleted Aristotle dispute.",
+    "applied_text": "The story of a whole society coming to a halt in 999 is a legend; that's perfectly clear."
+  }
+]

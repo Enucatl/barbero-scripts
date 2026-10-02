@@ -1,0 +1,374 @@
+- id: SRC-001
+  title: Dello svolgimento della letteratura nazionale, Discorso primo
+  author: Giosue Carducci
+  date: 1868–1871
+  url: https://www.gutenberg.org/files/77906/77906-h/77906-h.htm
+  edition: Pagine di storia letteraria, 1920 anthology
+  locator: Discorso primo, I; anthology refers to Opere I, 29–51
+  accessed: '2026-10-02'
+  evidence_type: primary literary text
+  limitations: Historian investigator retrieved transcription; later anthology, not first edition.
+- id: SRC-002
+  title: Histoire des Français depuis le temps des Gaulois
+  author: Théophile Lavallée
+  date: '1863'
+  url: https://archive.org/download/histoiredesfran01lavauoft/histoiredesfran01lavauoft_djvu.txt
+  edition: Vol. I, 1863
+  locator: p. 249, chapter II, 987–1000
+  accessed: '2026-10-02'
+  evidence_type: primary literary text
+  limitations: Opened OCR, normalized obvious OCR/linebreaks, not collated against image; lecture cites
+    1844 edition, whose passage was not retrieved.
+- id: SRC-003
+  title: Histoire des Français, fourth edition catalogue
+  author: Hachette BnF
+  date: '1844'
+  url: https://www.hachettebnf.fr/livre/histoire-des-francais-depuis-le-temps-des-gaulois-jusquen-1830-edition-4tome-1-ed1844/
+  edition: Publisher facsimile catalogue
+  locator: Title/edition record
+  accessed: '2026-10-02'
+  evidence_type: bibliographical record
+  limitations: Confirms edition date only; not Lavallée/Michelet pupil relationship.
+- id: SRC-004
+  title: Epistola et decreta pontificia
+  author: Sylvester II
+  date: 999; edition 1853
+  url: https://la.wikisource.org/wiki/Epistola_et_decreta_pontificia_(Silvester_II)
+  edition: PL 139, Corpus Corporum transcription; oldid 263791
+  locator: 'I: Seeon, 18 April; II: Fulda, 31 December'
+  accessed: '2026-10-02'
+  evidence_type: transmitted primary documents
+  limitations: Researcher opened; writer reopened I–II. No original bull inspected. Fulda recension history
+    disputed; Seeon payment must not be transferred to Fulda.
+- id: SRC-005
+  title: Codex diplomaticus Fuldensis
+  author: Ernst Friedrich Johann Dronke, editor
+  date: '1850'
+  url: https://archive.org/download/codexdiplomatic00abbegoog/codexdiplomatic00abbegoog_djvu.txt
+  edition: 1850 edition
+  locator: no. 728, pp. 341–342
+  accessed: '2026-10-02'
+  evidence_type: critical edition
+  limitations: Researcher opened OCR and editorial note; three recensions, interpolation concern; body
+    OCR poor.
+- id: SRC-006
+  title: Zu neuen Thesen über die Fuldaer Papsturkunden
+  author: Hermann Jakobs
+  date: '1981'
+  url: https://www.mgh-bibliothek.de/dokumente/BV/BV048076393.pdf
+  edition: Deutsches Archiv 37
+  locator: pp. 792–795, especially 793–794
+  accessed: '2026-10-02'
+  evidence_type: scholarship
+  limitations: Researcher opened; refutes simplistic whole-bull forgery conclusion. Modern Zimmermann
+    edition not inspected.
+- id: SRC-007
+  title: Le carte dello Archivio capitolare di Tortona, sec. IX–1220
+  author: Ferdinando Gabotto and Vincenzo Legé, editors
+  date: '1905'
+  url: https://books.google.com/books?id=d21MAQAAMAAJ
+  edition: BSSS 29
+  locator: document VII, pp. 11–12
+  accessed: '2026-10-02'
+  evidence_type: partial primary edition
+  limitations: Only discrete search-within snippets read. Original missing; seventeenth-century copies.
+    29 years, brothers, half wine and twenty soldi recovered; grain share and full penalty not verified.
+- id: SRC-008
+  title: Ad conquestum faciendum
+  author: Bruno Andreolli
+  date: null
+  url: https://www.storiaagricoltura.it/File/Get?code=42aad367-be25-482d-8e4a-0fb1146023c0
+  edition: Rivista di storia dell’agricoltura
+  locator: p. 120 n. 43; opening methodological discussion
+  accessed: '2026-10-02'
+  evidence_type: scholarship
+  limitations: Researcher opened relevant passage and note; corroborates lease identification, not every
+    term or universal labour conditions.
+- id: SRC-009
+  title: Diploma of Otto III for Farfa
+  author: Otto III; Theodor Sickel, editor
+  date: 999; edition 1893
+  url: https://www.dmgh.de/mgh_dd_o_ii__dd_o_iii/index.htm#page/759/mode/1up
+  edition: MGH DD O II / O III
+  locator: D O III 331, pp. 759–760; p.760 lines 1–7
+  accessed: '2026-10-02'
+  evidence_type: primary critical edition
+  limitations: Researcher visually read both pages. Later Farfa transmission; no surviving contemporary
+    original identified.
+- id: SRC-010
+  title: Revelation 20
+  author: Biblical text; KJV translators
+  date: '1611'
+  url: https://www.biblegateway.com/passage/?search=Revelation+20%3A1-7&version=KJV
+  edition: King James Version
+  locator: 20:1–3 a; 3 b and 7
+  accessed: '2026-10-02'
+  evidence_type: historical translation witness
+  limitations: English translation witness, not Greek original or identification of Barbero’s Italian
+    edition.
+- id: SRC-011
+  title: Apologeticus ad Hugonem et Rodbertum reges Francorum
+  author: Abbo of Fleury
+  date: around 994
+  url: https://la.wikisource.org/wiki/Apologeticus_ad_Hugonem_et_Rodbertum_reges_Francorum_(Abbo_Floriacensis)
+  edition: PL 139, 1853; Corpus Corporum; oldid 229292
+  locator: cols.462 D–463 A, 470 D–472 A
+  accessed: '2026-10-02'
+  evidence_type: primary text transcription
+  limitations: Researcher opened full text; writer reopened relevant original. Paris sermon undated; reported
+    rumor breadth rhetorical, not measured universal panic.
+- id: SRC-012
+  title: 'First among Abbots: The Career of Abbo of Fleury'
+  author: Elizabeth Dachowski
+  date: '2008'
+  url: https://dokumen.pub/first-among-abbots-the-career-of-abbo-of-fleury-9780813215105-0813215102.html
+  edition: Catholic University of America Press
+  locator: pp.18–20, 161
+  accessed: '2026-10-02'
+  evidence_type: scholarly monograph
+  limitations: Relevant discussion accessed through transcription; supports probable around 994, not exact
+    dating.
+- id: SRC-013
+  title: 'Rhetoric and Reality: The Eschatological Thought of an Eleventh-Century Irishman'
+  author: Elizabeth Boyle
+  date: '2016'
+  url: https://mural.maynoothuniversity.ie/id/eprint/7661/1/EB-Rhetoric-2016.pdf
+  edition: Article
+  locator: p.288 n.68
+  accessed: '2026-10-02'
+  evidence_type: scholarship
+  limitations: Corroborative; no copyrighted translation copied.
+- id: SRC-014
+  title: Annales Fuldenses
+  author: Fulda annalist; Friedrich Kurze, editor
+  date: 847; edition 1891
+  url: https://www.dmgh.de/mgh_ss_rer_germ_7/index.htm#page/36/mode/1up
+  edition: MGH SRG 7
+  locator: s.a.847, pp.36–37
+  accessed: '2026-10-02'
+  evidence_type: primary critical edition
+  limitations: Researcher visually inspected scans. Interested ecclesiastical account of confession and
+    punishment, not independent access to Thiota’s motives.
+- id: SRC-015
+  title: L’histoire d’un mythe
+  author: Sylvain Gouguenheim
+  date: '1999'
+  url: https://electrodes-h-sinclair-502.com/wp-content/uploads/2012/12/invention_terreurs_an_mil__alma_1999_57_111.pdf
+  edition: Archivum Latinitatis Medii Aevi 57
+  locator: p.138 nn.80–81; Sigebert MGH SS 6 p.354
+  accessed: '2026-10-02'
+  evidence_type: scholarship quoting primary text
+  limitations: Sigebert opening recovered through article; original scan uninspected and continuation
+    OCR unreliable. Trithemius citation confusing; no recovered Latin there.
+- id: SRC-016
+  title: Les Sources de l’histoire de France II
+  author: Auguste Molinier
+  date: '1902'
+  url: https://www.persee.fr/doc/shf_0000-0000_1902_num_2_1_917_t1_0316_0000_2
+  edition: Volume II
+  locator: pp.316–317 no.2203
+  accessed: '2026-10-02'
+  evidence_type: scholarly source catalogue
+  limitations: Full notice opened; rejects Godel attribution. Does not recover the 1010 sentence.
+- id: SRC-017
+  title: L’an mille
+  author: Jules Roy
+  date: '1885'
+  url: https://www.mediterranee-antique.fr/Fichiers_PdF/PQRS/Roy/An_mille.pdf
+  edition: Retypeset edition
+  locator: PDF p.58
+  accessed: '2026-10-02'
+  evidence_type: historical scholarship
+  limitations: Old intermediary, outdated named authorship. Links 1010 fear to Jerusalem reports; not
+    satisfactory primary collation.
+- id: SRC-018
+  title: Mutations, Adjustments, Terrors, Historians, and the Year 1000
+  author: Edward Peters
+  date: '2002'
+  url: https://www.scribd.com/document/624751552/Michael-Frassetto-Eds-The-Year-1000-Religious-and-Social-Response-to-the-Turning-of-the-First-Millennium-Palgrave-Macmillan-US-2002
+  edition: In Michael Frassetto, ed., The Year 1000
+  locator: p.14; p.25 nn.22–24
+  accessed: '2026-10-02'
+  evidence_type: scholarship
+  limitations: Read accessible transcription. Distinguishes Chronica from Annales under Trithemius; possible
+    interpolation unresolved, not proven 1690 authorship.
+- id: SRC-019
+  title: Il risorgimento d’Italia
+  author: Saverio Bettinelli
+  date: 1799 witness
+  url: https://it.wikisource.org/wiki/Il_risorgimento_d%27Italia/Parte_I/Mille_-_Capo_secondo
+  edition: Collected works transcription
+  locator: Part I, Mille, chapter 2 opening
+  accessed: '2026-10-02'
+  evidence_type: primary literary text
+  limitations: Imperfectly proofread transcription; first arts quotation not located; recovered chapter
+    2 excerpts bounded.
+- id: SRC-020
+  title: Italia e storiografia
+  author: Treccani
+  date: null
+  url: https://www.treccani.it/enciclopedia/italia-e-storiografia_%28altro%29/
+  edition: Scholarly essay
+  locator: Verri and Denina section
+  accessed: '2026-10-02'
+  evidence_type: scholarship
+  limitations: Distinguishes Bettinelli printed 1773 date from actual 1775 publication; not first-edition
+    collation.
+- id: SRC-021
+  title: L’erreur dans les études historiques sur l’an mil
+  author: Dominique Barthélemy
+  date: null
+  url: https://aibl.fr/coupoles/dominique-barthelemy-lerreur-dans-les-etudes-historiques-sur-lan-mil/
+  edition: Académie des inscriptions et belles-lettres lecture
+  locator: Discussion of 1873 critique and Romantic narrative
+  accessed: '2026-10-02'
+  evidence_type: scholarship
+  limitations: Original Plaine article not retrieved. Catholic/anticlerical divide not exhaustive; universal
+    priority not established.
+- id: SRC-022
+  title: Review of Les Fausses Terreurs de l’an mil
+  author: Dominique Iogna-Prat
+  date: '1999'
+  url: https://www.persee.fr/doc/medi_0751-2708_1999_num_18_37_1473_t1_0165_0000_1
+  edition: Médiévales 37
+  locator: pp.165–166
+  accessed: '2026-10-02'
+  evidence_type: contemporary scholarly review
+  limitations: Opened review; establishes 1999 and dispute about diffuse fears; not Gouguenheim private
+    identity.
+- id: SRC-023
+  title: Review of Les Fausses Terreurs de l’an mil
+  author: Georges Pon
+  date: '2004'
+  url: https://www.persee.fr/doc/ccmed_0007-9731_2004_num_47_186_2882_t1_0192_0000_3
+  edition: Cahiers de civilisation médiévale 47
+  locator: pp.192–193
+  accessed: '2026-10-02'
+  evidence_type: scholarly review
+  limitations: Opened; corroborates 1999 publication and scholarly controversy.
+- id: SRC-024
+  title: Review of Aristote au Mont-Saint-Michel
+  author: Guillaume Dye
+  date: '2009'
+  url: https://www.persee.fr/doc/rbph_0035-0818_2009_num_87_3_7707
+  edition: Revue belge de philologie et d’histoire 87
+  locator: pp.811–835
+  accessed: '2026-10-02'
+  evidence_type: scholarly review bibliography
+  limitations: Landing/opening page only, not full 35-page review; supports 2008 bibliographical record.
+- id: SRC-025
+  title: 'L’affaire Aristote: retour sur un emballement historiographico-médiatique'
+  author: Florian Louis
+  date: '2008-05-22'
+  url: https://www.fabula.org/acta/document4195.php
+  edition: Acta fabula
+  locator: paragraphs 4–6; cites book p.137
+  accessed: '2026-10-02'
+  evidence_type: scholarly review
+  limitations: Relevant HTML read; short linguistic quotation through review only. Does not authenticate
+    lecture’s harsher paraphrases.
+- id: SRC-026
+  title: Bibliothèque virtuelle du Mont Saint-Michel, exhibition 37
+  author: Université de Caen manuscript specialists
+  date: '2017'
+  url: https://emmsm.unicaen.fr/emmsm/bvmsm/37.html
+  edition: Institutional manuscript exhibition
+  locator: Traduction arabo-latine; Avranches BM 220 ff.14 v–15 r
+  accessed: '2026-10-02'
+  evidence_type: primary collection scholarship
+  limitations: Writer reopened. Holdings include Arabic-to-Latin material; no evidence Jacques worked
+    at abbey; holdings not translation-site proof.
+- id: SRC-027
+  title: The Apocalypse in the Early Middle Ages, chapter 7
+  author: James Palmer
+  date: '2014'
+  url: https://www.cambridge.org/core/books/abs/apocalypse-in-the-early-middle-ages/year-1000-and-other-apocalypticisms-c-911c-1033/CC4AED85E3CCAE26141E00673B64D3F7
+  edition: Cambridge University Press
+  locator: pp.189–226 chapter summary
+  accessed: '2026-10-02'
+  evidence_type: scholarly monograph summary
+  limitations: Only publisher summary accessed. Supports distinction mass hysteria/broader apocalypse,
+    not detailed adjudication.
+- id: SRC-028
+  title: The Fear of an Apocalyptic Year 1000
+  author: Richard Landes
+  date: '2000'
+  url: https://www.bu.edu/history/files/2011/10/11.Fear-of-an-Apocalyptic-Year-1000-Speculum.pdf
+  edition: Speculum 75
+  locator: pp.97–145
+  accessed: '2026-10-02'
+  evidence_type: scholarship
+  limitations: Opened to establish live debate; not completely read; no detailed verdict claimed.
+- id: SRC-029
+  title: Matthew 24
+  author: Matthew; Westcott and Hort editors
+  date: '1881'
+  url: https://biblehub.com/wh/matthew/24.htm
+  edition: Greek New Testament
+  locator: 24:14,36,44
+  accessed: '2026-10-02'
+  evidence_type: primary Greek witness
+  limitations: Relevant verses/context read by investigator; Italian lecture edition unidentified.
+- id: SRC-030
+  title: 1 Thessalonians 5
+  author: Paul; Westcott and Hort editors
+  date: '1881'
+  url: https://biblehub.com/wh/1_thessalonians/5.htm
+  edition: Greek New Testament
+  locator: 5:2–3
+  accessed: '2026-10-02'
+  evidence_type: primary Greek witness
+  limitations: Relevant verses/context read by investigator; only spoken clauses selected.
+- id: SRC-031
+  title: Epistula 197 to Hesychius
+  author: Augustine
+  date: late 419/early 420
+  url: https://www.augustinus.it/latino/lettere/lettera_202_testo.htm
+  edition: Augustinus.it Latin transcription
+  locator: §§3–4
+  accessed: '2026-10-02'
+  evidence_type: primary Latin witness
+  limitations: Investigator read full short letter; filename 202 but actual heading 197. Greek gloss inline
+    image uncertain; omission explicitly marked. Italian parallel not proof of lecture edition.
+- id: SRC-032
+  title: Epistula 199, De fine saeculi
+  author: Augustine
+  date: early fifth century
+  url: https://www.augustinus.it/latino/lettere/lettera_204_testo.htm
+  edition: Augustinus.it Latin transcription
+  locator: 12.46–49
+  accessed: '2026-10-02'
+  evidence_type: primary Latin witness
+  limitations: Investigator read relevant paragraphs; unpreached nations premise, no guarantee about next
+    year.
+- id: SRC-033
+  title: Date of Easter
+  author: US Naval Observatory
+  date: null
+  url: https://aa.usno.navy.mil/faq/easter
+  edition: Institutional explanation
+  locator: Julian/Gregorian distinction
+  accessed: '2026-10-02'
+  evidence_type: calendar reference
+  limitations: Opened by investigator; displayed Gregorian algorithm not used.
+- id: SRC-034
+  title: Julian Easter algorithm
+  author: Sonia Keys
+  date: '2013'
+  url: https://raw.githubusercontent.com/soniakeys/meeus/master/v3/easter/easter.go
+  edition: Meeus Go package, MIT
+  locator: Julian function lines 21–30
+  accessed: '2026-10-02'
+  evidence_type: algorithm implementation plus executed calculation
+  limitations: Investigator checked source/executed explicit Julian integer arithmetic over 900–1000;
+    result 908970981992. Meeus book not inspected; does not date rumor.
+- id: SRC-035
+  title: The Abacus at Echternach in ca.1000 A.D.
+  author: Charles Burnett
+  date: '2002'
+  url: https://www.sciamvs.org/files/SCIAMVS_03_091-108_Burnett.pdf
+  edition: SCIAMVS 3
+  locator: pp.91–92,96; RicherIII.54
+  accessed: '2026-10-02'
+  evidence_type: scholarship citing primary account
+  limitations: Relevant pages read; supports Gerbert learning, not contemporary magic rumors.

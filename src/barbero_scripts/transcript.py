@@ -128,8 +128,8 @@ def utterances_from_deepgram(
             flags.append("date")
         if any(mark in text for mark in ('"', "“", "”", "«", "»")):
             flags.append("quotation")
-        words = re.findall(r"\b[A-ZÀ-ÖØ-Þ][\wÀ-ÿ'-]+\b", text)
-        if len(words) > 1:
+        names = re.findall(r"\b[A-ZÀ-ÖØ-Þ][\wÀ-ÿ'-]+\b", text)
+        if len(names) > 1:
             flags.append("named-entity")
         result.append(
             Utterance(

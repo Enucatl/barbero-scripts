@@ -10,6 +10,37 @@ from barbero_scripts.transcript import (
     utterances_from_deepgram,
 )
 from barbero_scripts.util import object_hash
+from barbero_scripts.workflow import initialize_transcript_uncertainties
+
+
+def test_provider_words_survive_named_entity_detection(tmp_path: Path) -> None:
+    """Preserve provider word evidence for the transcript uncertainty queue."""
+    response = {
+        "results": {
+            "utterances": [
+                {
+                    "start": 1,
+                    "end": 2,
+                    "transcript": "Dice Rodolfo Glabro",
+                    "confidence": 0.9,
+                    "words": [
+                        {
+                            "word": "rodolfo",
+                            "punctuated_word": "Rodolfo",
+                            "start": 1.2,
+                            "end": 1.5,
+                            "confidence": 0.6,
+                        }
+                    ],
+                }
+            ]
+        }
+    }
+    items = utterances_from_deepgram(response, [EditSegment(0, 5, 10, 15)])
+    assert items[0].words[0].text == "Rodolfo"
+    assert items[0].words[0].original_start == 11.2
+    assert "named-entity" in items[0].flags
+    initialize_transcript_uncertainties(tmp_path / "uncertainties.yaml", items, "fingerprint")
 
 
 def test_utterance_ids_and_original_timestamps_are_stable() -> None:

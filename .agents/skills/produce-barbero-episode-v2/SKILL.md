@@ -41,9 +41,10 @@ questions, allowed output paths, and completion checks. Workers return findings;
 owns shared ledgers and the English draft. Do not divide the final voice among chapter writers.
 
 Use fresh reviewers for source fidelity and listener experience. They may run in parallel with
-distinct report paths. Give them the actual materials and decisions, without the writer's
-self-assessment or the other review. If independent contexts are unavailable, perform separate
-reviews and disclose that limitation; do not label self-review independent.
+distinct report paths. The listener reviewer first reads only the English and audience brief,
+then consults the source, evidence, and decisions as described in the review reference. Give neither
+reviewer the writer's self-assessment or the other review. If independent contexts are unavailable,
+perform separate reviews and disclose that limitation; do not label self-review independent.
 
 ## Workflow
 
@@ -75,10 +76,14 @@ pass, repeat work only when changes, failures, or unresolved findings warrant it
 
 ## Resume and decisions
 
-Inspect saved artifacts and their recorded input hashes before choosing the next action. File
-existence alone does not establish completion. Reuse current source decisions, evidence, reviews,
-and approved edits. A changed source or ledger requires review of affected descendants, not a
-blanket restart or a hash-only refresh. Consult the phase references for the relevant contract.
+Inspect saved artifacts and relevant changes before choosing the next action. File existence alone
+does not establish completion. Reuse source decisions, evidence, reviews, and approved edits.
+For routine editorial revisions, check the actual diff, changed passages, and their narrative
+dependencies. Do not rehash every artifact or repeat source, ledger, and whole-episode audits when
+those inputs are unchanged. Existing hashes may remain as historical provenance; create or verify
+hashes only when needed to resolve a real input-version or patch-target ambiguity. This bounded
+revision policy takes precedence over the full-production bookkeeping in the phase references.
+A changed source or ledger requires review of affected descendants, not a blanket restart.
 
 Routine phrasing, grammatical repairs, and implementation choices need no approval. New factual
 departures, authoritative quotation substitutions, substantive cuts/additions, and title changes

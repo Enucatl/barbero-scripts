@@ -1,0 +1,391 @@
+- id: C-001
+  transcript:
+  - U-00031–U-00069
+  claim: The specific legend describes a universal social shutdown as 1000 approached, distinct from general
+    medieval expectation of the end.
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-002
+  - SRC-027
+  - SRC-028
+  conflicting_sources: []
+  status: resolved
+  research_note: Romantic texts establish legend; mass midnight panic lacks support. Broader apocalyptic
+    concerns remain debated. Do not call all such concerns disproved.
+- id: C-002
+  transcript:
+  - U-00070–U-00129
+  claim: Carducci and Lavallée vividly narrate collective panic; Lavallée 1844 edition and Michelet relationship.
+  centrality: supporting
+  supporting_sources:
+  - SRC-001
+  - SRC-002
+  - SRC-003
+  conflicting_sources: []
+  status: deferred
+  research_note: Texts recovered,1844 catalogue verified, exact 1844 passage not collated. Literal pupil
+    relationship not established; contextual characterization retained with explicit deferral.
+- id: C-003
+  transcript:
+  - U-00135–U-00157
+  claim: Sylvester II confirms Fulda privileges on 31 December 999 with future provisions and annual 12
+    denarii.
+  centrality: central
+  supporting_sources:
+  - SRC-004
+  - SRC-005
+  - SRC-006
+  conflicting_sources:
+  - SRC-004
+  status: resolved
+  research_note: Transmitted Fulda date/successors supported with recension limits; consecration differs
+    from election confirmation.12 denarii is Seeon 18 April 999. Group correction preserves administrative
+    future horizon.
+- id: C-004
+  transcript:
+  - U-00158–U-00162
+  claim: Gerbert of Aurillac was learned and associated with magic.
+  centrality: sampled-incidental
+  supporting_sources:
+  - SRC-035
+  conflicting_sources: []
+  status: deferred
+  research_note: Gerbert’s mathematical teaching supported by Burnett/Richer. Contemporary 999 magic suspicion
+    not verified; later reputation may underlie lecture. Proposed temporal moderation to later reputation
+    cannot claim precise origin.
+- id: C-005
+  transcript:
+  - U-00165–U-00182
+  claim: Tortona 999 brothers Adalberto and Erenzone lease monastic property by written libellus.
+  centrality: supporting
+  supporting_sources:
+  - SRC-007
+  - SRC-008
+  conflicting_sources: []
+  status: resolved
+  research_note: Edition regest/copy fragments confirm names/genre and unknown month. No surviving original.
+    Entrepreneur is explanatory analogy.
+- id: C-006
+  transcript:
+  - U-00173–U-00196
+  claim: Italy maintained notarial habits; recent mezzadria short terms contrast medieval labor scarcity
+    and long leases.
+  centrality: sampled-incidental
+  supporting_sources:
+  - SRC-008
+  conflicting_sources: []
+  status: deferred
+  research_note: Regional lease scholarship supports contextual comparison only; no complete verification
+    of general Europe/medieval universals or annual mezzadria eviction. Keep lecture comparison, not a
+    measured universal. Olmi title translated idiomatically.
+- id: C-007
+  transcript:
+  - U-00199–U-00208
+  claim: Tortona lease lasts 29 years, charges one-third grain and half wine, protects tenants with 20
+    soldi penalty.
+  centrality: central
+  supporting_sources:
+  - SRC-007
+  - SRC-008
+  conflicting_sources: []
+  status: deferred
+  research_note: 29 years and half wine recovered;20 soldi fragment exists. Grain share/exact penalty
+    mechanics not fully checked; no invented original. Retain contextual rendering.
+- id: C-008
+  transcript:
+  - U-00213–U-00225
+  claim: Farfa monks petition Otto in Rome; imperial abbey cannot be alienated and elects own abbot.
+  centrality: supporting
+  supporting_sources:
+  - SRC-009
+  conflicting_sources:
+  - SRC-009
+  status: resolved
+  research_note: Diploma issued Rome but narrates abbot meeting Otto at Farfa; Otto admits earlier alienation
+    to Bishop Hugh. Free-election detail not independently established in excerpt. Adviser retirement
+    comic hypothetical, not specific transaction.
+- id: C-009
+  transcript:
+  - U-00226–U-00240
+  claim: OttoIII grants Farfa perpetual protection 3 October 999 and invokes eventual judgment.
+  centrality: central
+  supporting_sources:
+  - SRC-009
+  conflicting_sources: []
+  status: resolved
+  research_note: Date and future sanction confirmed. Alongside us meaningful in original; future clauses
+    do not logically disprove all apocalyptic anxiety. Supports ongoing administration, not population-wide
+    belief.
+- id: C-010
+  transcript:
+  - U-00241–U-00260
+  claim: Contemporary annalists do not narrate the universal panic imagined by later writers.
+  centrality: central
+  supporting_sources:
+  - SRC-027
+  - SRC-028
+  conflicting_sources: []
+  status: resolved
+  research_note: Distinguish absent mass-panic evidence from absence of all eschatological concerns; broader
+    debate not fully adjudicated.
+- id: C-011
+  transcript:
+  - U-00264–U-00334
+  claim: Revelation late first-century authorship uncertain; thousand-year text underlies millenarian
+    reasoning.
+  centrality: supporting
+  supporting_sources:
+  - SRC-010
+  conflicting_sources: []
+  status: deferred
+  research_note: Text sequence supports interpretation but no AD 1000 date. Authorship/date/general sect
+    history not independently documented in initial dossier; supplement requested. Texas comparison cannot
+    establish frequency statistically.
+- id: C-012
+  transcript:
+  - U-00335–U-00361
+  claim: Abbo writes 998 to King Robert; discusses creed and Advent errors.
+  centrality: central
+  supporting_sources:
+  - SRC-011
+  - SRC-012
+  conflicting_sources:
+  - SRC-011
+  - SRC-012
+  status: resolved
+  research_note: Probably around 994, addressed Hugh and Robert. Creed omission is nor begotten, both
+    variants say Son; Advent not securely one day early. One grouped correction across chapter callbacks.
+- id: C-013
+  transcript:
+  - U-00362–U-00404
+  claim: Abbo recalls Paris preacher around 970, Richard/Lorraine rumor,908/970 GoodFriday 25 March coincidences.
+  centrality: supporting
+  supporting_sources:
+  - SRC-011
+  - SRC-012
+  - SRC-033
+  - SRC-034
+  conflicting_sources: []
+  status: resolved
+  research_note: Julian Easter calculation 900–1000 actually executed by investigator gives 908970981992;908
+    previousbefore 970 confirmed. Does not date Paris sermon or Richard rumor. Youngman rather than child;
+    around 970 historical date remains inference.
+- id: C-014
+  transcript:
+  - U-00407–U-00417
+  claim: Predictions were immediately silenced and could not spread.
+  centrality: central
+  supporting_sources: []
+  conflicting_sources:
+  - SRC-011
+  - SRC-013
+  - SRC-027
+  - SRC-028
+  status: resolved
+  research_note: Abbo explicitly says rumor filled almost whole world, rhetorical but incompatible with
+    no circulation. Propose learned resistance without universal success claim. Repeat affects C 016.
+- id: C-015
+  transcript:
+  - U-00418–U-00469
+  claim: Scripture and Augustine reject knowing the date; Gospel must first reach all peoples.
+  centrality: central
+  supporting_sources:
+  - SRC-029
+  - SRC-030
+  - SRC-031
+  - SRC-032
+  conflicting_sources:
+  - SRC-031
+  status: resolved
+  research_note: Individual clauses recovered; AugustineLetter 197§3 calculatingtimes,§4 Gospelprerequisite,19912.46
+    unpreachedpeoples. First priority unproved; notnextyear stronger than no-known-date and allows rapid
+    evangelization. Propose moderated inference; do not claim scripture mentions Antichrist here.
+- id: C-016
+  transcript:
+  - U-00470–U-00478
+  claim: Millenarian concerns had no room to spread because elites opposed them.
+  centrality: central
+  supporting_sources:
+  - SRC-011
+  - SRC-014
+  conflicting_sources:
+  - SRC-011
+  - SRC-014
+  status: resolved
+  research_note: Learned opposition supported, universal suppression not. Thiota attracts clerics too;
+    preserve distinction between institutional condemnation and unanimous elite belief.
+- id: C-017
+  transcript:
+  - U-00479–U-00503
+  claim: Thiota at Mainz 847 predicts next year, attracts only poor people and is publicly flogged.
+  centrality: central
+  supporting_sources:
+  - SRC-014
+  conflicting_sources:
+  - SRC-014
+  status: resolved
+  research_note: Same year, not next. Clerics followed too; plebeium not automatically poverty. Bishops
+    at StAlban’s examine reported confession; public flogging supported, square/expulsion not recovered.
+    Group corrective passage preserves dramatization and coercion.
+- id: C-018
+  transcript:
+  - U-00541–U-00565
+  claim: Sigebert groups 1000 earthquake/1002 comet and serpent; personally millenarian.
+  centrality: supporting
+  supporting_sources:
+  - SRC-015
+  conflicting_sources: []
+  status: deferred
+  research_note: Entry grouping/no explicit panic supported; exact source chain and personal millenarianism
+    not demonstrated. Retain thesis as Barbero interpretation; propose qualify personal identity.
+- id: C-019
+  transcript:
+  - U-00566–U-00586
+  claim: Guillaume Godel, a Cistercian c 1170, invents collective fear under 1010.
+  centrality: central
+  supporting_sources:
+  - SRC-016
+  - SRC-017
+  conflicting_sources:
+  - SRC-016
+  - SRC-017
+  status: resolved
+  research_note: Traditional attribution rejected; anonymous chronicle. Full entry/source chain not recovered;
+    Roy links fear to Jerusalem. Qualify authorship and strength of source inference, without silently
+    inventing a new genealogy.
+- id: C-020
+  transcript:
+  - U-00595–U-00607
+  claim: Trithemius himself adds fear to Sigebert in Renaissance chronicle.
+  centrality: central
+  supporting_sources:
+  - SRC-015
+  - SRC-018
+  conflicting_sources:
+  - SRC-018
+  status: resolved
+  research_note: Annales transmitted under his name contains fear; distinct Chronica lacks it, interpolation
+    unresolved. Proposed attribution qualification, not certainty of later forgery.
+- id: C-021
+  transcript:
+  - U-00621–U-00659
+  claim: Post 1000 national literatures and culture encourage a fear/liberation origin story.
+  centrality: central
+  supporting_sources:
+  - SRC-019
+  - SRC-020
+  - SRC-021
+  conflicting_sources: []
+  status: resolved
+  research_note: Historiographical interpretation; not a universal statement that vernacular culture/nations
+    cannot predate 1000. Preserve historians’ viewpoint and examples.
+- id: C-022
+  transcript:
+  - U-00663–U-00707
+  claim: Bettinelli 1773 Risorgimento d’Italia explains revival after terror.
+  centrality: supporting
+  supporting_sources:
+  - SRC-019
+  - SRC-020
+  conflicting_sources: []
+  status: resolved
+  research_note: Work dated 1773, published 1775; proposal a book dated 1773. Two excerpt groups recovered;
+    arts sentence unresolved Q 034.
+- id: C-023
+  transcript:
+  - U-00725–U-00807
+  claim: Anticlerical ideology promotes legend; Catholic Plaine 1873 refutes it; political allies can
+    make bad history.
+  centrality: central
+  supporting_sources:
+  - SRC-021
+  - SRC-022
+  conflicting_sources: []
+  status: resolved
+  research_note: Interpretation not exhaustive camps.1873 critique supported; absolute first not demonstrated.
+    PiusIX/Carducci judgments are explicit speaker opinion. Technical anti-Modernism chronology not researched,
+    avoid strengthening term.
+- id: C-024
+  transcript:
+  - U-00819–U-00829
+  claim: Gouguenheim’s terrors book very recent; name suggests Jewish ancestry; Catholic identity.
+  centrality: supporting
+  supporting_sources:
+  - SRC-022
+  - SRC-023
+  conflicting_sources:
+  - SRC-022
+  - SRC-023
+  status: resolved
+  research_note: Book 1999,14 years before 2013 lecture. Ancestry from surname unsupported; religious
+    intensity not established as neutral biography. Propose remove speculative aside/qualify ideological
+    reading.
+- id: C-025
+  transcript:
+  - U-00830–U-00849
+  claim: Gouguenheim criticizes Duby for reintroducing diffuse millennial anxiety.
+  centrality: central
+  supporting_sources:
+  - SRC-022
+  - SRC-023
+  - SRC-027
+  conflicting_sources: []
+  status: resolved
+  research_note: Recognizable dispute, not literal dialogue; do not equate Duby with universal midnight
+    panic.
+- id: C-026
+  transcript:
+  - U-00856–U-00873
+  claim: Aristote 2008/5 years earlier claims major Greek-to-Latin center at MontSaintMichel, including
+    Ptolemy.
+  centrality: central
+  supporting_sources:
+  - SRC-024
+  - SRC-025
+  conflicting_sources:
+  - SRC-026
+  status: resolved
+  research_note: 2008 fits lecture 2013. No evidence Jacques worked there; holdings include Arabic translations.
+    Ptolemy not corroborated. Proposal attributed Aristotle thesis, not discovery.
+- id: C-027
+  transcript:
+  - U-00875–U-00884
+  claim: Gouguenheim argues Arabic unfit for science, Arabs lack scientific mentality, Europe owes Islam
+    nothing.
+  centrality: central
+  supporting_sources:
+  - SRC-025
+  conflicting_sources:
+  - SRC-026
+  status: deferred
+  research_note: Harsh formulations unrecovered; review confirms strong linguistic/transfer thesis, not
+    exact equivalence. Preserve Barbero partial-reading disclaimer; propose accurate bounded paraphrase
+    without unverifiable claims about people’s mentality.
+- id: C-028
+  transcript:
+  - U-00885–U-00892
+  claim: Terrors book was Gouguenheim’s next book after Aristote.
+  centrality: central
+  supporting_sources: []
+  conflicting_sources:
+  - SRC-022
+  - SRC-023
+  - SRC-024
+  status: resolved
+  research_note: Chronology reversed 1999/2008; group callback repair with intro date.
+- id: C-029
+  transcript:
+  - U-00893–U-00907
+  claim: Myths persist when useful in current ideological struggles.
+  centrality: central
+  supporting_sources:
+  - SRC-001
+  - SRC-002
+  - SRC-019
+  - SRC-021
+  - SRC-022
+  conflicting_sources: []
+  status: resolved
+  research_note: Speaker’s interpretive synthesis; not causal law derived from all cases. Finale adaptation
+    authorized by release order.

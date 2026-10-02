@@ -1,0 +1,3799 @@
+schema_version: 1
+base_script: &id004
+  path: script.draft.en.md
+  sha256: eb3bbc91f2be481069fd91419d90368af25171757e307801f34bbb6c7ccea10c
+input_hashes:
+  ../script.it.md: 40d4433f29e3d0da07235e91730b9ba487954ec6d39fd53e0ff19f21ec209bb9
+  quotes.yaml: 88d14227ff6d18c54332ba0ca7b018e87842b21f3b7f415a2098692d12dd6971
+  claims.yaml: 83b041304eeea35bbb8bb1a7f01d95738efde42b0da403dab2561c5868654f33
+  sources.yaml: 75ad7e709fdfdbd27df6024a5a1f36f49de2254edfe392895a655be462829759
+  script.before-audience-revision.en.md: 56a5b645814913a7ffef8b30b9c8d204df122ffe45469c3adb406829724a6cc7
+items:
+- id: ED-037
+  kind: cut
+  chapter_id: CH-001
+  transcript: &id005
+  - U-00001–U-00069
+  current_text: 'Our subject this time is perhaps the least sensational of the three. When I started telling
+    friends what I was planning to talk about, I''d say, “You know, the right of the first night, or the
+    idea of a flat earth—it isn''t necessarily true that people in the Middle Ages…” And they looked quite
+    surprised.
+
+
+    The fears of the year 1000 are a little more out of fashion. Perhaps not everyone still believes in
+    them. Even online, if you search for the fears or terrors of the year 1000, most of the sites you
+    find talk about the *legend* of those fears. So perhaps I''m preaching to the converted. Still, I
+    think it''s interesting to see how an image of the Middle Ages was put together, an image that turns
+    out to be entirely legendary, entirely invented, and that learned people believed for a very long
+    time. And did they ever believe it.'
+  current_text_sha256: c5835c8d10ae4d0b19cf664fda88235ccfc1eb8c84ce0b919a871d491203d11d
+  proposed_text: 'When I started telling friends what I was planning to talk about, I''d say, “You know,
+    the right of the first night, or the idea of a flat earth—it isn''t necessarily true that people in
+    the Middle Ages…” And they looked quite surprised.
+
+
+    Today we''re looking at the terrors of the year 1000: the story of a world brought to a standstill
+    because everyone thought it was about to end. How did that image of the Middle Ages take shape? And
+    how did learned people come to believe an invented story for so long? And did they ever believe it.'
+  reason: Name and explain the subject immediately, then establish the puzzle of scholarly belief. Remove
+    the least-sensational, unfashionable, internet, and preaching-to-the-converted apologies; preserve
+    the friends anecdote and emphatic comic beat. This changes the opening emphasis under issue 2, not
+    the later scope argument.
+  evidence: &id006
+  - Editorial audience revision, user issues 2, 6; exact change recorded in audience-edits.json. No new
+    historical assertion or authoritative quotation substitution.
+  protected_quote_spans: &id007 []
+  recommendation: apply
+  decision: accept
+  decision_note: User explicitly authorized implementation for issues 2, 6 on 2026-10-02 in the six-point
+    revision request. Issue 5 excluded. Exact wording implements that authorization.
+- id: ED-038
+  kind: cut
+  chapter_id: CH-001
+  transcript: &id008
+  - U-00001–U-00069
+  current_text: Since this is an old story, and perhaps a slightly unfashionable one, let me remind you
+    exactly what we're talking about.
+  current_text_sha256: af80f785991c41361687ccd99479725415ad0808dc08d20b44f1eea4c6587d7f
+  proposed_text: Let's be clear about what that story claims.
+  reason: Remove another dismissal of the topic and introduce the existing definition directly, without
+    repeating its opening phrase.
+  evidence: &id009
+  - Editorial audience revision, user issues 2, 6; exact change recorded in audience-edits.json. No new
+    historical assertion or authoritative quotation substitution.
+  protected_quote_spans: &id010 []
+  recommendation: apply
+  decision: accept
+  decision_note: User explicitly authorized implementation for issues 2, 6 on 2026-10-02 in the six-point
+    revision request. Issue 5 excluded. Exact wording implements that authorization.
+- id: ED-039
+  kind: cut
+  chapter_id: CH-002
+  transcript: &id011
+  - U-00070–U-00129
+  current_text: Let me read a few lines from the Italian poet Carducci. He writes this in the first of
+    his discourses on the development of the nation's literature. It's a history of Italian literature.
+    Why should the terrors of the year 1000 matter to him there? We'll come back to that. For now, let's
+    hear Carducci. This is a man who knows how to write.
+  current_text_sha256: 50a7d44f3496ac292eaeb7c130721765b0b7a1697735efe6d82f36be3305ba1e
+  proposed_text: Let me read a few lines from the Italian poet Carducci. He's writing about the history
+    of Italian literature. Why would the terrors of the year 1000 belong in a history of literature? We'll
+    come back to that. For now, let's hear Carducci. This is a man who knows how to write.
+  reason: Make the national-literature connection audible at first mention; drop the formal discourse
+    locator, which adds reference burden without advancing this argument. Preserve the promised return
+    and the praise that sets up the quotation.
+  evidence: &id012
+  - Editorial audience revision, user issues 3, 6; exact change recorded in audience-edits.json. No new
+    historical assertion or authoritative quotation substitution.
+  protected_quote_spans: &id013 []
+  recommendation: apply
+  decision: accept
+  decision_note: User explicitly authorized implementation for issues 3, 6 on 2026-10-02 in the six-point
+    revision request. Issue 5 excluded. Exact wording implements that authorization.
+- id: ED-040
+  kind: cut
+  chapter_id: CH-003
+  transcript: &id014
+  - U-00130–U-00240
+  current_text: 'The abbot rents the land to the two brothers for a period of…
+
+
+    Let me prepare you for this. Until fairly recently, sharecropping was common in the Italian countryside.
+    On the face of it, the arrangement looks like an equal partnership. In practice, it heavily favors
+    the landowner. The contract normally lasts one year. At the end of the harvest, at Martinmas, the
+    tenant settles up, and if the owner wants to throw him out, he can. Think of Ermanno Olmi''s film
+    *The Tree of Wooden Clogs*, which some of you may have seen.
+
+
+    In the Middle Ages, things aren''t like that. There aren''t many hands to work the land. One of a
+    landowner''s great problems is finding people who will stay. That''s especially true for monks, who
+    have other things to think about besides constantly looking after their fields. If anything, you''d
+    like to make the workers stay, if you can, rather than throw them out. So medieval leases tend to
+    run for a long time.'
+  current_text_sha256: 70d1674aaa4e45d27280b4f2c80df3e46e2ed0ce4c1cd43356806608a253714e
+  proposed_text: Now, how long is this lease? Remember, in the Middle Ages, there aren't many people available
+    to work the land. A landowner needs workers who'll stay. That's especially true for monks, who have
+    other things to do besides looking after their fields. If anything, you'd like to make the workers
+    stay, if you can, rather than throw them out. So medieval leases tend to run for a long time.
+  reason: Remove the sharecropping comparison, Martinmas, and film reference as authorized. Keep the labor-shortage
+    explanation, the monks’ incentive, and the setup for the twenty-nine-year term. The later crop shares,
+    penalty, and inference remain unchanged.
+  evidence: &id015
+  - Editorial audience revision, user issues 3, 6; exact change recorded in audience-edits.json. No new
+    historical assertion or authoritative quotation substitution.
+  protected_quote_spans: &id016 []
+  recommendation: apply
+  decision: accept
+  decision_note: User explicitly authorized implementation for issues 3, 6 on 2026-10-02 in the six-point
+    revision request. Issue 5 excluded. Exact wording implements that authorization.
+- id: ED-041
+  kind: cut
+  chapter_id: CH-004
+  transcript: &id017
+  - U-00241–U-00334
+  current_text: That's one possible line of reasoning. So possible, if you'll allow me a brief digression,
+    that people still follow it today. We don't necessarily know any more about these things than people
+    did in the Middle Ages. Every so often, a sect appears and announces that the world is about to end.
+    Admittedly, that happens more readily in Protestant Texas than here in Italy. But it still happens.
+    The followers give all their property to the leader, and sometimes they even commit suicide together.
+  current_text_sha256: 9ade87a2768ffcd6a1f65396dad2a45ed36ce3fb89ddf2fc8c70d295644d7fc2
+  proposed_text: That's one way to read it. And people still read it that way today. We don't necessarily
+    know any more about these things than people did in the Middle Ages. Every so often, a sect appears
+    and announces that the world is about to end. This may happen in Texas. The followers give all their
+    property to the leader, and sometimes they even commit suicide together.
+  reason: Remove the Protestant label and the comparison with Italy, using the user’s suggested Texas
+    phrasing. Smooth the translated “so possible” lead-in; retain the modern aside and its consequences.
+  evidence: &id018
+  - Editorial audience revision, user issues 4, 6; exact change recorded in audience-edits.json. No new
+    historical assertion or authoritative quotation substitution.
+  protected_quote_spans: &id019 []
+  recommendation: apply
+  decision: accept
+  decision_note: User explicitly authorized implementation for issues 4, 6 on 2026-10-02 in the six-point
+    revision request. Issue 5 excluded. Exact wording implements that authorization.
+- id: ED-042
+  kind: cut
+  chapter_id: CH-007
+  transcript: &id020
+  - U-00504–U-00620
+  current_text: 'How much of our time have I used up? A good deal, fortunately for you. But remember where
+    we started. We began with writers of real stature: Carducci, respected and authoritative historians
+    of their day. They told us about collective terror in the last months and days before the year 1000,
+    about churches packed with frightened people. I don''t need to go through it again.'
+  current_text_sha256: e88b584d62c27b024cf5c6f8e43e84f064a11f98968d85c0c971eab25f24efd3
+  proposed_text: 'Remember where we started: writers of real stature, Carducci and respected historians
+    of his day. They told us about collective terror in the last months and days before the year 1000,
+    about churches packed with frightened people.'
+  reason: Remove elapsed-time and recap apologies that make the episode feel as if it is winding down.
+    Keep the return to the opening evidence and repair the list of poet and historians.
+  evidence: &id021
+  - Editorial audience revision, user issues 1, 6; exact change recorded in audience-edits.json. No new
+    historical assertion or authoritative quotation substitution.
+  protected_quote_spans: &id022 []
+  recommendation: apply
+  decision: accept
+  decision_note: User explicitly authorized implementation for issues 1, 6 on 2026-10-02 in the six-point
+    revision request. Issue 5 excluded. Exact wording implements that authorization.
+- id: ED-043
+  kind: cut
+  chapter_id: CH-008
+  transcript: &id023
+  - U-00621–U-00724
+  current_text: 'After, obviously. Think of the history of Italian literature we learn at school in Italy.
+    It all begins after 1000. Before that, nothing.
+
+
+    So these early scholars, putting together their great surveys, find that the Middle Ages up to about
+    1000 have left relatively little evidence. Not much seems to happen. Afterward, everything bursts
+    into life. Provençal literature, French literature in the *langue d''oïl*, then Italian literature.
+    The troubadours, all of it. The great cathedrals. A great civilization coming into being after the
+    year 1000.'
+  current_text_sha256: 7603276067976be20284b87d27cf6895ec1da979d526bdcd2ebaeddba2b7bdcd
+  proposed_text: 'After, obviously. Think of the history of Italian literature taught in Italian schools.
+    It all begins after 1000. Before that, nothing.
+
+
+    So these early scholars, putting together their histories, find relatively little evidence from before
+    the year 1000. Not much seems to happen. Afterward, everything bursts into life: French literature,
+    then Italian literature. The great cathedrals. A whole civilization coming into being after the year
+    1000.'
+  reason: Remove the Provençal/langue d’oïl/troubadour catalog while retaining the literary and architectural
+    examples, chronological order, and scholars’ viewpoint established immediately before this passage.
+    Clarify the Italian-school reference for American listeners.
+  evidence: &id024
+  - Editorial audience revision, user issues 3, 6; exact change recorded in audience-edits.json. No new
+    historical assertion or authoritative quotation substitution.
+  protected_quote_spans: &id025 []
+  recommendation: apply
+  decision: accept
+  decision_note: User explicitly authorized implementation for issues 3, 6 on 2026-10-02 in the six-point
+    revision request. Issue 5 excluded. Exact wording implements that authorization.
+- id: ED-044
+  kind: cut
+  chapter_id: CH-008
+  transcript: &id026
+  - U-00621–U-00724
+  current_text: Let me quote a book that matters enormously in the history of Italian culture. Toward
+    the end of the eighteenth century, Abbot Bettinelli publishes an early, sweeping history of Italian
+    literature and culture. Bettinelli is no minor figure. His book is extremely important. You might
+    even call it prophetic. Published in 1773, its title is *Risorgimento d'Italia*—the revival of Italy—*in
+    Learning, the Arts, and Customs After the Year One Thousand*.
+  current_text_sha256: b8e34fc3fbfb28f8e6a936f93ca3c2241794a1b4b2bf591303e6a7374d74db65
+  proposed_text: 'Take Abbot Bettinelli, an important figure in Italian culture. In 1773, he publishes
+    a sweeping history of Italian literature and culture. Listen to the title: *The Revival of Italy in
+    Learning, the Arts, and Customs After the Year One Thousand*.'
+  reason: Remove repeated importance claims and the unexplained prophetic/Risorgimento wordplay. Give
+    the full title in English so its “after the year 1000” premise carries the argument. Retain the user’s
+    existing publication date.
+  evidence: &id027
+  - Editorial audience revision, user issues 3, 6; exact change recorded in audience-edits.json. No new
+    historical assertion or authoritative quotation substitution.
+  protected_quote_spans: &id028 []
+  recommendation: apply
+  decision: accept
+  decision_note: User explicitly authorized implementation for issues 3, 6 on 2026-10-02 in the six-point
+    revision request. Issue 5 excluded. Exact wording implements that authorization.
+- id: ED-045
+  kind: cut
+  chapter_id: CH-008
+  transcript: &id029
+  - U-00621–U-00724
+  current_text: And remember where Carducci writes his version? I told you earlier, but you've forgotten.
+    In his first discourse on the development of the nation's literature.
+  current_text_sha256: 3ff8b8f078602cd49fe88ca37a44877790feb6b48917ac5570a19ad9df61b21d
+  proposed_text: And remember where Carducci tells this story? I told you earlier, but you've forgotten.
+    In his history of Italian literature.
+  reason: Align the callback with the simpler introduction and retain the joke about the audience forgetting.
+  evidence: &id030
+  - Editorial audience revision, user issues 3, 6; exact change recorded in audience-edits.json. No new
+    historical assertion or authoritative quotation substitution.
+  protected_quote_spans: &id031 []
+  recommendation: apply
+  decision: accept
+  decision_note: User explicitly authorized implementation for issues 3, 6 on 2026-10-02 in the six-point
+    revision request. Issue 5 excluded. Exact wording implements that authorization.
+- id: ED-046
+  kind: cut
+  chapter_id: CH-008
+  transcript: &id032
+  - U-00621–U-00724
+  current_text: 'Well, we''re nearly there.
+
+
+    '
+  current_text_sha256: 8b898a3749b0d1112f8ce994ad834ccb32b79d81ff7136c69efb097549a035bd
+  proposed_text: ''
+  reason: Remove a premature closing announcement before the ideological argument.
+  evidence: &id033
+  - Editorial audience revision, user issues 1; exact change recorded in audience-edits.json. No new historical
+    assertion or authoritative quotation substitution.
+  protected_quote_spans: &id034 []
+  recommendation: apply
+  decision: accept
+  decision_note: User explicitly authorized implementation for issues 1 on 2026-10-02 in the six-point
+    revision request. Issue 5 excluded. Exact wording implements that authorization.
+- id: ED-047
+  kind: cut
+  chapter_id: CH-009
+  transcript: &id035
+  - U-00725–U-00807
+  current_text: We've made good progress, I'd say. There's one more aspect I'd like to emphasize. It may
+    make this business feel a little more relevant than all the talk about twelfth-century monks I've
+    inflicted on you.
+  current_text_sha256: f186426721cb569528ed9daf3bd58f22f17abce0d06c2b3f81d8a4829cdd757f
+  proposed_text: ''
+  reason: Remove the progress report and apology for medieval detail. The next sentence already introduces
+    the ideological battles directly.
+  evidence: &id036
+  - Editorial audience revision, user issues 1, 2, 6; exact change recorded in audience-edits.json. No
+    new historical assertion or authoritative quotation substitution.
+  protected_quote_spans: &id037 []
+  recommendation: apply
+  decision: accept
+  decision_note: User explicitly authorized implementation for issues 1, 2, 6 on 2026-10-02 in the six-point
+    revision request. Issue 5 excluded. Exact wording implements that authorization.
+- id: ED-048
+  kind: cut
+  chapter_id: CH-009
+  transcript: &id038
+  - U-00725–U-00807
+  current_text: 'There''s one last thing I''d like to tell you, which takes this a little further and
+    brings it closer to our own time.
+
+
+    '
+  current_text_sha256: 498364c61f4c664a9b183c973dd6bdc1b68ab2ef9dab6b52d9ee908f13c2720e
+  proposed_text: ''
+  reason: Remove the extra “one last thing” announcement; the next chapter already establishes the modern
+    continuation.
+  evidence: &id039
+  - Editorial audience revision, user issues 1; exact change recorded in audience-edits.json. No new historical
+    assertion or authoritative quotation substitution.
+  protected_quote_spans: &id040 []
+  recommendation: apply
+  decision: accept
+  decision_note: User explicitly authorized implementation for issues 1 on 2026-10-02 in the six-point
+    revision request. Issue 5 excluded. Exact wording implements that authorization.
+- id: ED-049
+  kind: cut
+  chapter_id: CH-010
+  transcript: &id041
+  - U-00808–U-00907
+  current_text: 'Why is this interesting? Because I see a militant defense of Christian culture in Gouguenheim’s
+    work. And the book that made him famous in France wasn’t the one about the terrors of the year 1000.
+
+
+    <!-- C-026 -->
+
+
+    It was a book published in 2008, called *Aristotle at Mont Saint-Michel*. You know Mont Saint-Michel,
+    the famous abbey in Normandy, standing out in the sea, cut off from the mainland by the tide.
+
+
+    <!-- Q-039 -->
+
+
+    In that book, Gouguenheim makes a claim. And I say “claim” because the book caused furious arguments.
+    Eminent scholars called it rubbish. Other eminent scholars said it was very interesting. I haven''t
+    read the whole book yet, so I''m only telling you what I know about it in outline.
+
+
+    Gouguenheim argues that, in the Middle Ages, Mont Saint-Michel was an important center for translating
+    Aristotle directly from Greek into Latin.
+
+
+    <!-- Q-040; C-027 -->
+
+
+    I think you can already see the implications. But Gouguenheim spells them out in his book. Those pages
+    I have seen. I went and looked at them. What he''s saying, as I''m summarizing it, is this: the story
+    we''ve always been told, that we owe our access to Greek philosophy and science to the Arabs, isn''t
+    true. We Christians translated them ourselves, directly from Greek. We had no need of the Arabs.
+
+
+    And, to make things even clearer, at the end of the book his argument, as I''m putting it here, is
+    that Arabic is completely unsuited to discussing scientific subjects, that the Arabs don''t have the
+    mentality of a scientific people, and that it was therefore absurd to imagine we owed them anything.
+    We owe nothing to medieval Islamic culture.
+
+
+    You can see that this is just a tiny bit provocative. And it did indeed set off furious debates in
+    France.
+
+
+    <!-- Q-041; C-028 -->
+
+
+    What strikes me is that the same scholar who writes *Aristotle at Mont Saint-Michel* had already written
+    the earlier book to remind us, in effect: the terrors of the year 1000 never happened. The secularists
+    have muddled our thinking again. There''s too much talk about medieval millenarianism. None of it
+    is true.
+
+
+    '
+  current_text_sha256: 49d5ffe7a07c8dbcf732377d9a54d9b134bc0533deb92bf384e78e2f02eceac7
+  proposed_text: 'Why does this interest me? Because I see a militant defense of Christian culture in
+    Gouguenheim''s work.
+
+
+    <!-- C-026 -->
+
+
+    <!-- Q-039 -->
+
+
+    <!-- Q-040; C-027 -->
+
+
+    <!-- Q-041; C-028 -->
+
+
+    '
+  reason: Remove the entire Aristotle/Greek/Arabic controversy, the fame-and-other-book setup, and the
+    same-author return from that controversy. Retain the relevant end-times historiography and Barbero’s
+    explicitly attributed reading of Gouguenheim’s stance. Preserve all four cut-section provenance comments
+    in their original order as nonspoken markers.
+  evidence: &id042
+  - Editorial audience revision, user issues 1, 6; exact change recorded in audience-edits.json. No new
+    historical assertion or authoritative quotation substitution.
+  protected_quote_spans: &id043 []
+  recommendation: apply
+  decision: accept
+  decision_note: User explicitly authorized implementation for issues 1, 6 on 2026-10-02 in the six-point
+    revision request. Issue 5 excluded. Exact wording implements that authorization.
+- id: ED-050
+  kind: cut
+  chapter_id: CH-010
+  transcript: &id044
+  - U-00808–U-00907
+  current_text: It's an extraordinarily striking mechanism. In the other two episodes of this series,
+    we've seen similar cases—perhaps rather more entertaining ones, God willing—with the right of the
+    first night and the flat earth. This brings our three encounters to a close. That's what I had to
+    tell you this time, and here I'll stop. Thank you.
+  current_text_sha256: 9a15c546c3e01606a56148d090fc90410511ffbf6d10bac1f19d2f49990ae84b
+  proposed_text: It's a striking process. We saw it in the other two episodes of this series, with the
+    right of the first night and the flat earth. That brings Unbelievable Middle Ages to a close. Thank
+    you.
+  reason: Keep one clear series farewell and the connection among all three episodes. Remove repeated
+    stopping announcements and the suggestion that the other subjects were more entertaining.
+  evidence: &id045
+  - Editorial audience revision, user issues 1, 2, 6; exact change recorded in audience-edits.json. No
+    new historical assertion or authoritative quotation substitution.
+  protected_quote_spans: &id046 []
+  recommendation: apply
+  decision: accept
+  decision_note: User explicitly authorized implementation for issues 1, 2, 6 on 2026-10-02 in the six-point
+    revision request. Issue 5 excluded. Exact wording implements that authorization.
+- id: ED-051
+  kind: fact
+  chapter_id: CH-005
+  transcript:
+  - U-00335–U-00417
+  current_text: But whenever these ideas crop up, they're immediately silenced. They have no chance to
+    spread or circulate, because the shepherds of the Church step in at once and stop this kind of reasoning.
+  current_text_sha256: 7ccc591f5e73f2683114e0d123d5098947aa51643a6fa5cdf04d0de5814c7a2b
+  proposed_text: The churchmen in these accounts push back against the predictions. That doesn't mean
+    nobody was anxious about the end of the world. But anxiety, or even a preacher announcing a date,
+    is a different thing from the story of an entire society stopping work in 999.
+  reason: Approved by the user. Distinguish clerical opposition to predictions from proof that fears could
+    not spread; preserve the specific argument against universal paralysis in 999.
+  evidence:
+  - User-approved issue-5 proposal and explicit correction of the closing disclaimer; prior audience source
+    review assessed these scope clarifications.
+  protected_quote_spans: []
+  recommendation: apply
+  decision: accept
+  decision_note: User approved the other changes and instructed removal of the taking-sides sentence because
+    it concerned the deleted Aristotle dispute.
+- id: ED-052
+  kind: fact
+  chapter_id: CH-006
+  transcript:
+  - U-00418–U-00503
+  current_text: Let's take stock again. Throughout the Middle Ages, millenarian tensions, anxieties about
+    the end of the world, do appear from time to time. But they have no room to spread, because the people
+    at the top won't accept them. Let me give you an example. These things can happen quite often, but
+    they remain contained.
+  current_text_sha256: 1df8f951b4114308948f8b0c5c7e8cd6f9cf56a30282c7479c7582ea90d4d865
+  proposed_text: Let's take stock again. Throughout the Middle Ages, anxieties about the end of the world
+    do appear from time to time. Church leaders oppose attempts to predict the date. That opposition doesn't
+    mean the fears never spread. Let me give you an example of a prediction that attracts followers, and
+    how the authorities respond.
+  reason: Approved by the user. Introduce Thiota as an example of a prediction attracting followers and
+    the authorities responding, without equating suppression with the absence of fear.
+  evidence:
+  - User-approved issue-5 proposal and explicit correction of the closing disclaimer; prior audience source
+    review assessed these scope clarifications.
+  protected_quote_spans: []
+  recommendation: apply
+  decision: accept
+  decision_note: User approved the other changes and instructed removal of the taking-sides sentence because
+    it concerned the deleted Aristotle dispute.
+- id: ED-053
+  kind: cut
+  chapter_id: CH-010
+  transcript:
+  - U-00808–U-00907
+  current_text: I'm not taking sides here. The terrors never happened; that's perfectly clear.
+  current_text_sha256: 4b924cd4b5754cb2ebd4ae0b17aa287438e0c558a1f1b15c6a6a77ff03bef380
+  proposed_text: The story of a whole society coming to a halt in 999 is a legend; that's perfectly clear.
+  reason: The user clarified that taking sides referred to the removed Aristotle/Greek/Arabic dispute
+    and authorized deleting that sentence. Apply the approved remaining clarification that the rejected
+    legend concerns a whole society stopping in 999.
+  evidence:
+  - User-approved issue-5 proposal and explicit correction of the closing disclaimer; prior audience source
+    review assessed these scope clarifications.
+  protected_quote_spans: []
+  recommendation: apply
+  decision: accept
+  decision_note: User approved the other changes and instructed removal of the taking-sides sentence because
+    it concerned the deleted Aristotle dispute.
+history:
+- base_script:
+    path: script.draft.en.md
+    sha256: 0b0eea65a915bd9a29dd6be7ac2ab29474208db1e609153f1871e7d836c9707f
+  input_hashes:
+    ../script.it.md: 40d4433f29e3d0da07235e91730b9ba487954ec6d39fd53e0ff19f21ec209bb9
+    brief.md: d79766e2f6c838cfa041e304d6bb64284ebefc84f4f3414acaa65a0c85c9c3f6
+    quotes.yaml: 88d14227ff6d18c54332ba0ca7b018e87842b21f3b7f415a2098692d12dd6971
+    claims.yaml: 83b041304eeea35bbb8bb1a7f01d95738efde42b0da403dab2561c5868654f33
+    sources.yaml: 75ad7e709fdfdbd27df6024a5a1f36f49de2254edfe392895a655be462829759
+  items:
+  - id: ED-001
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00138–U-00157
+    current_text: 'And, as luck would have it, we have a papal bull dated December 31, 999. On that day,
+      Pope Sylvester II confirms the privileges of a great German monastery, Fulda. The abbot has asked
+      Rome to confirm various privileges, and the pope hands him this document, dated December 31, 999.
+      In effect, he tells him:
+
+
+      “I confirm all your monastery''s privileges, for you and your successors, on condition that every
+      future abbot, once elected, comes to Rome to ask for confirmation of his election. What''s more,
+      in exchange for these privileges, you monks of Fulda must make an annual payment of twelve denarii
+      to Rome. Every year, from now on.”
+
+
+      At least these two aren''t expecting the end of the world, apparently.'
+    current_text_sha256: f483fecf4c52101c81d54cbf9bcab37f8118fe233bbd10ce5d340f3a574544b9
+    proposed_text: 'And, as luck would have it, a papal privilege has come down to us dated December 31,
+      999. Pope Sylvester II confirms the privileges of a great German monastery, Fulda, at its abbot’s
+      request. In effect, he tells him:
+
+
+      “I confirm your monastery’s privileges for you and your successors. And every future abbot must
+      receive his consecration from Rome.”
+
+
+      They’re making arrangements for the future, right on the threshold of the year 1000.'
+    reason: Fulda’s transmitted privilege anticipates successors but specifies consecration, not election
+      confirmation. Twelve denarii belong to neighboring Seeon text. Preserve example while avoiding invented
+      personal delivery and stronger-than-document belief inference.
+    evidence:
+    - Q-005
+    - Q-006
+    - Q-007
+    - C-003
+    - SRC-004
+    - SRC-005
+    - SRC-006
+    protected_quote_spans: &id001 []
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-002
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00212–U-00215
+    current_text: It's a diploma, an official charter, issued by Emperor Otto III. That year, Otto has
+      gone to Rome on various business of his own. He arrives, and naturally petitioners crowd around
+      him, asking for donations, confirmations, charters, grants, and so on. Among them are the monks
+      of Farfa.
+    current_text_sha256: cc5844e57b25a7d88e88b87223508597181a85c810a106e25617170c14b11115
+    proposed_text: It's a diploma, an official charter, issued by Emperor Otto III. That year, Otto is
+      in Italy on various business of his own. People seek donations, confirmations, charters, grants,
+      and so on. The abbot of Farfa approaches him at the monastery, asking him to protect its privileges.
+    reason: Diploma is issued at Rome but narrates abbot’s approach at Farfa. Preserve administrative
+      scene without conflating issue place and meeting.
+    evidence:
+    - C-008
+    - SRC-009
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-003
+    kind: quotation
+    chapter_id: CH-003
+    transcript:
+    - U-00226–U-00236
+    current_text: '“We confirm this privilege,” the emperor says on October 3, 999. I''m translating his
+      Latin loosely: “From now on, forever, none of our successors may grant the monastery of Farfa to
+      anyone as a benefice. It must always remain the property of the state.” The *res publica*.
+
+
+      <!-- Q-011 -->
+
+
+      “If any future pope, or any emperor who succeeds us, should instead subject the monastery to someone
+      else, let him remember that when Christ comes, and we all have to give an account of ourselves,
+      he will have to answer for breaking my promise.”'
+    current_text_sha256: e8b2cae874dc6e830abce74399976b6e3545763832fe6711e461680a4c7c17dd
+    proposed_text: '“We confirm this privilege,” the emperor says on October 3, 999. The diploma grants
+      that the monastery “shall never be given as a benefice by us or our successors”—a benefice being
+      a grant of its revenues. It must remain attached to the imperial realm and under its abbot. The
+      Latin speaks of the *res publica*.
+
+
+      <!-- Q-011 -->
+
+
+      If a future pope or emperor subjects the monastery to someone else, he must, in the diploma’s words,
+      “render account for it alongside us at Christ’s coming.”'
+    reason: 'Use bounded recovered clauses: Otto binds himself as well as successors and future violator
+      answers alongside him. Retain commentary and res publica; avoid adding omitted fire imagery. The
+      brief gloss explains the existing benefice term.'
+    evidence:
+    - Q-010
+    - Q-011
+    - C-009
+    - SRC-009
+    protected_quote_spans:
+    - shall never be given as a benefice by us or our successors
+    - render account for it alongside us at Christ’s coming
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-004
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00237–U-00240
+    current_text: But clearly, the emperor isn't expecting the world to end next year either. Is there
+      another way to check?
+    current_text_sha256: 988114ec4f394e2952a87e96aa9c00ba47aca1d72bdb634ebb611f4340b10816
+    proposed_text: The end of the world is part of the emperor’s faith. But here he is making arrangements
+      meant to last. Is there another way to check?
+    reason: Future clauses demonstrate ongoing government, not certainty about private apocalyptic expectation.
+      Preserve eventual judgment versus practical planning contrast.
+    evidence:
+    - C-009
+    - SRC-009
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-005
+    kind: quotation
+    chapter_id: CH-004
+    transcript:
+    - U-00296–U-00306
+    current_text: 'Revelation, chapter twenty, verses one through seven:'
+    current_text_sha256: 419d9534e75f24e435b8a0e4a5d765ba95ac7e8551aae1228e9d652c04b5e53b
+    proposed_text: 'Here is the opening of Revelation, chapter twenty:'
+    reason: Spoken excerpt is20:1–3a, though source announces1–7; clarify selection without expanding
+      it.
+    evidence:
+    - Q-012
+    - SRC-010
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-006
+    kind: fact
+    chapter_id: CH-005
+    transcript:
+    - U-00335–U-00343
+    current_text: His name is Abbo, abbot of Fleury in France. Abbo of Fleury is a great scholar, writer,
+      and intellectual, a man who has read a great deal and understands a great deal. In 998, he writes
+      a short book dedicated to Robert, king of France.
+    current_text_sha256: 3a94102079559b842a9d1188781f14656a2648d243943193a2323f16f1cd5563
+    proposed_text: His name is Abbo, abbot of Fleury in France. Abbo of Fleury is a great scholar, writer,
+      and intellectual, a man who has read a great deal and understands a great deal. Around 994, he writes
+      a short book addressed to the French kings Hugh Capet and Robert.
+    reason: Probable dating around994 and dual addressees; replaces unsupported998. Related date callbacks
+      addressed ED008/ED010.
+    evidence:
+    - C-012
+    - SRC-011
+    - SRC-012
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-007
+    kind: fact
+    chapter_id: CH-005
+    transcript:
+    - U-00353–U-00355
+    current_text: For example, some clerics don't know the creed properly. They get it wrong when they
+      recite it. They ought to say, “The Holy Spirit proceeds from the Father and the Son.” Instead, they
+      say, “He proceeds from the Father.” They forget the Son. That won't do. It needs correcting.
+    current_text_sha256: d6e63094945a878cadc14c7b3ee2431452f133481fe643e51937d3e276d9fc57
+    proposed_text: For example, some clerics leave words out when they recite the creed. It says the Holy
+      Spirit is neither made, nor created, “nor begotten.” Some leave out “nor begotten.” That won’t do,
+      Abbo says. It needs correcting.
+    reason: Both variants contain Father and Son; omitted phrase is nor begotten. Preserve concrete creed
+      example without inventing Filioque dispute. Quoted short term follows ledger translation.
+    evidence:
+    - Q-015
+    - C-012
+    - SRC-011
+    protected_quote_spans:
+    - nor begotten
+    - nor begotten
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-008
+    kind: fact
+    chapter_id: CH-005
+    transcript:
+    - U-00356–U-00361
+    current_text: 'Others make mistakes working out the church calendar. They start Advent a day early.
+      That won''t do either, says Abbo. The king has to take action.
+
+
+      And then Abbo says that, in the past, these stories about the end of the world used to crop up in
+      the kingdom. Not so much lately—we''re in 998—but in the past, from time to time, and people had
+      to work quite hard to calm everybody down.'
+    current_text_sha256: c3b88765c5b9e8d7737330f93d3f0cb7f59f0a21727c8abf7e786bfb56d94f22
+    proposed_text: 'Others disagree over how to calculate the start of Advent. That needs settling too,
+      says Abbo, with the king helping the Church reach agreement.
+
+
+      Then Abbo turns to predictions about the end of the world. Writing around 994, he recalls earlier
+      occasions when such stories circulated and churchmen worked to rebut them.'
+    reason: Original supports disputed Advent start, not one day early. Removes unsupported no-recent-rumors
+      claim and corrects998callback while preserving reminiscence.
+    evidence:
+    - Q-016
+    - C-012
+    - SRC-011
+    - SRC-012
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-009
+    kind: fact
+    chapter_id: CH-005
+    transcript:
+    - U-00362–U-00372
+    current_text: '“I remember when I was a boy,” Abbo says. The date is reckoned to be around 970. “When
+      I was a boy, I myself heard a preacher in a church in Paris warning people that the world would
+      end in the year 1000.”
+
+
+      <!-- Q-018 -->
+
+
+      And Abbo, who has already done his studying even as a boy, remembers trying to silence him. He tries
+      to explain to everyone that the man is wrong, citing Revelation, the Book of Daniel, the Gospels,
+      and so on.'
+    current_text_sha256: a07d9a5ee49cd07ef7246ed8e61a6d069ac75fce576524cb1394ceffb2c8b8e2
+    proposed_text: 'Abbo remembers hearing a preacher in a church in Paris when he was young. The preacher
+      warned that, once the thousand years were complete, the Antichrist would come, and the Last Judgment
+      would follow soon afterward.
+
+
+      <!-- Q-018 -->
+
+
+      Abbo had already done his studying. He remembers resisting the sermon as forcefully as he could,
+      citing Revelation, the Book of Daniel, the Gospels, and so on.'
+    reason: Adolescentulus supports whenyoung; Paris sermon not dated970in source. Preserve opposition
+      while restoring Antichrist/judgment sequence and avoiding unsupported childhood age.
+    evidence:
+    - Q-017
+    - Q-018
+    - C-013
+    - SRC-011
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-010
+    kind: fact
+    chapter_id: CH-005
+    transcript:
+    - U-00407–U-00417
+    current_text: So, where does that leave us? It's established that the idea of an approaching end of
+      the world circulates from time to time. Connecting it with the year 1000 is perfectly possible too.
+      Somebody did think of it. But whenever these ideas crop up, they're immediately silenced. They have
+      no chance to spread or circulate, because the shepherds of the Church step in at once and stop this
+      kind of reasoning. By 998, when Abbo writes, these are memories of his youth.
+    current_text_sha256: 14c0689a3d3b92813e3a5dc59b149d98b89410a81ce0460c486224f03a1a32b5
+    proposed_text: So, where does that leave us? Predictions about the end do circulate, and some connect
+      it with the year 1000. Abbo even says the rumor about Good Friday and the Annunciation had spread
+      almost everywhere. Churchmen such as Abbo and Richard work to rebut these ideas. By around 994,
+      when Abbo writes, he is recalling earlier episodes. That is evidence of predictions and arguments
+      over them, not of a whole society coming to a halt in 999.
+    reason: Abbo’s explicit wide circulation contradicts no-chance-to-spread assertion. Preserve core
+      distinction universal paralysis/actual predictions; correct remaining998callback.
+    evidence:
+    - C-014
+    - Q-019
+    - SRC-011
+    - SRC-012
+    - SRC-013
+    - SRC-027
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-011
+    kind: fact
+    chapter_id: CH-006
+    transcript:
+    - U-00446–U-00451
+    current_text: 'The first person to say this clearly is an early Christian thinker who will have an
+      enormous influence on medieval Christianity: Saint Augustine. He thinks it through and puts it very
+      plainly.'
+    current_text_sha256: 7382e1f5a066d7a02615f4959f1ef188c00f79ffacd301416c53f8c05b7fbb11
+    proposed_text: 'One person who makes the point very clearly is an early Christian thinker who will
+      have an enormous influence on medieval Christianity: Saint Augustine. He thinks it through and puts
+      it very plainly.'
+    reason: Augustine’s influence supported; absolute priority not established and his letter invokes
+      earlier authorities.
+    evidence:
+    - C-015
+    - SRC-031
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-012
+    kind: fact
+    chapter_id: CH-006
+    transcript:
+    - U-00462–U-00469
+    current_text: 'Hold on. It''s also written that, before the Antichrist comes and then the world ends,
+      the Gospel must be preached to all the peoples of the earth. Has it been preached to everybody yet?
+
+
+      No.
+
+
+      So it won''t be next year.'
+    current_text_sha256: 33e98711d7399e3b5662cd0d7d7070812ba5267d62d5ecbaa15bba174745e66c
+    proposed_text: 'Hold on. It’s also written that the Gospel must be preached to all the peoples of
+      the earth before the end comes. Has it been preached to everybody yet?
+
+
+      No.
+
+
+      So that must happen first. But even then, Augustine says, we won’t know how much time remains.'
+    reason: Augustine197§4requires universal preaching, not a next-calendar-year guarantee. Antichrist
+      not in cited passage. Preserve question/answer beat and uncertainty about timing.
+    evidence:
+    - Q-026
+    - C-015
+    - SRC-029
+    - SRC-031
+    - SRC-032
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-013
+    kind: fact
+    chapter_id: CH-006
+    transcript:
+    - U-00470–U-00478
+    current_text: Let's take stock again. Throughout the Middle Ages, millenarian tensions, anxieties
+      about the end of the world, do appear from time to time. But they have no room to spread, because
+      the people at the top won't accept them. Let me give you an example. These things can happen quite
+      often, but they remain contained.
+    current_text_sha256: 1df8f951b4114308948f8b0c5c7e8cd6f9cf56a30282c7479c7582ea90d4d865
+    proposed_text: Let’s take stock again. Throughout the Middle Ages, millenarian tensions, anxieties
+      about the end of the world, do appear from time to time. Church authorities work to contain them.
+      Let me give you an example of how that can happen.
+    reason: Opposition does not prove ideas had no room to spread; aligns with Abbo and clerical followers
+      of Thiota. Preserve institutional response and transition.
+    evidence:
+    - C-016
+    - SRC-011
+    - SRC-014
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-014
+    kind: fact
+    chapter_id: CH-006
+    transcript:
+    - U-00489–U-00503
+    current_text: 'She says she knows the date of the end of the world. And, as it happens, it''ll be
+      next year. She claims to know this thing that nobody can know, the monk says, as though God had
+      revealed it to her.
+
+
+      <!-- Q-028 -->
+
+
+      And the people—actually, the monk uses a revealing word: the “common people.” Because, in his view,
+      only the poor fools at the bottom could believe such things. But there are plenty of them. Thiota
+      goes around saying she knows the world will end next year, and many of these common people believe
+      her. They come to her, bringing gifts, asking her to pray for them.
+
+
+      <!-- Q-029 -->
+
+
+      The bishop of Mainz gets a little annoyed. He summons her and questions her. And it emerges—or at
+      least this is what she says—that a priest friend suggested the whole thing. You can put his advice
+      like this: “Go around preaching that the world will end next year. Just see how many presents people
+      bring us.”
+
+
+      And that''s exactly what happens.
+
+
+      <!-- Q-030 -->
+
+
+      The bishop consults the other bishops. They decide she''s certainly not getting out of this without
+      a good beating. They have her flogged in the public square. Then it''s, “Out of here. And don''t
+      let us hear another word from you.”
+
+
+      And that, you might say, puts an end to the millenarian movement in Mainz in 847.'
+    current_text_sha256: 4e4f2fdec8c01a4b03a1197c49c2d99f318df5dcf2d1d9a97243c152e7b617e3
+    proposed_text: 'She says she knows the date of the end of the world. And, as it happens, it’ll be
+      that very year. She claims to know this thing that nobody can know, the monk says, as though God
+      had revealed it to her.
+
+
+      <!-- Q-028 -->
+
+
+      And the people—the monk uses a revealing word, the “common people”—come to her frightened, bringing
+      gifts and asking her to pray for them. But he has something even more shocking to report: some clerics
+      follow her too, as though she were a teacher sent from heaven.
+
+
+      <!-- Q-029 -->
+
+
+      She is brought before the bishops and questioned. And it emerges—or at least this is the confession
+      the annalist reports—that a priest suggested the whole thing, and she preached it for money. You
+      can put the scheme like this: “Go around preaching that the world will end this year. Just see how
+      many presents people bring us.”
+
+
+      And the presents do arrive.
+
+
+      <!-- Q-030 -->
+
+
+      The bishops decide she’s certainly not getting out of this without a good beating. They have her
+      publicly flogged and strip her of the right to preach. In effect: “That’s enough. We’re not hearing
+      any more of this.”
+
+
+      And that, according to the annalist, puts an end to Thiota’s preaching in 847.'
+    reason: Same-year prophecy in all3references; clerics followed too. Keep common-people observation,
+      gifts, comic scheme and coercive ending; confession remains reported, unspecifiedfriend/square/expulsion
+      removed, institution response accurate.
+    evidence:
+    - Q-027
+    - Q-028
+    - Q-029
+    - Q-030
+    - C-017
+    - SRC-014
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-015
+    kind: fact
+    chapter_id: CH-007
+    transcript:
+    - U-00563–U-00565
+    current_text: To Sigebert's credit, he doesn't say, “And everybody was frightened that the world would
+      end.” He simply piles up the prodigies. He's a millenarian himself. The year 1000 has passed, but
+      that round number still has its power.
+    current_text_sha256: d0a8284aa3d18c8a1cf62bcbb8b6cdbf14b633a541066ef75e5e350f380a9689
+    proposed_text: To Sigebert's credit, he doesn't say, “And everybody was frightened that the world
+      would end.” He simply piles up the prodigies. The number one thousand clearly matters to the way
+      he arranges the story. The year 1000 has passed, but that round number still has its power.
+    reason: Entry does not establish personal millenarian expectation; describe visible textual arrangement,
+      preserve round-number argument.
+    evidence:
+    - Q-031
+    - C-018
+    - SRC-015
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-016
+    kind: fact
+    chapter_id: CH-007
+    transcript:
+    - U-00566–U-00586
+    current_text: 'Another seventy years go by. Around 1170, another chronicler, a Cistercian named Guillaume
+      Godel, has also been reading the chroniclers of the year 1000 and the years that follow. He discovers
+      that in 1010 there were visions, famine, eclipses. Quite enough to be going on with.
+
+
+      Godel writes that all these prodigies happened in 1010, and that many people were afraid the world
+      would end.
+
+
+      That last part wasn''t in his sources. The people who lived through 1010 told him there had been
+      an eclipse. But Guillaume Godel isn''t a fool. He knows what people think when they see an eclipse.
+      So there we have the first writer to mention collective terror. Unfortunately for us, he puts it
+      in 1010. Exasperating, but there it is.'
+    current_text_sha256: a2e0bfcb9acb955760721e237e9b6457b522793b6e87d7b0993e244a069325eb
+    proposed_text: 'Another seventy years go by. Around 1170, a chronicle traditionally attributed to
+      Guillaume Godel takes things a step further. Its author has also been reading earlier accounts.
+      Under 1010, the chronicle tells of alarming events and people fearing that the world will end.
+
+
+      Now the fear itself has entered the story. We have to distinguish this later account from what people
+      writing at the time actually said. The chronicler is writing more than a century and a half afterward.
+      And, unfortunately for our familiar story, the entry is still under 1010. Exasperating, but there
+      it is.'
+    reason: Godel attribution insecure; full1010entry/sourcechain not collated and Roy links fear toJerusalem.
+      Remove unsupported categorical source-invention mechanism within this example while preserving later-writing
+      distance, emerging fear and1010payoff. This is a deliberate narrower account, not newly recovered
+      Latin.
+    evidence:
+    - Q-032
+    - C-019
+    - SRC-016
+    - SRC-017
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-017
+    kind: fact
+    chapter_id: CH-007
+    transcript:
+    - U-00595–U-00606
+    current_text: 'In that enlightened age, historians start appearing who *do* believe that people were
+      terrified the world would end. Take Trithemius. Most of us, quite reasonably, have never heard of
+      him, but he''s an important German humanist writing in the early sixteenth century.
+
+
+      He too has read Sigebert of Gembloux. So he too writes in his chronicle that in the year 1000 there
+      was an earthquake, a comet, visions—and that many people were frightened, fearing the arrival of
+      the last day.
+
+
+      He didn''t read that last part in Sigebert. But you can see how it works. He''s a humanist. It''s
+      the Renaissance now. Those poor people back then were living in the darkness of the Middle Ages.
+      After seeing all those prodigies, of course they were frightened. How could they not be? And Trithemius
+      writes it down.'
+    current_text_sha256: 75ebe5571cb667a37c5ac05e956218d0053a1244e0d0aeea2d19169c7531e344
+    proposed_text: 'In that enlightened age, historians start appearing who do believe that people were
+      terrified the world would end. Take the annals transmitted under the name of Trithemius. Most of
+      us, quite reasonably, have never heard of him, but he’s an important German humanist of the early
+      sixteenth century.
+
+
+      These annals repeat the prodigies associated with the year 1000—an earthquake, a comet, visions—and
+      add that many people were frightened, fearing the arrival of the last day.
+
+
+      That last part isn’t in Sigebert. Whether Trithemius himself added it is uncertain. But you can
+      see how the assumption works: those poor people were living in the darkness of the Middle Ages.
+      After seeing all those prodigies, of course they were frightened. How could they not be? And now
+      that fear is there on the page.'
+    reason: Annales/Chronica distinction and possible interpolation prevent confident personal attribution.
+      Preserve humanist frame and comic imagined assumption; state transmission uncertainty.
+    evidence:
+    - Q-033
+    - C-020
+    - SRC-015
+    - SRC-018
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-018
+    kind: fact
+    chapter_id: CH-008
+    transcript:
+    - U-00663–U-00676
+    current_text: Let me quote a book that matters enormously in the history of Italian culture. Toward
+      the end of the eighteenth century, Abbot Bettinelli publishes an early, sweeping history of Italian
+      literature and culture. Bettinelli is no minor figure. His book is extremely important. You might
+      even call it prophetic. Published in 1773, its title is *Risorgimento d'Italia*—the revival of Italy—*in
+      Learning, the Arts, and Customs After the Year One Thousand*.
+    current_text_sha256: b8e34fc3fbfb28f8e6a936f93ca3c2241794a1b4b2bf591303e6a7374d74db65
+    proposed_text: Let me quote a book that matters enormously in the history of Italian culture. Toward
+      the end of the eighteenth century, Abbot Bettinelli publishes an early, sweeping history of Italian
+      literature and culture. Bettinelli is no minor figure. His book is extremely important. You might
+      even call it prophetic. Dated 1773, its title is *Risorgimento d'Italia*—the revival of Italy—*in
+      Learning, the Arts, and Customs After the Year One Thousand*.
+    reason: Work bears1773date but published1775; dated preserves lecture’s bibliographical anchor.
+    evidence:
+    - C-022
+    - SRC-020
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-019
+    kind: fact
+    chapter_id: CH-009
+    transcript:
+    - U-00775–U-00783
+    current_text: 'And they''re the first to ask: “These terrors of the year 1000 that you''re all so
+      sure about—did they actually happen? Shall we check? Shall we look at what the chroniclers of those
+      years were writing?”'
+    current_text_sha256: 9e2c45dde4538ccb31450164c29d24a16e8ac18b7519dcfa920c152802e0f169
+    proposed_text: 'And they ask: “These terrors of the year 1000 that you''re all so sure about—did they
+      actually happen? Shall we check? Shall we look at what the chroniclers of those years were writing?”'
+    reason: Do not claim universal clerical priority unsupported by retrieved historiography. Retains
+      ideological motive and quoted challenge.
+    evidence:
+    - C-023
+    - SRC-021
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-020
+    kind: fact
+    chapter_id: CH-009
+    transcript:
+    - U-00779–U-00783
+    current_text: In other words, more or less what I've been doing here. The people who first ask these
+      questions aren't simply scholars driven by a love of truth. They're also combatants.
+    current_text_sha256: fa9fd21a03316327bf04f825866791b342e12d41bfec1ff83ff9577422cc8bc2
+    proposed_text: In other words, more or less what I've been doing here. The people asking these questions
+      aren't simply scholars driven by a love of truth. They're also combatants.
+    reason: Consistent callback removing unsupported priority while retaining polemical motive.
+    evidence:
+    - C-023
+    - SRC-021
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-021
+    kind: fact
+    chapter_id: CH-009
+    transcript:
+    - U-00784–U-00793
+    current_text: In France, the first article on the “supposed terrors of the year 1000” appears in 1873.
+      Its author is a priest, an ecclesiastical scholar, Dom Plaine. For him, showing that the terrors
+      never happened is more than a historical correction. It means proving the secularists, the positivist
+      scientists, wrong when they describe the Church as a promoter of darkness and ignorance.
+    current_text_sha256: 1cb98d4335aff3c0542a7ba02672cf27b47b8a4e7cead4c5f0f0a03e2e0b8e1e
+    proposed_text: In France, an influential article on the “supposed terrors of the year 1000” appears
+      in 1873. Its author is a priest, an ecclesiastical scholar, Dom Plaine. For him, showing that the
+      terrors never happened is more than a historical correction. It means proving the secularists, the
+      positivist scientists, wrong when they describe the Church as a promoter of darkness and ignorance.
+    reason: 1873Plaine importance verified; first-everarticle priority unproved.
+    evidence:
+    - C-023
+    - SRC-021
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-022
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00819–U-00829
+    current_text: 'A book has appeared very recently with a title that plainly announces its intentions:
+      *The False Terrors of the Year 1000*. Its author is very well known in France, though not yet in
+      Italy. His name is Sylvain Gouguenheim. Like Peggy Guggenheim, of contemporary art fame—so presumably
+      he may have Jewish origins too. But he''s a Catholic scholar, and he''s written this very combative
+      book.'
+    current_text_sha256: 2da7e9739e73ba421f237c78b10fe18ba43e750a9621b249301435960684f24c
+    proposed_text: 'A book published in 1999 has a title that plainly announces its intentions: *The False
+      Terrors of the Year 1000*. Its author is Sylvain Gouguenheim, very well known in France, though
+      his work has not made the same impact in Italy. It is a very combative book.'
+    reason: 1999book is not recent in2013. Remove unsupported surname-based ancestry guess and private
+      Catholic identity label; preserve author/intellectual context. Group overlapping intro changes.
+    evidence:
+    - C-024
+    - SRC-022
+    - SRC-023
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-023
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00850–U-00855
+    current_text: Why is this interesting? Because Gouguenheim, as I was saying, is more than Catholic.
+      He's fiercely, militantly Catholic. And the book that made him famous in France wasn't the one about
+      the terrors of the year 1000.
+    current_text_sha256: 6064c29a0d0551e8ba79807679514972428bb09e7f101624879e1102dcbdff3e
+    proposed_text: Why is this interesting? Because I see a militant defense of Christian culture in Gouguenheim’s
+      work. And the book that made him famous in France wasn’t the one about the terrors of the year 1000.
+    reason: Preserve Barbero’s ideological interpretation as his reading of work; no unverified private
+      religiosity or ultraCatholic biographical certainty.
+    evidence:
+    - C-024
+    - C-025
+    - SRC-022
+    - SRC-025
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-024
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00856–U-00860
+    current_text: It was a book published five years earlier, called *Aristotle at Mont Saint-Michel*.
+      You know Mont Saint-Michel, the famous abbey in Normandy, standing out in the sea, cut off from
+      the mainland by the tide.
+    current_text_sha256: 95fa4098c9c3a8ea6dbc06bbae521562c4a32d16013792ffeb545dbe54fe9aeb
+    proposed_text: It was a book published in 2008, called *Aristotle at Mont Saint-Michel*. You know
+      Mont Saint-Michel, the famous abbey in Normandy, standing out in the sea, cut off from the mainland
+      by the tide.
+    reason: 'Fix deictic ambiguity: five years is relative to2013lecture, not earlier than newly corrected1999book.'
+    evidence:
+    - C-026
+    - SRC-024
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-025
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00867–U-00873
+    current_text: Gouguenheim claims to have discovered that, in the Middle Ages, the monastery of Mont
+      Saint-Michel was a great center for translation from Greek into Latin. They translated Aristotle
+      there, and Ptolemy, the Greek scientists, directly from Greek into Latin.
+    current_text_sha256: b69b3933d50badbc0d43121342bdad2331afc1c48d0e7de6c61a31eb5e35bc8f
+    proposed_text: Gouguenheim argues that, in the Middle Ages, Mont Saint-Michel was an important center
+      for translating Aristotle directly from Greek into Latin.
+    reason: State disputed thesis rather than discovery; institutional manuscript evidence does not locateJacquesatabbey.
+      Ptolemy uncorroborated. Prior paragraph retains controversy and partial-reading disclaimer.
+    evidence:
+    - Q-039
+    - C-026
+    - SRC-025
+    - SRC-026
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-026
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00875–U-00881
+    current_text: 'I think you can already see the implications. But Gouguenheim spells them out in his
+      book. Those pages I have seen. I went and looked at them. What he''s saying, as I''m summarizing
+      it, is this: the story we''ve always been told, that we owe our access to Greek philosophy and science
+      to the Arabs, isn''t true. We Christians translated them ourselves, directly from Greek. We had
+      no need of the Arabs.
+
+
+      And, to make things even clearer, at the end of the book his argument, as I''m putting it here,
+      is that Arabic is completely unsuited to discussing scientific subjects, that the Arabs don''t have
+      the mentality of a scientific people, and that it was therefore absurd to imagine we owed them anything.
+      We owe nothing to medieval Islamic culture.'
+    current_text_sha256: 52a145b911fc7cd231b1b6a43a39c6ddd1244e9943bc87b5038a5f7ab2914d14
+    proposed_text: 'I think you can already see the implications. But Gouguenheim spells them out in his
+      book. Those pages I have seen. I went and looked at them. As I understand his argument, direct translation
+      from Greek makes the Christian West far less dependent on Arabic learning than the familiar account
+      suggests.
+
+
+      He also puts great weight on differences between Greek and Arabic as obstacles to translating Greek
+      thought. To my mind, this becomes a polemical argument about how much Europe owes medieval Islamic
+      culture.'
+    reason: Retrieved review supports direct-transmission and language-obstacle argument, not precise
+      claims about Arabs’mentality or totalunsuitability. Preserve attributed polemic/partialreading and
+      explanatory function, moderate unrecovered severe paraphrases.
+    evidence:
+    - Q-040
+    - C-027
+    - SRC-025
+    - SRC-026
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-027
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00885–U-00892
+    current_text: 'What strikes me is that the same scholar who writes *Aristotle at Mont Saint-Michel*
+      writes his next book to remind us, in effect: the terrors of the year 1000 never happened. The secularists
+      have muddled our thinking again. There''s too much talk about medieval millenarianism. None of it
+      is true.'
+    current_text_sha256: 928728ab7b18b18d7b32950d10f51d2c11a0c2bfcc3fc5b4857d78259c8f3109
+    proposed_text: 'What strikes me is that the same scholar who writes *Aristotle at Mont Saint-Michel*
+      had already written the earlier book to remind us, in effect: the terrors of the year 1000 never
+      happened. The secularists have muddled our thinking again. There''s too much talk about medieval
+      millenarianism. None of it is true.'
+    reason: 1999terrors book precedes2008Aristotle; preserve same-author ideological comparison without
+      false sequence.
+    evidence:
+    - Q-041
+    - C-028
+    - SRC-022
+    - SRC-023
+    - SRC-024
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-028
+    kind: cut
+    chapter_id: CH-002
+    transcript:
+    - U-00123–U-00123
+    current_text: Much to the delight of Professor Odifreddi, whom I can see sitting in front of me.
+    current_text_sha256: 9ff7028dc918111645f9b8b31e4a33ac832bdc17ea4f1284223b58e4396728fe
+    proposed_text: ''
+    reason: The joke depends on a live attendee and unexplained reputation. Removal lets Lavallée quotation
+      run across a paragraph break; source quotation/comment boundary remains and Q004 marker survives.
+      Pair with ED029 callback if selected.
+    evidence:
+    - Editorial listener proposal; U-00123. No prior-episode permission inferred.
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  - id: ED-029
+    kind: cut
+    chapter_id: CH-007
+    transcript:
+    - U-00518–U-00525
+    current_text: There's something rather distressing about discovering that we historians can believe
+      and repeat these things. I can still see Professor Odifreddi smiling to himself. Though I suspect
+      you mathematicians do it sometimes too. Anyway. We historians can, unfortunately, convince ourselves
+      of something, then convince our readers, only for someone a hundred years later to discover that
+      it's entirely made up. That's not a pleasant thing to realize.
+    current_text_sha256: a958dd7493afd1d2e683953eb0eb4ef0b7be3e903bc0b578c6ec32fac21fa254
+    proposed_text: There's something rather distressing about discovering that we historians can believe
+      and repeat these things. We can, unfortunately, convince ourselves of something, then convince our
+      readers, only for someone a hundred years later to discover that it's entirely made up. That's not
+      a pleasant thing to realize.
+    reason: Remove secondOdifreddi/mathematicianlivecallback while retaining historian’s embarrassment
+      and reader implication. Pair with priorlivejoke choice; full source retained pending decision.
+    evidence:
+    - Editorial listener proposal; U-00518–U-00525.
+    protected_quote_spans: *id001
+    recommendation: apply
+    decision: pending
+    decision_note: null
+  reason: 'Superseded after independent source and listener reviews SF-001–005 and LI-001–010: authorized
+    local language/referent repairs, bounded pending-proposal refinements, conditional callback repair,
+    and five new pending orientation/scope proposals. Original human choices remain all pending; no approval
+    transferred or inferred.'
+- base_script:
+    path: script.draft.en.md
+    sha256: 8e6f34e62412bc04f56ba54d6a093b257dc18c3d3a9760379f33e51e5796a173
+  input_hashes:
+    ../script.it.md: 40d4433f29e3d0da07235e91730b9ba487954ec6d39fd53e0ff19f21ec209bb9
+    brief.md: e70bdfbfbed1f900320efac6a08846827d9efb00d35d3a3efcc4bb5aee986251
+    quotes.yaml: 88d14227ff6d18c54332ba0ca7b018e87842b21f3b7f415a2098692d12dd6971
+    claims.yaml: 83b041304eeea35bbb8bb1a7f01d95738efde42b0da403dab2561c5868654f33
+    sources.yaml: 75ad7e709fdfdbd27df6024a5a1f36f49de2254edfe392895a655be462829759
+  items:
+  - id: ED-001
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00138–U-00157
+    current_text: 'And, as luck would have it, we have a papal bull dated December 31, 999. On that day,
+      Pope Sylvester II confirms the privileges of a great German monastery, Fulda. The abbot has asked
+      Rome to confirm various privileges, and the pope hands him this document, dated December 31, 999.
+      In effect, he tells him:
+
+
+      “I confirm all your monastery''s privileges, for you and your successors, on condition that every
+      future abbot, once elected, comes to Rome to ask for confirmation of his election. What''s more,
+      in exchange for these privileges, you monks of Fulda must make an annual payment of twelve denarii
+      to Rome. Every year, from now on.”
+
+
+      At least these two aren''t expecting the end of the world, apparently.'
+    current_text_sha256: f483fecf4c52101c81d54cbf9bcab37f8118fe233bbd10ce5d340f3a574544b9
+    proposed_text: 'And, as luck would have it, a papal privilege has come down to us dated December 31,
+      999. Pope Sylvester II confirms the privileges of a great German monastery, Fulda, at its abbot’s
+      request. In effect, he tells him:
+
+
+      “I confirm your monastery’s privileges for you and your successors. And every future abbot must
+      receive his consecration from Rome.”
+
+
+      They’re making arrangements for the future, right on the threshold of the year 1000.'
+    reason: Fulda’s transmitted privilege anticipates successors but specifies consecration, not election
+      confirmation. Twelve denarii belong to neighboring Seeon text. Preserve example while avoiding invented
+      personal delivery and stronger-than-document belief inference.
+    evidence:
+    - Q-005
+    - Q-006
+    - Q-007
+    - C-003
+    - SRC-004
+    - SRC-005
+    - SRC-006
+    protected_quote_spans: &id002 []
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-001 after individual presentation on 2026-10-02.
+  - id: ED-002
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00212–U-00215
+    current_text: It's a diploma, an official charter, issued by Emperor Otto III. That year, Otto has
+      gone to Rome on various business of his own. He arrives, and naturally petitioners crowd around
+      him, asking for donations, confirmations, charters, grants, and so on. Among them are the monks
+      of Farfa.
+    current_text_sha256: cc5844e57b25a7d88e88b87223508597181a85c810a106e25617170c14b11115
+    proposed_text: It's a diploma, an official charter, issued by Emperor Otto III. That year, Otto is
+      in Italy on various business of his own. People seek donations, confirmations, charters, grants,
+      and so on. The abbot of Farfa approaches him at the monastery, asking him to protect its privileges.
+    reason: Diploma is issued at Rome but narrates abbot’s approach at Farfa. Preserve administrative
+      scene without conflating issue place and meeting.
+    evidence:
+    - C-008
+    - SRC-009
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-002 after individual presentation on 2026-10-02.
+  - id: ED-003
+    kind: quotation
+    chapter_id: CH-003
+    transcript:
+    - U-00226–U-00236
+    current_text: '“We confirm this privilege,” the emperor says on October 3, 999. I''m translating his
+      Latin loosely: “From now on, forever, none of our successors may grant the monastery of Farfa to
+      anyone as a benefice. It must always remain the property of the state.” The *res publica*.
+
+
+      <!-- Q-011 -->
+
+
+      “If any future pope, or any emperor who succeeds us, should instead subject the monastery to someone
+      else, let him remember that when Christ comes, and we all have to give an account of ourselves,
+      he will have to answer for breaking my promise.”'
+    current_text_sha256: e8b2cae874dc6e830abce74399976b6e3545763832fe6711e461680a4c7c17dd
+    proposed_text: 'On October 3, 999, the emperor confirms the privilege. The diploma grants that the
+      monastery “shall never be given as a benefice by us or our successors”—a benefice being a grant
+      of its revenues. It must remain attached to the imperial realm and under its abbot. The Latin speaks
+      of the *res publica*.
+
+
+      <!-- Q-011 -->
+
+
+      If a future pope or emperor subjects the monastery to someone else, he must, in the diploma’s words,
+      “render account for it alongside us at Christ’s coming.”'
+    reason: 'Use bounded recovered clauses: Otto binds himself as well as successors and future violator
+      answers alongside him. Retain commentary and res publica; avoid adding omitted fire imagery. The
+      brief gloss explains the existing benefice term.'
+    evidence:
+    - Q-010
+    - Q-011
+    - C-009
+    - SRC-009
+    - SF-003
+    protected_quote_spans:
+    - shall never be given as a benefice by us or our successors
+    - render account for it alongside us at Christ’s coming
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-003 after individual presentation on 2026-10-02.
+  - id: ED-004
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00237–U-00240
+    current_text: But clearly, the emperor isn't expecting the world to end next year either. Is there
+      another way to check?
+    current_text_sha256: 988114ec4f394e2952a87e96aa9c00ba47aca1d72bdb634ebb611f4340b10816
+    proposed_text: The end of the world is part of the emperor’s faith. But here he is making arrangements
+      meant to last. Is there another way to check?
+    reason: Future clauses demonstrate ongoing government, not certainty about private apocalyptic expectation.
+      Preserve eventual judgment versus practical planning contrast.
+    evidence:
+    - C-009
+    - SRC-009
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-004 after individual presentation on 2026-10-02.
+  - id: ED-005
+    kind: quotation
+    chapter_id: CH-004
+    transcript:
+    - U-00296–U-00306
+    current_text: 'Revelation, chapter twenty, verses one through seven:'
+    current_text_sha256: 419d9534e75f24e435b8a0e4a5d765ba95ac7e8551aae1228e9d652c04b5e53b
+    proposed_text: 'Here is the opening of Revelation, chapter twenty:'
+    reason: Spoken excerpt is20:1–3a, though source announces1–7; clarify selection without expanding
+      it.
+    evidence:
+    - Q-012
+    - SRC-010
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly approved ED-005 after individual presentation on 2026-10-02.
+  - id: ED-006
+    kind: fact
+    chapter_id: CH-005
+    transcript:
+    - U-00335–U-00343
+    current_text: His name is Abbo, abbot of Fleury in France. Abbo of Fleury is a great scholar, writer,
+      and intellectual, a man who has read a great deal and understands a great deal. In 998, he writes
+      a short book dedicated to Robert, king of France.
+    current_text_sha256: 3a94102079559b842a9d1188781f14656a2648d243943193a2323f16f1cd5563
+    proposed_text: His name is Abbo, abbot of Fleury in France. Abbo of Fleury is a great scholar, writer,
+      and intellectual, a man who has read a great deal and understands a great deal. Around 994, he writes
+      a short book addressed to the French kings Hugh Capet and Robert.
+    reason: Probable dating around994 and dual addressees; replaces unsupported998. Related date callbacks
+      addressed ED008/ED010.
+    evidence:
+    - C-012
+    - SRC-011
+    - SRC-012
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly approved ED-006 after individual presentation on 2026-10-02.
+  - id: ED-007
+    kind: fact
+    chapter_id: CH-005
+    transcript:
+    - U-00353–U-00355
+    current_text: For example, some clerics don't know the creed properly. They get it wrong when they
+      recite it. They ought to say, “The Holy Spirit proceeds from the Father and the Son.” Instead, they
+      say, “He proceeds from the Father.” They forget the Son. That won't do. It needs correcting.
+    current_text_sha256: d6e63094945a878cadc14c7b3ee2431452f133481fe643e51937d3e276d9fc57
+    proposed_text: For example, some clerics leave words out when they recite the creed. It says the Holy
+      Spirit is neither made, nor created, “nor begotten.” Some leave out “nor begotten.” That won’t do,
+      Abbo says. It needs correcting.
+    reason: Both variants contain Father and Son; omitted phrase is nor begotten. Preserve concrete creed
+      example without inventing Filioque dispute. Quoted short term follows ledger translation.
+    evidence:
+    - Q-015
+    - C-012
+    - SRC-011
+    protected_quote_spans:
+    - nor begotten
+    - nor begotten
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-007 after individual presentation on 2026-10-02.
+  - id: ED-008
+    kind: fact
+    chapter_id: CH-005
+    transcript:
+    - U-00356–U-00361
+    current_text: 'Others make mistakes working out the church calendar. They start Advent a day early.
+      That won''t do either, says Abbo. The king has to take action.
+
+
+      And then Abbo says that, in the past, these stories about the end of the world used to crop up in
+      the kingdom. Not so much lately—we''re in 998—but in the past, from time to time, and people had
+      to work quite hard to calm everybody down.'
+    current_text_sha256: c3b88765c5b9e8d7737330f93d3f0cb7f59f0a21727c8abf7e786bfb56d94f22
+    proposed_text: 'Others disagree over how to calculate the start of Advent. That needs settling too,
+      says Abbo, and he calls on King Robert to help the Church reach agreement.
+
+
+      Then Abbo turns to predictions about the end of the world. Writing around 994, he recalls earlier
+      occasions when such stories circulated and churchmen worked to rebut them.'
+    reason: Original supports disputed Advent start, not one day early. Removes unsupported no-recent-rumors
+      claim and corrects998callback while preserving reminiscence. The closing address is to Robert; the
+      proposal requests royal help, rather than asserting help occurred.
+    evidence:
+    - Q-016
+    - C-012
+    - SRC-011
+    - SRC-012
+    - 'LI-003, proposed pluralization retained unapplied: closing primary address is to Robert, PL 139,
+      470C–D; source reviewer ED-006/008 assessment.'
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-008 after individual presentation on 2026-10-02.
+  - id: ED-009
+    kind: fact
+    chapter_id: CH-005
+    transcript:
+    - U-00362–U-00379
+    current_text: '“I remember when I was a boy,” Abbo says. The date is reckoned to be around 970. “When
+      I was a boy, I myself heard a preacher in a church in Paris warning people that the world would
+      end in the year 1000.”
+
+
+      <!-- Q-018 -->
+
+
+      And Abbo, who has already done his studying even as a boy, remembers trying to silence him. He tries
+      to explain to everyone that the man is wrong, citing Revelation, the Book of Daniel, the Gospels,
+      and so on.
+
+
+      <!-- Q-019 -->
+
+
+      Then, he says, there was that other mistake about the end of the world. “I remember, in the days
+      of good Abbot Richard…” We''re still around 970, more or less. Letters arrive at the monastery saying
+      that somebody in Lorraine has made an absurd calculation.'
+    current_text_sha256: a8fc7e507bd5ee125e80be12e53d5b6de3c2479b080c51bcfaf75dc3dcbc6193
+    proposed_text: 'Abbo remembers hearing a preacher in a church in Paris when he was young. The preacher
+      warned that, once the thousand years were complete, the Antichrist would come, and the Last Judgment
+      would follow soon afterward.
+
+
+      <!-- Q-018 -->
+
+
+      Abbo had already done his studying. He remembers resisting the sermon as forcefully as he could,
+      citing Revelation, the Book of Daniel, the Gospels, and so on.
+
+
+      <!-- Q-019 -->
+
+
+      Then, he says, there was that other mistake about the end of the world. “I remember, in the days
+      of good Abbot Richard…” We''re around 970, more or less. Letters arrive at the monastery saying
+      that somebody in Lorraine has made an absurd calculation.'
+    reason: Adolescentulus supports whenyoung; Paris sermon not dated970in source. Preserve opposition
+      while restoring Antichrist/judgment sequence and avoiding unsupported childhood age. The same conditional
+      patch removes the orphaned still in the following anecdote; the approximate rumor date is retained
+      as the lecture’s estimate, not validated by the calendar calculation.
+    evidence:
+    - Q-017
+    - Q-018
+    - C-013
+    - SRC-011
+    - SF-005
+    - LI-004
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-009 after individual presentation on 2026-10-02.
+  - id: ED-010
+    kind: fact
+    chapter_id: CH-005
+    transcript:
+    - U-00407–U-00417
+    current_text: So, where does that leave us? It's established that the idea of an approaching end of
+      the world circulates from time to time. Connecting it with the year 1000 is perfectly possible too.
+      Somebody did think of it. But whenever these ideas crop up, they're immediately silenced. They have
+      no chance to spread or circulate, because the shepherds of the Church step in at once and stop this
+      kind of reasoning. By 998, when Abbo writes, these are memories of his youth.
+    current_text_sha256: 14c0689a3d3b92813e3a5dc59b149d98b89410a81ce0460c486224f03a1a32b5
+    proposed_text: So, where does that leave us? Predictions about the end do circulate, and some connect
+      it with the year 1000. Abbo even says the rumor about Good Friday and the Annunciation had spread
+      almost everywhere. Churchmen such as Abbo and Richard work to rebut these ideas. By around 994,
+      when Abbo writes, he is recalling earlier episodes. That is evidence of predictions and arguments
+      over them, not of a whole society coming to a halt in 999.
+    reason: Abbo’s explicit wide circulation contradicts no-chance-to-spread assertion. Preserve core
+      distinction universal paralysis/actual predictions; correct remaining998callback.
+    evidence:
+    - C-014
+    - Q-019
+    - SRC-011
+    - SRC-012
+    - SRC-013
+    - SRC-027
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-010 after individual presentation on 2026-10-02.
+  - id: ED-011
+    kind: fact
+    chapter_id: CH-006
+    transcript:
+    - U-00446–U-00451
+    current_text: 'The first person to say this clearly is an early Christian thinker who will have an
+      enormous influence on medieval Christianity: Saint Augustine. He thinks it through and puts it very
+      plainly.'
+    current_text_sha256: 7382e1f5a066d7a02615f4959f1ef188c00f79ffacd301416c53f8c05b7fbb11
+    proposed_text: 'One person who makes the point very clearly is an early Christian thinker who will
+      have an enormous influence on medieval Christianity: Saint Augustine. He thinks it through and puts
+      it very plainly.'
+    reason: Augustine’s influence supported; absolute priority not established and his letter invokes
+      earlier authorities.
+    evidence:
+    - C-015
+    - SRC-031
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly approved ED-011 after individual presentation on 2026-10-02.
+  - id: ED-012
+    kind: fact
+    chapter_id: CH-006
+    transcript:
+    - U-00462–U-00469
+    current_text: 'Hold on. It''s also written that, before the Antichrist comes and then the world ends,
+      the Gospel must be preached to all the peoples of the earth. Has it been preached to everybody yet?
+
+
+      No.
+
+
+      So it won''t be next year.'
+    current_text_sha256: 33e98711d7399e3b5662cd0d7d7070812ba5267d62d5ecbaa15bba174745e66c
+    proposed_text: 'Hold on. It’s also written that the Gospel must be preached to all the peoples of
+      the earth before the end comes. Has it been preached to everybody yet?
+
+
+      No.
+
+
+      So that must happen first. But even then, Augustine says, we won’t know how much time remains.'
+    reason: Augustine197§4requires universal preaching, not a next-calendar-year guarantee. Antichrist
+      not in cited passage. Preserve question/answer beat and uncertainty about timing.
+    evidence:
+    - Q-026
+    - C-015
+    - SRC-029
+    - SRC-031
+    - SRC-032
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-012 after individual presentation on 2026-10-02.
+  - id: ED-013
+    kind: fact
+    chapter_id: CH-006
+    transcript:
+    - U-00470–U-00478
+    current_text: Let's take stock again. Throughout the Middle Ages, millenarian tensions, anxieties
+      about the end of the world, do appear from time to time. But they have no room to spread, because
+      the people at the top won't accept them. Let me give you an example. These things can happen quite
+      often, but they remain contained.
+    current_text_sha256: 1df8f951b4114308948f8b0c5c7e8cd6f9cf56a30282c7479c7582ea90d4d865
+    proposed_text: Let’s take stock again. Throughout the Middle Ages, millenarian tensions, anxieties
+      about the end of the world, do appear from time to time. Church authorities work to contain them.
+      Let me give you an example of how that can happen.
+    reason: Opposition does not prove ideas had no room to spread; aligns with Abbo and clerical followers
+      of Thiota. Preserve institutional response and transition.
+    evidence:
+    - C-016
+    - SRC-011
+    - SRC-014
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-013 after individual presentation on 2026-10-02.
+  - id: ED-014
+    kind: fact
+    chapter_id: CH-006
+    transcript:
+    - U-00489–U-00503
+    current_text: 'She says she knows the date of the end of the world. And, as it happens, it''ll be
+      next year. She claims to know this thing that nobody can know, the monk says, as though God had
+      revealed it to her.
+
+
+      <!-- Q-028 -->
+
+
+      And the people—actually, the monk uses a revealing word: the “common people.” Because, in his view,
+      only the poor fools at the bottom could believe such things. But there are plenty of them. Thiota
+      goes around saying she knows the world will end next year, and many of these common people believe
+      her. They come to her, bringing gifts, asking her to pray for them.
+
+
+      <!-- Q-029 -->
+
+
+      The bishop of Mainz gets a little annoyed. He summons her and questions her. And it emerges—or at
+      least this is what she says—that a priest friend suggested the whole thing. You can put his advice
+      like this: “Go around preaching that the world will end next year. Just see how many presents people
+      bring us.”
+
+
+      And that''s exactly what happens.
+
+
+      <!-- Q-030 -->
+
+
+      The bishop consults the other bishops. They decide she''s certainly not getting out of this without
+      a good beating. They have her flogged in the public square. Then it''s, “Out of here. And don''t
+      let us hear another word from you.”
+
+
+      And that, you might say, puts an end to the millenarian movement in Mainz in 847.'
+    current_text_sha256: 4e4f2fdec8c01a4b03a1197c49c2d99f318df5dcf2d1d9a97243c152e7b617e3
+    proposed_text: 'She says she knows the date of the end of the world. And, as it happens, it’ll be
+      that very year. She claims to know this thing that nobody can know, the monk says, as though God
+      had revealed it to her.
+
+
+      <!-- Q-028 -->
+
+
+      And the people—the monk uses a revealing word, the “common people”—come to her frightened, bringing
+      gifts and asking her to pray for them. But he has something even more shocking to report: some clerics
+      follow her too, as though she were a teacher sent from heaven.
+
+
+      <!-- Q-029 -->
+
+
+      She is brought before the bishops and questioned. And it emerges—or at least this is the confession
+      the annalist reports—that a priest suggested the whole thing, and she preached it for money. You
+      can put the scheme like this: “Go around preaching that the world will end this year. Just see how
+      many presents people bring us.”
+
+
+      And the presents do arrive.
+
+
+      <!-- Q-030 -->
+
+
+      The bishops decide she’s certainly not getting out of this without a good beating. They have her
+      publicly flogged and forbid her to preach. In effect: “That’s enough. We’re not hearing any more
+      of this.”
+
+
+      And that, according to the annalist, puts an end to Thiota’s preaching in 847.'
+    reason: Same-year prophecy in all3references; clerics followed too. Keep common-people observation,
+      gifts, comic scheme and coercive ending; confession remains reported, unspecifiedfriend/square/expulsion
+      removed, institution response accurate.
+    evidence:
+    - Q-027
+    - Q-028
+    - Q-029
+    - Q-030
+    - C-017
+    - SRC-014
+    - SF-002
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-014 after individual presentation on 2026-10-02.
+  - id: ED-015
+    kind: fact
+    chapter_id: CH-007
+    transcript:
+    - U-00563–U-00565
+    current_text: To Sigebert's credit, he doesn't say, “And everybody was frightened that the world would
+      end.” He simply piles up the omens. He's a millenarian himself. The year 1000 has passed, but that
+      round number still has its power.
+    current_text_sha256: 16d051272e3da1120003aae43f8945e07136c80325a2a60a950ec83389f352e9
+    proposed_text: To Sigebert's credit, he doesn't say, “And everybody was frightened that the world
+      would end.” He simply piles up the omens. The number one thousand clearly matters to the way he
+      arranges the story. The year 1000 has passed, but that round number still has its power.
+    reason: Entry does not establish personal millenarian expectation; describe visible textual arrangement,
+      preserve round-number argument.
+    evidence:
+    - Q-031
+    - C-018
+    - SRC-015
+    - LI-002
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly approved ED-015 after individual presentation on 2026-10-02.
+  - id: ED-016
+    kind: fact
+    chapter_id: CH-007
+    transcript:
+    - U-00566–U-00586
+    current_text: 'Another seventy years go by. Around 1170, another chronicler, a Cistercian named Guillaume
+      Godel, has also been reading the chroniclers of the year 1000 and the years that follow. He discovers
+      that in 1010 there were visions, famine, eclipses. Quite enough to be going on with.
+
+
+      Godel writes that all these omens happened in 1010, and that many people were afraid the world would
+      end.
+
+
+      That last part wasn''t in his sources. The people who lived through 1010 told him there had been
+      an eclipse. But Guillaume Godel isn''t a fool. He knows what people think when they see an eclipse.
+      So there we have the first writer to mention collective terror. Unfortunately for us, he puts it
+      in 1010. Exasperating, but there it is.'
+    current_text_sha256: 9338e17cbcd3d532d78b13ccc9d14ef547c66127d766c5090cd6a3b9320e6209
+    proposed_text: 'Another seventy years go by. Around 1170, a chronicle traditionally attributed to
+      Guillaume Godel takes things a step further. Its author has also been reading earlier accounts.
+      Under 1010, the chronicle tells of alarming events and people fearing that the world will end.
+
+
+      Now the fear itself has entered the story. We have to distinguish this later account from what people
+      writing at the time actually said. The chronicler is writing more than a century and a half afterward.
+      And, unfortunately for our familiar story, the entry is still under 1010. Exasperating, but there
+      it is.'
+    reason: Godel attribution insecure; full1010entry/sourcechain not collated and Roy links fear toJerusalem.
+      Remove unsupported categorical source-invention mechanism within this example while preserving later-writing
+      distance, emerging fear and1010payoff. This is a deliberate narrower account, not newly recovered
+      Latin.
+    evidence:
+    - Q-032
+    - C-019
+    - SRC-016
+    - SRC-017
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: reject
+    decision_note: User responded “R” to the individual ED-016 choice; interpreted as reject on 2026-10-02.
+  - id: ED-017
+    kind: fact
+    chapter_id: CH-007
+    transcript:
+    - U-00594–U-00606
+    current_text: 'Then, at last, comes the Renaissance.
+
+
+      <!-- Q-033; C-020 -->
+
+
+      In that enlightened age, historians start appearing who *do* believe that people were terrified
+      the world would end. Take Trithemius. Most of us, quite reasonably, have never heard of him, but
+      he''s an important German humanist writing in the early sixteenth century.
+
+
+      He too has read Sigebert of Gembloux. So he too writes in his chronicle that in the year 1000 there
+      was an earthquake, a comet, visions—and that many people were frightened, fearing the arrival of
+      the last day.
+
+
+      He didn''t read that last part in Sigebert. But you can see how it works. He''s a humanist. It''s
+      the Renaissance now. Those poor people back then were living in the darkness of the Middle Ages.
+      After seeing all those omens, of course they were frightened. How could they not be? And Trithemius
+      writes it down.'
+    current_text_sha256: 992c8bf16fdc3944fbcfc4ad64bfc6b80c7ce7d0646ba3f43921439b895e1c4a
+    proposed_text: 'The next name takes us into the Renaissance.
+
+
+      <!-- Q-033; C-020 -->
+
+
+      Take the annals transmitted under the name of Trithemius. Most of us, quite reasonably, have never
+      heard of him, but he’s an important German humanist of the early sixteenth century.
+
+
+      These annals repeat the omens associated with the year 1000—an earthquake, a comet, visions—and
+      add that many people were frightened, fearing the arrival of the last day.
+
+
+      That last part isn’t in Sigebert. Whether Trithemius himself added it is uncertain. But you can
+      see how the assumption works: those poor people were living in the darkness of the Middle Ages.
+      After seeing all those omens, of course they were frightened. How could they not be? And now that
+      fear is there on the page.'
+    reason: Annales/Chronica distinction and possible interpolation prevent confident personal attribution.
+      Preserve humanist frame and comic imagined assumption; state transmission uncertainty. The Renaissance
+      dates the person, not an unverified date for insertion of the fear clause. The preceding transition
+      and marker are included to avoid the former overconfident frame.
+    evidence:
+    - Q-033
+    - C-020
+    - SRC-015
+    - SRC-018
+    - SF-004
+    - LI-002
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: reject
+    decision_note: User responded “R” to the individual ED-017 choice; interpreted as reject on 2026-10-02.
+  - id: ED-018
+    kind: fact
+    chapter_id: CH-008
+    transcript:
+    - U-00663–U-00676
+    current_text: Let me quote a book that matters enormously in the history of Italian culture. Toward
+      the end of the eighteenth century, Abbot Bettinelli publishes an early, sweeping history of Italian
+      literature and culture. Bettinelli is no minor figure. His book is extremely important. You might
+      even call it prophetic. Published in 1773, its title is *Risorgimento d'Italia*—the revival of Italy—*in
+      Learning, the Arts, and Customs After the Year One Thousand*.
+    current_text_sha256: b8e34fc3fbfb28f8e6a936f93ca3c2241794a1b4b2bf591303e6a7374d74db65
+    proposed_text: Let me quote a book that matters enormously in the history of Italian culture. Toward
+      the end of the eighteenth century, Abbot Bettinelli publishes an early, sweeping history of Italian
+      literature and culture. Bettinelli is no minor figure. His book is extremely important. You might
+      even call it prophetic. Dated 1773, its title is *Risorgimento d'Italia*—the revival of Italy—*in
+      Learning, the Arts, and Customs After the Year One Thousand*.
+    reason: Work bears1773date but published1775; dated preserves lecture’s bibliographical anchor.
+    evidence:
+    - C-022
+    - SRC-020
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: reject
+    decision_note: User responded “R” to the individual ED-018 choice; interpreted as reject on 2026-10-02.
+  - id: ED-019
+    kind: fact
+    chapter_id: CH-009
+    transcript:
+    - U-00775–U-00783
+    current_text: 'And they''re the first to ask: “These terrors of the year 1000 that you''re all so
+      sure about—did they actually happen? Shall we check? Shall we look at what the chroniclers of those
+      years were writing?”'
+    current_text_sha256: 9e2c45dde4538ccb31450164c29d24a16e8ac18b7519dcfa920c152802e0f169
+    proposed_text: 'And they ask: “These terrors of the year 1000 that you''re all so sure about—did they
+      actually happen? Shall we check? Shall we look at what the chroniclers of those years were writing?”'
+    reason: Do not claim universal clerical priority unsupported by retrieved historiography. Retains
+      ideological motive and quoted challenge.
+    evidence:
+    - C-023
+    - SRC-021
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: reject
+    decision_note: User responded “R” to the individual ED-019 choice; interpreted as reject on 2026-10-02.
+  - id: ED-020
+    kind: fact
+    chapter_id: CH-009
+    transcript:
+    - U-00779–U-00783
+    current_text: In other words, more or less what I've been doing here. The people who first ask these
+      questions aren't simply scholars driven by a love of truth. They're also combatants.
+    current_text_sha256: fa9fd21a03316327bf04f825866791b342e12d41bfec1ff83ff9577422cc8bc2
+    proposed_text: In other words, more or less what I've been doing here. The people asking these questions
+      aren't simply scholars driven by a love of truth. They're also combatants.
+    reason: Consistent callback removing unsupported priority while retaining polemical motive.
+    evidence:
+    - C-023
+    - SRC-021
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-020 after individual presentation on 2026-10-02.
+  - id: ED-021
+    kind: fact
+    chapter_id: CH-009
+    transcript:
+    - U-00784–U-00793
+    current_text: In France, the first article on the “supposed terrors of the year 1000” appears in 1873.
+      Its author is a priest, an ecclesiastical scholar, Dom Plaine. For him, showing that the terrors
+      never happened is more than a historical correction. It means proving the secularists, the positivist
+      scientists, wrong when they describe the Church as a promoter of darkness and ignorance.
+    current_text_sha256: 1cb98d4335aff3c0542a7ba02672cf27b47b8a4e7cead4c5f0f0a03e2e0b8e1e
+    proposed_text: In France, an influential article on the “supposed terrors of the year 1000” appears
+      in 1873. Its author is a priest, an ecclesiastical scholar, Dom Plaine. For him, showing that the
+      terrors never happened is more than a historical correction. It means proving the secularists, the
+      positivist scientists, wrong when they describe the Church as a promoter of darkness and ignorance.
+    reason: 1873Plaine importance verified; first-everarticle priority unproved.
+    evidence:
+    - C-023
+    - SRC-021
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-021 after individual presentation on 2026-10-02.
+  - id: ED-022
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00819–U-00829
+    current_text: 'A book has appeared very recently with a title that plainly announces its intentions:
+      *The False Terrors of the Year 1000*. Its author is very well known in France, though not yet in
+      Italy. His name is Sylvain Gouguenheim. Like Peggy Guggenheim, of contemporary art fame—so presumably
+      he may have Jewish origins too. But he''s a Catholic scholar, and he''s written this very combative
+      book.'
+    current_text_sha256: 2da7e9739e73ba421f237c78b10fe18ba43e750a9621b249301435960684f24c
+    proposed_text: 'A book published in 1999 has a title that plainly announces its intentions: *The False
+      Terrors of the Year 1000*. Its author is Sylvain Gouguenheim, very well known in France, though
+      his work has not made the same impact in Italy. It is a very combative book.'
+    reason: 1999book is not recent in2013. Remove unsupported surname-based ancestry guess and private
+      Catholic identity label; preserve author/intellectual context. Group overlapping intro changes.
+    evidence:
+    - C-024
+    - SRC-022
+    - SRC-023
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: accept
+    decision_note: User responded “A” to the individual ED-022 choice; interpreted as approve on 2026-10-02.
+  - id: ED-023
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00850–U-00855
+    current_text: Why is this interesting? Because Gouguenheim, as I was saying, is more than Catholic.
+      He's fiercely, militantly Catholic. And the book that made him famous in France wasn't the one about
+      the terrors of the year 1000.
+    current_text_sha256: 6064c29a0d0551e8ba79807679514972428bb09e7f101624879e1102dcbdff3e
+    proposed_text: Why is this interesting? Because I see a militant defense of Christian culture in Gouguenheim’s
+      work. And the book that made him famous in France wasn’t the one about the terrors of the year 1000.
+    reason: Preserve Barbero’s ideological interpretation as his reading of work; no unverified private
+      religiosity or ultraCatholic biographical certainty.
+    evidence:
+    - C-024
+    - C-025
+    - SRC-022
+    - SRC-025
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: accept
+    decision_note: User responded “A” to the individual ED-023 choice; interpreted as approve on 2026-10-02.
+  - id: ED-024
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00856–U-00860
+    current_text: It was a book published five years earlier, called *Aristotle at Mont Saint-Michel*.
+      You know Mont Saint-Michel, the famous abbey in Normandy, standing out in the sea, cut off from
+      the mainland by the tide.
+    current_text_sha256: 95fa4098c9c3a8ea6dbc06bbae521562c4a32d16013792ffeb545dbe54fe9aeb
+    proposed_text: It was a book published in 2008, called *Aristotle at Mont Saint-Michel*. You know
+      Mont Saint-Michel, the famous abbey in Normandy, standing out in the sea, cut off from the mainland
+      by the tide.
+    reason: 'Fix deictic ambiguity: five years is relative to2013lecture, not earlier than newly corrected1999book.'
+    evidence:
+    - C-026
+    - SRC-024
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: accept
+    decision_note: User responded “A” to the individual ED-024 choice; interpreted as approve on 2026-10-02.
+  - id: ED-025
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00867–U-00873
+    current_text: Gouguenheim claims to have discovered that, in the Middle Ages, the monastery of Mont
+      Saint-Michel was a great center for translation from Greek into Latin. They translated Aristotle
+      there, and Ptolemy, the Greek scientists, directly from Greek into Latin.
+    current_text_sha256: b69b3933d50badbc0d43121342bdad2331afc1c48d0e7de6c61a31eb5e35bc8f
+    proposed_text: Gouguenheim argues that, in the Middle Ages, Mont Saint-Michel was an important center
+      for translating Aristotle directly from Greek into Latin.
+    reason: State disputed thesis rather than discovery; institutional manuscript evidence does not locateJacquesatabbey.
+      Ptolemy uncorroborated. Prior paragraph retains controversy and partial-reading disclaimer.
+    evidence:
+    - Q-039
+    - C-026
+    - SRC-025
+    - SRC-026
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: accept
+    decision_note: User responded “A” to the individual ED-025 choice; interpreted as approve on 2026-10-02.
+  - id: ED-026
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00875–U-00881
+    current_text: 'I think you can already see the implications. But Gouguenheim spells them out in his
+      book. Those pages I have seen. I went and looked at them. What he''s saying, as I''m summarizing
+      it, is this: the story we''ve always been told, that we owe our access to Greek philosophy and science
+      to the Arabs, isn''t true. We Christians translated them ourselves, directly from Greek. We had
+      no need of the Arabs.
+
+
+      And, to make things even clearer, at the end of the book his argument, as I''m putting it here,
+      is that Arabic is completely unsuited to discussing scientific subjects, that the Arabs don''t have
+      the mentality of a scientific people, and that it was therefore absurd to imagine we owed them anything.
+      We owe nothing to medieval Islamic culture.'
+    current_text_sha256: 52a145b911fc7cd231b1b6a43a39c6ddd1244e9943bc87b5038a5f7ab2914d14
+    proposed_text: 'I think you can already see the implications. But Gouguenheim spells them out in his
+      book. Those pages I have seen. I went and looked at them. As I understand his argument, direct translation
+      from Greek makes the Christian West far less dependent on Arabic learning than the familiar account
+      suggests.
+
+
+      He also puts great weight on differences between Greek and Arabic as obstacles to translating Greek
+      thought. To my mind, this becomes a polemical argument about how much Europe owes medieval Islamic
+      culture.'
+    reason: Retrieved review supports direct-transmission and language-obstacle argument, not precise
+      claims about Arabs’mentality or totalunsuitability. Preserve attributed polemic/partialreading and
+      explanatory function, moderate unrecovered severe paraphrases.
+    evidence:
+    - Q-040
+    - C-027
+    - SRC-025
+    - SRC-026
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: reject
+    decision_note: User responded “R” to the individual ED-026 choice; interpreted as reject on 2026-10-02.
+  - id: ED-027
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00885–U-00892
+    current_text: 'What strikes me is that the same scholar who writes *Aristotle at Mont Saint-Michel*
+      writes his next book to remind us, in effect: the terrors of the year 1000 never happened. The secularists
+      have muddled our thinking again. There''s too much talk about medieval millenarianism. None of it
+      is true.'
+    current_text_sha256: 928728ab7b18b18d7b32950d10f51d2c11a0c2bfcc3fc5b4857d78259c8f3109
+    proposed_text: 'What strikes me is that the same scholar who writes *Aristotle at Mont Saint-Michel*
+      had already written the earlier book to remind us, in effect: the terrors of the year 1000 never
+      happened. The secularists have muddled our thinking again. There''s too much talk about medieval
+      millenarianism. None of it is true.'
+    reason: 1999terrors book precedes2008Aristotle; preserve same-author ideological comparison without
+      false sequence.
+    evidence:
+    - Q-041
+    - C-028
+    - SRC-022
+    - SRC-023
+    - SRC-024
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: accept
+    decision_note: User responded “A” to the individual ED-027 choice; interpreted as approve on 2026-10-02.
+  - id: ED-028
+    kind: cut
+    chapter_id: CH-002
+    transcript:
+    - U-00123–U-00123
+    current_text: Much to the delight of Professor Odifreddi, whom I can see sitting in front of me.
+    current_text_sha256: 9ff7028dc918111645f9b8b31e4a33ac832bdc17ea4f1284223b58e4396728fe
+    proposed_text: ''
+    reason: The joke depends on a live attendee and unexplained reputation. Removal lets Lavallée quotation
+      run across a paragraph break; source quotation/comment boundary remains and Q004 marker survives.
+      Pair with ED029 callback if selected.
+    evidence:
+    - Editorial listener proposal; U-00123. No prior-episode permission inferred.
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: accept
+    decision_note: User responded “A” to the individual ED-028 choice on 2026-10-02; ED-029 is linked
+      and pending confirmation.
+  - id: ED-029
+    kind: cut
+    chapter_id: CH-007
+    transcript:
+    - U-00518–U-00525
+    current_text: There's something rather distressing about discovering that we historians can believe
+      and repeat these things. I can still see Professor Odifreddi smiling to himself. Though I suspect
+      you mathematicians do it sometimes too. Anyway. We historians can, unfortunately, convince ourselves
+      of something, then convince our readers, only for someone a hundred years later to discover that
+      it's entirely made up. That's not a pleasant thing to realize.
+    current_text_sha256: a958dd7493afd1d2e683953eb0eb4ef0b7be3e903bc0b578c6ec32fac21fa254
+    proposed_text: There's something rather distressing about discovering that we historians can believe
+      and repeat these things. We can, unfortunately, convince ourselves of something, then convince our
+      readers, only for someone a hundred years later to discover that it's entirely made up. That's not
+      a pleasant thing to realize.
+    reason: Remove secondOdifreddi/mathematicianlivecallback while retaining historian’s embarrassment
+      and reader implication. Pair with priorlivejoke choice; full source retained pending decision.
+    evidence:
+    - Editorial listener proposal; U-00518–U-00525.
+    protected_quote_spans: *id002
+    recommendation: apply
+    decision: accept
+    decision_note: User responded “A” to the individual ED-029 choice on 2026-10-02; matches linked ED-028
+      approval.
+  - id: ED-030
+    kind: addition
+    chapter_id: CH-002
+    transcript:
+    - U-00070–U-00075
+    current_text: Let me read a few lines from Carducci.
+    current_text_sha256: d6e6281a211a20d2dcef6e2bb6401d5c2ed1190fcfa892330e1f2da754bea0c4
+    proposed_text: Let me read a few lines from the Italian poet Carducci.
+    reason: Identify Carducci’s role at first mention for an American listener; poetry is already identified
+      later in the source. Adds no biography or fame claim.
+    evidence:
+    - LI-001
+    - Q-001
+    - C-002
+    - SRC-001
+    - Source U-00735–U-00738
+    protected_quote_spans: []
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly approved ED-030 in response to the individual proposal on 2026-10-02.
+  - id: ED-031
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00207–U-00208
+    current_text: So these people, too, are making arrangements in 999 without expecting the world to
+      end the following year.
+    current_text_sha256: a67a5a429c3a9497eb6d0322295a9c0b8972866251e5f93acbaf74b6460e8f06
+    proposed_text: So these people, too, are making arrangements in 999 for years of work ahead.
+    reason: A long lease establishes plans for future work, not the parties’ private expectations. Narrow
+      the inference consistently with ED-001/004 and ED-032.
+    evidence:
+    - LI-005A
+    - C-007
+    - C-009
+    - SRC-007
+    - SRC-008
+    - SRC-027
+    protected_quote_spans: []
+    recommendation: apply
+    decision: reject
+    decision_note: User responded “R” to the individual ED-031 choice; interpreted as reject on 2026-10-02.
+  - id: ED-032
+    kind: fact
+    chapter_id: CH-004
+    transcript:
+    - U-00328–U-00329
+    current_text: We've just seen that by 999, people have put their minds at rest.
+    current_text_sha256: 0777a2e973faa80a373d0d6b896d0099cfea828bd548b7beab938fe36ad1806b
+    proposed_text: We've just seen people making plans for the future in 999.
+    reason: The documents show particular people planning ahead, not universal reassurance. Preserve the
+      question about earlier predictions and align the scope with ED-010/013.
+    evidence:
+    - SF-001
+    - LI-005B
+    - C-001
+    - C-009
+    - C-010
+    - C-014
+    - SRC-011
+    - SRC-014
+    - SRC-027
+    protected_quote_spans: []
+    recommendation: apply
+    decision: accept
+    decision_note: User responded “A” to the individual ED-032 choice; interpreted as approve on 2026-10-02.
+  - id: ED-033
+    kind: fact
+    chapter_id: CH-008
+    transcript:
+    - U-00629–U-00640
+    current_text: 'They also begin writing histories of modern nations and their literatures. Now, our
+      modern nations are born in the Middle Ages. Our literatures are born in the Middle Ages. But before
+      the year 1000, or after?
+
+
+      After, obviously. Think of the history of Italian literature we learn at school in Italy. It all
+      begins after 1000. Before that, nothing.'
+    current_text_sha256: 6e9e136b8f9cd9eff303565224ee72c55985c2b81f207f1e2cb7871d2c8bc8ed
+    proposed_text: 'They also begin writing histories of their nations and their literatures. In the picture
+      these historians are building, it all begins in the Middle Ages. But before the year 1000, or after?
+
+
+      After, obviously. Think of the history of Italian literature we learn at school in Italy. It all
+      begins after 1000. Before that, nothing.'
+    reason: Locate the categorical origin story in the historians’ constructed picture, rather than asserting
+      a universal chronology or including American listeners in our. Retain Italian school example and
+      subsequent argument.
+    evidence:
+    - LI-006
+    - C-021
+    - SRC-019
+    - SRC-020
+    - Source U-00641–U-00659
+    protected_quote_spans: []
+    recommendation: apply
+    decision: accept
+    decision_note: User responded “A” to the individual ED-033 choice; interpreted as approve on 2026-10-02.
+  - id: ED-034
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00893–U-00897
+    current_text: I'm not taking sides here. The terrors never happened; that's perfectly clear.
+    current_text_sha256: 4b924cd4b5754cb2ebd4ae0b17aa287438e0c558a1f1b15c6a6a77ff03bef380
+    proposed_text: I'm not taking sides in that broader argument over medieval millenarianism. The story
+      of a whole society coming to a halt in 999 is a legend; that's perfectly clear.
+    reason: Separate the broader debate over apocalyptic expectations from the specific universal-shutdown
+      story defined in chapter1. Keeps conclusion and series farewell; does not endorse elimination of
+      every medieval concern.
+    evidence:
+    - LI-010
+    - C-001
+    - C-025
+    - C-029
+    - SRC-022
+    - SRC-027
+    protected_quote_spans: []
+    recommendation: apply
+    decision: reject
+    decision_note: User responded “R” to the individual ED-034 choice; interpreted as reject on 2026-10-02.
+  reason: User authorized date-only reconciliation of ED-006 with retained ED-008/010 callbacks on 2026-10-02;
+    original 34 resolved decisions preserved. Pre-reconciliation script saved as script.before-date-reconciliation.en.md
+    (SHA-256 95574fa23c22c0993c45981c974c8923f687f532ebd6faed39b6ca0d34585860).
+- base_script:
+    path: script.draft.en.md
+    sha256: 8e6f34e62412bc04f56ba54d6a093b257dc18c3d3a9760379f33e51e5796a173
+  input_hashes:
+    ../script.it.md: 40d4433f29e3d0da07235e91730b9ba487954ec6d39fd53e0ff19f21ec209bb9
+    brief.md: e70bdfbfbed1f900320efac6a08846827d9efb00d35d3a3efcc4bb5aee986251
+    quotes.yaml: 88d14227ff6d18c54332ba0ca7b018e87842b21f3b7f415a2098692d12dd6971
+    claims.yaml: 83b041304eeea35bbb8bb1a7f01d95738efde42b0da403dab2561c5868654f33
+    sources.yaml: 75ad7e709fdfdbd27df6024a5a1f36f49de2254edfe392895a655be462829759
+  items:
+  - id: ED-001
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00138–U-00157
+    current_text: 'And, as luck would have it, we have a papal bull dated December 31, 999. On that day,
+      Pope Sylvester II confirms the privileges of a great German monastery, Fulda. The abbot has asked
+      Rome to confirm various privileges, and the pope hands him this document, dated December 31, 999.
+      In effect, he tells him:
+
+
+      “I confirm all your monastery''s privileges, for you and your successors, on condition that every
+      future abbot, once elected, comes to Rome to ask for confirmation of his election. What''s more,
+      in exchange for these privileges, you monks of Fulda must make an annual payment of twelve denarii
+      to Rome. Every year, from now on.”
+
+
+      At least these two aren''t expecting the end of the world, apparently.'
+    current_text_sha256: f483fecf4c52101c81d54cbf9bcab37f8118fe233bbd10ce5d340f3a574544b9
+    proposed_text: 'And, as luck would have it, a papal privilege has come down to us dated December 31,
+      999. Pope Sylvester II confirms the privileges of a great German monastery, Fulda, at its abbot’s
+      request. In effect, he tells him:
+
+
+      “I confirm your monastery’s privileges for you and your successors. And every future abbot must
+      receive his consecration from Rome.”
+
+
+      They’re making arrangements for the future, right on the threshold of the year 1000.'
+    reason: Fulda’s transmitted privilege anticipates successors but specifies consecration, not election
+      confirmation. Twelve denarii belong to neighboring Seeon text. Preserve example while avoiding invented
+      personal delivery and stronger-than-document belief inference.
+    evidence:
+    - Q-005
+    - Q-006
+    - Q-007
+    - C-003
+    - SRC-004
+    - SRC-005
+    - SRC-006
+    protected_quote_spans: &id003 []
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-001 after individual presentation on 2026-10-02.
+  - id: ED-002
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00212–U-00215
+    current_text: It's a diploma, an official charter, issued by Emperor Otto III. That year, Otto has
+      gone to Rome on various business of his own. He arrives, and naturally petitioners crowd around
+      him, asking for donations, confirmations, charters, grants, and so on. Among them are the monks
+      of Farfa.
+    current_text_sha256: cc5844e57b25a7d88e88b87223508597181a85c810a106e25617170c14b11115
+    proposed_text: It's a diploma, an official charter, issued by Emperor Otto III. That year, Otto is
+      in Italy on various business of his own. People seek donations, confirmations, charters, grants,
+      and so on. The abbot of Farfa approaches him at the monastery, asking him to protect its privileges.
+    reason: Diploma is issued at Rome but narrates abbot’s approach at Farfa. Preserve administrative
+      scene without conflating issue place and meeting.
+    evidence:
+    - C-008
+    - SRC-009
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-002 after individual presentation on 2026-10-02.
+  - id: ED-003
+    kind: quotation
+    chapter_id: CH-003
+    transcript:
+    - U-00226–U-00236
+    current_text: '“We confirm this privilege,” the emperor says on October 3, 999. I''m translating his
+      Latin loosely: “From now on, forever, none of our successors may grant the monastery of Farfa to
+      anyone as a benefice. It must always remain the property of the state.” The *res publica*.
+
+
+      <!-- Q-011 -->
+
+
+      “If any future pope, or any emperor who succeeds us, should instead subject the monastery to someone
+      else, let him remember that when Christ comes, and we all have to give an account of ourselves,
+      he will have to answer for breaking my promise.”'
+    current_text_sha256: e8b2cae874dc6e830abce74399976b6e3545763832fe6711e461680a4c7c17dd
+    proposed_text: 'On October 3, 999, the emperor confirms the privilege. The diploma grants that the
+      monastery “shall never be given as a benefice by us or our successors”—a benefice being a grant
+      of its revenues. It must remain attached to the imperial realm and under its abbot. The Latin speaks
+      of the *res publica*.
+
+
+      <!-- Q-011 -->
+
+
+      If a future pope or emperor subjects the monastery to someone else, he must, in the diploma’s words,
+      “render account for it alongside us at Christ’s coming.”'
+    reason: 'Use bounded recovered clauses: Otto binds himself as well as successors and future violator
+      answers alongside him. Retain commentary and res publica; avoid adding omitted fire imagery. The
+      brief gloss explains the existing benefice term.'
+    evidence:
+    - Q-010
+    - Q-011
+    - C-009
+    - SRC-009
+    - SF-003
+    protected_quote_spans:
+    - shall never be given as a benefice by us or our successors
+    - render account for it alongside us at Christ’s coming
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-003 after individual presentation on 2026-10-02.
+  - id: ED-004
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00237–U-00240
+    current_text: But clearly, the emperor isn't expecting the world to end next year either. Is there
+      another way to check?
+    current_text_sha256: 988114ec4f394e2952a87e96aa9c00ba47aca1d72bdb634ebb611f4340b10816
+    proposed_text: The end of the world is part of the emperor’s faith. But here he is making arrangements
+      meant to last. Is there another way to check?
+    reason: Future clauses demonstrate ongoing government, not certainty about private apocalyptic expectation.
+      Preserve eventual judgment versus practical planning contrast.
+    evidence:
+    - C-009
+    - SRC-009
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-004 after individual presentation on 2026-10-02.
+  - id: ED-005
+    kind: quotation
+    chapter_id: CH-004
+    transcript:
+    - U-00296–U-00306
+    current_text: 'Revelation, chapter twenty, verses one through seven:'
+    current_text_sha256: 419d9534e75f24e435b8a0e4a5d765ba95ac7e8551aae1228e9d652c04b5e53b
+    proposed_text: 'Here is the opening of Revelation, chapter twenty:'
+    reason: Spoken excerpt is20:1–3a, though source announces1–7; clarify selection without expanding
+      it.
+    evidence:
+    - Q-012
+    - SRC-010
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly approved ED-005 after individual presentation on 2026-10-02.
+  - id: ED-006
+    kind: fact
+    chapter_id: CH-005
+    transcript:
+    - U-00335–U-00343
+    current_text: His name is Abbo, abbot of Fleury in France. Abbo of Fleury is a great scholar, writer,
+      and intellectual, a man who has read a great deal and understands a great deal. In 998, he writes
+      a short book dedicated to Robert, king of France.
+    current_text_sha256: 3a94102079559b842a9d1188781f14656a2648d243943193a2323f16f1cd5563
+    proposed_text: His name is Abbo, abbot of Fleury in France. Abbo of Fleury is a great scholar, writer,
+      and intellectual, a man who has read a great deal and understands a great deal. Around 994, he writes
+      a short book addressed to the French kings Hugh Capet and Robert.
+    reason: Probable dating around994 and dual addressees; replaces unsupported998. Related date callbacks
+      addressed ED008/ED010.
+    evidence:
+    - C-012
+    - SRC-011
+    - SRC-012
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly approved ED-006 after individual presentation on 2026-10-02.
+  - id: ED-007
+    kind: fact
+    chapter_id: CH-005
+    transcript:
+    - U-00353–U-00355
+    current_text: For example, some clerics don't know the creed properly. They get it wrong when they
+      recite it. They ought to say, “The Holy Spirit proceeds from the Father and the Son.” Instead, they
+      say, “He proceeds from the Father.” They forget the Son. That won't do. It needs correcting.
+    current_text_sha256: d6e63094945a878cadc14c7b3ee2431452f133481fe643e51937d3e276d9fc57
+    proposed_text: For example, some clerics leave words out when they recite the creed. It says the Holy
+      Spirit is neither made, nor created, “nor begotten.” Some leave out “nor begotten.” That won’t do,
+      Abbo says. It needs correcting.
+    reason: Both variants contain Father and Son; omitted phrase is nor begotten. Preserve concrete creed
+      example without inventing Filioque dispute. Quoted short term follows ledger translation.
+    evidence:
+    - Q-015
+    - C-012
+    - SRC-011
+    protected_quote_spans:
+    - nor begotten
+    - nor begotten
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-007 after individual presentation on 2026-10-02.
+  - id: ED-008
+    kind: fact
+    chapter_id: CH-005
+    transcript:
+    - U-00356–U-00361
+    current_text: 'Others make mistakes working out the church calendar. They start Advent a day early.
+      That won''t do either, says Abbo. The king has to take action.
+
+
+      And then Abbo says that, in the past, these stories about the end of the world used to crop up in
+      the kingdom. Not so much lately—we''re in 998—but in the past, from time to time, and people had
+      to work quite hard to calm everybody down.'
+    current_text_sha256: c3b88765c5b9e8d7737330f93d3f0cb7f59f0a21727c8abf7e786bfb56d94f22
+    proposed_text: 'Others disagree over how to calculate the start of Advent. That needs settling too,
+      says Abbo, and he calls on King Robert to help the Church reach agreement.
+
+
+      Then Abbo turns to predictions about the end of the world. Writing around 994, he recalls earlier
+      occasions when such stories circulated and churchmen worked to rebut them.'
+    reason: Original supports disputed Advent start, not one day early. Removes unsupported no-recent-rumors
+      claim and corrects998callback while preserving reminiscence. The closing address is to Robert; the
+      proposal requests royal help, rather than asserting help occurred.
+    evidence:
+    - Q-016
+    - C-012
+    - SRC-011
+    - SRC-012
+    - 'LI-003, proposed pluralization retained unapplied: closing primary address is to Robert, PL 139,
+      470C–D; source reviewer ED-006/008 assessment.'
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-008 after individual presentation on 2026-10-02.
+  - id: ED-009
+    kind: fact
+    chapter_id: CH-005
+    transcript:
+    - U-00362–U-00379
+    current_text: '“I remember when I was a boy,” Abbo says. The date is reckoned to be around 970. “When
+      I was a boy, I myself heard a preacher in a church in Paris warning people that the world would
+      end in the year 1000.”
+
+
+      <!-- Q-018 -->
+
+
+      And Abbo, who has already done his studying even as a boy, remembers trying to silence him. He tries
+      to explain to everyone that the man is wrong, citing Revelation, the Book of Daniel, the Gospels,
+      and so on.
+
+
+      <!-- Q-019 -->
+
+
+      Then, he says, there was that other mistake about the end of the world. “I remember, in the days
+      of good Abbot Richard…” We''re still around 970, more or less. Letters arrive at the monastery saying
+      that somebody in Lorraine has made an absurd calculation.'
+    current_text_sha256: a8fc7e507bd5ee125e80be12e53d5b6de3c2479b080c51bcfaf75dc3dcbc6193
+    proposed_text: 'Abbo remembers hearing a preacher in a church in Paris when he was young. The preacher
+      warned that, once the thousand years were complete, the Antichrist would come, and the Last Judgment
+      would follow soon afterward.
+
+
+      <!-- Q-018 -->
+
+
+      Abbo had already done his studying. He remembers resisting the sermon as forcefully as he could,
+      citing Revelation, the Book of Daniel, the Gospels, and so on.
+
+
+      <!-- Q-019 -->
+
+
+      Then, he says, there was that other mistake about the end of the world. “I remember, in the days
+      of good Abbot Richard…” We''re around 970, more or less. Letters arrive at the monastery saying
+      that somebody in Lorraine has made an absurd calculation.'
+    reason: Adolescentulus supports whenyoung; Paris sermon not dated970in source. Preserve opposition
+      while restoring Antichrist/judgment sequence and avoiding unsupported childhood age. The same conditional
+      patch removes the orphaned still in the following anecdote; the approximate rumor date is retained
+      as the lecture’s estimate, not validated by the calendar calculation.
+    evidence:
+    - Q-017
+    - Q-018
+    - C-013
+    - SRC-011
+    - SF-005
+    - LI-004
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-009 after individual presentation on 2026-10-02.
+  - id: ED-010
+    kind: fact
+    chapter_id: CH-005
+    transcript:
+    - U-00407–U-00417
+    current_text: So, where does that leave us? It's established that the idea of an approaching end of
+      the world circulates from time to time. Connecting it with the year 1000 is perfectly possible too.
+      Somebody did think of it. But whenever these ideas crop up, they're immediately silenced. They have
+      no chance to spread or circulate, because the shepherds of the Church step in at once and stop this
+      kind of reasoning. By 998, when Abbo writes, these are memories of his youth.
+    current_text_sha256: 14c0689a3d3b92813e3a5dc59b149d98b89410a81ce0460c486224f03a1a32b5
+    proposed_text: So, where does that leave us? Predictions about the end do circulate, and some connect
+      it with the year 1000. Abbo even says the rumor about Good Friday and the Annunciation had spread
+      almost everywhere. Churchmen such as Abbo and Richard work to rebut these ideas. By around 994,
+      when Abbo writes, he is recalling earlier episodes. That is evidence of predictions and arguments
+      over them, not of a whole society coming to a halt in 999.
+    reason: Abbo’s explicit wide circulation contradicts no-chance-to-spread assertion. Preserve core
+      distinction universal paralysis/actual predictions; correct remaining998callback.
+    evidence:
+    - C-014
+    - Q-019
+    - SRC-011
+    - SRC-012
+    - SRC-013
+    - SRC-027
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-010 after individual presentation on 2026-10-02.
+  - id: ED-011
+    kind: fact
+    chapter_id: CH-006
+    transcript:
+    - U-00446–U-00451
+    current_text: 'The first person to say this clearly is an early Christian thinker who will have an
+      enormous influence on medieval Christianity: Saint Augustine. He thinks it through and puts it very
+      plainly.'
+    current_text_sha256: 7382e1f5a066d7a02615f4959f1ef188c00f79ffacd301416c53f8c05b7fbb11
+    proposed_text: 'One person who makes the point very clearly is an early Christian thinker who will
+      have an enormous influence on medieval Christianity: Saint Augustine. He thinks it through and puts
+      it very plainly.'
+    reason: Augustine’s influence supported; absolute priority not established and his letter invokes
+      earlier authorities.
+    evidence:
+    - C-015
+    - SRC-031
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly approved ED-011 after individual presentation on 2026-10-02.
+  - id: ED-012
+    kind: fact
+    chapter_id: CH-006
+    transcript:
+    - U-00462–U-00469
+    current_text: 'Hold on. It''s also written that, before the Antichrist comes and then the world ends,
+      the Gospel must be preached to all the peoples of the earth. Has it been preached to everybody yet?
+
+
+      No.
+
+
+      So it won''t be next year.'
+    current_text_sha256: 33e98711d7399e3b5662cd0d7d7070812ba5267d62d5ecbaa15bba174745e66c
+    proposed_text: 'Hold on. It’s also written that the Gospel must be preached to all the peoples of
+      the earth before the end comes. Has it been preached to everybody yet?
+
+
+      No.
+
+
+      So that must happen first. But even then, Augustine says, we won’t know how much time remains.'
+    reason: Augustine197§4requires universal preaching, not a next-calendar-year guarantee. Antichrist
+      not in cited passage. Preserve question/answer beat and uncertainty about timing.
+    evidence:
+    - Q-026
+    - C-015
+    - SRC-029
+    - SRC-031
+    - SRC-032
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-012 after individual presentation on 2026-10-02.
+  - id: ED-013
+    kind: fact
+    chapter_id: CH-006
+    transcript:
+    - U-00470–U-00478
+    current_text: Let's take stock again. Throughout the Middle Ages, millenarian tensions, anxieties
+      about the end of the world, do appear from time to time. But they have no room to spread, because
+      the people at the top won't accept them. Let me give you an example. These things can happen quite
+      often, but they remain contained.
+    current_text_sha256: 1df8f951b4114308948f8b0c5c7e8cd6f9cf56a30282c7479c7582ea90d4d865
+    proposed_text: Let’s take stock again. Throughout the Middle Ages, millenarian tensions, anxieties
+      about the end of the world, do appear from time to time. Church authorities work to contain them.
+      Let me give you an example of how that can happen.
+    reason: Opposition does not prove ideas had no room to spread; aligns with Abbo and clerical followers
+      of Thiota. Preserve institutional response and transition.
+    evidence:
+    - C-016
+    - SRC-011
+    - SRC-014
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-013 after individual presentation on 2026-10-02.
+  - id: ED-014
+    kind: fact
+    chapter_id: CH-006
+    transcript:
+    - U-00489–U-00503
+    current_text: 'She says she knows the date of the end of the world. And, as it happens, it''ll be
+      next year. She claims to know this thing that nobody can know, the monk says, as though God had
+      revealed it to her.
+
+
+      <!-- Q-028 -->
+
+
+      And the people—actually, the monk uses a revealing word: the “common people.” Because, in his view,
+      only the poor fools at the bottom could believe such things. But there are plenty of them. Thiota
+      goes around saying she knows the world will end next year, and many of these common people believe
+      her. They come to her, bringing gifts, asking her to pray for them.
+
+
+      <!-- Q-029 -->
+
+
+      The bishop of Mainz gets a little annoyed. He summons her and questions her. And it emerges—or at
+      least this is what she says—that a priest friend suggested the whole thing. You can put his advice
+      like this: “Go around preaching that the world will end next year. Just see how many presents people
+      bring us.”
+
+
+      And that''s exactly what happens.
+
+
+      <!-- Q-030 -->
+
+
+      The bishop consults the other bishops. They decide she''s certainly not getting out of this without
+      a good beating. They have her flogged in the public square. Then it''s, “Out of here. And don''t
+      let us hear another word from you.”
+
+
+      And that, you might say, puts an end to the millenarian movement in Mainz in 847.'
+    current_text_sha256: 4e4f2fdec8c01a4b03a1197c49c2d99f318df5dcf2d1d9a97243c152e7b617e3
+    proposed_text: 'She says she knows the date of the end of the world. And, as it happens, it’ll be
+      that very year. She claims to know this thing that nobody can know, the monk says, as though God
+      had revealed it to her.
+
+
+      <!-- Q-028 -->
+
+
+      And the people—the monk uses a revealing word, the “common people”—come to her frightened, bringing
+      gifts and asking her to pray for them. But he has something even more shocking to report: some clerics
+      follow her too, as though she were a teacher sent from heaven.
+
+
+      <!-- Q-029 -->
+
+
+      She is brought before the bishops and questioned. And it emerges—or at least this is the confession
+      the annalist reports—that a priest suggested the whole thing, and she preached it for money. You
+      can put the scheme like this: “Go around preaching that the world will end this year. Just see how
+      many presents people bring us.”
+
+
+      And the presents do arrive.
+
+
+      <!-- Q-030 -->
+
+
+      The bishops decide she’s certainly not getting out of this without a good beating. They have her
+      publicly flogged and forbid her to preach. In effect: “That’s enough. We’re not hearing any more
+      of this.”
+
+
+      And that, according to the annalist, puts an end to Thiota’s preaching in 847.'
+    reason: Same-year prophecy in all3references; clerics followed too. Keep common-people observation,
+      gifts, comic scheme and coercive ending; confession remains reported, unspecifiedfriend/square/expulsion
+      removed, institution response accurate.
+    evidence:
+    - Q-027
+    - Q-028
+    - Q-029
+    - Q-030
+    - C-017
+    - SRC-014
+    - SF-002
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-014 after individual presentation on 2026-10-02.
+  - id: ED-015
+    kind: fact
+    chapter_id: CH-007
+    transcript:
+    - U-00563–U-00565
+    current_text: To Sigebert's credit, he doesn't say, “And everybody was frightened that the world would
+      end.” He simply piles up the omens. He's a millenarian himself. The year 1000 has passed, but that
+      round number still has its power.
+    current_text_sha256: 16d051272e3da1120003aae43f8945e07136c80325a2a60a950ec83389f352e9
+    proposed_text: To Sigebert's credit, he doesn't say, “And everybody was frightened that the world
+      would end.” He simply piles up the omens. The number one thousand clearly matters to the way he
+      arranges the story. The year 1000 has passed, but that round number still has its power.
+    reason: Entry does not establish personal millenarian expectation; describe visible textual arrangement,
+      preserve round-number argument.
+    evidence:
+    - Q-031
+    - C-018
+    - SRC-015
+    - LI-002
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly approved ED-015 after individual presentation on 2026-10-02.
+  - id: ED-016
+    kind: fact
+    chapter_id: CH-007
+    transcript:
+    - U-00566–U-00586
+    current_text: 'Another seventy years go by. Around 1170, another chronicler, a Cistercian named Guillaume
+      Godel, has also been reading the chroniclers of the year 1000 and the years that follow. He discovers
+      that in 1010 there were visions, famine, eclipses. Quite enough to be going on with.
+
+
+      Godel writes that all these omens happened in 1010, and that many people were afraid the world would
+      end.
+
+
+      That last part wasn''t in his sources. The people who lived through 1010 told him there had been
+      an eclipse. But Guillaume Godel isn''t a fool. He knows what people think when they see an eclipse.
+      So there we have the first writer to mention collective terror. Unfortunately for us, he puts it
+      in 1010. Exasperating, but there it is.'
+    current_text_sha256: 9338e17cbcd3d532d78b13ccc9d14ef547c66127d766c5090cd6a3b9320e6209
+    proposed_text: 'Another seventy years go by. Around 1170, a chronicle traditionally attributed to
+      Guillaume Godel takes things a step further. Its author has also been reading earlier accounts.
+      Under 1010, the chronicle tells of alarming events and people fearing that the world will end.
+
+
+      Now the fear itself has entered the story. We have to distinguish this later account from what people
+      writing at the time actually said. The chronicler is writing more than a century and a half afterward.
+      And, unfortunately for our familiar story, the entry is still under 1010. Exasperating, but there
+      it is.'
+    reason: Godel attribution insecure; full1010entry/sourcechain not collated and Roy links fear toJerusalem.
+      Remove unsupported categorical source-invention mechanism within this example while preserving later-writing
+      distance, emerging fear and1010payoff. This is a deliberate narrower account, not newly recovered
+      Latin.
+    evidence:
+    - Q-032
+    - C-019
+    - SRC-016
+    - SRC-017
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: reject
+    decision_note: User responded “R” to the individual ED-016 choice; interpreted as reject on 2026-10-02.
+  - id: ED-017
+    kind: fact
+    chapter_id: CH-007
+    transcript:
+    - U-00594–U-00606
+    current_text: 'Then, at last, comes the Renaissance.
+
+
+      <!-- Q-033; C-020 -->
+
+
+      In that enlightened age, historians start appearing who *do* believe that people were terrified
+      the world would end. Take Trithemius. Most of us, quite reasonably, have never heard of him, but
+      he''s an important German humanist writing in the early sixteenth century.
+
+
+      He too has read Sigebert of Gembloux. So he too writes in his chronicle that in the year 1000 there
+      was an earthquake, a comet, visions—and that many people were frightened, fearing the arrival of
+      the last day.
+
+
+      He didn''t read that last part in Sigebert. But you can see how it works. He''s a humanist. It''s
+      the Renaissance now. Those poor people back then were living in the darkness of the Middle Ages.
+      After seeing all those omens, of course they were frightened. How could they not be? And Trithemius
+      writes it down.'
+    current_text_sha256: 992c8bf16fdc3944fbcfc4ad64bfc6b80c7ce7d0646ba3f43921439b895e1c4a
+    proposed_text: 'The next name takes us into the Renaissance.
+
+
+      <!-- Q-033; C-020 -->
+
+
+      Take the annals transmitted under the name of Trithemius. Most of us, quite reasonably, have never
+      heard of him, but he’s an important German humanist of the early sixteenth century.
+
+
+      These annals repeat the omens associated with the year 1000—an earthquake, a comet, visions—and
+      add that many people were frightened, fearing the arrival of the last day.
+
+
+      That last part isn’t in Sigebert. Whether Trithemius himself added it is uncertain. But you can
+      see how the assumption works: those poor people were living in the darkness of the Middle Ages.
+      After seeing all those omens, of course they were frightened. How could they not be? And now that
+      fear is there on the page.'
+    reason: Annales/Chronica distinction and possible interpolation prevent confident personal attribution.
+      Preserve humanist frame and comic imagined assumption; state transmission uncertainty. The Renaissance
+      dates the person, not an unverified date for insertion of the fear clause. The preceding transition
+      and marker are included to avoid the former overconfident frame.
+    evidence:
+    - Q-033
+    - C-020
+    - SRC-015
+    - SRC-018
+    - SF-004
+    - LI-002
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: reject
+    decision_note: User responded “R” to the individual ED-017 choice; interpreted as reject on 2026-10-02.
+  - id: ED-018
+    kind: fact
+    chapter_id: CH-008
+    transcript:
+    - U-00663–U-00676
+    current_text: Let me quote a book that matters enormously in the history of Italian culture. Toward
+      the end of the eighteenth century, Abbot Bettinelli publishes an early, sweeping history of Italian
+      literature and culture. Bettinelli is no minor figure. His book is extremely important. You might
+      even call it prophetic. Published in 1773, its title is *Risorgimento d'Italia*—the revival of Italy—*in
+      Learning, the Arts, and Customs After the Year One Thousand*.
+    current_text_sha256: b8e34fc3fbfb28f8e6a936f93ca3c2241794a1b4b2bf591303e6a7374d74db65
+    proposed_text: Let me quote a book that matters enormously in the history of Italian culture. Toward
+      the end of the eighteenth century, Abbot Bettinelli publishes an early, sweeping history of Italian
+      literature and culture. Bettinelli is no minor figure. His book is extremely important. You might
+      even call it prophetic. Dated 1773, its title is *Risorgimento d'Italia*—the revival of Italy—*in
+      Learning, the Arts, and Customs After the Year One Thousand*.
+    reason: Work bears1773date but published1775; dated preserves lecture’s bibliographical anchor.
+    evidence:
+    - C-022
+    - SRC-020
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: reject
+    decision_note: User responded “R” to the individual ED-018 choice; interpreted as reject on 2026-10-02.
+  - id: ED-019
+    kind: fact
+    chapter_id: CH-009
+    transcript:
+    - U-00775–U-00783
+    current_text: 'And they''re the first to ask: “These terrors of the year 1000 that you''re all so
+      sure about—did they actually happen? Shall we check? Shall we look at what the chroniclers of those
+      years were writing?”'
+    current_text_sha256: 9e2c45dde4538ccb31450164c29d24a16e8ac18b7519dcfa920c152802e0f169
+    proposed_text: 'And they ask: “These terrors of the year 1000 that you''re all so sure about—did they
+      actually happen? Shall we check? Shall we look at what the chroniclers of those years were writing?”'
+    reason: Do not claim universal clerical priority unsupported by retrieved historiography. Retains
+      ideological motive and quoted challenge.
+    evidence:
+    - C-023
+    - SRC-021
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: reject
+    decision_note: User responded “R” to the individual ED-019 choice; interpreted as reject on 2026-10-02.
+  - id: ED-020
+    kind: fact
+    chapter_id: CH-009
+    transcript:
+    - U-00779–U-00783
+    current_text: In other words, more or less what I've been doing here. The people who first ask these
+      questions aren't simply scholars driven by a love of truth. They're also combatants.
+    current_text_sha256: fa9fd21a03316327bf04f825866791b342e12d41bfec1ff83ff9577422cc8bc2
+    proposed_text: In other words, more or less what I've been doing here. The people asking these questions
+      aren't simply scholars driven by a love of truth. They're also combatants.
+    reason: Consistent callback removing unsupported priority while retaining polemical motive.
+    evidence:
+    - C-023
+    - SRC-021
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-020 after individual presentation on 2026-10-02.
+  - id: ED-021
+    kind: fact
+    chapter_id: CH-009
+    transcript:
+    - U-00784–U-00793
+    current_text: In France, the first article on the “supposed terrors of the year 1000” appears in 1873.
+      Its author is a priest, an ecclesiastical scholar, Dom Plaine. For him, showing that the terrors
+      never happened is more than a historical correction. It means proving the secularists, the positivist
+      scientists, wrong when they describe the Church as a promoter of darkness and ignorance.
+    current_text_sha256: 1cb98d4335aff3c0542a7ba02672cf27b47b8a4e7cead4c5f0f0a03e2e0b8e1e
+    proposed_text: In France, an influential article on the “supposed terrors of the year 1000” appears
+      in 1873. Its author is a priest, an ecclesiastical scholar, Dom Plaine. For him, showing that the
+      terrors never happened is more than a historical correction. It means proving the secularists, the
+      positivist scientists, wrong when they describe the Church as a promoter of darkness and ignorance.
+    reason: 1873Plaine importance verified; first-everarticle priority unproved.
+    evidence:
+    - C-023
+    - SRC-021
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: reject
+    decision_note: User explicitly rejected ED-021 after individual presentation on 2026-10-02.
+  - id: ED-022
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00819–U-00829
+    current_text: 'A book has appeared very recently with a title that plainly announces its intentions:
+      *The False Terrors of the Year 1000*. Its author is very well known in France, though not yet in
+      Italy. His name is Sylvain Gouguenheim. Like Peggy Guggenheim, of contemporary art fame—so presumably
+      he may have Jewish origins too. But he''s a Catholic scholar, and he''s written this very combative
+      book.'
+    current_text_sha256: 2da7e9739e73ba421f237c78b10fe18ba43e750a9621b249301435960684f24c
+    proposed_text: 'A book published in 1999 has a title that plainly announces its intentions: *The False
+      Terrors of the Year 1000*. Its author is Sylvain Gouguenheim, very well known in France, though
+      his work has not made the same impact in Italy. It is a very combative book.'
+    reason: 1999book is not recent in2013. Remove unsupported surname-based ancestry guess and private
+      Catholic identity label; preserve author/intellectual context. Group overlapping intro changes.
+    evidence:
+    - C-024
+    - SRC-022
+    - SRC-023
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: accept
+    decision_note: User responded “A” to the individual ED-022 choice; interpreted as approve on 2026-10-02.
+  - id: ED-023
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00850–U-00855
+    current_text: Why is this interesting? Because Gouguenheim, as I was saying, is more than Catholic.
+      He's fiercely, militantly Catholic. And the book that made him famous in France wasn't the one about
+      the terrors of the year 1000.
+    current_text_sha256: 6064c29a0d0551e8ba79807679514972428bb09e7f101624879e1102dcbdff3e
+    proposed_text: Why is this interesting? Because I see a militant defense of Christian culture in Gouguenheim’s
+      work. And the book that made him famous in France wasn’t the one about the terrors of the year 1000.
+    reason: Preserve Barbero’s ideological interpretation as his reading of work; no unverified private
+      religiosity or ultraCatholic biographical certainty.
+    evidence:
+    - C-024
+    - C-025
+    - SRC-022
+    - SRC-025
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: accept
+    decision_note: User responded “A” to the individual ED-023 choice; interpreted as approve on 2026-10-02.
+  - id: ED-024
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00856–U-00860
+    current_text: It was a book published five years earlier, called *Aristotle at Mont Saint-Michel*.
+      You know Mont Saint-Michel, the famous abbey in Normandy, standing out in the sea, cut off from
+      the mainland by the tide.
+    current_text_sha256: 95fa4098c9c3a8ea6dbc06bbae521562c4a32d16013792ffeb545dbe54fe9aeb
+    proposed_text: It was a book published in 2008, called *Aristotle at Mont Saint-Michel*. You know
+      Mont Saint-Michel, the famous abbey in Normandy, standing out in the sea, cut off from the mainland
+      by the tide.
+    reason: 'Fix deictic ambiguity: five years is relative to2013lecture, not earlier than newly corrected1999book.'
+    evidence:
+    - C-026
+    - SRC-024
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: accept
+    decision_note: User responded “A” to the individual ED-024 choice; interpreted as approve on 2026-10-02.
+  - id: ED-025
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00867–U-00873
+    current_text: Gouguenheim claims to have discovered that, in the Middle Ages, the monastery of Mont
+      Saint-Michel was a great center for translation from Greek into Latin. They translated Aristotle
+      there, and Ptolemy, the Greek scientists, directly from Greek into Latin.
+    current_text_sha256: b69b3933d50badbc0d43121342bdad2331afc1c48d0e7de6c61a31eb5e35bc8f
+    proposed_text: Gouguenheim argues that, in the Middle Ages, Mont Saint-Michel was an important center
+      for translating Aristotle directly from Greek into Latin.
+    reason: State disputed thesis rather than discovery; institutional manuscript evidence does not locateJacquesatabbey.
+      Ptolemy uncorroborated. Prior paragraph retains controversy and partial-reading disclaimer.
+    evidence:
+    - Q-039
+    - C-026
+    - SRC-025
+    - SRC-026
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: accept
+    decision_note: User responded “A” to the individual ED-025 choice; interpreted as approve on 2026-10-02.
+  - id: ED-026
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00875–U-00881
+    current_text: 'I think you can already see the implications. But Gouguenheim spells them out in his
+      book. Those pages I have seen. I went and looked at them. What he''s saying, as I''m summarizing
+      it, is this: the story we''ve always been told, that we owe our access to Greek philosophy and science
+      to the Arabs, isn''t true. We Christians translated them ourselves, directly from Greek. We had
+      no need of the Arabs.
+
+
+      And, to make things even clearer, at the end of the book his argument, as I''m putting it here,
+      is that Arabic is completely unsuited to discussing scientific subjects, that the Arabs don''t have
+      the mentality of a scientific people, and that it was therefore absurd to imagine we owed them anything.
+      We owe nothing to medieval Islamic culture.'
+    current_text_sha256: 52a145b911fc7cd231b1b6a43a39c6ddd1244e9943bc87b5038a5f7ab2914d14
+    proposed_text: 'I think you can already see the implications. But Gouguenheim spells them out in his
+      book. Those pages I have seen. I went and looked at them. As I understand his argument, direct translation
+      from Greek makes the Christian West far less dependent on Arabic learning than the familiar account
+      suggests.
+
+
+      He also puts great weight on differences between Greek and Arabic as obstacles to translating Greek
+      thought. To my mind, this becomes a polemical argument about how much Europe owes medieval Islamic
+      culture.'
+    reason: Retrieved review supports direct-transmission and language-obstacle argument, not precise
+      claims about Arabs’mentality or totalunsuitability. Preserve attributed polemic/partialreading and
+      explanatory function, moderate unrecovered severe paraphrases.
+    evidence:
+    - Q-040
+    - C-027
+    - SRC-025
+    - SRC-026
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: reject
+    decision_note: User responded “R” to the individual ED-026 choice; interpreted as reject on 2026-10-02.
+  - id: ED-027
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00885–U-00892
+    current_text: 'What strikes me is that the same scholar who writes *Aristotle at Mont Saint-Michel*
+      writes his next book to remind us, in effect: the terrors of the year 1000 never happened. The secularists
+      have muddled our thinking again. There''s too much talk about medieval millenarianism. None of it
+      is true.'
+    current_text_sha256: 928728ab7b18b18d7b32950d10f51d2c11a0c2bfcc3fc5b4857d78259c8f3109
+    proposed_text: 'What strikes me is that the same scholar who writes *Aristotle at Mont Saint-Michel*
+      had already written the earlier book to remind us, in effect: the terrors of the year 1000 never
+      happened. The secularists have muddled our thinking again. There''s too much talk about medieval
+      millenarianism. None of it is true.'
+    reason: 1999terrors book precedes2008Aristotle; preserve same-author ideological comparison without
+      false sequence.
+    evidence:
+    - Q-041
+    - C-028
+    - SRC-022
+    - SRC-023
+    - SRC-024
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: accept
+    decision_note: User responded “A” to the individual ED-027 choice; interpreted as approve on 2026-10-02.
+  - id: ED-028
+    kind: cut
+    chapter_id: CH-002
+    transcript:
+    - U-00123–U-00123
+    current_text: Much to the delight of Professor Odifreddi, whom I can see sitting in front of me.
+    current_text_sha256: 9ff7028dc918111645f9b8b31e4a33ac832bdc17ea4f1284223b58e4396728fe
+    proposed_text: ''
+    reason: The joke depends on a live attendee and unexplained reputation. Removal lets Lavallée quotation
+      run across a paragraph break; source quotation/comment boundary remains and Q004 marker survives.
+      Pair with ED029 callback if selected.
+    evidence:
+    - Editorial listener proposal; U-00123. No prior-episode permission inferred.
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: accept
+    decision_note: User responded “A” to the individual ED-028 choice on 2026-10-02; ED-029 is linked
+      and pending confirmation.
+  - id: ED-029
+    kind: cut
+    chapter_id: CH-007
+    transcript:
+    - U-00518–U-00525
+    current_text: There's something rather distressing about discovering that we historians can believe
+      and repeat these things. I can still see Professor Odifreddi smiling to himself. Though I suspect
+      you mathematicians do it sometimes too. Anyway. We historians can, unfortunately, convince ourselves
+      of something, then convince our readers, only for someone a hundred years later to discover that
+      it's entirely made up. That's not a pleasant thing to realize.
+    current_text_sha256: a958dd7493afd1d2e683953eb0eb4ef0b7be3e903bc0b578c6ec32fac21fa254
+    proposed_text: There's something rather distressing about discovering that we historians can believe
+      and repeat these things. We can, unfortunately, convince ourselves of something, then convince our
+      readers, only for someone a hundred years later to discover that it's entirely made up. That's not
+      a pleasant thing to realize.
+    reason: Remove secondOdifreddi/mathematicianlivecallback while retaining historian’s embarrassment
+      and reader implication. Pair with priorlivejoke choice; full source retained pending decision.
+    evidence:
+    - Editorial listener proposal; U-00518–U-00525.
+    protected_quote_spans: *id003
+    recommendation: apply
+    decision: accept
+    decision_note: User responded “A” to the individual ED-029 choice on 2026-10-02; matches linked ED-028
+      approval.
+  - id: ED-030
+    kind: addition
+    chapter_id: CH-002
+    transcript:
+    - U-00070–U-00075
+    current_text: Let me read a few lines from Carducci.
+    current_text_sha256: d6e6281a211a20d2dcef6e2bb6401d5c2ed1190fcfa892330e1f2da754bea0c4
+    proposed_text: Let me read a few lines from the Italian poet Carducci.
+    reason: Identify Carducci’s role at first mention for an American listener; poetry is already identified
+      later in the source. Adds no biography or fame claim.
+    evidence:
+    - LI-001
+    - Q-001
+    - C-002
+    - SRC-001
+    - Source U-00735–U-00738
+    protected_quote_spans: []
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly approved ED-030 in response to the individual proposal on 2026-10-02.
+  - id: ED-031
+    kind: fact
+    chapter_id: CH-003
+    transcript:
+    - U-00207–U-00208
+    current_text: So these people, too, are making arrangements in 999 without expecting the world to
+      end the following year.
+    current_text_sha256: a67a5a429c3a9497eb6d0322295a9c0b8972866251e5f93acbaf74b6460e8f06
+    proposed_text: So these people, too, are making arrangements in 999 for years of work ahead.
+    reason: A long lease establishes plans for future work, not the parties’ private expectations. Narrow
+      the inference consistently with ED-001/004 and ED-032.
+    evidence:
+    - LI-005A
+    - C-007
+    - C-009
+    - SRC-007
+    - SRC-008
+    - SRC-027
+    protected_quote_spans: []
+    recommendation: apply
+    decision: reject
+    decision_note: User responded “R” to the individual ED-031 choice; interpreted as reject on 2026-10-02.
+  - id: ED-032
+    kind: fact
+    chapter_id: CH-004
+    transcript:
+    - U-00328–U-00329
+    current_text: We've just seen that by 999, people have put their minds at rest.
+    current_text_sha256: 0777a2e973faa80a373d0d6b896d0099cfea828bd548b7beab938fe36ad1806b
+    proposed_text: We've just seen people making plans for the future in 999.
+    reason: The documents show particular people planning ahead, not universal reassurance. Preserve the
+      question about earlier predictions and align the scope with ED-010/013.
+    evidence:
+    - SF-001
+    - LI-005B
+    - C-001
+    - C-009
+    - C-010
+    - C-014
+    - SRC-011
+    - SRC-014
+    - SRC-027
+    protected_quote_spans: []
+    recommendation: apply
+    decision: accept
+    decision_note: User responded “A” to the individual ED-032 choice; interpreted as approve on 2026-10-02.
+  - id: ED-033
+    kind: fact
+    chapter_id: CH-008
+    transcript:
+    - U-00629–U-00640
+    current_text: 'They also begin writing histories of modern nations and their literatures. Now, our
+      modern nations are born in the Middle Ages. Our literatures are born in the Middle Ages. But before
+      the year 1000, or after?
+
+
+      After, obviously. Think of the history of Italian literature we learn at school in Italy. It all
+      begins after 1000. Before that, nothing.'
+    current_text_sha256: 6e9e136b8f9cd9eff303565224ee72c55985c2b81f207f1e2cb7871d2c8bc8ed
+    proposed_text: 'They also begin writing histories of their nations and their literatures. In the picture
+      these historians are building, it all begins in the Middle Ages. But before the year 1000, or after?
+
+
+      After, obviously. Think of the history of Italian literature we learn at school in Italy. It all
+      begins after 1000. Before that, nothing.'
+    reason: Locate the categorical origin story in the historians’ constructed picture, rather than asserting
+      a universal chronology or including American listeners in our. Retain Italian school example and
+      subsequent argument.
+    evidence:
+    - LI-006
+    - C-021
+    - SRC-019
+    - SRC-020
+    - Source U-00641–U-00659
+    protected_quote_spans: []
+    recommendation: apply
+    decision: accept
+    decision_note: User responded “A” to the individual ED-033 choice; interpreted as approve on 2026-10-02.
+  - id: ED-034
+    kind: fact
+    chapter_id: CH-010
+    transcript:
+    - U-00893–U-00897
+    current_text: I'm not taking sides here. The terrors never happened; that's perfectly clear.
+    current_text_sha256: 4b924cd4b5754cb2ebd4ae0b17aa287438e0c558a1f1b15c6a6a77ff03bef380
+    proposed_text: I'm not taking sides in that broader argument over medieval millenarianism. The story
+      of a whole society coming to a halt in 999 is a legend; that's perfectly clear.
+    reason: Separate the broader debate over apocalyptic expectations from the specific universal-shutdown
+      story defined in chapter1. Keeps conclusion and series farewell; does not endorse elimination of
+      every medieval concern.
+    evidence:
+    - LI-010
+    - C-001
+    - C-025
+    - C-029
+    - SRC-022
+    - SRC-027
+    protected_quote_spans: []
+    recommendation: apply
+    decision: reject
+    decision_note: User responded “R” to the individual ED-034 choice; interpreted as reject on 2026-10-02.
+  - id: ED-035
+    kind: fact
+    chapter_id: CH-005
+    transcript:
+    - U-00358–U-00361
+    current_text: we're in 998
+    current_text_sha256: bd0084884ff54929ece9769e0bd15c6847208b8c5921540782f41d31cc0d5ef1
+    proposed_text: we're around 994
+    reason: Date-only alignment with accepted ED-006; all other wording in rejected ED-008/010 stays intact.
+    evidence:
+    - C-012
+    - SRC-011
+    - SRC-012
+    protected_quote_spans: []
+    recommendation: apply
+    decision: accept
+    decision_note: User selected “Align only the two callbacks to around 994 (Recommended)” in response
+      to the exact two date-only replacements on 2026-10-02. No other rejected correction is authorized.
+  - id: ED-036
+    kind: fact
+    chapter_id: CH-005
+    transcript:
+    - U-00407–U-00417
+    current_text: By 998, when Abbo writes,
+    current_text_sha256: 2db919b4382b55eda139a29fdd33e9a4c4059b84b97ed074ddba31e2b77aacfb
+    proposed_text: Around 994, when Abbo writes,
+    reason: Date-only alignment with accepted ED-006; all other wording in rejected ED-008/010 stays intact.
+    evidence:
+    - C-012
+    - SRC-011
+    - SRC-012
+    protected_quote_spans: []
+    recommendation: apply
+    decision: accept
+    decision_note: User selected “Align only the two callbacks to around 994 (Recommended)” in response
+      to the exact two date-only replacements on 2026-10-02. No other rejected correction is authorized.
+  reason: User authorized audience revisions for issues 1–4 and 6 on 2026-10-02; issue 5 is proposal only.
+    All 36 earlier choices are embodied in the archived pre-audience final and preserved here. Original
+    frozen draft archived as script.draft.before-audience-revision.en.md.
+- base_script: *id004
+  input_hashes:
+    ../script.it.md: 40d4433f29e3d0da07235e91730b9ba487954ec6d39fd53e0ff19f21ec209bb9
+    brief.md: cfc74d6a505d4f823edd40ec65218348983ac73e232a77aa9a6116405a12f9b8
+    quotes.yaml: 88d14227ff6d18c54332ba0ca7b018e87842b21f3b7f415a2098692d12dd6971
+    claims.yaml: 83b041304eeea35bbb8bb1a7f01d95738efde42b0da403dab2561c5868654f33
+    sources.yaml: 75ad7e709fdfdbd27df6024a5a1f36f49de2254edfe392895a655be462829759
+    audience-edits.json: b2ebf8c9cc7ffbaca89ff0ea06cba3c49bf7e081026e95af1427174318954aba
+    script.before-audience-revision.en.md: 56a5b645814913a7ffef8b30b9c8d204df122ffe45469c3adb406829724a6cc7
+  items:
+  - id: ED-037
+    kind: cut
+    chapter_id: CH-001
+    transcript: *id005
+    current_text: 'Our subject this time is perhaps the least sensational of the three. When I started
+      telling friends what I was planning to talk about, I''d say, “You know, the right of the first night,
+      or the idea of a flat earth—it isn''t necessarily true that people in the Middle Ages…” And they
+      looked quite surprised.
+
+
+      The fears of the year 1000 are a little more out of fashion. Perhaps not everyone still believes
+      in them. Even online, if you search for the fears or terrors of the year 1000, most of the sites
+      you find talk about the *legend* of those fears. So perhaps I''m preaching to the converted. Still,
+      I think it''s interesting to see how an image of the Middle Ages was put together, an image that
+      turns out to be entirely legendary, entirely invented, and that learned people believed for a very
+      long time. And did they ever believe it.'
+    current_text_sha256: c5835c8d10ae4d0b19cf664fda88235ccfc1eb8c84ce0b919a871d491203d11d
+    proposed_text: 'When I started telling friends what I was planning to talk about, I''d say, “You know,
+      the right of the first night, or the idea of a flat earth—it isn''t necessarily true that people
+      in the Middle Ages…” And they looked quite surprised.
+
+
+      Today we''re looking at the terrors of the year 1000: the story of a world brought to a standstill
+      because everyone thought it was about to end. How did that image of the Middle Ages take shape?
+      And how did learned people come to believe an invented story for so long? Because they certainly
+      believed it. And did they ever.'
+    reason: Name and explain the subject immediately, then establish the puzzle of scholarly belief. Remove
+      the least-sensational, unfashionable, internet, and preaching-to-the-converted apologies; preserve
+      the friends anecdote and emphatic comic beat. This changes the opening emphasis under issue 2, not
+      the later scope argument.
+    evidence: *id006
+    protected_quote_spans: *id007
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly authorized implementation for issues 2, 6 on 2026-10-02 in the six-point
+      revision request. Issue 5 excluded. Exact wording implements that authorization.
+  - id: ED-038
+    kind: cut
+    chapter_id: CH-001
+    transcript: *id008
+    current_text: Since this is an old story, and perhaps a slightly unfashionable one, let me remind
+      you exactly what we're talking about.
+    current_text_sha256: af80f785991c41361687ccd99479725415ad0808dc08d20b44f1eea4c6587d7f
+    proposed_text: So what exactly are “the terrors of the year 1000”?
+    reason: Remove another dismissal of the topic and introduce the existing definition directly.
+    evidence: *id009
+    protected_quote_spans: *id010
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly authorized implementation for issues 2, 6 on 2026-10-02 in the six-point
+      revision request. Issue 5 excluded. Exact wording implements that authorization.
+  - id: ED-039
+    kind: cut
+    chapter_id: CH-002
+    transcript: *id011
+    current_text: Let me read a few lines from the Italian poet Carducci. He writes this in the first
+      of his discourses on the development of the nation's literature. It's a history of Italian literature.
+      Why should the terrors of the year 1000 matter to him there? We'll come back to that. For now, let's
+      hear Carducci. This is a man who knows how to write.
+    current_text_sha256: 50a7d44f3496ac292eaeb7c130721765b0b7a1697735efe6d82f36be3305ba1e
+    proposed_text: Let me read a few lines from the Italian poet Carducci. He's writing about the history
+      of Italian literature. Why would the terrors of the year 1000 belong in a history of literature?
+      We'll come back to that. For now, let's hear Carducci. This is a man who knows how to write.
+    reason: Make the national-literature connection audible at first mention; drop the formal discourse
+      locator, which adds reference burden without advancing this argument. Preserve the promised return
+      and the praise that sets up the quotation.
+    evidence: *id012
+    protected_quote_spans: *id013
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly authorized implementation for issues 3, 6 on 2026-10-02 in the six-point
+      revision request. Issue 5 excluded. Exact wording implements that authorization.
+  - id: ED-040
+    kind: cut
+    chapter_id: CH-003
+    transcript: *id014
+    current_text: 'The abbot rents the land to the two brothers for a period of…
+
+
+      Let me prepare you for this. Until fairly recently, sharecropping was common in the Italian countryside.
+      On the face of it, the arrangement looks like an equal partnership. In practice, it heavily favors
+      the landowner. The contract normally lasts one year. At the end of the harvest, at Martinmas, the
+      tenant settles up, and if the owner wants to throw him out, he can. Think of Ermanno Olmi''s film
+      *The Tree of Wooden Clogs*, which some of you may have seen.
+
+
+      In the Middle Ages, things aren''t like that. There aren''t many hands to work the land. One of
+      a landowner''s great problems is finding people who will stay. That''s especially true for monks,
+      who have other things to think about besides constantly looking after their fields. If anything,
+      you''d like to make the workers stay, if you can, rather than throw them out. So medieval leases
+      tend to run for a long time.'
+    current_text_sha256: 70d1674aaa4e45d27280b4f2c80df3e46e2ed0ce4c1cd43356806608a253714e
+    proposed_text: Now, how long is this lease? Remember, in the Middle Ages, there aren't many people
+      available to work the land. A landowner needs workers who'll stay. That's especially true for monks,
+      who have other things to do besides looking after their fields. If anything, you'd like to make
+      the workers stay, if you can, rather than throw them out. So medieval leases tend to run for a long
+      time.
+    reason: Remove the sharecropping comparison, Martinmas, and film reference as authorized. Keep the
+      labor-shortage explanation, the monks’ incentive, and the setup for the twenty-nine-year term. The
+      later crop shares, penalty, and inference remain unchanged.
+    evidence: *id015
+    protected_quote_spans: *id016
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly authorized implementation for issues 3, 6 on 2026-10-02 in the six-point
+      revision request. Issue 5 excluded. Exact wording implements that authorization.
+  - id: ED-041
+    kind: cut
+    chapter_id: CH-004
+    transcript: *id017
+    current_text: That's one possible line of reasoning. So possible, if you'll allow me a brief digression,
+      that people still follow it today. We don't necessarily know any more about these things than people
+      did in the Middle Ages. Every so often, a sect appears and announces that the world is about to
+      end. Admittedly, that happens more readily in Protestant Texas than here in Italy. But it still
+      happens. The followers give all their property to the leader, and sometimes they even commit suicide
+      together.
+    current_text_sha256: 9ade87a2768ffcd6a1f65396dad2a45ed36ce3fb89ddf2fc8c70d295644d7fc2
+    proposed_text: That's one way to read it. And people still read it that way today. We don't necessarily
+      know any more about these things than people did in the Middle Ages. Every so often, a sect appears
+      and announces that the world is about to end. This may happen in Texas. The followers give all their
+      property to the leader, and sometimes they even commit suicide together.
+    reason: Remove the Protestant label and the comparison with Italy, using the user’s suggested Texas
+      phrasing. Smooth the translated “so possible” lead-in; retain the modern aside and its consequences.
+    evidence: *id018
+    protected_quote_spans: *id019
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly authorized implementation for issues 4, 6 on 2026-10-02 in the six-point
+      revision request. Issue 5 excluded. Exact wording implements that authorization.
+  - id: ED-042
+    kind: cut
+    chapter_id: CH-007
+    transcript: *id020
+    current_text: 'How much of our time have I used up? A good deal, fortunately for you. But remember
+      where we started. We began with writers of real stature: Carducci, respected and authoritative historians
+      of their day. They told us about collective terror in the last months and days before the year 1000,
+      about churches packed with frightened people. I don''t need to go through it again.'
+    current_text_sha256: e88b584d62c27b024cf5c6f8e43e84f064a11f98968d85c0c971eab25f24efd3
+    proposed_text: 'Remember where we started: writers of real stature, Carducci and respected historians
+      of his day. They told us about collective terror in the last months and days before the year 1000,
+      about churches packed with frightened people.'
+    reason: Remove elapsed-time and recap apologies that make the episode feel as if it is winding down.
+      Keep the return to the opening evidence and repair the list of poet and historians.
+    evidence: *id021
+    protected_quote_spans: *id022
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly authorized implementation for issues 1, 6 on 2026-10-02 in the six-point
+      revision request. Issue 5 excluded. Exact wording implements that authorization.
+  - id: ED-043
+    kind: cut
+    chapter_id: CH-008
+    transcript: *id023
+    current_text: 'After, obviously. Think of the history of Italian literature we learn at school in
+      Italy. It all begins after 1000. Before that, nothing.
+
+
+      So these early scholars, putting together their great surveys, find that the Middle Ages up to about
+      1000 have left relatively little evidence. Not much seems to happen. Afterward, everything bursts
+      into life. Provençal literature, French literature in the *langue d''oïl*, then Italian literature.
+      The troubadours, all of it. The great cathedrals. A great civilization coming into being after the
+      year 1000.'
+    current_text_sha256: 7603276067976be20284b87d27cf6895ec1da979d526bdcd2ebaeddba2b7bdcd
+    proposed_text: 'After, obviously. Think of the history of Italian literature taught in Italian schools.
+      It all begins after 1000. Before that, nothing.
+
+
+      So these early scholars, putting together their histories, find relatively little evidence from
+      before the year 1000. Not much seems to happen. Afterward, everything bursts into life: French literature,
+      then Italian literature. The great cathedrals. A whole civilization coming into being after the
+      year 1000.'
+    reason: Remove the Provençal/langue d’oïl/troubadour catalog while retaining the literary and architectural
+      examples, chronological order, and scholars’ viewpoint established immediately before this passage.
+      Clarify the Italian-school reference for American listeners.
+    evidence: *id024
+    protected_quote_spans: *id025
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly authorized implementation for issues 3, 6 on 2026-10-02 in the six-point
+      revision request. Issue 5 excluded. Exact wording implements that authorization.
+  - id: ED-044
+    kind: cut
+    chapter_id: CH-008
+    transcript: *id026
+    current_text: Let me quote a book that matters enormously in the history of Italian culture. Toward
+      the end of the eighteenth century, Abbot Bettinelli publishes an early, sweeping history of Italian
+      literature and culture. Bettinelli is no minor figure. His book is extremely important. You might
+      even call it prophetic. Published in 1773, its title is *Risorgimento d'Italia*—the revival of Italy—*in
+      Learning, the Arts, and Customs After the Year One Thousand*.
+    current_text_sha256: b8e34fc3fbfb28f8e6a936f93ca3c2241794a1b4b2bf591303e6a7374d74db65
+    proposed_text: 'Take Abbot Bettinelli, an important figure in Italian culture. In 1773, he publishes
+      a sweeping history of Italian literature and culture. Listen to the title: *The Revival of Italy
+      in Learning, the Arts, and Customs After the Year One Thousand*.'
+    reason: Remove repeated importance claims and the unexplained prophetic/Risorgimento wordplay. Give
+      the full title in English so its “after the year 1000” premise carries the argument. Retain the
+      user’s existing publication date.
+    evidence: *id027
+    protected_quote_spans: *id028
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly authorized implementation for issues 3, 6 on 2026-10-02 in the six-point
+      revision request. Issue 5 excluded. Exact wording implements that authorization.
+  - id: ED-045
+    kind: cut
+    chapter_id: CH-008
+    transcript: *id029
+    current_text: And remember where Carducci writes his version? I told you earlier, but you've forgotten.
+      In his first discourse on the development of the nation's literature.
+    current_text_sha256: 3ff8b8f078602cd49fe88ca37a44877790feb6b48917ac5570a19ad9df61b21d
+    proposed_text: And remember where Carducci tells this story? I told you earlier, but you've forgotten.
+      In his history of Italian literature.
+    reason: Align the callback with the simpler introduction and retain the joke about the audience forgetting.
+    evidence: *id030
+    protected_quote_spans: *id031
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly authorized implementation for issues 3, 6 on 2026-10-02 in the six-point
+      revision request. Issue 5 excluded. Exact wording implements that authorization.
+  - id: ED-046
+    kind: cut
+    chapter_id: CH-008
+    transcript: *id032
+    current_text: 'Well, we''re nearly there.
+
+
+      '
+    current_text_sha256: 8b898a3749b0d1112f8ce994ad834ccb32b79d81ff7136c69efb097549a035bd
+    proposed_text: ''
+    reason: Remove a premature closing announcement before the ideological argument.
+    evidence: *id033
+    protected_quote_spans: *id034
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly authorized implementation for issues 1 on 2026-10-02 in the six-point
+      revision request. Issue 5 excluded. Exact wording implements that authorization.
+  - id: ED-047
+    kind: cut
+    chapter_id: CH-009
+    transcript: *id035
+    current_text: We've made good progress, I'd say. There's one more aspect I'd like to emphasize. It
+      may make this business feel a little more relevant than all the talk about twelfth-century monks
+      I've inflicted on you.
+    current_text_sha256: f186426721cb569528ed9daf3bd58f22f17abce0d06c2b3f81d8a4829cdd757f
+    proposed_text: Now we come to the ideological battles behind this story.
+    reason: Replace the progress report and apology for medieval detail with a direct transition to the
+      next part of the argument.
+    evidence: *id036
+    protected_quote_spans: *id037
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly authorized implementation for issues 1, 2, 6 on 2026-10-02 in the six-point
+      revision request. Issue 5 excluded. Exact wording implements that authorization.
+  - id: ED-048
+    kind: cut
+    chapter_id: CH-009
+    transcript: *id038
+    current_text: 'There''s one last thing I''d like to tell you, which takes this a little further and
+      brings it closer to our own time.
+
+
+      '
+    current_text_sha256: 498364c61f4c664a9b183c973dd6bdc1b68ab2ef9dab6b52d9ee908f13c2720e
+    proposed_text: ''
+    reason: Remove the extra “one last thing” announcement; the next chapter already establishes the modern
+      continuation.
+    evidence: *id039
+    protected_quote_spans: *id040
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly authorized implementation for issues 1 on 2026-10-02 in the six-point
+      revision request. Issue 5 excluded. Exact wording implements that authorization.
+  - id: ED-049
+    kind: cut
+    chapter_id: CH-010
+    transcript: *id041
+    current_text: 'Why is this interesting? Because I see a militant defense of Christian culture in Gouguenheim’s
+      work. And the book that made him famous in France wasn’t the one about the terrors of the year 1000.
+
+
+      <!-- C-026 -->
+
+
+      It was a book published in 2008, called *Aristotle at Mont Saint-Michel*. You know Mont Saint-Michel,
+      the famous abbey in Normandy, standing out in the sea, cut off from the mainland by the tide.
+
+
+      <!-- Q-039 -->
+
+
+      In that book, Gouguenheim makes a claim. And I say “claim” because the book caused furious arguments.
+      Eminent scholars called it rubbish. Other eminent scholars said it was very interesting. I haven''t
+      read the whole book yet, so I''m only telling you what I know about it in outline.
+
+
+      Gouguenheim argues that, in the Middle Ages, Mont Saint-Michel was an important center for translating
+      Aristotle directly from Greek into Latin.
+
+
+      <!-- Q-040; C-027 -->
+
+
+      I think you can already see the implications. But Gouguenheim spells them out in his book. Those
+      pages I have seen. I went and looked at them. What he''s saying, as I''m summarizing it, is this:
+      the story we''ve always been told, that we owe our access to Greek philosophy and science to the
+      Arabs, isn''t true. We Christians translated them ourselves, directly from Greek. We had no need
+      of the Arabs.
+
+
+      And, to make things even clearer, at the end of the book his argument, as I''m putting it here,
+      is that Arabic is completely unsuited to discussing scientific subjects, that the Arabs don''t have
+      the mentality of a scientific people, and that it was therefore absurd to imagine we owed them anything.
+      We owe nothing to medieval Islamic culture.
+
+
+      You can see that this is just a tiny bit provocative. And it did indeed set off furious debates
+      in France.
+
+
+      <!-- Q-041; C-028 -->
+
+
+      What strikes me is that the same scholar who writes *Aristotle at Mont Saint-Michel* had already
+      written the earlier book to remind us, in effect: the terrors of the year 1000 never happened. The
+      secularists have muddled our thinking again. There''s too much talk about medieval millenarianism.
+      None of it is true.
+
+
+      '
+    current_text_sha256: 49d5ffe7a07c8dbcf732377d9a54d9b134bc0533deb92bf384e78e2f02eceac7
+    proposed_text: 'Why does this interest me? Because I see a militant defense of Christian culture in
+      Gouguenheim''s work.
+
+
+      <!-- C-026 -->
+
+
+      <!-- Q-039 -->
+
+
+      <!-- Q-040; C-027 -->
+
+
+      <!-- Q-041; C-028 -->
+
+
+      '
+    reason: Remove the entire Aristotle/Greek/Arabic controversy, the fame-and-other-book setup, and the
+      same-author return from that controversy. Retain the relevant end-times historiography and Barbero’s
+      explicitly attributed reading of Gouguenheim’s stance. Preserve all four cut-section provenance
+      comments in their original order as nonspoken markers.
+    evidence: *id042
+    protected_quote_spans: *id043
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly authorized implementation for issues 1, 6 on 2026-10-02 in the six-point
+      revision request. Issue 5 excluded. Exact wording implements that authorization.
+  - id: ED-050
+    kind: cut
+    chapter_id: CH-010
+    transcript: *id044
+    current_text: It's an extraordinarily striking mechanism. In the other two episodes of this series,
+      we've seen similar cases—perhaps rather more entertaining ones, God willing—with the right of the
+      first night and the flat earth. This brings our three encounters to a close. That's what I had to
+      tell you this time, and here I'll stop. Thank you.
+    current_text_sha256: 9a15c546c3e01606a56148d090fc90410511ffbf6d10bac1f19d2f49990ae84b
+    proposed_text: It's a striking process. We saw it in the other two episodes of this series, with the
+      right of the first night and the flat earth. That brings Unbelievable Middle Ages to a close. Thank
+      you.
+    reason: Keep one clear series farewell and the connection among all three episodes. Remove repeated
+      stopping announcements and the suggestion that the other subjects were more entertaining.
+    evidence: *id045
+    protected_quote_spans: *id046
+    recommendation: apply
+    decision: accept
+    decision_note: User explicitly authorized implementation for issues 1, 2, 6 on 2026-10-02 in the six-point
+      revision request. Issue 5 excluded. Exact wording implements that authorization.
+  reason: Pre-review audience candidate. Three routine fluency followups remove doubled opening emphasis,
+    repeated topic label, and a redundant CH009 transition; authorized issue-specific scope and all original
+    targets unchanged.
+input_version_note: Follow-up applies three explicitly approved targets only. Changed brief/manifest hashes
+  are not refreshed; prior values remain in historical queue snapshots under the bounded-verification
+  policy.

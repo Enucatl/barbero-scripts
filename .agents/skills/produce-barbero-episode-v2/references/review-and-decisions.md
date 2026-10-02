@@ -1,7 +1,16 @@
 # Independent review, decisions, and final verification
 
-Use fresh Astra contexts at high reasoning for the two reviews. Both receive the brief, complete
-Italian, full draft, evidence dossier, and existing decisions. Do not provide the writer's
+For an already reviewed episode receiving routine editorial revisions, reuse the established
+source and evidence. Review the changed passages and their dependencies, and check the actual
+before/after diff and requested outcomes. Do not repeat the full hash manifest, transcript audit,
+or unchanged quotation inventory. Retain existing provenance and record what changed; the full
+production checks below are not a requirement to restart verification after every wording edit.
+
+Use fresh Astra contexts at high reasoning for the two reviews. The source reviewer receives the
+brief, complete Italian, full draft, evidence dossier, and existing decisions. For the listener
+reviewer, provide only the full English and a short audience definition initially: an intelligent
+contemporary American without specialist knowledge. Have that reviewer record its first-read
+assessment before providing the other materials. Do not provide either reviewer the writer's
 self-assessment or the other review. Each reviewer owns only its report and returns proposed
 repairs; the coordinator alone changes the draft or queue.
 
@@ -13,10 +22,19 @@ and exact quotations. Compare approved departures against the decision that auth
 Check the dossier's interpretation against its cited evidence where doubtful. Research findings
 are not permission to silently substitute facts or make a contested interpretation definitive.
 
-In `review.listener.md`, assess the full narrative arc, audience orientation, referents, vocabulary,
-spoken rhythm, transitions, comic timing, quotation length, and argument hierarchy. Preserve strong
-material explicitly. Recommend cuts only for a concrete listener benefit; do not impose a shorter
-runtime or a compression target unless requested.
+In `review.listener.md`, first record explicit judgments on understandability, information load,
+whole-episode rhythm, and fluent spoken American English. Assess audience orientation, assumed
+cultural knowledge, referents, vocabulary, transitions, comic timing, quotation length, and argument
+hierarchy. Notice cumulative name/reference load, delayed payoffs, and repeated closing signals,
+not just sentence-level fluency. Locate the most important improvements and preserve strong material
+explicitly; a no-change result is valid. Recommend cuts only for a concrete listener benefit;
+do not impose a shorter runtime or a compression target unless requested.
+
+After recording that first impression, read the brief, complete Italian, evidence dossier, and
+existing decisions. Reconcile findings against source meaning and user choices in the same report.
+Distinguish language defects, optional editorial improvements, and consciously retained tradeoffs;
+do not reopen rejected choices without new authorization. Tone concerns should explain likely
+audience reception, not automatically remove the speaker's opinions or personality.
 
 Each report records model/effort, input paths and SHA-256 hashes, all chapters covered, strengths,
 and located findings. Each finding has a stable ID, chapter/utterance references, severity
@@ -127,7 +145,9 @@ already automated by the repository. Hashes should come from actual file bytes, 
 
 Check the applied passages against the Italian, evidence, and exact decisions. Check consequences
 across chapters, especially renamed people, earlier/later references, repeated explanations, scene
-chronology, and quotation/commentary joins. Read the final narration from beginning to end. If a
+chronology, and quotation/commentary joins. Read the final narration from beginning to end and
+record the same four audience judgments against the applied script. Reuse the existing final
+verification; this does not require another routine reviewer or full review package. If a
 repair is needed, record it in the draft/decision history and reapply with fresh verified hashes;
 do not make unexplained edits only in the final. Recheck affected findings and dependencies rather
 than reflexively rerunning every investigation.

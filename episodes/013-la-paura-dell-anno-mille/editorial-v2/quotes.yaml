@@ -1,0 +1,770 @@
+- id: Q-001
+  transcript:
+  - U-00076–U-00085
+  attribution: Carducci
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  original_language: Italian
+  original_text: V’immaginate il levar del sole nel primo giorno dell’anno mille? Questo fatto di tutte
+    le mattine ricordate che fu quasi miracolo, fu promessa di vita nuova, per le generazioni uscenti
+    dal secolo decimo?
+  translation: Can you imagine the sun rising on the first day of the year one thousand? Do you remember
+    that this everyday event was almost a miracle, a promise of new life, for the generations emerging
+    from the tenth century?
+  locator: Discorso primo I
+  verdict: confirmed
+  source_replacement: eligible
+  status: resolved
+  research_note: Contextual rendering; no new long excerpt. U-00083–85 is the adjacent attributed summary
+    of Carducci’s terrors catalogue; contextual paraphrase, not an expanded quotation.
+- id: Q-002
+  transcript:
+  - U-00087–U-00092
+  attribution: Carducci reporting tradition and Revelation
+  quotation_kind: composite
+  source_ids:
+  - SRC-001
+  - SRC-010
+  original_language: Italian
+  original_text: '— Mille, e non piú mille — aveva, secondo la tradizione, detto Gesú: dopo mille anni,
+    leggevasi nell’Apocalipsi, Satana sarà disciolto.'
+  translation: “A thousand, and no more than a thousand,” Jesus had said, according to tradition; after
+    a thousand years, one read in Revelation, Satan would be released.
+  locator: Discorso primo I; allusion Revelation 20:7
+  verdict: composite
+  source_replacement: eligible
+  status: resolved
+  research_note: Carducci words recovered; not authentic Jesus speech. Released is contextual meaning
+    of dissolved/disciolto, not historical correction. Keep nested attribution.
+- id: Q-003
+  transcript:
+  - U-00097–U-00107
+  attribution: Carducci
+  quotation_kind: direct
+  source_ids:
+  - SRC-001
+  original_language: Italian
+  original_text: E che stupore di gioia e che grido salí al cielo dalle turbe raccolte in gruppi silenziosi
+    intorno a’ manieri feudali, accosciate e singhiozzanti nelle chiese tenebrose e ne’ chiostri, sparse
+    con pallidi volti e sommessi mormorii per le piazze e alla campagna, quando il sole, eterno fonte
+    di luce e di vita, si levò trionfale la mattina dell’anno mille!
+  translation: And what astonished joy, what a cry rose to heaven from the crowds gathered in silent groups
+    around the feudal castles, crouching and sobbing in the dark churches and cloisters, scattered with
+    pale faces and hushed murmurs through the squares and countryside, when the sun, eternal source of
+    light and life, rose triumphant on the morning of the year one thousand!
+  locator: Discorso primo I
+  verdict: confirmed
+  source_replacement: eligible
+  status: resolved
+  research_note: Draft preserves lecture omission from sparse through campagna, no expansion; contextual
+    excerpt.
+- id: Q-004
+  transcript:
+  - U-00113–U-00126
+  attribution: Lavallée, translated by Barbero
+  quotation_kind: direct
+  source_ids:
+  - SRC-002
+  - SRC-003
+  original_language: French
+  original_text: 'D’ailleurs la croyance en la fin du monde, croyance qui semblait justifiée par les pestes,
+    les famines, les calamités de tout genre dont l’Europe était désolée, répandait une atonie universelle.
+    Tout était glacé d’effroi à l’attente du jour fatal, toute entreprise avait cessé, tout mouvement
+    était arrêté; il n’y avait plus ni d’espoir ni d’avenir. On redoublait de ferveur religieuse, on se
+    pressait dans les couvents, on donnait ses biens à l’Église, et de toutes parts on entendait ce cri
+    lugubre : « La fin du monde approche ! »'
+  translation: 'Besides, belief in the end of the world, a belief seemingly justified by the plagues,
+    famines, and calamities of every kind that devastated Europe, spread a universal torpor. Everything
+    was frozen with terror awaiting the fatal day; every undertaking had ceased, all movement had stopped;
+    there was no longer any hope or any future. Religious fervor redoubled; people crowded into monasteries,
+    gave their property to the Church, and on every side the mournful cry was heard: “The end of the world
+    is approaching!”'
+  locator: 1863 p.249
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: 1844 not collated; draft contextual rendering introduced as rough translation; Odifreddi
+    interruption outside quote.
+- id: Q-005
+  transcript:
+  - U-00147–U-00148
+  attribution: Sylvester II to Fulda abbot
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-004
+  - SRC-005
+  - SRC-006
+  original_language: Latin
+  original_text: Quocirca, dilectissime fili, omnia quae a praedecessoribus nostris jure ac rationabiliter
+    tui postulavere praecessores, tibi tuisque successoribus perpetuo confirmamus.
+  translation: Therefore, dearest son, everything that your predecessors lawfully and reasonably requested
+    from our predecessors, we confirm forever to you and your successors.
+  locator: II Fulda
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Transmitted text, not pristine original; contextual speech.
+- id: Q-006
+  transcript:
+  - U-00149–U-00151
+  attribution: Sylvester II to Fulda abbot
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-004
+  original_language: Latin
+  original_text: ut nullus inde futurus abbas consecrationem unquam praesumat accipere nisi ab hac sede
+    apostolica.
+  translation: so that no future abbot of that monastery shall ever presume to receive consecration except
+    from this apostolic see.
+  locator: II Fulda
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Election confirmation differs from consecration; propose correction.
+- id: Q-007
+  transcript:
+  - U-00152–U-00155
+  attribution: Sylvester II, attributed to Fulda by lecture
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-004
+  original_language: Latin
+  original_text: Et pro respectu testimonioque concessae libertatis, sub honore XII apostolorum XII denarii
+    ad limina apostolorum Petri et Pauli omni anno deferantur. Et si omni anno praesentari impossibile
+    fuerit, infra spatium annorum XII persolvantur.
+  translation: As acknowledgement and testimony of the freedom granted, twelve denarii, in honor of the
+    twelve apostles, shall be brought every year to the shrines of the apostles Peter and Paul. If they
+    cannot be presented every year, they shall be paid within twelve years.
+  locator: I Seeon, NOT II Fulda
+  verdict: misattributed
+  source_replacement: not-applicable
+  status: resolved
+  research_note: Exact parallel belongs neighboring Seeon 18 April 999. Proposed remove payment from Fulda
+    account, not silently transfer it.
+- id: Q-008
+  transcript:
+  - U-00199–U-00202
+  attribution: Abbot of San Marziano, Tortona lease
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-007
+  - SRC-008
+  original_language: Latin
+  original_text: XXIX annos ad laborandum omnium bonorum sitorum in Territorio Romaniani / uino medietatem
+    dato et consignato hic super locum
+  translation: twenty-nine years for working all the properties situated in the territory of Romagnano
+    / half the wine to be given and delivered here on the spot
+  locator: document VII pp.11–12
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: deferred
+  research_note: 29 years and half wine partially recovered; one-third grain/residence/no deterioration
+    full text not accessed. Contextual rendering, no recovered quotation. Original/translation fields
+    contain TWO DISCRETE snippets separated by slash, not reconstructed continuous charter; first from
+    editorial note p.12, second p.11. They do not recover all spoken terms.
+- id: Q-009
+  transcript:
+  - U-00205–U-00207
+  attribution: Abbot’s guarantee in Tortona lease
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-007
+  original_language: Latin
+  original_text: solidos uiginti
+  translation: twenty soldi
+  locator: document VII p.12
+  verdict: unresolved
+  source_replacement: unavailable
+  status: deferred
+  research_note: Twenty soldi fragment recovered; exact penalty parties and trigger unverified. Keep as
+    lecture paraphrase pending complete scan. Only amount fragment recovered, not complete guarantee.
+- id: Q-010
+  transcript:
+  - U-00228–U-00231
+  attribution: Otto III Farfa diploma
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-009
+  original_language: Latin
+  original_text: et cum hac nostra preceptali pagina predicto monasterio perdonavimus ut amplius in eternum
+    nunquam detur per nos nec per nostros successores in beneficium, sed semper permaneat rei publice
+    destinatum, abbati mancipatum, nulli alteri subiectum vel prestitum.
+  translation: And by this charter we have granted to the aforesaid monastery that henceforth, for all
+    eternity, it shall never be given as a benefice by us or our successors, but shall always remain assigned
+    to the public realm, committed to its abbot, subjected or handed over to no one else.
+  locator: D O III 331 p.760 lines 1–4
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Contextual state/res publica modernization; possible recovered excerpt proposal adds
+    per nos.
+- id: Q-011
+  transcript:
+  - U-00232–U-00236
+  attribution: Otto III Farfa diploma
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-009
+  original_language: Latin
+  original_text: Unde deum omnipotentem precamur ut si aliquis papa aut imperator noster successor unquam
+    memoratum monasterium alicui persone subiugaverit, nobiscum in Christi adventu, dum venerit iudicare
+    seculum per ignem, rationem inde reddat et se deliquisse pro hac cautione recognoscat.
+  translation: Therefore we pray to Almighty God that, if any pope or emperor, a successor of ours, ever
+    subjects the aforesaid monastery to any person, he may render account for it alongside us at Christ’s
+    coming, when he comes to judge the world by fire, and acknowledge that he has sinned against this
+    guarantee.
+  locator: D O III 331 p.760 lines 4–7
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Source contains alongside us; draft contextual paraphrase; proposal can restore meaningful
+    relation without adding fire imagery.
+- id: Q-012
+  transcript:
+  - U-00296–U-00306
+  attribution: Revelation20
+  quotation_kind: direct
+  source_ids:
+  - SRC-010
+  original_language: English (KJV translation witness)
+  original_text: 'And I saw an angel come down from heaven, having the key of the bottomless pit and a
+    great chain in his hand. And he laid hold on the dragon, that old serpent, which is the Devil, and
+    Satan, and bound him a thousand years, And cast him into the bottomless pit, and shut him up, and
+    set a seal upon him, that he should deceive the nations no more, till the thousand years should be
+    fulfilled:'
+  translation: 'And I saw an angel come down from heaven, having the key of the bottomless pit and a great
+    chain in his hand. And he laid hold on the dragon, that old serpent, which is the Devil, and Satan,
+    and bound him a thousand years, And cast him into the bottomless pit, and shut him up, and set a seal
+    upon him, that he should deceive the nations no more, till the thousand years should be fulfilled:'
+  locator: 20:1–3 a; lecture announces 1–7
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Contextual translation of Italian, not KJV replacement; do not append 3 b–7. Boundary
+    proposal available.
+- id: Q-013
+  transcript:
+  - U-00307–U-00312
+  attribution: Barbero interpreting Revelation
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-010
+  original_language: English (KJV translation witness)
+  original_text: And when the thousand years are expired, Satan shall be loosed out of his prison,
+  translation: And when the thousand years are expired, Satan shall be loosed out of his prison,
+  locator: '20:7'
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Thousand years not explicitly AD calendar; interpretation spoken separately from excerpt.
+- id: Q-014
+  transcript:
+  - U-00344–U-00352
+  attribution: Abbo addressing kings
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-011
+  original_language: Latin
+  original_text: tandem capitulatim subtexam huic indiculo quae maxime sunt corrigenda in vestro imperio
+  translation: Finally I shall append to this short account, point by point, the things that most need
+    correcting in your realm.
+  locator: 470 D
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Conversational paraphrase; date and addressees treated in C 012.
+- id: Q-015
+  transcript:
+  - U-00353–U-00355
+  attribution: Abbo on creed variants
+  quotation_kind: composite
+  source_ids:
+  - SRC-011
+  original_language: Latin
+  original_text: 'Spiritus sanctus a Patre et Filio non factus, nec creatus, nec genitus, sed procedens:
+    / Spiritus sanctus a Patre et Filio non factus nec creatus, sed procedens'
+  translation: The Holy Spirit is from the Father and the Son, not made, nor created, nor begotten, but
+    proceeding. / The Holy Spirit is from the Father and the Son, not made nor created, but proceeding.
+  locator: 470 D–471 A, two variants
+  verdict: composite
+  source_replacement: eligible
+  status: resolved
+  research_note: Both include Son; disputed omission is nor begotten. Slash separates two variants, not
+    continuous original. Correction pending.
+- id: Q-016
+  transcript:
+  - U-00356–U-00357
+  attribution: Abbo on Advent
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-011
+  original_language: Latin
+  original_text: De initio etiam Adventus qui ante Nativitatem Domini per singulos annos agitur, aliquando
+    error gravissimus exstitit, aliis inchoantibus post V Kalend. Decembris, aliis ante
+  translation: A very serious error also once arose about the beginning of Advent, observed each year
+    before the Lord’s Nativity, some beginning after the fifth day before the Kalends of December, others
+    before.
+  locator: 472 A
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: One day early is not recovered; propose general error in start calculation.
+- id: Q-017
+  transcript:
+  - U-00362–U-00368
+  attribution: Abbo recalling Paris preacher
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-011
+  - SRC-012
+  original_language: Latin
+  original_text: De fine quoque mundi coram populo sermonem in Ecclesia Parisiorum adolescentulus audivi,
+    quod statim finito mille annorum numero Antichristus adveniret, et non longo post tempore universale
+    judicium succederet
+  translation: 'As a young man, I also heard a sermon preached to the people in the church of Paris about
+    the end of the world: as soon as the number of a thousand years was completed, Antichrist would arrive,
+    and not long afterward the Last Judgment would follow.'
+  locator: 471 A
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Young man, not securely little boy;970 not established by passage; lecture compressed
+    Antichrist sequence. Correction pending.
+- id: Q-018
+  transcript:
+  - U-00369–U-00372
+  attribution: Abbo on rebuttal
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-011
+  original_language: Latin
+  original_text: cui praedicationi ex Evangeliis ac Apocalypsi et libro Danielis, qua potui virtute, restiti.
+  translation: I resisted that preaching as forcefully as I could, using the Gospels, Revelation, and
+    the book of Daniel.
+  locator: 471 A
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Effort to resist documented, success not established.
+- id: Q-019
+  transcript:
+  - U-00374–U-00387
+  attribution: Abbo reporting Lorraine rumor
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-011
+  original_language: Latin
+  original_text: nam fama pene totum mundum impleverat, quod, quando Annuntiatio Dominica in Parasceve
+    contigisset absque ullo scrupulo finis saeculi esset.
+  translation: For a rumor had filled almost the whole world that, whenever the Lord’s Annunciation fell
+    on Good Friday, that would unquestionably be the end of the age.
+  locator: 471–472 A
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Rumor widely circulated in Abbo’s account; not measured universal panic. March 25 identification
+    retained.
+- id: Q-020
+  transcript:
+  - U-00402–U-00404
+  attribution: Richard’s instruction and Abbo’s reply
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-011
+  original_language: Latin
+  original_text: Denique et errorem qui de fine mundi inolevit abbas meus beatae memoriae Richardus sagaci
+    animo propulit, postquam litteras a Lothariensibus accepit, quibus me respondere jussit
+  translation: My abbot Richard, of blessed memory, also shrewdly drove back an error that had grown up
+    about the end of the world, after receiving letters from the Lotharingians, which he ordered me to
+    answer.
+  locator: 471–472 A
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Bullshit explicitly Barbero’s comic gloss; reply itself not recovered, not authoritative
+    direct speech.
+- id: Q-021
+  transcript:
+  - U-00430–U-00432
+  attribution: Matthew24:36
+  quotation_kind: direct
+  source_ids:
+  - SRC-029
+  original_language: Greek
+  original_text: Περὶ δὲ τῆς ἡμέρας ἐκείνης καὶ ὥρας οὐδεὶς οἶδεν
+  translation: But about that day and hour, no one knows.
+  locator: Matthew 24:36 first clause
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Contextual translation; exact same natural English as independent direct translation.
+    No added angels/Son/Father continuation; no no-op proposal required.
+- id: Q-022
+  transcript:
+  - U-00433–U-00434
+  attribution: Paul,1Thessalonians5:2
+  quotation_kind: direct
+  source_ids:
+  - SRC-030
+  original_language: Greek
+  original_text: ἡμέρα Κυρίου ὡς κλέπτης ἐν νυκτὶ οὕτως ἔρχεται
+  translation: The day of the Lord comes like a thief in the night.
+  locator: 1 Thess 5:2 latter clause
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Contextual will come natural for Greek present in this prediction. Commentary U 435–436
+    separate.
+- id: Q-023
+  transcript:
+  - U-00437–U-00440
+  attribution: Paul,1Thessalonians5:3
+  quotation_kind: direct
+  source_ids:
+  - SRC-030
+  original_language: Greek
+  original_text: ὅταν λέγωσιν Εἰρήνη καὶ ἀσφάλεια, τότε αἰφνίδιος αὐτοῖς ἐπίσταται ὄλεθρος
+  translation: When they say, “Peace and security,” sudden destruction comes upon them.
+  locator: 1 Thess 5:3 first part
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Contextual translation; this is still Paul interruption outside quote. No labor-pains
+    continuation.
+- id: Q-024
+  transcript:
+  - U-00442–U-00445
+  attribution: Barbero summarizing the Lord’s promise
+  quotation_kind: composite
+  source_ids:
+  - SRC-029
+  - SRC-030
+  original_language: Greek
+  original_text: διὰ τοῦτο καὶ ὑμεῖς γίνεσθε ἕτοιμοι, ὅτι ᾗ οὐ δοκεῖτε ὥρᾳ ὁ υἱὸς τοῦ ἀνθρώπου ἔρχεται.
+  translation: Therefore you too must be ready, because the Son of Man comes at an hour you do not expect.
+  locator: Matthew 24:44; recap 24:36 and 1 Thess 5:2–3
+  verdict: confirmed in substance
+  source_replacement: not-applicable
+  status: resolved
+  research_note: Composite recap, original field is relevant 24:44 component only; other components Q
+    021–023. First-person Iwillcome is lecturer’s dramatic paraphrase; explicitly signaled, no invented
+    single Gospel quote.
+- id: Q-025
+  transcript:
+  - U-00452–U-00458
+  attribution: Augustine on computing the end
+  quotation_kind: direct
+  source_ids:
+  - SRC-031
+  original_language: Latin
+  original_text: Tempora ergo computare, […] ut sciamus quando sit finis huius saeculi vel adventus Domini,
+    nihil mihi aliud videtur, quam scire velle quod ipse ait scire neminem posse.
+  translation: Calculating the times, then, to discover when this world will end or the Lord will come
+    seems to me to be nothing other than wanting to know what he himself said no one can know.
+  locator: Epistula 197§3
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Contextual close translation of excerpt; bracket omission is hocest plus Greek inline
+    gloss not securely transcribed. Main sentence intact. Do not claim source CityofGod.
+- id: Q-026
+  transcript:
+  - U-00462–U-00469
+  attribution: Augustine on Gospel preached to all peoples
+  quotation_kind: composite
+  source_ids:
+  - SRC-029
+  - SRC-031
+  - SRC-032
+  original_language: Latin
+  original_text: Et praedicabitur hoc Evangelium regni in universo orbe in testimonium omnibus gentibus,
+    et tunc veniet finis. / Tunc veniet, quid est, nisi "ante non veniet"? Quanto post ergo veniat, incertum
+    nobis est; ante tamen non esse venturum dubitare utique non debemus.
+  translation: And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony
+    to all nations, and then the end will come. / What does “then it will come” mean except “it will not
+    come before”? How long afterward it will come is unknown to us; but we certainly must not doubt that
+    it will not come before.
+  locator: Epistula 197§4 quotesMatthew 24:14 then comments;19912.46–49 supports unpreached peoples
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Slash separates scripture quotation from Augustine commentary, not continuous words.
+    Antichrist not in these clauses. Notnextyear is stronger lecture inference; proposal preserves no-date
+    argument.
+- id: Q-027
+  transcript:
+  - U-00484–U-00491
+  attribution: Fulda annalist on Thiota
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-014
+  original_language: Latin
+  original_text: Per idem tempus mulier quaedam de Alamanniae partibus nomine Thiota pseudoprophetissa
+    Mogontiacum venit, quae Salomonis episcopi parrochiam suis vaticiniis non minime turbaverat. Nam certum
+    consummationis seculi diem aliaque perplura Dei solius notitiae cognita quasi divinitus sibi revelata
+    scire se fatebatur et eodem anno ultimum diem mundo imminere praedicabat.
+  translation: Around the same time a certain woman from Alemannia named Thiota, a false prophetess, came
+    to Mainz. Her predictions had greatly disturbed Bishop Salomon’s diocese. She claimed to know the
+    precise day of the world’s end and many other things known to God alone, as though divinely revealed
+    to her, and preached that the world’s last day was approaching in that very year.
+  locator: 847 pp.36–37
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Same year, not next; source correction proposed.
+- id: Q-028
+  transcript:
+  - U-00492–U-00496
+  attribution: Fulda annalist on followers
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-014
+  original_language: Latin
+  original_text: Unde multi plebeium utriusque sexus timore perculsi ad eam venientes munera illi offerebant
+    seque orationibus illius commendabant; et, quod gravius est, sacri ordinis viri doctrinas ecclesiasticas
+    postponientes illam quasi magistram caelitus destinatam sequebantur.
+  translation: Many common people of both sexes, struck with fear, therefore came to her, offered her
+    gifts, and commended themselves to her prayers. And, what is more serious, men in holy orders set
+    aside the Church’s teachings and followed her as though she were a teacher sent from heaven.
+  locator: 847 pp.36–37
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Only poor people is contradicted by clerical followers; minimal corrective addition proposed.
+- id: Q-029
+  transcript:
+  - U-00497–U-00501
+  attribution: Fulda annalist on confession; dramatized priest
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-014
+  original_language: Latin
+  original_text: Haec in praesentiam episcoporum apud sanctum Albanum deducta et diligenter de suis assertionibus
+    requisita presbyterum quendam sibi ea suggessisse et se talia questus causa narrasse professa est.
+  translation: Brought before the bishops at St Alban’s and carefully questioned about her assertions,
+    she admitted that a certain priest had suggested these things to her and that she had told them for
+    gain.
+  locator: 847 p.37
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Confession reported by annalist. Friend and dialogue not recovered; contextual dramatization,
+    not verbatim authority.
+- id: Q-030
+  transcript:
+  - U-00502–U-00503
+  attribution: Fulda annalist on sentence
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-014
+  original_language: Latin
+  original_text: Quapropter synodali iudicio publicis caesa flagellis ministerium praedicationis, quod
+    inrationabiliter arripuit et sibi contra morem ecclesiasticum vindicare praesumpsit, cum dedecore
+    amisit suisque vaticiniis tandem confusa finem imposuit.
+  translation: Therefore, by a synod’s judgment, she was publicly flogged and disgracefully lost the preaching
+    ministry she had irrationally seized and presumed to claim against ecclesiastical custom. Finally
+    put to shame, she brought her prophecies to an end.
+  locator: 847 p.37
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Public flogging/preaching ended; square/expulsion dialogue embellishes. Proposed narrow
+    setting without erasing coercion.
+- id: Q-031
+  transcript:
+  - U-00560–U-00564
+  attribution: Sigebert of Gembloux
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-015
+  original_language: Latin
+  original_text: Anno Iesu Christi millesimo secundum supputationem Dionisii multa prodigia visa sunt.
+    Terraemotus factus est permaximus, cometes apparuit.
+  translation: In the thousandth year of Jesus Christ, according to the reckoning of Dionysius, many prodigies
+    were seen. There was a very great earthquake; a comet appeared.
+  locator: MGH SS 6 p.354 through Gouguenheim p.138 n.80
+  verdict: confirmed in substance
+  source_replacement: eligible
+  status: resolved
+  research_note: Opening only recovered. Continuation serpent paraphrase supported, not exact;1002 chain
+    not fully traced.
+- id: Q-032
+  transcript:
+  - U-00576–U-00580
+  attribution: Chronicle attributed to Guillaume Godel
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-016
+  - SRC-017
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: 1010 entry; Roy PDFp.58
+  verdict: unresolved
+  source_replacement: unavailable
+  status: deferred
+  research_note: Named authorship unreliable; full 1010 Latin unavailable; Roy connects fear to Jerusalem.
+    Retain contextual paraphrase, qualify attribution by proposal.
+- id: Q-033
+  transcript:
+  - U-00598–U-00606
+  attribution: Annals transmitted under Trithemius
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-015
+  - SRC-018
+  original_language: Latin
+  original_text: null
+  translation: null
+  locator: Annales Hirsaugienses 1000; Petersp.14/n 22–24
+  verdict: confirmed in substance
+  source_replacement: unavailable
+  status: deferred
+  research_note: No recovered Latin; possible interpolation. Do not upgrade to certain authorial invention.
+- id: Q-034
+  transcript:
+  - U-00681–U-00688
+  attribution: Bettinelli
+  quotation_kind: direct
+  source_ids:
+  - SRC-019
+  original_language: Italian
+  original_text: null
+  translation: null
+  locator: Unlocated in accessed work
+  verdict: unresolved
+  source_replacement: unavailable
+  status: deferred
+  research_note: Declared lecture quotation not located; translate Italian contextually, never fabricate
+    original.
+- id: Q-035
+  transcript:
+  - U-00695–U-00704
+  attribution: Bettinelli with Barbero’s gloss
+  quotation_kind: composite
+  source_ids:
+  - SRC-019
+  original_language: Italian
+  original_text: Piccola cosa ne sembra, ed è perciò dagli storici appena accennata quell’opinion generale,
+    che avea gli animi preoccupati della fine del mondo imminente. Eppur non è credibile quant’essa pregiudicasse
+    insino all’ultimo giorno del secolo X., e quanto danno togliesse il non aspettato principio del mille.
+  translation: That general belief which had filled people’s minds with the imminent end of the world
+    seems a small matter to us, and historians therefore barely mention it. Yet it is hard to believe
+    how much harm it did until the very last day of the tenth century, and how much harm the unexpected
+    beginning of the year one thousand removed.
+  locator: PartI chapter 2 opening
+  verdict: composite
+  source_replacement: eligible
+  status: resolved
+  research_note: First sentence paraphrased; second excerpt plus Barbero gloss how much good outside quotation;
+    no expansion.
+- id: Q-036
+  transcript:
+  - U-00705–U-00706
+  attribution: Bettinelli
+  quotation_kind: direct
+  source_ids:
+  - SRC-019
+  original_language: Italian
+  original_text: L’orror sempre presente d’una prossima desolazione universale, rinnovato da ogni accidente
+    non solito della natura, o tenuto per minaccioso tolse ad ognuno speranze e pensieri intorno ad un
+    avvenire, in cui già disperavan d’esistere neppur col nome, neppur ne’ figli, neppur nella memoria
+    degli uomini destinati tutti a perire.
+  translation: The ever-present horror of an approaching universal devastation, renewed by every unusual
+    natural event or one regarded as threatening, robbed everyone of hopes and thoughts of a future in
+    which they already despaired of existing even by name, even in their children, even in the memory
+    of people all destined to perish.
+  locator: PartI chapter 2
+  verdict: confirmed
+  source_replacement: eligible
+  status: resolved
+  research_note: Lecture omits rinnovato clause and stops at speranze; preserve selected words only, contextual
+    excerpt.
+- id: Q-037
+  transcript:
+  - U-00707–U-00707
+  attribution: Bettinelli
+  quotation_kind: direct
+  source_ids:
+  - SRC-019
+  original_language: Italian
+  original_text: Questa orrenda disperazione non dovette lasciar altri pensieri, fuorchè di continuo terrore,
+    di fuga, di scampo, e dovette chiamar tutti gli affetti a un’altra vita, restando inerzia e abbandono
+    di tutto il presente.
+  translation: This dreadful despair must have left room for no thoughts except constant terror, flight,
+    and escape, and must have drawn every feeling toward another life, leaving inertia and abandonment
+    of everything in the present.
+  locator: PartI chapter 2
+  verdict: confirmed
+  source_replacement: eligible
+  status: resolved
+  research_note: Only opening through altri pensieri spoken; must-have preserves author’s inference; etc
+    and romanticizing outside quote.
+- id: Q-038
+  transcript:
+  - U-00830–U-00849
+  attribution: Gouguenheim as paraphrased by Barbero
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-022
+  - SRC-023
+  original_language: null
+  original_text: null
+  translation: null
+  locator: Reviews of 1999 book
+  verdict: confirmed in substance
+  source_replacement: not-applicable
+  status: resolved
+  research_note: Clearly signaled dramatization; dispute about diffuse fears recognizable, exact words
+    unrecovered.
+- id: Q-039
+  transcript:
+  - U-00867–U-00873
+  attribution: Gouguenheim on Mont Saint-Michel
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-024
+  - SRC-025
+  - SRC-026
+  original_language: null
+  original_text: null
+  translation: null
+  locator: Book thesis as reviewed; exhibition 37
+  verdict: confirmed in substance
+  source_replacement: not-applicable
+  status: resolved
+  research_note: Attributed claim, not established discovery; Ptolemy uncorroborated. Proposed precision
+    retains dispute.
+- id: Q-040
+  transcript:
+  - U-00875–U-00881
+  attribution: Gouguenheim as polemically paraphrased by Barbero
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-025
+  original_language: null
+  original_text: null
+  translation: null
+  locator: Louis paras 4–6; bookp.137 quoted via review
+  verdict: unresolved
+  source_replacement: unavailable
+  status: deferred
+  research_note: Precise harsh anti-Arabic/science wording not recovered. Linguistic thesis exists but
+    no exact book equivalence; preserve reporting frame and partial-reading disclaimer; moderation proposal.
+- id: Q-041
+  transcript:
+  - U-00890–U-00892
+  attribution: Gouguenheim’s terrors thesis, reprise
+  quotation_kind: paraphrase
+  source_ids:
+  - SRC-022
+  - SRC-023
+  original_language: null
+  original_text: null
+  translation: null
+  locator: 1999 book reviews
+  verdict: confirmed in substance
+  source_replacement: not-applicable
+  status: resolved
+  research_note: Chronology wrong:1999 before 2008. Proposed callback repair; no literal quote.
