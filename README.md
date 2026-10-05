@@ -106,6 +106,79 @@ separate explicit authorization.
 
 ## Development
 
+### REAPER podcast assembly
+
+In REAPER 7.46 or newer, open the project containing your recorded voice clips,
+then use **Actions → New action → Load ReaScript** to load
+[`src/barbero_scripts/Podcast_Assembler.lua`](src/barbero_scripts/Podcast_Assembler.lua).
+Run that action to assemble the episode. Keep the script in its repository location;
+it resolves the five prepared WAV files under `assets/audio/` relative to itself.
+No SWS extension is required.
+
+All timing and level settings are in `CONFIG` near the top of the script. The MUSIC
+track fader is set to −10 dB (`MUSIC_TRACK_DB`). Its envelope retains −3 dB normal
+and −18 dB ducked levels, applied in addition to the track fader. On the
+first run, it trims recording clicks and removes recorded gaps shorter than two
+seconds, shifting all later voice clips earlier. Longer breaks are widened when
+needed for their jingle, shifting all later clips together. The intro starts at zero; voice gets at least 16
+seconds of pre-roll, capped at half the intro's duration for short assets. The rest
+of the intro overlaps speech. It holds full volume until two seconds before voice
+entry, gradually ducks over four seconds, then continues fading to silence at its
+end. `INTRO_DUCK_TIME` adjusts that transition centered on the voice entrance. It builds
+MUSIC, VOICE, and ROOM TONE with editable track-volume automation and two-second
+room-tone patches centered on each seam, with 0.5-second fades at both ends.
+Jingles alternate B, A (`JINGLE_ORDER`) and retain their complete source duration.
+`JINGLE_VOICE_OVERLAP = 3.5` reserves about 3.5 seconds of speech overlap per side:
+each break is widened to at least the jingle duration minus seven seconds. Existing
+longer breaks are preserved. Complete jingles are centered on these breaks and rise gradually across the
+preceding speech overlap, hold full volume inside the break, then fade gradually
+across the following speech overlap. They are skipped only when another music cue
+leaves insufficient space.
+The outro overlaps up to 22 seconds of the final voice clip, rising from silence
+to −10 dB on the envelope 1.5 seconds before speech ends, then to full volume at
+speech end. `OUTRO_UNDER_VOICE_DB` and `OUTRO_FINAL_RISE_TIME` control that extra
+point. It holds full volume until its final
+three-second fade. Short sources shorten fades as needed. The complete outro plays,
+so `OUTRO_POST_ROLL` specifies a minimum rather than shortening the asset.
+
+Later runs preserve voice trims, source offsets and fades, and rebuild generated
+content. Undersized jingle breaks are widened with the same ripple shift; already
+wide breaks do not grow again. Increasing the overlap setting does not shrink
+existing breaks.
+Undoable VOICE track metadata records the one-time preparation; project extstate
+mirrors the version but is not its authority, since REAPER does not undo project
+extstate. One Undo reverses a script execution, including the preparation marker.
+
+Generated items carry `P_EXT:PODCAST_ASSEMBLER` ownership markers. One marked MUSIC
+Volume automation item is reused on rebuilds, controlling the assembled time range
+with silence between cues. Ordinary manual envelope points remain intact underneath
+it and apply outside that range. User automation items that overlap the range cause
+validation to stop before changes. Edits inside the generated automation item are
+replaced on rerun. All music ramps use the green MUSIC track Volume envelope; no
+pink take-volume envelope is created. The intro retains its full duration unless
+an adjacent music cue requires an earlier fade and item end. Folder layouts are
+preserved if reordering would affect routing; unrelated tracks and unmarked media
+items are retained. Projects assembled with the earlier gap logic should be
+regenerated from their original voice project to correct timing; ordinary rebuilds
+do not repeat the initial short-gap removal.
+
+Detailed diagnostics print to the REAPER console by default: configuration, asset
+paths and lengths, voice trim/source offsets, gap decisions, cue timing, jingle skip
+reasons, room-tone offsets, and every music automation point. Set `DIAGNOSTICS = false`
+in `CONFIG` to silence the trace; warnings and fatal errors still print.
+
+For a small native test, load
+[`Podcast_Assembler_Debug.lua`](src/barbero_scripts/Podcast_Assembler_Debug.lua) as
+another ReaScript and run it in an **empty project**, using the main script's default
+configuration. It creates five synthetic voice clips from the existing room-tone
+asset, runs the real assembler twice, and checks timing, music levels, source
+boundaries, room-tone offsets, and preservation of manual edits and automation.
+The assembled fixture stays editable for visual inspection. PASS/FAIL results and
+the detailed assembly trace appear in the REAPER console. Nonempty projects are
+rejected before changes.
+
+The standalone Lua regression check remains `lua tests/test_podcast_assembler.lua`.
+
 ```bash
 uv run ruff format .
 uv run ruff check .

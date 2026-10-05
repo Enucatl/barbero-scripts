@@ -3,6 +3,7 @@ __pycache__/
 .pytest_cache/
 .ruff_cache/
 *.pyc
+*.reapeaks
 
 # Generated working data belongs outside this repository.
 data/
