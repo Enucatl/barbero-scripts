@@ -1,5 +1,13 @@
 # Episode illustrations
 
+## Thinking Like a Medieval Man: The Merchant
+
+Asset: `episodes/020-come-pensava-un-uomo-del-medioevo-il-mercante/illustration.jpg`
+
+Generated with the built-in `image_gen` tool. Original PNG: `/home/user/.codex/generated_images/01a10d0c-ac1b-7791-a578-46be4aa0852f/exec-a31b2fc8-fee3-4ff5-9bdb-4e74d4df1f68.png`. Converted to JPEG using `ffmpeg -frames:v 1 -q:v 3`.
+
+Final prompt: Use case: historical-scene. Asset type: square podcast episode illustration, legible as thumbnail and website hero, second in a trilogy Thinking Like a Medieval Man. Style: sophisticated editorial history magazine, textured woodcut and fine engraving meets torn cut-paper collage. Warm ivory natural paper grain, charcoal hand-printed linework, burgundy and muted teal limited accents, matching a coherent history podcast series. Subject: an anonymous Florentine silk merchant of the late thirteenth / early fourteenth century, inspired by Dino Compagni but not an asserted portrait likeness. Thoughtful, worldly man in a plain period wool gown and soft cap, seated at a desk, one hand on a blank open chronicle and another near folded silk cloth and a small merchant balance with unmarked coins. Layered medieval Florentine stone towers and city-government architecture behind him, with a subtle torn-paper fissure suggesting divided political loyalties. A restrained burgundy circular shape behind his head and muted teal architectural shadow balance the ivory composition. Emphasize the merchant who becomes a political witness, recording the disappointments of his city; humane, intelligent, contemplative. Bold central figure, textured engraving, balanced negative space, square 1:1. No text, letters, numerals, labels, borders, logos, watermarks, photorealism, halo, modern objects, Renaissance domed cathedral, or invented historical portrait likeness.
+
 Generated with the built-in `image_gen` tool, one call per asset. Each final asset is saved at `episodes/<slug>/illustration.jpg`.
 
 All ten images are 1254 × 1254 pixels. Website copies were converted with `ffmpeg -frames:v 1 -q:v 3` to JPEG, preserving dimensions. Original PNGs remain in `/home/user/.codex/generated_images/01a0e6b4-659a-7ec2-ab61-785635860545/`.

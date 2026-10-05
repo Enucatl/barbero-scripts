@@ -121,7 +121,7 @@ Preserve the existing backup when rebuilding. Episode storage and the workflow
 are recorded in [.agents/skills/post-processing/SKILL.md](.agents/skills/post-processing/SKILL.md).
 
 All timing and level settings are in `CONFIG` near the top of the script. The MUSIC
-track fader is set to −10 dB (`MUSIC_TRACK_DB`). Its envelope retains −3 dB normal
+track fader is set to −20 dB (`MUSIC_TRACK_DB`). Its envelope retains −3 dB normal
 and −18 dB ducked levels, applied in addition to the track fader. On the
 first run, it trims recording clicks and removes recorded gaps shorter than two
 seconds, shifting all later voice clips earlier. Longer breaks are resized to

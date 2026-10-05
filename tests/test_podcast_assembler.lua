@@ -250,7 +250,7 @@ assert(#patches == 1); close(patches[1].D_POSITION, b.D_POSITION - 1)
 close(patches[1].D_LENGTH, 2); close(patches[1].D_FADEINLEN, 0.5)
 close(patches[1].D_FADEOUTLEN, 0.5)
 local music = find_track(state, "MUSIC")
-close(music.D_VOL, 10 ^ (-10 / 20))
+close(music.D_VOL, 10 ^ (-20 / 20))
 local env = music.envelopes[1]
 assert(#env.ais == 1 and #env.points == 1 and env.points[1].value == 0.83)
 close(env.ais[1].D_POSITION + env.ais[1].D_LENGTH, outro.D_POSITION + outro.D_LENGTH + 0.05)
