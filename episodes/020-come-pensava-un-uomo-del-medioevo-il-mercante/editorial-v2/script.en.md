@@ -12,11 +12,11 @@ Our merchant is Dino Compagni, a Florentine who lives in the late thirteenth and
 
 If you heard the previous episode, you'll remember that Fra Salimbene wrote a chronicle nine hundred pages long. Dino's book is much more manageable. He wants to describe some important things that happen in Florence while he's living there—and while he's someone who matters there.
 
-Which makes me think that perhaps I should have promised to explain how a medieval politician sees the world. Because the Dino who tells his story in this chronicle is, above all, a political man. He tells us what it means to be involved in politics in the Florence of the communes—the self-governing cities—with its Guelfs and Ghibellines, its Whites and Blacks. And politics in that world is no joke.
+Which makes me think that perhaps I should have promised to explain how a medieval politician sees the world. Because the Dino who tells his story in this chronicle is, above all, a political man. He tells us what it means to be involved in politics in Florence, one of Italy's self-governing cities. The rival parties are called Guelfs and Ghibellines: broadly speaking, the Guelf party backs the pope, the Ghibelline party the Holy Roman emperor. Later, the Guelf party itself splits into two rival parties, the White and the Black. And politics in that world is no joke.
 
 <!-- research: C-002 -->
 
-Of course Dino is a merchant. He's a businessman, a member of the guild with the rather curious name of Por Santa Maria. This Florentine guild deals in large-scale commerce, importing and exporting cloth. Dino has an important firm of his own. He's wealthy. But for a period of his life, he also goes into politics. He finds himself in the city government.
+Of course Dino is a merchant. He's a businessman, a member of the silk guild. This Florentine guild deals in large-scale commerce, importing and exporting cloth. Dino has an important firm of his own. He's wealthy. But for a period of his life, he also goes into politics. He finds himself in the city government.
 
 <!-- research: C-003 Q-001 -->
 
@@ -42,7 +42,7 @@ They'll know something if somebody writes it down. If nobody does, the memory of
 
 But remember whose voice we're hearing. This is a man who has been politically influential, who then loses and gets pushed out. We have to allow for that when we read his judgments.
 
-Our purpose isn't to decide whether the Guelfs were better than the Ghibellines, or the Whites better than the Blacks. The challenge is to understand how Dino Compagni, merchant of the Por Santa Maria guild in Dante's time, sees the world.
+Our purpose isn't to decide whether the Guelf party was better than the Ghibelline party, or the White party better than the Black party. The challenge is to understand how Dino Compagni, member of the silk guild in Dante's time, sees the world.
 
 So, where do we begin?
 
@@ -160,7 +160,7 @@ That's how nobles do politics. They always have a sword at their side, and they'
 
 People like Dino don't have a sword at their side. Merchants work and make money. They don't carry swords, they don't ride around on horseback, and they don't have anything like as many relatives as the nobles.
 
-Throughout his chronicle, Dino never mentions a relative of his own. For the nobles, family is everything. Relatives appear constantly; everything revolves around kinship. Dino has no relatives. He's made his own way. He's a self-made man, like so many of these Florentine popolani, the people outside the nobility.
+Throughout his chronicle, Dino never mentions a relative of his own. For the nobles, family is everything. Relatives appear constantly; everything revolves around kinship. Dino has no relatives. He's made his own way. He's a self-made man, like so many of these Florentine townspeople outside the nobility.
 
 ## 4. Factions and Followers
 
@@ -170,13 +170,13 @@ Throughout his chronicle, Dino never mentions a relative of his own. For the nob
 
 The nobles have run Florence for a long time, but they haven't run it peacefully. They tear one another apart. Families form alliances to pursue their interests.
 
-Eventually we get the familiar Guelfs and Ghibellines: those who would like the pope to rule the world, and those who would prefer the emperor.
+These alliances become the Guelf and Ghibelline parties: those who would like the pope to rule the world, and those who would prefer the emperor.
 
-But in practice, you become a Guelf because the rival noble family is Ghibelline. “They did us an injury years ago. We can't...”
+But in practice, you join the Guelf party because the rival noble family belongs to the Ghibelline party. “They did us an injury years ago. We can't...”
 
 “What injury?”
 
-“Well, we don't really remember anymore. But everyone knows we're enemies. If they're Ghibellines, we're Guelfs.”
+“Well, we don't really remember anymore. But everyone knows we're enemies. If they're in the Ghibelline party, we're in the Guelf party.”
 
 <!-- research: Q-010 -->
 
@@ -188,29 +188,29 @@ The networks around the great families are powerful and deeply rooted. It isn't 
 
 <!-- research: C-018 Q-011 -->
 
-The Uberti are the great Ghibelline family expelled from Florence when the Guelfs win. They will never return for good. You may remember Farinata degli Uberti, the proud Ghibelline leader Dante meets in the Inferno.
+The Uberti are the great family of the Ghibelline party, expelled from Florence when the Guelf party wins. They will never return for good. You may remember Farinata degli Uberti, the proud leader of the Ghibelline party Dante meets in the Inferno.
 
-Dino describes one brief truce when something almost unheard-of happens. The sides reach an agreement and let the exiled Ghibellines back into Florence. It won't last. A few months later they quarrel and throw them out again.
+Dino describes one brief truce when something almost unheard-of happens. The sides reach an agreement and let the exiled members of the Ghibelline party back into Florence. It won't last. A few months later they quarrel and throw them out again.
 
-But for that moment the exiles are back. For the first time, the Uberti are seen riding into Florence with their shields and their coat of arms. And Dino describes people running to kiss that coat of arms: old Ghibellines, men and women.
+But for that moment the exiles are back. For the first time, the Uberti are seen riding into Florence with their shields and their coat of arms. And Dino describes people running to kiss that coat of arms: old supporters of the Ghibelline party, men and women.
 
 The Uberti have been exiled from the city for fifty years.
 
 That is how deeply these loyalties run. This is a partisan world, ferociously partisan. And unlike our political partisanship today, theirs has an additional outlet. When you really can't stand the other side anymore, you kill them.
 
-## 5. Government by the Popolo
+## 5. Government of the People
 
 <!-- chapter: CH-005; transcript: U-00287–U-00322 -->
 
 <!-- research: C-019 -->
 
-Eventually people like Dino have had enough. They want to work and make money in a peaceful city. They come to see the nobles as the city's curse. Without them, how well we could live! Everyone working, no Guelfs, no Ghibellines.
+Eventually people like Dino have had enough. They want to work and make money in a peaceful city. They come to see the nobles as the city's curse. Without them, how well we could live! Everyone working, no Guelf party, no Ghibelline party.
 
-And so they establish what they call a governo di popolo, a government of the people.
+And so they establish what they call a government of the people.
 
-But “the people” is a large expression. In principle it means everyone except the nobility. In Florence, it actually means the respectable people who pay taxes: above all, the business owners, people with a shop or an enterprise. They're the popolo.
+But “the people” is a large expression. In principle it means everyone except the nobility. In Florence, it actually means the respectable people who pay taxes: above all, the business owners, people with a shop or an enterprise.
 
-Florence establishes a government that we might describe today as a government of Confindustria, Italy's industrial employers' association. That's essentially what it is.
+Imagine the U.S. Chamber of Commerce running the government. Business owners themselves hold power. That's essentially what Florence establishes.
 
 <!-- research: C-020 -->
 
@@ -238,13 +238,13 @@ The nobles aren't particularly pleased.
 
 <!-- research: Q-012 C-024 -->
 
-The great drama of Florence as Dino sees it is this: we've established a government of the popolo. We would govern well, in the common interest. But the nobles, with their friends, their parties and factions, think only of their own interests. Nobody thinks about the public good.
+The great drama of Florence as Dino sees it is this: we've established a government of the people. We would govern well, in the common interest. But the nobles, with their friends, their parties and factions, think only of their own interests. Nobody thinks about the public good.
 
 Conflicts of interest are constant.
 
 <!-- research: Q-013 C-022 -->
 
-Take the conflict with Arezzo. Dino and many other decent members of the popolo think: why go to war? Let's talk. Let's reach an agreement. Let's not fight.
+Take the conflict with Arezzo. Dino and many other decent townspeople think: why go to war? Let's talk. Let's reach an agreement. Let's not fight.
 
 But the nobles want war because it suits them. They know how to do it. War means splendid military pay and plunder. It means they will matter. And if the war is won, who wins it? “We do. The nobles. So the merchants had better remember their place.”
 
@@ -274,27 +274,27 @@ Part of the blame—and I have to say it, because there's blame for everyone—l
 
 But even if that were the only problem! The nobles simply refuse to obey. They're armed. Just try arresting them.
 
-The solution, then, is a tougher government of the popolo. One that puts them in their place and makes them obey.
+The solution, then, is a tougher government of the people. One that puts them in their place and makes them obey.
 
 <!-- research: Q-017 C-025 -->
 
-It has been tried in Arezzo. I keep mentioning Arezzo because Dino does: it's an important Tuscan city at this time. There, he says, the nobles become intolerable. A government of the popolo is established, and a man is brought in from outside to lead it. He puts the nobles in their place. He forces them to obey the laws.
+It has been tried in Arezzo. I keep mentioning Arezzo because Dino does: it's an important Tuscan city at this time. There, he says, the nobles become intolerable. A government of the people is established, and a man is brought in from outside to lead it. He puts the nobles in their place. He forces them to obey the laws.
 
 Which is already something extraordinary.
 
-In Arezzo, it ends very badly. The nobles can bear no more. They take up arms and seize power, breaking the popular government, as Dino puts it. They shut its leader in a cistern and leave him there to starve to death. That is the end of the government of the popolo in Arezzo.
+In Arezzo, it ends very badly. The nobles can bear no more. They take up arms and seize power, breaking the popular government, as Dino puts it. They shut its leader in a cistern and leave him there to starve to death. That is the end of the government of the people in Arezzo.
 
 <!-- research: Q-018 C-026 -->
 
-But the Florentine popolani are tougher. They want to try. They enact the Ordinances of Justice.
+But the Florentine townspeople are tougher. They want to try. They enact the Ordinances of Justice.
 
 What are these ordinances? Put simply, an extraordinary law.
 
 First, nobles cannot hold government office. In all the countless commissions, subcommissions, and councils that govern Florence, a nobleman cannot serve.
 
-Second, if a nobleman attacks a member of the popolo, if he draws his sword, he must be punished. And not just him: his relatives too. They are responsible for one another.
+Second, if a nobleman attacks an ordinary townsman, if he draws his sword, he must be punished. And not just him: his relatives too. They are responsible for one another.
 
-There must also be an armed force. Find the money in the budget; establish a body of police serving the popolo. When a nobleman is accused of violence, they go in, arrest everyone, tear down the... raze their houses to the ground. That's how it's done. Then the nobles will know their place.
+There must also be an armed force. Find the money in the budget; establish a body of police serving the people. When a nobleman is accused of violence, they go in, arrest everyone, tear down the... raze their houses to the ground. That's how it's done. Then the nobles will know their place.
 
 And they establish this system.
 
@@ -312,13 +312,13 @@ They do. Any family that has had a knight among its members is to be considered 
 
 “If you've had a knight, you're not one of us. We're the peaceful people who want to work and make money, who don't go around armed. Families with knights belong on the other side. We don't want them governing Florence.”
 
-Naturally the nobles are furious. You can understand why. They've fought the war against Arezzo, won the battle of Campaldino, and their reward is to be thrown out of government.
+Naturally the nobles are furious. You can understand why. They've won the war against Arezzo, and their reward is to be thrown out of government.
 
 <!-- research: Q-021 Q-022 -->
 
-Dino knows the sort of things they say when they get together. “Those dogs of the popolo have driven us out of the offices and honors of our own city.”
+Dino knows the sort of things they say when they get together. “Those dogs of the people have driven us out of the offices and honors of our own city.”
 
-“We're the men who won at Campaldino, and now they've thrown us out of office.”
+“We're the men who won the war, and now they've thrown us out of office.”
 
 The nobles are ready to do anything to regain power.
 
@@ -338,17 +338,17 @@ Decisions are made in innumerable councils, and anyone can be appointed. Some co
 
 <!-- research: C-010 -->
 
-Everything gets discussed. A veteran of Italy's student protests of 1968—or 1977—would have felt perfectly at home in late-thirteenth-century Florence. Whatever the occasion, what do you do? Call an assembly. Everybody speaks. And the people who speak loudest win.
+Everything gets discussed. Whatever the occasion, what do you do? Call an assembly. Everybody speaks. And the people who speak loudest win.
 
 That is how everything is decided, including things we'd think absurd to decide that way.
 
 <!-- research: Q-023 C-030 C-031 -->
 
-Before the war against Arezzo, a crucial strategic decision has to be made. We're stronger, so we'll attack. But which route do we take? Through the Valdarno or through the Casentino?
+Before the war against Arezzo, a crucial strategic decision has to be made. We're stronger, so we'll attack. But which route do we take? Along the river valley, or over the mountains and down from the north?
 
-A great deal depends on this choice. Today a commanding general would decide. They call a large meeting in the Baptistery of San Giovanni, the usual place for such gatherings. The Palazzo Vecchio doesn't yet exist.
+A great deal depends on this choice. Today a commanding general would decide. They call a large meeting in the city's baptistery—the building where Florentines are baptized. It's their usual place for such gatherings. The city hall hasn't been built yet.
 
-So there they all are in the Baptistery of San Giovanni: the important citizens, the officeholders, the experienced old knights, the military commanders. They spend the whole day discussing, in public, whether to attack Arezzo by way of the Casentino or the Valdarno.
+So there they all are in the baptistery: the important citizens, the officeholders, the experienced old knights, the military commanders. They spend the whole day discussing, in public, whether to attack Arezzo from the north after crossing the mountains, or take the river-valley route.
 
 Once everyone has spoken and given an opinion, how do they decide?
 
@@ -356,7 +356,7 @@ They vote.
 
 With white and black beans, as they do in all the councils. Each man has a white bean and a black bean. They put their votes into the urn and see which side wins.
 
-The decision, Dino says, is to go through the Casentino. And it is the worse route. But fortunately they're protected; it turns out well all the same.
+The decision, Dino says, is to cross the mountains and approach from the north. And it is the worse route. But fortunately they're protected; it turns out well all the same.
 
 So this is government by assembly, with very broad participation.
 
@@ -448,15 +448,17 @@ People tear one another apart to get them. Once you've secured a seat and know y
 
 <!-- research: Q-030 -->
 
-And in these circumstances, Dino says, no decision ever sticks. Reading this in Italy today sends a shiver down your spine. Anything decided one day is undone the next.
+And in these circumstances, Dino says, no decision ever sticks. Anything decided one day is undone the next.
 
 <!-- research: Q-031 -->
 
 Let me quote him again: “Wrongdoing goes unpunished by law. Once the wrongdoer has friends and money to spend, he gets off for the crime he has committed.”
 
-The stakes are enormous. Being in government means you won't have trouble with the courts. Your cases will be buried. It also means you're the one putting your hands into the citizens' pockets, to use another expression from today's politics.
+The stakes are enormous. Being in government means you won't have trouble with the courts. Your cases will be buried. And remember: we're still describing Florence in the early 1300s.
 
-Because government taxes people. But remember, I'm talking about Florence at the end of the thirteenth century.
+It also means you're the one putting your hands into the citizens' pockets, to use another expression from today's politics.
+
+Because government taxes people.
 
 What are the great issues there? Who pays the taxes, and what happens to public money.
 
@@ -514,7 +516,7 @@ They call the meeting. Dino is very proud of what he tries to do.
 
 <!-- research: Q-036 C-039 -->
 
-The two principal parties, the White Guelfs and the Black Guelfs, are at one another's throats in the streets. Dino wants a genuinely equal government. He won't participate in anything dishonest. There are six priors: three Whites and three Blacks.
+The two principal parties, the White and Black branches of the Guelf party, are at one another's throats in the streets. Dino wants a genuinely equal government. He won't participate in anything dishonest. There are six priors: three from the White party and three from the Black party.
 
 Then there is a seventh office, the gonfalonier of justice. He commands the police. Under the Ordinances of Justice, when a nobleman commits a crime, he's the man who has to arrest him, go and demolish his houses, and so on.
 
@@ -524,17 +526,17 @@ They want a perfectly balanced government, with every party satisfied. What do t
 
 “We chose a man of so little ability that nobody could be afraid of him.”
 
-As you can see, nobody had to invent the Cencelli manual. These men already have exactly the same concern about dividing up the posts.
+Dividing government jobs among rival parties: these men already know exactly how that works.
 
 <!-- research: Q-037 -->
 
-While they're there choosing this new government, three from one side and three from the other, one of the Black leaders approaches Dino. Dino gives his full name in the book.
+While they're there choosing this new government, three from one side and three from the other, one of the Black party's leaders approaches Dino. Dino gives his full name in the book.
 
 He takes Dino aside. “Listen, Dino. Couldn't you arrange to give us more places, and fewer to the others?”
 
 Dino is appalled. I've been describing this as politics. But remember what it means to find yourself in the minority in this political world. One day the other side may actually kill you. That is where these rivalries can lead.
 
-Dino believes he's finally putting together a balanced government. Right and left, Whites and Blacks, equal shares. And someone comes along and says, “Come on. Give us more.”
+Dino believes he's finally putting together a balanced government. The White party and the Black party, equal shares. And someone comes along and says, “Come on. Give us more.”
 
 <!-- research: Q-038 -->
 
@@ -558,7 +560,7 @@ No time at all. It falls immediately, and everything starts again.
 
 Dino is involved in politics at a time when Florence is in the hands of furious faction leaders, ready to use violence. In his view they have no idea what the public interest means. They just want to occupy the seats of power.
 
-And he presents himself—well, who knows? We have his account. He belongs to the Whites, but presents himself as a man trying to put the city's peace above faction. He's a businessman who finds himself in government because that's how the system works.
+And he presents himself—well, who knows? We have his account. He belongs to the White party, but presents himself as a man trying to put the city's peace above faction. He's a businessman who finds himself in government because that's how the system works.
 
 <!-- research: Q-001 C-041 -->
 
@@ -576,7 +578,7 @@ He makes these emotional appeals. And sometimes, apparently, they move people.
 
 At one point, when the city is about to explode into civil war, he calls yet another assembly. You've understood the pattern by now. This one is in the Baptistery.
 
-There he makes a great speech about brotherhood. “You were all baptized here, in this very font.” At that time, baptisms take place only there, in the cathedral. Every Florentine has passed through that baptismal font in San Giovanni.
+There he makes a great speech about brotherhood. “You were all baptized here, in this very font.” At that time, baptisms take place only there, in the baptistery. Every Florentine has passed through that font.
 
 Dino makes this tearful appeal to their feelings. And they cry.
 
@@ -596,11 +598,11 @@ But human beings turn out to be incapable of being rational, of being reasonable
 
 <!-- research: Q-043 C-043 -->
 
-Between the two great factions, the White and Black Guelfs, it begins to become clear who will win. Unfortunately, Dino says, you can see it coming.
+Between the two great parties, the White and Black branches of the Guelf party, it begins to become clear who will win. Unfortunately, Dino says, you can see it coming.
 
-The Whites are led by the Cerchi, a great family but new people: merchants who have made money. People like Dino. They've grown rich, and now they're knights, with weapons and horses. But in their hearts they're still merchants.
+The White party is led by the Cerchi, a great family but new people: merchants who have made money. People like Dino. They've grown rich, and now they're knights, with weapons and horses. But in their hearts they're still merchants.
 
-On the other side, the Blacks are led by barons, by the Donati, an old noble family accustomed to war.
+On the other side, the Black party is led by barons, by the Donati, an old noble family accustomed to war.
 
 <!-- research: Q-044 -->
 
@@ -640,7 +642,7 @@ Anyone who feels religion deeply within himself can see the contradiction. Dino 
 
 <!-- research: Q-041 Q-046 C-046 -->
 
-He has made the important citizens and party leaders swear in San Giovanni that they will make peace.
+He has made the important citizens and party leaders swear in the baptistery that they will make peace.
 
 Years later, he keeps thinking about what he's done. He's afraid, and he regrets it, because all those men have damned themselves. They all swore, and not one kept the oath.
 
@@ -674,9 +676,9 @@ Dino loses. Violent faction leaders take power, and that is the end of the littl
 
 <!-- research: C-040 C-049 -->
 
-Dino stays in Florence for many years. He belongs to the Whites, but escapes exile. His recent term as prior gives him a year's protection against most prosecutions; his moderation may have helped too.
+Dino stays in Florence for many years. He belongs to the White party, but escapes exile. His recent term as prior gives him a year's protection against most prosecutions; his moderation may have helped too.
 
-Other defeated Whites are exiled en masse. Dante Alighieri is among them, because he belongs to the party that loses.
+Other members of the defeated White party are exiled en masse. Dante Alighieri is among them, because he belongs to the party that loses.
 
 Dino remains in the city, shut out of political life. He was in government when the merchants thought they were in charge. Now that's over, and the noble knights hold the real power again.
 
@@ -704,7 +706,7 @@ Nothing will come of it. Once again the emperor will do nothing. Dino doesn't kn
 
 <!-- research: Q-049 -->
 
-Meanwhile he watches what happens to the great faction leaders, the men who destroyed the government of the popolo and brought the most brutal, violent faction back to power.
+Meanwhile he watches what happens to the great faction leaders, the men who destroyed the government of the people and brought the most brutal, violent faction back to power.
 
 Dino is fortunate. He lives a long time. Sooner or later, those men die.
 
