@@ -27,6 +27,9 @@ checks specified here; never manufacture old intermediate scripts or review mark
 the old pipeline. A completed trial is a reviewed recording script, not a CLI-complete or published
 episode. If publication is requested, complete the editorial work and identify the remaining
 integration and recording requirements; do not export into the old workflow automatically.
+When publication summaries are requested, use the shared
+[publication summary prompt](../produce-barbero-episode/references/execution.md#publication-summary-prompt)
+with the final English recording script.
 
 ## Models and ownership
 

@@ -75,6 +75,8 @@ only after scanning the full transcript context. The research audit must write
 `research-audit.yaml` using the schema in its reference; translation remains blocked unless its
 verdict is `ready` and every input hash still matches.
 
+Create or regenerate `publication.summary` using the
+[publication summary prompt](references/execution.md#publication-summary-prompt).
 After final consistency, run `uv run barbero validate EPISODE`. Publish with `uv run barbero
 publish-preview` in its default tokenized mode, following the prerequisites in execution.md.
 Public publication, commits, pushes, provider changes, and overwriting completed episodes require
