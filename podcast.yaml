@@ -13,6 +13,11 @@ artwork: assets/cover.png
 hostname: podcast.enucatl.com
 copyright: Copyright 2026 Enucatl; English narration and editorial material only.
 trilogies:
+  - title: Thinking Like a Medieval Man
+    episodes:
+      - {number: 19, subject: The Friar}
+      - {number: 20, subject: The Merchant}
+      - {number: 21, subject: The Knight}
   - title: How Wars Begin
     episodes:
       - {number: 7, subject: World War I}

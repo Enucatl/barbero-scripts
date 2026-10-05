@@ -87,3 +87,13 @@ Asset: `episodes/182-come-abbiamo-imparato-a-convivere-la-schiavitu/illustration
 Final prompt: shared style specification above, followed by:
 
 Subject: Two expressive human hands open an unmarked book beneath a broken iron shackle, with the chain falling away into shadow. Behind, subtle layered architectural fragments suggest the passage from ancient stone arches to nineteenth-century wooden buildings. A muted teal opening of light and small burgundy paper shape evoke testimony and human agency. Respectful conceptual illustration about slavery being challenged, no captive display, no violence, no stereotyped faces.
+
+## Thinking Like a Medieval Man: The Friar
+
+Asset: `episodes/019-il-frate/illustration.jpg`
+
+Generated with the built-in `image_gen` tool. Original PNG: `/home/user/.codex/generated_images/01a10bbd-d6ea-7192-be21-1cbebf7b1812/exec-384e1e2b-3176-42ef-a40e-4e00bf122387.png`. Converted to JPEG with the same settings as the existing illustrations.
+
+Final prompt: shared style specification above, followed by:
+
+Subject: An anonymous thirteenth-century Franciscan friar with a tonsure and simple coarse habit tied with a rope belt, seen in thoughtful profile, leaning over a large open chronicle with blank ivory pages. His silhouette subtly contains layered medieval Italian arches and the branches of a manuscript-like tree, suggesting a mind interpreting the world through Scripture and memory. A small loaf of bread and simple wine cup beside the book evoke the human pleasures and kindness in Salimbene of Parma's chronicle. A restrained burgundy circular shape behind his head balances a muted teal architectural shadow. Emphasize a curious, complex human being rather than a saint icon; no halo, no asserted portrait likeness, no readable writing.

@@ -2,7 +2,7 @@ workflow_version: 2
 slug: 019-il-frate
 number: 19
 title: Il frate
-audience_title: null
+audience_title: 'Thinking Like a Medieval Man: The Friar'
 source: /scratch/archive/barbero/19_Il_Frate_-_Come_pensava_un_uomo_del_medioevo_-_Barbero_Riserva_Festival_della_Mente_2011.mp3
 work_dir: ~/data/barbero/editorial/019-il-frate
 selected_speaker: SPEAKER_01
@@ -10,3 +10,10 @@ keyterms:
 - Alessandro Barbero
 - Medioevo
 - frate
+publication:
+  summary: >-
+    Salimbene of Parma believes that Scripture explains everything. But follow this
+    thirteenth-century friar through his own chronicle, and a more complicated man
+    emerges—one whose appetite for life is as vivid as his faith.
+  explicit: false
+  published_at: '2026-10-05T11:11:27Z'
