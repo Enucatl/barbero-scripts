@@ -236,7 +236,7 @@ assert(#state.project.tracks == 3)
 for index, name in ipairs({"MUSIC", "VOICE", "ROOM TONE"}) do assert(state.project.tracks[index].name == name) end
 close(a.takes[1].D_STARTOFFS, 1.2); close(a.D_LENGTH, 9.8); close(a.D_POSITION, 6)
 close(a.D_FADEINLEN, 0.008); close(b.D_POSITION, 15.8)
-close(c.D_POSITION - b.D_POSITION - b.D_LENGTH, 2.2)
+close(c.D_POSITION - b.D_POSITION - b.D_LENGTH, 2)
 local jingles = generated(state, "JINGLE")
 assert(#jingles == 3)
 assert(jingles[1].takes[1].source.path:match("jingle_b%.wav$"))
@@ -307,8 +307,8 @@ local overlap_state = mock(project({track("VOICE", clips)}),
     {lengths = {intro = 33.481417, outro = 29.158583, jingle_a = 20.553104, jingle_b = 17.233771}}):run()
 success(overlap_state)
 for i = 2, 4 do close(clips[i].D_POSITION, clips[i - 1].D_POSITION + clips[i - 1].D_LENGTH) end
-close(clips[5].D_POSITION - clips[4].D_POSITION - clips[4].D_LENGTH, 17.233771 - 7)
-close(clips[6].D_POSITION - clips[5].D_POSITION - clips[5].D_LENGTH, 20.553104 - 7)
+close(clips[5].D_POSITION - clips[4].D_POSITION - clips[4].D_LENGTH, 17.233771 - 11)
+close(clips[6].D_POSITION - clips[5].D_POSITION - clips[5].D_LENGTH, 20.553104 - 11)
 local long_jingles = generated(overlap_state, "JINGLE")
 assert(#long_jingles == 2 and #generated(overlap_state, "ROOM_TONE") == 3)
 local overlap_env = find_track(overlap_state, "MUSIC").envelopes[1]
@@ -316,21 +316,26 @@ for i, cue in ipairs(long_jingles) do
     local left, right = clips[i + 3], clips[i + 4]
     local gap_start, gap_end = left.D_POSITION + left.D_LENGTH, right.D_POSITION
     close(cue.D_LENGTH, i == 1 and 17.233771 or 20.553104)
-    close(cue.D_POSITION + cue.D_LENGTH / 2, (gap_start + gap_end) / 2)
     assert(cue.D_POSITION < gap_start and cue.D_POSITION + cue.D_LENGTH > gap_end)
-    close(gap_start - cue.D_POSITION, 3.5)
-    close(cue.D_POSITION + cue.D_LENGTH - gap_end, 3.5)
+    close(gap_start - cue.D_POSITION, 9)
+    close(cue.D_POSITION + cue.D_LENGTH - gap_end, 2)
     local points = {}
     for _, p in ipairs(overlap_env.ais[1].points) do
         if p.time >= cue.D_POSITION and p.time <= cue.D_POSITION + cue.D_LENGTH then
             points[#points + 1] = p
         end
     end
-    assert(#points == 4, "jingle must ramp across speech without ducked plateaus")
+    assert(#points == 6, "jingle needs a quiet lead-in and asymmetric rise/fall")
     close(points[1].time, cue.D_POSITION); close(points[1].value, 0)
-    close(points[2].time, gap_start + 0.5); close(points[2].value, 2 * 10 ^ (-3 / 20))
-    close(points[3].time, gap_end - 0.5); close(points[3].value, points[2].value)
-    close(points[4].time, cue.D_POSITION + cue.D_LENGTH); close(points[4].value, 0)
+    close(points[2].value, 2 * 10 ^ (-18 / 20))
+    close(points[3].value, points[2].value)
+    assert(points[3].time < gap_start and points[4].time > gap_start)
+    close(points[4].value, 2 * 10 ^ (-3 / 20))
+    close(points[5].value, points[4].value)
+    assert(points[5].time < gap_end)
+    assert(points[6].time - points[5].time > points[4].time - points[3].time,
+        "fade-out should last longer than the rise from the quiet bed")
+    close(points[6].time, cue.D_POSITION + cue.D_LENGTH); close(points[6].value, 0)
 end
 local long_intro = generated(overlap_state, "INTRO")[1]
 close(long_intro.D_POSITION, 0); close(long_intro.D_LENGTH, 33.481417)
@@ -374,6 +379,18 @@ local spaced_positions = {}
 for i, clip in ipairs(clips) do spaced_positions[i] = clip.D_POSITION end
 overlap_state:run(); success(overlap_state)
 for i, clip in ipairs(clips) do close(clip.D_POSITION, spaced_positions[i]) end
+
+-- An existing oversized break (as in episode 020) must also fit the overlaps.
+local wide_left, wide_right = item(0, 60), item(80, 60)
+local wide_state = mock(project({track("VOICE", {wide_left, wide_right})}),
+    {lengths = {jingle_b = 17.233771}}):run()
+success(wide_state)
+local wide_jingle = generated(wide_state, "JINGLE")[1]
+close(wide_left.D_POSITION + wide_left.D_LENGTH - wide_jingle.D_POSITION, 9)
+close(wide_jingle.D_POSITION + wide_jingle.D_LENGTH - wide_right.D_POSITION, 2)
+local wide_position = wide_right.D_POSITION
+wide_state:run(); success(wide_state)
+close(wide_right.D_POSITION, wide_position)
 
 -- Removing a mini gap also moves later clips at long boundaries; reject a
 -- locked later item before mutating anything, even if it is not at a seam.

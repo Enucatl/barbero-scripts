@@ -115,12 +115,17 @@ Run that action to assemble the episode. Keep the script in its repository locat
 it resolves the five prepared WAV files under `assets/audio/` relative to itself.
 No SWS extension is required.
 
+When creating a processed project copy, rename the source project to
+`<episode>-backup.RPP` and keep `<episode>.RPP` for the post-processed project.
+Preserve the existing backup when rebuilding. Episode storage and the workflow
+are recorded in [.agents/skills/post-processing/SKILL.md](.agents/skills/post-processing/SKILL.md).
+
 All timing and level settings are in `CONFIG` near the top of the script. The MUSIC
 track fader is set to −10 dB (`MUSIC_TRACK_DB`). Its envelope retains −3 dB normal
 and −18 dB ducked levels, applied in addition to the track fader. On the
 first run, it trims recording clicks and removes recorded gaps shorter than two
-seconds, shifting all later voice clips earlier. Longer breaks are widened when
-needed for their jingle, shifting all later clips together. The intro starts at zero; voice gets at least 16
+seconds, shifting all later voice clips earlier. Longer breaks are resized to
+fit their jingle, shifting all later clips together. The intro starts at zero; voice gets at least 16
 seconds of pre-roll, capped at half the intro's duration for short assets. The rest
 of the intro overlaps speech. It holds full volume until two seconds before voice
 entry, gradually ducks over four seconds, then continues fading to silence at its
@@ -128,11 +133,15 @@ end. `INTRO_DUCK_TIME` adjusts that transition centered on the voice entrance. I
 MUSIC, VOICE, and ROOM TONE with editable track-volume automation and two-second
 room-tone patches centered on each seam, with 0.5-second fades at both ends.
 Jingles alternate B, A (`JINGLE_ORDER`) and retain their complete source duration.
-`JINGLE_VOICE_OVERLAP = 3.5` reserves about 3.5 seconds of speech overlap per side:
-each break is widened to at least the jingle duration minus seven seconds. Existing
-longer breaks are preserved. Complete jingles are centered on these breaks and rise gradually across the
-preceding speech overlap, hold full volume inside the break, then fade gradually
-across the following speech overlap. They are skipped only when another music cue
+`JINGLE_OVERLAP_BEFORE = 9` and `JINGLE_OVERLAP_AFTER = 2` reserve a longer
+quiet lead-in under outgoing speech and a shorter tail under incoming speech.
+Each break is resized to the jingle duration minus eleven seconds (minimum two
+seconds), shifting all subsequent voice clips together. This also shortens
+oversized breaks so the requested overlap is audible. Short WAVs reduce the
+overlap proportionally.
+The envelope enters at the ducked level, holds it through 37% of the WAV,
+rises to full at 56%, holds until 75%, then fades to silence at the end.
+They are skipped only when another music cue
 leaves insufficient space.
 The outro overlaps up to 22 seconds of the final voice clip, rising from silence
 to −10 dB on the envelope 1.5 seconds before speech ends, then to full volume at
@@ -142,9 +151,8 @@ three-second fade. Short sources shorten fades as needed. The complete outro pla
 so `OUTRO_POST_ROLL` specifies a minimum rather than shortening the asset.
 
 Later runs preserve voice trims, source offsets and fades, and rebuild generated
-content. Undersized jingle breaks are widened with the same ripple shift; already
-wide breaks do not grow again. Increasing the overlap setting does not shrink
-existing breaks.
+content. Jingle breaks are resized with the same ripple shift; rerunning with
+unchanged settings leaves their timing stable. Increasing overlap shortens breaks.
 Undoable VOICE track metadata records the one-time preparation; project extstate
 mirrors the version but is not its authority, since REAPER does not undo project
 extstate. One Undo reverses a script execution, including the preparation marker.

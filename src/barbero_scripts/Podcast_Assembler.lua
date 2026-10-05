@@ -37,7 +37,8 @@ local CONFIG = {
     -- a longer prepared outro therefore continues beyond this minimum.
     OUTRO_POST_ROLL = 3.0,
     JINGLE_FADE_TIME = 0.5,
-    JINGLE_VOICE_OVERLAP = 3.5, -- Per side; widen shorter breaks to fit the WAV.
+    JINGLE_OVERLAP_BEFORE = 9.0, -- Quiet lead-in under outgoing speech.
+    JINGLE_OVERLAP_AFTER = 2.0, -- Tail under incoming speech.
     AUTOMATION_TAIL = 0.050, -- Keep REAPER's automation edge blend beyond the audio.
     POSITION_EPSILON = 0.0001,
 }
@@ -324,7 +325,7 @@ local function plan_voice(tracks, assets)
             end
         end
     else
-        diagnostic("VOICE already prepared: preserve source edits; only widen undersized jingle breaks")
+        diagnostic("VOICE already prepared: preserve source edits; fit jingle breaks to speech overlaps")
     end
     for index, entry in ipairs(voice) do
         diagnostic("VOICE final plan %d (%s): position=%.6f; length=%.6f; end=%.6f; trim=%s",
@@ -370,7 +371,7 @@ local function point(cue, time, value)
 end
 
 local function space_jingles(voice, assets)
-    stage("widen jingle breaks")
+    stage("fit jingle breaks")
     local shift, index = 0, 0
     local frontier = voice[1].position + voice[1].length
     for i = 2, #voice do
@@ -380,7 +381,8 @@ local function space_jingles(voice, assets)
         if gap >= CONFIG.SHORT_GAP_THRESHOLD - CONFIG.POSITION_EPSILON then
             index = index + 1
             local key = JINGLE_ORDER[(index - 1) % #JINGLE_ORDER + 1]
-            local extra = math.max(0, assets[key].length - 2 * CONFIG.JINGLE_VOICE_OVERLAP - gap)
+            local extra = math.max(CONFIG.SHORT_GAP_THRESHOLD, assets[key].length
+                - CONFIG.JINGLE_OVERLAP_BEFORE - CONFIG.JINGLE_OVERLAP_AFTER) - gap
             shift = shift + extra
             entry.position = entry.position + extra
             diagnostic("JINGLE spacing %d (%s): gap=%.6f -> %.6f; ripple=%.6f",
@@ -392,6 +394,15 @@ local function space_jingles(voice, assets)
         end
         frontier = math.max(frontier, entry.position + entry.length)
     end
+end
+
+local function jingle_start(gap, length)
+    local overlap = CONFIG.JINGLE_OVERLAP_BEFORE + CONFIG.JINGLE_OVERLAP_AFTER
+    local available = length - (gap.finish - gap.start)
+    if available <= 0 or overlap == 0 then
+        return (gap.start + gap.finish - length) / 2
+    end
+    return gap.start - available * CONFIG.JINGLE_OVERLAP_BEFORE / overlap
 end
 
 local function plan_assembly(voice, assets)
@@ -424,7 +435,7 @@ local function plan_assembly(voice, assets)
     local voice_start = voice[1].position
     local intro_end = math.min(assets.intro.length, outro_start)
     if breaks[1] then
-        local first_jingle = (breaks[1].start + breaks[1].finish - assets[JINGLE_ORDER[1]].length) / 2
+        local first_jingle = jingle_start(breaks[1], assets[JINGLE_ORDER[1]].length)
         intro_end = math.min(intro_end, math.max(voice_start, first_jingle))
     end
     if intro_end > CONFIG.POSITION_EPSILON then
@@ -449,11 +460,10 @@ local function plan_assembly(voice, assets)
     for index, gap in ipairs(breaks) do
         local key = JINGLE_ORDER[(index - 1) % #JINGLE_ORDER + 1]
         local length = assets[key].length
-        -- Center the prepared WAV on the break; ramp across the speech overlaps
-        -- on either side. Only other music cues constrain that overlap.
+        -- Bias the complete WAV toward outgoing speech for a quiet lead-in.
         local earliest = music[#music] and music[#music].position + music[#music].length or 0
         local latest = outro_start
-        local start = (gap.start + gap.finish - length) / 2
+        local start = jingle_start(gap, length)
         start = math.max(earliest, math.min(start, latest - length))
         local finish = start + length
         diagnostic("JINGLE break %d: asset=%s; source=%.6fs; break=[%.6f, %.6f]; allowed=[%.6f, %.6f]; proposed=[%.6f, %.6f]",
@@ -465,15 +475,17 @@ local function plan_assembly(voice, assets)
         else
             local cue = {asset = key, kind = "JINGLE", position = start, length = length, points = {}}
             local clear_start, clear_end = math.max(start, gap.start), math.min(finish, gap.finish)
-            local ramp = math.min(CONFIG.JINGLE_FADE_TIME, (clear_end - clear_start) / 2)
+            -- Proportions preserve the musical shape for both prepared WAVs:
+            -- quiet opening, gradual rise, short peak, longer fade to silence.
             point(cue, start, 0)
-            point(cue, clear_start + ramp, FULL)
-            point(cue, clear_end - ramp, FULL)
+            point(cue, start + length * 0.025, DUCKED)
+            point(cue, start + length * 0.37, DUCKED)
+            point(cue, start + length * 0.56, FULL)
+            point(cue, start + length * 0.75, FULL)
             point(cue, finish, 0)
             music[#music + 1] = cue
-            diagnostic("JINGLE accepted: clear=[%.6f, %.6f]; ramp=%.6fs; left-overlap=%.6fs; right-overlap=%.6fs",
-                clear_start, clear_end, ramp, math.max(0, gap.start - start), math.max(0, finish - gap.finish))
-            if ramp < CONFIG.JINGLE_FADE_TIME then warn("Jingle ramps compressed in break " .. index .. ".") end
+            diagnostic("JINGLE accepted: clear=[%.6f, %.6f]; left-overlap=%.6fs; right-overlap=%.6fs",
+                clear_start, clear_end, math.max(0, gap.start - start), math.max(0, finish - gap.finish))
         end
     end
     music[#music + 1] = outro

@@ -47,7 +47,7 @@ local function run_checks()
     assert(r.CountTracks(0) == 0, "Open an empty REAPER project before running this harness.")
     assert(assembler and root and r.file_exists(assembler), "Cannot locate sibling Podcast_Assembler.lua.")
     -- Two mini gaps followed by four- and five-second breaks. Widen the long
-    -- breaks for complete B/A jingles with 3.5 seconds under speech per side.
+    -- breaks for complete B/A jingles with nine seconds before and two seconds after the break.
     local fixture = {{0, 8, 1, 1}, {8.5, 8, 2, 1.5}, {17, 20, 3, 0.8},
         {41, 20, 2, 1}, {66, 40, 4, 0.5}}
     local expected_positions = {16, 23.8, 31.6}
@@ -56,7 +56,7 @@ local function run_checks()
             "Cannot load jingle fixture: " .. filename)
         local length = r.GetMediaSourceLength(source)
         r.PCM_Source_Destroy(source)
-        expected_positions[i + 3] = expected_positions[i + 2] + fixture[i + 2][2] - 0.2 + length - 7
+        expected_positions[i + 3] = expected_positions[i + 2] + fixture[i + 2][2] - 0.2 + length - 11
     end
     local path = root .. "/assets/audio/room_tone.wav"
     -- Open fixture sources before creating anything. Each take owns its own
@@ -122,9 +122,9 @@ local function run_checks()
         local start = r.GetMediaItemInfo_Value(jingles[i], "D_POSITION")
         local finish = start + r.GetMediaItemInfo_Value(jingles[i], "D_LENGTH")
         local left, right = snapshot[i + 2], snapshot[i + 3]
-        near(left.position + left.length - start, 3.5, "Jingle left overlap " .. i)
-        near(finish - right.position, 3.5, "Jingle right overlap " .. i)
-        near(right.position - left.position - left.length, finish - start - 7,
+        near(left.position + left.length - start, 9, "Jingle left overlap " .. i)
+        near(finish - right.position, 2, "Jingle right overlap " .. i)
+        near(right.position - left.position - left.length, finish - start - 11,
             "Widened jingle break " .. i)
     end
     local offsets = {}
@@ -168,15 +168,20 @@ local function run_checks()
     for i, item in ipairs(jingles) do
         local start = r.GetMediaItemInfo_Value(item, "D_POSITION")
         local finish = start + r.GetMediaItemInfo_Value(item, "D_LENGTH")
-        local full_start = snapshot[i + 2].position + snapshot[i + 2].length + 0.5
-        local full_end = snapshot[i + 3].position - 0.5
-        for _, probe in ipairs({{start, 0}, {(start + full_start) / 2, full / 2},
+        local length = finish - start
+        local quiet_start, rise_start = start + length * 0.025, start + length * 0.37
+        local full_start = start + length * 0.56
+        local full_end = start + length * 0.75
+        for _, probe in ipairs({{start, 0}, {(start + quiet_start) / 2, ducked / 2}, {quiet_start, ducked},
+                {(quiet_start + rise_start) / 2, ducked}, {rise_start, ducked},
+                {(rise_start + full_start) / 2, (ducked + full) / 2},
                 {full_start, full}, {(full_start + full_end) / 2, full}, {full_end, full},
                 {(full_end + finish) / 2, full / 2}, {finish, 0}}) do
             local _, value = r.Envelope_Evaluate(env, probe[1], 48000, 1)
             near(value, probe[2], "Jingle " .. i .. " volume at " .. probe[1])
         end
-        ramps[#ramps + 1] = {start, full_start, 1}
+        ramps[#ramps + 1] = {start, quiet_start, 1}
+        ramps[#ramps + 1] = {rise_start, full_start, 1}
         ramps[#ramps + 1] = {full_end, finish, -1}
     end
     for _, ramp in ipairs(ramps) do
@@ -189,7 +194,7 @@ local function run_checks()
             previous = value
         end
     end
-    log("PASS: tracks, rate-aware trims, cumulative gap removal, widened B/A breaks with 3.5-second overlaps, continuous jingle ramps and full-level holds, complete assets, two-second room patches with half-second fades, zero-start intro hold and gradual ducking, 22-second outro rise to speech end, full post-roll and final fade")
+    log("PASS: tracks, rate-aware trims, cumulative gap removal, widened B/A breaks with 9/2-second overlaps, quiet jingle lead-ins and asymmetric ramps and full-level holds, complete assets, two-second room patches with half-second fades, zero-start intro hold and gradual ducking, 22-second outro rise to speech end, full post-roll and final fade")
 
     -- Create a manual voice edit and ordinary MUSIC automation point. Keep the
     -- edit in its own Undo block; do not nest around the assembler's block.
