@@ -56,9 +56,9 @@ I don't want to keep referring to the previous episode; some of you may not have
 
 <!-- research: C-006 -->
 
-The Italian communes have a nobility of great families. These are people with ancestors, a coat of arms, land, castles, towers in the city. They have horses and weapons, and they're used to fighting and competing in tournaments.
+The Italian cities have a nobility of great families. These are people with ancestors, a coat of arms, land, castles, towers in the city. They have horses and weapons, and they're used to fighting and competing in tournaments.
 
-For a long time these gentlemen, as people call them, are the men who govern the cities. They rule. Merchants stay in their shops and warehouses; craftsmen get on with their work. In the communes, the nobles—the knights—are in charge.
+For a long time these gentlemen, as people call them, are the men who govern the cities. They rule. Merchants stay in their shops and warehouses; craftsmen get on with their work. In the cities, the nobles—the knights—are in charge.
 
 Admiration for knights, for people who belong to a higher world socially, is still part of Dino's outlook. He's a merchant, not one of them. As we'll see, he doesn't really share their interests. In politics he has some very bitter confrontations with them.
 
@@ -74,7 +74,7 @@ The doctors are university graduates. Now, I won't dwell on how much greater the
 
 <!-- research: Q-004 C-008 -->
 
-And it isn't just a matter of honor. Knights are the citizens who count most in every respect. Under one peace settlement, some citizens still have to remain in exile. The commune pays them a daily allowance—but more to the knights, Dino tells us, and less to everyone else.
+And it isn't just a matter of honor. Knights are the citizens who count most in every respect. Under one peace settlement, some citizens still have to remain in exile. The city pays them a daily allowance—but more to the knights, Dino tells us, and less to everyone else.
 
 Being a knight means belonging to the elite.
 
@@ -82,15 +82,15 @@ Being a knight means belonging to the elite.
 
 And knights are necessary. You need to send an embassy to the pope. Who are you going to send—a cobbler? A cobbler may be able to serve in Florence's government, as we'll see. But for an embassy to the pope, you need knights. People who know how to behave in society, who are accustomed to dealing with the powerful, who have good manners.
 
-You also need knights in war. When the commune goes to war, it calls everyone out to fight: craftsmen, merchants, all the citizens, organized into neighborhood companies. They march on foot with their spears and shields. But the nobles know how to ride. They have armor. They spend their lives fighting in tournaments. Without those mounted noblemen, you don't have an army.
+You also need knights in war. When the city goes to war, it calls everyone out to fight: craftsmen, merchants, all the citizens, organized into neighborhood companies. They march on foot with their spears and shields. But the nobles know how to ride. They have armor. They spend their lives fighting in tournaments. Without those mounted noblemen, you don't have an army.
 
-They're the men who win battles, not the mass of ordinary townspeople in their infantry companies. The nobles are essential to communal life, and for a long time they've been in charge.
+They're the men who win battles, not the mass of ordinary townspeople in their infantry companies. The nobles are essential to city life, and for a long time they've been in charge.
 
 Now, I realize I'm supposed to be telling you how Dino Compagni sees the world, and instead I'm telling you about everyone else. The people unlike him. The people he looks up to, the people above him. But that is the world a merchant inhabits: an Italian city with lords and noblemen over his head.
 
 <!-- research: C-010 -->
 
-It doesn't matter if the commune is democratic and everyone votes. The nobles count.
+It doesn't matter if the city is democratic and everyone votes. The nobles count.
 
 They share a system of values, the chivalric ideal. You have to be prepared to sacrifice yourself, to be killed in battle if necessary. Honor is at the center of everything.
 
@@ -214,7 +214,7 @@ Imagine the U.S. Chamber of Commerce running the government. Business owners the
 
 <!-- research: C-020 -->
 
-At the head of the commune they put a board of six priors, selected by the guilds. The guilds are, essentially, their organizations of employers. There are many: the furriers, the silk and wool businessmen, the notaries, the doctors. Government is in their hands.
+At the head of the city they put a board of six priors, selected by the guilds. The guilds are, essentially, their organizations of employers. There are many: the furriers, the silk and wool businessmen, the notaries, the doctors. Government is in their hands.
 
 Now a man like Dino can find himself governing. While the nobles were in charge, men like him stayed at their shops. But in the late thirteenth century Florence tries this experiment in broader democracy.
 
@@ -222,7 +222,7 @@ Broader up to a point, of course. Dino's employees don't get to govern. Dino him
 
 <!-- research: C-021 -->
 
-Keep in mind how many bodies a communal government contains: commissions, subcommissions, councils, boards. Six men, twelve, eighteen, four. Their terms are very short. The membership changes constantly. At most they serve a year, and often much less.
+Keep in mind how many bodies a city government contains: commissions, subcommissions, councils, boards. Six men, twelve, eighteen, four. Their terms are very short. The membership changes constantly. At most they serve a year, and often much less.
 
 The six priors, the actual city government, the men who make the decisive decisions, if I can put it that way, change every two months.
 
@@ -394,7 +394,7 @@ Money counts for a great deal.
 
 Money circulates in this world. A lot of it circulates, and it matters. Without it, you can't fight a war. You can't conduct politics either.
 
-When the commune needs money, rich citizens and great financiers advance it. And the city has to be grateful. Once you've advanced money to the city, you wait for repayment, certainly. But while you're waiting, there are plenty of ways to be rewarded. Wealthy citizens and bankers are quite happy to lend to the government.
+When the city needs money, rich citizens and great financiers advance it. And the city has to be grateful. Once you've advanced money to the city, you wait for repayment, certainly. But while you're waiting, there are plenty of ways to be rewarded. Wealthy citizens and bankers are quite happy to lend to the government.
 
 Money matters in foreign affairs too. Everything is done with money.
 
@@ -464,7 +464,7 @@ What are the great issues there? Who pays the taxes, and what happens to public 
 
 <!-- research: Q-032 -->
 
-The city has a treasury. Those in power swear to safeguard it. Instead, Dino says, “they found ways to steal it more effectively.” They take money out under the pretext of rewarding people who have served the commune.
+The city has a treasury. Those in power swear to safeguard it. Instead, Dino says, “they found ways to steal it more effectively.” They take money out under the pretext of rewarding people who have served the city.
 
 Up to two thousand florins, of course, no vote is needed. Just hand it over. And out the money goes.
 
@@ -636,7 +636,7 @@ You may have noticed something completely absent from this account of medieval F
 
 We think of medieval people, rightly, as living in a deeply religious society. Christian faith matters, and matters a great deal. Certainly it does, in each person's inner life.
 
-But in the politics of these Italian communes, religion counts for nothing. The struggle is so ferocious, so ruthless, and power is so completely the only prize, that religion counts for nothing.
+But in the politics of these Italian cities, religion counts for nothing. The struggle is so ferocious, so ruthless, and power is so completely the only prize, that religion counts for nothing.
 
 Anyone who feels religion deeply within himself can see the contradiction. Dino can.
 
