@@ -2,11 +2,11 @@
 
 Run this stage after the recording script has passed the preceding application and verification
 checks. Use a new reviewer context with `gpt-6-astra` at high reasoning, separate from the writer
-and earlier reviewers. Give it the complete current `TRIAL/script.en.md` and the prompt below;
+and earlier reviewers. Give it the complete current `EDITORIAL/script.en.md` and the prompt below;
 withhold earlier reviews and the writer's explanations so its first impression is independent.
 After that first impression is recorded, provide the Italian source, relevant evidence, and
 existing editorial decisions to check proposed solutions for fidelity and settled choices.
-Record the model, effort, fresh-context use, and reviewed script version in `TRIAL/review.final.md`.
+Record the model, effort, fresh-context use, and reviewed script version in `EDITORIAL/review.final.md`.
 The skill's model-availability rule applies; if a fresh context is unavailable, disclose that
 limitation and request the user's direction before substituting self-review for this stage.
 
@@ -112,10 +112,10 @@ Follow the existing prohibition on producing a partially applied decision queue;
 answered points does not authorize a partial final script while required decisions are pending.
 
 Whole-episode omission is an editorial recommendation until the user decides. Record an accepted
-omission as a decision not to take this episode forward; retain the source and trial artifacts.
+omission as a decision not to take this episode forward; retain the source and episode artifacts.
 It does not authorize deleting files, changing the series catalog, or publishing changes.
 
-After application, save `TRIAL/changes.final.md` with a row or entry for every implemented change:
+After application, save `EDITORIAL/changes.final.md` with a row or entry for every implemented change:
 finding ID and location, exact before text, exact after text (or an explicit removal), the issue
 fixed, the user's instruction, and the reasoning behind the chosen implementation. Explain how
 the wording improves the reader/listener experience and what meaning or narrative function it

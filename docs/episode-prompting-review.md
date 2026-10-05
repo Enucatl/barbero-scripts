@@ -59,8 +59,8 @@ misrepresent a source, or sound translated.
 | Stale audit or missing recording | Evidence re-reviewed or concrete blocker reported; no fabricated readiness or preview |
 | Whole-episode listener synthesis | Complete script and outline considered together; proposals map to listener needs and remain bounded to the decision queue |
 
-Use the existing workflow policy, status, Italian-first, and v2 tests for deterministic regression
-checks. The skill validator checks packaging; a separate read-only scenario walkthrough checks
+Use the existing workflow policy, status, Italian-first, and episode validation tests for
+deterministic regression checks. The skill validator checks packaging; a separate read-only walkthrough checks
 interpretation of the instructions. Neither establishes end-to-end GPT-6 editorial quality.
 Before reducing reasoning effort or changing the tier split, compare actual generated research and
 chapters against these criteria. This repository review does not regenerate or publish an episode.
@@ -68,5 +68,5 @@ chapters against these criteria. This repository review does not regenerate or p
 The independent read-only walkthrough covered pending transcript decisions, stale audit inputs,
 coincident quotation wording, missing recorded audio, and parallel naturalness work with an approved
 correction. It also identified a legacy validator that rejects coincident recovered wording;
-workflow v2 uses a separate validator. Completed legacy episodes retain their existing validation
-behavior in this change. The walkthrough is not a generated-episode evaluation.
+the editorial skill uses a separate check sequence. Completed CLI episodes retain their existing
+validation behavior in this change. The walkthrough is not a generated-episode evaluation.

@@ -1,7 +1,7 @@
 # One coherent adaptation
 
 Read the complete Italian script, brief, evidence review, and relevant source records before
-writing. Use one Astra writer for `TRIAL/script.draft.en.md`. Chapters may be saved incrementally
+writing. Use one Astra writer for `EDITORIAL/script.draft.en.md`. Chapters may be saved incrementally
 for practical output limits, but retain the whole episode's context and check joins. Verify that
 all required input text was actually read; a model's nominal context capacity is not proof of this.
 

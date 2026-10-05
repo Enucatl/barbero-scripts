@@ -1,6 +1,6 @@
 interface:
   display_name: "Produce Barbero Episode"
-  short_description: "Run the artifact-gated episode workflow"
-  default_prompt: "Use $produce-barbero-episode to produce or resume this episode through its unlisted preview."
+  short_description: "Create or resume a researched episode"
+  default_prompt: "Use $produce-barbero-episode to produce or resume this episode through a reviewed recording script in editorial/."
 policy:
   allow_implicit_invocation: false

@@ -13,20 +13,12 @@ def test_episode_skill_is_explicit_and_references_exist() -> None:
     assert "$produce-barbero-episode" in metadata["interface"]["default_prompt"]
     assert not (repository / "prompts/episode-workflow.md").exists()
     references = (
-        "transcript-review.md",
-        "italian-assembly.md",
-        "outline.md",
-        "research-target-extraction.md",
-        "historical-research.md",
-        "quotation-research.md",
-        "research-audit.md",
-        "faithful-translation.md",
-        "quotation-accuracy.md",
-        "content-review.md",
-        "chapter-tense.md",
-        "chapter-naturalness.md",
-        "listener-review.md",
-        "final-consistency.md",
+        "source.md",
+        "evidence.md",
+        "adaptation.md",
+        "review-and-decisions.md",
+        "final-audience-review.md",
+        "publication-summary.md",
     )
     for relative in references:
         assert (skill_dir / "references" / relative).is_file()
@@ -39,13 +31,7 @@ def test_episode_skill_model_routing_and_safety_boundary() -> None:
         encoding="utf-8"
     )
 
-    for route in (
-        "GPT-6 Luna, high",
-        "GPT-6 Luna, high",
-        "GPT-6 Sol, high",
-        "GPT-6 Astra, high",
-    ):
-        assert route in skill
-    assert "external model" in skill
-    assert "Pause at every `human` state" in skill
-    assert "Public publication, commits, pushes" in skill
+    assert "gpt-6-astra` at high reasoning" in skill
+    assert "alternative only if the user authorizes it" in skill
+    assert "fresh reviewers" in skill
+    assert "Commit, push, publish" in skill

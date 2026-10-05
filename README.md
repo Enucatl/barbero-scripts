@@ -11,40 +11,21 @@ other podcast app: [podcast.enucatl.com](https://podcast.enucatl.com).
 
 ## The agentic research workflow
 
-This repository contains the private production system behind the podcast. It is an explicit-only
-Codex repository skill, [`$produce-barbero-episode`](.agents/skills/produce-barbero-episode/), that
-coordinates bounded agents around durable, reviewable episode artifacts. Python owns deterministic
-transformations, hashes, validation, and status; agents own interpretation, research, translation,
-and editorial proposals.
+This repository contains the private production system behind the podcast. Its explicit-only
+Codex repository skill, [`$produce-barbero-episode`](.agents/skills/produce-barbero-episode/),
+produces researched, independently reviewed recording scripts in durable episode artifacts.
 
 ![Episode production workflow](assets/architecture.png)
 
-### Model boundaries
+The skill uses GPT-6 Astra for episode writing and independent source and listener reviews. The
+Python CLI continues to handle its supported preparation and publication commands; it does not
+call or select an OpenAI model. See the [prompting review](docs/episode-prompting-review.md) for
+the model guidance and a representative evaluation procedure.
 
-- **GPT-6 Luna** handles bounded production work: transcript uncertainty review, chapter and
-  outline structure, faithful translation, proposal drafting, tense, naturalness, and final
-  integration.
-- **GPT-6 Sol** handles evidence-heavy work: individual historical research, the whole research
-  audit.
-- **GPT-6 Astra** handles whole-episode listener synthesis, combining the complete spoken script
-  and outline into audience-focused editorial proposals.
-- No external-model fallback is used. Sol may return a blocked finding; it may not lower the
-  evidence standard.
+### CLI artifact status
 
-The skill specifies stage models and reasoning efforts for the Codex host; the Python CLI does
-not call or select an OpenAI model. See the [prompting review](docs/episode-prompting-review.md) for
-the GPT-6 guidance, changes, and a representative evaluation procedure.
-
-An alternative [`$produce-barbero-episode-v2`](.agents/skills/produce-barbero-episode-v2/SKILL.md)
-trials one Astra adaptation with independent source and listener reviews and a consolidated
-editorial decision package. Invoke it with an episode path or a new episode's identity and source.
-It saves its reviewed script under `EPISODE/editorial-v2/script.en.md`, preserving the original
-workflow. The skill's v2 name is separate from the CLI's existing `workflow_version: 2`;
-trial artifacts are not yet integrated with the CLI's editorial status, validators, or publisher.
-
-### Artifact-gated progress
-
-`barbero status EPISODE --json` reports the current `stage`, its `kind` (`machine`, `agent`,
+For episodes using the CLI workflow, `barbero status EPISODE --json` reports the current `stage`,
+its `kind` (`machine`, `agent`,
 `human`, `complete`, or `invalid`), the next action, blocking items, and relevant artifact paths.
 The same result powers the human-readable status output, so an interrupted run resumes from the
 last validated artifact rather than from a separate run ledger.
@@ -86,8 +67,8 @@ uv run barbero publish-preview
 
 The publisher scans eligible episodes and does not accept a positional episode argument. Verify
 the target episode appears in the page, feed, and media output before marking `preview_published`
-in its metadata. The skill's [execution reference](.agents/skills/produce-barbero-episode/references/execution.md)
-maps intermediate stages to commands and explains resuming partial chapter work.
+in its metadata. The skill's [source reference](.agents/skills/produce-barbero-episode/references/source.md)
+maps source-preparation commands and explains how to resume partial work.
 This marks a local build: current Caddy configuration does not serve token-prefixed previews.
 Report its local path; a reachable private preview requires a serving change.
 
@@ -95,7 +76,7 @@ For example, invoke the workflow with a concrete scope:
 
 ```text
 $produce-barbero-episode resume episodes/021-come-pensava-un-uomo-del-medioevo-il-cavaliere
-through its unlisted preview. Preserve existing decisions and completed artifacts.
+through a reviewed recording script. Preserve existing decisions and completed artifacts.
 ```
 
 A request can also target analysis or one stage. The workflow continues through authorized work

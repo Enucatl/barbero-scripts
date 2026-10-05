@@ -2,7 +2,7 @@
 
 Read the complete Italian and brief. Investigate every quotation or attributed paraphrase, central
 causal/interpretive claims, historically disputed assertions, and a representative sample of
-incidental facts. Keep `Q-NNN`, `C-NNN`, and `SRC-NNN` IDs stable across the trial.
+incidental facts. Keep `Q-NNN`, `C-NNN`, and `SRC-NNN` IDs stable across the workflow.
 
 Use retrieved evidence, not model recall, to establish a quotation or correction. Open supporting
 sources; record locators and limitations. If retrieval is unavailable, preserve unresolved entries
@@ -14,10 +14,10 @@ Related targets may share an investigation. Keep every quotation's speaker, docu
 wording, and verdict separate. Researchers return evidence to one ledger owner. Do not authorize
 multiple workers to edit the same YAML files concurrently.
 
-## Trial ledgers
+## Research ledgers
 
 Each file is a YAML list. Use actual values, explicit nulls, and empty lists where unresolved.
-These records are local to `TRIAL`, not inputs to the old application commands.
+These records are local to `EDITORIAL`, not inputs to the CLI application commands.
 
 | File | Required fields per record |
 |---|---|
@@ -43,13 +43,13 @@ interpretation is not automatically a factual error. Preserve Barbero's argument
 intervention changes it. Evidence sufficiency and editorial permission are separate decisions.
 
 Existing ledgers may be reused after checking their relevance and provenance. Preserve their IDs
-where reused, copy only needed records into the trial, and record their origin. Do not mark copied
+where reused, copy only needed records into the workflow, and record their origin. Do not mark copied
 research newly verified without inspecting its support.
 
 ## `research-review.md`
 
 Audit the dossier once the investigations finish. Record the model/effort, input paths and SHA-256
-hashes of the brief, Italian, and all three trial ledgers, quotation and claim totals, and a verdict
+hashes of the brief, Italian, and all three research ledgers, quotation and claim totals, and a verdict
 of `ready` or `blocked`. Explain treatment-changing findings, unresolved limitations, and proposed
 interventions with their `Q`, `C`, and `SRC` references.
 
@@ -64,7 +64,7 @@ wording, exact excerpt, or clearly signalled paraphrase. Recovery does not requi
 entire long source passage; propose the relevant excerpt with its boundaries and reason. Preserve
 Barbero's alternation between quoted fragments and commentary.
 For every authoritative quotation in the draft or an accepted proposal, record the exact rendered
-spans and their source IDs/locators in this review, including wording approved before the trial.
+spans and their source IDs/locators in this review, including wording approved before the workflow.
 Use that inventory for final quotation checks, not only the new proposals' protected spans.
 
 If any recorded input changes, review its evidence and downstream consequences before refreshing

@@ -1,13 +1,13 @@
 # Source preparation and episode brief
 
-`EPISODE` is an episode directory, `CONFIG` is its `episode.yaml`, and `TRIAL` is its
-`editorial-v2/` subdirectory. Run repository commands from the repository root.
+`EPISODE` is an episode directory, `CONFIG` is its `episode.yaml`, and `EDITORIAL` is its
+`editorial/` subdirectory. Run repository commands from the repository root.
 
 ## Existing episode
 
 Read the episode metadata, transcript, Italian script, chapter map, and existing source decisions.
 Reuse them without rendering or assembling over completed files. Preserve accepted and rejected
-editorial decisions that the user says apply to the trial; record their provenance in the brief.
+editorial decisions that the user says apply to the workflow; record their provenance in the brief.
 An English draft or a completed flag is not evidence that the Italian was checked against audio.
 Keep existing `Q` and `C` identifiers for the same source passages and allocate new IDs after the
 existing sequence. Do not preserve a source marker while assigning its ID to a different target.
@@ -53,7 +53,7 @@ Use the existing CLI only for source preparation:
 | Assemble the settled transcript using the chapter map | `assemble-italian EPISODE` |
 
 Follow the repository's wake-run instructions for long commands. Preserve the generated
-`workflow_version: 2`; that field belongs to the existing CLI. Do not initialize an existing
+`workflow_version`; that field belongs to the CLI. Do not initialize an existing
 episode. `render` writes the transcript and external provider-derived artifacts, so use it only
 when preparing or deliberately updating the source.
 
@@ -85,7 +85,7 @@ utterance once in order. Assemble the Italian script with the command above; nev
 spoken text. Keep fillers, repetitions, dialogue, jokes, and digressions in this authoritative source.
 
 Do not use `init-italian-review` as a verification shortcut: it automatically marks every utterance
-as `reviewed_audio: true`. This trial does not require that legacy checklist. Document only the
+as `reviewed_audio: true`. This workflow does not require that legacy checklist. Document only the
 source review actually performed.
 
 ## Source checks
@@ -98,11 +98,11 @@ fidelity. Check the uncertainty queue against the actual transcription fingerpri
 provider artifacts are available.
 
 For a newly prepared source, `uv run barbero validate EPISODE` can supplement these checks. It is
-the old workflow's validator and does not fully verify source wording or the trial. On an existing
+the CLI validator and does not fully verify source wording or this workflow. On an existing
 episode, distinguish unrelated old downstream findings from source defects; report source defects
-and resolve them before relying on the source. Never describe a legacy pass as trial validation.
+and resolve them before relying on the source. Never describe a legacy pass as workflow checks.
 
-## `TRIAL/brief.md`
+## `EDITORIAL/brief.md`
 
 Keep a compact, durable episode brief containing:
 

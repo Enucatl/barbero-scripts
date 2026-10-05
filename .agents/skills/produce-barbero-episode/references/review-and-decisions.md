@@ -63,8 +63,8 @@ current draft or ledgers. Recheck changed evidence before keeping an accepted pr
 
 ## `decisions.yaml`
 
-Use this trial-specific schema. It is not accepted by the old `apply-content` or
-`apply-listener-review` commands. Paths in `input_hashes` are relative to `TRIAL`.
+Use this workflow-specific schema. It is not accepted by the old `apply-content` or
+`apply-listener-review` commands. Paths in `input_hashes` are relative to `EDITORIAL`.
 
 ```yaml
 schema_version: 1
@@ -99,7 +99,7 @@ Each item has these fields:
 | `decision` | `pending`, `accept`, or `reject` |
 | `decision_note` | User decision and its provenance; null until supplied |
 
-A title target is the entire H1 line; it changes only the trial script, not episode metadata.
+A title target is the entire H1 line; it changes only the recording script, not episode metadata.
 Script targets stay inside one chapter and preserve headings, chapter coverage, and research IDs.
 Use larger context when a short passage is nonunique. Do not create no-op decisions for every
 quotation; the research review records unchanged treatments. Every substantive departure must be
@@ -138,7 +138,7 @@ library plus the repository's PyYAML. Follow this algorithm and report the actua
    differing file and preserve user edits instead of overwriting it. Write a new final only after
    preconditions pass. Do not apply a partial queue or generate final text while decisions are pending.
 
-The absence of a dedicated trial CLI is not permission to skip these checks or describe them as
+The absence of a dedicated workflow CLI is not permission to skip these checks or describe them as
 already automated by the repository. Hashes should come from actual file bytes, not model output.
 
 ## Final review and `verification.md`
@@ -168,8 +168,8 @@ Record:
 Review reports retain their original input hashes. When repairs change a reviewed file, append a
 follow-up identifying the new hashes and findings/dependencies rechecked; do not relabel an old
 report as a new full review. If the scope of change invalidates the whole review, perform it again.
-An unchanged completed trial can resume from current verification rather than repeat production.
+An unchanged completed episode can resume from current verification rather than repeat production.
 
-Report `TRIAL/script.en.md` as the trial recording script. Export to the canonical episode or
+Report `EDITORIAL/script.en.md` as the workflow recording script. Export to the canonical episode or
 publication requires a separately requested integration step because the old validators expect
 the original staged artifacts. Do not change production metadata or claim a preview was built.
