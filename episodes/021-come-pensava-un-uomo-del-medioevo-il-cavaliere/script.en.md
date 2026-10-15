@@ -10,7 +10,7 @@ I've been a little lazy. When we imagine medieval society, we tend to put people
 
 For now, the knight. His name is Jean de Joinville. He's a Frenchman of the thirteenth century, a contemporary of the friar Salimbene whom we met earlier. Strictly speaking, he's rather more than an ordinary knight: he's a great lord, a man who commands other knights. Most knights are gentlemen who live comfortably, with land, servants, and horses, but they serve somebody else. They serve the lord of a castle, a great nobleman who's a knight himself, only a little higher up the ladder.
 
-Joinville is one of those great lords. He owns several castles, and in his lordship he is the public authority. He maintains order, collects taxes, and administers justice. He also holds the office of seneschal of Champagne, a high office in the administration of that region.
+Joinville is one of those great lords. He owns several castles, and in his lordship he is the public authority. He maintains order, collects taxes, and administers justice. He is also a high royal official. For years, Joinville served the king of France as seneschal of Champagne—his administrator and representative in that region.
 
 And with all that, he's still a knight. That means he's been brought up in a particular way and shares a particular set of values. Some of them are the ideals we know from medieval romances, which these men read too: a knight must protect widows and orphans; he must be humble. But when we listen to Joinville talking about himself and his companions, other values come to the fore. Courage in war. Physical bravery, demonstrated in battle when your life is at stake. Loyalty between men who fight together. Honor. These are the things that really matter to him and to the knights who serve him.
 
@@ -32,15 +32,15 @@ So the man we're meeting is a knight who has been on crusade, remembering his ti
 
 If you picture the Middle Ages as a world dominated by religion, Joinville certainly won't disappoint you. For these people, faith is something lived with an intensity that many of us now find difficult to imagine. And that applies well beyond the king, who was, after all, made a saint.
 
-I had thought of giving you the list of all the Masses and divine offices Louis hears every day. Then I realized how long we'd spend just getting through the list. Several Masses, a whole succession of services, some sung and some not, every day of his life. Joinville doesn't claim to live like that. But he still hears Mass every morning. That's how his day begins.
+I had thought of giving you the list of all the Masses and divine offices Louis hears every day. Then I realized how long we'd spend just getting through the list. Several Masses, a whole succession of services, some sung and some not, every day of his life. Joinville is an ordinary knight, an ordinary lord, but he still hears one Mass a day. A Christian’s day, a knight’s day, begins with Mass.
 
 There's a spontaneous familiarity with sacred things, a feeling that they belong to everyday life. Let me give you an example of how these men think.
 
-They're coming home by sea after six years away, after seeing so many of their friends die. On the voyage they stop at Lampedusa. Among the rocks they find an old hermitage. There's a garden where olive trees, fig trees, and vines grow, with water running through it. And there's a little chapel, whitewashed, with a red cross.
+They're coming home by sea after six years away, after seeing so many of their friends die. On the voyage they stop at Lampedusa, which they find deserted. Nobody lives there. But there’s a hermitage: an isolated little house with a garden of fig trees, vines, and olive trees, and a whitewashed chapel with a crucifix.
 
-But there's nobody to greet them. In the next chamber they find two bodies, the flesh gone, the bones of the hands resting on the chests.
+There’s nobody there. In the next room lie two skeletons, the bodies laid out after death and left there—evidently the hermits who lived in the place. Everyone is deeply moved.
 
-They take on fresh water and go back to their ships. When it's time to leave, they discover that a sailor is missing. They wait for him, but he doesn't come back. At last the shipmaster offers an explanation: he must have stayed behind to become a hermit.
+They take on fresh water and return to their ships. When it’s time to leave, they discover that a sailor is missing. They wait and wait, but he doesn’t come back. Finally, those who know him say, “We think he’s stayed behind to become a hermit.”
 
 Think of what that means. Until a few hours ago, this man was making his way home with the rest of them. Who knows what he intended to do when he got there? Then he comes ashore, sees this deserted hermitage, and decides that he'll spend the rest of his life here, serving God. At least, that's how they explain his disappearance. And to them the explanation seems perfectly natural.
 
@@ -48,13 +48,13 @@ They leave three sacks of ship's biscuit on the shore, so he'll have something t
 
 Miracles belong to the same familiar world. If you believe in miracles, if practically everyone around you believes in them, it's quite possible to come away certain you've witnessed one. And that certainty stays with you. After a crusade as catastrophic as this one, the survivors have plenty of reasons to hope for help getting home.
 
-Joinville tells us about a miracle he believes he witnessed on that same voyage. A squire falls from a ship ahead of his. Joinville doesn't see him fall. From the ship behind, all he can see is something floating in the water, so still that it looks like an object that's gone overboard. A bundle, perhaps, rather than a living person. Then the man is rescued, and Joinville can ask him about it. He writes:
+On that same voyage home, Joinville witnesses what he describes as a miracle. A man working aboard the ship ahead of his falls into the sea. From behind, they see something floating motionless. They think it must be a bundle, a piece of furniture—some object that’s fallen overboard.
 
-One of the king's galleys picked him up and brought him to our ship, where he told us how it had happened. I asked him why he had made no effort to save himself, either by swimming or in any other way. He answered that there was no need for him to make any effort, because, as soon as he began to fall, he commended himself to Our Lady of Vauvert, and she supported him by the shoulders from the moment he fell until the king's galley picked him up. In honor of this miracle, I had it painted in my chapel at Joinville and in the windows at Blécourt.
+They lower a boat to retrieve it and discover a sailor, alive and perfectly well. Why wasn’t he swimming, struggling, calling for help? There was no need, he tells them: as he fell, he called on the Virgin. She appeared to him and held him afloat, so he stayed quite calm.
 
-He tells it quite calmly. The story could have ended there.
+Joinville hears this with his own ears. He tells the story almost in passing. It could have ended there.
 
-But then comes that last sentence. He had it painted in his chapel, and in the windows at Blécourt, another village that belongs to him. That tells us how deeply it affected him. He may write as though witnessing a miracle is an ordinary thing, but when it happens to you, you carry it inside you. And because he's the lord of these places, he can have it painted on the walls and put into the windows, so that everyone back home can see it too.
+But in the very next sentence, he says he had the miracle painted in his chapel at Joinville and in the church windows at Blécourt, another village he owns. That tells us how deeply it affected him. He may write as though witnessing a miracle is an ordinary thing, but when it happens to you, you carry it inside you. And because he's the lord of these places, he can have it painted on the walls and put into the windows, so that everyone back home can see it too.
 
 This is the religious world they live in. Religion binds people together; it is shared with tremendous fervor and, very often, with tremendous simplicity.
 
@@ -70,19 +70,17 @@ Louis tells him a story about Cluny, the great Benedictine monastery in Burgundy
 
 You can see the family resemblance. The brothers who haven't gone into the Church take part in tournaments, where they demonstrate their superiority by overcoming an adversary. Their brothers in the clergy also enjoy a contest in which they can prove themselves. So at Cluny, the clerics and the rabbis are preparing to debate.
 
-Joinville writes: He told me that there was a great disputation between clerics and Jews at the monastery of Cluny. There was a knight there to whom the abbot had given bread in the house for God's sake.
+There is an old knight living at the monastery, supported out of charity. That happens quite often. After a lifetime of fighting, a man no longer has the physical strength for it; he may also have had enough of that life. If he owns property, he can give it to a monastery and spend his last years there. If he has nothing, the monks may take him in anyway, as an act of charity. That’s the position of this knight.
 
-This is an old knight living at the monastery, supported out of charity. That happens quite often. After a lifetime of fighting, a man no longer has the physical strength for it; he may also have had enough of that life. If he owns property, he can give it to a monastery and spend his last years there. If he has nothing, the monks may take him in anyway, as an act of charity. That's the position of this knight.
+Just as the debate is about to begin, the knight steps forward and asks to question the rabbi first. The abbot isn’t pleased, but the knight insists, and eventually he gives in.
 
-Joinville continues:
+Leaning on his crutch, the knight asks very courteously, “Master, do you believe that the Virgin Mary gave birth to Our Lord God and remained a virgin?”
 
-He asked the abbot to let him speak first, and permission was granted only reluctantly. Then he rose, leaned on his staff, and asked them to bring him the greatest scholar and foremost master among the Jews, which they did. He asked him this question: 'Master,' said the knight, 'I ask whether you believe that the Virgin Mary, who bore God in her womb and in her arms, gave birth as a virgin and is the mother of God.' The Jew replied that he believed none of it. The knight answered that he had acted like a great fool by entering her monastery and her house when he neither believed in her nor loved her. 'And truly,' said the knight, 'you will pay for it.' Then he raised his crutch, struck the Jew beside the ear, and knocked him to the ground. The Jews fled and carried away their master badly wounded; and that was the end of the disputation.
+The rabbi replies that they don’t believe that at all.
 
-There is the knight's contribution to theological discussion. And in the account Joinville gives us, the saintly king approves. Even allowing a debate like this is dangerous. Suppose the Jewish scholars get the better of the argument? A good Christian in the audience might come away confused, perhaps beginning to doubt. Learned clerics can undertake that risk because they have the knowledge to answer. Laymen, in this view, have no business getting involved in such arguments.
+“You are very wrong,” says the knight. He raises his crutch and deals the rabbi a tremendous blow on the head. The others carry the rabbi away, and that is the end of the debate.
 
-Joinville gives us the king's words:
-
-'And so I tell you,' said the king, 'that no one should dispute with them unless he is a very learned cleric. But when a layman hears the Christian faith spoken ill of, he should defend the Christian faith only with his sword, which he should drive into the offender's belly as far as it can go.'
+Joinville discusses this with the saintly King Louis, and they agree that the knight did exactly the right thing. Even allowing a debate like this is dangerous. Suppose the Jewish scholars get the better of the argument? A good Christian in the audience might come away confused, perhaps beginning to doubt. Learned clerics can undertake that risk because they have the knowledge to answer. Laymen, in this view, have no business getting involved in such arguments. When they hear the Christian faith spoken ill of, the saintly king tells him, they should draw their swords.
 
 Their faith can be spontaneous, passionate, and violent, all at once.
 
@@ -96,11 +94,11 @@ And a faith felt with that intensity can also be very attached to the exact form
 
 Joinville has experienced that himself. We're back on crusade, after the defeat of the army in Egypt. He describes the disaster with extraordinary force: men fleeing, the confusion of the retreat, others surrendering when they have no idea what surrender will mean. It depends on whose hands you fall into. Some captors see a sick or wounded prisoner and kill him; others treat their captives courteously. You cannot know in advance what will happen to you.
 
-Rank makes a difference. A king or a great lord can pay a large ransom, which gives his captors a reason to keep him alive, although even that is no guarantee. And there is something else: Christian and Muslim great lords can recognize something of themselves in one another. They understand the importance of rank, ancestry, and family connections. Even across this divide, they have subjects in common.
+Kings and great lords, though, are always treated very courteously. That goes without saying: they’ll pay a large ransom. But Christian and Muslim great lords also understand one another. They belong to the same world and have plenty to talk about.
 
-Joinville is a prisoner, and the admiral commanding the Egyptian galleys has summoned him. The admiral wants to know about his connection to Emperor Frederick II. They communicate through an interpreter.
+Joinville is a prisoner, and an emir has invited him to lunch. Through an interpreter, they’re chatting cheerfully about their family trees and people they both know. The emir is particularly interested in Emperor Frederick II, and it turns out that Joinville is related to him.
 
-Now Joinville is eating. Another prisoner is brought in, a man from Paris, who looks at him in astonishment.
+While they’re eating, another prisoner comes along—a French man from Paris—and looks at Joinville in astonishment.
 
 “My lord! What are you doing?”
 
@@ -110,11 +108,11 @@ Now Joinville is eating. Another prisoner is brought in, a man from Paris, who l
 
 Joinville pushes his bowl away, horrified. Of course it's Friday. In all the confusion of the battle, the defeat, and his capture, he's lost track of the days. And here he is eating meat.
 
-The admiral has watched this exchange without understanding what's wrong, and asks the interpreter to explain. When he hears the reason, the Muslim gives Joinville a perfectly reassuring answer: God cannot hold it against him. He didn't do it on purpose.
+The emir has watched this exchange without understanding what's wrong, and asks the interpreter to explain. When he hears the reason, the Muslim gives Joinville a perfectly reassuring answer: God cannot hold it against him. He didn't do it on purpose.
 
 But Joinville cannot put it out of his mind. As soon as he has the chance, he consults the papal legate, the pope's representative with the crusading army. He explains what happened, and the legate gives him exactly the same answer as the Muslim: you didn't do it deliberately, so God won't hold it against you. You needn't worry.
 
-Does that settle it? It does not. Joinville still feels that he's done something he must make up for. He begins fasting on bread and water every Friday in Lent. The legate actually gets angry with him over it, but reassurance has not been enough to quiet his conscience.
+Does that settle it? It does not. Joinville still feels that he's done something he must make up for. He begins fasting on bread and water every Friday to purify himself of what he has done.
 
 So these observances matter enormously. His religion is intensely felt and spontaneous, and just as firmly attached to the formal rules.
 
@@ -124,11 +122,11 @@ So these observances matter enormously. His religion is intensely felt and spont
 
 <!-- chapter: CH-005; transcript: U-00198–U-00235 -->
 
-The words you pronounce matter too. This is a curious world, because people constantly have God and the devil on their lips. They swear by God, by God's head, by God's wounds. Everyone has a way of strengthening what he says by calling on some sacred name, and Joinville notices that certain great lords have favorite oaths of their own. The count of Soissons swears by God's cap. That's his expression; he uses it all the time.
+The words you pronounce matter too. This is a curious world, because people constantly have God and the devil on their lips. They swear by God, by God's head, by God's wounds. Everyone has a way of strengthening what he says by calling on some sacred name, and Joinville notices that certain great lords have favorite oaths of their own. One lord swears by God’s cap. That’s his expression; he uses it all the time.
 
-Then there is the devil. Go to the devil; may the devil take you. Joinville thinks this habit is a disgrace to the kingdom of France. Look at the saintly king: in twenty-two years at Louis's side, he says, he never heard him swear by God or the saints, or name the devil except when reading a text that required it. The rest of them do it constantly.
+Then there is the devil. Go to the devil; may the devil take you. Joinville thinks this habit is a disgrace to the kingdom of France. Look at the saintly king: Joinville says he never heard Louis invoke either God or the devil like that. The rest of them do it constantly.
 
-In his own household, Joinville has taken measures. Anyone who uses the devil's name in that way must accept a cuff or a slap. And he says the habit has almost disappeared among his people. He finds this casual invocation of the devil particularly troubling.
+In his own household, Joinville has taken measures. Anyone who lets the devil’s name slip must accept a cuff or a slap. And he says the habit has almost disappeared among his servants. He finds this casual invocation of the devil particularly troubling.
 
 Calling God as witness is a different matter. You may do that to give weight to an assertion or a promise; Joinville has done it himself. But you can get yourself into trouble, because the words have consequences. He tells a story from the crusade, like so many of the stories we're hearing.
 
@@ -171,8 +169,7 @@ served him would be fools.
 Fools! That is how plainly he puts it. Of course we believe he can help us. Why else would we
 serve him? To Joinville, this is perfectly obvious.
 
-There is a contract with God. That is how I would describe the logic; it isn't his expression.
-We serve him, and we expect him to help us. Perhaps you can already see the tension here. The
+There is a contract with God. We serve him, and we expect him to help us. That’s the logic. Perhaps you can already see the tension here. The
 faith is warm, deeply felt, utterly sincere. And at the same time, these men care very much
 about the practical benefits, about the help they hope to receive when they're in difficulty.
 Those things live quite comfortably together in Joinville's mind.
@@ -186,32 +183,15 @@ Those things live quite comfortably together in Joinville's mind.
 Of course, serving God also means making sacrifices. Sometimes enormous sacrifices. Who knows
 that better than Joinville, who spends six years away on crusade?
 
-When Louis sets out, he walks across half his kingdom dressed as a pilgrim, carrying a staff
-and a bag. Joinville doesn't go that far. But before leaving his own country he too goes on
-foot, humbly, to the holy places around his castle. Listen to how he remembers it. A pilgrim's
-scrip is the bag he carries for the journey:
+When Louis sets out, he walks across half his kingdom dressed as a pilgrim, carrying a staff and a bag. Joinville doesn’t go that far. But before leaving, he too humbly visits the churches around his castle on foot, carrying his pilgrim’s staff. He says he never turns back toward Joinville: he doesn’t want to be overcome by the sorrow of leaving his fine castle and his children.
 
-The abbot of Cheminon gave me my pilgrim's scrip and staff; then I departed from Joinville,
-without re-entering the castle until my return, on foot, barefoot, and dressed in wool. In this
-way I went to Blécourt and Saint-Urbain, and to the other holy relics that are there. While I was
-going to Blécourt and Saint-Urbain, I never once wished to turn my eyes back toward Joinville, for
-fear that my heart would soften at the thought of the fine castle I was leaving and of my two
-children.
+Six years pass before he sees them again. So these men certainly make sacrifices.
 
-After that departure, six years pass before he gets home. So when we talk
-about sacrifice, these are men who have actually made it.
+But they keep their common sense. You don’t go on crusade for the pleasure of getting yourself killed. You hope to save your skin and come home. These crusader knights aren’t fanatical martyrs.
 
-But they keep their common sense too. They go on crusade hoping to survive and return. They've
-left things behind that they very much want to see again. And nowhere is that clearer than
-when the army is defeated in Egypt and the survivors are being taken prisoner.
+And that becomes very clear when the army is defeated and the survivors are taken prisoner. Joinville is aboard a ship with his knights, his servants, all his household. They’ve been trying to escape, but the Saracens’ galleys surround them and prepare to board.
 
-Joinville is aboard a ship, with his knights, his servants, all his household. They've been
-trying to escape. Now they see the sultan's galleys coming toward them. Four galleys, carrying
-what Joinville reckons is a thousand men. They aren't going to get away.
-
-He calls his people together. What shall we do? Surrender to the men in the galleys, or to the
-men on shore? They agree on the galleys. At least those captors may keep them together. On
-shore, they fear being split up and sold to the Bedouins.
+What do we do now? They all agree: surrender. There’s absolutely nothing else to be done.
 
 Then one of his servants, a cellarer, objects.
 
@@ -245,12 +225,10 @@ For example, Louis keeps his word even to the Saracens. Of course you should kee
 Joinville thinks—but to those people? And yet he has seen the king do it.
 
 After the capture, there have been long negotiations over the prisoners' ransom. Now the money
-has to be handed over. An enormous payment: two hundred thousand livres before the king can
-leave the river. The money is weighed out in loads, and counting and delivering it takes days.
+has to be handed over. An enormous payment is due: two hundred thousand livres. The money is weighed out in loads, and counting and delivering it takes days.
 A livre is a French unit of account; this is a great deal of money to assemble and transfer.
 
-When they're nearly finished, Philippe de Nemours tells the king that the Saracens have been
-given ten thousand livres too little. The king is furious.
+When they’re nearly finished, Philippe de Nemours arrives looking delighted. “Sire, we cheated them! We gave them ten thousand livres too little, and they didn’t notice.” Everyone is pleased. Everyone except the king.
 
 “I gave my word that they would have two hundred thousand before I left. We will pay two
 hundred thousand.”
@@ -269,10 +247,7 @@ But the king is not taken in. He stays angry.
 
 “Then it was a very bad joke.”
 
-And he orders Philippe, by the loyalty he owes him, to make good any money that hasn't been
-paid. Other people have been urging Louis to get aboard his ship, waiting out at sea. Get out
-of his captors' hands while he can. He won't hear of it. He has promised to stay until the
-money is paid, and he stays.
+“And now I’m going to check that we’ve paid everything. I won’t have that on my conscience.”
 
 You begin to see the difficulty. Joinville is a deeply religious man. He admires Louis, he loves
 him. But working alongside him every day can be exhausting, because Louis takes these
@@ -287,7 +262,7 @@ him when he gets into one of these moods.
 Fortunately, the king has a sense of humor. He can take a joke, which is just as well, because
 Joinville sometimes lets something quite outrageous slip.
 
-At Acre, some Armenian Christians come through the crusader camp on their way to Jerusalem.
+During a truce with the Saracens, some Armenian Christians pass through the crusader camp on pilgrimage to Jerusalem, with the Saracens’ permission.
 They've heard that the holy king is here. Through an interpreter, they ask Joinville whether
 they might see him.
 
@@ -351,15 +326,13 @@ Ten knights may not sound like much. But each knight comes with his armor, his h
 servants. A company like that is already a force worth having. Joinville hires and supports
 his knights; the king, in turn, retains Joinville with his company.
 
-Eventually the term of Joinville's service comes to an end. They're at Caesarea, where Louis
-is having the fortifications strengthened. Joinville goes to the king's quarters and finds
+Eventually the term of Joinville’s service comes to an end, and they need a new contract. Money is tight for the king. They’re at Caesarea, where Louis is having the fortifications strengthened. Joinville goes to the king's quarters and finds
 him talking to the papal legate. Louis gets up, draws him aside, and raises the question.
 
 “I retained you only until Easter. Tell me, what shall I give you to stay with me for another
 year?”
 
-Joinville doesn't ask for an increase. The same pay will do. But he would like to make a
-different sort of bargain as well.
+Joinville is willing to stay at the same pay. But he wants something else in return: a promise that the king won’t get angry with him.
 
 “Whenever somebody asks you for something, you get angry. So I want you to promise that if
 I ask you for something during this year, you won't get
@@ -367,6 +340,8 @@ angry. And if you refuse, I won't get angry either.”
 
 Louis bursts out laughing. Agreed. Then he takes Joinville by the hand, brings him over to the
 legate and the council, and tells them about their bargain.
+
+Money matters to Joinville. He counts it, and he knows what his service is worth. But a nobleman must also know when to make a generous gesture, instead of calculating every last penny. Here he asks for patience rather than more money—and turns a contract negotiation into a joke they can both enjoy.
 
 There are occasions when Louis seems to expect everyone around him to live as he does,
 and that is a great deal to ask.
@@ -385,16 +360,9 @@ the burial trenches himself. <!-- accuracy: [N-008] -->
 Now everybody is mortified. They've all been hanging back, and there is the king, doing the
 work they couldn't bring themselves to do. They rush to help.
 
-Or take the voyage home in 1254. Louis's ship strikes a sandbank near Cyprus and suffers serious
-damage. His advisers urge him to transfer to another vessel with his wife and children.
-The poorer travelers cannot simply pay for another passage. Joinville records the king's answer:
+On the voyage home, Louis’s ship is badly damaged near Cyprus. His advisers urge him to transfer to another vessel with his wife and children. But what about everyone else aboard? Many cannot afford another passage and may never get home.
 
-Then the king said: 'Lords, I have heard your advice and the advice of my people; now I will tell
-you mine. If I leave the ship, there are five hundred people or more aboard who, fearing danger to
-their lives—for there is not one among them who does not love his life as much as I love mine—will
-remain on the island of Cyprus, and who may perhaps never return to their own countries. Therefore
-I would rather place my own person, my wife, and my children in God's hands than inflict such harm
-on so great a number of people as are aboard.'
+Louis refuses. Every one of those people loves their life as much as he loves his. He would rather entrust himself and his family to God than abandon them.
 
 Those people's lives are as dear to them as his is to him. That's an extraordinary thing for
 a king to say. He's thinking about what will happen to ordinary people if he takes the advice
@@ -418,13 +386,13 @@ Joinville doesn't pause to work out what answer a saint might expect.
 
 Thirty! There is no hesitation at all. And he gets a dressing-down he won't forget.
 
-Another time, Louis asks whether Joinville washes the feet of the poor on Maundy Thursday,
-following Christ's example. Joinville's answer is just as immediate.
+On Maundy Thursday, the king washes the feet of the poor, following Christ’s example. Then he goes to Joinville.
 
-“God forbid! I won't wash the feet of those commoners.”
+“You know, washing the feet of the poor is a wonderful thing. You ought to do it too. Why don’t you, Joinville?”
 
-The king tells him he must not disdain something Christ did for their instruction. For the
-love of God, and for love of the king himself, he asks Joinville to make a habit of it.
+“By the faith I owe to God, I will not wash the feet of those commoners!”
+
+Once again, the king is taken aback.
 But that is Joinville. He says what comes into his head,
 even when he's talking to his saintly king. And notice what comes into his head this time:
 those commoners, those villeins. The word tells us something.
@@ -482,18 +450,15 @@ for comparison. Look for yourselves. Is it true or isn't it?
 It's an extremely unpleasant scene. The king intervenes and defends Robert
 as vigorously as he can.
 
-But there's a sequel. Later Louis tells Joinville that he shouldn't have defended Robert
-against him.
+But there’s a sequel. Later, Louis takes Joinville aside.
 
-“I saw him looking so bewildered that he badly needed my help.”
+“Lord of Joinville, I owe you an apology. I defended Master Robert, but you were right. I saw him looking so bewildered, so humiliated, that I couldn’t leave him in that position.”
 
-The king goes on to say that a man should dress well and neatly: his wife will love him more
-for it, and his people will think more highly of him. There should be moderation, of course,
-but fine clothes aren't in themselves a fault.
+For Joinville, this is about inherited standing. He dresses as his father and grandfather dressed. Robert’s wealth and position do not give him the same right. A commoner who rises in the world is still a commoner; he must not presume to put himself on the same level as a nobleman.
 
-This belief that noble families possess a distinction of their own will have a very long
-life. And when somebody who has made a fortune starts behaving like a great lord, he has
-stories to tell about that too.
+That conviction will endure for centuries. Even the French Revolution will not sweep it away. It will take until well into the nineteenth century for this belief in the nobility’s intrinsic superiority to begin to fade.
+
+And when somebody who has made a fortune starts behaving like a great lord, Joinville has stories to tell about that too.
 
 <!-- research: [Q-020] [Q-021] [C-022] [C-023] [C-024] -->
 
@@ -506,48 +471,29 @@ money. Enough to become important people. Enough to buy castles and occupy influ
 at court. For a man like him, that is hard to swallow.
 
 Well, nothing is more entertaining than a story in which one of these men is put back in his
-place. Joinville tells one about the count of Champagne and Artaud de Nogent, a burgess—a townsman
-of common birth. Listen to what happens when a knight without any money comes to court,
-looking for dowries for his daughters:
+place. Joinville tells us about Artaud de Nogent, a very rich townsman at the count of Champagne’s court. An important man. One day, a poor knight comes to ask the count for help: he needs dowries for his daughters.
 
-Artaud de Nogent was the burgess in all the world whom the count trusted most, and he was so rich
-that he built the castle of Nogent-l'Artaud with his own money. [...] At the foot of the steps a
-poor knight came before him, knelt, and said: 'My lord, I beg you for God's sake to give me
-something of yours with which I may marry my two daughters, whom you see here.' Artaud, who was
-walking behind him, said to the poor knight: 'Sir knight, you are behaving discourteously by
-asking my lord, for he has given so much that he has nothing left to give.' The generous count
-turned toward Artaud and said: 'Sir villein, what you say—that I have nothing left to give—is not
-true. I still have you yourself. Here, sir knight: I give him to you, and I will guarantee him to
-you.' The knight was not taken aback; instead he seized Artaud by the cloak and said he would not
-release him until Artaud had settled with him. Before Artaud escaped him, he had settled with the
-knight for five hundred livres.
+Artaud is standing nearby. “Sir knight, why are you asking the count for money? He’s already given away far too much. He has nothing left to give.”
 
-From that point on, it's like taking a prisoner in war. You keep hold of him until you've
-negotiated a ransom. You can imagine the story going around the courts of
-France, and the knights enjoying every word. Yes, a rich townsman may be able to humiliate a
-poor knight. But then the world puts things right again. Everybody remembers where he belongs.
+But the count has heard him.
 
-And sometimes restoring that order involves something more dramatic than money. There can be
-no compromise about the hierarchy itself.
+“Master villein, how dare you say I have nothing left to give? I still have you! Here, sir knight—I give him to you. Do not release him until he has paid a ransom.”
 
-During the crusade, one of the king's sergeants quarrels with a knight in Joinville's company
-and shoves him. A sergeant is an armed man in the king's service. That gives him a position, but
-it does not make him a knight.
+Just as though he’d been captured in battle. You can imagine that story making the rounds of the courts of France, to the delight of the knights. A rich townsman may put a poor knight to shame—but in the end, the world puts things right.
 
-Joinville hears what has happened and is furious. He goes to the king and demands justice. The
-king would rather let the matter drop. It was a shove. But Joinville will not let it drop: if
-the king's servants are allowed to treat knights like this, he will leave the king's service.
+And sometimes it puts things right in much more frightening ways. On this point there can be no compromise: everyone must respect the social hierarchy.
 
-And what does justice require? According to the custom invoked here, a commoner who lays a hand
-on a knight can lose that hand. So this is what has to happen.
+During the crusade, one of the king’s sergeants—an armed man in royal service, something like a policeman—quarrels with one of Joinville’s knights and shoves him.
 
-The sergeant comes barefoot, in his shirt and breeches. He kneels before the knight he shoved.
-He takes a naked sword by the point and offers him the hilt.
+When Joinville hears about it, he’s beside himself. He goes straight to the king and demands justice. A commoner has dared to lay hands on a knight. And what does custom prescribe? His hand must be cut off.
 
-“My lord, forgive me for laying hands on you. Here is the sword. You may cut off my hand.”
+The king would rather not. This is a custom nobody actually enforces—but if Joinville insists, that is the custom.
 
-Only now does Joinville ask the knight to forgive him. And the knight agrees. The sergeant is
-forgiven; he keeps his hand.
+So the sergeant must come barefoot, in his shirt, kneel before the knight he shoved, and beg his pardon.
+
+“Sir knight, I beg your forgiveness. Here is my hand. If you want it, you may cut it off.”
+
+And now everyone joins in. No, come now, forgive him. Let him off. And the knight does forgive him. The sergeant keeps his hand.
 
 But the principle has been established once again.
 
@@ -572,12 +518,7 @@ hard enough to knock him out of the saddle. Now imagine that he knocks you off i
 have to survive the fall and be ready to start again.
 
 Knightly training is an extreme sport, and one that can kill you even while you're learning.
-You cannot suddenly take it up as a grown man. You have to begin young. A medieval poem makes
-the point rather brutally:
-
-Whoever goes on without learning to ride and remains at school until the age of twelve is
-thereafter poorly suited to knighthood: he lacks the strength for it. The unridden schoolboy is
-fit for nothing but the priesthood.
+You cannot suddenly take up this profession as a grown man. You have to begin young. A medieval poem puts it brutally: if you reach twelve without learning to ride, you’re only fit to be a priest, not a knight.
 
 And once you've begun, you keep at it for the rest of your life. Your own honor, your family's
 honor, the respect you expect from other people, your service to your lord and king—all of it
@@ -585,29 +526,11 @@ depends on your ability to do this. It means continual training.
 
 Then there is war itself. Hours and hours in armor, in the heat, in the cold, in the freezing
 cold, with little to eat or drink. The nobles know what they endure, and they remind themselves
-of it. Of course, if we look at an army, there are also infantrymen, servants, all the people
-on foot. They face danger too, and when things go badly they can be among the first to die.
-But in the picture the knights paint of their own profession, it is the knights we see:
-themselves on their horses, wearing their helmets, ready to risk their lives.
+of it. Of course, armies also have infantrymen, servants, all the people on foot. Often they’re the first to be killed when things go badly. But the nobles barely see them. They see themselves, on their horses, in their helmets, risking their lives.
 
-Joinville gives us an extraordinary picture of Louis landing in Egypt. The standard of
-Saint-Denis is the king's battle banner, and the moment Louis hears that it is ashore, he has
-to be there too:
+Joinville gives us an extraordinary picture of Louis landing in Egypt. The king leaps into the sea, helmet on, shield around his neck, lance in hand, and wades ashore.
 
-When the king heard that the standard of Saint-Denis was ashore, he strode rapidly through his
-vessel and would not stop for the legate who was with him. He leapt into the sea, where the water
-came up to his armpits, and went with his shield at his neck, his helmet on his head, and his
-lance in his hand until he reached his men on the seashore. When he came ashore and saw the
-Saracens, he asked what people they were. He was told they were Saracens; he lowered the lance
-beneath his armpit, put his shield before him, and would have charged the Saracens if the worthy
-men with him had allowed it.
-
-Later, at Mansurah, Joinville gives us this portrait:
-
-Never did I see so fine an armed man, for he stood out above all his people from the shoulders
-upward, with a gilded helmet on his head and a German sword in his hand.
-
-<!-- quotation-excerpts: Q-025; landing and later battle portrait separated -->
+Where are the Saracens? He’s ready to charge them on his own. The men around him have to hold him back.
 
 This pride in knightly valor, in being the men who risk their lives as a
 matter of principle and obligation, is what makes their privileges seem deserved to them.
@@ -624,56 +547,17 @@ be deeply shocked.
 
 <!-- chapter: CH-014; transcript: U-00589–U-00649 -->
 
-Joinville tells us about just such an occasion. One of his knights has died. The body is in his
-chapel for the funeral Mass, and the dead man's companions are there. You would think they knew
-how to behave. This is what Joinville remembers:
+One of Joinville’s knights has died, and his companions are keeping watch over the body. Joinville comes in—and finds them laughing. What’s so funny? They’re discussing who will marry the dead man’s wife.
 
-On the eve of Shrove Tuesday I saw a marvel that I wish to recount to you, for that same day Sir
-Hugh of Landricourt, who served under my banner, was buried. While he lay on his bier in my
-chapel, six of my knights were leaning on several sacks full of barley. Because they were talking
-loudly in my chapel and making noise that disturbed the priest, I went to tell them to be quiet,
-and told them it was a disgraceful thing for knights and gentlemen to talk while Mass was being
-sung. They began to laugh at me and told me, laughing, that they were arranging the remarriage of
-his wife. I reproached them and told them that such words were neither good nor proper, and that
-they had quickly forgotten their companion. God took such vengeance on them that the next day was
-the great battle of Shrove Tuesday, in which they were killed or mortally wounded; consequently
-all six of their wives had to remarry.
+Their companion is barely cold, and they’re already finding her another husband. Joinville is appalled.
 
-Courtesy also means knowing how to behave with women. Being elegant, refined, considerate;
-knowing how to conduct yourself in the ladies' chambers, as they sometimes put it. This matters
-in the world Joinville belongs to. And once again, Louis is different from the men around him.
-Here even the king disappoints him.
+And in his eyes, they get their punishment. Before the crusade is over, those knights are dead too, and their own wives have remarried.
 
-Louis's wife, Margaret of Provence, joins them at Sidon during the crusade. Joinville writes:
+Courtesy also means knowing how to behave with women. Here even the king disappoints Joinville. Louis doesn’t think about women at all. Joinville has spent years beside him, yet scarcely hears him mention his wife or children. To Joinville, that aloofness is a fault.
 
-The queen, who had recently recovered from giving birth to Lady Blanche at Jaffa, arrived at Sidon
-by sea. When I heard she had arrived, I rose from before the king, went to meet her, and brought
-her to the castle. When I returned to the king, who was in his chapel, he asked whether the queen
-and the children were well, and I said they were. He said to me: “I know well that when you rose
-from before me, you went to meet the queen; that is why I had the sermon held for you.” I remind
-you of these things because I had already been around him for five years, yet I had never heard
-him speak of the queen or his children, either to me or to anyone else; and it was not good
-conduct, as it seems to me, to be aloof from one's wife and children.
+And then there’s his mother, Blanche of Castile. His father dies when Louis is young, and she governs France during his childhood. He grows up, becomes king in his own right, marries—but his mother is always present and controls everything.
 
-Now, you can imagine what a psychoanalyst might make of Louis's family. He loses his father
-very young and spends years under his mother's guardianship. Blanche of Castile is a formidable
-woman of power. She governs France while he is a child. Then he grows up and takes charge of
-the kingdom himself—but his mother is still there, still a very powerful presence.
-
-And he has to marry. A king needs heirs; marriage isn't something he can simply decide to do
-without. But Blanche doesn't get along with her daughter-in-law, and Joinville describes the
-lengths she goes to in keeping Margaret away from her husband. These are things he finds very
-unpleasant. Listen to his account of their residence in Pontoise:
-
-Queen Blanche's harsh treatment of Queen Margaret went so far that, as much as she could, Blanche
-would not allow her son to be in his wife's company except in the evening, when he went to bed
-with her. The residence where the king and queen most liked to stay was Pontoise, because the
-king's chamber was above and the queen's chamber below. They arranged matters so that they held
-their conversations on a spiral staircase leading from one chamber to the other. They had also
-arranged that when the ushers saw Queen Blanche coming to the chamber of the king, her son, they
-struck the doors with their staffs, and the king came running back to his chamber so that his
-mother would find him there. The ushers of Queen Margaret's chamber did the same when Queen
-Blanche came there, so that she would find Queen Margaret in her chamber.
+At Pontoise, the king’s room is above the queen’s, with a staircase connecting them. They meet on the stairs, while their attendants keep watch. If Blanche approaches, the attendants bang their staffs against the doors. Husband and wife hurry back to their separate rooms, so his mother won’t catch them together.
 
 Then, during the crusade, news arrives from France: Blanche of Castile is dead. Joinville is
 struck by the reactions of both the king and the queen.
@@ -692,9 +576,9 @@ The queen? Crying for her mother-in-law? Joinville says exactly what comes into 
 
 “I'm not crying for her!”
 
-She is crying because of the king's distress. And she is worried about her daughter, left
-behind in France, now in the custody of men.
-But grieving for her mother-in-law? No.
+She’s crying because the king is so distraught. She’s afraid something will happen to him.
+
+But crying for her mother-in-law? Certainly not.
 
 Sometimes this readiness to say whatever comes into their heads can seem almost childlike to us.
 
@@ -713,18 +597,13 @@ But they also play games most of us stop playing when we grow up. Knights and la
 together, they get bored, and they play blind man's buff or hide-and-seek. Nobody finds that
 strange. Adults aren't embarrassed to enjoy themselves like children.
 
-Even on crusade, when you might think they had more serious things to do. Joinville has built
-a room where he and his knights eat by the light coming through the doorway. They sit down
-to their meal, with their pots and glasses on the table.
+Even on crusade, when you might think they had more serious things to do. Joinville and his knights sit down to eat in a room he’s built, with light coming through the doorway.
 
-Across from their dining room are the quarters of the count of Eu. A very ingenious man,
-Joinville tells us. What has this ingenious man been making? A miniature catapult.
+Across from them are the quarters of the count of Eu. A very ingenious man, Joinville tells us. He’s built a miniature catapult.
 
-And what does he do with it? He has somebody watch until Joinville and his knights are all
-sitting at table. Then he aims the catapult through the doorway and fires,
-smashing their pots and glasses.
+He has someone watch until they’re all sitting at the table. Then he fires through the doorway, smashing their pots and glasses.
 
-What an ingenious fellow, the count of Eu! Imagine games like that in today's palaces of power.
+And Joinville tells this story with delight. What a wonderful fellow, the count of Eu! Imagine games like that in today's palaces of power.
 
 Well, we'd better bring this to a close before midnight comes and our coach turns into a
 pumpkin. What have we seen in this chivalric culture? Men who insist that they know how to
@@ -755,10 +634,7 @@ They spur their horses on. The men behind them do the same. Nobody wants the dis
 left behind, so everyone accelerates. What was supposed to be a series of coordinated attacks
 becomes a headlong race.
 
-And it ends terribly. The pursuit carries them into the city streets, where they are trapped.
-Robert is killed, and so are most of those Templars. Shortages, illness, and a failed withdrawal
-will bring the crusade to its final collapse. But already the army has paid a terrible price
-for this race for honor.
+And it ends terribly. The Turks surround them. Robert of Artois is killed, almost all the Templars are killed, and the crusade is lost.
 
 But they are not all simply arrogant men who know nothing
 better. There is a soldier in them too, someone who knows how war works and knows that courage
@@ -781,16 +657,13 @@ During the battle at Mansurah, Joinville and the count of Soissons are helping d
 bridge. They have to hold it. If the enemy gets across, the king's men can be attacked from
 behind as well as from the front.
 
-Other knights and royal sergeants are fighting alongside them. But the attackers keep coming.
-Darts, clods of earth, Greek fire. And all that shouting. <!-- accuracy: [N-015] -->
+Other knights and royal sergeants are fighting alongside them. On the other side of the bridge, the Saracens stop and begin shouting, gnashing their teeth, hurling insults and stones. Arrows whistle past. <!-- accuracy: [N-015] -->
 
-These are great lords, men with good armor, men who have trained to fight all their lives. This
-is the profession they take such pride in. And now they have to stand their ground. They have
-held the attackers so far—but what happens next? How long can they keep holding them?
+Joinville and Soissons have stopped them—for now. But what exactly do they do next? The enemy is right there. The moment they move—
 
-And in the middle of this, the count of Soissons finds time to joke with Joinville.
+And Joinville tells us: the good count of Soissons was teasing me because I was afraid.
 
-“Seneschal, let that pack of dogs howl. For by God's cap!”
+“Seneschal, let that rabble howl. For by God’s cap!”
 
 That was how he swore, Joinville tells us. By God's cap.
 

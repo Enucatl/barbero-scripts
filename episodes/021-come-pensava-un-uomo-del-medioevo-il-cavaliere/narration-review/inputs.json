@@ -1,0 +1,25 @@
+{
+  "created_at": "2026-10-15T06:10:54.802Z",
+  "documents": [
+    {
+      "path": "narration-style.md",
+      "sha256": "d8126c2d1722f1f23e448eb3ff897ae254f21431c992b999402f3ae299aa011c",
+      "bytes": 7426
+    },
+    {
+      "path": "transcript.it.md",
+      "sha256": "efb81fbd1831f47c77b0b11e297e614ba733a5d7fd30160d0c53a519da05fe79",
+      "bytes": 88449
+    },
+    {
+      "path": "script.en.md",
+      "sha256": "a494887fd2772d9388037d2a5a45b56cb62230c7e5fd8e68fcbb1f0afd179f50",
+      "bytes": 54212
+    },
+    {
+      "path": "accuracy-notes.yaml",
+      "sha256": "03c19bbe922c8f8b3d56fd48ac532e0010ba350f6c6e9892b6d6645e3f7a65be",
+      "bytes": 10009
+    }
+  ]
+}

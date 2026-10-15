@@ -1,0 +1,146 @@
+{
+  "chapters": 17,
+  "findings": [
+    {
+      "id": "F-001",
+      "exact_match": true,
+      "whitespace_normalized_match": true,
+      "has_replacement": true
+    },
+    {
+      "id": "F-002",
+      "exact_match": true,
+      "whitespace_normalized_match": true,
+      "has_replacement": false
+    },
+    {
+      "id": "F-003",
+      "exact_match": true,
+      "whitespace_normalized_match": true,
+      "has_replacement": false
+    },
+    {
+      "id": "F-004",
+      "exact_match": true,
+      "whitespace_normalized_match": true,
+      "has_replacement": true
+    },
+    {
+      "id": "F-005",
+      "exact_match": true,
+      "whitespace_normalized_match": true,
+      "has_replacement": false
+    },
+    {
+      "id": "F-006",
+      "exact_match": true,
+      "whitespace_normalized_match": true,
+      "has_replacement": false
+    },
+    {
+      "id": "F-007",
+      "exact_match": true,
+      "whitespace_normalized_match": true,
+      "has_replacement": true
+    },
+    {
+      "id": "F-008",
+      "exact_match": true,
+      "whitespace_normalized_match": true,
+      "has_replacement": false
+    },
+    {
+      "id": "F-009",
+      "exact_match": true,
+      "whitespace_normalized_match": true,
+      "has_replacement": false
+    },
+    {
+      "id": "F-010",
+      "exact_match": false,
+      "whitespace_normalized_match": true,
+      "has_replacement": true
+    },
+    {
+      "id": "F-011",
+      "exact_match": false,
+      "whitespace_normalized_match": true,
+      "has_replacement": true
+    },
+    {
+      "id": "F-012",
+      "exact_match": false,
+      "whitespace_normalized_match": true,
+      "has_replacement": false
+    },
+    {
+      "id": "F-013",
+      "exact_match": false,
+      "whitespace_normalized_match": true,
+      "has_replacement": true
+    },
+    {
+      "id": "F-014",
+      "exact_match": false,
+      "whitespace_normalized_match": true,
+      "has_replacement": true
+    },
+    {
+      "id": "F-015",
+      "exact_match": false,
+      "whitespace_normalized_match": true,
+      "has_replacement": true
+    },
+    {
+      "id": "F-016",
+      "exact_match": false,
+      "whitespace_normalized_match": true,
+      "has_replacement": false
+    },
+    {
+      "id": "F-017",
+      "exact_match": false,
+      "whitespace_normalized_match": true,
+      "has_replacement": true
+    },
+    {
+      "id": "F-018",
+      "exact_match": false,
+      "whitespace_normalized_match": true,
+      "has_replacement": false
+    },
+    {
+      "id": "F-019",
+      "exact_match": false,
+      "whitespace_normalized_match": true,
+      "has_replacement": false
+    },
+    {
+      "id": "F-020",
+      "exact_match": false,
+      "whitespace_normalized_match": true,
+      "has_replacement": false
+    },
+    {
+      "id": "F-021",
+      "exact_match": false,
+      "whitespace_normalized_match": true,
+      "has_replacement": false
+    },
+    {
+      "id": "F-022",
+      "exact_match": false,
+      "whitespace_normalized_match": true,
+      "has_replacement": true
+    }
+  ],
+  "notes": [
+    "No proposed changes applied.",
+    "English excerpts verified; thirteen require whitespace normalization.",
+    "Historical claims and all Italian quotations have not been independently verified.",
+    "F-001 restores live-event references and interprets an ambiguous audience aside; assess suitability for the podcast.",
+    "F-014 relies on N-008, whose 1250/Cyprus description needs verification before accepting the proposed replacement.",
+    "Several proposed edits replace large passages rather than making the smallest correction.",
+    "The reviewer was not supplied quotes.yaml or the underlying historical sources; claims that quotations are verbatim are unverified."
+  ]
+}

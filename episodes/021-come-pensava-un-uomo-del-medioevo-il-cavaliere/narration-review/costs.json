@@ -1,0 +1,36 @@
+{
+  "model": "google/gemini-4-argon",
+  "provider": "Google",
+  "generation_id": "gen-1792044655-w2lxAPgewQhgJwbXmPIK",
+  "currency": "USD",
+  "rows": [
+    {
+      "type": "Uncached input",
+      "tokens": 50492,
+      "price_per_million_tokens": 2,
+      "cost": 0.100984
+    },
+    {
+      "type": "Cached input reads",
+      "tokens": 0,
+      "price_per_million_tokens": 0.09999999999999999,
+      "cost": 0
+    },
+    {
+      "type": "Cache writes",
+      "tokens": 0,
+      "price_per_million_tokens": 0.1875,
+      "cost": 0
+    },
+    {
+      "type": "Output (including any billed reasoning)",
+      "tokens": 20089,
+      "price_per_million_tokens": 10,
+      "cost": 0.20089
+    }
+  ],
+  "total_tokens": 70581,
+  "reported_reasoning_tokens": 0,
+  "total_cost": 0.301874,
+  "confirmed_by_generation_api": true
+}
